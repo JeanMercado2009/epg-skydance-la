@@ -21,180 +21,19 @@
   <channel id="WARNER_MX.mx">
     <display-name>Warner Channel México</display-name>
   </channel>
-  <programme start="20260915172200 -0500" stop="20260915193100 -0500" channel="WARNER_AN.co">
-    <title lang="es">BAYWATCH: GUARDIANES DE LA BAHÍA</title>
-    <desc lang="es">Mitch Buchannon  lidera un equipo de guardavidas de elite que protege las playas de Emerald Bay. Con la ayuda de un nuevo recluta, intentarán dejar al descubierto una trama que involucra tráfico de drogas y negocios inmobiliarios que amenaza la paz de la bahía.</desc>
-  </programme>
-  <programme start="20260915173000 -0600" stop="20260915193600 -0600" channel="WARNER_MX.mx">
-    <title lang="es">BAYWATCH: GUARDIANES DE LA BAHÍA</title>
-    <desc lang="es">Mitch Buchannon  lidera un equipo de guardavidas de elite que protege las playas de Emerald Bay. Con la ayuda de un nuevo recluta, intentarán dejar al descubierto una trama que involucra tráfico de drogas y negocios inmobiliarios que amenaza la paz de la bahía.</desc>
-  </programme>
-  <programme start="20260915192000 -0500" stop="20260915220000 -0500" channel="WARNER_CO.co">
-    <title lang="es">LOS JUEGOS DEL HAMBRE: SINSAJO - EL FINAL</title>
-  </programme>
-  <programme start="20260915193100 -0400" stop="20260915220000 -0400" channel="WARNER_VE.ve">
-    <title lang="es">LOS JUEGOS DEL HAMBRE: SINSAJO - EL FINAL</title>
-  </programme>
-  <programme start="20260915193100 -0500" stop="20260915220000 -0500" channel="WARNER_AN.co">
-    <title lang="es">LOS JUEGOS DEL HAMBRE: SINSAJO - EL FINAL</title>
-  </programme>
-  <programme start="20260915193200 -0300" stop="20260915220000 -0300" channel="WARNER_AR.ar">
-    <title lang="es">LOS JUEGOS DEL HAMBRE: SINSAJO - EL FINAL</title>
-  </programme>
-  <programme start="20260915193600 -0600" stop="20260915220000 -0600" channel="WARNER_MX.mx">
-    <title lang="es">LOS JUEGOS DEL HAMBRE: SINSAJO - EL FINAL</title>
-  </programme>
-  <programme start="20260915193700 -0400" stop="20260915220000 -0400" channel="WARNER_CL.cl">
-    <title lang="es">LOS JUEGOS DEL HAMBRE: SINSAJO - EL FINAL</title>
-  </programme>
-  <programme start="20260915211600 -0300" stop="20260915214100 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE STAG CONVERGENCE</sub-title>
-    <desc lang="pt">Os planos de casamento de Howard são ameaçados quando os rapazes (e Wil Wheaton) lhe preparam uma despedida de solteiro. Depois de detalhes do seu passado sexual vazarem na internet, Bernadette reconsidera sua decisão de se casar com ele.</desc>
-  </programme>
-  <programme start="20260915214100 -0300" stop="20260915220600 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE LAUNCH ACCELERATION</sub-title>
-    <desc lang="pt">Quando a NASA muda a data da missão de Howard e ameaça seus planos de casamento, ele é obrigado a encarar seus medos e o pai de Bernadette (CASEY SANDER). Enquanto isso, Leonard diz algo surpreendente a Penny no quarto.</desc>
-  </programme>
-  <programme start="20260915220000 -0300" stop="20260916000800 -0300" channel="WARNER_AR.ar">
-    <title lang="es">Kong: La Isla Calavera</title>
-    <desc lang="es">Científicos, soldados y aventureros se unen para explorar una isla mítica e inexplorada del Océano Pacífico. Desconectados de todo lo que conocen, se aventuran en las tierras del poderoso Kong, iniciando la batalla definitiva entre el hombre y la naturaleza. Mientras su misión de descubrimiento se convierte pronto en una de supervivencia, deberán luchar para escapar del mundo primitivo al que la humanidad no pertenece.</desc>
-  </programme>
-  <programme start="20260915220000 -0400" stop="20260916000800 -0400" channel="WARNER_CL.cl">
-    <title lang="es">Kong: La Isla Calavera</title>
-    <desc lang="es">Científicos, soldados y aventureros se unen para explorar una isla mítica e inexplorada del Océano Pacífico. Desconectados de todo lo que conocen, se aventuran en las tierras del poderoso Kong, iniciando la batalla definitiva entre el hombre y la naturaleza. Mientras su misión de descubrimiento se convierte pronto en una de supervivencia, deberán luchar para escapar del mundo primitivo al que la humanidad no pertenece.</desc>
-  </programme>
-  <programme start="20260915220000 -0400" stop="20260916001000 -0400" channel="WARNER_VE.ve">
-    <title lang="es">Kong: La Isla Calavera</title>
-    <desc lang="es">Científicos, soldados y aventureros se unen para explorar una isla mítica e inexplorada del Océano Pacífico. Desconectados de todo lo que conocen, se aventuran en las tierras del poderoso Kong, iniciando la batalla definitiva entre el hombre y la naturaleza. Mientras su misión de descubrimiento se convierte pronto en una de supervivencia, deberán luchar para escapar del mundo primitivo al que la humanidad no pertenece.</desc>
-  </programme>
-  <programme start="20260915220000 -0500" stop="20260916001400 -0500" channel="WARNER_CO.co">
-    <title lang="es">Kong: La Isla Calavera</title>
-    <desc lang="es">Científicos, soldados y aventureros se unen para explorar una isla mítica e inexplorada del Océano Pacífico. Desconectados de todo lo que conocen, se aventuran en las tierras del poderoso Kong, iniciando la batalla definitiva entre el hombre y la naturaleza. Mientras su misión de descubrimiento se convierte pronto en una de supervivencia, deberán luchar para escapar del mundo primitivo al que la humanidad no pertenece.</desc>
-  </programme>
-  <programme start="20260915220000 -0500" stop="20260916000700 -0500" channel="WARNER_AN.co">
-    <title lang="es">Kong: La Isla Calavera</title>
-    <desc lang="es">Científicos, soldados y aventureros se unen para explorar una isla mítica e inexplorada del Océano Pacífico. Desconectados de todo lo que conocen, se aventuran en las tierras del poderoso Kong, iniciando la batalla definitiva entre el hombre y la naturaleza. Mientras su misión de descubrimiento se convierte pronto en una de supervivencia, deberán luchar para escapar del mundo primitivo al que la humanidad no pertenece.</desc>
-  </programme>
-  <programme start="20260915220000 -0600" stop="20260916000700 -0600" channel="WARNER_MX.mx">
-    <title lang="es">Kong: La Isla Calavera</title>
-    <desc lang="es">Científicos, soldados y aventureros se unen para explorar una isla mítica e inexplorada del Océano Pacífico. Desconectados de todo lo que conocen, se aventuran en las tierras del poderoso Kong, iniciando la batalla definitiva entre el hombre y la naturaleza. Mientras su misión de descubrimiento se convierte pronto en una de supervivencia, deberán luchar para escapar del mundo primitivo al que la humanidad no pertenece.</desc>
-  </programme>
-  <programme start="20260915220600 -0300" stop="20260915223000 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE COUNTDOWN REFLECTION</sub-title>
-    <desc lang="pt">No último episódio da quinta temporada, Howard e Bernadette decidem se casar antes da viagem dele com a NASA. E a gangue começa a correr com os preparativos.</desc>
-  </programme>
-  <programme start="20260915223000 -0300" stop="20260916003300 -0300" channel="WARNER_BR.br">
-    <title lang="pt">Kong: A Ilha da Caveira</title>
-    <desc lang="pt">Durante a Segunda Guerra Mundial, em 1944, dois pilotos de caça, Hank Marlow e Gunpei Ikari, caem de paraquedas em uma ilha no Pacífico Sul. Eles começam uma luta até serem interrompidos por uma gigantesca criatura: Kong. Já em 1973, um agente do governo dos EUA, Bill Randa, quer bancar uma expedição a tal ilha perdida, pois acredita que o local tem monstros gigantescos que precisam ser monitorados. Depois de arrecadar a verba necessária, ele contrata James Conrad, o ex-capitão do Serviço Aéreo Especial Britânico, para guiar uma expedição em direção à Ilha da Caveira. O grupo ainda será liderado pelo coronel Preston Packard e a fotógrafa Mason Weaver, esta última que acredita que a expedição é uma operação militar secreta.  Ao chegar no local, o esquadrão se depara com o grande macaco, O Rei Kong, e ainda descobre que Marlow sobreviveu e conhece bem a ilha e seus habitantes.</desc>
-  </programme>
-  <programme start="20260916000700 -0500" stop="20260916003100 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916000700 -0600" stop="20260916002900 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916000800 -0300" stop="20260916003100 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916000800 -0400" stop="20260916003100 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916001000 -0400" stop="20260916003300 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916001400 -0500" stop="20260916003600 -0500" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
   <programme start="20260916002900 -0600" stop="20260916005200 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916003100 -0300" stop="20260916005600 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916003100 -0400" stop="20260916005400 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916003100 -0500" stop="20260916005500 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916003300 -0300" stop="20260916005500 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">LAXATIVE TESTER, HORSE INSEMINATOR</sub-title>
-    <desc lang="pt">Alan começa a trabalhar com Evelyn e Charlie tenta acabar com as diferenças entre Chelsea e Jake.</desc>
-  </programme>
-  <programme start="20260916003300 -0400" stop="20260916005700 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916003600 -0500" stop="20260916005900 -0500" channel="WARNER_CO.co">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260916005200 -0600" stop="20260916011200 -0600" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
-  <programme start="20260916005400 -0400" stop="20260916011600 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916005500 -0300" stop="20260916011900 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">FOR THE SAKE OF THE CHILD</sub-title>
-    <desc lang="pt">Jake não aceita passar os finais de semana com Alan e Charlie depois de ser humilhado em público por eles. Agora, os irmãos terão que deixar de lado as diferenças para que Jake volte a ficar com eles nos finais de semana.</desc>
-  </programme>
-  <programme start="20260916005500 -0500" stop="20260916011500 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916005600 -0300" stop="20260916011700 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916005700 -0400" stop="20260916011800 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916005900 -0500" stop="20260916012000 -0500" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
   <programme start="20260916011200 -0600" stop="20260916013500 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916011500 -0500" stop="20260916013900 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916011600 -0400" stop="20260916014000 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916011700 -0300" stop="20260916014200 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916011800 -0400" stop="20260916014200 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916011900 -0300" stop="20260916014100 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">GIVE ME YOUR THUMB</sub-title>
-    <desc lang="pt">Por alguma estranha razão, Alan pede para Chelsea fazer uma plástica de busto e reduzir o tamanho dos seios. Charlie, descontente com idéia, decide dar uma lição no irmão menor.</desc>
-  </programme>
-  <programme start="20260916012000 -0500" stop="20260916014300 -0500" channel="WARNER_CO.co">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260916013500 -0600" stop="20260916015800 -0600" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260916013900 -0500" stop="20260916020300 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916014000 -0400" stop="20260916020400 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916014100 -0300" stop="20260916020400 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">UNTAINTED BY FILTH</sub-title>
-    <desc lang="pt">Charlie e Alan se surpreendem ao acordarem na cama com uma estranha.</desc>
-  </programme>
-  <programme start="20260916014200 -0300" stop="20260916020700 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916014200 -0400" stop="20260916020500 -0400" channel="WARNER_VE.ve">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260916014300 -0500" stop="20260916020600 -0500" channel="WARNER_CO.co">
@@ -206,30 +45,11 @@
   <programme start="20260916020300 -0500" stop="20260916022600 -0500" channel="WARNER_AN.co">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
-  <programme start="20260916020400 -0300" stop="20260916022600 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">GORP. FNARK. SCHMEGLE</sub-title>
-    <desc lang="pt">A atraente ex-companheira de quarto de Chelsea ficará em casa para superar o fim de um relacionamento.</desc>
-  </programme>
-  <programme start="20260916020400 -0400" stop="20260916022700 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916020500 -0400" stop="20260916022800 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
   <programme start="20260916020600 -0500" stop="20260916022900 -0500" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260916020700 -0300" stop="20260916022900 -0300" channel="WARNER_AR.ar">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260916022100 -0600" stop="20260916024300 -0600" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260916022600 -0300" stop="20260916024800 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">CAPTAIN TERRY'S SPRAY-ON HAIR</sub-title>
-    <desc lang="pt">Alan decide estrear um novo penteado antes de sair com uma garota. Chelsea diz para Charlie que ele não a satisfaz sexualmente; pelo menos não como ele imaginava.</desc>
   </programme>
   <programme start="20260916022600 -0500" stop="20260916024800 -0500" channel="WARNER_AN.co">
     <title lang="es">TWO AND A HALF MEN</title>
@@ -240,19 +60,11 @@
   <programme start="20260916022800 -0400" stop="20260916025000 -0400" channel="WARNER_VE.ve">
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
-  <programme start="20260916022900 -0300" stop="20260916025100 -0300" channel="WARNER_AR.ar">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
   <programme start="20260916022900 -0500" stop="20260916025100 -0500" channel="WARNER_CO.co">
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
   <programme start="20260916024300 -0600" stop="20260916030500 -0600" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260916024800 -0300" stop="20260916030800 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE WEEKEND VORTEX</sub-title>
-    <desc lang="pt">Sheldon prefere passar o fim de semana jogando uma maratona de Star Wars só para meninos em vez de acompanhar Amy ao aniversário da tia dela - E aprende uma lição com Penny e Amy.</desc>
   </programme>
   <programme start="20260916024800 -0400" stop="20260916031000 -0400" channel="WARNER_CL.cl">
     <title lang="es">TWO AND A HALF MEN</title>
@@ -263,27 +75,16 @@
   <programme start="20260916025000 -0400" stop="20260916031400 -0400" channel="WARNER_VE.ve">
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
-  <programme start="20260916025100 -0300" stop="20260916031200 -0300" channel="WARNER_AR.ar">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
   <programme start="20260916025100 -0500" stop="20260916031400 -0500" channel="WARNER_CO.co">
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
   <programme start="20260916030500 -0600" stop="20260916032500 -0600" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
-  <programme start="20260916030800 -0300" stop="20260916033100 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE TRANSPORTER MALFUNCTION</sub-title>
-    <desc lang="pt">Sheldon realiza seu sonho e se encontra com seu herói, o Sr. Spock. O lendário ícone da ficção científica LEONARD NIMOY faz uma participação especial, emprestando sua voz a uma reprise única do seu papel três vezes indicado ao Emmy® em Star Trek.</desc>
-  </programme>
   <programme start="20260916031000 -0400" stop="20260916033200 -0400" channel="WARNER_CL.cl">
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
   <programme start="20260916031100 -0500" stop="20260916033300 -0500" channel="WARNER_AN.co">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260916031200 -0300" stop="20260916033400 -0300" channel="WARNER_AR.ar">
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
   <programme start="20260916031400 -0400" stop="20260916033600 -0400" channel="WARNER_VE.ve">
