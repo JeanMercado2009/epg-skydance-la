@@ -18,636 +18,6 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
-  <programme start="20260918234100 -0600" stop="20260919015800 -0600" channel="TNT_MX.mx">
-    <title lang="es">EL JUSTICIERO</title>
-    <desc lang="es">McCall es un ex comando de Operaciones Encubiertas que fingió su propia muerte y dejó su pasado atrás para así empezar una nueva vida más tranquila. Pero cuando conoce a Teri, una joven que se encuentra bajo el control de la mafia rusa, se siente obligado a ayudarla. Armado con habilidades ocultas que le permiten vengarse de quienes dañan a los indefensos, McCall sale del retiro y decide hacer justicia.</desc>
-  </programme>
-  <programme start="20260918234600 -0500" stop="20260919020400 -0500" channel="TNT_CO.co">
-    <title lang="es">EL JUSTICIERO</title>
-    <desc lang="es">McCall es un ex comando de Operaciones Encubiertas que fingió su propia muerte y dejó su pasado atrás para así empezar una nueva vida más tranquila. Pero cuando conoce a Teri, una joven que se encuentra bajo el control de la mafia rusa, se siente obligado a ayudarla. Armado con habilidades ocultas que le permiten vengarse de quienes dañan a los indefensos, McCall sale del retiro y decide hacer justicia.</desc>
-  </programme>
-  <programme start="20260919004600 -0500" stop="20260919030200 -0500" channel="TNT_PAN.co">
-    <title lang="es">EL JUSTICIERO</title>
-    <desc lang="es">McCall es un ex comando de Operaciones Encubiertas que fingió su propia muerte y dejó su pasado atrás para así empezar una nueva vida más tranquila. Pero cuando conoce a Teri, una joven que se encuentra bajo el control de la mafia rusa, se siente obligado a ayudarla. Armado con habilidades ocultas que le permiten vengarse de quienes dañan a los indefensos, McCall sale del retiro y decide hacer justicia.</desc>
-  </programme>
-  <programme start="20260919012700 -0300" stop="20260919033700 -0300" channel="TNT_AR.ar">
-    <title lang="es">EL JUSTICIERO</title>
-    <desc lang="es">McCall es un ex comando de Operaciones Encubiertas que fingió su propia muerte y dejó su pasado atrás para así empezar una nueva vida más tranquila. Pero cuando conoce a Teri, una joven que se encuentra bajo el control de la mafia rusa, se siente obligado a ayudarla. Armado con habilidades ocultas que le permiten vengarse de quienes dañan a los indefensos, McCall sale del retiro y decide hacer justicia.</desc>
-  </programme>
-  <programme start="20260919014500 -0400" stop="20260919034900 -0400" channel="TNT_CL.cl">
-    <title lang="es">EL JUSTICIERO 2</title>
-    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
-  </programme>
-  <programme start="20260919015800 -0600" stop="20260919040300 -0600" channel="TNT_MX.mx">
-    <title lang="es">EL JUSTICIERO 2</title>
-    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
-  </programme>
-  <programme start="20260919020400 -0500" stop="20260919040500 -0500" channel="TNT_CO.co">
-    <title lang="es">EL JUSTICIERO 2</title>
-    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
-  </programme>
-  <programme start="20260919024700 -0300" stop="20260919044800 -0300" channel="TNT_BR.br">
-    <title lang="pt">O PROTETOR 2</title>
-    <desc lang="pt">O Protetor 2 conta a história de Robert McCall (Denzel Washington), um homem que agora trabalha como motorista e ajuda as pessoas que enfrentam dificuldades decorrentes de injustiças, em Massachusetts, Estados Unidos. Quando sua amiga Susan Plummer (Melissa Leo) é morta durante a investigação de um assassinato na Bélgica, ele decide sair do anonimato e encontrar seu antigo parceiro, Dave (Pedro Pascal), no intuito de encontrar pistas sobre o autor do crime.</desc>
-  </programme>
-  <programme start="20260919030200 -0500" stop="20260919050400 -0500" channel="TNT_PAN.co">
-    <title lang="es">EL JUSTICIERO 2</title>
-    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
-  </programme>
-  <programme start="20260919033700 -0300" stop="20260919053600 -0300" channel="TNT_AR.ar">
-    <title lang="es">EL JUSTICIERO 2</title>
-    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
-  </programme>
-  <programme start="20260919034900 -0400" stop="20260919051400 -0400" channel="TNT_CL.cl">
-    <title lang="es">EL CARNICERO</title>
-    <desc lang="es">Un hombre que se gana la vida haciendo desaparecer cadáveres para mafias locales descubre que una de las personas no está muerta y más que nunca debe mantener a su hija a salvo de su siniestra carrera.</desc>
-  </programme>
-  <programme start="20260919040300 -0600" stop="20260919053200 -0600" channel="TNT_MX.mx">
-    <title lang="es">EL CARNICERO</title>
-    <desc lang="es">Un hombre que se gana la vida haciendo desaparecer cadáveres para mafias locales descubre que una de las personas no está muerta y más que nunca debe mantener a su hija a salvo de su siniestra carrera.</desc>
-  </programme>
-  <programme start="20260919040500 -0500" stop="20260919053000 -0500" channel="TNT_CO.co">
-    <title lang="es">EL CARNICERO</title>
-    <desc lang="es">Un hombre que se gana la vida haciendo desaparecer cadáveres para mafias locales descubre que una de las personas no está muerta y más que nunca debe mantener a su hija a salvo de su siniestra carrera.</desc>
-  </programme>
-  <programme start="20260919044800 -0300" stop="20260919052300 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-  </programme>
-  <programme start="20260919050400 -0500" stop="20260919054200 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260919051400 -0400" stop="20260919055100 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260919052300 -0300" stop="20260919060000 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-  </programme>
-  <programme start="20260919053000 -0500" stop="20260919053800 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260919053200 -0600" stop="20260919054500 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260919053600 -0300" stop="20260919054800 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260919053800 -0500" stop="20260919054900 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260919054200 -0500" stop="20260919055500 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260919054500 -0600" stop="20260919060000 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260919054800 -0300" stop="20260919060000 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260919054900 -0500" stop="20260919060000 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260919055100 -0400" stop="20260919060000 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260919055500 -0500" stop="20260919060000 -0500" channel="TNT_PAN.co">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260919060000 -0300" stop="20260919060900 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260919060000 -0300" stop="20260919073100 -0300" channel="TNT_AR.ar">
-    <title lang="es">MUERTE EN UN FUNERAL</title>
-    <desc lang="es">Lidiar con la muerte nunca es algo fácil... principalmente cuando reúnes, en el entierro de tu padre, familiares que están completamente locos. Daniel es un sujeto decente que se encarga de organizar el entierro de su padre. Entra en contacto con parientes y amigos y, en la fatídica mañana, está listo para recibirlos. Pero preservar la dignidad que se espera en una situación como esa será difícil. ¿Qué puede hacer él con un agente funerario que no sabe ejecutar su trabajo, con el retorno de su hermano famoso y egoísta, con el prometido de su prima que tomó drogas accidentalmente, con un idiota que quiere aprovecharse de la tragedia para acostarse con una mujer... y con un enano misterioso al que nadie conoce?</desc>
-  </programme>
-  <programme start="20260919060000 -0400" stop="20260919073900 -0400" channel="TNT_CL.cl">
-    <title lang="es">MEDIO MUERTO</title>
-    <desc lang="es">A la acción le sienta bien el rap. Cada vez más iconos de este género musical se presentan en la pantalla grande, aunque con papeles no demasiado variados: casi todos interpretan a pandilleros. La clave de su inclusión no está sólo en el perfil de los músicos, sino también en su poder de convocatoria. En este caso, las estrellas Ja Rule y Kurupt se unen a Steven Seagal para una película ambientada en Alcatraz: reabierta después de 30 años, la prisión es readaptada por un funcionario de mente criminal. Mientras un asesino condenado trabajaba para él, el personaje de Seagal, que es un agente del FBI infiltrado en el lugar, procura salvar vidas y coartar un plan despiadado. La película fue filmada  en una prisión abandonada de Berlín.</desc>
-  </programme>
-  <programme start="20260919060000 -0500" stop="20260919061000 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260919060000 -0500" stop="20260919061100 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260919060000 -0600" stop="20260919060700 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260919060700 -0600" stop="20260919075000 -0600" channel="TNT_MX.mx">
-    <title lang="es">MEDIO MUERTO</title>
-    <desc lang="es">A la acción le sienta bien el rap. Cada vez más iconos de este género musical se presentan en la pantalla grande, aunque con papeles no demasiado variados: casi todos interpretan a pandilleros. La clave de su inclusión no está sólo en el perfil de los músicos, sino también en su poder de convocatoria. En este caso, las estrellas Ja Rule y Kurupt se unen a Steven Seagal para una película ambientada en Alcatraz: reabierta después de 30 años, la prisión es readaptada por un funcionario de mente criminal. Mientras un asesino condenado trabajaba para él, el personaje de Seagal, que es un agente del FBI infiltrado en el lugar, procura salvar vidas y coartar un plan despiadado. La película fue filmada  en una prisión abandonada de Berlín.</desc>
-  </programme>
-  <programme start="20260919060900 -0300" stop="20260919061700 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260919061000 -0500" stop="20260919061900 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260919061100 -0500" stop="20260919075900 -0500" channel="TNT_PAN.co">
-    <title lang="es">MEDIO MUERTO</title>
-    <desc lang="es">A la acción le sienta bien el rap. Cada vez más iconos de este género musical se presentan en la pantalla grande, aunque con papeles no demasiado variados: casi todos interpretan a pandilleros. La clave de su inclusión no está sólo en el perfil de los músicos, sino también en su poder de convocatoria. En este caso, las estrellas Ja Rule y Kurupt se unen a Steven Seagal para una película ambientada en Alcatraz: reabierta después de 30 años, la prisión es readaptada por un funcionario de mente criminal. Mientras un asesino condenado trabajaba para él, el personaje de Seagal, que es un agente del FBI infiltrado en el lugar, procura salvar vidas y coartar un plan despiadado. La película fue filmada  en una prisión abandonada de Berlín.</desc>
-  </programme>
-  <programme start="20260919061700 -0300" stop="20260919080100 -0300" channel="TNT_BR.br">
-    <title lang="pt">NO CORREDOR DA MORTE</title>
-    <desc lang="pt">A ação e o rap parecem caminhar juntos. Cada vez mais ícones desse gênero musical se apresentam na telona, ainda que com papéis não muito variados - quase todos interpretam criminosos. A razão da inclusão não está somente no perfil dos músicos, mas também no poder que eles têm de atrair o público. Neste caso, os astros Ja Rule e Kurupt se unem a Steven Seagal em um filme ambientado no presídio de Alcatraz - reaberto após 30 anos, o local é tomado por um funcionário de mente criminosa. Enquanto um assassino condenado trabalha para ele, o personagem de Seagal, que é um agente do FBI infiltrado no local, procura salvar vidas e frear um terrível plano. O filme foi realizado em uma prisão abandonada de Berlim.</desc>
-  </programme>
-  <programme start="20260919061900 -0500" stop="20260919080200 -0500" channel="TNT_CO.co">
-    <title lang="es">MEDIO MUERTO</title>
-    <desc lang="es">A la acción le sienta bien el rap. Cada vez más iconos de este género musical se presentan en la pantalla grande, aunque con papeles no demasiado variados: casi todos interpretan a pandilleros. La clave de su inclusión no está sólo en el perfil de los músicos, sino también en su poder de convocatoria. En este caso, las estrellas Ja Rule y Kurupt se unen a Steven Seagal para una película ambientada en Alcatraz: reabierta después de 30 años, la prisión es readaptada por un funcionario de mente criminal. Mientras un asesino condenado trabajaba para él, el personaje de Seagal, que es un agente del FBI infiltrado en el lugar, procura salvar vidas y coartar un plan despiadado. La película fue filmada  en una prisión abandonada de Berlín.</desc>
-  </programme>
-  <programme start="20260919073100 -0300" stop="20260919073500 -0300" channel="TNT_AR.ar">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260919073500 -0300" stop="20260919073800 -0300" channel="TNT_AR.ar">
-    <title lang="es" />
-  </programme>
-  <programme start="20260919073800 -0300" stop="20260919094200 -0300" channel="TNT_AR.ar">
-    <title lang="es">MEGALODÓN 2: EL GRAN ABISMO</title>
-  </programme>
-  <programme start="20260919073900 -0400" stop="20260919075300 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260919075000 -0600" stop="20260919080000 -0600" channel="TNT_MX.mx">
-    <title lang="es" />
-  </programme>
-  <programme start="20260919075300 -0400" stop="20260919080700 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260919075900 -0500" stop="20260919100000 -0500" channel="TNT_PAN.co">
-    <title lang="es">MEGALODÓN 2: EL GRAN ABISMO</title>
-  </programme>
-  <programme start="20260919080000 -0600" stop="20260919100000 -0600" channel="TNT_MX.mx">
-    <title lang="es" />
-  </programme>
-  <programme start="20260919080100 -0300" stop="20260919083300 -0300" channel="TNT_BR.br">
-    <title lang="pt">DE OLHO NA LIGA</title>
-    <desc lang="pt">O De Olho na Liga é um resumo do que aconteceu de mais importante na semana na Liga dos Campeões da Europa. São 30 minutos de revista eletrônica semanal que leva até você os bastidores dos grandes jogos, os personagens mais marcantes das partidas, a festa das torcidas e as histórias por trás dos momentos inesquecíveis da competição de clubes mais importante do mundo.</desc>
-  </programme>
-  <programme start="20260919080200 -0500" stop="20260919100000 -0500" channel="TNT_CO.co">
-    <title lang="es">MEGALODÓN 2: EL GRAN ABISMO</title>
-  </programme>
-  <programme start="20260919080700 -0400" stop="20260919081000 -0400" channel="TNT_CL.cl">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260919081000 -0400" stop="20260919081200 -0400" channel="TNT_CL.cl">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260919081200 -0400" stop="20260919100900 -0400" channel="TNT_CL.cl">
-    <title lang="es">MEGALODÓN 2: EL GRAN ABISMO</title>
-  </programme>
-  <programme start="20260919083300 -0300" stop="20260919110500 -0300" channel="TNT_BR.br">
-    <title lang="pt">KARATE KID</title>
-    <desc lang="pt">Dre Parker, um garoto de 12 anos muda para a China devido ao trabalho da mãe. Logo ao chegar em Pequim, ele se apaixona por sua colega de classe Mei Tin. A aproximação deles provoca a irritação de Cheng, um garoto prodígio no kung fu e o brigão da sala. Sem amigos na cidade, Dre recorre ao zelador de seu prédio que é mestre em kung fu. Han ensina Dre que kung fu é muito mais que socos e habilidades, mas sim maturidade e calma.</desc>
-  </programme>
-  <programme start="20260919094200 -0300" stop="20260919095800 -0300" channel="TNT_AR.ar">
-    <title lang="es" />
-  </programme>
-  <programme start="20260919095800 -0300" stop="20260919124200 -0300" channel="TNT_AR.ar">
-    <title lang="es">EL ORIGEN</title>
-    <desc lang="es">Su mente es la escena del crimen. La superestrella Leonardo DiCaprio protagoniza esta producción contemporánea de ciencia ficción y acción ambientada "dentro de la arquitectura de la mente". Escrita, dirigida y producida por el nominado al Oscar® y al Globo de Oro, Christopher Nolan (Batman: El caballero de la noche, Batman Inicia, El Gran Truco), esta aguardada secuela del multimillonario éxito de taquilla de 2008 es otro cuento visionario de un aclamado realizador que no para de sorprender con sus producciones. Rodado en Londres, París, Tánger, Calgary y Los Ángeles, este instigador thriller de Nolan también cuenta también con los vencedores de los Academy Awards®, Michael Caine y Marion Cotillard, además de la estrella de Juno, Ellen Page; Cillian Murphy, de Batman Inicia, y los nominados al Oscar® Ken Watanabe (El Último Samurái) y Tom Berenger (Pelotón).</desc>
-  </programme>
-  <programme start="20260919100000 -0500" stop="20260919124100 -0500" channel="TNT_CO.co">
-    <title lang="es">EL ORIGEN</title>
-    <desc lang="es">Su mente es la escena del crimen. La superestrella Leonardo DiCaprio protagoniza esta producción contemporánea de ciencia ficción y acción ambientada "dentro de la arquitectura de la mente". Escrita, dirigida y producida por el nominado al Oscar® y al Globo de Oro, Christopher Nolan (Batman: El caballero de la noche, Batman Inicia, El Gran Truco), esta aguardada secuela del multimillonario éxito de taquilla de 2008 es otro cuento visionario de un aclamado realizador que no para de sorprender con sus producciones. Rodado en Londres, París, Tánger, Calgary y Los Ángeles, este instigador thriller de Nolan también cuenta también con los vencedores de los Academy Awards®, Michael Caine y Marion Cotillard, además de la estrella de Juno, Ellen Page; Cillian Murphy, de Batman Inicia, y los nominados al Oscar® Ken Watanabe (El Último Samurái) y Tom Berenger (Pelotón).</desc>
-  </programme>
-  <programme start="20260919100000 -0500" stop="20260919124300 -0500" channel="TNT_PAN.co">
-    <title lang="es">EL ORIGEN</title>
-    <desc lang="es">Su mente es la escena del crimen. La superestrella Leonardo DiCaprio protagoniza esta producción contemporánea de ciencia ficción y acción ambientada "dentro de la arquitectura de la mente". Escrita, dirigida y producida por el nominado al Oscar® y al Globo de Oro, Christopher Nolan (Batman: El caballero de la noche, Batman Inicia, El Gran Truco), esta aguardada secuela del multimillonario éxito de taquilla de 2008 es otro cuento visionario de un aclamado realizador que no para de sorprender con sus producciones. Rodado en Londres, París, Tánger, Calgary y Los Ángeles, este instigador thriller de Nolan también cuenta también con los vencedores de los Academy Awards®, Michael Caine y Marion Cotillard, además de la estrella de Juno, Ellen Page; Cillian Murphy, de Batman Inicia, y los nominados al Oscar® Ken Watanabe (El Último Samurái) y Tom Berenger (Pelotón).</desc>
-  </programme>
-  <programme start="20260919100000 -0600" stop="20260919100500 -0600" channel="TNT_MX.mx">
-    <title lang="es" />
-  </programme>
-  <programme start="20260919100500 -0600" stop="20260919120100 -0600" channel="TNT_MX.mx">
-    <title lang="es">MEGALODÓN 2: EL GRAN ABISMO</title>
-  </programme>
-  <programme start="20260919100900 -0400" stop="20260919124800 -0400" channel="TNT_CL.cl">
-    <title lang="es">EL ORIGEN</title>
-    <desc lang="es">Su mente es la escena del crimen. La superestrella Leonardo DiCaprio protagoniza esta producción contemporánea de ciencia ficción y acción ambientada "dentro de la arquitectura de la mente". Escrita, dirigida y producida por el nominado al Oscar® y al Globo de Oro, Christopher Nolan (Batman: El caballero de la noche, Batman Inicia, El Gran Truco), esta aguardada secuela del multimillonario éxito de taquilla de 2008 es otro cuento visionario de un aclamado realizador que no para de sorprender con sus producciones. Rodado en Londres, París, Tánger, Calgary y Los Ángeles, este instigador thriller de Nolan también cuenta también con los vencedores de los Academy Awards®, Michael Caine y Marion Cotillard, además de la estrella de Juno, Ellen Page; Cillian Murphy, de Batman Inicia, y los nominados al Oscar® Ken Watanabe (El Último Samurái) y Tom Berenger (Pelotón).</desc>
-  </programme>
-  <programme start="20260919110500 -0300" stop="20260919113000 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">O FILHO DO MORDOMO FEZ ISSO</sub-title>
-    <desc lang="pt">Todos adoram o filho de Geoffrey, afastado há muitos anos, que retornou. Mas não é fácil desenvolver um relacionamento e conquistar a confiança das pessoas. Hilary começa escrever sua autobiografia.</desc>
-  </programme>
-  <programme start="20260919113000 -0300" stop="20260919115400 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">LEBRE HOJE...</sub-title>
-    <desc lang="pt">Um reverendo solitário (Richard Roundtree) interpreta a devoção de Vivian à igreja como interesse por ele e tenta se aproximar dela. Phil mata acidentalmente o coelho de estimação de Nicky. Carlton e Ashley competem para fazer um solo na missa de Páscoa.</desc>
-  </programme>
-  <programme start="20260919115400 -0300" stop="20260919121900 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">AÍ ESTÁ</sub-title>
-    <desc lang="pt">Will Smith se despe do personagem para entrevistar os colegas de elenco e, com a ajuda de Dick Clark, mostra vídeos engraçadíssimos de erros de gravação das seis temporadas da série.</desc>
-  </programme>
-  <programme start="20260919120100 -0600" stop="20260919143900 -0600" channel="TNT_MX.mx">
-    <title lang="es">EL ORIGEN</title>
-    <desc lang="es">Su mente es la escena del crimen. La superestrella Leonardo DiCaprio protagoniza esta producción contemporánea de ciencia ficción y acción ambientada "dentro de la arquitectura de la mente". Escrita, dirigida y producida por el nominado al Oscar® y al Globo de Oro, Christopher Nolan (Batman: El caballero de la noche, Batman Inicia, El Gran Truco), esta aguardada secuela del multimillonario éxito de taquilla de 2008 es otro cuento visionario de un aclamado realizador que no para de sorprender con sus producciones. Rodado en Londres, París, Tánger, Calgary y Los Ángeles, este instigador thriller de Nolan también cuenta también con los vencedores de los Academy Awards®, Michael Caine y Marion Cotillard, además de la estrella de Juno, Ellen Page; Cillian Murphy, de Batman Inicia, y los nominados al Oscar® Ken Watanabe (El Último Samurái) y Tom Berenger (Pelotón).</desc>
-  </programme>
-  <programme start="20260919121900 -0300" stop="20260919124000 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA A PRISÃO</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260919124000 -0300" stop="20260919130300 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA A CORLEONE</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260919124100 -0500" stop="20260919142400 -0500" channel="TNT_CO.co">
-    <title lang="es">SULLY</title>
-    <desc lang="es">El 15 de enero de 2009, el mundo fue testigo del ¿Milagro en el Hudson¿ cuando el capitán ¿Sully¿ Sullenberger hizo planear su avión averiado hasta las heladas aguas del Río Hudson, salvando así las vidas de las 155 personas abordo. Sin embargo, incluso mientras Sully era celebrado por el público y los medios por su habilidad sin precedentes como piloto, comenzó a llevarse a cabo una investigación que amenazaba con destruir su reputación y su carrera.</desc>
-  </programme>
-  <programme start="20260919124200 -0300" stop="20260919143200 -0300" channel="TNT_AR.ar">
-    <title lang="es">SULLY</title>
-    <desc lang="es">El 15 de enero de 2009, el mundo fue testigo del ¿Milagro en el Hudson¿ cuando el capitán ¿Sully¿ Sullenberger hizo planear su avión averiado hasta las heladas aguas del Río Hudson, salvando así las vidas de las 155 personas abordo. Sin embargo, incluso mientras Sully era celebrado por el público y los medios por su habilidad sin precedentes como piloto, comenzó a llevarse a cabo una investigación que amenazaba con destruir su reputación y su carrera.</desc>
-  </programme>
-  <programme start="20260919124300 -0500" stop="20260919142800 -0500" channel="TNT_PAN.co">
-    <title lang="es">SULLY</title>
-    <desc lang="es">El 15 de enero de 2009, el mundo fue testigo del ¿Milagro en el Hudson¿ cuando el capitán ¿Sully¿ Sullenberger hizo planear su avión averiado hasta las heladas aguas del Río Hudson, salvando así las vidas de las 155 personas abordo. Sin embargo, incluso mientras Sully era celebrado por el público y los medios por su habilidad sin precedentes como piloto, comenzó a llevarse a cabo una investigación que amenazaba con destruir su reputación y su carrera.</desc>
-  </programme>
-  <programme start="20260919124800 -0400" stop="20260919143200 -0400" channel="TNT_CL.cl">
-    <title lang="es">SULLY</title>
-    <desc lang="es">El 15 de enero de 2009, el mundo fue testigo del ¿Milagro en el Hudson¿ cuando el capitán ¿Sully¿ Sullenberger hizo planear su avión averiado hasta las heladas aguas del Río Hudson, salvando así las vidas de las 155 personas abordo. Sin embargo, incluso mientras Sully era celebrado por el público y los medios por su habilidad sin precedentes como piloto, comenzó a llevarse a cabo una investigación que amenazaba con destruir su reputación y su carrera.</desc>
-  </programme>
-  <programme start="20260919130300 -0300" stop="20260919132700 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA REJEIÇÃO</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260919132700 -0300" stop="20260919135100 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA ELEIÇÕES</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260919135100 -0300" stop="20260919155800 -0300" channel="TNT_BR.br">
-    <title lang="pt">OS BAD BOYS</title>
-    <desc lang="pt">Um carregamento de heroína confiscada, avaliada em um milhão de dólares, foi simplesmente roubado do depósito da polícia. O sumiço das drogas pode destruir as carreiras dos dois detetivese acabar com a divisão de narcóticos do departamento de polícia de Miami. Carros velozes, uma garota e ação sem parar fazem de Os Bad Boys diversão garantida!</desc>
-  </programme>
-  <programme start="20260919142400 -0500" stop="20260919142700 -0500" channel="TNT_CO.co">
-    <title lang="es" />
-  </programme>
-  <programme start="20260919142700 -0500" stop="20260919171100 -0500" channel="TNT_CO.co">
-    <title lang="es">KARATE KID</title>
-    <desc lang="es">Poco después de mudarse de Detroit a Pekín con su madre, Dre, un niño de doce años, es brutalmente atacado por Cheng, un joven bravucón y prodigio del kung fu. Cheng y sus amigos continúan acosando a Dre a diario, hasta que un día el señor Han, el empleado de mantenimiento del edificio donde vive Dre, presencia un ataque y acude a su auxilio, desplegando increíbles habilidades para el kung fu. Han accede a entrenar a Dre para un torneo abierto y le enseña que el kung fu no se trata de golpes y poder, sino de serenidad y madurez.</desc>
-  </programme>
-  <programme start="20260919142800 -0500" stop="20260919143100 -0500" channel="TNT_PAN.co">
-    <title lang="es" />
-  </programme>
-  <programme start="20260919143100 -0500" stop="20260919170700 -0500" channel="TNT_PAN.co">
-    <title lang="es">KARATE KID</title>
-    <desc lang="es">Poco después de mudarse de Detroit a Pekín con su madre, Dre, un niño de doce años, es brutalmente atacado por Cheng, un joven bravucón y prodigio del kung fu. Cheng y sus amigos continúan acosando a Dre a diario, hasta que un día el señor Han, el empleado de mantenimiento del edificio donde vive Dre, presencia un ataque y acude a su auxilio, desplegando increíbles habilidades para el kung fu. Han accede a entrenar a Dre para un torneo abierto y le enseña que el kung fu no se trata de golpes y poder, sino de serenidad y madurez.</desc>
-  </programme>
-  <programme start="20260919143200 -0300" stop="20260919143500 -0300" channel="TNT_AR.ar">
-    <title lang="es" />
-  </programme>
-  <programme start="20260919143200 -0400" stop="20260919143500 -0400" channel="TNT_CL.cl">
-    <title lang="es" />
-  </programme>
-  <programme start="20260919143500 -0300" stop="20260919171500 -0300" channel="TNT_AR.ar">
-    <title lang="es">KARATE KID</title>
-    <desc lang="es">Poco después de mudarse de Detroit a Pekín con su madre, Dre, un niño de doce años, es brutalmente atacado por Cheng, un joven bravucón y prodigio del kung fu. Cheng y sus amigos continúan acosando a Dre a diario, hasta que un día el señor Han, el empleado de mantenimiento del edificio donde vive Dre, presencia un ataque y acude a su auxilio, desplegando increíbles habilidades para el kung fu. Han accede a entrenar a Dre para un torneo abierto y le enseña que el kung fu no se trata de golpes y poder, sino de serenidad y madurez.</desc>
-  </programme>
-  <programme start="20260919143500 -0400" stop="20260919171000 -0400" channel="TNT_CL.cl">
-    <title lang="es">KARATE KID</title>
-    <desc lang="es">Poco después de mudarse de Detroit a Pekín con su madre, Dre, un niño de doce años, es brutalmente atacado por Cheng, un joven bravucón y prodigio del kung fu. Cheng y sus amigos continúan acosando a Dre a diario, hasta que un día el señor Han, el empleado de mantenimiento del edificio donde vive Dre, presencia un ataque y acude a su auxilio, desplegando increíbles habilidades para el kung fu. Han accede a entrenar a Dre para un torneo abierto y le enseña que el kung fu no se trata de golpes y poder, sino de serenidad y madurez.</desc>
-  </programme>
-  <programme start="20260919143900 -0600" stop="20260919162200 -0600" channel="TNT_MX.mx">
-    <title lang="es">SULLY</title>
-    <desc lang="es">El 15 de enero de 2009, el mundo fue testigo del ¿Milagro en el Hudson¿ cuando el capitán ¿Sully¿ Sullenberger hizo planear su avión averiado hasta las heladas aguas del Río Hudson, salvando así las vidas de las 155 personas abordo. Sin embargo, incluso mientras Sully era celebrado por el público y los medios por su habilidad sin precedentes como piloto, comenzó a llevarse a cabo una investigación que amenazaba con destruir su reputación y su carrera.</desc>
-  </programme>
-  <programme start="20260919155800 -0300" stop="20260919174000 -0300" channel="TNT_BR.br">
-    <title lang="pt">SULLY: O HERÓI DO RIO HUDSON</title>
-    <desc lang="pt">Baseado na autobiografia Highest Duty, escrita por Chesley Sullenberger e Jeffrey Zaslow, o filme mostra a história do impressionante bem-sucedido pouso no rio da cidade de Nova York no ano de 2009. O mundo entrou em estado de choque e admiração com o momento em que Capitão Chesley "Sully" Sullenberger tomou uma decisão improvável quando o avião entrou em pane: pousar sob o rio Hudson, adjacente a Manhattan, seis minutos após decolar do Aeroporto LaGuardia. A atitude quase improvável salvou a vida de 155 pessoas, sendo 150 passageiros e cinco tripulantes. Mesmo se tornando um herói nacional, Sully não escapou de uma investigação rigorosa, coordenada pela agência de regulação aérea nos Estados Unidos, para verificar as causas do acidente e até mesmo se o capitão tomou a melhor decisão.</desc>
-  </programme>
-  <programme start="20260919162200 -0600" stop="20260919162500 -0600" channel="TNT_MX.mx">
-    <title lang="es" />
-  </programme>
-  <programme start="20260919162500 -0600" stop="20260919185400 -0600" channel="TNT_MX.mx">
-    <title lang="es">KARATE KID</title>
-    <desc lang="es">Poco después de mudarse de Detroit a Pekín con su madre, Dre, un niño de doce años, es brutalmente atacado por Cheng, un joven bravucón y prodigio del kung fu. Cheng y sus amigos continúan acosando a Dre a diario, hasta que un día el señor Han, el empleado de mantenimiento del edificio donde vive Dre, presencia un ataque y acude a su auxilio, desplegando increíbles habilidades para el kung fu. Han accede a entrenar a Dre para un torneo abierto y le enseña que el kung fu no se trata de golpes y poder, sino de serenidad y madurez.</desc>
-  </programme>
-  <programme start="20260919170700 -0500" stop="20260919192700 -0500" channel="TNT_PAN.co">
-    <title lang="es">BAD BOYS: DOS POLICÍAS REBELDES</title>
-    <desc lang="es">Dos policías de Miami se verán forzados a intercambiar roles, luego de haber sido confundidas sus identidades en un caso criminal por drogas, que implica el robo de una cargamento de heroína por 100 millones de dólares.</desc>
-  </programme>
-  <programme start="20260919171000 -0400" stop="20260919192500 -0400" channel="TNT_CL.cl">
-    <title lang="es">BAD BOYS: DOS POLICÍAS REBELDES</title>
-    <desc lang="es">Dos policías de Miami se verán forzados a intercambiar roles, luego de haber sido confundidas sus identidades en un caso criminal por drogas, que implica el robo de una cargamento de heroína por 100 millones de dólares.</desc>
-  </programme>
-  <programme start="20260919171100 -0500" stop="20260919192700 -0500" channel="TNT_CO.co">
-    <title lang="es">BAD BOYS: DOS POLICÍAS REBELDES</title>
-    <desc lang="es">Dos policías de Miami se verán forzados a intercambiar roles, luego de haber sido confundidas sus identidades en un caso criminal por drogas, que implica el robo de una cargamento de heroína por 100 millones de dólares.</desc>
-  </programme>
-  <programme start="20260919171500 -0300" stop="20260919192900 -0300" channel="TNT_AR.ar">
-    <title lang="es">BAD BOYS: DOS POLICÍAS REBELDES</title>
-    <desc lang="es">Dos policías de Miami se verán forzados a intercambiar roles, luego de haber sido confundidas sus identidades en un caso criminal por drogas, que implica el robo de una cargamento de heroína por 100 millones de dólares.</desc>
-  </programme>
-  <programme start="20260919174000 -0300" stop="20260919195900 -0300" channel="TNT_BR.br">
-    <title lang="pt">O ATAQUE</title>
-    <desc lang="pt">John Cale é um ex-militar que trabalha atualmente na segurança do Congresso Americano. O seu sonho é fazer parte do Serviço Secreto e impressionar Emily, sua filha que tem como maior ídolo o Presidente dos Estados Unidos. Após muito esforço, John consegue uma entrevista para o sonhado posto e leva sua filha para conhecer a Casa Branca. Ele apenas não sabia que o maior símbolo da política americana seria invadido naquele dia por um grupo de terroristas. Em meio a todo o caos que toma conta do lugar, John precisa tomar escolhas difíceis para, ao mesmo tempo, tentar manter o Presidente americano a salvo das ameaças, sua filha a salvo dos extremistas e o país livre desse perigo.</desc>
-  </programme>
-  <programme start="20260919185400 -0600" stop="20260919210500 -0600" channel="TNT_MX.mx">
-    <title lang="es">BAD BOYS: DOS POLICÍAS REBELDES</title>
-    <desc lang="es">Dos policías de Miami se verán forzados a intercambiar roles, luego de haber sido confundidas sus identidades en un caso criminal por drogas, que implica el robo de una cargamento de heroína por 100 millones de dólares.</desc>
-  </programme>
-  <programme start="20260919192500 -0400" stop="20260919220000 -0400" channel="TNT_CL.cl">
-    <title lang="es">EL ATAQUE</title>
-    <desc lang="es">John Cale viaja a Washington D.C. junto a su hija de 11 años, con quien tiene una relación conflictiva, para acudir a una entrevista laboral en la Casa Blanca, ya que quiere formar parte del Servicio Secreto y proteger al presidente James Sawyer. Finalmente no obtiene el trabajo, pero para no decepcionar a su hija, una apasionada de la política, le propone hacer un recorrido por la Casa Blanca. De repente, un grupo paramilitar toma el lugar, y John deberá encargarse de salvar el día.</desc>
-  </programme>
-  <programme start="20260919192700 -0500" stop="20260919220000 -0500" channel="TNT_CO.co">
-    <title lang="es">EL ATAQUE</title>
-    <desc lang="es">John Cale viaja a Washington D.C. junto a su hija de 11 años, con quien tiene una relación conflictiva, para acudir a una entrevista laboral en la Casa Blanca, ya que quiere formar parte del Servicio Secreto y proteger al presidente James Sawyer. Finalmente no obtiene el trabajo, pero para no decepcionar a su hija, una apasionada de la política, le propone hacer un recorrido por la Casa Blanca. De repente, un grupo paramilitar toma el lugar, y John deberá encargarse de salvar el día.</desc>
-  </programme>
-  <programme start="20260919192700 -0500" stop="20260919220000 -0500" channel="TNT_PAN.co">
-    <title lang="es">EL ATAQUE</title>
-    <desc lang="es">John Cale viaja a Washington D.C. junto a su hija de 11 años, con quien tiene una relación conflictiva, para acudir a una entrevista laboral en la Casa Blanca, ya que quiere formar parte del Servicio Secreto y proteger al presidente James Sawyer. Finalmente no obtiene el trabajo, pero para no decepcionar a su hija, una apasionada de la política, le propone hacer un recorrido por la Casa Blanca. De repente, un grupo paramilitar toma el lugar, y John deberá encargarse de salvar el día.</desc>
-  </programme>
-  <programme start="20260919192900 -0300" stop="20260919220000 -0300" channel="TNT_AR.ar">
-    <title lang="es">EL ATAQUE</title>
-    <desc lang="es">John Cale viaja a Washington D.C. junto a su hija de 11 años, con quien tiene una relación conflictiva, para acudir a una entrevista laboral en la Casa Blanca, ya que quiere formar parte del Servicio Secreto y proteger al presidente James Sawyer. Finalmente no obtiene el trabajo, pero para no decepcionar a su hija, una apasionada de la política, le propone hacer un recorrido por la Casa Blanca. De repente, un grupo paramilitar toma el lugar, y John deberá encargarse de salvar el día.</desc>
-  </programme>
-  <programme start="20260919195900 -0300" stop="20260919220000 -0300" channel="TNT_BR.br">
-    <title lang="pt">Megatubarão 2</title>
-    <desc lang="pt">O capitão da Marinha Jonas Taylor (Jason Statham) e sua equipe empreendem uma nova exploração das profundezas do oceano, mas uma operação de mineração ilegal leva o grupo a uma batalha louca pela sobrevivência. Enfrentando megalodontes colossais, criaturas pré-históricas e impiedosos saqueadores do meio ambiente, Jonas, seu companheiro Jiuming (Jing Wu) e o restante da equipe precisam ser mais espertos e nadar melhor do que seus predadores em uma corrida contra o tempo para salvar milhares de vidas.</desc>
-  </programme>
-  <programme start="20260919210500 -0600" stop="20260919232600 -0600" channel="TNT_MX.mx">
-    <title lang="es">EL ATAQUE</title>
-    <desc lang="es">John Cale viaja a Washington D.C. junto a su hija de 11 años, con quien tiene una relación conflictiva, para acudir a una entrevista laboral en la Casa Blanca, ya que quiere formar parte del Servicio Secreto y proteger al presidente James Sawyer. Finalmente no obtiene el trabajo, pero para no decepcionar a su hija, una apasionada de la política, le propone hacer un recorrido por la Casa Blanca. De repente, un grupo paramilitar toma el lugar, y John deberá encargarse de salvar el día.</desc>
-  </programme>
-  <programme start="20260919220000 -0300" stop="20260920001700 -0300" channel="TNT_BR.br">
-    <title lang="pt">O PROTETOR</title>
-    <desc lang="pt">Robert McCall é um ex-agente secreto que abandona seu emprego na CIA após prometer isso à esposa em seu leito de morte. Morando em Boston, Massachusetts, ele está decidido a levar uma vida pacata e tranquila e arruma em uma loja de ferragens. Sem conseguir dormir, ele passa as noites lendo O Velho e o Mar em um restaurante noturno e é lá que ele conhece Teri, uma prostituta adolescente que está nas mãos de gângsteres russos ultraviolentos. Quando ela é hospitalizada após levar uma surra brutal de seu cafetão, Robert decide usar suas habilidades para ajudar a garota e enfrentar os mafiosos para resgatá-la. Ele, que acreditava ter superado o passado, passa a ser inspirado a continuar usando seu conhecimento para ajudar pessoas necessitadas.</desc>
-  </programme>
-  <programme start="20260919220000 -0300" stop="20260920001100 -0300" channel="TNT_AR.ar">
-    <title lang="es">RELATOS SALVAJES</title>
-    <desc lang="es">Seis historias diferentes. En la primera, todos los pasajeros de un avión se dan cuenta de que están relacionados con la misma persona. En la segunda, la camarera y la cocinera de un restaurant planean una venganza. En la tercera, dos conductores en la ruta convierten una simple disputa en una pelea mortal. En la cuarta, un experto en demoliciones harto de que le lleven el auto llega al límite. En la quinta, un padre adinerado intenta desvincular a su hijo de un atropello con fuga. En la sexta, una novia en su casamiento se entera de que su marido la engaña.</desc>
-  </programme>
-  <programme start="20260919220000 -0400" stop="20260920003500 -0400" channel="TNT_CL.cl">
-    <title lang="es">EL JUSTICIERO</title>
-    <desc lang="es">McCall es un ex comando de Operaciones Encubiertas que fingió su propia muerte y dejó su pasado atrás para así empezar una nueva vida más tranquila. Pero cuando conoce a Teri, una joven que se encuentra bajo el control de la mafia rusa, se siente obligado a ayudarla. Armado con habilidades ocultas que le permiten vengarse de quienes dañan a los indefensos, McCall sale del retiro y decide hacer justicia.</desc>
-  </programme>
-  <programme start="20260919220000 -0500" stop="20260920003400 -0500" channel="TNT_CO.co">
-    <title lang="es">EL JUSTICIERO</title>
-    <desc lang="es">McCall es un ex comando de Operaciones Encubiertas que fingió su propia muerte y dejó su pasado atrás para así empezar una nueva vida más tranquila. Pero cuando conoce a Teri, una joven que se encuentra bajo el control de la mafia rusa, se siente obligado a ayudarla. Armado con habilidades ocultas que le permiten vengarse de quienes dañan a los indefensos, McCall sale del retiro y decide hacer justicia.</desc>
-  </programme>
-  <programme start="20260919220000 -0500" stop="20260920003000 -0500" channel="TNT_PAN.co">
-    <title lang="es">EL JUSTICIERO</title>
-    <desc lang="es">McCall es un ex comando de Operaciones Encubiertas que fingió su propia muerte y dejó su pasado atrás para así empezar una nueva vida más tranquila. Pero cuando conoce a Teri, una joven que se encuentra bajo el control de la mafia rusa, se siente obligado a ayudarla. Armado con habilidades ocultas que le permiten vengarse de quienes dañan a los indefensos, McCall sale del retiro y decide hacer justicia.</desc>
-  </programme>
-  <programme start="20260919232600 -0600" stop="20260920014800 -0600" channel="TNT_MX.mx">
-    <title lang="es">EL JUSTICIERO</title>
-    <desc lang="es">McCall es un ex comando de Operaciones Encubiertas que fingió su propia muerte y dejó su pasado atrás para así empezar una nueva vida más tranquila. Pero cuando conoce a Teri, una joven que se encuentra bajo el control de la mafia rusa, se siente obligado a ayudarla. Armado con habilidades ocultas que le permiten vengarse de quienes dañan a los indefensos, McCall sale del retiro y decide hacer justicia.</desc>
-  </programme>
-  <programme start="20260920001100 -0300" stop="20260920005100 -0300" channel="TNT_AR.ar">
-    <title lang="es">CAUTIVA</title>
-    <desc lang="es">2013. Clara llega a casa de su madre en shock tras huir del convento. Años antes, su ingreso revela las primeras sombras de un entorno opresivo.</desc>
-  </programme>
-  <programme start="20260920001700 -0300" stop="20260920022600 -0300" channel="TNT_BR.br">
-    <title lang="pt">O PROTETOR 2</title>
-    <desc lang="pt">O Protetor 2 conta a história de Robert McCall (Denzel Washington), um homem que agora trabalha como motorista e ajuda as pessoas que enfrentam dificuldades decorrentes de injustiças, em Massachusetts, Estados Unidos. Quando sua amiga Susan Plummer (Melissa Leo) é morta durante a investigação de um assassinato na Bélgica, ele decide sair do anonimato e encontrar seu antigo parceiro, Dave (Pedro Pascal), no intuito de encontrar pistas sobre o autor do crime.</desc>
-  </programme>
-  <programme start="20260920003000 -0500" stop="20260920003300 -0500" channel="TNT_PAN.co">
-    <title lang="es" />
-  </programme>
-  <programme start="20260920003300 -0500" stop="20260920023900 -0500" channel="TNT_PAN.co">
-    <title lang="es">EL JUSTICIERO 2</title>
-    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
-  </programme>
-  <programme start="20260920003400 -0500" stop="20260920003700 -0500" channel="TNT_CO.co">
-    <title lang="es" />
-  </programme>
-  <programme start="20260920003500 -0400" stop="20260920003800 -0400" channel="TNT_CL.cl">
-    <title lang="es" />
-  </programme>
-  <programme start="20260920003700 -0500" stop="20260920024200 -0500" channel="TNT_CO.co">
-    <title lang="es">EL JUSTICIERO 2</title>
-    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
-  </programme>
-  <programme start="20260920003800 -0400" stop="20260920024600 -0400" channel="TNT_CL.cl">
-    <title lang="es">EL JUSTICIERO 2</title>
-    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
-  </programme>
-  <programme start="20260920005100 -0300" stop="20260920013000 -0300" channel="TNT_AR.ar">
-    <title lang="es">CAUTIVA</title>
-    <desc lang="es">2013. Clara llega a casa de su madre en shock tras huir del convento. Años antes, su ingreso revela las primeras sombras de un entorno opresivo.</desc>
-  </programme>
-  <programme start="20260920013000 -0300" stop="20260920032900 -0300" channel="TNT_AR.ar">
-    <title lang="es">EL JUSTICIERO 2</title>
-    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
-  </programme>
-  <programme start="20260920014800 -0600" stop="20260920015100 -0600" channel="TNT_MX.mx">
-    <title lang="es" />
-  </programme>
-  <programme start="20260920015100 -0600" stop="20260920035500 -0600" channel="TNT_MX.mx">
-    <title lang="es">EL JUSTICIERO 2</title>
-    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
-  </programme>
-  <programme start="20260920022600 -0300" stop="20260920044700 -0300" channel="TNT_BR.br">
-    <title lang="pt">A ORIGEM</title>
-    <desc lang="pt">Em um mundo onde é possível entrar na mente humana, Cobb está entre os melhores na arte de roubar segredos valiosos do inconsciente, durante o estado de sono. Além disto ele é um fugitivo, pois está impedido de retornar aos Estados Unidos devido à morte de Mal. Mas agora foi-lhe oferecida uma oportunidade para se redimir. Um último trabalho pode devolver-lhe a sua antiga vida. Em vez do assalto perfeito, Cobb e a sua equipe de especialistas tem que fazer exatamente o inverso: instalar uma ideia na mente de alguém. Se tiverem sucesso, poderá ser o crime perfeito.</desc>
-  </programme>
-  <programme start="20260920023900 -0500" stop="20260920041500 -0500" channel="TNT_PAN.co">
-    <title lang="es">MANOS A LAS ARMAS</title>
-    <desc lang="es">El apacible Miles se encuentra involucrado en un sitio web de una red oscura que designa a extraños a pelear a muerte, mientras todo esto se ve por streaming con un público mundial sediento de sangre.</desc>
-  </programme>
-  <programme start="20260920024200 -0500" stop="20260920041700 -0500" channel="TNT_CO.co">
-    <title lang="es">MANOS A LAS ARMAS</title>
-    <desc lang="es">El apacible Miles se encuentra involucrado en un sitio web de una red oscura que designa a extraños a pelear a muerte, mientras todo esto se ve por streaming con un público mundial sediento de sangre.</desc>
-  </programme>
-  <programme start="20260920024600 -0400" stop="20260920042400 -0400" channel="TNT_CL.cl">
-    <title lang="es">MANOS A LAS ARMAS</title>
-    <desc lang="es">El apacible Miles se encuentra involucrado en un sitio web de una red oscura que designa a extraños a pelear a muerte, mientras todo esto se ve por streaming con un público mundial sediento de sangre.</desc>
-  </programme>
-  <programme start="20260920032900 -0300" stop="20260920050200 -0300" channel="TNT_AR.ar">
-    <title lang="es">EL MISTERIO DE LA FELICIDAD</title>
-  </programme>
-  <programme start="20260920035500 -0600" stop="20260920053400 -0600" channel="TNT_MX.mx">
-    <title lang="es">MANOS A LAS ARMAS</title>
-    <desc lang="es">El apacible Miles se encuentra involucrado en un sitio web de una red oscura que designa a extraños a pelear a muerte, mientras todo esto se ve por streaming con un público mundial sediento de sangre.</desc>
-  </programme>
-  <programme start="20260920041500 -0500" stop="20260920055000 -0500" channel="TNT_PAN.co">
-    <title lang="es">INSTINTO PREDADOR</title>
-    <desc lang="es">Frank Walsh (Nicolas Cage) es un cazador que protege a animales capturados en el Amazonas. Durante un viaje en barco, Walsh descubre que a bordo también está un peligroso asesino (Kevin Durand), lo cual pone a todos en peligro.</desc>
-  </programme>
-  <programme start="20260920041700 -0500" stop="20260920060000 -0500" channel="TNT_CO.co">
-    <title lang="es">SIN LÍMITES</title>
-    <desc lang="es">Al enfrentar el desempleo y el rechazo de su novia, el escritor Eddie Morra está seguro de que no tiene futuro. Todo eso cambia cuando un viejo amigo le da una droga que produce una mayor agudeza mental. Avivado por el químico, que no ha sido analizado, Eddie asciende a la cima del mundo financiero y atrae la atención de un magnate que intenta usarlo para hacer una fortuna. Pero los terribles efectos secundarios y un abastecimiento decreciente amenazan con hacer caer el castillo de naipes de Eddie.</desc>
-  </programme>
-  <programme start="20260920042400 -0400" stop="20260920050000 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260920044700 -0300" stop="20260920052200 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-  </programme>
-  <programme start="20260920050000 -0400" stop="20260920053500 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260920050200 -0300" stop="20260920053700 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260920052200 -0300" stop="20260920060000 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-  </programme>
-  <programme start="20260920053400 -0600" stop="20260920054400 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260920053500 -0400" stop="20260920054500 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260920053700 -0300" stop="20260920054900 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260920054400 -0600" stop="20260920060000 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260920054500 -0400" stop="20260920060000 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260920054900 -0300" stop="20260920060000 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260920055000 -0500" stop="20260920060000 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260920060000 -0300" stop="20260920063500 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-  </programme>
-  <programme start="20260920060000 -0300" stop="20260920075300 -0300" channel="TNT_AR.ar">
-    <title lang="es">EL JUEGO DEL CRIMEN</title>
-    <desc lang="es">En 1971, Terry (Jason Statham) es reclutado para robar un banco en Londres. El objetivo es recuperar fotografías comprometedoras de la realeza escondidas en una bóveda, desencadenando eventos que sacan a la luz secretos peligrosos.</desc>
-  </programme>
-  <programme start="20260920060000 -0400" stop="20260920072800 -0400" channel="TNT_CL.cl">
-    <title lang="es">MISFITS</title>
-    <desc lang="es">Luego de escapar de una cárcel de máxima seguridad, el famoso delincuente Richard Pace (Pierce Brosnan) es reclutado por una banda de ladrones al estilo Robin Hood para realizar el robo más importante del siglo y de paso desfinanciar a grupos terroristas a nivel mundial. Del director de "Duro de Matar 2" y con la participación de Tim Roth.</desc>
-  </programme>
-  <programme start="20260920060000 -0500" stop="20260920075000 -0500" channel="TNT_CO.co">
-    <title lang="es">EL JUEGO DEL CRIMEN</title>
-    <desc lang="es">En 1971, Terry (Jason Statham) es reclutado para robar un banco en Londres. El objetivo es recuperar fotografías comprometedoras de la realeza escondidas en una bóveda, desencadenando eventos que sacan a la luz secretos peligrosos.</desc>
-  </programme>
-  <programme start="20260920060000 -0500" stop="20260920060200 -0500" channel="TNT_PAN.co">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260920060000 -0600" stop="20260920064200 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260920060200 -0500" stop="20260920075300 -0500" channel="TNT_PAN.co">
-    <title lang="es">SIN LÍMITES</title>
-    <desc lang="es">Al enfrentar el desempleo y el rechazo de su novia, el escritor Eddie Morra está seguro de que no tiene futuro. Todo eso cambia cuando un viejo amigo le da una droga que produce una mayor agudeza mental. Avivado por el químico, que no ha sido analizado, Eddie asciende a la cima del mundo financiero y atrae la atención de un magnate que intenta usarlo para hacer una fortuna. Pero los terribles efectos secundarios y un abastecimiento decreciente amenazan con hacer caer el castillo de naipes de Eddie.</desc>
-  </programme>
-  <programme start="20260920063500 -0300" stop="20260920064900 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260920064200 -0600" stop="20260920065000 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260920064900 -0300" stop="20260920070100 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260920065000 -0600" stop="20260920070000 -0600" channel="TNT_MX.mx">
-    <title lang="es" />
-  </programme>
-  <programme start="20260920070000 -0600" stop="20260920090000 -0600" channel="TNT_MX.mx">
-    <title lang="es" />
-  </programme>
-  <programme start="20260920070100 -0300" stop="20260920092300 -0300" channel="TNT_BR.br">
-    <title lang="pt">KARATE KID</title>
-    <desc lang="pt">Dre Parker, um garoto de 12 anos muda para a China devido ao trabalho da mãe. Logo ao chegar em Pequim, ele se apaixona por sua colega de classe Mei Tin. A aproximação deles provoca a irritação de Cheng, um garoto prodígio no kung fu e o brigão da sala. Sem amigos na cidade, Dre recorre ao zelador de seu prédio que é mestre em kung fu. Han ensina Dre que kung fu é muito mais que socos e habilidades, mas sim maturidade e calma.</desc>
-  </programme>
-  <programme start="20260920072800 -0400" stop="20260920080600 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260920075000 -0500" stop="20260920080300 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260920075300 -0300" stop="20260920081100 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260920075300 -0500" stop="20260920093800 -0500" channel="TNT_PAN.co">
-    <title lang="es">SULLY</title>
-    <desc lang="es">El 15 de enero de 2009, el mundo fue testigo del ¿Milagro en el Hudson¿ cuando el capitán ¿Sully¿ Sullenberger hizo planear su avión averiado hasta las heladas aguas del Río Hudson, salvando así las vidas de las 155 personas abordo. Sin embargo, incluso mientras Sully era celebrado por el público y los medios por su habilidad sin precedentes como piloto, comenzó a llevarse a cabo una investigación que amenazaba con destruir su reputación y su carrera.</desc>
-  </programme>
-  <programme start="20260920080300 -0500" stop="20260920081500 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260920080600 -0400" stop="20260920094900 -0400" channel="TNT_CL.cl">
-    <title lang="es">SULLY</title>
-    <desc lang="es">El 15 de enero de 2009, el mundo fue testigo del ¿Milagro en el Hudson¿ cuando el capitán ¿Sully¿ Sullenberger hizo planear su avión averiado hasta las heladas aguas del Río Hudson, salvando así las vidas de las 155 personas abordo. Sin embargo, incluso mientras Sully era celebrado por el público y los medios por su habilidad sin precedentes como piloto, comenzó a llevarse a cabo una investigación que amenazaba con destruir su reputación y su carrera.</desc>
-  </programme>
-  <programme start="20260920081100 -0300" stop="20260920095800 -0300" channel="TNT_AR.ar">
-    <title lang="es">SULLY</title>
-    <desc lang="es">El 15 de enero de 2009, el mundo fue testigo del ¿Milagro en el Hudson¿ cuando el capitán ¿Sully¿ Sullenberger hizo planear su avión averiado hasta las heladas aguas del Río Hudson, salvando así las vidas de las 155 personas abordo. Sin embargo, incluso mientras Sully era celebrado por el público y los medios por su habilidad sin precedentes como piloto, comenzó a llevarse a cabo una investigación que amenazaba con destruir su reputación y su carrera.</desc>
-  </programme>
-  <programme start="20260920081500 -0500" stop="20260920095400 -0500" channel="TNT_CO.co">
-    <title lang="es">SULLY</title>
-    <desc lang="es">El 15 de enero de 2009, el mundo fue testigo del ¿Milagro en el Hudson¿ cuando el capitán ¿Sully¿ Sullenberger hizo planear su avión averiado hasta las heladas aguas del Río Hudson, salvando así las vidas de las 155 personas abordo. Sin embargo, incluso mientras Sully era celebrado por el público y los medios por su habilidad sin precedentes como piloto, comenzó a llevarse a cabo una investigación que amenazaba con destruir su reputación y su carrera.</desc>
-  </programme>
-  <programme start="20260920090000 -0600" stop="20260920091000 -0600" channel="TNT_MX.mx">
-    <title lang="es" />
-  </programme>
-  <programme start="20260920091000 -0600" stop="20260920093000 -0600" channel="TNT_MX.mx">
-    <title lang="es" />
-  </programme>
-  <programme start="20260920092300 -0300" stop="20260920094700 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA MENTIROSO</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260920093000 -0600" stop="20260920113000 -0600" channel="TNT_MX.mx">
-    <title lang="es" />
-  </programme>
-  <programme start="20260920093800 -0500" stop="20260920115700 -0500" channel="TNT_PAN.co">
-    <title lang="es">UNA TORMENTA PERFECTA</title>
-    <desc lang="es">Un grupo de pescadores vive una angustiante aventura luego de ser atrapados por una furiosa tempestad, ahí es cuando tendrán que luchar por sus vidas hasta llegar a un puerto seguro.</desc>
-  </programme>
-  <programme start="20260920094700 -0300" stop="20260920101100 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA O MALVO</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260920094900 -0400" stop="20260920120700 -0400" channel="TNT_CL.cl">
-    <title lang="es">UNA TORMENTA PERFECTA</title>
-    <desc lang="es">Un grupo de pescadores vive una angustiante aventura luego de ser atrapados por una furiosa tempestad, ahí es cuando tendrán que luchar por sus vidas hasta llegar a un puerto seguro.</desc>
-  </programme>
-  <programme start="20260920095400 -0500" stop="20260920121400 -0500" channel="TNT_CO.co">
-    <title lang="es">UNA TORMENTA PERFECTA</title>
-    <desc lang="es">Un grupo de pescadores vive una angustiante aventura luego de ser atrapados por una furiosa tempestad, ahí es cuando tendrán que luchar por sus vidas hasta llegar a un puerto seguro.</desc>
-  </programme>
-  <programme start="20260920095800 -0300" stop="20260920122000 -0300" channel="TNT_AR.ar">
-    <title lang="es">UNA TORMENTA PERFECTA</title>
-    <desc lang="es">Un grupo de pescadores vive una angustiante aventura luego de ser atrapados por una furiosa tempestad, ahí es cuando tendrán que luchar por sus vidas hasta llegar a un puerto seguro.</desc>
-  </programme>
-  <programme start="20260920101100 -0300" stop="20260920103500 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA SISTEMA DE DUPLAS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260920103500 -0300" stop="20260920105800 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA PROMESSAS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260920105800 -0300" stop="20260920112000 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA A PRISÃO</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260920112000 -0300" stop="20260920114200 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA A CORLEONE</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260920113000 -0600" stop="20260920114500 -0600" channel="TNT_MX.mx">
-    <title lang="es" />
-  </programme>
-  <programme start="20260920114200 -0300" stop="20260920120600 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA REJEIÇÃO</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
   <programme start="20260920114500 -0600" stop="20260920141000 -0600" channel="TNT_MX.mx">
     <title lang="es">KARATE KID</title>
     <desc lang="es">Poco después de mudarse de Detroit a Pekín con su madre, Dre, un niño de doce años, es brutalmente atacado por Cheng, un joven bravucón y prodigio del kung fu. Cheng y sus amigos continúan acosando a Dre a diario, hasta que un día el señor Han, el empleado de mantenimiento del edificio donde vive Dre, presencia un ataque y acude a su auxilio, desplegando increíbles habilidades para el kung fu. Han accede a entrenar a Dre para un torneo abierto y le enseña que el kung fu no se trata de golpes y poder, sino de serenidad y madurez.</desc>
@@ -656,11 +26,6 @@
     <title lang="es">BAD BOYS: DOS POLICÍAS REBELDES</title>
     <desc lang="es">Dos policías de Miami se verán forzados a intercambiar roles, luego de haber sido confundidas sus identidades en un caso criminal por drogas, que implica el robo de una cargamento de heroína por 100 millones de dólares.</desc>
   </programme>
-  <programme start="20260920120600 -0300" stop="20260920122800 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA ELEIÇÕES</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
   <programme start="20260920120700 -0400" stop="20260920141800 -0400" channel="TNT_CL.cl">
     <title lang="es">BAD BOYS: DOS POLICÍAS REBELDES</title>
     <desc lang="es">Dos policías de Miami se verán forzados a intercambiar roles, luego de haber sido confundidas sus identidades en un caso criminal por drogas, que implica el robo de una cargamento de heroína por 100 millones de dólares.</desc>
@@ -668,30 +33,6 @@
   <programme start="20260920121400 -0500" stop="20260920142000 -0500" channel="TNT_CO.co">
     <title lang="es">BAD BOYS: DOS POLICÍAS REBELDES</title>
     <desc lang="es">Dos policías de Miami se verán forzados a intercambiar roles, luego de haber sido confundidas sus identidades en un caso criminal por drogas, que implica el robo de una cargamento de heroína por 100 millones de dólares.</desc>
-  </programme>
-  <programme start="20260920122000 -0300" stop="20260920143400 -0300" channel="TNT_AR.ar">
-    <title lang="es">BAD BOYS: DOS POLICÍAS REBELDES</title>
-    <desc lang="es">Dos policías de Miami se verán forzados a intercambiar roles, luego de haber sido confundidas sus identidades en un caso criminal por drogas, que implica el robo de una cargamento de heroína por 100 millones de dólares.</desc>
-  </programme>
-  <programme start="20260920122800 -0300" stop="20260920125200 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA MENTIROSO</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260920125200 -0300" stop="20260920131500 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA O MALVO</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260920131500 -0300" stop="20260920133900 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA SISTEMA DE DUPLAS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260920133900 -0300" stop="20260920140300 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA PROMESSAS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
   </programme>
   <programme start="20260920140300 -0300" stop="20260920154900 -0300" channel="TNT_BR.br">
     <title lang="pt">PREMONIÇÃO</title>
@@ -6430,5 +5771,432 @@
   </programme>
   <programme start="20261005055700 -0500" stop="20261005060000 -0500" channel="TNT_PAN.co">
     <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261005060000 -0300" stop="20261005060200 -0300" channel="TNT_BR.br">
+    <title lang="pt">TNT BUZZ</title>
+  </programme>
+  <programme start="20261005060000 -0300" stop="20261005063700 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261005060000 -0400" stop="20261005060100 -0400" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261005060000 -0500" stop="20261005063900 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261005060000 -0500" stop="20261005060200 -0500" channel="TNT_PAN.co">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261005060000 -0600" stop="20261005063800 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261005060100 -0400" stop="20261005060400 -0400" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261005060200 -0300" stop="20261005061700 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261005060200 -0500" stop="20261005060500 -0500" channel="TNT_PAN.co">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261005060400 -0400" stop="20261005060500 -0400" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261005060500 -0400" stop="20261005060800 -0400" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261005060500 -0500" stop="20261005064300 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261005060800 -0400" stop="20261005064900 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261005061700 -0300" stop="20261005065400 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+  </programme>
+  <programme start="20261005063700 -0300" stop="20261005071200 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261005063800 -0600" stop="20261005071300 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261005063900 -0500" stop="20261005065000 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261005064300 -0500" stop="20261005082200 -0500" channel="TNT_PAN.co">
+    <title lang="es">LA EDICIÓN NAVIDEÑA</title>
+  </programme>
+  <programme start="20261005064900 -0400" stop="20261005084000 -0400" channel="TNT_CL.cl">
+    <title lang="es">SIN LÍMITES</title>
+    <desc lang="es">Al enfrentar el desempleo y el rechazo de su novia, el escritor Eddie Morra está seguro de que no tiene futuro. Todo eso cambia cuando un viejo amigo le da una droga que produce una mayor agudeza mental. Avivado por el químico, que no ha sido analizado, Eddie asciende a la cima del mundo financiero y atrae la atención de un magnate que intenta usarlo para hacer una fortuna. Pero los terribles efectos secundarios y un abastecimiento decreciente amenazan con hacer caer el castillo de naipes de Eddie.</desc>
+  </programme>
+  <programme start="20261005065000 -0500" stop="20261005082800 -0500" channel="TNT_CO.co">
+    <title lang="es">LA EDICIÓN NAVIDEÑA</title>
+  </programme>
+  <programme start="20261005065400 -0300" stop="20261005072900 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+  </programme>
+  <programme start="20261005071200 -0300" stop="20261005072400 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261005071300 -0600" stop="20261005085400 -0600" channel="TNT_MX.mx">
+    <title lang="es">FUEGO CON FUEGO</title>
+    <desc lang="es">Un bombero cambia de identidad al testificar contra un criminal neonazi. Bajo amenaza, decide acabar con la pandilla, mientras se involucra con un detective y una policía.</desc>
+  </programme>
+  <programme start="20261005072400 -0300" stop="20261005092700 -0300" channel="TNT_AR.ar">
+    <title lang="es">ASESINOS DE ELITE</title>
+    <desc lang="es">Danny es uno de los agentes de operaciones especiales más importantes y hábiles de la corporación, pero después de una experiencia perturbadora decide exilarse, para vivir en paz durante un tiempo. Pero sus planes se irán al demonio cuando reencuentre a sus antiguos colegas y decida realizar una misión muy difícil: rescatar a Hunter, su antiguo mentor y compañero, que fue secuestrado. Juntos, ellos emprenden la tarea aparentemente imposible de neutralizar a los soldados rebeldes, capaces de hacer cualquier cosa para cumplir las órdenes de su temido líder, Spike. Los experimentados agentes serán incansables en la lucha contra la muerte y para evitar una incontrolable crisis internacional.</desc>
+  </programme>
+  <programme start="20261005072900 -0300" stop="20261005074500 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261005074500 -0300" stop="20261005075400 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261005075400 -0300" stop="20261005101300 -0300" channel="TNT_BR.br">
+    <title lang="pt">Jogador Nº 1</title>
+    <desc lang="pt">Em um futuro distópico, no ano de 2045, Wade Watts, bem como o resto da humanidade, procura fugir da realidade e entrar no OASIS, um videogame de realidade virtual criado por James Halliday e Ogden Morrow. Quando Halliday morre, os jogadores precisam descobrir a chave de um quebra-cabeça diabólico que o homem arquitetou. O vencedor leva sua fortuna inestimável. Uma mensagem pré-gravada deixada por seu avatar, Anorak, anuncia o desafio que concederá a propriedade do OASIS ao primeiro jogador que encontrar o easter egg dentro dele, que está trancado atrás de um portão que necessita de três chaves. Para vencer a disputa, Watts terá de abandonar a sua existência virtual para ceder a uma vida de amor e realidade, da qual sempre tentou fugir.</desc>
+  </programme>
+  <programme start="20261005082200 -0500" stop="20261005102900 -0500" channel="TNT_PAN.co">
+    <title lang="es">ASESINOS DE ELITE</title>
+    <desc lang="es">Danny es uno de los agentes de operaciones especiales más importantes y hábiles de la corporación, pero después de una experiencia perturbadora decide exilarse, para vivir en paz durante un tiempo. Pero sus planes se irán al demonio cuando reencuentre a sus antiguos colegas y decida realizar una misión muy difícil: rescatar a Hunter, su antiguo mentor y compañero, que fue secuestrado. Juntos, ellos emprenden la tarea aparentemente imposible de neutralizar a los soldados rebeldes, capaces de hacer cualquier cosa para cumplir las órdenes de su temido líder, Spike. Los experimentados agentes serán incansables en la lucha contra la muerte y para evitar una incontrolable crisis internacional.</desc>
+  </programme>
+  <programme start="20261005082800 -0500" stop="20261005103200 -0500" channel="TNT_CO.co">
+    <title lang="es">ASESINOS DE ELITE</title>
+    <desc lang="es">Danny es uno de los agentes de operaciones especiales más importantes y hábiles de la corporación, pero después de una experiencia perturbadora decide exilarse, para vivir en paz durante un tiempo. Pero sus planes se irán al demonio cuando reencuentre a sus antiguos colegas y decida realizar una misión muy difícil: rescatar a Hunter, su antiguo mentor y compañero, que fue secuestrado. Juntos, ellos emprenden la tarea aparentemente imposible de neutralizar a los soldados rebeldes, capaces de hacer cualquier cosa para cumplir las órdenes de su temido líder, Spike. Los experimentados agentes serán incansables en la lucha contra la muerte y para evitar una incontrolable crisis internacional.</desc>
+  </programme>
+  <programme start="20261005084000 -0400" stop="20261005105700 -0400" channel="TNT_CL.cl">
+    <title lang="es">BATMAN ETERNAMENTE</title>
+    <desc lang="es">La oscuridad de Ciudad Gótica confronta al dúo dinámico con sus asérrimos enemigos: Doble Cara y El Acertijo.</desc>
+  </programme>
+  <programme start="20261005085400 -0600" stop="20261005102900 -0600" channel="TNT_MX.mx">
+    <title lang="es">LA EDICIÓN NAVIDEÑA</title>
+  </programme>
+  <programme start="20261005092700 -0300" stop="20261005114100 -0300" channel="TNT_AR.ar">
+    <title lang="es">BATMAN ETERNAMENTE</title>
+    <desc lang="es">La oscuridad de Ciudad Gótica confronta al dúo dinámico con sus asérrimos enemigos: Doble Cara y El Acertijo.</desc>
+  </programme>
+  <programme start="20261005101300 -0300" stop="20261005103900 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">OLHO NO TÍTULO</sub-title>
+    <desc lang="pt">Will participa de um programa de TV e escolhe Carlton, seu primo brilhante, para sua equipe. Tyriq e Jazz então resolvem se vingar e entram para a equipe adversária.</desc>
+  </programme>
+  <programme start="20261005102900 -0500" stop="20261005125000 -0500" channel="TNT_PAN.co">
+    <title lang="es">BATMAN ETERNAMENTE</title>
+    <desc lang="es">La oscuridad de Ciudad Gótica confronta al dúo dinámico con sus asérrimos enemigos: Doble Cara y El Acertijo.</desc>
+  </programme>
+  <programme start="20261005102900 -0600" stop="20261005120800 -0600" channel="TNT_MX.mx">
+    <title lang="es">INSTINTO PREDADOR</title>
+    <desc lang="es">Frank Walsh (Nicolas Cage) es un cazador que protege a animales capturados en el Amazonas. Durante un viaje en barco, Walsh descubre que a bordo también está un peligroso asesino (Kevin Durand), lo cual pone a todos en peligro.</desc>
+  </programme>
+  <programme start="20261005103200 -0500" stop="20261005124700 -0500" channel="TNT_CO.co">
+    <title lang="es">BATMAN ETERNAMENTE</title>
+    <desc lang="es">La oscuridad de Ciudad Gótica confronta al dúo dinámico con sus asérrimos enemigos: Doble Cara y El Acertijo.</desc>
+  </programme>
+  <programme start="20261005103900 -0300" stop="20261005110500 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">FORAM AQUELES DIAS</sub-title>
+    <desc lang="pt">Philip e Vivian Banks recebem a visita de uma velha amiga, a ativista radical Marge Smallwood. Inspirado pelas histórias sobre o movimento de direitos civis, Will organiza um protesto estudantil na escola.</desc>
+  </programme>
+  <programme start="20261005105700 -0400" stop="20261005133200 -0400" channel="TNT_CL.cl">
+    <title lang="es">READY PLAYER ONE: COMIENZA EL JUEGO</title>
+    <desc lang="es">En un futuro distópico, en el año 2045, Wade Watts, al igual que el resto de la humanidad, busca escapar de la realidad y entrar en OASIS, un videojuego de realidad virtual creado por James Halliday y Ogden Morrow. Cuando Halliday muere, los jugadores deben descubrir la clave de un rompecabezas diabólico que el hombre ha ideado. El ganador se lleva su invaluable fortuna. Un mensaje pregrabado dejado por su avatar, Anorak, anuncia el desafío que otorgará la propiedad de OASIS al primer jugador que encuentre el huevo de pascua dentro de él, que está encerrado detrás de una puerta que necesita tres llaves. Para ganar la disputa, Watts tendrá que abandonar su existencia virtual para ceder a una vida de amor y realidad, de la que siempre ha intentado escapar.</desc>
+  </programme>
+  <programme start="20261005110500 -0300" stop="20261005113100 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">COMPETINDO POR ATENÇÃO</sub-title>
+    <desc lang="pt">Will morre de ciúmes da mãe, que chega para uma visita acompanhada de um cara que poderia ser seu novo padrasto.</desc>
+  </programme>
+  <programme start="20261005113100 -0300" stop="20261005115600 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">A TIA QUE VEIO PARA JANTAR</sub-title>
+    <desc lang="pt">A visita inesperada de Tia Helen atrapalha os planos de Will e Carlton, que pretendiam ficar sozinhos em casa com duas lindas francesas.</desc>
+  </programme>
+  <programme start="20261005114100 -0300" stop="20261005141000 -0300" channel="TNT_AR.ar">
+    <title lang="es">READY PLAYER ONE: COMIENZA EL JUEGO</title>
+    <desc lang="es">En un futuro distópico, en el año 2045, Wade Watts, al igual que el resto de la humanidad, busca escapar de la realidad y entrar en OASIS, un videojuego de realidad virtual creado por James Halliday y Ogden Morrow. Cuando Halliday muere, los jugadores deben descubrir la clave de un rompecabezas diabólico que el hombre ha ideado. El ganador se lleva su invaluable fortuna. Un mensaje pregrabado dejado por su avatar, Anorak, anuncia el desafío que otorgará la propiedad de OASIS al primer jugador que encuentre el huevo de pascua dentro de él, que está encerrado detrás de una puerta que necesita tres llaves. Para ganar la disputa, Watts tendrá que abandonar su existencia virtual para ceder a una vida de amor y realidad, de la que siempre ha intentado escapar.</desc>
+  </programme>
+  <programme start="20261005115600 -0300" stop="20261005121700 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA HALLOWEEN</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261005120800 -0600" stop="20261005140600 -0600" channel="TNT_MX.mx">
+    <title lang="es">ASESINOS DE ELITE</title>
+    <desc lang="es">Danny es uno de los agentes de operaciones especiales más importantes y hábiles de la corporación, pero después de una experiencia perturbadora decide exilarse, para vivir en paz durante un tiempo. Pero sus planes se irán al demonio cuando reencuentre a sus antiguos colegas y decida realizar una misión muy difícil: rescatar a Hunter, su antiguo mentor y compañero, que fue secuestrado. Juntos, ellos emprenden la tarea aparentemente imposible de neutralizar a los soldados rebeldes, capaces de hacer cualquier cosa para cumplir las órdenes de su temido líder, Spike. Los experimentados agentes serán incansables en la lucha contra la muerte y para evitar una incontrolable crisis internacional.</desc>
+  </programme>
+  <programme start="20261005121700 -0300" stop="20261005123900 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA A BABÁ</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261005123900 -0300" stop="20261005130000 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA A LAVANDERIA</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261005124700 -0500" stop="20261005152100 -0500" channel="TNT_CO.co">
+    <title lang="es">READY PLAYER ONE: COMIENZA EL JUEGO</title>
+    <desc lang="es">En un futuro distópico, en el año 2045, Wade Watts, al igual que el resto de la humanidad, busca escapar de la realidad y entrar en OASIS, un videojuego de realidad virtual creado por James Halliday y Ogden Morrow. Cuando Halliday muere, los jugadores deben descubrir la clave de un rompecabezas diabólico que el hombre ha ideado. El ganador se lleva su invaluable fortuna. Un mensaje pregrabado dejado por su avatar, Anorak, anuncia el desafío que otorgará la propiedad de OASIS al primer jugador que encuentre el huevo de pascua dentro de él, que está encerrado detrás de una puerta que necesita tres llaves. Para ganar la disputa, Watts tendrá que abandonar su existencia virtual para ceder a una vida de amor y realidad, de la que siempre ha intentado escapar.</desc>
+  </programme>
+  <programme start="20261005125000 -0500" stop="20261005152600 -0500" channel="TNT_PAN.co">
+    <title lang="es">READY PLAYER ONE: COMIENZA EL JUEGO</title>
+    <desc lang="es">En un futuro distópico, en el año 2045, Wade Watts, al igual que el resto de la humanidad, busca escapar de la realidad y entrar en OASIS, un videojuego de realidad virtual creado por James Halliday y Ogden Morrow. Cuando Halliday muere, los jugadores deben descubrir la clave de un rompecabezas diabólico que el hombre ha ideado. El ganador se lleva su invaluable fortuna. Un mensaje pregrabado dejado por su avatar, Anorak, anuncia el desafío que otorgará la propiedad de OASIS al primer jugador que encuentre el huevo de pascua dentro de él, que está encerrado detrás de una puerta que necesita tres llaves. Para ganar la disputa, Watts tendrá que abandonar su existencia virtual para ceder a una vida de amor y realidad, de la que siempre ha intentado escapar.</desc>
+  </programme>
+  <programme start="20261005130000 -0300" stop="20261005132300 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA CUPOM DE COMPRA</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261005132300 -0300" stop="20261005134600 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA EMPREGOS DE MEIO PERÍODO</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261005133200 -0400" stop="20261005154300 -0400" channel="TNT_CL.cl">
+    <title lang="es">EL VENGADOR DEL FUTURO</title>
+    <desc lang="es">El trabajador de una fábrica, Douglas Quaid, comienza a sospechar que es un espía después de visitar Rekall - una compañía que le da a sus clientes, implantes de memorias falsas sobre una vida que les hubiera gustado vivir - las cosas salen mal y tiene que comenzar a huir.</desc>
+  </programme>
+  <programme start="20261005134600 -0300" stop="20261005154500 -0300" channel="TNT_BR.br">
+    <title lang="pt">O VINGADOR DO FUTURO</title>
+    <desc lang="pt">Operário de uma fábrica, Douglas Quaid começa a suspeitar que seja um espião depois de visitar a Rekall - uma empresa que oferece aos seus clientes memórias falsas de uma vida que eles gostariam de ter vivido. Agora, tudo o que ele precisa é fugir.</desc>
+  </programme>
+  <programme start="20261005140600 -0600" stop="20261005155600 -0600" channel="TNT_MX.mx">
+    <title lang="es">NOSOTROS LOS NOBLES</title>
+    <desc lang="es">Germán Noble es un empresario adinerado con tres hijos, Javier, Bárbara y Carlos, quienes acaban de perder a su madre. Los jóvenes no hacen nada de su vida: se supone que Javier trabaja en la empresa de su padre pero se la pasa de fiesta con amigos, Bárbara está comprometida con un hombre veinte años mayor que ella a quien Germán no aprueba, y Carlos, el más joven de los tres, fue expulsado de la universidad por acostarse con una profesora. Luego de un ataque cardíaco, a Germán se le ocurre un plan para darles una lección a sus hijos.</desc>
+  </programme>
+  <programme start="20261005141000 -0300" stop="20261005162000 -0300" channel="TNT_AR.ar">
+    <title lang="es">EL VENGADOR DEL FUTURO</title>
+    <desc lang="es">El trabajador de una fábrica, Douglas Quaid, comienza a sospechar que es un espía después de visitar Rekall - una compañía que le da a sus clientes, implantes de memorias falsas sobre una vida que les hubiera gustado vivir - las cosas salen mal y tiene que comenzar a huir.</desc>
+  </programme>
+  <programme start="20261005152100 -0500" stop="20261005173400 -0500" channel="TNT_CO.co">
+    <title lang="es">EL VENGADOR DEL FUTURO</title>
+    <desc lang="es">El trabajador de una fábrica, Douglas Quaid, comienza a sospechar que es un espía después de visitar Rekall - una compañía que le da a sus clientes, implantes de memorias falsas sobre una vida que les hubiera gustado vivir - las cosas salen mal y tiene que comenzar a huir.</desc>
+  </programme>
+  <programme start="20261005152600 -0500" stop="20261005174000 -0500" channel="TNT_PAN.co">
+    <title lang="es">EL VENGADOR DEL FUTURO</title>
+    <desc lang="es">El trabajador de una fábrica, Douglas Quaid, comienza a sospechar que es un espía después de visitar Rekall - una compañía que le da a sus clientes, implantes de memorias falsas sobre una vida que les hubiera gustado vivir - las cosas salen mal y tiene que comenzar a huir.</desc>
+  </programme>
+  <programme start="20261005154300 -0400" stop="20261005174800 -0400" channel="TNT_CL.cl">
+    <title lang="es">MEGALODÓN</title>
+    <desc lang="es">Una enorme criatura que se creía extinguida ataca un submarino de aguas profundas, dejándolo inutilizable y con la tripulación atrapada en el fondo del Pacífico. Con poco tiempo disponible, el visionario oceanógrafo chino Dr. Chang recluta al buzo de rescate Jonas Taylor para salvar a los miembros de la tripulación y al mar mismo de una amenaza inimaginable: un tiburón prehistórico de 23 metros de largo conocido como el Megalodon.</desc>
+  </programme>
+  <programme start="20261005154500 -0300" stop="20261005171200 -0300" channel="TNT_BR.br">
+    <title lang="pt">MANDANDO BALA</title>
+    <desc lang="pt">Clive Owen é Smith, um homem solitário que, certa noite, está sentado em um ponto de ônibus quando uma mulher grávida passa correndo, perseguida por um homem com uma arma. Ele segue os dois, atira no homem e, de repente, se vê na posição de ajudar a mulher a dar à luz no meio de um tiroteio. A mãe acaba sendo morta, mas o nosso herói, determinado a salvar a criança, consegue escapar do líder da gangue, Hertz (Paul Giamatti). Em uma casa de prostituição, ele conhece Donna (Monica Bellucci), uma mulher que acaba de perder um bebê, a quem ele pede para amamentar o recém-nascido. Mas a situação se complica e essa família um tanto incomum que acaba de se formar logo se vê em fuga. Por que querem matar o bebê?</desc>
+  </programme>
+  <programme start="20261005155600 -0600" stop="20261005180400 -0600" channel="TNT_MX.mx">
+    <title lang="es">BATMAN ETERNAMENTE</title>
+    <desc lang="es">La oscuridad de Ciudad Gótica confronta al dúo dinámico con sus asérrimos enemigos: Doble Cara y El Acertijo.</desc>
+  </programme>
+  <programme start="20261005162000 -0300" stop="20261005182400 -0300" channel="TNT_AR.ar">
+    <title lang="es">MEGALODÓN</title>
+    <desc lang="es">Una enorme criatura que se creía extinguida ataca un submarino de aguas profundas, dejándolo inutilizable y con la tripulación atrapada en el fondo del Pacífico. Con poco tiempo disponible, el visionario oceanógrafo chino Dr. Chang recluta al buzo de rescate Jonas Taylor para salvar a los miembros de la tripulación y al mar mismo de una amenaza inimaginable: un tiburón prehistórico de 23 metros de largo conocido como el Megalodon.</desc>
+  </programme>
+  <programme start="20261005171200 -0300" stop="20261005192400 -0300" channel="TNT_BR.br">
+    <title lang="pt">50 TONS DE CINZA</title>
+    <desc lang="pt">Anastasia Steele é uma estudante de literatura de 21 anos, recatada, virgem e atrapalhada por natureza. Ana tem uma grande amiga chamada Kate, que está se formando em jornalismo. Um dia, Kate adoece antes de fazer uma grande entrevista. Então Ana, apesar de relutante, decide substituí-la em uma entrevista para o jornal da faculdade a fim de ajudá-la e acaba conhecendo o poderoso magnata Christian Grey. Aos poucos, nasce uma complexa relação entre ambos com a descoberta amorosa e sexual da garota. Conforme a relação se aprofunda Anastasia, ao invés de receber "corações e flores" como desejava, recebe uma "proposta" que vai mudar toda sua vida e acaba conhecendo os prazeres do sadomasoquismo e tornando-se o objeto de submissão do sádico Grey.</desc>
+  </programme>
+  <programme start="20261005173400 -0500" stop="20261005194500 -0500" channel="TNT_CO.co">
+    <title lang="es">MEGALODÓN</title>
+    <desc lang="es">Una enorme criatura que se creía extinguida ataca un submarino de aguas profundas, dejándolo inutilizable y con la tripulación atrapada en el fondo del Pacífico. Con poco tiempo disponible, el visionario oceanógrafo chino Dr. Chang recluta al buzo de rescate Jonas Taylor para salvar a los miembros de la tripulación y al mar mismo de una amenaza inimaginable: un tiburón prehistórico de 23 metros de largo conocido como el Megalodon.</desc>
+  </programme>
+  <programme start="20261005174000 -0500" stop="20261005194900 -0500" channel="TNT_PAN.co">
+    <title lang="es">MEGALODÓN</title>
+    <desc lang="es">Una enorme criatura que se creía extinguida ataca un submarino de aguas profundas, dejándolo inutilizable y con la tripulación atrapada en el fondo del Pacífico. Con poco tiempo disponible, el visionario oceanógrafo chino Dr. Chang recluta al buzo de rescate Jonas Taylor para salvar a los miembros de la tripulación y al mar mismo de una amenaza inimaginable: un tiburón prehistórico de 23 metros de largo conocido como el Megalodon.</desc>
+  </programme>
+  <programme start="20261005174800 -0400" stop="20261005200300 -0400" channel="TNT_CL.cl">
+    <title lang="es">MEGALODÓN 2: EL GRAN ABISMO</title>
+  </programme>
+  <programme start="20261005180400 -0600" stop="20261005200000 -0600" channel="TNT_MX.mx">
+    <title lang="es">MEGALODÓN</title>
+    <desc lang="es">Una enorme criatura que se creía extinguida ataca un submarino de aguas profundas, dejándolo inutilizable y con la tripulación atrapada en el fondo del Pacífico. Con poco tiempo disponible, el visionario oceanógrafo chino Dr. Chang recluta al buzo de rescate Jonas Taylor para salvar a los miembros de la tripulación y al mar mismo de una amenaza inimaginable: un tiburón prehistórico de 23 metros de largo conocido como el Megalodon.</desc>
+  </programme>
+  <programme start="20261005182400 -0300" stop="20261005202800 -0300" channel="TNT_AR.ar">
+    <title lang="es">MEGALODÓN 2: EL GRAN ABISMO</title>
+  </programme>
+  <programme start="20261005192400 -0300" stop="20261005212400 -0300" channel="TNT_BR.br">
+    <title lang="pt">MEGATUBARÃO</title>
+    <desc lang="pt">Uma tripulação de submarino, parte de um programa internacional de observação subaquática, encontra-se presa na fossa mais profunda do Oceano Pacífico. Os integrantes ficaram nesta situação depois de serem atacados por uma gigantesca  criatura pré-histórica que todos acreditavam estar extinta: o tubarão Megalodon, que possui mais de 20 metros de comprimento. Com o objetivo de salvar a tripulação e o próprio oceano, um oceanógrafo chinês contrata o mergulhador Jonas Taylor, especialista em resgates de águas profundas que já teve um encontro com a criatura aterrorizante alguns anos antes. Junto com Suyin, filha do oceanógrafo chinês, Taylor terá de confrontar os seus medos e arriscar a vida para cumprir a missão, ficando à frente do maior predador de todos os tempos.</desc>
+  </programme>
+  <programme start="20261005194500 -0500" stop="20261005220000 -0500" channel="TNT_CO.co">
+    <title lang="es">MEGALODÓN 2: EL GRAN ABISMO</title>
+  </programme>
+  <programme start="20261005194900 -0500" stop="20261005220000 -0500" channel="TNT_PAN.co">
+    <title lang="es">MEGALODÓN 2: EL GRAN ABISMO</title>
+  </programme>
+  <programme start="20261005200000 -0600" stop="20261005220000 -0600" channel="TNT_MX.mx">
+    <title lang="es">MEGALODÓN 2: EL GRAN ABISMO</title>
+  </programme>
+  <programme start="20261005200300 -0400" stop="20261005220000 -0400" channel="TNT_CL.cl">
+    <title lang="es">MASTERCHEF CHILE</title>
+  </programme>
+  <programme start="20261005202800 -0300" stop="20261005220000 -0300" channel="TNT_AR.ar">
+    <title lang="es">MASTERCHEF CELEBRITY ARGENTINA</title>
+    <desc lang="es">¡Se encienden las hornallas! Bajo la conducción de Wanda Nara, llega la nueva temporada de esta intensa competencia de sabores, donde distintas celebridades despliegan su talento culinario ante un exigente jurado de chefs. Damián Betular, Maru Botana y Germán Martitegui serán los encargados de evaluar cada plato y definir quiénes tienen lo necesario para seguir en competencia y quienes deberán que entregar su delantal.</desc>
+  </programme>
+  <programme start="20261005212400 -0300" stop="20261005233000 -0300" channel="TNT_BR.br">
+    <title lang="pt">Megatubarão 2</title>
+    <desc lang="pt">O capitão da Marinha Jonas Taylor (Jason Statham) e sua equipe empreendem uma nova exploração das profundezas do oceano, mas uma operação de mineração ilegal leva o grupo a uma batalha louca pela sobrevivência. Enfrentando megalodontes colossais, criaturas pré-históricas e impiedosos saqueadores do meio ambiente, Jonas, seu companheiro Jiuming (Jing Wu) e o restante da equipe precisam ser mais espertos e nadar melhor do que seus predadores em uma corrida contra o tempo para salvar milhares de vidas.</desc>
+  </programme>
+  <programme start="20261005220000 -0300" stop="20261006000600 -0300" channel="TNT_AR.ar">
+    <title lang="es">EL OTRO HERMANO</title>
+    <desc lang="es">Adrián Caetano dirige a Leonardo Sbaraglia y Daniel Hendler en este thriller donde un hombre se involucra en un mundo hostil en el que la muerte y la decadencia marcan su destino. Tras el aviso del asesinato de su madre y hermano, Cetarti (Hendler) regresa a la asolada localidad de Lapachito, en el interior rural de la Argentina, para ocuparse de los restos. A su llegada, conoce a Duarte (Sbaraglia), un matón local que le propone realizar una estafa para cobrar un seguro de vida y repartirlo entre ambos. Sin embargo, este trato desencadena una serie negocios oscuros cuyo desenlace será igual de fatal que su comienzo.</desc>
+  </programme>
+  <programme start="20261005220000 -0400" stop="20261005234900 -0400" channel="TNT_CL.cl">
+    <title lang="es">MATAR O MORIR</title>
+    <desc lang="es">Clive Owen es Smith, un hombre solitario que, en una determinada noche, está sentado en una parada de colectivo cuando una mujer embarazada pasa corriendo, perseguida por un hombre con un arma. Él los sigue a los dos, le tira al hombre y, de repente, se ve en la posición de ayudar a la mujer a dar a luz en medio de un tiroteo. La madre termina siendo asesinada, pero nuestro héroe, decidido a salvar al bebé, logra escapar del líder de la pandilla, Hertz (Paul Giamatti). En un prostíbulo, conoce a Donna (Monica Bellucci), una mujer que acaba de perder a su bebé, a quien le pide que amamante al recién nacido. Pero la situación se complica y esa familia poco común que acaba de formarse al poco tiempo debe escapar. ¿Por qué quieren matar al bebé?</desc>
+  </programme>
+  <programme start="20261005220000 -0500" stop="20261005235100 -0500" channel="TNT_CO.co">
+    <title lang="es">FEO PERO SABROSO</title>
+  </programme>
+  <programme start="20261005220000 -0500" stop="20261005233500 -0500" channel="TNT_PAN.co">
+    <title lang="es">MATAR O MORIR</title>
+    <desc lang="es">Clive Owen es Smith, un hombre solitario que, en una determinada noche, está sentado en una parada de colectivo cuando una mujer embarazada pasa corriendo, perseguida por un hombre con un arma. Él los sigue a los dos, le tira al hombre y, de repente, se ve en la posición de ayudar a la mujer a dar a luz en medio de un tiroteo. La madre termina siendo asesinada, pero nuestro héroe, decidido a salvar al bebé, logra escapar del líder de la pandilla, Hertz (Paul Giamatti). En un prostíbulo, conoce a Donna (Monica Bellucci), una mujer que acaba de perder a su bebé, a quien le pide que amamante al recién nacido. Pero la situación se complica y esa familia poco común que acaba de formarse al poco tiempo debe escapar. ¿Por qué quieren matar al bebé?</desc>
+  </programme>
+  <programme start="20261005220000 -0600" stop="20261005233300 -0600" channel="TNT_MX.mx">
+    <title lang="es">MATAR O MORIR</title>
+    <desc lang="es">Clive Owen es Smith, un hombre solitario que, en una determinada noche, está sentado en una parada de colectivo cuando una mujer embarazada pasa corriendo, perseguida por un hombre con un arma. Él los sigue a los dos, le tira al hombre y, de repente, se ve en la posición de ayudar a la mujer a dar a luz en medio de un tiroteo. La madre termina siendo asesinada, pero nuestro héroe, decidido a salvar al bebé, logra escapar del líder de la pandilla, Hertz (Paul Giamatti). En un prostíbulo, conoce a Donna (Monica Bellucci), una mujer que acaba de perder a su bebé, a quien le pide que amamante al recién nacido. Pero la situación se complica y esa familia poco común que acaba de formarse al poco tiempo debe escapar. ¿Por qué quieren matar al bebé?</desc>
+  </programme>
+  <programme start="20261005233000 -0300" stop="20261005235300 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA HALLOWEEN</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261005233300 -0600" stop="20261006013900 -0600" channel="TNT_MX.mx">
+    <title lang="es">CINCUENTA SOMBRAS DE GREY</title>
+    <desc lang="es">Anastasia "Ana" Steele tiene 21 años y estudia literatura en Vancouver, Washington. Kate, con quien comparte habitación, se enferma y no puede ir a entrevistar al multimillonario de 27 años de edad Christian Grey para el periódico de la universidad. Ana la reemplaza y Christian se interesa en ella. Pronto comenzarán una relación y Christian la llenará de regalos, pero también quiere que ella firme un contrato y que esta sea una relación sadomasoquista.</desc>
+  </programme>
+  <programme start="20261005233500 -0500" stop="20261006014400 -0500" channel="TNT_PAN.co">
+    <title lang="es">CINCUENTA SOMBRAS DE GREY</title>
+    <desc lang="es">Anastasia "Ana" Steele tiene 21 años y estudia literatura en Vancouver, Washington. Kate, con quien comparte habitación, se enferma y no puede ir a entrevistar al multimillonario de 27 años de edad Christian Grey para el periódico de la universidad. Ana la reemplaza y Christian se interesa en ella. Pronto comenzarán una relación y Christian la llenará de regalos, pero también quiere que ella firme un contrato y que esta sea una relación sadomasoquista.</desc>
+  </programme>
+  <programme start="20261005234900 -0400" stop="20261006020100 -0400" channel="TNT_CL.cl">
+    <title lang="es">CINCUENTA SOMBRAS DE GREY</title>
+    <desc lang="es">Anastasia "Ana" Steele tiene 21 años y estudia literatura en Vancouver, Washington. Kate, con quien comparte habitación, se enferma y no puede ir a entrevistar al multimillonario de 27 años de edad Christian Grey para el periódico de la universidad. Ana la reemplaza y Christian se interesa en ella. Pronto comenzarán una relación y Christian la llenará de regalos, pero también quiere que ella firme un contrato y que esta sea una relación sadomasoquista.</desc>
+  </programme>
+  <programme start="20261005235100 -0500" stop="20261006020300 -0500" channel="TNT_CO.co">
+    <title lang="es">CINCUENTA SOMBRAS DE GREY</title>
+    <desc lang="es">Anastasia "Ana" Steele tiene 21 años y estudia literatura en Vancouver, Washington. Kate, con quien comparte habitación, se enferma y no puede ir a entrevistar al multimillonario de 27 años de edad Christian Grey para el periódico de la universidad. Ana la reemplaza y Christian se interesa en ella. Pronto comenzarán una relación y Christian la llenará de regalos, pero también quiere que ella firme un contrato y que esta sea una relación sadomasoquista.</desc>
+  </programme>
+  <programme start="20261005235300 -0300" stop="20261006001600 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA A BABÁ</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261006000600 -0300" stop="20261006021600 -0300" channel="TNT_AR.ar">
+    <title lang="es">CINCUENTA SOMBRAS DE GREY</title>
+    <desc lang="es">Anastasia "Ana" Steele tiene 21 años y estudia literatura en Vancouver, Washington. Kate, con quien comparte habitación, se enferma y no puede ir a entrevistar al multimillonario de 27 años de edad Christian Grey para el periódico de la universidad. Ana la reemplaza y Christian se interesa en ella. Pronto comenzarán una relación y Christian la llenará de regalos, pero también quiere que ella firme un contrato y que esta sea una relación sadomasoquista.</desc>
+  </programme>
+  <programme start="20261006001600 -0300" stop="20261006003900 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA A LAVANDERIA</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261006003900 -0300" stop="20261006010200 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA CUPOM DE COMPRA</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261006010200 -0300" stop="20261006012400 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA EMPREGOS DE MEIO PERÍODO</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261006012400 -0300" stop="20261006014900 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">OLHO NO TÍTULO</sub-title>
+    <desc lang="pt">Will participa de um programa de TV e escolhe Carlton, seu primo brilhante, para sua equipe. Tyriq e Jazz então resolvem se vingar e entram para a equipe adversária.</desc>
+  </programme>
+  <programme start="20261006013900 -0600" stop="20261006034200 -0600" channel="TNT_MX.mx">
+    <title lang="es">CINCUENTA SOMBRAS MÁS OSCURAS</title>
+    <desc lang="es">Un apenado Christian intenta ser más flexible y recuperar el amor de Ana mientras oscuras figuras de su pasado amenazan la felicidad de la pareja.</desc>
+  </programme>
+  <programme start="20261006014400 -0500" stop="20261006034600 -0500" channel="TNT_PAN.co">
+    <title lang="es">CINCUENTA SOMBRAS MÁS OSCURAS</title>
+    <desc lang="es">Un apenado Christian intenta ser más flexible y recuperar el amor de Ana mientras oscuras figuras de su pasado amenazan la felicidad de la pareja.</desc>
+  </programme>
+  <programme start="20261006014900 -0300" stop="20261006021300 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">FORAM AQUELES DIAS</sub-title>
+    <desc lang="pt">Philip e Vivian Banks recebem a visita de uma velha amiga, a ativista radical Marge Smallwood. Inspirado pelas histórias sobre o movimento de direitos civis, Will organiza um protesto estudantil na escola.</desc>
+  </programme>
+  <programme start="20261006020100 -0400" stop="20261006040400 -0400" channel="TNT_CL.cl">
+    <title lang="es">CINCUENTA SOMBRAS MÁS OSCURAS</title>
+    <desc lang="es">Un apenado Christian intenta ser más flexible y recuperar el amor de Ana mientras oscuras figuras de su pasado amenazan la felicidad de la pareja.</desc>
+  </programme>
+  <programme start="20261006020300 -0500" stop="20261006040300 -0500" channel="TNT_CO.co">
+    <title lang="es">CINCUENTA SOMBRAS MÁS OSCURAS</title>
+    <desc lang="es">Un apenado Christian intenta ser más flexible y recuperar el amor de Ana mientras oscuras figuras de su pasado amenazan la felicidad de la pareja.</desc>
+  </programme>
+  <programme start="20261006021300 -0300" stop="20261006023600 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">COMPETINDO POR ATENÇÃO</sub-title>
+    <desc lang="pt">Will morre de ciúmes da mãe, que chega para uma visita acompanhada de um cara que poderia ser seu novo padrasto.</desc>
+  </programme>
+  <programme start="20261006021600 -0300" stop="20261006042000 -0300" channel="TNT_AR.ar">
+    <title lang="es">EL HIJO DE LA NOVIA</title>
+  </programme>
+  <programme start="20261006023600 -0300" stop="20261006025900 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">A TIA QUE VEIO PARA JANTAR</sub-title>
+    <desc lang="pt">A visita inesperada de Tia Helen atrapalha os planos de Will e Carlton, que pretendiam ficar sozinhos em casa com duas lindas francesas.</desc>
+  </programme>
+  <programme start="20261006025900 -0300" stop="20261006045500 -0300" channel="TNT_BR.br">
+    <title lang="pt">Cinquenta Tons Mais Escuros</title>
+    <desc lang="pt">Nesta segunda parte da saga 50 Tons de Cinza, Dakota Johnson e Jamie Dornan retomam seus papéis como a inocente Anastasia Steele e o bilionário dominador Christian Grey. Quando um Christian arrependido tenta reconquistar Ana, ela exige um novo acordo, dessa vez sem regras ou castigos, antes de lhe dar outra chance. Mas quando eles começam a confiar um no outro e a formar um relacionamento mais estável, figuras sombrias do passado de Christian ameaçam a recém-descoberta felicidade do casal.</desc>
+  </programme>
+  <programme start="20261006034200 -0600" stop="20261006052800 -0600" channel="TNT_MX.mx">
+    <title lang="es">CINCUENTA SOMBRAS LIBERADAS</title>
+    <desc lang="es">Jamie Dornan y Dakota Johnson se ponen una vez más en la piel del multimillonario Christian Grey y la inocente Anastasia Steele para el cierre de la trilogía erótico-romántica basada en los libros de E.L. James. Ya casada, la pareja se dispone a disfrutar de su nueva estabilidad, pero los persistentes demonios del pasado de Christian amenazan su "felices para siempre".</desc>
+  </programme>
+  <programme start="20261006034600 -0500" stop="20261006053300 -0500" channel="TNT_PAN.co">
+    <title lang="es">CINCUENTA SOMBRAS LIBERADAS</title>
+    <desc lang="es">Jamie Dornan y Dakota Johnson se ponen una vez más en la piel del multimillonario Christian Grey y la inocente Anastasia Steele para el cierre de la trilogía erótico-romántica basada en los libros de E.L. James. Ya casada, la pareja se dispone a disfrutar de su nueva estabilidad, pero los persistentes demonios del pasado de Christian amenazan su "felices para siempre".</desc>
+  </programme>
+  <programme start="20261006040300 -0500" stop="20261006054600 -0500" channel="TNT_CO.co">
+    <title lang="es">CINCUENTA SOMBRAS LIBERADAS</title>
+    <desc lang="es">Jamie Dornan y Dakota Johnson se ponen una vez más en la piel del multimillonario Christian Grey y la inocente Anastasia Steele para el cierre de la trilogía erótico-romántica basada en los libros de E.L. James. Ya casada, la pareja se dispone a disfrutar de su nueva estabilidad, pero los persistentes demonios del pasado de Christian amenazan su "felices para siempre".</desc>
+  </programme>
+  <programme start="20261006040400 -0400" stop="20261006054700 -0400" channel="TNT_CL.cl">
+    <title lang="es">CINCUENTA SOMBRAS LIBERADAS</title>
+    <desc lang="es">Jamie Dornan y Dakota Johnson se ponen una vez más en la piel del multimillonario Christian Grey y la inocente Anastasia Steele para el cierre de la trilogía erótico-romántica basada en los libros de E.L. James. Ya casada, la pareja se dispone a disfrutar de su nueva estabilidad, pero los persistentes demonios del pasado de Christian amenazan su "felices para siempre".</desc>
+  </programme>
+  <programme start="20261006042000 -0300" stop="20261006060000 -0300" channel="TNT_AR.ar">
+    <title lang="es">MAMÁ SE FUE DE VIAJE</title>
+    <desc lang="es">Víctor Garbo y Vera están casados desde hace veinte años. Tienen cuatro hijos: Bruno, Lara, Tato y Lolo. Completamente absorbido por su actividad laboral, Víctor vive ajeno a los avatares diarios de su mujer y sus hijos. Vera, agobiada de dedicarse a la vida doméstica sin la ayuda de su marido, decide tomarse vacaciones de su familia y se va de viaje por diez días. Es así que Víctor se ve obligado a pedir licencia en su trabajo y ponerse al mando de la casa. Casi de inmediato, el caos se desata y se expande.</desc>
+  </programme>
+  <programme start="20261006045500 -0300" stop="20261006053000 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+  </programme>
+  <programme start="20261006052800 -0600" stop="20261006053900 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261006053000 -0300" stop="20261006054400 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261006053300 -0500" stop="20261006054800 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261006053900 -0600" stop="20261006055200 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261006054400 -0300" stop="20261006060000 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261006054600 -0500" stop="20261006060000 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261006054700 -0400" stop="20261006060000 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261006054800 -0500" stop="20261006060000 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261006055200 -0600" stop="20261006060000 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
   </programme>
 </tv>
