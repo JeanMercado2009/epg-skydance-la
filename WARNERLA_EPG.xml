@@ -21,133 +21,10 @@
   <channel id="WARNER_MX.mx">
     <display-name>Warner Channel México</display-name>
   </channel>
-  <programme start="20260920193700 -0600" stop="20260920220000 -0600" channel="WARNER_MX.mx">
-    <title lang="es">Como Novio De Pueblo</title>
-  </programme>
-  <programme start="20260920195700 -0500" stop="20260920220000 -0500" channel="WARNER_CO.co">
-    <title lang="es">Son Como Niños 2</title>
-  </programme>
-  <programme start="20260920200700 -0500" stop="20260920220000 -0500" channel="WARNER_AN.co">
-    <title lang="es">Son Como Niños 2</title>
-  </programme>
-  <programme start="20260920220000 -0300" stop="20260921001400 -0300" channel="WARNER_AR.ar">
-    <title lang="es">Guasón</title>
-    <desc lang="es">Joaquin Phoenix encarna al icónico Guasón en esta versión original y totalmente independiente del emblemático archienemigo, la cual le valió un Oscar® a Mejor Actor. Arthur Fleck (Phoenix), un comediante discapacitado, ignorado y maltratado por la sociedad, se ve arrastrado al vórtice de violencia de una Ciudad Gótica marcada por el crimen y diferencias sociales.</desc>
-  </programme>
-  <programme start="20260920220000 -0400" stop="20260921001100 -0400" channel="WARNER_CL.cl">
-    <title lang="es">Guasón</title>
-    <desc lang="es">Joaquin Phoenix encarna al icónico Guasón en esta versión original y totalmente independiente del emblemático archienemigo, la cual le valió un Oscar® a Mejor Actor. Arthur Fleck (Phoenix), un comediante discapacitado, ignorado y maltratado por la sociedad, se ve arrastrado al vórtice de violencia de una Ciudad Gótica marcada por el crimen y diferencias sociales.</desc>
-  </programme>
-  <programme start="20260920220000 -0400" stop="20260921001800 -0400" channel="WARNER_VE.ve">
-    <title lang="es">Guasón</title>
-    <desc lang="es">Joaquin Phoenix encarna al icónico Guasón en esta versión original y totalmente independiente del emblemático archienemigo, la cual le valió un Oscar® a Mejor Actor. Arthur Fleck (Phoenix), un comediante discapacitado, ignorado y maltratado por la sociedad, se ve arrastrado al vórtice de violencia de una Ciudad Gótica marcada por el crimen y diferencias sociales.</desc>
-  </programme>
-  <programme start="20260920220000 -0500" stop="20260921001800 -0500" channel="WARNER_CO.co">
-    <title lang="es">Guasón</title>
-    <desc lang="es">Joaquin Phoenix encarna al icónico Guasón en esta versión original y totalmente independiente del emblemático archienemigo, la cual le valió un Oscar® a Mejor Actor. Arthur Fleck (Phoenix), un comediante discapacitado, ignorado y maltratado por la sociedad, se ve arrastrado al vórtice de violencia de una Ciudad Gótica marcada por el crimen y diferencias sociales.</desc>
-  </programme>
-  <programme start="20260920220000 -0500" stop="20260921001300 -0500" channel="WARNER_AN.co">
-    <title lang="es">Guasón</title>
-    <desc lang="es">Joaquin Phoenix encarna al icónico Guasón en esta versión original y totalmente independiente del emblemático archienemigo, la cual le valió un Oscar® a Mejor Actor. Arthur Fleck (Phoenix), un comediante discapacitado, ignorado y maltratado por la sociedad, se ve arrastrado al vórtice de violencia de una Ciudad Gótica marcada por el crimen y diferencias sociales.</desc>
-  </programme>
-  <programme start="20260920220000 -0600" stop="20260920235400 -0600" channel="WARNER_MX.mx">
-    <title lang="es" />
-  </programme>
-  <programme start="20260920223000 -0300" stop="20260921003900 -0300" channel="WARNER_BR.br">
-    <title lang="pt">Coringa</title>
-    <desc lang="pt">Joaquin Phoenix interpreta o icônico Coringa nesta versão original e totalmente independente do emblemático arqui-inimigo, que lhe rendeu um Oscar® de Melhor Ator. Arthur Fleck (Phoenix), um comediante deficiente, ignorado e maltratado pela sociedade, é atraído pelo turbilhão de violência em uma Gotham marcada pelo crime e diferenças sociais.</desc>
-  </programme>
-  <programme start="20260920235400 -0600" stop="20260921001800 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921001100 -0400" stop="20260921003500 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921001300 -0500" stop="20260921003700 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921001400 -0300" stop="20260921004000 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921001800 -0400" stop="20260921004200 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921001800 -0500" stop="20260921004300 -0500" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921001800 -0600" stop="20260921004100 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921003500 -0400" stop="20260921005900 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921003700 -0500" stop="20260921010100 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921003900 -0300" stop="20260921010400 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE HOFSTADTER INSUFFICIENCY</sub-title>
-    <desc lang="pt">Sheldon e Penny se entrosam na ausência de Leonard. E por isso o coração de Sheldon fica partido quando Leonard volta do Mar do Norte. A atriz REGINA KING reaparece como Mrs. Davis, a diretora de relações empregatícias da universidade.</desc>
-  </programme>
-  <programme start="20260921004000 -0300" stop="20260921010600 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921004100 -0600" stop="20260921010300 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921004200 -0400" stop="20260921010600 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921004300 -0500" stop="20260921010800 -0500" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921005900 -0400" stop="20260921012200 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921010100 -0500" stop="20260921012400 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
   <programme start="20260921010300 -0600" stop="20260921012600 -0600" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
-  <programme start="20260921010400 -0300" stop="20260921012800 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE DECEPTION VERIFICATION</sub-title>
-    <desc lang="pt">Raj busca consolo por causa de sua ex-namorada e o relacionamento de Howard com sua mãe ameaça sua masculinidade de uma forma incomum. KEVIN SUSSMAN está de volta como Stuart, o dono da loja de quadrinhos.</desc>
-  </programme>
-  <programme start="20260921010600 -0300" stop="20260921013100 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921010600 -0400" stop="20260921012900 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921010800 -0500" stop="20260921013000 -0500" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921012200 -0400" stop="20260921014600 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921012400 -0500" stop="20260921014700 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
   <programme start="20260921012600 -0600" stop="20260921014600 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921012800 -0300" stop="20260921015000 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE SCAVENGER VORTEX</sub-title>
-    <desc lang="pt">Quando a turma participa de uma acirrada caça ao tesouro elaborada por Raj, que testa o conhecimento científico e o conhecimento geral de todos, os pontos fortes e fracos de cada um são revelados.</desc>
-  </programme>
-  <programme start="20260921012900 -0400" stop="20260921015200 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921013000 -0500" stop="20260921015300 -0500" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921013100 -0300" stop="20260921015600 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921014600 -0400" stop="20260921020700 -0400" channel="WARNER_CL.cl">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260921014600 -0600" stop="20260921020900 -0600" channel="WARNER_MX.mx">
@@ -156,21 +33,7 @@
   <programme start="20260921014700 -0500" stop="20260921020900 -0500" channel="WARNER_AN.co">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
-  <programme start="20260921015000 -0300" stop="20260921021100 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE RAIDERS MINIMIZATION</sub-title>
-    <desc lang="pt">Quando Amy estraga um dos filmes preferidos de Sheldon - Os Caçadores da Arca Perdida - ele fica defensivo e quer vingança. Enquanto isso, Leonard descobre uma forma de forçar Penny a satisfazer suas vontades. Raj e Stuart criam perfis em sites de namoro.</desc>
-  </programme>
-  <programme start="20260921015200 -0400" stop="20260921021300 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
   <programme start="20260921015300 -0500" stop="20260921021400 -0500" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921015600 -0300" stop="20260921021500 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921020700 -0400" stop="20260921022900 -0400" channel="WARNER_CL.cl">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260921020900 -0500" stop="20260921023100 -0500" channel="WARNER_AN.co">
@@ -179,27 +42,8 @@
   <programme start="20260921020900 -0600" stop="20260921023100 -0600" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
-  <programme start="20260921021100 -0300" stop="20260921023100 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE WORKPLACE PROXIMITY</sub-title>
-    <desc lang="pt">Sheldon deverá dosar o tempo que passa com Amy quando ela começa a trabalhar na universidade e o relacionamento dos dois é testado. Enquanto isso, Howard se vê dormindo no sofá de Raj após uma briga com Bernadette.</desc>
-  </programme>
-  <programme start="20260921021300 -0400" stop="20260921023500 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
   <programme start="20260921021400 -0500" stop="20260921023600 -0500" channel="WARNER_CO.co">
     <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921021500 -0300" stop="20260921023600 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260921022900 -0400" stop="20260921025200 -0400" channel="WARNER_CL.cl">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260921023100 -0300" stop="20260921025300 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE ROMANCE RESONANCE</sub-title>
-    <desc lang="pt">A última descoberta científica de Sheldon o faz se sentir uma fraude - e ameaça assombrá-lo para sempre. Enquanto isso, a atitude romântica de Howard com Bernadette faz Penny baixar a guarda com Leonard.</desc>
   </programme>
   <programme start="20260921023100 -0500" stop="20260921025400 -0500" channel="WARNER_AN.co">
     <title lang="es">TWO AND A HALF MEN</title>
@@ -207,22 +51,11 @@
   <programme start="20260921023100 -0600" stop="20260921025500 -0600" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
-  <programme start="20260921023500 -0400" stop="20260921025800 -0400" channel="WARNER_VE.ve">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260921023600 -0300" stop="20260921025900 -0300" channel="WARNER_AR.ar">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
   <programme start="20260921023600 -0500" stop="20260921025900 -0500" channel="WARNER_CO.co">
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
   <programme start="20260921025200 -0400" stop="20260921031500 -0400" channel="WARNER_CL.cl">
     <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260921025300 -0300" stop="20260921031500 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">CHOCOLATE DIDDLERS OR MY PUPPY'S DEAD</sub-title>
-    <desc lang="pt">Charlie pedirá para a Dra. Freeman ajudá-lo a superar o fim do relacionamento com Courtney.</desc>
   </programme>
   <programme start="20260921025400 -0500" stop="20260921031600 -0500" channel="WARNER_AN.co">
     <title lang="es">TWO AND A HALF MEN</title>
@@ -233,16 +66,8 @@
   <programme start="20260921025800 -0400" stop="20260921032100 -0400" channel="WARNER_VE.ve">
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
-  <programme start="20260921025900 -0300" stop="20260921032000 -0300" channel="WARNER_AR.ar">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
   <programme start="20260921025900 -0500" stop="20260921032200 -0500" channel="WARNER_CO.co">
     <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260921031500 -0300" stop="20260921033800 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">SKUNK, DOG CRAP AND KETCHUP</sub-title>
-    <desc lang="pt">Allan achará estranha a atitude amigável de Charlie e Lindsey.</desc>
   </programme>
   <programme start="20260921031500 -0400" stop="20260921033900 -0400" channel="WARNER_CL.cl">
     <title lang="es">TWO AND A HALF MEN</title>
@@ -253,19 +78,11 @@
   <programme start="20260921031800 -0600" stop="20260921034100 -0600" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
-  <programme start="20260921032000 -0300" stop="20260921034200 -0300" channel="WARNER_AR.ar">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
   <programme start="20260921032100 -0400" stop="20260921034500 -0400" channel="WARNER_VE.ve">
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
   <programme start="20260921032200 -0500" stop="20260921034500 -0500" channel="WARNER_CO.co">
     <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260921033800 -0300" stop="20260921035900 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">LOOKING FOR JAPANESE SUBS</sub-title>
-    <desc lang="pt">Charlie começará a espreitar Rose. Jake e Eldridge fazem brincadeiras e malabarismo ao estilo Jackass.</desc>
   </programme>
   <programme start="20260921033900 -0400" stop="20260921040200 -0400" channel="WARNER_CL.cl">
     <title lang="es">TWO AND A HALF MEN</title>

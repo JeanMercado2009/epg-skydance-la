@@ -6,228 +6,41 @@
   <channel id="CNLA_BR.br">
     <display-name>Cartoon Network Brasil</display-name>
   </channel>
-  <programme start="20260920205700 -0500" stop="20260920224500 -0500" channel="CNLA_PAN.co">
-    <title lang="es">DC Liga de Supermascotas</title>
-  </programme>
-  <programme start="20260920224500 -0500" stop="20260920225800 -0500" channel="CNLA_PAN.co">
-    <title lang="es">UN SHOW MÁS</title>
-    <desc lang="es">Margarita tiene muchos deseos de ser la presentadora de un segmento semanal en las noticias nocturnas locales.</desc>
-  </programme>
-  <programme start="20260920225800 -0500" stop="20260920231000 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">Cuando la Dulce Princesa se da cuenta de su mortalidad, se fabrica un reemplazo inmortal.</desc>
-  </programme>
-  <programme start="20260920231000 -0500" stop="20260920232400 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">Finn construye a NEPTOR, un robot que lanza pasteles sin fin, para vengarse de Jake. Pero el Rey Helado ataca la máquina con sus partículas privadas y la hace entrar en conflicto con su voluntad.</desc>
-  </programme>
-  <programme start="20260920232200 -0300" stop="20260920233300 -0300" channel="CNLA_BR.br">
-    <title lang="pt">APENAS UM SHOW</title>
-    <sub-title lang="pt">ENTRANDO NUMA FRIA</sub-title>
-    <desc lang="pt">Thomas precisa salvar seu cérebro após congelá-lo bebendo uma raspadinha.</desc>
-  </programme>
-  <programme start="20260920232400 -0500" stop="20260920233500 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">La relación de Jake con Arco Iris corre peligro cuando él le promete conocer a sus padres, dado que ambas especies están enfrentadas por una larga historia de guerras.</desc>
-  </programme>
-  <programme start="20260920233300 -0300" stop="20260920234500 -0300" channel="CNLA_BR.br">
-    <title lang="pt">STEVEN UNIVERSO</title>
-    <sub-title lang="pt">DEWEY VENCE</sub-title>
-    <desc lang="pt">Steven ajuda o Prefeito Dewey numa campanha difícil.</desc>
-  </programme>
-  <programme start="20260920233500 -0500" stop="20260920234900 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">BMO y Marceline intercambian historias sobre sus aventuras más recientes.</desc>
-  </programme>
-  <programme start="20260920234500 -0300" stop="20260920235700 -0300" channel="CNLA_BR.br">
-    <title lang="pt">STEVEN UNIVERSO</title>
-    <sub-title lang="pt">TOCAIA COM O DOUG</sub-title>
-    <desc lang="pt">Steven e Connie acompanham o pai dela durante uma vigilância.</desc>
-  </programme>
-  <programme start="20260920234900 -0500" stop="20260921000100 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">El Rey Helado se rasura las barbas luego de que una princesa "lo abandona", pero cuando su nueva apariencia parece atraer a otras princesas, le saca provecho a esta oportunidad inesperada.</desc>
-  </programme>
-  <programme start="20260920235700 -0300" stop="20260921000800 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">URSOS BEBÊS NÃO PULAM</sub-title>
-    <desc lang="pt">Para ganhar uma pizza, os bebês urso jogam basquete contra uma gangue de crianças.</desc>
-  </programme>
-  <programme start="20260921000100 -0500" stop="20260921001200 -0500" channel="CNLA_PAN.co">
-    <title lang="es">ESCANDALOSOS</title>
-    <desc lang="es">Para ganar una pizza, los Osos bebé jugan baloncesto contra una diversa pandilla de niños.</desc>
-  </programme>
-  <programme start="20260921000800 -0300" stop="20260921002000 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">FESTA DO PIJAMAS</sub-title>
-    <desc lang="pt">Uma tempestade obriga Chloe a passar a noite na caverna dos ursos. Quando os pais dela pedem aos ursos para protegê-la, eles levam a missão um pouco a sério demais.</desc>
-  </programme>
-  <programme start="20260921001200 -0500" stop="20260921002500 -0500" channel="CNLA_PAN.co">
-    <title lang="es">ESCANDALOSOS</title>
-    <desc lang="es">Una tormenta obliga a Chloe a pasar la noche en la cueva con los Osos. Cuando los padres de Chloe les piden a los Osos que protejan a Chloe, los hermanos se toman la tarea demasiado en serio.</desc>
-  </programme>
-  <programme start="20260921002000 -0300" stop="20260921003200 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">CAVERNA DO CAFÉ</sub-title>
-    <desc lang="pt">Ao descobrirem que Polar é um barista de primeira, os ursos decidem transformar sua caverna num café. Mas as coisas saem do controle quando Polar se envolve demais com a ideia e perde a cabeça.</desc>
-  </programme>
-  <programme start="20260921002500 -0500" stop="20260921003700 -0500" channel="CNLA_PAN.co">
-    <title lang="es">ESCANDALOSOS</title>
-    <desc lang="es">Luego de descubrir que Polar es un maestro barista, los Osos convierten su cueva en una cafetería popular. Pero las cosas salen mal cuando Polar se interesa demasiado por el café y se pone frenético.</desc>
-  </programme>
-  <programme start="20260921003200 -0300" stop="20260921004400 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">VIAGEM</sub-title>
-    <desc lang="pt">Nom Nom é aconselhado por seu médico a fazer uma viagem. Mas ele acaba sendo acompanhado por alguém inesperado: Pardo.</desc>
-  </programme>
-  <programme start="20260921003700 -0500" stop="20260921005000 -0500" channel="CNLA_PAN.co">
-    <title lang="es">ESCANDALOSOS</title>
-    <desc lang="es">El doctor de Nom Nom le ordena tomarse unas vacaciones. Pero debe viajar con un compañero incompatible con él: Pardo.</desc>
-  </programme>
-  <programme start="20260921004400 -0300" stop="20260921005500 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">PERDENDO O POLAR</sub-title>
-    <desc lang="pt">Sentindo-se desprezado, Polar deixa seus irmãos para ser chef em um restaurante. Desesperados para preencher o vazio, Pardo e Panda procuram alguém para substitui-lo.</desc>
-  </programme>
-  <programme start="20260921005000 -0500" stop="20260921010100 -0500" channel="CNLA_PAN.co">
-    <title lang="es">ESCANDALOSOS</title>
-    <desc lang="es">Los Osos bebé consiguen empleo como repartidores de periódicos.</desc>
-  </programme>
-  <programme start="20260921005500 -0300" stop="20260921010700 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">ENTREGADORES</sub-title>
-    <desc lang="pt">Os Bebês Urso começam a trabalhar entregando jornais.</desc>
-  </programme>
-  <programme start="20260921010100 -0500" stop="20260921011300 -0500" channel="CNLA_PAN.co">
-    <title lang="es">El increíble mundo de gumball</title>
-    <desc lang="es">Los niños descubren que Papá se ha vestido como una mujer para conocer amigos.</desc>
-  </programme>
-  <programme start="20260921010700 -0300" stop="20260921011800 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">A MOÇA</sub-title>
-    <desc lang="pt">Os meninos descobrem que o papai tem se vestido de mulher para fazer amizades.</desc>
-  </programme>
-  <programme start="20260921011300 -0500" stop="20260921012700 -0500" channel="CNLA_PAN.co">
-    <title lang="es">El increíble mundo de gumball</title>
-    <desc lang="es">Cuando Carmen se vuelve demasiado quisquillosa, Gumball decide volverse más quisquilloso que ella.</desc>
-  </programme>
-  <programme start="20260921011800 -0300" stop="20260921013100 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">A MELHOR</sub-title>
-    <desc lang="pt">Quando as críticas de Carmen fogem do controle, Gumball decide ser o mais crítico de todos.</desc>
-  </programme>
-  <programme start="20260921012700 -0500" stop="20260921013900 -0500" channel="CNLA_PAN.co">
-    <title lang="es">El increíble mundo de gumball</title>
-    <desc lang="es">Gumball es el protagonista de su propia historieta, pero le cuesta estar a la altura de su alter ego heroico.</desc>
-  </programme>
-  <programme start="20260921013100 -0300" stop="20260921014300 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">O FORMULÁRIO</sub-title>
-    <desc lang="pt">Papai não recebe uma encomenda e se envolve numa briga com o entregador.</desc>
-  </programme>
-  <programme start="20260921013900 -0500" stop="20260921015100 -0500" channel="CNLA_PAN.co">
-    <title lang="es">El increíble mundo de gumball</title>
-    <desc lang="es">Papá pierde un paquete y se ve envuelto en una pelea cada vez mayor con el repartidor.</desc>
-  </programme>
-  <programme start="20260921014300 -0300" stop="20260921015500 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">O ENCONTRO</sub-title>
-    <desc lang="pt">Gumball descobre a diferença entre um "encontro" e o ¿enterro de um animal¿... da maneira mais penosa possível.</desc>
-  </programme>
-  <programme start="20260921015100 -0500" stop="20260921020400 -0500" channel="CNLA_PAN.co">
-    <title lang="es">El increíble mundo de gumball</title>
-    <desc lang="es">Gumball descubre la diferencia entre una "cita" y el "funeral de una mascota"... a los golpes.</desc>
-  </programme>
-  <programme start="20260921015500 -0300" stop="20260921020700 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">O CONTROLE REMOTO</sub-title>
-    <desc lang="pt">A briga dos Wattersons pelo controle remoto da TV fica tensa.</desc>
-  </programme>
   <programme start="20260921020400 -0500" stop="20260921021600 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">Durante la clase de biología, Gumball y Darwin están esperando que la mariposa salga de la crisálida. La señorita Simian les advierte del efecto mariposa, que postula que el aleteo de un insecto puede provocar un tornado del otro lado del mundo.  Pero Gumball no le hace caso y suelta a la mariposa, que hace estragos en Elmore¿</desc>
-  </programme>
-  <programme start="20260921020700 -0300" stop="20260921021900 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">A BORBOLETA</sub-title>
-    <desc lang="pt">Na aula de biologia, Gumball e Darwin estão esperando uma borboleta emergir da crisálida. Senhorita Símio os alerta sobre o Efeito Borboleta por meio do qual as batidas das asas de um inseto podem dar início a um tornado do outro lado do mundo. Sem dar muita atenção, Gumball solta a borboleta na floresta e Elmore sofre as consequências¿</desc>
   </programme>
   <programme start="20260921021600 -0500" stop="20260921022700 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">La búsqueda de los Watterson de un lugar para estacionar en el centro comercial lleva un poco más tiempo de lo esperado.</desc>
   </programme>
-  <programme start="20260921021900 -0300" stop="20260921023000 -0300" channel="CNLA_BR.br">
-    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">A VAGA</sub-title>
-    <desc lang="pt">A procura por uma vaga no estacionamento do shopping demora mais do que os Wattersons gostariam.</desc>
-  </programme>
   <programme start="20260921022700 -0500" stop="20260921023900 -0500" channel="CNLA_PAN.co">
     <title lang="es">STEVEN UNIVERSE: FUTURO</title>
     <desc lang="es">Después de dejar Pequeña Escuela Madre, Steven ha encontrado un nuevo pasatiempo: las plantas.</desc>
-  </programme>
-  <programme start="20260921023000 -0300" stop="20260921024200 -0300" channel="CNLA_BR.br">
-    <title lang="pt">STEVEN UNIVERSO: FUTURO</title>
-    <sub-title lang="pt">Par espinhento</sub-title>
-    <desc lang="pt">Após deixar a Mini Escola Natal, Steven encontra um novo hobby: plantas.</desc>
   </programme>
   <programme start="20260921023900 -0500" stop="20260921025200 -0500" channel="CNLA_PAN.co">
     <title lang="es">STEVEN UNIVERSE: FUTURO</title>
     <desc lang="es">Los sueños de Steven comienzan a transmitirse en el televisor de su dormitorio.</desc>
   </programme>
-  <programme start="20260921024200 -0300" stop="20260921025300 -0300" channel="CNLA_BR.br">
-    <title lang="pt">STEVEN UNIVERSO: FUTURO</title>
-    <sub-title lang="pt">NOS SONHOS</sub-title>
-    <desc lang="pt">Os sonhos de Steven começam a ser exibidos na TV de seu quarto.</desc>
-  </programme>
   <programme start="20260921025200 -0500" stop="20260921030300 -0500" channel="CNLA_PAN.co">
     <title lang="es">STEVEN UNIVERSE</title>
     <desc lang="es">Un cometa mágico se precipita hacia la ciudad Beach y Steven debe buscar entre la colección de basura de su papá el arma que puede salvar la ciudad.</desc>
-  </programme>
-  <programme start="20260921025300 -0300" stop="20260921030500 -0300" channel="CNLA_BR.br">
-    <title lang="pt">STEVEN UNIVERSO</title>
-    <sub-title lang="pt">O CANHÃO DE LASER</sub-title>
-    <desc lang="pt">Quando um cometa mágico vem em direção a Beach City, Steven deverá revirar a coleção de quinquilharias do seu pai para encontrar uma arma capaz de salvar a cidade.</desc>
   </programme>
   <programme start="20260921030300 -0500" stop="20260921031500 -0500" channel="CNLA_PAN.co">
     <title lang="es">STEVEN UNIVERSE</title>
     <desc lang="es">Steven debe ayudar a los Fryman y a los Pizza a resolver una rivalidad que revivió entre sus restaurantes</desc>
   </programme>
-  <programme start="20260921030500 -0300" stop="20260921031700 -0300" channel="CNLA_BR.br">
-    <title lang="pt">STEVEN UNIVERSO</title>
-    <sub-title lang="pt">GUERRA DE RESTAURANTE</sub-title>
-    <desc lang="pt">Steven deverá ajudar os Frymans e os Pizzas a armar uma disputa entre os restaurantes das duas famílias.</desc>
-  </programme>
   <programme start="20260921031500 -0500" stop="20260921032900 -0500" channel="CNLA_PAN.co">
     <title lang="es">STEVEN UNIVERSE</title>
     <desc lang="es">Steven se une a Perla para participar de una misión especial a un lugar que solía pertenecerle a Rosa-Cuarzo.</desc>
-  </programme>
-  <programme start="20260921031700 -0300" stop="20260921032900 -0300" channel="CNLA_BR.br">
-    <title lang="pt">STEVEN UNIVERSO</title>
-    <sub-title lang="pt">A ESPADA DE ROSE</sub-title>
-    <desc lang="pt">Steven e Pérola participam de uma missão especial num lugar que pertenceu a Rose-Quartz.</desc>
-  </programme>
-  <programme start="20260921032900 -0300" stop="20260921034100 -0300" channel="CNLA_BR.br">
-    <title lang="pt">STEVEN UNIVERSO</title>
-    <sub-title lang="pt">TANTOS ANIVERSÁRIOS</sub-title>
-    <desc lang="pt">Steven descobre que as Gems têm milhares de anos de idade e decide compensar os milhares de aniversários que elas perderam.</desc>
   </programme>
   <programme start="20260921032900 -0500" stop="20260921034100 -0500" channel="CNLA_PAN.co">
     <title lang="es">STEVEN UNIVERSE</title>
     <desc lang="es">Steven celebra su cumpleaños en el establo y decide que tiene que madurar un poco.</desc>
   </programme>
-  <programme start="20260921034100 -0300" stop="20260921035200 -0300" channel="CNLA_BR.br">
-    <title lang="pt">STEVEN UNIVERSO</title>
-    <sub-title lang="pt">ANIVERSÁRIO DO STEVEN</sub-title>
-    <desc lang="pt">Steven faz uma festa de aniversário no celeiro e decide que precisa crescer.</desc>
-  </programme>
   <programme start="20260921034100 -0500" stop="20260921035200 -0500" channel="CNLA_PAN.co">
     <title lang="es">STEVEN UNIVERSE</title>
     <desc lang="es">Las Gemas tratan de llevar a cabo un asalto.</desc>
-  </programme>
-  <programme start="20260921035200 -0300" stop="20260921040400 -0300" channel="CNLA_BR.br">
-    <title lang="pt">STEVEN UNIVERSO</title>
-    <sub-title lang="pt">ASSALTO DE GEM</sub-title>
-    <desc lang="pt">As Gems tentam praticar um assalto.</desc>
   </programme>
   <programme start="20260921035200 -0500" stop="20260921035400 -0500" channel="CNLA_PAN.co">
     <title lang="es">El mundo de craig</title>
