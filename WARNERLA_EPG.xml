@@ -21,131 +21,14 @@
   <channel id="WARNER_MX.mx">
     <display-name>Warner Channel México</display-name>
   </channel>
-  <programme start="20260920093300 -0600" stop="20260920120800 -0600" channel="WARNER_MX.mx">
-    <title lang="es">Batman vs Superman: El Origen de la Justicia</title>
-    <desc lang="es">Temiendo que las acciones de Superman no han sido supervisadas, Batman decide detener al Hombre de Acero, mientras el mundo intenta decidir qué tipo de héroe es el que en verdad necesita.</desc>
-  </programme>
-  <programme start="20260920115200 -0500" stop="20260920141500 -0500" channel="WARNER_CO.co">
-    <title lang="es">Liga de la Justicia</title>
-    <desc lang="es">Impulsado por su recuperada fe en la humanidad e inspirado por el acto desinteresado de Superman, Bruce Wayne solicita la ayuda de su nueva aliada, Diana Prince, para enfrentarse a un enemigo aún mayor.</desc>
-  </programme>
-  <programme start="20260920120800 -0600" stop="20260920141800 -0600" channel="WARNER_MX.mx">
-    <title lang="es">Liga de la Justicia</title>
-    <desc lang="es">Impulsado por su recuperada fe en la humanidad e inspirado por el acto desinteresado de Superman, Bruce Wayne solicita la ayuda de su nueva aliada, Diana Prince, para enfrentarse a un enemigo aún mayor.</desc>
-  </programme>
-  <programme start="20260920122200 -0500" stop="20260920143800 -0500" channel="WARNER_AN.co">
-    <title lang="es">Liga de la Justicia</title>
-    <desc lang="es">Impulsado por su recuperada fe en la humanidad e inspirado por el acto desinteresado de Superman, Bruce Wayne solicita la ayuda de su nueva aliada, Diana Prince, para enfrentarse a un enemigo aún mayor.</desc>
-  </programme>
-  <programme start="20260920122300 -0400" stop="20260920144100 -0400" channel="WARNER_CL.cl">
-    <title lang="es">Liga de la Justicia</title>
-    <desc lang="es">Impulsado por su recuperada fe en la humanidad e inspirado por el acto desinteresado de Superman, Bruce Wayne solicita la ayuda de su nueva aliada, Diana Prince, para enfrentarse a un enemigo aún mayor.</desc>
-  </programme>
-  <programme start="20260920122400 -0400" stop="20260920143800 -0400" channel="WARNER_VE.ve">
-    <title lang="es">Liga de la Justicia</title>
-    <desc lang="es">Impulsado por su recuperada fe en la humanidad e inspirado por el acto desinteresado de Superman, Bruce Wayne solicita la ayuda de su nueva aliada, Diana Prince, para enfrentarse a un enemigo aún mayor.</desc>
-  </programme>
-  <programme start="20260920132500 -0300" stop="20260920153800 -0300" channel="WARNER_BR.br">
-    <title lang="pt">Liga da Justiça</title>
-    <desc lang="pt">Alimentado por sua fé restaurada na humanidade e inspirado pelo ato altruísta de Superman, Bruce Wayne conta com a ajuda de sua recém-descoberta aliada, Diana Prince, para enfrentar um inimigo ainda maior.</desc>
-  </programme>
-  <programme start="20260920141500 -0500" stop="20260920173100 -0500" channel="WARNER_CO.co">
-    <title lang="es">Batman</title>
-  </programme>
-  <programme start="20260920141800 -0600" stop="20260920172200 -0600" channel="WARNER_MX.mx">
-    <title lang="es">Batman</title>
-  </programme>
-  <programme start="20260920142300 -0300" stop="20260920174300 -0300" channel="WARNER_AR.ar">
-    <title lang="es">Batman</title>
-  </programme>
-  <programme start="20260920143800 -0400" stop="20260920174700 -0400" channel="WARNER_VE.ve">
-    <title lang="es">Batman</title>
-  </programme>
-  <programme start="20260920143800 -0500" stop="20260920174900 -0500" channel="WARNER_AN.co">
-    <title lang="es">Batman</title>
-  </programme>
-  <programme start="20260920144100 -0400" stop="20260920175400 -0400" channel="WARNER_CL.cl">
-    <title lang="es">Batman</title>
-  </programme>
-  <programme start="20260920153800 -0300" stop="20260920184900 -0300" channel="WARNER_BR.br">
-    <title lang="pt">Batman</title>
-    <desc lang="pt">Matt Reeves dirige Robert Pattinson no papel de Batman, o detetive justiceiro de Gotham City, que deve correr contra o tempo para impedir o plano de um perverso assassino em série conhecido como O Charada.</desc>
-  </programme>
-  <programme start="20260920172200 -0600" stop="20260920193700 -0600" channel="WARNER_MX.mx">
-    <title lang="es">Pasante de Moda</title>
-  </programme>
-  <programme start="20260920173100 -0500" stop="20260920195700 -0500" channel="WARNER_CO.co">
-    <title lang="es">Pasante de Moda</title>
-  </programme>
-  <programme start="20260920174300 -0300" stop="20260920200500 -0300" channel="WARNER_AR.ar">
-    <title lang="es">Pasante de Moda</title>
-  </programme>
-  <programme start="20260920174700 -0400" stop="20260920200400 -0400" channel="WARNER_VE.ve">
-    <title lang="es">Pasante de Moda</title>
-  </programme>
-  <programme start="20260920174900 -0500" stop="20260920200700 -0500" channel="WARNER_AN.co">
-    <title lang="es">Pasante de Moda</title>
-  </programme>
-  <programme start="20260920175400 -0400" stop="20260920200800 -0400" channel="WARNER_CL.cl">
-    <title lang="es">Pasante de Moda</title>
-  </programme>
-  <programme start="20260920184900 -0300" stop="20260920191400 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">THREE HOOKERS AND A PHILLY CHEESESTEAK</sub-title>
-    <desc lang="pt">Rose continuará 'enganando o marido' com Charlie. Allan encontra algumas mudanças no seu consultório.</desc>
-  </programme>
-  <programme start="20260920191400 -0300" stop="20260920193700 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">THAT DARN PRIEST</sub-title>
-    <desc lang="pt">Rose descobre o plano de Alan e, por sua vez, Alan conhece "Manny", o "marido" tipo manequim de Rose. Enquanto isso, Charlie espera conseguir algum tempo sozinho com Rose.</desc>
-  </programme>
-  <programme start="20260920193700 -0300" stop="20260920200400 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">PILOT</sub-title>
-    <desc lang="pt">O estilo de vida tipo 'Malibú', de Charlie (CHARLIE SHEEN), casa na praia, um 'Jaguar' na garagem e muito sucesso com as mulheres, é interrompido quando seu irmão, Alan (JON CRYER), aparece de surpresa e muito nervoso com seu filho de 10 anos, Jake (ANGUS T. JONES). Sua mulher, Judith (MARIN HINKLE), quer o divócio e ele teve que sair de casa.De má vontade Charlie permite que Alan e Jake morem temporariamente com ele, até que a mãe solteira de Charlie e Alan, controladora e obcecada consigo mesma, se oferesse para que pai e filho morem com ela. Charlie, já apegado com Jake, tem que escolher entre seu estilo de vida ou enfrentar os desafios de amadurecer sendo dois homens e meio.</desc>
-  </programme>
   <programme start="20260920193700 -0600" stop="20260920220000 -0600" channel="WARNER_MX.mx">
     <title lang="es">Como Novio De Pueblo</title>
   </programme>
   <programme start="20260920195700 -0500" stop="20260920220000 -0500" channel="WARNER_CO.co">
     <title lang="es">Son Como Niños 2</title>
   </programme>
-  <programme start="20260920200400 -0300" stop="20260920202900 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE HOFSTADTER INSUFFICIENCY</sub-title>
-    <desc lang="pt">Sheldon e Penny se entrosam na ausência de Leonard. E por isso o coração de Sheldon fica partido quando Leonard volta do Mar do Norte. A atriz REGINA KING reaparece como Mrs. Davis, a diretora de relações empregatícias da universidade.</desc>
-  </programme>
-  <programme start="20260920200400 -0400" stop="20260920220000 -0400" channel="WARNER_VE.ve">
-    <title lang="es">Son Como Niños 2</title>
-  </programme>
-  <programme start="20260920200500 -0300" stop="20260920220000 -0300" channel="WARNER_AR.ar">
-    <title lang="es">Son Como Niños 2</title>
-  </programme>
   <programme start="20260920200700 -0500" stop="20260920220000 -0500" channel="WARNER_AN.co">
     <title lang="es">Son Como Niños 2</title>
-  </programme>
-  <programme start="20260920200800 -0400" stop="20260920220000 -0400" channel="WARNER_CL.cl">
-    <title lang="es">Son Como Niños 2</title>
-  </programme>
-  <programme start="20260920202900 -0300" stop="20260920205500 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE DECEPTION VERIFICATION</sub-title>
-    <desc lang="pt">Raj busca consolo por causa de sua ex-namorada e o relacionamento de Howard com sua mãe ameaça sua masculinidade de uma forma incomum. KEVIN SUSSMAN está de volta como Stuart, o dono da loja de quadrinhos.</desc>
-  </programme>
-  <programme start="20260920205500 -0300" stop="20260920211900 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE SCAVENGER VORTEX</sub-title>
-    <desc lang="pt">Quando a turma participa de uma acirrada caça ao tesouro elaborada por Raj, que testa o conhecimento científico e o conhecimento geral de todos, os pontos fortes e fracos de cada um são revelados.</desc>
-  </programme>
-  <programme start="20260920211900 -0300" stop="20260920214400 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE RAIDERS MINIMIZATION</sub-title>
-    <desc lang="pt">Quando Amy estraga um dos filmes preferidos de Sheldon - Os Caçadores da Arca Perdida - ele fica defensivo e quer vingança. Enquanto isso, Leonard descobre uma forma de forçar Penny a satisfazer suas vontades. Raj e Stuart criam perfis em sites de namoro.</desc>
-  </programme>
-  <programme start="20260920214400 -0300" stop="20260920220500 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE WORKPLACE PROXIMITY</sub-title>
-    <desc lang="pt">Sheldon deverá dosar o tempo que passa com Amy quando ela começa a trabalhar na universidade e o relacionamento dos dois é testado. Enquanto isso, Howard se vê dormindo no sofá de Raj após uma briga com Bernadette.</desc>
   </programme>
   <programme start="20260920220000 -0300" stop="20260921001400 -0300" channel="WARNER_AR.ar">
     <title lang="es">Guasón</title>
@@ -169,11 +52,6 @@
   </programme>
   <programme start="20260920220000 -0600" stop="20260920235400 -0600" channel="WARNER_MX.mx">
     <title lang="es" />
-  </programme>
-  <programme start="20260920220500 -0300" stop="20260920223000 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE ROMANCE RESONANCE</sub-title>
-    <desc lang="pt">A última descoberta científica de Sheldon o faz se sentir uma fraude - e ameaça assombrá-lo para sempre. Enquanto isso, a atitude romântica de Howard com Bernadette faz Penny baixar a guarda com Leonard.</desc>
   </programme>
   <programme start="20260920223000 -0300" stop="20260921003900 -0300" channel="WARNER_BR.br">
     <title lang="pt">Coringa</title>
@@ -12140,6 +12018,926 @@ Cortando as pistas destemidamente e fazendo mil manobras nas competições a bor
     <title lang="es">TNT BUZZ</title>
   </programme>
   <programme start="20261006055700 -0500" stop="20261006060000 -0500" channel="WARNER_CO.co">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261006060000 -0300" stop="20261006063700 -0300" channel="WARNER_AR.ar">
+    <title lang="es">COBRA KAI: SEASON 2</title>
+  </programme>
+  <programme start="20261006060000 -0300" stop="20261006062100 -0300" channel="WARNER_BR.br">
+    <title lang="pt">MIRACLE WORKERS: OREGON TRAIL</title>
+    <sub-title lang="pt">WHAT HAPPENS IN BRANCHWATER</sub-title>
+    <desc lang="pt">O trem faz uma parada na cidade pecaminosa de Branchwater, levando Ezekiel a uma noite de libertinagem e tentação. Enquanto isso, Benny descobre que seu saloon favorito foi transformado numa armadilha para turistas.</desc>
+  </programme>
+  <programme start="20261006060000 -0400" stop="20261006060400 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261006060000 -0400" stop="20261006060400 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261006060000 -0500" stop="20261006063800 -0500" channel="WARNER_CO.co">
+    <title lang="es">COBRA KAI: SEASON 2</title>
+  </programme>
+  <programme start="20261006060000 -0500" stop="20261006061300 -0500" channel="WARNER_AN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261006060000 -0600" stop="20261006061100 -0600" channel="WARNER_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261006060400 -0400" stop="20261006060900 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261006060400 -0400" stop="20261006060600 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261006060600 -0400" stop="20261006082400 -0400" channel="WARNER_VE.ve">
+    <title lang="es">Meteoro</title>
+    <desc lang="es">Un joven conductor, Meteoro, aspira a ser campeón del mundo del automovilismo con la ayuda de su familia y su auto Mach 5, de alta tecnología.</desc>
+  </programme>
+  <programme start="20261006060900 -0400" stop="20261006061000 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261006061000 -0400" stop="20261006083400 -0400" channel="WARNER_CL.cl">
+    <title lang="es">Meteoro</title>
+    <desc lang="es">Un joven conductor, Meteoro, aspira a ser campeón del mundo del automovilismo con la ayuda de su familia y su auto Mach 5, de alta tecnología.</desc>
+  </programme>
+  <programme start="20261006061100 -0600" stop="20261006062300 -0600" channel="WARNER_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261006061300 -0500" stop="20261006083300 -0500" channel="WARNER_AN.co">
+    <title lang="es">Meteoro</title>
+    <desc lang="es">Un joven conductor, Meteoro, aspira a ser campeón del mundo del automovilismo con la ayuda de su familia y su auto Mach 5, de alta tecnología.</desc>
+  </programme>
+  <programme start="20261006062100 -0300" stop="20261006083900 -0300" channel="WARNER_BR.br">
+    <title lang="pt">Speed Racer</title>
+    <desc lang="pt">Os irmãos Wachowski levam um anime clássico ao cinema: Matthew Fox, John Goodman, Christina Ricci e Susan Sarandon estrelam ao lado de Emile Hirsch Speed Racer!
+
+Cortando as pistas destemidamente e fazendo mil manobras nas competições a bordo de seu potente Mach 5, Speed Racer (Emile Hirsch) nasceu para as corridas. Mas, quando recusa uma proposta lucrativa das indústrias Royalton, ele não só enfurece o dono maníaco da empresa (Roger Allam) como também descobre um terrível segredo - algumas das maiores corridas estão sendo organizadas por um grupo de magnatas inescrupulosos! A única forma que Speed tem para salvar os negócios de sua família e o esporte que ele tanto ama é vencer a Royalton em seu próprio jogo. Com o apoio de sua família (John Goodman e a vencedora dos Prêmios da Academia Susan Sarandon) e de sua fiel namorada, Trixie (Christina Ricci), Speed se une a um antigo rival - o misterioso Corredor X (Matthew Fox -"Lost") - para ganhar a corrida que tirou a vida de seu irmão, Rex Racer: um rali mortal que atravessa o país conhecido como The Crucible.</desc>
+  </programme>
+  <programme start="20261006062300 -0600" stop="20261006062500 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261006062500 -0600" stop="20261006084600 -0600" channel="WARNER_MX.mx">
+    <title lang="es">Meteoro</title>
+    <desc lang="es">Un joven conductor, Meteoro, aspira a ser campeón del mundo del automovilismo con la ayuda de su familia y su auto Mach 5, de alta tecnología.</desc>
+  </programme>
+  <programme start="20261006063700 -0300" stop="20261006064900 -0300" channel="WARNER_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261006063800 -0500" stop="20261006070800 -0500" channel="WARNER_CO.co">
+    <title lang="es">COBRA KAI: SEASON 3</title>
+  </programme>
+  <programme start="20261006064900 -0300" stop="20261006091000 -0300" channel="WARNER_AR.ar">
+    <title lang="es">Meteoro</title>
+    <desc lang="es">Un joven conductor, Meteoro, aspira a ser campeón del mundo del automovilismo con la ayuda de su familia y su auto Mach 5, de alta tecnología.</desc>
+  </programme>
+  <programme start="20261006070800 -0500" stop="20261006071000 -0500" channel="WARNER_CO.co">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261006071000 -0500" stop="20261006071200 -0500" channel="WARNER_CO.co">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261006071200 -0500" stop="20261006071400 -0500" channel="WARNER_CO.co">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261006071400 -0500" stop="20261006072000 -0500" channel="WARNER_CO.co">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261006072000 -0500" stop="20261006075100 -0500" channel="WARNER_CO.co">
+    <title lang="es">MIRACLE WORKERS: OREGON TRAIL</title>
+  </programme>
+  <programme start="20261006075100 -0500" stop="20261006075400 -0500" channel="WARNER_CO.co">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261006075400 -0500" stop="20261006075600 -0500" channel="WARNER_CO.co">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261006075600 -0500" stop="20261006082100 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006082100 -0500" stop="20261006084600 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006082400 -0400" stop="20261006084800 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006083300 -0500" stop="20261006085500 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006083400 -0400" stop="20261006085800 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006083900 -0300" stop="20261006090200 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">AUNT MYRA DOESN'T PEE A LOT</sub-title>
+    <desc lang="pt">Alan precisa preparar Jake para o casamento de Judith e Herb. Enquanto isso, Charlie continua saindo com Myra -a irmã de Herb- apesar da objeção e reprovação, tanto de Alan quanto de Judith. O dia da cerimônia chega e é rapidamente arruinado por Alan e pela ex-namorada de Herb. Além disso, Charlie descobre que a garota pela qual está tão interessado está noiva.</desc>
+  </programme>
+  <programme start="20261006084600 -0500" stop="20261006090900 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006084600 -0600" stop="20261006090800 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006084800 -0400" stop="20261006091200 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006085500 -0500" stop="20261006091800 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006085800 -0400" stop="20261006092300 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006090200 -0300" stop="20261006092600 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">TUCKED, TAPED AND GORGEOUS</sub-title>
+    <desc lang="pt">Charlie e Alan analisam novamente sua identidade sexual depois do fato do Alan se tornar amigo de Greg, um pai solteiro gay. Tudo começa a se complicar quando Jake descobre a tendência do novo amigo do seu pai e depois de assumir que Alan também é homossexual, ele conta tudo à sua mãe. Longe de deixar todos surpresos, o que consegue é que as pessoas parabenizem Alan por sua nova opção; fazendo até que ele mesmo por um momento acredite que é gay mesmo. Enquanto isso, Jake começa a se sentir atraído por Sophie, a filha de Greg.</desc>
+  </programme>
+  <programme start="20261006090800 -0600" stop="20261006093100 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006090900 -0500" stop="20261006093500 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006091000 -0300" stop="20261006093400 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006091200 -0400" stop="20261006093500 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006091800 -0500" stop="20261006094000 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006092300 -0400" stop="20261006094600 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006092600 -0300" stop="20261006094900 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">MR. MCGLUE'S FEEDBAG</sub-title>
+    <desc lang="pt">Ao invés de ajudar Jake com seu dever de casa como tinha prometido a Alan, Charlie decide levá-lo a uma pista de corridas para que ele se relacione com verdadeiros vencedores. Enquanto isso, Alan precisa passar o dia todo no Departamento de Trânsito, depois de dar sua senha de atendimento ao público a uma linda mulher que se sentou ao seu lado.</desc>
+  </programme>
+  <programme start="20261006093100 -0600" stop="20261006095300 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006093400 -0300" stop="20261006095600 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006093500 -0400" stop="20261006095900 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006093500 -0500" stop="20261006100200 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006094000 -0500" stop="20261006100300 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006094600 -0400" stop="20261006101200 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006094900 -0300" stop="20261006101400 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">ANTEATERS. THEY'RE JUST CRAZY-LOOKIN'</sub-title>
+    <desc lang="pt">Um jovem atraente (Enrique Iglesias) que está fazendo alguns trabalhos na casa Harper começa a paquerar Chloe, a nova namorada de Charlie. Ao notar que toda a sua atenção agora se dirige ao jovem, Charlie começa a sentir ciúmes e decide se aproximar mais dela, pois em princípio não estava muito interessado na moça. Apesar de Charlie buscar apoio em Alan, este faz de conta que não ouve as queixas do seu irmão.</desc>
+  </programme>
+  <programme start="20261006095300 -0600" stop="20261006101600 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006095600 -0300" stop="20261006102200 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006095900 -0400" stop="20261006102100 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006100200 -0500" stop="20261006102900 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006100300 -0500" stop="20261006102500 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006101200 -0400" stop="20261006103700 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006101400 -0300" stop="20261006103900 -0300" channel="WARNER_BR.br">
+    <title lang="pt">2 BROKE GIRLS</title>
+    <sub-title lang="pt">PILOT FOR AIR</sub-title>
+    <desc lang="pt">Kat Dennings e Beth Behrs estrelam esta nova série cômica de Michael Patrick King como garçonetes de uma lanchonete do Brooklyn que iniciam uma amizade improvável.</desc>
+  </programme>
+  <programme start="20261006101600 -0600" stop="20261006103700 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006102100 -0400" stop="20261006104500 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006102200 -0300" stop="20261006104600 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006102500 -0500" stop="20261006104800 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006102900 -0500" stop="20261006105700 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006103700 -0400" stop="20261006110400 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006103700 -0600" stop="20261006110000 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261006103900 -0300" stop="20261006110400 -0300" channel="WARNER_BR.br">
+    <title lang="pt">2 BROKE GIRLS</title>
+    <sub-title lang="pt">AND THE BREAK-UP SCENE</sub-title>
+    <desc lang="pt">Caroline acha que está fazendo um favor a Max, quando na verdade não está, ao tentar facilitar o rompimento de Max com Robbie (NOAH MILLS -- Sex and the City 2).</desc>
+  </programme>
+  <programme start="20261006104500 -0400" stop="20261006110900 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006104600 -0300" stop="20261006111100 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006104800 -0500" stop="20261006111200 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006105700 -0500" stop="20261006112500 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006110000 -0600" stop="20261006112400 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006110400 -0300" stop="20261006112600 -0300" channel="WARNER_BR.br">
+    <title lang="pt">YOUNG SHELDON</title>
+    <sub-title lang="pt">A LOAF OF BREAD AND A GRAND OLD FLAG</sub-title>
+    <desc lang="pt">As coisas fogem do controle quando Sheldon boicota sua empresa favorita de pães e acaba no noticiário local.</desc>
+  </programme>
+  <programme start="20261006110400 -0400" stop="20261006113000 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006110900 -0400" stop="20261006113200 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006111100 -0300" stop="20261006113600 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006111200 -0500" stop="20261006113600 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006112400 -0600" stop="20261006114800 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006112500 -0500" stop="20261006115100 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006112600 -0300" stop="20261006114900 -0300" channel="WARNER_BR.br">
+    <title lang="pt">YOUNG SHELDON</title>
+    <sub-title lang="pt">ALBERT EINSTEIN AND THE STORY OF ANOTHER MARY</sub-title>
+    <desc lang="pt">Inspirado em seu herói, Albert Einstein, Sheldon tenta aprender a tocar violino. Mary e Meemaw compram um teste de gravidez secretamente quando Mary acha que está grávida.</desc>
+  </programme>
+  <programme start="20261006113000 -0400" stop="20261006115600 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006113200 -0400" stop="20261006115500 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006113600 -0300" stop="20261006120100 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006113600 -0500" stop="20261006120000 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006114800 -0600" stop="20261006121200 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006114900 -0300" stop="20261006121100 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE PROPOSAL PROPOSAL</sub-title>
+    <desc lang="pt">O que ela disse? Amy (MAYIM BIALIK) responde ao pedido de casamento de Sheldon na estreia da 11ª temporada. Enquanto isso, Howard e Bernadette recebem uma notícia inesperada.</desc>
+  </programme>
+  <programme start="20261006115100 -0500" stop="20261006121800 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006115500 -0400" stop="20261006122000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006115600 -0400" stop="20261006122100 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006120000 -0500" stop="20261006122500 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006120100 -0300" stop="20261006122500 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006121100 -0300" stop="20261006123600 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE RETRACTION REACTION</sub-title>
+    <desc lang="pt">O emprego de Leonard é ameaçado quando ele dá uma entrevista embaraçosa no rádio, o que enfurece a universidade e toda a comunidade científica. O apresentador da NPR, IRA FLATOW, está de volta como ele mesmo.</desc>
+  </programme>
+  <programme start="20261006121200 -0600" stop="20261006123500 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006121800 -0500" stop="20261006125300 -0500" channel="WARNER_CO.co">
+    <title lang="es">COBRA KAI: SEASON 1</title>
+  </programme>
+  <programme start="20261006122000 -0400" stop="20261006124400 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006122100 -0400" stop="20261006124600 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006122500 -0300" stop="20261006125000 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006122500 -0500" stop="20261006124800 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006123500 -0600" stop="20261006125800 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006123600 -0300" stop="20261006125800 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE RELAXATION INTEGRATION</sub-title>
+    <desc lang="pt">Amy grava Sheldon falando enquanto ele dorme e tenta convencê-lo de que ele pode ser mais flexível. Enquanto isso, Raj e Stuart competem para conquistar a colega de Bernadette.</desc>
+  </programme>
+  <programme start="20261006124400 -0400" stop="20261006130700 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006124600 -0400" stop="20261006131900 -0400" channel="WARNER_CL.cl">
+    <title lang="es">COBRA KAI: SEASON 1</title>
+  </programme>
+  <programme start="20261006124800 -0500" stop="20261006131200 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006125000 -0300" stop="20261006132500 -0300" channel="WARNER_AR.ar">
+    <title lang="es">COBRA KAI: SEASON 1</title>
+  </programme>
+  <programme start="20261006125300 -0500" stop="20261006152100 -0500" channel="WARNER_CO.co">
+    <title lang="es">Matrix: Revoluciones</title>
+    <desc lang="es">Neo está atrapado entre la Matrix y el mundo real. Morpheus, Trinity y Seraph intentan rescatarlo. Mientras, las fuerzas de Zion, junto con cientos de voluntarios civiles, resisten la invasión de los Centinelas, que abren paso al Ejército de las máquinas. Cuando Neo regresa, el Oráculo le revela que es el único que puede impedir la guerra que significaría el fin de la civilización. Para salvar a la humanidad, Neo se enfrentará, en una deslumbrante batalla, con el temido Agente Smith.</desc>
+  </programme>
+  <programme start="20261006125800 -0300" stop="20261006132000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE EXPLOSION IMPLOSION</sub-title>
+    <desc lang="pt">Enquanto Howard e Sheldon conversam sobre seu relacionamento decepcionante com seus pais, a mãe de Leonard (CHRISTINE BARANSKI) encontra em Penny uma nova melhor amiga.</desc>
+  </programme>
+  <programme start="20261006125800 -0600" stop="20261006132100 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261006130700 -0400" stop="20261006133900 -0400" channel="WARNER_VE.ve">
+    <title lang="es">COBRA KAI: SEASON 1</title>
+  </programme>
+  <programme start="20261006131200 -0500" stop="20261006134400 -0500" channel="WARNER_AN.co">
+    <title lang="es">COBRA KAI: SEASON 1</title>
+  </programme>
+  <programme start="20261006131900 -0400" stop="20261006154200 -0400" channel="WARNER_CL.cl">
+    <title lang="es">Matrix: Revoluciones</title>
+    <desc lang="es">Neo está atrapado entre la Matrix y el mundo real. Morpheus, Trinity y Seraph intentan rescatarlo. Mientras, las fuerzas de Zion, junto con cientos de voluntarios civiles, resisten la invasión de los Centinelas, que abren paso al Ejército de las máquinas. Cuando Neo regresa, el Oráculo le revela que es el único que puede impedir la guerra que significaría el fin de la civilización. Para salvar a la humanidad, Neo se enfrentará, en una deslumbrante batalla, con el temido Agente Smith.</desc>
+  </programme>
+  <programme start="20261006132000 -0300" stop="20261006134200 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE COLLABORATION CONTAMINATION</sub-title>
+    <desc lang="pt">Leonard e Penny aprendem com alguém inesperado nova táticas para lidar com Sheldon. Enquanto isso, Raj e Sheldon não conseguem aceitar o fato de Amy trabalhar com Howard.</desc>
+  </programme>
+  <programme start="20261006132100 -0600" stop="20261006135500 -0600" channel="WARNER_MX.mx">
+    <title lang="es">COBRA KAI: SEASON 1</title>
+  </programme>
+  <programme start="20261006132500 -0300" stop="20261006154800 -0300" channel="WARNER_AR.ar">
+    <title lang="es">Matrix: Revoluciones</title>
+    <desc lang="es">Neo está atrapado entre la Matrix y el mundo real. Morpheus, Trinity y Seraph intentan rescatarlo. Mientras, las fuerzas de Zion, junto con cientos de voluntarios civiles, resisten la invasión de los Centinelas, que abren paso al Ejército de las máquinas. Cuando Neo regresa, el Oráculo le revela que es el único que puede impedir la guerra que significaría el fin de la civilización. Para salvar a la humanidad, Neo se enfrentará, en una deslumbrante batalla, con el temido Agente Smith.</desc>
+  </programme>
+  <programme start="20261006133900 -0400" stop="20261006155300 -0400" channel="WARNER_VE.ve">
+    <title lang="es">Matrix: Revoluciones</title>
+    <desc lang="es">Neo está atrapado entre la Matrix y el mundo real. Morpheus, Trinity y Seraph intentan rescatarlo. Mientras, las fuerzas de Zion, junto con cientos de voluntarios civiles, resisten la invasión de los Centinelas, que abren paso al Ejército de las máquinas. Cuando Neo regresa, el Oráculo le revela que es el único que puede impedir la guerra que significaría el fin de la civilización. Para salvar a la humanidad, Neo se enfrentará, en una deslumbrante batalla, con el temido Agente Smith.</desc>
+  </programme>
+  <programme start="20261006134200 -0300" stop="20261006140600 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE PROTON REGENERATION</sub-title>
+    <desc lang="pt">Sheldon vai contra o WIL WHEATON pelo papel do novo Professor Próton, enquanto Penny aparece para cuidar de Halley quando Bernadette &amp; Howard se recuperam descansando em suas camas.</desc>
+  </programme>
+  <programme start="20261006134400 -0500" stop="20261006155900 -0500" channel="WARNER_AN.co">
+    <title lang="es">Matrix: Revoluciones</title>
+    <desc lang="es">Neo está atrapado entre la Matrix y el mundo real. Morpheus, Trinity y Seraph intentan rescatarlo. Mientras, las fuerzas de Zion, junto con cientos de voluntarios civiles, resisten la invasión de los Centinelas, que abren paso al Ejército de las máquinas. Cuando Neo regresa, el Oráculo le revela que es el único que puede impedir la guerra que significaría el fin de la civilización. Para salvar a la humanidad, Neo se enfrentará, en una deslumbrante batalla, con el temido Agente Smith.</desc>
+  </programme>
+  <programme start="20261006135500 -0600" stop="20261006160400 -0600" channel="WARNER_MX.mx">
+    <title lang="es">Matrix: Revoluciones</title>
+    <desc lang="es">Neo está atrapado entre la Matrix y el mundo real. Morpheus, Trinity y Seraph intentan rescatarlo. Mientras, las fuerzas de Zion, junto con cientos de voluntarios civiles, resisten la invasión de los Centinelas, que abren paso al Ejército de las máquinas. Cuando Neo regresa, el Oráculo le revela que es el único que puede impedir la guerra que significaría el fin de la civilización. Para salvar a la humanidad, Neo se enfrentará, en una deslumbrante batalla, con el temido Agente Smith.</desc>
+  </programme>
+  <programme start="20261006140600 -0300" stop="20261006143100 -0300" channel="WARNER_BR.br">
+    <title lang="pt">2 BROKE GIRLS</title>
+    <sub-title lang="pt">PILOT FOR AIR</sub-title>
+    <desc lang="pt">Kat Dennings e Beth Behrs estrelam esta nova série cômica de Michael Patrick King como garçonetes de uma lanchonete do Brooklyn que iniciam uma amizade improvável.</desc>
+  </programme>
+  <programme start="20261006143100 -0300" stop="20261006145600 -0300" channel="WARNER_BR.br">
+    <title lang="pt">2 BROKE GIRLS</title>
+    <sub-title lang="pt">AND THE BREAK-UP SCENE</sub-title>
+    <desc lang="pt">Caroline acha que está fazendo um favor a Max, quando na verdade não está, ao tentar facilitar o rompimento de Max com Robbie (NOAH MILLS -- Sex and the City 2).</desc>
+  </programme>
+  <programme start="20261006145600 -0300" stop="20261006152100 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">AUNT MYRA DOESN'T PEE A LOT</sub-title>
+    <desc lang="pt">Alan precisa preparar Jake para o casamento de Judith e Herb. Enquanto isso, Charlie continua saindo com Myra -a irmã de Herb- apesar da objeção e reprovação, tanto de Alan quanto de Judith. O dia da cerimônia chega e é rapidamente arruinado por Alan e pela ex-namorada de Herb. Além disso, Charlie descobre que a garota pela qual está tão interessado está noiva.</desc>
+  </programme>
+  <programme start="20261006152100 -0300" stop="20261006154600 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">TUCKED, TAPED AND GORGEOUS</sub-title>
+    <desc lang="pt">Charlie e Alan analisam novamente sua identidade sexual depois do fato do Alan se tornar amigo de Greg, um pai solteiro gay. Tudo começa a se complicar quando Jake descobre a tendência do novo amigo do seu pai e depois de assumir que Alan também é homossexual, ele conta tudo à sua mãe. Longe de deixar todos surpresos, o que consegue é que as pessoas parabenizem Alan por sua nova opção; fazendo até que ele mesmo por um momento acredite que é gay mesmo. Enquanto isso, Jake começa a se sentir atraído por Sophie, a filha de Greg.</desc>
+  </programme>
+  <programme start="20261006152100 -0500" stop="20261006153200 -0500" channel="WARNER_CO.co">
+    <title lang="es">INSIDE WARNER: DIGGER</title>
+  </programme>
+  <programme start="20261006153200 -0500" stop="20261006171500 -0500" channel="WARNER_CO.co">
+    <title lang="es">En el Tornado</title>
+    <desc lang="es">Los rastreadores de tormentas, los buscadores de emociones y los habitantes de la ciudad documentan una avalancha sin precedentes de tornados, que aterrizan en la ciudad de Silverton.</desc>
+  </programme>
+  <programme start="20261006154200 -0400" stop="20261006155300 -0400" channel="WARNER_CL.cl">
+    <title lang="es">INSIDE WARNER: DIGGER</title>
+  </programme>
+  <programme start="20261006154600 -0300" stop="20261006161000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">MR. MCGLUE'S FEEDBAG</sub-title>
+    <desc lang="pt">Ao invés de ajudar Jake com seu dever de casa como tinha prometido a Alan, Charlie decide levá-lo a uma pista de corridas para que ele se relacione com verdadeiros vencedores. Enquanto isso, Alan precisa passar o dia todo no Departamento de Trânsito, depois de dar sua senha de atendimento ao público a uma linda mulher que se sentou ao seu lado.</desc>
+  </programme>
+  <programme start="20261006154800 -0300" stop="20261006155900 -0300" channel="WARNER_AR.ar">
+    <title lang="es">INSIDE WARNER: DIGGER</title>
+  </programme>
+  <programme start="20261006155300 -0400" stop="20261006173100 -0400" channel="WARNER_CL.cl">
+    <title lang="es">En el Tornado</title>
+    <desc lang="es">Los rastreadores de tormentas, los buscadores de emociones y los habitantes de la ciudad documentan una avalancha sin precedentes de tornados, que aterrizan en la ciudad de Silverton.</desc>
+  </programme>
+  <programme start="20261006155300 -0400" stop="20261006160400 -0400" channel="WARNER_VE.ve">
+    <title lang="es">INSIDE WARNER: DIGGER</title>
+  </programme>
+  <programme start="20261006155900 -0300" stop="20261006173800 -0300" channel="WARNER_AR.ar">
+    <title lang="es">En el Tornado</title>
+    <desc lang="es">Los rastreadores de tormentas, los buscadores de emociones y los habitantes de la ciudad documentan una avalancha sin precedentes de tornados, que aterrizan en la ciudad de Silverton.</desc>
+  </programme>
+  <programme start="20261006155900 -0500" stop="20261006161000 -0500" channel="WARNER_AN.co">
+    <title lang="es">INSIDE WARNER: DIGGER</title>
+  </programme>
+  <programme start="20261006160400 -0400" stop="20261006173900 -0400" channel="WARNER_VE.ve">
+    <title lang="es">En el Tornado</title>
+    <desc lang="es">Los rastreadores de tormentas, los buscadores de emociones y los habitantes de la ciudad documentan una avalancha sin precedentes de tornados, que aterrizan en la ciudad de Silverton.</desc>
+  </programme>
+  <programme start="20261006160400 -0600" stop="20261006161500 -0600" channel="WARNER_MX.mx">
+    <title lang="es">INSIDE WARNER: DIGGER</title>
+  </programme>
+  <programme start="20261006161000 -0300" stop="20261006163300 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">ANTEATERS. THEY'RE JUST CRAZY-LOOKIN'</sub-title>
+    <desc lang="pt">Um jovem atraente (Enrique Iglesias) que está fazendo alguns trabalhos na casa Harper começa a paquerar Chloe, a nova namorada de Charlie. Ao notar que toda a sua atenção agora se dirige ao jovem, Charlie começa a sentir ciúmes e decide se aproximar mais dela, pois em princípio não estava muito interessado na moça. Apesar de Charlie buscar apoio em Alan, este faz de conta que não ouve as queixas do seu irmão.</desc>
+  </programme>
+  <programme start="20261006161000 -0500" stop="20261006174500 -0500" channel="WARNER_AN.co">
+    <title lang="es">En el Tornado</title>
+    <desc lang="es">Los rastreadores de tormentas, los buscadores de emociones y los habitantes de la ciudad documentan una avalancha sin precedentes de tornados, que aterrizan en la ciudad de Silverton.</desc>
+  </programme>
+  <programme start="20261006161500 -0600" stop="20261006174800 -0600" channel="WARNER_MX.mx">
+    <title lang="es">En el Tornado</title>
+    <desc lang="es">Los rastreadores de tormentas, los buscadores de emociones y los habitantes de la ciudad documentan una avalancha sin precedentes de tornados, que aterrizan en la ciudad de Silverton.</desc>
+  </programme>
+  <programme start="20261006163300 -0300" stop="20261006181100 -0300" channel="WARNER_BR.br">
+    <title lang="pt">A Volta do Todo Poderoso</title>
+    <desc lang="pt">Evan Baxter é um congressista em ascensão com um futuro brilhante e cujo objetivo é mudar o mundo. Até que Deus ouve suas preces e decide lhe dar uma mãozinha: Ele providencia o material e os animais e dá a Evan a missão de construir uma arca. Após ignorar Deus por algum tempo, ele resolve dar continuidade ao seu plano - mesmo que os outros congressistas e sua família pensem que está maluco.</desc>
+  </programme>
+  <programme start="20261006171500 -0500" stop="20261006200000 -0500" channel="WARNER_CO.co">
+    <title lang="es">El Sorprendente Hombre Araña</title>
+    <desc lang="es">Abandonado por sus padres cuando era un niño y criado por sus tíos, Peter Parker es un adolescente marginado que quiere conquistar a su compañera de colegio, Gwen Stacy. Mientras trata de resolver el misterio de su propio pasado, Peter encuentra un maletín de su padre que lo lleva a conocer al Dr. Connors, un ex compañero de trabajo de su padre. Su búsqueda por entender la desaparición de sus padres marcará el camino que lo conduce a convertirse en el Hombre Araña y lo llevará a enfrentarse al alter ego malvado de Connors, el Lagarto.</desc>
+  </programme>
+  <programme start="20261006173100 -0400" stop="20261006200800 -0400" channel="WARNER_CL.cl">
+    <title lang="es">El Sorprendente Hombre Araña</title>
+    <desc lang="es">Abandonado por sus padres cuando era un niño y criado por sus tíos, Peter Parker es un adolescente marginado que quiere conquistar a su compañera de colegio, Gwen Stacy. Mientras trata de resolver el misterio de su propio pasado, Peter encuentra un maletín de su padre que lo lleva a conocer al Dr. Connors, un ex compañero de trabajo de su padre. Su búsqueda por entender la desaparición de sus padres marcará el camino que lo conduce a convertirse en el Hombre Araña y lo llevará a enfrentarse al alter ego malvado de Connors, el Lagarto.</desc>
+  </programme>
+  <programme start="20261006173800 -0300" stop="20261006201400 -0300" channel="WARNER_AR.ar">
+    <title lang="es">El Sorprendente Hombre Araña</title>
+    <desc lang="es">Abandonado por sus padres cuando era un niño y criado por sus tíos, Peter Parker es un adolescente marginado que quiere conquistar a su compañera de colegio, Gwen Stacy. Mientras trata de resolver el misterio de su propio pasado, Peter encuentra un maletín de su padre que lo lleva a conocer al Dr. Connors, un ex compañero de trabajo de su padre. Su búsqueda por entender la desaparición de sus padres marcará el camino que lo conduce a convertirse en el Hombre Araña y lo llevará a enfrentarse al alter ego malvado de Connors, el Lagarto.</desc>
+  </programme>
+  <programme start="20261006173900 -0400" stop="20261006201000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">El Sorprendente Hombre Araña</title>
+    <desc lang="es">Abandonado por sus padres cuando era un niño y criado por sus tíos, Peter Parker es un adolescente marginado que quiere conquistar a su compañera de colegio, Gwen Stacy. Mientras trata de resolver el misterio de su propio pasado, Peter encuentra un maletín de su padre que lo lleva a conocer al Dr. Connors, un ex compañero de trabajo de su padre. Su búsqueda por entender la desaparición de sus padres marcará el camino que lo conduce a convertirse en el Hombre Araña y lo llevará a enfrentarse al alter ego malvado de Connors, el Lagarto.</desc>
+  </programme>
+  <programme start="20261006174500 -0500" stop="20261006201500 -0500" channel="WARNER_AN.co">
+    <title lang="es">El Sorprendente Hombre Araña</title>
+    <desc lang="es">Abandonado por sus padres cuando era un niño y criado por sus tíos, Peter Parker es un adolescente marginado que quiere conquistar a su compañera de colegio, Gwen Stacy. Mientras trata de resolver el misterio de su propio pasado, Peter encuentra un maletín de su padre que lo lleva a conocer al Dr. Connors, un ex compañero de trabajo de su padre. Su búsqueda por entender la desaparición de sus padres marcará el camino que lo conduce a convertirse en el Hombre Araña y lo llevará a enfrentarse al alter ego malvado de Connors, el Lagarto.</desc>
+  </programme>
+  <programme start="20261006174800 -0600" stop="20261006201600 -0600" channel="WARNER_MX.mx">
+    <title lang="es">El Sorprendente Hombre Araña</title>
+    <desc lang="es">Abandonado por sus padres cuando era un niño y criado por sus tíos, Peter Parker es un adolescente marginado que quiere conquistar a su compañera de colegio, Gwen Stacy. Mientras trata de resolver el misterio de su propio pasado, Peter encuentra un maletín de su padre que lo lleva a conocer al Dr. Connors, un ex compañero de trabajo de su padre. Su búsqueda por entender la desaparición de sus padres marcará el camino que lo conduce a convertirse en el Hombre Araña y lo llevará a enfrentarse al alter ego malvado de Connors, el Lagarto.</desc>
+  </programme>
+  <programme start="20261006181100 -0300" stop="20261006200800 -0300" channel="WARNER_BR.br">
+    <title lang="pt">Cine Holliúdy 2 - A Chibata Sideral</title>
+    <desc lang="pt">Francisgleydisson vê o Cine Holliúdy enfrentar tempos difíceis, mas tudo muda quando uma onda de avistamentos de OVNIs toma conta da cidade. Entre boatos, confusões e figuras excêntricas, ele transforma o cinema no centro da maior aventura intergaláctica do interior do Ceará, rendendo muitas gargalhadas e situações absurdas.</desc>
+  </programme>
+  <programme start="20261006200000 -0500" stop="20261006220000 -0500" channel="WARNER_CO.co">
+    <title lang="es">Regreso del Todopoderoso</title>
+    <desc lang="es">Evan Baxter es un diputado en ascenso con un brillante futuro y con el propósito de "cambiar el mundo." Dios escucha este mensaje y decide ayudarlo. Dándole los materiales y los animales, le dice a Evan que construya un arca. A pesar de sus intentos por ignorar a Dios, eventualmente Evan continúa con el plan, sin importar que los otros diputados y su familia piensen que se ha vuelto loco.</desc>
+  </programme>
+  <programme start="20261006200800 -0300" stop="20261006203200 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE PROPOSAL PROPOSAL</sub-title>
+    <desc lang="pt">O que ela disse? Amy (MAYIM BIALIK) responde ao pedido de casamento de Sheldon na estreia da 11ª temporada. Enquanto isso, Howard e Bernadette recebem uma notícia inesperada.</desc>
+  </programme>
+  <programme start="20261006200800 -0400" stop="20261006215900 -0400" channel="WARNER_CL.cl">
+    <title lang="es">Regreso del Todopoderoso</title>
+    <desc lang="es">Evan Baxter es un diputado en ascenso con un brillante futuro y con el propósito de "cambiar el mundo." Dios escucha este mensaje y decide ayudarlo. Dándole los materiales y los animales, le dice a Evan que construya un arca. A pesar de sus intentos por ignorar a Dios, eventualmente Evan continúa con el plan, sin importar que los otros diputados y su familia piensen que se ha vuelto loco.</desc>
+  </programme>
+  <programme start="20261006201000 -0400" stop="20261006220000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">Regreso del Todopoderoso</title>
+    <desc lang="es">Evan Baxter es un diputado en ascenso con un brillante futuro y con el propósito de "cambiar el mundo." Dios escucha este mensaje y decide ayudarlo. Dándole los materiales y los animales, le dice a Evan que construya un arca. A pesar de sus intentos por ignorar a Dios, eventualmente Evan continúa con el plan, sin importar que los otros diputados y su familia piensen que se ha vuelto loco.</desc>
+  </programme>
+  <programme start="20261006201400 -0300" stop="20261006220000 -0300" channel="WARNER_AR.ar">
+    <title lang="es">Regreso del Todopoderoso</title>
+    <desc lang="es">Evan Baxter es un diputado en ascenso con un brillante futuro y con el propósito de "cambiar el mundo." Dios escucha este mensaje y decide ayudarlo. Dándole los materiales y los animales, le dice a Evan que construya un arca. A pesar de sus intentos por ignorar a Dios, eventualmente Evan continúa con el plan, sin importar que los otros diputados y su familia piensen que se ha vuelto loco.</desc>
+  </programme>
+  <programme start="20261006201500 -0500" stop="20261006220000 -0500" channel="WARNER_AN.co">
+    <title lang="es">Regreso del Todopoderoso</title>
+    <desc lang="es">Evan Baxter es un diputado en ascenso con un brillante futuro y con el propósito de "cambiar el mundo." Dios escucha este mensaje y decide ayudarlo. Dándole los materiales y los animales, le dice a Evan que construya un arca. A pesar de sus intentos por ignorar a Dios, eventualmente Evan continúa con el plan, sin importar que los otros diputados y su familia piensen que se ha vuelto loco.</desc>
+  </programme>
+  <programme start="20261006201600 -0600" stop="20261006220000 -0600" channel="WARNER_MX.mx">
+    <title lang="es">Regreso del Todopoderoso</title>
+    <desc lang="es">Evan Baxter es un diputado en ascenso con un brillante futuro y con el propósito de "cambiar el mundo." Dios escucha este mensaje y decide ayudarlo. Dándole los materiales y los animales, le dice a Evan que construya un arca. A pesar de sus intentos por ignorar a Dios, eventualmente Evan continúa con el plan, sin importar que los otros diputados y su familia piensen que se ha vuelto loco.</desc>
+  </programme>
+  <programme start="20261006203200 -0300" stop="20261006205700 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE RETRACTION REACTION</sub-title>
+    <desc lang="pt">O emprego de Leonard é ameaçado quando ele dá uma entrevista embaraçosa no rádio, o que enfurece a universidade e toda a comunidade científica. O apresentador da NPR, IRA FLATOW, está de volta como ele mesmo.</desc>
+  </programme>
+  <programme start="20261006205700 -0300" stop="20261006212000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE RELAXATION INTEGRATION</sub-title>
+    <desc lang="pt">Amy grava Sheldon falando enquanto ele dorme e tenta convencê-lo de que ele pode ser mais flexível. Enquanto isso, Raj e Stuart competem para conquistar a colega de Bernadette.</desc>
+  </programme>
+  <programme start="20261006212000 -0300" stop="20261006214400 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE EXPLOSION IMPLOSION</sub-title>
+    <desc lang="pt">Enquanto Howard e Sheldon conversam sobre seu relacionamento decepcionante com seus pais, a mãe de Leonard (CHRISTINE BARANSKI) encontra em Penny uma nova melhor amiga.</desc>
+  </programme>
+  <programme start="20261006214400 -0300" stop="20261006220600 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE COLLABORATION CONTAMINATION</sub-title>
+    <desc lang="pt">Leonard e Penny aprendem com alguém inesperado nova táticas para lidar com Sheldon. Enquanto isso, Raj e Sheldon não conseguem aceitar o fato de Amy trabalhar com Howard.</desc>
+  </programme>
+  <programme start="20261006215900 -0400" stop="20261006235400 -0400" channel="WARNER_CL.cl">
+    <title lang="es">Buenos Vecinos</title>
+    <desc lang="es">Mac y Kelly Radner son una joven pareja que intenta criar a su pequeña hija Stella en su casa en los suburbios. De repente, una fraternidad liderada por Teddy Sanders y Pete Regazolli se muda a la casa de al lado. Al comienzo, Mac y Kelly hacen buenas migas con los Delta Psi, pero cuando una noche, al no poder dormir debido a una fiesta en la casa de al lado, Mac llama a la policía, Teddy y Pete les declaran la guerra.</desc>
+  </programme>
+  <programme start="20261006220000 -0300" stop="20261006234800 -0300" channel="WARNER_AR.ar">
+    <title lang="es">Buenos Vecinos</title>
+    <desc lang="es">Mac y Kelly Radner son una joven pareja que intenta criar a su pequeña hija Stella en su casa en los suburbios. De repente, una fraternidad liderada por Teddy Sanders y Pete Regazolli se muda a la casa de al lado. Al comienzo, Mac y Kelly hacen buenas migas con los Delta Psi, pero cuando una noche, al no poder dormir debido a una fiesta en la casa de al lado, Mac llama a la policía, Teddy y Pete les declaran la guerra.</desc>
+  </programme>
+  <programme start="20261006220000 -0400" stop="20261006235100 -0400" channel="WARNER_VE.ve">
+    <title lang="es">Buenos Vecinos</title>
+    <desc lang="es">Mac y Kelly Radner son una joven pareja que intenta criar a su pequeña hija Stella en su casa en los suburbios. De repente, una fraternidad liderada por Teddy Sanders y Pete Regazolli se muda a la casa de al lado. Al comienzo, Mac y Kelly hacen buenas migas con los Delta Psi, pero cuando una noche, al no poder dormir debido a una fiesta en la casa de al lado, Mac llama a la policía, Teddy y Pete les declaran la guerra.</desc>
+  </programme>
+  <programme start="20261006220000 -0500" stop="20261006235400 -0500" channel="WARNER_CO.co">
+    <title lang="es">Buenos Vecinos</title>
+    <desc lang="es">Mac y Kelly Radner son una joven pareja que intenta criar a su pequeña hija Stella en su casa en los suburbios. De repente, una fraternidad liderada por Teddy Sanders y Pete Regazolli se muda a la casa de al lado. Al comienzo, Mac y Kelly hacen buenas migas con los Delta Psi, pero cuando una noche, al no poder dormir debido a una fiesta en la casa de al lado, Mac llama a la policía, Teddy y Pete les declaran la guerra.</desc>
+  </programme>
+  <programme start="20261006220000 -0500" stop="20261006234400 -0500" channel="WARNER_AN.co">
+    <title lang="es">Buenos Vecinos</title>
+    <desc lang="es">Mac y Kelly Radner son una joven pareja que intenta criar a su pequeña hija Stella en su casa en los suburbios. De repente, una fraternidad liderada por Teddy Sanders y Pete Regazolli se muda a la casa de al lado. Al comienzo, Mac y Kelly hacen buenas migas con los Delta Psi, pero cuando una noche, al no poder dormir debido a una fiesta en la casa de al lado, Mac llama a la policía, Teddy y Pete les declaran la guerra.</desc>
+  </programme>
+  <programme start="20261006220000 -0600" stop="20261006234400 -0600" channel="WARNER_MX.mx">
+    <title lang="es">Buenos Vecinos</title>
+    <desc lang="es">Mac y Kelly Radner son una joven pareja que intenta criar a su pequeña hija Stella en su casa en los suburbios. De repente, una fraternidad liderada por Teddy Sanders y Pete Regazolli se muda a la casa de al lado. Al comienzo, Mac y Kelly hacen buenas migas con los Delta Psi, pero cuando una noche, al no poder dormir debido a una fiesta en la casa de al lado, Mac llama a la policía, Teddy y Pete les declaran la guerra.</desc>
+  </programme>
+  <programme start="20261006220600 -0300" stop="20261006223000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE PROTON REGENERATION</sub-title>
+    <desc lang="pt">Sheldon vai contra o WIL WHEATON pelo papel do novo Professor Próton, enquanto Penny aparece para cuidar de Halley quando Bernadette &amp; Howard se recuperam descansando em suas camas.</desc>
+  </programme>
+  <programme start="20261006223000 -0300" stop="20261007000900 -0300" channel="WARNER_BR.br">
+    <title lang="pt">A Morte Te Dá Parabéns</title>
+    <desc lang="pt">Do mesmo estúdio de "Corra!" e "M3gan", nasce este thriller original e criativo sobre a jovem Tree Gelbman, uma estudante universitária que precisa reviver o dia de seu assassinato várias vezes até descobrir a identidade de seu algoz.</desc>
+  </programme>
+  <programme start="20261006234400 -0500" stop="20261007011700 -0500" channel="WARNER_AN.co">
+    <title lang="es">Gamer: Juego Letal</title>
+    <desc lang="es">Un videojuego convierte personas reales en avatares, dominando sus mentes. Controlado por un jugador adolescente (Logan Lerman, Percy Jackson y el ladrón del rayo), un prisionero virtual (Gerard Butler, 300) busca huir. El creador del juego (Michael C. Hall, Peep World) tiene otro plan</desc>
+  </programme>
+  <programme start="20261006234400 -0600" stop="20261007011600 -0600" channel="WARNER_MX.mx">
+    <title lang="es">Gamer: Juego Letal</title>
+    <desc lang="es">Un videojuego convierte personas reales en avatares, dominando sus mentes. Controlado por un jugador adolescente (Logan Lerman, Percy Jackson y el ladrón del rayo), un prisionero virtual (Gerard Butler, 300) busca huir. El creador del juego (Michael C. Hall, Peep World) tiene otro plan</desc>
+  </programme>
+  <programme start="20261006234800 -0300" stop="20261007012700 -0300" channel="WARNER_AR.ar">
+    <title lang="es">Gamer: Juego Letal</title>
+    <desc lang="es">Un videojuego convierte personas reales en avatares, dominando sus mentes. Controlado por un jugador adolescente (Logan Lerman, Percy Jackson y el ladrón del rayo), un prisionero virtual (Gerard Butler, 300) busca huir. El creador del juego (Michael C. Hall, Peep World) tiene otro plan</desc>
+  </programme>
+  <programme start="20261006235100 -0400" stop="20261007012300 -0400" channel="WARNER_VE.ve">
+    <title lang="es">Gamer: Juego Letal</title>
+    <desc lang="es">Un videojuego convierte personas reales en avatares, dominando sus mentes. Controlado por un jugador adolescente (Logan Lerman, Percy Jackson y el ladrón del rayo), un prisionero virtual (Gerard Butler, 300) busca huir. El creador del juego (Michael C. Hall, Peep World) tiene otro plan</desc>
+  </programme>
+  <programme start="20261006235400 -0400" stop="20261007013100 -0400" channel="WARNER_CL.cl">
+    <title lang="es">Gamer: Juego Letal</title>
+    <desc lang="es">Un videojuego convierte personas reales en avatares, dominando sus mentes. Controlado por un jugador adolescente (Logan Lerman, Percy Jackson y el ladrón del rayo), un prisionero virtual (Gerard Butler, 300) busca huir. El creador del juego (Michael C. Hall, Peep World) tiene otro plan</desc>
+  </programme>
+  <programme start="20261006235400 -0500" stop="20261007013600 -0500" channel="WARNER_CO.co">
+    <title lang="es">Gamer: Juego Letal</title>
+    <desc lang="es">Un videojuego convierte personas reales en avatares, dominando sus mentes. Controlado por un jugador adolescente (Logan Lerman, Percy Jackson y el ladrón del rayo), un prisionero virtual (Gerard Butler, 300) busca huir. El creador del juego (Michael C. Hall, Peep World) tiene otro plan</desc>
+  </programme>
+  <programme start="20261007000900 -0300" stop="20261007003300 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">AUNT MYRA DOESN'T PEE A LOT</sub-title>
+    <desc lang="pt">Alan precisa preparar Jake para o casamento de Judith e Herb. Enquanto isso, Charlie continua saindo com Myra -a irmã de Herb- apesar da objeção e reprovação, tanto de Alan quanto de Judith. O dia da cerimônia chega e é rapidamente arruinado por Alan e pela ex-namorada de Herb. Além disso, Charlie descobre que a garota pela qual está tão interessado está noiva.</desc>
+  </programme>
+  <programme start="20261007003300 -0300" stop="20261007005700 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">TUCKED, TAPED AND GORGEOUS</sub-title>
+    <desc lang="pt">Charlie e Alan analisam novamente sua identidade sexual depois do fato do Alan se tornar amigo de Greg, um pai solteiro gay. Tudo começa a se complicar quando Jake descobre a tendência do novo amigo do seu pai e depois de assumir que Alan também é homossexual, ele conta tudo à sua mãe. Longe de deixar todos surpresos, o que consegue é que as pessoas parabenizem Alan por sua nova opção; fazendo até que ele mesmo por um momento acredite que é gay mesmo. Enquanto isso, Jake começa a se sentir atraído por Sophie, a filha de Greg.</desc>
+  </programme>
+  <programme start="20261007005700 -0300" stop="20261007012100 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">MR. MCGLUE'S FEEDBAG</sub-title>
+    <desc lang="pt">Ao invés de ajudar Jake com seu dever de casa como tinha prometido a Alan, Charlie decide levá-lo a uma pista de corridas para que ele se relacione com verdadeiros vencedores. Enquanto isso, Alan precisa passar o dia todo no Departamento de Trânsito, depois de dar sua senha de atendimento ao público a uma linda mulher que se sentou ao seu lado.</desc>
+  </programme>
+  <programme start="20261007011600 -0600" stop="20261007013800 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007011700 -0500" stop="20261007014000 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007012100 -0300" stop="20261007014500 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">ANTEATERS. THEY'RE JUST CRAZY-LOOKIN'</sub-title>
+    <desc lang="pt">Um jovem atraente (Enrique Iglesias) que está fazendo alguns trabalhos na casa Harper começa a paquerar Chloe, a nova namorada de Charlie. Ao notar que toda a sua atenção agora se dirige ao jovem, Charlie começa a sentir ciúmes e decide se aproximar mais dela, pois em princípio não estava muito interessado na moça. Apesar de Charlie buscar apoio em Alan, este faz de conta que não ouve as queixas do seu irmão.</desc>
+  </programme>
+  <programme start="20261007012300 -0400" stop="20261007014600 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007012700 -0300" stop="20261007015000 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007013100 -0400" stop="20261007015500 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007013600 -0500" stop="20261007020000 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007013800 -0600" stop="20261007020100 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007014000 -0500" stop="20261007020300 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007014500 -0300" stop="20261007020500 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">PROSTITUTES AND GELATO</sub-title>
+    <desc lang="pt">Chegou o momento da verdade, Charlie e Alan são convidados por Teddy, seu 'futuro novo pai' para um encontro de boxe; e os dois devem viajar em seu jato particular para Las Vegas. Charlie, como se fosse criança, está reticente em relacionar-se com Teddy, mas acaba concordando com a viagem. Já em Las Vegas, Teddy pede para Charlie e Alan sua benção para se casar com sua mãe. Os rapazes consideram essa proposta uma loucura, mas logo os dois se dão conta de que esse casamento seria perfeito para Evelyn.</desc>
+  </programme>
+  <programme start="20261007014600 -0400" stop="20261007020800 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007015000 -0300" stop="20261007021100 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007015500 -0400" stop="20261007021500 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007020000 -0500" stop="20261007022300 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007020100 -0600" stop="20261007022300 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007020300 -0500" stop="20261007022500 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007020500 -0300" stop="20261007022700 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">LARGE BIRDS, SPIDERS AND MOM</sub-title>
+    <desc lang="pt">Na estréia da quinta temporada, Jake está apreensivo sobre a mudança de série no seu colégio; Charlie e Alan pioram as coisas ao contar sobre as terríveis experiências que tiveram e quanto lhes custou dar esse passo. As histórias traumatizam Jake de tal maneira que no primeiro dia de aula Jake desce do ônibus da escola e vai se esconder em sua casa. Quando Charlie e Alan percebem o que lhe causaram, decidem ensinar Jake a lidar com os seus medos, mas as coisas não saem como eles planejaram.</desc>
+  </programme>
+  <programme start="20261007020800 -0400" stop="20261007023000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007021100 -0300" stop="20261007023200 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007021500 -0400" stop="20261007023700 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007022300 -0500" stop="20261007024500 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007022300 -0600" stop="20261007024500 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007022500 -0500" stop="20261007024700 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007022700 -0300" stop="20261007024800 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE PROPOSAL PROPOSAL</sub-title>
+    <desc lang="pt">O que ela disse? Amy (MAYIM BIALIK) responde ao pedido de casamento de Sheldon na estreia da 11ª temporada. Enquanto isso, Howard e Bernadette recebem uma notícia inesperada.</desc>
+  </programme>
+  <programme start="20261007023000 -0400" stop="20261007025300 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007023200 -0300" stop="20261007025400 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007023700 -0400" stop="20261007025900 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007024500 -0500" stop="20261007030700 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007024500 -0600" stop="20261007030600 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007024700 -0500" stop="20261007030600 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007024800 -0300" stop="20261007030900 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE RETRACTION REACTION</sub-title>
+    <desc lang="pt">O emprego de Leonard é ameaçado quando ele dá uma entrevista embaraçosa no rádio, o que enfurece a universidade e toda a comunidade científica. O apresentador da NPR, IRA FLATOW, está de volta como ele mesmo.</desc>
+  </programme>
+  <programme start="20261007025300 -0400" stop="20261007031300 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007025400 -0300" stop="20261007031300 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007025900 -0400" stop="20261007032000 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007030600 -0500" stop="20261007032800 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007030600 -0600" stop="20261007032800 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007030700 -0500" stop="20261007032800 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007030900 -0300" stop="20261007033100 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE RELAXATION INTEGRATION</sub-title>
+    <desc lang="pt">Amy grava Sheldon falando enquanto ele dorme e tenta convencê-lo de que ele pode ser mais flexível. Enquanto isso, Raj e Stuart competem para conquistar a colega de Bernadette.</desc>
+  </programme>
+  <programme start="20261007031300 -0300" stop="20261007033500 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007031300 -0400" stop="20261007033600 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007032000 -0400" stop="20261007034100 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007032800 -0500" stop="20261007035100 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+  </programme>
+  <programme start="20261007032800 -0500" stop="20261007035200 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007032800 -0600" stop="20261007035200 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007033100 -0300" stop="20261007035200 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE EXPLOSION IMPLOSION</sub-title>
+    <desc lang="pt">Enquanto Howard e Sheldon conversam sobre seu relacionamento decepcionante com seus pais, a mãe de Leonard (CHRISTINE BARANSKI) encontra em Penny uma nova melhor amiga.</desc>
+  </programme>
+  <programme start="20261007033500 -0300" stop="20261007035800 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007033600 -0400" stop="20261007035900 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007034100 -0400" stop="20261007040400 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007035100 -0500" stop="20261007041400 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007035200 -0300" stop="20261007041300 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE COLLABORATION CONTAMINATION</sub-title>
+    <desc lang="pt">Leonard e Penny aprendem com alguém inesperado nova táticas para lidar com Sheldon. Enquanto isso, Raj e Sheldon não conseguem aceitar o fato de Amy trabalhar com Howard.</desc>
+  </programme>
+  <programme start="20261007035200 -0500" stop="20261007041300 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007035200 -0600" stop="20261007041500 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007035800 -0300" stop="20261007042100 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007035900 -0400" stop="20261007042300 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007040400 -0400" stop="20261007042700 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007041300 -0300" stop="20261007043500 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE PROTON REGENERATION</sub-title>
+    <desc lang="pt">Sheldon vai contra o WIL WHEATON pelo papel do novo Professor Próton, enquanto Penny aparece para cuidar de Halley quando Bernadette &amp; Howard se recuperam descansando em suas camas.</desc>
+  </programme>
+  <programme start="20261007041300 -0500" stop="20261007043600 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007041400 -0500" stop="20261007043800 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007041500 -0600" stop="20261007043900 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007042100 -0300" stop="20261007044400 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007042300 -0400" stop="20261007044600 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007042700 -0400" stop="20261007045000 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007043500 -0300" stop="20261007045700 -0300" channel="WARNER_BR.br">
+    <title lang="pt">2 BROKE GIRLS</title>
+    <sub-title lang="pt">PILOT FOR AIR</sub-title>
+    <desc lang="pt">Kat Dennings e Beth Behrs estrelam esta nova série cômica de Michael Patrick King como garçonetes de uma lanchonete do Brooklyn que iniciam uma amizade improvável.</desc>
+  </programme>
+  <programme start="20261007043600 -0500" stop="20261007045900 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007043800 -0500" stop="20261007050100 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007043900 -0600" stop="20261007050200 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007044400 -0300" stop="20261007050500 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007044600 -0400" stop="20261007051000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007045000 -0400" stop="20261007051300 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007045700 -0300" stop="20261007051900 -0300" channel="WARNER_BR.br">
+    <title lang="pt">2 BROKE GIRLS</title>
+    <sub-title lang="pt">AND THE BREAK-UP SCENE</sub-title>
+    <desc lang="pt">Caroline acha que está fazendo um favor a Max, quando na verdade não está, ao tentar facilitar o rompimento de Max com Robbie (NOAH MILLS -- Sex and the City 2).</desc>
+  </programme>
+  <programme start="20261007045900 -0500" stop="20261007052100 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007050100 -0500" stop="20261007052500 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007050200 -0600" stop="20261007052500 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007050500 -0300" stop="20261007055500 -0300" channel="WARNER_AR.ar">
+    <title lang="es">The Pitt: Temporada 1</title>
+  </programme>
+  <programme start="20261007051000 -0400" stop="20261007053200 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007051300 -0400" stop="20261007053500 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007051900 -0300" stop="20261007060000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">COBRA KAI: SEASON 5</title>
+    <sub-title lang="pt">Taikai</sub-title>
+    <desc lang="pt">Uma vaga cobiçada em um torneio de elite internacional desencadeia uma luta entre dojos. Tory enfrenta um teste de lealdade. Sam luta para esquecer Miguel.</desc>
+  </programme>
+  <programme start="20261007052100 -0500" stop="20261007054200 -0500" channel="WARNER_AN.co">
+    <title lang="es">MIRACLE WORKERS: OREGON TRAIL</title>
+  </programme>
+  <programme start="20261007052500 -0500" stop="20261007054700 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+  </programme>
+  <programme start="20261007052500 -0600" stop="20261007054800 -0600" channel="WARNER_MX.mx">
+    <title lang="es">MIRACLE WORKERS: OREGON TRAIL</title>
+  </programme>
+  <programme start="20261007053200 -0400" stop="20261007054800 -0400" channel="WARNER_VE.ve">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261007053500 -0400" stop="20261007055400 -0400" channel="WARNER_CL.cl">
+    <title lang="es">MIRACLE WORKERS: OREGON TRAIL</title>
+  </programme>
+  <programme start="20261007054200 -0500" stop="20261007055300 -0500" channel="WARNER_AN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261007054700 -0500" stop="20261007060000 -0500" channel="WARNER_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261007054800 -0400" stop="20261007060000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261007054800 -0600" stop="20261007060000 -0600" channel="WARNER_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261007055300 -0500" stop="20261007055600 -0500" channel="WARNER_AN.co">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261007055400 -0400" stop="20261007055700 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261007055500 -0300" stop="20261007060000 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261007055600 -0500" stop="20261007060000 -0500" channel="WARNER_AN.co">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261007055700 -0400" stop="20261007060000 -0400" channel="WARNER_CL.cl">
     <title lang="es">TNT BUZZ</title>
   </programme>
 </tv>
