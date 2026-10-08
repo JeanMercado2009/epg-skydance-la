@@ -6,13 +6,6 @@
   <channel id="CNLA_BR.br">
     <display-name>Cartoon Network Brasil</display-name>
   </channel>
-  <programme start="20260922212700 -0500" stop="20260922214100 -0500" channel="CNLA_PAN.co">
-    <title lang="es">Un Show Más: Las Cintas Perdidas</title>
-  </programme>
-  <programme start="20260922214100 -0500" stop="20260922215100 -0500" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <desc lang="es">Cuando su mundo comienza a desaparecer, los Titanes deben confrontar a sus creadores.</desc>
-  </programme>
   <programme start="20260922215100 -0500" stop="20260922220200 -0500" channel="CNLA_PAN.co">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <desc lang="es">Los Titanes descubren lo difícil que es producir dibujos animados cuando hacen uno sobre Michael y Aaron.</desc>
@@ -48,11 +41,6 @@
   <programme start="20260922232900 -0500" stop="20260922234000 -0500" channel="CNLA_PAN.co">
     <title lang="es">UN SHOW MÁS</title>
     <desc lang="es">El máximo enemigo de Rigby de la escuela secundaria regresa y amenaza con impedir que Rigby apruebe la clase de gimnasia y se gradúe de la escuela.</desc>
-  </programme>
-  <programme start="20260922233300 -0300" stop="20260922234400 -0300" channel="CNLA_BR.br">
-    <title lang="pt">CLARÊNCIO, O OTIMISTA</title>
-    <sub-title lang="pt">A SUBSTITUTA</sub-title>
-    <desc lang="pt">Quando a Srta. Baker tira um inesperado dia de folga, ela é substituída por alguém que tem dificuldade para manter a ordem na sala. Não demora muito para que a aula se transforme num caos. Agora, caberá a Clarêncio trazer a Srta. Baker de volta.</desc>
   </programme>
   <programme start="20260922234000 -0500" stop="20260922235400 -0500" channel="CNLA_PAN.co">
     <title lang="es">UN SHOW MÁS</title>
