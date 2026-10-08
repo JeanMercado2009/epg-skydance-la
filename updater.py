@@ -13,6 +13,10 @@ RETENTION_DAYS = 15
 AUTH_URL = "https://epg.tapkit.warnermedia.com/api/security/oauth/token"
 BASE_DAILY_URL = "https://epg.tapkit.warnermedia.com/api/daily/shows?feedId={feed_id}&format=xls"
 
+# Configuración de TMDb
+TMDB_API_KEY = os.environ.get("TMDB_API_KEY", "").strip()
+TMDB_TOKEN = os.environ.get("TMDB_TOKEN", "").strip()
+
 NETWORKS_CONFIG = {
     "CNLA_EPG.xml": {
         "generator_name": "Guia de Programacion Cartoon Network MultiFeed",
@@ -188,6 +192,52 @@ def login_and_get_token():
     print("[OK] Sesión iniciada y token obtenido exitosamente.")
     return token
 
+def fetch_tmdb_synopsis(title):
+    """Busca la sinopsis en español en TMDb usando estrategias de limpieza y respaldo."""
+    if not title or (not TMDB_TOKEN and not TMDB_API_KEY):
+        return ""
+    
+    headers = {
+        "accept": "application/json"
+    }
+    if TMDB_TOKEN:
+        headers["Authorization"] = f"Bearer {TMDB_TOKEN}"
+    elif TMDB_API_KEY:
+        headers["Authorization"] = f"Bearer {TMDB_API_KEY}"
+
+    clean_title_main = re.sub(r'[:\-].*', '', title).strip()
+    search_queries = [clean_title_main, title] if clean_title_main != title else [title]
+
+    for query_str in search_queries:
+        if not query_str:
+            continue
+            
+        params = {
+            "query": query_str,
+            "language": "es-ES"
+        }
+        
+        try:
+            # 1. Intentar como serie de TV
+            url_tv = "https://api.themoviedb.org/3/search/tv"
+            res = requests.get(url_tv, headers=headers, params=params, timeout=10)
+            if res.status_code == 200:
+                results = res.json().get("results", [])
+                if results and results[0].get("overview"):
+                    return results[0].get("overview")
+                    
+            # 2. Intentar como película
+            url_movie = "https://api.themoviedb.org/3/search/movie"
+            res = requests.get(url_movie, headers=headers, params=params, timeout=10)
+            if res.status_code == 200:
+                results = res.json().get("results", [])
+                if results and results[0].get("overview"):
+                    return results[0].get("overview")
+        except Exception:
+            pass
+            
+    return ""
+
 def download_feed_xls(token, feed_id, referer_url):
     session = requests.Session()
     session.headers.update({
@@ -252,11 +302,9 @@ def load_excel_schedule(file_path):
     return df
 
 def find_column(cols_dict, possible_names):
-    """Busca de forma segura una columna que coincida con alguna de las opciones dadas."""
     for name in possible_names:
         if name in cols_dict:
             return cols_dict[name]
-    # Búsqueda parcial / insensible a mayúsculas
     for col_key, col_val in cols_dict.items():
         for name in possible_names:
             if name.lower() in col_key.lower():
@@ -278,19 +326,16 @@ def process_feed(root, feed_cfg, xls_path):
 
     df = load_excel_schedule(xls_path)
     
-    # Mapeo flexible de columnas por nombre
     cols = {str(c).strip(): c for c in df.columns}
     
     col_date = find_column(cols, ["Schedule Date", "Date", "Fecha"]) or df.columns[0]
     col_time = find_column(cols, ["Title Start Time", "Start Time", "Hora"]) or df.columns[1]
     col_title = find_column(cols, ["Title Name", "Title", "Programa"]) or df.columns[2]
     
-    # Columnas específicas para subtítulos, temporada y episodio
     col_ep_name = find_column(cols, ["Episode Name English", "Episode Name", "Sub-title"])
     col_ep_num = find_column(cols, ["Episode", "Episode Number", "Episodio"])
     col_season = find_column(cols, ["Season", "Season Number", "Temporada"])
     
-    # Sinopsis
     col_desc = find_column(cols, ["Title Synopsis", "Synopsis", "Description"])
     col_ep_desc = find_column(cols, ["Episode Synopsis"])
 
@@ -350,6 +395,10 @@ def process_feed(root, feed_cfg, xls_path):
             desc_val = str(row.get(col_ep_desc)).strip()
         elif col_desc and pd.notna(row.get(col_desc)) and str(row.get(col_desc)).strip():
             desc_val = str(row.get(col_desc)).strip()
+            
+        # Respaldo automático con TMDb si la descripción está vacía
+        if not desc_val and title_val:
+            desc_val = fetch_tmdb_synopsis(title_val)
 
         raw_events.append({
             "start": event_dt,
@@ -404,46 +453,4 @@ def main():
 
     for xml_filename, net_config in NETWORKS_CONFIG.items():
         print(f"\n==========================================")
-        print(f"Procesando: {xml_filename}")
-        print(f"==========================================")
-        
-        root = sanitize_and_parse_xml(xml_filename, net_config["generator_name"])
-
-        active_channel_ids = {cfg["channel_id"] for cfg in net_config["feeds"]}
-        for ch in list(root.findall("channel")):
-            if ch.attrib.get("id") not in active_channel_ids:
-                root.remove(ch)
-
-        for feed_cfg in net_config["feeds"]:
-            try:
-                xls_path = download_feed_xls(token, feed_cfg["feed_id"], net_config["referer"])
-                process_feed(root, feed_cfg, xls_path)
-            except Exception as e:
-                print(f"[ERROR] Error al procesar feed {feed_cfg['feed_id']}: {e}")
-
-        cutoff_date = datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)
-        for p in list(root.findall("programme")):
-            ch_id = p.attrib.get("channel")
-            if ch_id not in active_channel_ids:
-                root.remove(p)
-                continue
-            cfg = next((c for c in net_config["feeds"] if c["channel_id"] == ch_id), net_config["feeds"][0])
-            stop_dt = parse_xmltv_date(p.attrib.get("stop", ""), cfg["tz"])
-            if stop_dt and stop_dt < cutoff_date:
-                root.remove(p)
-
-        sorted_progs = sorted(
-            root.findall("programme"),
-            key=lambda x: x.attrib.get("start", "")
-        )
-        for p in list(root.findall("programme")):
-            root.remove(p)
-        for p in sorted_progs:
-            root.append(p)
-
-        ET.indent(root, space="  ", level=0)
-        ET.ElementTree(root).write(xml_filename, encoding="utf-8", xml_declaration=True)
-        print(f"[OK] Archivo {xml_filename} guardado con éxito. Total programas: {len(sorted_progs)}")
-
-if __name__ == "__main__":
-    main()
+        print(f"Procesando: {xml
