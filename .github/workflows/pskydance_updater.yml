@@ -2,8 +2,8 @@ name: Actualizar EPG Nickelodeon
 
 on:
   schedule:
-    - cron: '0 6 * * *' # Se ejecuta diariamente a las 6:00 AM UTC
-  workflow_dispatch: # Permite ejecución manual desde la pestaña Actions
+    - cron: '0 6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-nickelodeon:
@@ -29,10 +29,10 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add nickelodeon/
+          git add -A nickelodeon/
           if git diff --staged --quiet; then
-            echo "No hay cambios nuevos en la grilla de Nickelodeon."
+            echo "No hay cambios nuevos en la carpeta nickelodeon."
           else
-            git commit -m "Auto-update EPG Nickelodeon: $(date +'%Y-%m-%d %H:%M:%S')"
+            git commit -m "Auto-update EPG Nickelodeon history: $(date +'%Y-%m-%d %H:%M:%S')"
             git push
           fi
