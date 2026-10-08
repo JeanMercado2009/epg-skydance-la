@@ -218,7 +218,6 @@ def fetch_tmdb_synopsis(title):
         }
         
         try:
-            # 1. Intentar como serie de TV
             url_tv = "https://api.themoviedb.org/3/search/tv"
             res = requests.get(url_tv, headers=headers, params=params, timeout=10)
             if res.status_code == 200:
@@ -226,7 +225,6 @@ def fetch_tmdb_synopsis(title):
                 if results and results[0].get("overview"):
                     return results[0].get("overview")
                     
-            # 2. Intentar como película
             url_movie = "https://api.themoviedb.org/3/search/movie"
             res = requests.get(url_movie, headers=headers, params=params, timeout=10)
             if res.status_code == 200:
@@ -358,7 +356,11 @@ def process_feed(root, feed_cfg, xls_path):
         time_raw = str(row.get(col_time, "")).strip()
 
         date_match = re.search(r"(\d{1,2})[-/](\d{1,2})[-/](\d{4})", date_raw)
-        time_match = re.search(r"(\d{1,2}):(\d{2})", time_match.group(0) if time_match else "") or re.search(r"(\d{1,2}):(\d{2})", time_raw)
+        
+        # Búsqueda segura de la hora sin depender de un match previo fallido
+        time_match = re.search(r"(\d{1,2}):(\d{2})", time_raw)
+        if not time_match and date_match:
+            time_match = re.search(r"(\d{1,2}):(\d{2})", date_raw)
 
         if not date_match or not time_match:
             continue
