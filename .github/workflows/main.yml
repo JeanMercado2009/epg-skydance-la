@@ -1,4 +1,4 @@
-name: Actualizar EPG Grillas WB Skydance
+name: Actualizar EPG Grillas
 
 on:
   push:
@@ -18,7 +18,7 @@ jobs:
           python-version: '3.10'
 
       - name: Instalar dependencias
-        run: pip install requests
+        run: pip install requests pandas openpyxl
 
       - name: Ejecutar script de actualización
         env:
