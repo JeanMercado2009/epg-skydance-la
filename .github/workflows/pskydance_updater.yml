@@ -1,0 +1,38 @@
+name: Actualizar EPG Nickelodeon
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Se ejecuta diariamente a las 6:00 AM UTC
+  workflow_dispatch: # Permite ejecución manual desde la pestaña Actions
+
+jobs:
+  update-nickelodeon:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Instalar dependencias
+        run: |
+          pip install requests
+
+      - name: Ejecutar script de Skydance / Nickelodeon
+        run: |
+          python updater_skydance.py
+
+      - name: Commit y Push de los cambios
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add nickelodeon/
+          if git diff --staged --quiet; then
+            echo "No hay cambios nuevos en la grilla de Nickelodeon."
+          else
+            git commit -m "Auto-update EPG Nickelodeon: $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
