@@ -22,6 +22,8 @@ jobs:
 
       - name: Ejecutar script de actualización
         env:
+          TAPKIT_EMAIL: ${{ secrets.TAPKIT_EMAIL }}
+          TAPKIT_PASSWORD: ${{ secrets.TAPKIT_PASSWORD }}
           TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python updater.py
