@@ -18,33 +18,6 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
-  <programme start="20260922194400 -0600" stop="20260922220000 -0600" channel="TNT_MX.mx">
-    <title lang="es">¡SHAZAM!</title>
-    <desc lang="es">El mayor sueño de todo niño  y no tan niño  es tener superpoderes. El universo cinematográfico de DC nos presenta a Billy Batson, un  joven huérfano que, gracias a un misterioso hechicero, se convierte en superhéroe al decir "¡Shazam!" En un cuerpo adulto y con corazón de niño, Billy deberá aprender a usar sus nuevos poderes para combatir las fuerzas del mal.</desc>
-  </programme>
-  <programme start="20260922220000 -0400" stop="20260923003700 -0400" channel="TNT_CL.cl">
-    <title lang="es">SHAZAM! LA FURIA DE LOS DIOSES</title>
-    <desc lang="es">La increíble historia de Billy Batson y su familia continúa cuando los jóvenes deban decir "Shazam!" una vez más para convertirse en sus versiones adultas de superhéroes y así enfrentar a un vengativo trío de diosas para salvar su ciudad.</desc>
-  </programme>
-  <programme start="20260922220000 -0500" stop="20260922235200 -0500" channel="TNT_CO.co">
-    <title lang="es">EL PASEO 6</title>
-  </programme>
-  <programme start="20260922220000 -0500" stop="20260923003300 -0500" channel="TNT_PAN.co">
-    <title lang="es">SHAZAM! LA FURIA DE LOS DIOSES</title>
-    <desc lang="es">La increíble historia de Billy Batson y su familia continúa cuando los jóvenes deban decir "Shazam!" una vez más para convertirse en sus versiones adultas de superhéroes y así enfrentar a un vengativo trío de diosas para salvar su ciudad.</desc>
-  </programme>
-  <programme start="20260922220000 -0600" stop="20260923002400 -0600" channel="TNT_MX.mx">
-    <title lang="es">SHAZAM! LA FURIA DE LOS DIOSES</title>
-    <desc lang="es">La increíble historia de Billy Batson y su familia continúa cuando los jóvenes deban decir "Shazam!" una vez más para convertirse en sus versiones adultas de superhéroes y así enfrentar a un vengativo trío de diosas para salvar su ciudad.</desc>
-  </programme>
-  <programme start="20260922231800 -0300" stop="20260923014800 -0300" channel="TNT_AR.ar">
-    <title lang="es">SHAZAM! LA FURIA DE LOS DIOSES</title>
-    <desc lang="es">La increíble historia de Billy Batson y su familia continúa cuando los jóvenes deban decir "Shazam!" una vez más para convertirse en sus versiones adultas de superhéroes y así enfrentar a un vengativo trío de diosas para salvar su ciudad.</desc>
-  </programme>
-  <programme start="20260922235200 -0500" stop="20260923014000 -0500" channel="TNT_CO.co">
-    <title lang="es">REVANCHA</title>
-    <desc lang="es">Porter es balaceado por su esposa y su mejor amigo, quienes huyen pensando que había fallecido. Cuando logra recuperarse, Porter va en busca de quienes formaron el triángulo amoroso que acabo con su matrimonio.</desc>
-  </programme>
   <programme start="20260923002400 -0600" stop="20260923020900 -0600" channel="TNT_MX.mx">
     <title lang="es">REVANCHA</title>
     <desc lang="es">Porter es balaceado por su esposa y su mejor amigo, quienes huyen pensando que había fallecido. Cuando logra recuperarse, Porter va en busca de quienes formaron el triángulo amoroso que acabo con su matrimonio.</desc>
@@ -53,46 +26,13 @@
     <title lang="es">REVANCHA</title>
     <desc lang="es">Porter es balaceado por su esposa y su mejor amigo, quienes huyen pensando que había fallecido. Cuando logra recuperarse, Porter va en busca de quienes formaron el triángulo amoroso que acabo con su matrimonio.</desc>
   </programme>
-  <programme start="20260923003700 -0400" stop="20260923022400 -0400" channel="TNT_CL.cl">
-    <title lang="es">REVANCHA</title>
-    <desc lang="es">Porter es balaceado por su esposa y su mejor amigo, quienes huyen pensando que había fallecido. Cuando logra recuperarse, Porter va en busca de quienes formaron el triángulo amoroso que acabo con su matrimonio.</desc>
-  </programme>
-  <programme start="20260923004000 -0300" stop="20260923010300 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA ROUBO DE CORDÃO</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260923010300 -0300" stop="20260923012600 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA MATAR AULA</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260923012600 -0300" stop="20260923014900 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">PRONTO, PARTE DOIS</sub-title>
-    <desc lang="pt">No emocionante episódio final da série, a família Banks se prepara para se mudar da Califórnia e Will encara o fato de não ter conquistado muita coisa desde que se mudou para lá. SHERMAN HEMSLEY, ISABEL SANFORD e MARLA GIBBS participam ao lado de GARY COLEMAN e CONRAD BAIN.</desc>
-  </programme>
   <programme start="20260923014000 -0500" stop="20260923032900 -0500" channel="TNT_CO.co">
     <title lang="es">UN HOMBRE DIFERENTE</title>
     <desc lang="es">Sean (Vin Diesel) es un agente de la unidad antidrogas que recorre las noches de Los Angeles a la caza de violentos delincuentes. Su fin es ahora encarcelar, junto con su implacable compañero, a un mafioso escurridizo conocido como Diablo, líder de una gran organización aberrante. El dúo se enfrenta paso a paso con la muerte, mientras la búsqueda para Sean se vuelve cada vez más personal: ahora sabe que el capo mafioso es nada menos que el responsable de la muerte de su esposa.</desc>
   </programme>
-  <programme start="20260923014800 -0300" stop="20260923032900 -0300" channel="TNT_AR.ar">
-    <title lang="es">REVANCHA</title>
-    <desc lang="es">Porter es balaceado por su esposa y su mejor amigo, quienes huyen pensando que había fallecido. Cuando logra recuperarse, Porter va en busca de quienes formaron el triángulo amoroso que acabo con su matrimonio.</desc>
-  </programme>
-  <programme start="20260923014900 -0300" stop="20260923021100 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">PROJETO UM MALUCO NO PEDAÇO (PILOTO)</sub-title>
-    <desc lang="pt">Will Smith interpreta um jovem que se muda da periferia da Filadélfia à mansão dos seus parentes ricos, em Bel-Air, e obriga todos a repensarem a forma com que vivem e pensam.</desc>
-  </programme>
   <programme start="20260923020900 -0600" stop="20260923040000 -0600" channel="TNT_MX.mx">
     <title lang="es">UN HOMBRE DIFERENTE</title>
     <desc lang="es">Sean (Vin Diesel) es un agente de la unidad antidrogas que recorre las noches de Los Angeles a la caza de violentos delincuentes. Su fin es ahora encarcelar, junto con su implacable compañero, a un mafioso escurridizo conocido como Diablo, líder de una gran organización aberrante. El dúo se enfrenta paso a paso con la muerte, mientras la búsqueda para Sean se vuelve cada vez más personal: ahora sabe que el capo mafioso es nada menos que el responsable de la muerte de su esposa.</desc>
-  </programme>
-  <programme start="20260923021100 -0300" stop="20260923023400 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">TOCA A BATERIA, ASHLEY</sub-title>
-    <desc lang="pt">O pai de Ashley quer que ela continue fazendo aula de violino, mas Will tem outra ideia.</desc>
   </programme>
   <programme start="20260923022000 -0500" stop="20260923040800 -0500" channel="TNT_PAN.co">
     <title lang="es">UN HOMBRE DIFERENTE</title>
@@ -101,11 +41,6 @@
   <programme start="20260923022400 -0400" stop="20260923041400 -0400" channel="TNT_CL.cl">
     <title lang="es">UN HOMBRE DIFERENTE</title>
     <desc lang="es">Sean (Vin Diesel) es un agente de la unidad antidrogas que recorre las noches de Los Angeles a la caza de violentos delincuentes. Su fin es ahora encarcelar, junto con su implacable compañero, a un mafioso escurridizo conocido como Diablo, líder de una gran organización aberrante. El dúo se enfrenta paso a paso con la muerte, mientras la búsqueda para Sean se vuelve cada vez más personal: ahora sabe que el capo mafioso es nada menos que el responsable de la muerte de su esposa.</desc>
-  </programme>
-  <programme start="20260923023400 -0300" stop="20260923025500 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">CLUBBA HUBBA</sub-title>
-    <desc lang="pt">Will quer sair com uma garota, mas antes precisa dar um jeito de impressionar o pai dela, esnobe e protetor.</desc>
   </programme>
   <programme start="20260923025500 -0300" stop="20260923045100 -0300" channel="TNT_BR.br">
     <title lang="pt">A MULA</title>
@@ -6504,5 +6439,510 @@
   </programme>
   <programme start="20261009055700 -0600" stop="20261009060000 -0600" channel="TNT_MX.mx">
     <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261009060000 -0300" stop="20261009063400 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.9.</episode-num>
+  </programme>
+  <programme start="20261009060000 -0300" stop="20261009061700 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <episode-num system="xmltv_ns">-1.18.</episode-num>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+  </programme>
+  <programme start="20261009060000 -0400" stop="20261009060100 -0400" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.71.</episode-num>
+  </programme>
+  <programme start="20261009060000 -0500" stop="20261009063900 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.9.</episode-num>
+  </programme>
+  <programme start="20261009060000 -0500" stop="20261009061100 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <episode-num system="xmltv_ns">-1.20.</episode-num>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+  </programme>
+  <programme start="20261009060000 -0600" stop="20261009063900 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.10.</episode-num>
+  </programme>
+  <programme start="20261009060100 -0400" stop="20261009081000 -0400" channel="TNT_CL.cl">
+    <title lang="es">EL PROTECTOR</title>
+    <desc lang="es">John Kruger trabaja para el programa de protección de testigos del Gobierno de Estados Unidos, eliminando cualquier vestigio de la identidad previa de los testigos. Cuando una alta ejecutiva de una fábrica de armas se convierte en la poseedora de evidencia sobre acuerdos ilegales de armas, el FBI le asigna a John su protección.</desc>
+  </programme>
+  <programme start="20261009061100 -0500" stop="20261009075000 -0500" channel="TNT_PAN.co">
+    <title lang="es">MISFITS</title>
+    <desc lang="es">Luego de escapar de una cárcel de máxima seguridad, el famoso delincuente Richard Pace (Pierce Brosnan) es reclutado por una banda de ladrones al estilo Robin Hood para realizar el robo más importante del siglo y de paso desfinanciar a grupos terroristas a nivel mundial. Del director de "Duro de Matar 2" y con la participación de Tim Roth.</desc>
+  </programme>
+  <programme start="20261009061700 -0300" stop="20261009082300 -0300" channel="TNT_AR.ar">
+    <title lang="es">EL PROTECTOR</title>
+    <desc lang="es">John Kruger trabaja para el programa de protección de testigos del Gobierno de Estados Unidos, eliminando cualquier vestigio de la identidad previa de los testigos. Cuando una alta ejecutiva de una fábrica de armas se convierte en la poseedora de evidencia sobre acuerdos ilegales de armas, el FBI le asigna a John su protección.</desc>
+  </programme>
+  <programme start="20261009063400 -0300" stop="20261009064400 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+    <episode-num system="xmltv_ns">-1.28.</episode-num>
+    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+  </programme>
+  <programme start="20261009063900 -0500" stop="20261009072200 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.10.</episode-num>
+  </programme>
+  <programme start="20261009063900 -0600" stop="20261009064700 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <episode-num system="xmltv_ns">-1.23.</episode-num>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+  </programme>
+  <programme start="20261009064400 -0300" stop="20261009065700 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+    <episode-num system="xmltv_ns">-1.29.</episode-num>
+    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+  </programme>
+  <programme start="20261009064700 -0600" stop="20261009084600 -0600" channel="TNT_MX.mx">
+    <title lang="es">ROMEO DEBE MORIR</title>
+    <desc lang="es">Las pandillas africanas y asiáticas se disputan el control del muelle de Oakland. Po, es el hijo del líder asiático que agita a todos los estibadores, y la disputa se convierte en la guerra más peligrosa de lo que nadie se imagina.</desc>
+  </programme>
+  <programme start="20261009065700 -0300" stop="20261009085200 -0300" channel="TNT_BR.br">
+    <title lang="pt">QUEIMA DE ARQUIVO</title>
+    <sub-title lang="pt">Eraser</sub-title>
+    <desc lang="pt">"Agente Secreto ""apaga"" identidade de testemunhas que colaboram com o governo, para protegê-las de represálias. Em sua nova missão, ele deve proteger a executiva que vem colaborando com o FBI para evitar que seu chefe concretize vendas de armas perigosas para grupo terroristas."</desc>
+  </programme>
+  <programme start="20261009072200 -0500" stop="20261009073300 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <episode-num system="xmltv_ns">-1.25.</episode-num>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+  </programme>
+  <programme start="20261009073300 -0500" stop="20261009094500 -0500" channel="TNT_CO.co">
+    <title lang="es">EL PROTECTOR</title>
+    <desc lang="es">John Kruger trabaja para el programa de protección de testigos del Gobierno de Estados Unidos, eliminando cualquier vestigio de la identidad previa de los testigos. Cuando una alta ejecutiva de una fábrica de armas se convierte en la poseedora de evidencia sobre acuerdos ilegales de armas, el FBI le asigna a John su protección.</desc>
+  </programme>
+  <programme start="20261009075000 -0500" stop="20261009100100 -0500" channel="TNT_PAN.co">
+    <title lang="es">EL PROTECTOR</title>
+    <desc lang="es">John Kruger trabaja para el programa de protección de testigos del Gobierno de Estados Unidos, eliminando cualquier vestigio de la identidad previa de los testigos. Cuando una alta ejecutiva de una fábrica de armas se convierte en la poseedora de evidencia sobre acuerdos ilegales de armas, el FBI le asigna a John su protección.</desc>
+  </programme>
+  <programme start="20261009081000 -0400" stop="20261009102100 -0400" channel="TNT_CL.cl">
+    <title lang="es">EL COLECCIONISTA DE HUESOS</title>
+    <desc lang="es">Denzel Washington protagoniza a un detective que fue victima de un atentado que lo dejó cuadriplégico en la cama de un hospital; desde allí ayuda a una oficial novata a ubicar las pistas de un asesino en serie que utiliza mensajes de ultratumba escondidos en los lugares donde comete el crimen.</desc>
+  </programme>
+  <programme start="20261009082300 -0300" stop="20261009103200 -0300" channel="TNT_AR.ar">
+    <title lang="es">EL COLECCIONISTA DE HUESOS</title>
+    <desc lang="es">Denzel Washington protagoniza a un detective que fue victima de un atentado que lo dejó cuadriplégico en la cama de un hospital; desde allí ayuda a una oficial novata a ubicar las pistas de un asesino en serie que utiliza mensajes de ultratumba escondidos en los lugares donde comete el crimen.</desc>
+  </programme>
+  <programme start="20261009084600 -0600" stop="20261009104800 -0600" channel="TNT_MX.mx">
+    <title lang="es">EL PROTECTOR</title>
+    <desc lang="es">John Kruger trabaja para el programa de protección de testigos del Gobierno de Estados Unidos, eliminando cualquier vestigio de la identidad previa de los testigos. Cuando una alta ejecutiva de una fábrica de armas se convierte en la poseedora de evidencia sobre acuerdos ilegales de armas, el FBI le asigna a John su protección.</desc>
+  </programme>
+  <programme start="20261009085200 -0300" stop="20261009105100 -0300" channel="TNT_BR.br">
+    <title lang="pt">ROMEU TEM QUE MORRER</title>
+    <sub-title lang="pt">Romeo Must Die</sub-title>
+    <desc lang="pt">Eles tinham armas. Eles tinham homens. E eles não tinham chance contra o ex-tira de Hong Kong, Han Sing. Artes que desafiam a gravidade, efeitos especiais convincentes e uma trilha sonora repleta de astros estão combinados neste filme de ação incessante, produzido por Joel Silver e estrelado por Jet Li.</desc>
+  </programme>
+  <programme start="20261009094500 -0500" stop="20261009115300 -0500" channel="TNT_CO.co">
+    <title lang="es">EL COLECCIONISTA DE HUESOS</title>
+    <desc lang="es">Denzel Washington protagoniza a un detective que fue victima de un atentado que lo dejó cuadriplégico en la cama de un hospital; desde allí ayuda a una oficial novata a ubicar las pistas de un asesino en serie que utiliza mensajes de ultratumba escondidos en los lugares donde comete el crimen.</desc>
+  </programme>
+  <programme start="20261009100100 -0500" stop="20261009115700 -0500" channel="TNT_PAN.co">
+    <title lang="es">SIN LÍMITES</title>
+    <sub-title lang="es">LIMITLESS</sub-title>
+    <desc lang="es">Al enfrentar el desempleo y el rechazo de su novia, el escritor Eddie Morra está seguro de que no tiene futuro. Todo eso cambia cuando un viejo amigo le da una droga que produce una mayor agudeza mental. Avivado por el químico, que no ha sido analizado, Eddie asciende a la cima del mundo financiero y atrae la atención de un magnate que intenta usarlo para hacer una fortuna. Pero los terribles efectos secundarios y un abastecimiento decreciente amenazan con hacer caer el castillo de naipes de Eddie.</desc>
+  </programme>
+  <programme start="20261009102100 -0400" stop="20261009130200 -0400" channel="TNT_CL.cl">
+    <title lang="es">AQUAMAN</title>
+    <desc lang="es">Aquaman relata la historia sobre el origen del mitad humano, mitad atlante, Arthur Curry y acerca del viaje de su vida, uno que no solo lo obligará a confrontar quién es en realidad, sino que además descubrirá si es capaz de ser quien fue destinado a ser... un rey.</desc>
+  </programme>
+  <programme start="20261009103200 -0300" stop="20261009130900 -0300" channel="TNT_AR.ar">
+    <title lang="es">AQUAMAN</title>
+    <desc lang="es">Aquaman relata la historia sobre el origen del mitad humano, mitad atlante, Arthur Curry y acerca del viaje de su vida, uno que no solo lo obligará a confrontar quién es en realidad, sino que además descubrirá si es capaz de ser quien fue destinado a ser... un rey.</desc>
+  </programme>
+  <programme start="20261009104800 -0600" stop="20261009124700 -0600" channel="TNT_MX.mx">
+    <title lang="es">EL COLECCIONISTA DE HUESOS</title>
+    <desc lang="es">Denzel Washington protagoniza a un detective que fue victima de un atentado que lo dejó cuadriplégico en la cama de un hospital; desde allí ayuda a una oficial novata a ubicar las pistas de un asesino en serie que utiliza mensajes de ultratumba escondidos en los lugares donde comete el crimen.</desc>
+  </programme>
+  <programme start="20261009105100 -0300" stop="20261009111700 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">A FUNNY THING HAPPENED ON THE WAY FROM THE FORUM</sub-title>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+    <desc lang="pt">Will é convidado para um jogo de basquete com uma repórter grávida, Danny Mitchell (Vanessa Williams), que entra em trabalho de parto justo quando os dois ficam presos em um estacionamento lotado.</desc>
+  </programme>
+  <programme start="20261009111700 -0300" stop="20261009114300 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">THE COLD WAR</sub-title>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+    <desc lang="pt">Quando Vivian isola Will e Carlton na edícula após os dois terem pego um resfriado, eles passam a noite discutindo sobre uma garota que Will roubou de Carlton</desc>
+  </programme>
+  <programme start="20261009114300 -0300" stop="20261009120800 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">MOMMY NEAREST</sub-title>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+    <desc lang="pt">Will tenta contar à mãe que não quer voltar para a Filadélfia com ela depois da formatura da escola.</desc>
+  </programme>
+  <programme start="20261009115300 -0500" stop="20261009143500 -0500" channel="TNT_CO.co">
+    <title lang="es">AQUAMAN</title>
+    <desc lang="es">Aquaman relata la historia sobre el origen del mitad humano, mitad atlante, Arthur Curry y acerca del viaje de su vida, uno que no solo lo obligará a confrontar quién es en realidad, sino que además descubrirá si es capaz de ser quien fue destinado a ser... un rey.</desc>
+  </programme>
+  <programme start="20261009115700 -0500" stop="20261009143900 -0500" channel="TNT_PAN.co">
+    <title lang="es">AQUAMAN</title>
+    <desc lang="es">Aquaman relata la historia sobre el origen del mitad humano, mitad atlante, Arthur Curry y acerca del viaje de su vida, uno que no solo lo obligará a confrontar quién es en realidad, sino que además descubrirá si es capaz de ser quien fue destinado a ser... un rey.</desc>
+  </programme>
+  <programme start="20261009120800 -0300" stop="20261009123300 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">WINNER TAKES OFF</sub-title>
+    <episode-num system="xmltv_ns">2.13.</episode-num>
+    <desc lang="pt">Geoffrey se humilha ao insultar a família Banks e pedir demissão depois que Will e Carlton fazem ele acreditar que ganhou milhões de dólares na loteria.</desc>
+  </programme>
+  <programme start="20261009123300 -0300" stop="20261009125600 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261009124700 -0600" stop="20261009151100 -0600" channel="TNT_MX.mx">
+    <title lang="es">AQUAMAN</title>
+    <desc lang="es">Aquaman relata la historia sobre el origen del mitad humano, mitad atlante, Arthur Curry y acerca del viaje de su vida, uno que no solo lo obligará a confrontar quién es en realidad, sino que además descubrirá si es capaz de ser quien fue destinado a ser... un rey.</desc>
+  </programme>
+  <programme start="20261009125600 -0300" stop="20261009131900 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261009130200 -0400" stop="20261009151300 -0400" channel="TNT_CL.cl">
+    <title lang="es">AQUAMAN Y EL REINO PERDIDO</title>
+    <sub-title lang="es">AQUAMAN AND THE LOST KINGDOM</sub-title>
+    <desc lang="es">Cuando Black Manta resurge más poderoso que nunca, Aquaman (Jason Momoa) debe liberar de prisión a su resentido hermano Orm y dejar a un lado sus diferencias para salvar a su familia, a Atlantis -y al mundo- de una destrucción irreversible.</desc>
+  </programme>
+  <programme start="20261009130900 -0300" stop="20261009152200 -0300" channel="TNT_AR.ar">
+    <title lang="es">AQUAMAN Y EL REINO PERDIDO</title>
+    <sub-title lang="es">AQUAMAN AND THE LOST KINGDOM</sub-title>
+    <desc lang="es">Cuando Black Manta resurge más poderoso que nunca, Aquaman (Jason Momoa) debe liberar de prisión a su resentido hermano Orm y dejar a un lado sus diferencias para salvar a su familia, a Atlantis -y al mundo- de una destrucción irreversible.</desc>
+  </programme>
+  <programme start="20261009131900 -0300" stop="20261009134200 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261009134200 -0300" stop="20261009140500 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261009140500 -0300" stop="20261009142800 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261009142800 -0300" stop="20261009165300 -0300" channel="TNT_BR.br">
+    <title lang="pt">AQUAMAN</title>
+    <desc lang="pt">Aquaman revela a história de origem do meio-humano/meio-atlante Arthur Curry e o acompanha em sua trajetória - uma jornada em que ele será obrigado a encarar suas raízes e descobrirá se é digno de ser quem nasceu para se tornar... um rei.</desc>
+  </programme>
+  <programme start="20261009143500 -0500" stop="20261009165300 -0500" channel="TNT_CO.co">
+    <title lang="es">AQUAMAN Y EL REINO PERDIDO</title>
+    <sub-title lang="es">AQUAMAN AND THE LOST KINGDOM</sub-title>
+    <desc lang="es">Cuando Black Manta resurge más poderoso que nunca, Aquaman (Jason Momoa) debe liberar de prisión a su resentido hermano Orm y dejar a un lado sus diferencias para salvar a su familia, a Atlantis -y al mundo- de una destrucción irreversible.</desc>
+  </programme>
+  <programme start="20261009143900 -0500" stop="20261009165600 -0500" channel="TNT_PAN.co">
+    <title lang="es">AQUAMAN Y EL REINO PERDIDO</title>
+    <sub-title lang="es">AQUAMAN AND THE LOST KINGDOM</sub-title>
+    <desc lang="es">Cuando Black Manta resurge más poderoso que nunca, Aquaman (Jason Momoa) debe liberar de prisión a su resentido hermano Orm y dejar a un lado sus diferencias para salvar a su familia, a Atlantis -y al mundo- de una destrucción irreversible.</desc>
+  </programme>
+  <programme start="20261009151100 -0600" stop="20261009171800 -0600" channel="TNT_MX.mx">
+    <title lang="es">AQUAMAN Y EL REINO PERDIDO</title>
+    <sub-title lang="es">AQUAMAN AND THE LOST KINGDOM</sub-title>
+    <desc lang="es">Cuando Black Manta resurge más poderoso que nunca, Aquaman (Jason Momoa) debe liberar de prisión a su resentido hermano Orm y dejar a un lado sus diferencias para salvar a su familia, a Atlantis -y al mundo- de una destrucción irreversible.</desc>
+  </programme>
+  <programme start="20261009151300 -0400" stop="20261009173100 -0400" channel="TNT_CL.cl">
+    <title lang="es">BLACK ADAM</title>
+    <desc lang="es">Dwayne Johnson encarna al antihéroe de DC, Black Adam, quien hace 5000 años recibió poderes de los dioses y luego fue encarcelado por abusar de estos. Ahora, libre, Adam pretende desatar su forma única de justicia en el mundo moderno.</desc>
+  </programme>
+  <programme start="20261009152200 -0300" stop="20261009174400 -0300" channel="TNT_AR.ar">
+    <title lang="es">BLACK ADAM</title>
+    <desc lang="es">Dwayne Johnson encarna al antihéroe de DC, Black Adam, quien hace 5000 años recibió poderes de los dioses y luego fue encarcelado por abusar de estos. Ahora, libre, Adam pretende desatar su forma única de justicia en el mundo moderno.</desc>
+  </programme>
+  <programme start="20261009165300 -0300" stop="20261009185600 -0300" channel="TNT_BR.br">
+    <title lang="pt">Aquaman 2: O Reino Perdido</title>
+    <sub-title lang="pt">Aquaman and the Lost Kingdom</sub-title>
+    <desc lang="pt">Jason Momoa retoma seu papel como o super-herói aquático Arthur Curry, conhecido como Aquaman, que agora vive uma vida de rotina como rei da Atlântida e pai de família. Mas quando seu antigo inimigo, Arraia Negra, reaparece mais poderoso do que nunca, determinado a vingar seu pai e destruir tudo o que Arthur preza, ele tem que se voltar para seu resentido irmão Orm (Patrick Wilson), que está preso, e deixar de lado suas diferenças para salvar sua família - e o mundo - da destruição.</desc>
+  </programme>
+  <programme start="20261009165300 -0500" stop="20261009191400 -0500" channel="TNT_CO.co">
+    <title lang="es">BLACK ADAM</title>
+    <desc lang="es">Dwayne Johnson encarna al antihéroe de DC, Black Adam, quien hace 5000 años recibió poderes de los dioses y luego fue encarcelado por abusar de estos. Ahora, libre, Adam pretende desatar su forma única de justicia en el mundo moderno.</desc>
+  </programme>
+  <programme start="20261009165600 -0500" stop="20261009191900 -0500" channel="TNT_PAN.co">
+    <title lang="es">BLACK ADAM</title>
+    <desc lang="es">Dwayne Johnson encarna al antihéroe de DC, Black Adam, quien hace 5000 años recibió poderes de los dioses y luego fue encarcelado por abusar de estos. Ahora, libre, Adam pretende desatar su forma única de justicia en el mundo moderno.</desc>
+  </programme>
+  <programme start="20261009171800 -0600" stop="20261009192800 -0600" channel="TNT_MX.mx">
+    <title lang="es">BLACK ADAM</title>
+    <desc lang="es">Dwayne Johnson encarna al antihéroe de DC, Black Adam, quien hace 5000 años recibió poderes de los dioses y luego fue encarcelado por abusar de estos. Ahora, libre, Adam pretende desatar su forma única de justicia en el mundo moderno.</desc>
+  </programme>
+  <programme start="20261009173100 -0400" stop="20261009202100 -0400" channel="TNT_CL.cl">
+    <title lang="es">MUJER MARAVILLA</title>
+    <sub-title lang="es">WONDER WOMAN</sub-title>
+    <desc lang="es">Antes de convertirse en Wonder Woman, ella solía ser Diana, Princesa de las Amazonas, entrenada para ser una guerrera inconquistable. Creció en la paradisíaca y protegida isla de Themyscira, Diana deja su hogar cuando un piloto norteamericano (Chris Pine ¿ Star Trek) choca en la playa y habla sobre un conflicto masivo que sucede en el mundo exterior. Convencida de que ella puede detener la amenaza y luchando al lado de hombres para acabar con la guerra para acabar con todas las guerras, Diana descubrirá todos sus poderes¿ y su verdadero destino.</desc>
+  </programme>
+  <programme start="20261009174400 -0300" stop="20261009202700 -0300" channel="TNT_AR.ar">
+    <title lang="es">MUJER MARAVILLA</title>
+    <sub-title lang="es">WONDER WOMAN</sub-title>
+    <desc lang="es">Antes de convertirse en Wonder Woman, ella solía ser Diana, Princesa de las Amazonas, entrenada para ser una guerrera inconquistable. Creció en la paradisíaca y protegida isla de Themyscira, Diana deja su hogar cuando un piloto norteamericano (Chris Pine ¿ Star Trek) choca en la playa y habla sobre un conflicto masivo que sucede en el mundo exterior. Convencida de que ella puede detener la amenaza y luchando al lado de hombres para acabar con la guerra para acabar con todas las guerras, Diana descubrirá todos sus poderes¿ y su verdadero destino.</desc>
+  </programme>
+  <programme start="20261009185600 -0300" stop="20261009212200 -0300" channel="TNT_BR.br">
+    <title lang="pt">MULHER-MARAVILHA</title>
+    <sub-title lang="pt">Wonder Woman</sub-title>
+    <desc lang="pt">Antes de se transformar na Mulher Maravilha, ela era Diana, a princesa das Amazonas, treinada para ser uma guerreira invencível. Criada na ilha paradisíaca de Themyscira, Diana deixa o local quando um piloto americano (Chris Pine - Star Trek films) se acidenta na costa e fala sobre um grande conflito que acontece lá fora. Convencida de que pode deter a ameaça e lutar ao lado dos homens para acabar com todas as guerras, Diana descobrirá os seus poderes, e seu verdadeiro destino.</desc>
+  </programme>
+  <programme start="20261009191400 -0500" stop="20261009220000 -0500" channel="TNT_CO.co">
+    <title lang="es">MUJER MARAVILLA</title>
+    <sub-title lang="es">WONDER WOMAN</sub-title>
+    <desc lang="es">Antes de convertirse en Wonder Woman, ella solía ser Diana, Princesa de las Amazonas, entrenada para ser una guerrera inconquistable. Creció en la paradisíaca y protegida isla de Themyscira, Diana deja su hogar cuando un piloto norteamericano (Chris Pine ¿ Star Trek) choca en la playa y habla sobre un conflicto masivo que sucede en el mundo exterior. Convencida de que ella puede detener la amenaza y luchando al lado de hombres para acabar con la guerra para acabar con todas las guerras, Diana descubrirá todos sus poderes¿ y su verdadero destino.</desc>
+  </programme>
+  <programme start="20261009191900 -0500" stop="20261009220000 -0500" channel="TNT_PAN.co">
+    <title lang="es">MUJER MARAVILLA</title>
+    <sub-title lang="es">WONDER WOMAN</sub-title>
+    <desc lang="es">Antes de convertirse en Wonder Woman, ella solía ser Diana, Princesa de las Amazonas, entrenada para ser una guerrera inconquistable. Creció en la paradisíaca y protegida isla de Themyscira, Diana deja su hogar cuando un piloto norteamericano (Chris Pine ¿ Star Trek) choca en la playa y habla sobre un conflicto masivo que sucede en el mundo exterior. Convencida de que ella puede detener la amenaza y luchando al lado de hombres para acabar con la guerra para acabar con todas las guerras, Diana descubrirá todos sus poderes¿ y su verdadero destino.</desc>
+  </programme>
+  <programme start="20261009192800 -0600" stop="20261009220000 -0600" channel="TNT_MX.mx">
+    <title lang="es">MUJER MARAVILLA</title>
+    <sub-title lang="es">WONDER WOMAN</sub-title>
+    <desc lang="es">Antes de convertirse en Wonder Woman, ella solía ser Diana, Princesa de las Amazonas, entrenada para ser una guerrera inconquistable. Creció en la paradisíaca y protegida isla de Themyscira, Diana deja su hogar cuando un piloto norteamericano (Chris Pine ¿ Star Trek) choca en la playa y habla sobre un conflicto masivo que sucede en el mundo exterior. Convencida de que ella puede detener la amenaza y luchando al lado de hombres para acabar con la guerra para acabar con todas las guerras, Diana descubrirá todos sus poderes¿ y su verdadero destino.</desc>
+  </programme>
+  <programme start="20261009202100 -0400" stop="20261009220000 -0400" channel="TNT_CL.cl">
+    <title lang="es">MASTERCHEF CHILE</title>
+    <episode-num system="xmltv_ns">4.4.</episode-num>
+    <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
+  </programme>
+  <programme start="20261009202700 -0300" stop="20261009220000 -0300" channel="TNT_AR.ar">
+    <title lang="es">MASTERCHEF CELEBRITY ARGENTINA</title>
+    <episode-num system="xmltv_ns">-1.7.</episode-num>
+    <desc lang="es">¡Se encienden las hornallas! Bajo la conducción de Wanda Nara, llega la nueva temporada de esta intensa competencia de sabores, donde distintas celebridades despliegan su talento culinario ante un exigente jurado de chefs. Damián Betular, Maru Botana y Germán Martitegui serán los encargados de evaluar cada plato y definir quiénes tienen lo necesario para seguir en competencia y quienes deberán que entregar su delantal.</desc>
+  </programme>
+  <programme start="20261009212200 -0300" stop="20261009233000 -0300" channel="TNT_BR.br">
+    <title lang="pt">Adão Negro</title>
+    <sub-title lang="pt">Black Adam</sub-title>
+    <desc lang="pt">Dwayne Johnson interpreta o anti-herói de DC, Adão Negro, que há 5000 anos recebeu poderes dos deuses e depois foi preso por abusar deles. Agora livre, Adam pretende liberar sua forma única de justiça no mundo moderno.</desc>
+  </programme>
+  <programme start="20261009220000 -0300" stop="20261009223800 -0300" channel="TNT_AR.ar">
+    <title lang="es">CAUTIVA</title>
+    <sub-title lang="es">ASTRAY</sub-title>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <desc lang="es">Mientras una periodista investiga los abusos, Clara confronta su pasado. En 2008, un descubrimiento conlleva castigos todavía peores.</desc>
+  </programme>
+  <programme start="20261009220000 -0400" stop="20261009223800 -0400" channel="TNT_CL.cl">
+    <title lang="es">CAUTIVA</title>
+    <sub-title lang="es">ASTRAY</sub-title>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <desc lang="es">Mientras una periodista investiga los abusos, Clara confronta su pasado. En 2008, un descubrimiento conlleva castigos todavía peores.</desc>
+  </programme>
+  <programme start="20261009220000 -0500" stop="20261010002100 -0500" channel="TNT_CO.co">
+    <title lang="es">BAD BOYS: DOS POLICÍAS REBELDES</title>
+    <desc lang="es">Dos policías de Miami se verán forzados a intercambiar roles, luego de haber sido confundidas sus identidades en un caso criminal por drogas, que implica el robo de una cargamento de heroína por 100 millones de dólares.</desc>
+  </programme>
+  <programme start="20261009220000 -0500" stop="20261010001300 -0500" channel="TNT_PAN.co">
+    <title lang="es">BAD BOYS: DOS POLICÍAS REBELDES</title>
+    <desc lang="es">Dos policías de Miami se verán forzados a intercambiar roles, luego de haber sido confundidas sus identidades en un caso criminal por drogas, que implica el robo de una cargamento de heroína por 100 millones de dólares.</desc>
+  </programme>
+  <programme start="20261009220000 -0600" stop="20261010000700 -0600" channel="TNT_MX.mx">
+    <title lang="es">BAD BOYS: DOS POLICÍAS REBELDES</title>
+    <desc lang="es">Dos policías de Miami se verán forzados a intercambiar roles, luego de haber sido confundidas sus identidades en un caso criminal por drogas, que implica el robo de una cargamento de heroína por 100 millones de dólares.</desc>
+  </programme>
+  <programme start="20261009223800 -0300" stop="20261009231800 -0300" channel="TNT_AR.ar">
+    <title lang="es">CAUTIVA</title>
+    <sub-title lang="es">ASTRAY</sub-title>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <desc lang="es">Mientras una periodista investiga los abusos, Clara confronta su pasado. En 2008, un descubrimiento conlleva castigos todavía peores.</desc>
+  </programme>
+  <programme start="20261009223800 -0400" stop="20261009231700 -0400" channel="TNT_CL.cl">
+    <title lang="es">CAUTIVA</title>
+    <sub-title lang="es">ASTRAY</sub-title>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <desc lang="es">Mientras una periodista investiga los abusos, Clara confronta su pasado. En 2008, un descubrimiento conlleva castigos todavía peores.</desc>
+  </programme>
+  <programme start="20261009231700 -0400" stop="20261010013800 -0400" channel="TNT_CL.cl">
+    <title lang="es">BAD BOYS: DOS POLICÍAS REBELDES</title>
+    <desc lang="es">Dos policías de Miami se verán forzados a intercambiar roles, luego de haber sido confundidas sus identidades en un caso criminal por drogas, que implica el robo de una cargamento de heroína por 100 millones de dólares.</desc>
+  </programme>
+  <programme start="20261009231800 -0300" stop="20261010013100 -0300" channel="TNT_AR.ar">
+    <title lang="es">BAD BOYS: DOS POLICÍAS REBELDES</title>
+    <desc lang="es">Dos policías de Miami se verán forzados a intercambiar roles, luego de haber sido confundidas sus identidades en un caso criminal por drogas, que implica el robo de una cargamento de heroína por 100 millones de dólares.</desc>
+  </programme>
+  <programme start="20261009233000 -0300" stop="20261009235300 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261009235300 -0300" stop="20261010001500 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261010000700 -0600" stop="20261010021200 -0600" channel="TNT_MX.mx">
+    <title lang="es">Bad Boys Para Siempre</title>
+    <sub-title lang="es">Bad Boys for Life</sub-title>
+    <desc lang="es">Los detectives Mike Lowrey (el nominado al Óscar® Will Smith) y Marcus Burnett (Martin Lawrence) regresan para otro rodeo por las calles de Miami. Recién incorporados al nuevo equipo de élite de la policía, esta vez se lanzan a una caza explosiva para detener a Isabel y Armando Aretas (Kate del Castillo y Jacob Scipio), madre e hijo líderes de un brutal cartel de drogas.</desc>
+  </programme>
+  <programme start="20261010001300 -0500" stop="20261010022200 -0500" channel="TNT_PAN.co">
+    <title lang="es">Bad Boys Para Siempre</title>
+    <sub-title lang="es">Bad Boys for Life</sub-title>
+    <desc lang="es">Los detectives Mike Lowrey (el nominado al Óscar® Will Smith) y Marcus Burnett (Martin Lawrence) regresan para otro rodeo por las calles de Miami. Recién incorporados al nuevo equipo de élite de la policía, esta vez se lanzan a una caza explosiva para detener a Isabel y Armando Aretas (Kate del Castillo y Jacob Scipio), madre e hijo líderes de un brutal cartel de drogas.</desc>
+  </programme>
+  <programme start="20261010001500 -0300" stop="20261010003700 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261010002100 -0500" stop="20261010023000 -0500" channel="TNT_CO.co">
+    <title lang="es">Bad Boys Para Siempre</title>
+    <sub-title lang="es">Bad Boys for Life</sub-title>
+    <desc lang="es">Los detectives Mike Lowrey (el nominado al Óscar® Will Smith) y Marcus Burnett (Martin Lawrence) regresan para otro rodeo por las calles de Miami. Recién incorporados al nuevo equipo de élite de la policía, esta vez se lanzan a una caza explosiva para detener a Isabel y Armando Aretas (Kate del Castillo y Jacob Scipio), madre e hijo líderes de un brutal cartel de drogas.</desc>
+  </programme>
+  <programme start="20261010003700 -0300" stop="20261010005900 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261010005900 -0300" stop="20261010012100 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261010012100 -0300" stop="20261010014500 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">A FUNNY THING HAPPENED ON THE WAY FROM THE FORUM</sub-title>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+    <desc lang="pt">Will é convidado para um jogo de basquete com uma repórter grávida, Danny Mitchell (Vanessa Williams), que entra em trabalho de parto justo quando os dois ficam presos em um estacionamento lotado.</desc>
+  </programme>
+  <programme start="20261010013100 -0300" stop="20261010033200 -0300" channel="TNT_AR.ar">
+    <title lang="es">Bad Boys Para Siempre</title>
+    <sub-title lang="es">Bad Boys for Life</sub-title>
+    <desc lang="es">Los detectives Mike Lowrey (el nominado al Óscar® Will Smith) y Marcus Burnett (Martin Lawrence) regresan para otro rodeo por las calles de Miami. Recién incorporados al nuevo equipo de élite de la policía, esta vez se lanzan a una caza explosiva para detener a Isabel y Armando Aretas (Kate del Castillo y Jacob Scipio), madre e hijo líderes de un brutal cartel de drogas.</desc>
+  </programme>
+  <programme start="20261010013800 -0400" stop="20261010034700 -0400" channel="TNT_CL.cl">
+    <title lang="es">Bad Boys Para Siempre</title>
+    <sub-title lang="es">Bad Boys for Life</sub-title>
+    <desc lang="es">Los detectives Mike Lowrey (el nominado al Óscar® Will Smith) y Marcus Burnett (Martin Lawrence) regresan para otro rodeo por las calles de Miami. Recién incorporados al nuevo equipo de élite de la policía, esta vez se lanzan a una caza explosiva para detener a Isabel y Armando Aretas (Kate del Castillo y Jacob Scipio), madre e hijo líderes de un brutal cartel de drogas.</desc>
+  </programme>
+  <programme start="20261010014500 -0300" stop="20261010020800 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">THE COLD WAR</sub-title>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+    <desc lang="pt">Quando Vivian isola Will e Carlton na edícula após os dois terem pego um resfriado, eles passam a noite discutindo sobre uma garota que Will roubou de Carlton</desc>
+  </programme>
+  <programme start="20261010020800 -0300" stop="20261010023100 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">MOMMY NEAREST</sub-title>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+    <desc lang="pt">Will tenta contar à mãe que não quer voltar para a Filadélfia com ela depois da formatura da escola.</desc>
+  </programme>
+  <programme start="20261010021200 -0600" stop="20261010040600 -0600" channel="TNT_MX.mx">
+    <title lang="es">EL JUEGO DEL CRIMEN</title>
+    <sub-title lang="es">BANK JOB</sub-title>
+    <desc lang="es">En 1971, Terry (Jason Statham) es reclutado para robar un banco en Londres. El objetivo es recuperar fotografías comprometedoras de la realeza escondidas en una bóveda, desencadenando eventos que sacan a la luz secretos peligrosos.</desc>
+  </programme>
+  <programme start="20261010022200 -0500" stop="20261010041600 -0500" channel="TNT_PAN.co">
+    <title lang="es">EL JUEGO DEL CRIMEN</title>
+    <sub-title lang="es">BANK JOB</sub-title>
+    <desc lang="es">En 1971, Terry (Jason Statham) es reclutado para robar un banco en Londres. El objetivo es recuperar fotografías comprometedoras de la realeza escondidas en una bóveda, desencadenando eventos que sacan a la luz secretos peligrosos.</desc>
+  </programme>
+  <programme start="20261010023000 -0500" stop="20261010042200 -0500" channel="TNT_CO.co">
+    <title lang="es">EL JUEGO DEL CRIMEN</title>
+    <sub-title lang="es">BANK JOB</sub-title>
+    <desc lang="es">En 1971, Terry (Jason Statham) es reclutado para robar un banco en Londres. El objetivo es recuperar fotografías comprometedoras de la realeza escondidas en una bóveda, desencadenando eventos que sacan a la luz secretos peligrosos.</desc>
+  </programme>
+  <programme start="20261010023100 -0300" stop="20261010025400 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">WINNER TAKES OFF</sub-title>
+    <episode-num system="xmltv_ns">2.13.</episode-num>
+    <desc lang="pt">Geoffrey se humilha ao insultar a família Banks e pedir demissão depois que Will e Carlton fazem ele acreditar que ganhou milhões de dólares na loteria.</desc>
+  </programme>
+  <programme start="20261010025400 -0300" stop="20261010044900 -0300" channel="TNT_BR.br">
+    <title lang="pt">OS BAD BOYS</title>
+    <sub-title lang="pt">Bad Boys</sub-title>
+    <desc lang="pt">Um carregamento de heroína confiscada, avaliada em um milhão de dólares, foi simplesmente roubado do depósito da polícia. O sumiço das drogas pode destruir as carreiras dos dois detetivese acabar com a divisão de narcóticos do departamento de polícia de Miami. Carros velozes, uma garota e ação sem parar fazem de Os Bad Boys diversão garantida!</desc>
+  </programme>
+  <programme start="20261010033200 -0300" stop="20261010052300 -0300" channel="TNT_AR.ar">
+    <title lang="es">EL JUEGO DEL CRIMEN</title>
+    <sub-title lang="es">BANK JOB</sub-title>
+    <desc lang="es">En 1971, Terry (Jason Statham) es reclutado para robar un banco en Londres. El objetivo es recuperar fotografías comprometedoras de la realeza escondidas en una bóveda, desencadenando eventos que sacan a la luz secretos peligrosos.</desc>
+  </programme>
+  <programme start="20261010034700 -0400" stop="20261010054100 -0400" channel="TNT_CL.cl">
+    <title lang="es">EL JUEGO DEL CRIMEN</title>
+    <sub-title lang="es">BANK JOB</sub-title>
+    <desc lang="es">En 1971, Terry (Jason Statham) es reclutado para robar un banco en Londres. El objetivo es recuperar fotografías comprometedoras de la realeza escondidas en una bóveda, desencadenando eventos que sacan a la luz secretos peligrosos.</desc>
+  </programme>
+  <programme start="20261010040600 -0600" stop="20261010054300 -0600" channel="TNT_MX.mx">
+    <title lang="es">LUCHADOR LEGENDARIO</title>
+    <sub-title lang="es">LEGENDARY FIGHTER</sub-title>
+    <desc lang="es">Sang-gu, un famoso luchador callejero adolescente, se cansa de pelear cuando se da cuenta de que ya no hay rival para él. Sin embargo, un día, su mejor amigo Moon-je es golpeado por Min-gook, el campeón del torneo de artes marciales mixtas de su escuela. Indignado por lo sucedido, decide transferirse a la escuela de Min-gook para vengarse y participa en el torneo. A medida que vence a otros oponentes uno por uno, se acerca al pez gordo de la escuela, Min-gook.</desc>
+  </programme>
+  <programme start="20261010041600 -0500" stop="20261010054900 -0500" channel="TNT_PAN.co">
+    <title lang="es">LUCHADOR LEGENDARIO</title>
+    <sub-title lang="es">LEGENDARY FIGHTER</sub-title>
+    <desc lang="es">Sang-gu, un famoso luchador callejero adolescente, se cansa de pelear cuando se da cuenta de que ya no hay rival para él. Sin embargo, un día, su mejor amigo Moon-je es golpeado por Min-gook, el campeón del torneo de artes marciales mixtas de su escuela. Indignado por lo sucedido, decide transferirse a la escuela de Min-gook para vengarse y participa en el torneo. A medida que vence a otros oponentes uno por uno, se acerca al pez gordo de la escuela, Min-gook.</desc>
+  </programme>
+  <programme start="20261010042200 -0500" stop="20261010055400 -0500" channel="TNT_CO.co">
+    <title lang="es">LUCHADOR LEGENDARIO</title>
+    <sub-title lang="es">LEGENDARY FIGHTER</sub-title>
+    <desc lang="es">Sang-gu, un famoso luchador callejero adolescente, se cansa de pelear cuando se da cuenta de que ya no hay rival para él. Sin embargo, un día, su mejor amigo Moon-je es golpeado por Min-gook, el campeón del torneo de artes marciales mixtas de su escuela. Indignado por lo sucedido, decide transferirse a la escuela de Min-gook para vengarse y participa en el torneo. A medida que vence a otros oponentes uno por uno, se acerca al pez gordo de la escuela, Min-gook.</desc>
+  </programme>
+  <programme start="20261010044900 -0300" stop="20261010052400 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.10.</episode-num>
+  </programme>
+  <programme start="20261010052300 -0300" stop="20261010060000 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.9.</episode-num>
+  </programme>
+  <programme start="20261010052400 -0300" stop="20261010060000 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.11.</episode-num>
+  </programme>
+  <programme start="20261010054100 -0400" stop="20261010055500 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <episode-num system="xmltv_ns">-1.36.</episode-num>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+  </programme>
+  <programme start="20261010054300 -0600" stop="20261010055100 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <episode-num system="xmltv_ns">-1.35.</episode-num>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+  </programme>
+  <programme start="20261010054900 -0500" stop="20261010060000 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <episode-num system="xmltv_ns">-1.24.</episode-num>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+  </programme>
+  <programme start="20261010055100 -0600" stop="20261010060000 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <episode-num system="xmltv_ns">-1.38.</episode-num>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+  </programme>
+  <programme start="20261010055400 -0500" stop="20261010055600 -0500" channel="TNT_CO.co">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.60.</episode-num>
+  </programme>
+  <programme start="20261010055500 -0400" stop="20261010055700 -0400" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.81.</episode-num>
+  </programme>
+  <programme start="20261010055600 -0500" stop="20261010060000 -0500" channel="TNT_CO.co">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.62.</episode-num>
+  </programme>
+  <programme start="20261010055700 -0400" stop="20261010060000 -0400" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.79.</episode-num>
   </programme>
 </tv>

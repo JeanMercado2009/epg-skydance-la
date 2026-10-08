@@ -21,88 +21,13 @@
   <channel id="WARNER_MX.mx">
     <display-name>Warner Channel México</display-name>
   </channel>
-  <programme start="20260922195200 -0600" stop="20260922220000 -0600" channel="WARNER_MX.mx">
-    <title lang="es">El Demoledor</title>
-    <desc lang="es">En 1966, Los Ángeles es una ciudad donde reina el crimen y la violencia. John Spartan (Sylvester Stallone), conocido como "El demoledor", es un policía que anda tras el rastro del asesino Simon Phoenix (Wesley Snipes). Spartan logra por fin detener a Phoenix pero no antes de que este psicópata haya matado a varios rehenes. Spartan es acusado del crimen y los dos son congelados. En el año 2032, Los Ángeles se ha convertido en San Ángeles, una ciudad pacífica donde el crimen fue eliminado. Phoenix es descongelado por el Dr.Cocteau para matar al líder de un grupo rebelde. Pero cuando vuelve a sus viejos hábitos, la policía descongela a Spartan para detener a su viejo enemigo antes de que mate a más personas.</desc>
-  </programme>
-  <programme start="20260922220000 -0400" stop="20260923004500 -0400" channel="WARNER_CL.cl">
-    <title lang="es">Flash</title>
-  </programme>
-  <programme start="20260922220000 -0400" stop="20260923004600 -0400" channel="WARNER_VE.ve">
-    <title lang="es">Flash</title>
-  </programme>
-  <programme start="20260922220000 -0500" stop="20260923005400 -0500" channel="WARNER_CO.co">
-    <title lang="es">Flash</title>
-  </programme>
-  <programme start="20260922220000 -0500" stop="20260923004500 -0500" channel="WARNER_AN.co">
-    <title lang="es">Flash</title>
-  </programme>
-  <programme start="20260922220000 -0600" stop="20260923004100 -0600" channel="WARNER_MX.mx">
-    <title lang="es">Flash</title>
-  </programme>
-  <programme start="20260922223000 -0300" stop="20260923010600 -0300" channel="WARNER_BR.br">
-    <title lang="pt">The Flash</title>
-    <desc lang="pt">ndy Muschietti dirige esta aventura estrelada por Ezra Miller como Barry Allen, codinome "Flash". Ao descobrir que sua supervelocidade lhe permite viajar no tempo, Barry decide voltar ao passado e salvar sua família. Mas isso acidentalmente muda a realidade, e Barry acaba preso em um mundo alternativo onde o General Zod voltou e não há super-heróis defendendo o planeta. A única esperança de Barry de salvar este mundo e voltar para casa está nas mãos de um Barry mais jovem e sem treinamento, um cavaleiro das trevas idoso e uma kryptoniana desconhecida.</desc>
-  </programme>
   <programme start="20260923004100 -0600" stop="20260923010300 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260923004300 -0300" stop="20260923010800 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260923004500 -0400" stop="20260923010800 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260923004500 -0500" stop="20260923010800 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260923004600 -0400" stop="20260923011000 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260923005400 -0500" stop="20260923011700 -0500" channel="WARNER_CO.co">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260923010300 -0600" stop="20260923012500 -0600" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
-  <programme start="20260923010600 -0300" stop="20260923012700 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">TWENTY-FIVE LITTLE PRE-PUBERS WITHOUT A SNOOT-FULL</sub-title>
-    <desc lang="pt">Quando Alan e Judith discutem durante o ensaio de uma peça que Jake está ensaiando com os colegas da escola, Charlie é forçado a cuidar sozinho de uma sala cheia de quartanistas. As crianças pensam que Charlie é um "perdedor" quando descobrem que ele escreveu a música do comercial do cereal "Maple Loops". Quando Charlie descobre que a crianças conhecem todos os jingles que ele escreveu, ele decide usar seus conhecimentos em fazer comerciais para organizar o ensaio da peça, e consegue resultados interessantes.</desc>
-  </programme>
-  <programme start="20260923010800 -0300" stop="20260923013200 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260923010800 -0400" stop="20260923013000 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260923010800 -0500" stop="20260923013100 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260923011000 -0400" stop="20260923013200 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260923011700 -0500" stop="20260923014000 -0500" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
   <programme start="20260923012500 -0600" stop="20260923014700 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260923012700 -0300" stop="20260923015000 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">PHASE ONE: COMPLETE</sub-title>
-    <desc lang="pt">Charlie parece estar gostando de sua doce nova namorada, Wendy (MYNDY CRIST), mas fica preocupado quando Jake inicia uma grande amizade com ela. Quando Wendy encanta Evelyn também, Charlie imagina que Wendy está esperando mais de seu relacionamento, então ele termina o namoro. Mas quando Jake fica bravo com ele, Charlie aprende uma importante lição. Ao mesmo tempo, Alan leva o jogo muito à sério quando compete contra Rose.</desc>
-  </programme>
-  <programme start="20260923013000 -0400" stop="20260923015200 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260923013100 -0500" stop="20260923015300 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260923013200 -0300" stop="20260923015500 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260923013200 -0400" stop="20260923015400 -0400" channel="WARNER_VE.ve">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260923014000 -0500" stop="20260923020300 -0500" channel="WARNER_CO.co">
@@ -111,21 +36,7 @@
   <programme start="20260923014700 -0600" stop="20260923020900 -0600" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
-  <programme start="20260923015000 -0300" stop="20260923021000 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">MERRY THANKSGIVING</sub-title>
-    <desc lang="pt">Quando Charlie fica sabendo que sua ex namorada favorita, Lisa (DENISE RICHARDS - 'Todo Mundo em Pânico 3', 'Undercover Brother') vai se casar, ele tenta desesperadamente lhe provar que se tornou um homem melhor, um homem de família, apesar de sua incapacidade de se comprometer com ela. Ele convence Judith a trazer seus pais e Jake para sua casa para o jantar do Dia de Ação de Graças para ter uma grande família, junto com Alan, Evelyn, Rose e a irritante empregada de Charlie, Berta (volta convidada especial CONCHATA FERRELL). Porém, com este grupo de pessoas, Charlie, não consegue sustentar sua comédia por muito tempo.</desc>
-  </programme>
-  <programme start="20260923015200 -0400" stop="20260923021400 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
   <programme start="20260923015300 -0500" stop="20260923021400 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260923015400 -0400" stop="20260923021600 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260923015500 -0300" stop="20260923021600 -0300" channel="WARNER_AR.ar">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260923020300 -0500" stop="20260923022400 -0500" channel="WARNER_CO.co">
@@ -134,21 +45,7 @@
   <programme start="20260923020900 -0600" stop="20260923022900 -0600" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
-  <programme start="20260923021000 -0300" stop="20260923023200 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">ALAN HARPER, FRONTIER CHIROPRACTOR</sub-title>
-    <desc lang="pt">Charlie e Jake convencem Alan de que ele precisa mudar sua aparência, quando dizem que Judith está vivendo sua vida desde o rompimento, ela mudou o cabelo e está com um novo companheiro. Alan percebe que eles tem razão, ainda mais porque seu próprio filho lhe diz que está preocupado com ele. Quando Charlie leva Alan às compras, os irmãos não conseguem entrar num acordo quanto ao estilo que fica melhor em Alan. Enquanto isso, a presunçosa Evelyn está na casa de Charlie para passar a tarde com seu neto Jake.</desc>
-  </programme>
-  <programme start="20260923021400 -0400" stop="20260923023500 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
   <programme start="20260923021400 -0500" stop="20260923023500 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260923021600 -0300" stop="20260923023600 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260923021600 -0400" stop="20260923023700 -0400" channel="WARNER_VE.ve">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260923022400 -0500" stop="20260923024400 -0500" channel="WARNER_CO.co">
@@ -157,18 +54,10 @@
   <programme start="20260923022900 -0600" stop="20260923025200 -0600" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
-  <programme start="20260923023200 -0300" stop="20260923025400 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">CAMEL FILTERS AND PHEREMONES</sub-title>
-    <desc lang="pt">Quando a empregada de Charlie, Berta (atriz coadjuvante convidada CONCHATA FERRELL), traz consigo sua rebelde filha de 16 anos, Prudence (MEGAN FOX), para a casa de Charlie, Jake desenvolve por ela uma paixão infantil. Charlie e Alan tentam restringir seu interesse o mínimo possível também. Enquanto isso, o sonho de Rose torna-se realidade quando Charlie finge que ela é sua namorada, com a finalidade de afastar Prudence. E Judith teme que o estilo de vida dos rapazes seja inaceitável para Jake.</desc>
-  </programme>
   <programme start="20260923023500 -0400" stop="20260923025700 -0400" channel="WARNER_CL.cl">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260923023500 -0500" stop="20260923025700 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260923023600 -0300" stop="20260923025800 -0300" channel="WARNER_AR.ar">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260923023700 -0400" stop="20260923025900 -0400" channel="WARNER_VE.ve">
@@ -180,18 +69,10 @@
   <programme start="20260923025200 -0600" stop="20260923031200 -0600" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
-  <programme start="20260923025400 -0300" stop="20260923031400 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">SARAH LIKE PUNY ALAN</sub-title>
-    <desc lang="pt">Alan se preocupa porque Charlie pode ser contagiado pela gripe de Jake; entretanto, quem fica doente é Alan. Jake livra-se do mal e Charlie está muito bem. Desesperado para conseguir um encontro com uma garota muito sexy, Charlie oferece que Alan acompanhe a irmã dela, fazendo um encontro a quatro. Charlie tenta acelerar a recuperação de Alan, mas quando Charlie fica doente e Alan descobre que a irmã dela é muito atraente, os papéis se invertem. Alan se opõe quando Charlie mostra vantagem tendo o mesmo tipo de humor que seu sobrinho de 10 anos.</desc>
-  </programme>
   <programme start="20260923025700 -0400" stop="20260923031700 -0400" channel="WARNER_CL.cl">
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
   <programme start="20260923025700 -0500" stop="20260923031600 -0500" channel="WARNER_AN.co">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260923025800 -0300" stop="20260923031600 -0300" channel="WARNER_AR.ar">
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
   <programme start="20260923025900 -0400" stop="20260923032000 -0400" channel="WARNER_VE.ve">
@@ -201,14 +82,6 @@
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
   <programme start="20260923031200 -0600" stop="20260923033500 -0600" channel="WARNER_MX.mx">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260923031400 -0300" stop="20260923033600 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE OCCUPATION RECALIBRATION</sub-title>
-    <desc lang="pt">Quando Sheldon é obrigado a tirar férias, ele tenta relaxar, mas acaba passando a maior parte do tempo com Penny depois que ela pede demissão. Enquanto isso, Leonard se esforça para apoiá-la, e Bernadette pede ajuda a Stuart para substituir uma das revistas em quadrinhos de Howard.</desc>
-  </programme>
-  <programme start="20260923031600 -0300" stop="20260923033900 -0300" channel="WARNER_AR.ar">
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
   <programme start="20260923031600 -0500" stop="20260923034000 -0500" channel="WARNER_AN.co">
@@ -13004,5 +12877,1357 @@ Cortando as pistas destemidamente e fazendo mil manobras nas competições a bor
   </programme>
   <programme start="20261009055700 -0500" stop="20261009060000 -0500" channel="WARNER_CO.co">
     <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261009060000 -0300" stop="20261009064100 -0300" channel="WARNER_AR.ar">
+    <title lang="es">COBRA KAI: SEASON 3</title>
+    <sub-title lang="es">MIYAGI-DO</sub-title>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <desc lang="es">Enemigos acérrimos. Dojos rivales. Sangre fresca. En esta secuela de las películas de ‘Karate Kid’, Daniel y Johnny reavivan viejas rencillas en el West Valley.</desc>
+  </programme>
+  <programme start="20261009060000 -0300" stop="20261009062200 -0300" channel="WARNER_BR.br">
+    <title lang="pt">MIRACLE WORKERS: OREGON TRAIL</title>
+    <sub-title lang="pt">END OF THE TRAIL</sub-title>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <desc lang="pt">O trem enfrenta sua prova final.</desc>
+  </programme>
+  <programme start="20261009060000 -0400" stop="20261009063500 -0400" channel="WARNER_CL.cl">
+    <title lang="es">COBRA KAI: SEASON 3</title>
+    <sub-title lang="es">RIGHT PATH, THE</sub-title>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <desc lang="es">Enemigos acérrimos. Dojos rivales. Sangre fresca. En esta secuela de las películas de ‘Karate Kid’, Daniel y Johnny reavivan viejas rencillas en el West Valley.</desc>
+  </programme>
+  <programme start="20261009060000 -0400" stop="20261009061000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.23.</episode-num>
+  </programme>
+  <programme start="20261009060000 -0500" stop="20261009060100 -0500" channel="WARNER_CO.co">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.55.</episode-num>
+  </programme>
+  <programme start="20261009060000 -0500" stop="20261009064000 -0500" channel="WARNER_AN.co">
+    <title lang="es">COBRA KAI: SEASON 3</title>
+    <sub-title lang="es">MIYAGI-DO</sub-title>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <desc lang="es">Enemigos acérrimos. Dojos rivales. Sangre fresca. En esta secuela de las películas de ‘Karate Kid’, Daniel y Johnny reavivan viejas rencillas en el West Valley.</desc>
+  </programme>
+  <programme start="20261009060000 -0600" stop="20261009063700 -0600" channel="WARNER_MX.mx">
+    <title lang="es">COBRA KAI: SEASON 3</title>
+    <sub-title lang="es">RIGHT PATH, THE</sub-title>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <desc lang="es">Enemigos acérrimos. Dojos rivales. Sangre fresca. En esta secuela de las películas de ‘Karate Kid’, Daniel y Johnny reavivan viejas rencillas en el West Valley.</desc>
+  </programme>
+  <programme start="20261009060100 -0500" stop="20261009060300 -0500" channel="WARNER_CO.co">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.57.</episode-num>
+  </programme>
+  <programme start="20261009060300 -0500" stop="20261009061000 -0500" channel="WARNER_CO.co">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.56.</episode-num>
+  </programme>
+  <programme start="20261009061000 -0400" stop="20261009061200 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.66.</episode-num>
+  </programme>
+  <programme start="20261009061000 -0500" stop="20261009061300 -0500" channel="WARNER_CO.co">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.58.</episode-num>
+  </programme>
+  <programme start="20261009061200 -0400" stop="20261009063500 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE RECLUSIVE POTENTIAL</sub-title>
+    <episode-num system="xmltv_ns">10.19.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261009061300 -0500" stop="20261009061600 -0500" channel="WARNER_CO.co">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.60.</episode-num>
+  </programme>
+  <programme start="20261009061600 -0500" stop="20261009062300 -0500" channel="WARNER_CO.co">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.59.</episode-num>
+  </programme>
+  <programme start="20261009062200 -0300" stop="20261009063000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.38.</episode-num>
+  </programme>
+  <programme start="20261009062300 -0500" stop="20261009062500 -0500" channel="WARNER_CO.co">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.61.</episode-num>
+  </programme>
+  <programme start="20261009062500 -0500" stop="20261009065100 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WINKY-DINK TIME</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009063000 -0300" stop="20261009063900 -0300" channel="WARNER_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.35.</episode-num>
+  </programme>
+  <programme start="20261009063500 -0400" stop="20261009071500 -0400" channel="WARNER_CL.cl">
+    <title lang="es">COBRA KAI: SEASON 3</title>
+    <sub-title lang="es">MIYAGI-DO</sub-title>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <desc lang="es">Enemigos acérrimos. Dojos rivales. Sangre fresca. En esta secuela de las películas de ‘Karate Kid’, Daniel y Johnny reavivan viejas rencillas en el West Valley.</desc>
+  </programme>
+  <programme start="20261009063500 -0400" stop="20261009065800 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE COMET POLARIZATION</sub-title>
+    <episode-num system="xmltv_ns">10.20.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261009063700 -0600" stop="20261009070000 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE RECLUSIVE POTENTIAL</sub-title>
+    <episode-num system="xmltv_ns">10.19.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261009063900 -0300" stop="20261009090300 -0300" channel="WARNER_BR.br">
+    <title lang="pt">Prenda-Me Se For Capaz</title>
+    <sub-title lang="pt">Catch Me If You Can</sub-title>
+    <desc lang="pt">Este filme de Steven Spielberg é baseado na surpreendente história real de um jovem falsário expert em fraudes. Leonardo DiCaprio interpreta Frank Abagnale Jr., um estudante que embarca em uma montanha-russa de golpes, posando como um piloto, um médico e um advogado, antes mesmo de completar 21 anos. Tom Hanks interpreta Carl Hanratty, o agente do FBI determinado a prender Frank mesmo que o golpista esteja ainda mais determinado a escapar a qualquer custo. O elenco de astros deste jogo de gato e rato inclui Christopher Walken, Martin Sheen, James Brolin e Amy Adams.</desc>
+  </programme>
+  <programme start="20261009064000 -0500" stop="20261009070400 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE COMET POLARIZATION</sub-title>
+    <episode-num system="xmltv_ns">10.20.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261009064100 -0300" stop="20261009070100 -0300" channel="WARNER_AR.ar">
+    <title lang="es">MIRACLE WORKERS: OREGON TRAIL</title>
+    <sub-title lang="es">END OF THE TRAIL</sub-title>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <desc lang="es">Una comedia ambientada en las oficinas de Heaven Inc. Cuando Dios planea destruir la Tierra, dos ángeles de bajo nivel deben convencer a su jefe de salvar a la humanidad. Le apuestan a que pueden lograr su milagro más imposible: ayudar a dos humanos a enamorarse.</desc>
+  </programme>
+  <programme start="20261009065100 -0500" stop="20261009071900 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">ROUGH NIGHT IN HUMP JUNCTION</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009065800 -0400" stop="20261009072000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE MONETARY INSUFFICIENCY</sub-title>
+    <episode-num system="xmltv_ns">10.21.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261009070000 -0600" stop="20261009072200 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE COMET POLARIZATION</sub-title>
+    <episode-num system="xmltv_ns">10.20.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261009070100 -0300" stop="20261009070400 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.72.</episode-num>
+  </programme>
+  <programme start="20261009070400 -0300" stop="20261009072700 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE BOW TIE ASYMMETRY</sub-title>
+    <episode-num system="xmltv_ns">10.23.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261009070400 -0500" stop="20261009072500 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE MONETARY INSUFFICIENCY</sub-title>
+    <episode-num system="xmltv_ns">10.21.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261009071500 -0400" stop="20261009072300 -0400" channel="WARNER_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.23.</episode-num>
+  </programme>
+  <programme start="20261009071900 -0500" stop="20261009074500 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">LOOK AT ME, MOMMY, I'M PRETTY</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009072000 -0400" stop="20261009074300 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE SIBLING REALIGNMENT</sub-title>
+    <episode-num system="xmltv_ns">10.22.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261009072200 -0600" stop="20261009074100 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE MONETARY INSUFFICIENCY</sub-title>
+    <episode-num system="xmltv_ns">10.21.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261009072300 -0400" stop="20261009074800 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE BOW TIE ASYMMETRY</sub-title>
+    <episode-num system="xmltv_ns">10.23.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261009072500 -0500" stop="20261009074800 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE SIBLING REALIGNMENT</sub-title>
+    <episode-num system="xmltv_ns">10.22.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261009072700 -0300" stop="20261009075000 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WINKY-DINK TIME</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009074100 -0600" stop="20261009080400 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE SIBLING REALIGNMENT</sub-title>
+    <episode-num system="xmltv_ns">10.22.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261009074300 -0400" stop="20261009080800 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE BOW TIE ASYMMETRY</sub-title>
+    <episode-num system="xmltv_ns">10.23.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261009074500 -0500" stop="20261009081100 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">FISH IN A DRAWER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009074800 -0400" stop="20261009081400 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WINKY-DINK TIME</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009074800 -0500" stop="20261009081200 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE BOW TIE ASYMMETRY</sub-title>
+    <episode-num system="xmltv_ns">10.23.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261009075000 -0300" stop="20261009081500 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">ROUGH NIGHT IN HUMP JUNCTION</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009080400 -0600" stop="20261009082600 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE BOW TIE ASYMMETRY</sub-title>
+    <episode-num system="xmltv_ns">10.23.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261009080800 -0400" stop="20261009083300 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WINKY-DINK TIME</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009081100 -0500" stop="20261009083900 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">IF MY HOLE COULD TALK</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009081200 -0500" stop="20261009083600 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WINKY-DINK TIME</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009081400 -0400" stop="20261009084000 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">ROUGH NIGHT IN HUMP JUNCTION</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009081500 -0300" stop="20261009084100 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">LOOK AT ME, MOMMY, I'M PRETTY</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009082600 -0600" stop="20261009084900 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WINKY-DINK TIME</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009083300 -0400" stop="20261009085700 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">ROUGH NIGHT IN HUMP JUNCTION</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009083600 -0500" stop="20261009090000 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">ROUGH NIGHT IN HUMP JUNCTION</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009083900 -0500" stop="20261009090700 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WAITING FOR THE RIGHT SNAPPER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009084000 -0400" stop="20261009090400 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">LOOK AT ME, MOMMY, I'M PRETTY</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009084100 -0300" stop="20261009090600 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">FISH IN A DRAWER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009084900 -0600" stop="20261009091300 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">ROUGH NIGHT IN HUMP JUNCTION</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009085700 -0400" stop="20261009092200 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">LOOK AT ME, MOMMY, I'M PRETTY</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009090000 -0500" stop="20261009092500 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">LOOK AT ME, MOMMY, I'M PRETTY</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009090300 -0300" stop="20261009092600 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">WINKY-DINK TIME</sub-title>
+    <desc lang="pt">Charlie e Jake se preparam para sair em um encontro duplo, assim que Charlie decide contratar uma prostituta para Alan.</desc>
+  </programme>
+  <programme start="20261009090400 -0400" stop="20261009093000 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">FISH IN A DRAWER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009090600 -0300" stop="20261009093200 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">IF MY HOLE COULD TALK</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009090700 -0500" stop="20261009094800 -0500" channel="WARNER_CO.co">
+    <title lang="es">COBRA KAI: SEASON 2</title>
+    <sub-title lang="es">MERCY, PART II</sub-title>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <desc lang="es">Enemigos acérrimos. Dojos rivales. Sangre fresca. En esta secuela de las películas de ‘Karate Kid’, Daniel y Johnny reavivan viejas rencillas en el West Valley.</desc>
+  </programme>
+  <programme start="20261009091300 -0600" stop="20261009093700 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">LOOK AT ME, MOMMY, I'M PRETTY</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009092200 -0400" stop="20261009094600 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">FISH IN A DRAWER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009092500 -0500" stop="20261009094800 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">FISH IN A DRAWER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009092600 -0300" stop="20261009095000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">ROUGH NIGHT IN HUMP JUNCTION</sub-title>
+    <desc lang="pt">Alan teme que a condição de mulherengo de Charlie tenha chegado a um nível altamente perigoso.</desc>
+  </programme>
+  <programme start="20261009093000 -0400" stop="20261009095600 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">IF MY HOLE COULD TALK</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009093200 -0300" stop="20261009095800 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WAITING FOR THE RIGHT SNAPPER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009093700 -0600" stop="20261009100000 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">FISH IN A DRAWER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009094600 -0400" stop="20261009101000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">IF MY HOLE COULD TALK</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009094800 -0500" stop="20261009114000 -0500" channel="WARNER_CO.co">
+    <title lang="es">Cómo Entrenar a Tu Dragón</title>
+    <sub-title lang="es">How to Train Your Dragon</sub-title>
+    <desc lang="es">Hipo quiere unirse a la lucha contra los dragones que atacan su pueblo y, pesar de la negativa de su padre, se aventura a la batalla. Con su ingenio logra detener a un misterioso dragón Furia Nocturna y en lugar de convertirse en rivales, comienzan una gran amistad cuando Hipo se da cuenta de que su gente juzgó equivocadamente a la especie. Pero incluso cuando ambos se unen a la lucha, aprenden que deberán pelear contra la ignorancia destructiva que se apoderó de sus mundos.</desc>
+  </programme>
+  <programme start="20261009094800 -0500" stop="20261009101200 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">IF MY HOLE COULD TALK</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009095000 -0300" stop="20261009101500 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">LOOK AT ME, MOMMY, I'M PRETTY</sub-title>
+    <desc lang="pt">Enquanto Alan planeja o casamento de Evelyn e Teddy (Robert Wagner), Charlie procura uma maneira de conquistar a sua futura meio-irmã (Jenny McCarthy) e sua obsessão chega a tal ponto que até recebe conselhos da parte de Rose (atriz recorrente Melanie Lynskey), a respeito de como assediar a sua vítima.</desc>
+  </programme>
+  <programme start="20261009095600 -0400" stop="20261009102200 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WAITING FOR THE RIGHT SNAPPER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009095800 -0300" stop="20261009103900 -0300" channel="WARNER_AR.ar">
+    <title lang="es">COBRA KAI: SEASON 2</title>
+    <sub-title lang="es">MERCY, PART II</sub-title>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <desc lang="es">Enemigos acérrimos. Dojos rivales. Sangre fresca. En esta secuela de las películas de ‘Karate Kid’, Daniel y Johnny reavivan viejas rencillas en el West Valley.</desc>
+  </programme>
+  <programme start="20261009100000 -0600" stop="20261009102400 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">IF MY HOLE COULD TALK</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009101000 -0400" stop="20261009103500 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WAITING FOR THE RIGHT SNAPPER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009101200 -0500" stop="20261009103700 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WAITING FOR THE RIGHT SNAPPER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009101500 -0300" stop="20261009103900 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">FISH IN A DRAWER</sub-title>
+    <desc lang="pt">O reconhecido ator George Eads ('CSI: Crime Scene Investigation') aparece neste episódio, pois a casa de Charlie se transforma em uma cena de crime e uma equipe de cientistas forenses a invade para examiná-la e descobrir o que aconteceu. Este episódio especial foi escrito por Sarah Goldfinger e Evan Dunsky, roteiristas da série 'CSI: Crime Scene Investigation'.</desc>
+  </programme>
+  <programme start="20261009102200 -0400" stop="20261009110200 -0400" channel="WARNER_CL.cl">
+    <title lang="es">COBRA KAI: SEASON 2</title>
+    <sub-title lang="es">MERCY, PART II</sub-title>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <desc lang="es">Enemigos acérrimos. Dojos rivales. Sangre fresca. En esta secuela de las películas de ‘Karate Kid’, Daniel y Johnny reavivan viejas rencillas en el West Valley.</desc>
+  </programme>
+  <programme start="20261009102400 -0600" stop="20261009104800 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WAITING FOR THE RIGHT SNAPPER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261009103500 -0400" stop="20261009111300 -0400" channel="WARNER_VE.ve">
+    <title lang="es">COBRA KAI: SEASON 2</title>
+    <sub-title lang="es">MERCY, PART II</sub-title>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <desc lang="es">Enemigos acérrimos. Dojos rivales. Sangre fresca. En esta secuela de las películas de ‘Karate Kid’, Daniel y Johnny reavivan viejas rencillas en el West Valley.</desc>
+  </programme>
+  <programme start="20261009103700 -0500" stop="20261009111500 -0500" channel="WARNER_AN.co">
+    <title lang="es">COBRA KAI: SEASON 2</title>
+    <sub-title lang="es">MERCY, PART II</sub-title>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <desc lang="es">Enemigos acérrimos. Dojos rivales. Sangre fresca. En esta secuela de las películas de ‘Karate Kid’, Daniel y Johnny reavivan viejas rencillas en el West Valley.</desc>
+  </programme>
+  <programme start="20261009103900 -0300" stop="20261009122500 -0300" channel="WARNER_AR.ar">
+    <title lang="es">Cómo Entrenar a Tu Dragón</title>
+    <sub-title lang="es">How to Train Your Dragon</sub-title>
+    <desc lang="es">Hipo quiere unirse a la lucha contra los dragones que atacan su pueblo y, pesar de la negativa de su padre, se aventura a la batalla. Con su ingenio logra detener a un misterioso dragón Furia Nocturna y en lugar de convertirse en rivales, comienzan una gran amistad cuando Hipo se da cuenta de que su gente juzgó equivocadamente a la especie. Pero incluso cuando ambos se unen a la lucha, aprenden que deberán pelear contra la ignorancia destructiva que se apoderó de sus mundos.</desc>
+  </programme>
+  <programme start="20261009103900 -0300" stop="20261009110400 -0300" channel="WARNER_BR.br">
+    <title lang="pt">2 BROKE GIRLS</title>
+    <sub-title lang="pt">AND THE PRETTY PROBLEM</sub-title>
+    <desc lang="pt">Caroline arrasta Max a uma aula de decoração de bolo para aumentar os conhecimentos delas e tornar seus cupcakes mais atraentes para os clientes.</desc>
+  </programme>
+  <programme start="20261009104800 -0600" stop="20261009112800 -0600" channel="WARNER_MX.mx">
+    <title lang="es">COBRA KAI: SEASON 2</title>
+    <sub-title lang="es">MERCY, PART II</sub-title>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <desc lang="es">Enemigos acérrimos. Dojos rivales. Sangre fresca. En esta secuela de las películas de ‘Karate Kid’, Daniel y Johnny reavivan viejas rencillas en el West Valley.</desc>
+  </programme>
+  <programme start="20261009110200 -0400" stop="20261009124900 -0400" channel="WARNER_CL.cl">
+    <title lang="es">Cómo Entrenar a Tu Dragón</title>
+    <sub-title lang="es">How to Train Your Dragon</sub-title>
+    <desc lang="es">Hipo quiere unirse a la lucha contra los dragones que atacan su pueblo y, pesar de la negativa de su padre, se aventura a la batalla. Con su ingenio logra detener a un misterioso dragón Furia Nocturna y en lugar de convertirse en rivales, comienzan una gran amistad cuando Hipo se da cuenta de que su gente juzgó equivocadamente a la especie. Pero incluso cuando ambos se unen a la lucha, aprenden que deberán pelear contra la ignorancia destructiva que se apoderó de sus mundos.</desc>
+  </programme>
+  <programme start="20261009110400 -0300" stop="20261009112900 -0300" channel="WARNER_BR.br">
+    <title lang="pt">2 BROKE GIRLS</title>
+    <sub-title lang="pt">AND THE HOARDER CULTURE</sub-title>
+    <desc lang="pt">Caroline e Max se afogam em uma bagunça ao limpar o apartamento de um acumulador para ganhar dinheiro extra. E Max descobre que Johnny (NICK ZANO) vem escondendo um segredo.</desc>
+  </programme>
+  <programme start="20261009111300 -0400" stop="20261009125000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">Cómo Entrenar a Tu Dragón</title>
+    <sub-title lang="es">How to Train Your Dragon</sub-title>
+    <desc lang="es">Hipo quiere unirse a la lucha contra los dragones que atacan su pueblo y, pesar de la negativa de su padre, se aventura a la batalla. Con su ingenio logra detener a un misterioso dragón Furia Nocturna y en lugar de convertirse en rivales, comienzan una gran amistad cuando Hipo se da cuenta de que su gente juzgó equivocadamente a la especie. Pero incluso cuando ambos se unen a la lucha, aprenden que deberán pelear contra la ignorancia destructiva que se apoderó de sus mundos.</desc>
+  </programme>
+  <programme start="20261009111500 -0500" stop="20261009125400 -0500" channel="WARNER_AN.co">
+    <title lang="es">Cómo Entrenar a Tu Dragón</title>
+    <sub-title lang="es">How to Train Your Dragon</sub-title>
+    <desc lang="es">Hipo quiere unirse a la lucha contra los dragones que atacan su pueblo y, pesar de la negativa de su padre, se aventura a la batalla. Con su ingenio logra detener a un misterioso dragón Furia Nocturna y en lugar de convertirse en rivales, comienzan una gran amistad cuando Hipo se da cuenta de que su gente juzgó equivocadamente a la especie. Pero incluso cuando ambos se unen a la lucha, aprenden que deberán pelear contra la ignorancia destructiva que se apoderó de sus mundos.</desc>
+  </programme>
+  <programme start="20261009112800 -0600" stop="20261009130400 -0600" channel="WARNER_MX.mx">
+    <title lang="es">Cómo Entrenar a Tu Dragón</title>
+    <sub-title lang="es">How to Train Your Dragon</sub-title>
+    <desc lang="es">Hipo quiere unirse a la lucha contra los dragones que atacan su pueblo y, pesar de la negativa de su padre, se aventura a la batalla. Con su ingenio logra detener a un misterioso dragón Furia Nocturna y en lugar de convertirse en rivales, comienzan una gran amistad cuando Hipo se da cuenta de que su gente juzgó equivocadamente a la especie. Pero incluso cuando ambos se unen a la lucha, aprenden que deberán pelear contra la ignorancia destructiva que se apoderó de sus mundos.</desc>
+  </programme>
+  <programme start="20261009112900 -0300" stop="20261009115200 -0300" channel="WARNER_BR.br">
+    <title lang="pt">YOUNG SHELDON</title>
+    <sub-title lang="pt">A SWEDISH SCIENCE THING AND THE EQUATION FOR TOAST</sub-title>
+    <episode-num system="xmltv_ns">1.21.</episode-num>
+    <desc lang="pt">Enquanto Sheldon organiza uma festa para celebrar os indicados ao Prêmio Nobel, o desejo de Georgie por um pacote de TV paga o leva a um impasse com seu pai, no último episódio da temporada.</desc>
+  </programme>
+  <programme start="20261009114000 -0500" stop="20261009133200 -0500" channel="WARNER_CO.co">
+    <title lang="es">Angry Birds 2: La Película</title>
+    <sub-title lang="es">The Angry Birds Movie 2</sub-title>
+    <desc lang="es">En esta nueva aventura, tanto los cerdos como los pájaros tendrán que aunar sus fuerzas para hacer frente a Zeta. Zeta ha venido desde su isla helada en busca de un lugar más cómodo para vivir, pero su llegada está a punto de poner la vida de Red, Chuck, Bomb, Leonard y compañía patas arriba.</desc>
+  </programme>
+  <programme start="20261009115200 -0300" stop="20261009121300 -0300" channel="WARNER_BR.br">
+    <title lang="pt">YOUNG SHELDON</title>
+    <sub-title lang="pt">Quirky Eggheads and Texas Snow Globes</sub-title>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <desc lang="pt">Na estreia da terceira temporada, Mary (ZOE PERRY) se preocupa com a saúde mental de Sheldon após um colapso nervoso do Dr. Sturgis.</desc>
+  </programme>
+  <programme start="20261009121300 -0300" stop="20261009123500 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE TENANT DISASSOCIATION</sub-title>
+    <episode-num system="xmltv_ns">10.18.</episode-num>
+    <desc lang="pt">Leonard enfrenta Sheldon na disputa pela presidência da associação dos inquilinos. Enquanto isso, Bernadette pede que Howard e Raj encontrem o dono do drone que caiu em seu quintal.</desc>
+  </programme>
+  <programme start="20261009122500 -0300" stop="20261009141000 -0300" channel="WARNER_AR.ar">
+    <title lang="es">Angry Birds 2: La Película</title>
+    <sub-title lang="es">The Angry Birds Movie 2</sub-title>
+    <desc lang="es">En esta nueva aventura, tanto los cerdos como los pájaros tendrán que aunar sus fuerzas para hacer frente a Zeta. Zeta ha venido desde su isla helada en busca de un lugar más cómodo para vivir, pero su llegada está a punto de poner la vida de Red, Chuck, Bomb, Leonard y compañía patas arriba.</desc>
+  </programme>
+  <programme start="20261009123500 -0300" stop="20261009125800 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE RECLUSIVE POTENTIAL</sub-title>
+    <episode-num system="xmltv_ns">10.19.</episode-num>
+    <desc lang="pt">Enquanto Penny e Bernadette improvisam uma despedida de solteira para Amy, Sheldon e os garotos fazem uma visita a um cientista recluso no meio do nada.</desc>
+  </programme>
+  <programme start="20261009124900 -0400" stop="20261009143300 -0400" channel="WARNER_CL.cl">
+    <title lang="es">Angry Birds 2: La Película</title>
+    <sub-title lang="es">The Angry Birds Movie 2</sub-title>
+    <desc lang="es">En esta nueva aventura, tanto los cerdos como los pájaros tendrán que aunar sus fuerzas para hacer frente a Zeta. Zeta ha venido desde su isla helada en busca de un lugar más cómodo para vivir, pero su llegada está a punto de poner la vida de Red, Chuck, Bomb, Leonard y compañía patas arriba.</desc>
+  </programme>
+  <programme start="20261009125000 -0400" stop="20261009142900 -0400" channel="WARNER_VE.ve">
+    <title lang="es">Angry Birds 2: La Película</title>
+    <sub-title lang="es">The Angry Birds Movie 2</sub-title>
+    <desc lang="es">En esta nueva aventura, tanto los cerdos como los pájaros tendrán que aunar sus fuerzas para hacer frente a Zeta. Zeta ha venido desde su isla helada en busca de un lugar más cómodo para vivir, pero su llegada está a punto de poner la vida de Red, Chuck, Bomb, Leonard y compañía patas arriba.</desc>
+  </programme>
+  <programme start="20261009125400 -0500" stop="20261009143200 -0500" channel="WARNER_AN.co">
+    <title lang="es">Angry Birds 2: La Película</title>
+    <sub-title lang="es">The Angry Birds Movie 2</sub-title>
+    <desc lang="es">En esta nueva aventura, tanto los cerdos como los pájaros tendrán que aunar sus fuerzas para hacer frente a Zeta. Zeta ha venido desde su isla helada en busca de un lugar más cómodo para vivir, pero su llegada está a punto de poner la vida de Red, Chuck, Bomb, Leonard y compañía patas arriba.</desc>
+  </programme>
+  <programme start="20261009125800 -0300" stop="20261009132200 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE COMET POLARIZATION</sub-title>
+    <episode-num system="xmltv_ns">10.20.</episode-num>
+    <desc lang="pt">O escritor NEIL GAIMAN dá um empurrãozinho na loja de quadrinhos de Stuart. Enquanto isso, amizades são ameaçadas quando Raj leva os créditos pela descoberta astronômica de Penny.</desc>
+  </programme>
+  <programme start="20261009130400 -0600" stop="20261009144100 -0600" channel="WARNER_MX.mx">
+    <title lang="es">Angry Birds 2: La Película</title>
+    <sub-title lang="es">The Angry Birds Movie 2</sub-title>
+    <desc lang="es">En esta nueva aventura, tanto los cerdos como los pájaros tendrán que aunar sus fuerzas para hacer frente a Zeta. Zeta ha venido desde su isla helada en busca de un lugar más cómodo para vivir, pero su llegada está a punto de poner la vida de Red, Chuck, Bomb, Leonard y compañía patas arriba.</desc>
+  </programme>
+  <programme start="20261009132200 -0300" stop="20261009134300 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE MONETARY INSUFFICIENCY</sub-title>
+    <episode-num system="xmltv_ns">10.21.</episode-num>
+    <desc lang="pt">Enquanto Sheldon vai a Vegas para ganhar milhões de dólares pela ciência, Penny e Bernadette levam Amy para comprar um vestido de noiva. Mas elas são pegas numa rede de mentiras.</desc>
+  </programme>
+  <programme start="20261009133200 -0500" stop="20261009160400 -0500" channel="WARNER_CO.co">
+    <title lang="es">Batman Eternamente</title>
+    <sub-title lang="es">Batman Forever</sub-title>
+    <desc lang="es">La oscuridad de Ciudad Gótica confronta al dúo dinámico con sus asérrimos enemigos: Doble Cara y El Acertijo.</desc>
+  </programme>
+  <programme start="20261009134300 -0300" stop="20261009140700 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE SIBLING REALIGNMENT</sub-title>
+    <episode-num system="xmltv_ns">10.22.</episode-num>
+    <desc lang="pt">Quando Sheldon descobre que sua mãe não irá ao seu casamento se ele não convidar seu irmão Georgie, ele vai ao Texas ao lado de Leonard para pôr um fim na briga familiar.</desc>
+  </programme>
+  <programme start="20261009140700 -0300" stop="20261009143100 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE BOW TIE ASYMMETRY</sub-title>
+    <episode-num system="xmltv_ns">10.23.</episode-num>
+    <desc lang="pt">No último episódio da temporada, os pais de Amy e a família de Sheldon chegam. Todos se esforçam para que tudo saia conforme os planos. Menos a noiva e o noivo.</desc>
+  </programme>
+  <programme start="20261009141000 -0300" stop="20261009163100 -0300" channel="WARNER_AR.ar">
+    <title lang="es">Batman Eternamente</title>
+    <sub-title lang="es">Batman Forever</sub-title>
+    <desc lang="es">La oscuridad de Ciudad Gótica confronta al dúo dinámico con sus asérrimos enemigos: Doble Cara y El Acertijo.</desc>
+  </programme>
+  <programme start="20261009142900 -0400" stop="20261009164200 -0400" channel="WARNER_VE.ve">
+    <title lang="es">Batman Eternamente</title>
+    <sub-title lang="es">Batman Forever</sub-title>
+    <desc lang="es">La oscuridad de Ciudad Gótica confronta al dúo dinámico con sus asérrimos enemigos: Doble Cara y El Acertijo.</desc>
+  </programme>
+  <programme start="20261009143100 -0300" stop="20261009145500 -0300" channel="WARNER_BR.br">
+    <title lang="pt">2 BROKE GIRLS</title>
+    <sub-title lang="pt">AND THE PRETTY PROBLEM</sub-title>
+    <desc lang="pt">Caroline arrasta Max a uma aula de decoração de bolo para aumentar os conhecimentos delas e tornar seus cupcakes mais atraentes para os clientes.</desc>
+  </programme>
+  <programme start="20261009143200 -0500" stop="20261009164500 -0500" channel="WARNER_AN.co">
+    <title lang="es">Batman Eternamente</title>
+    <sub-title lang="es">Batman Forever</sub-title>
+    <desc lang="es">La oscuridad de Ciudad Gótica confronta al dúo dinámico con sus asérrimos enemigos: Doble Cara y El Acertijo.</desc>
+  </programme>
+  <programme start="20261009143300 -0400" stop="20261009165100 -0400" channel="WARNER_CL.cl">
+    <title lang="es">Batman Eternamente</title>
+    <sub-title lang="es">Batman Forever</sub-title>
+    <desc lang="es">La oscuridad de Ciudad Gótica confronta al dúo dinámico con sus asérrimos enemigos: Doble Cara y El Acertijo.</desc>
+  </programme>
+  <programme start="20261009144100 -0600" stop="20261009165000 -0600" channel="WARNER_MX.mx">
+    <title lang="es">Batman Eternamente</title>
+    <sub-title lang="es">Batman Forever</sub-title>
+    <desc lang="es">La oscuridad de Ciudad Gótica confronta al dúo dinámico con sus asérrimos enemigos: Doble Cara y El Acertijo.</desc>
+  </programme>
+  <programme start="20261009145500 -0300" stop="20261009151900 -0300" channel="WARNER_BR.br">
+    <title lang="pt">2 BROKE GIRLS</title>
+    <sub-title lang="pt">AND THE HOARDER CULTURE</sub-title>
+    <desc lang="pt">Caroline e Max se afogam em uma bagunça ao limpar o apartamento de um acumulador para ganhar dinheiro extra. E Max descobre que Johnny (NICK ZANO) vem escondendo um segredo.</desc>
+  </programme>
+  <programme start="20261009151900 -0300" stop="20261009154200 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">WINKY-DINK TIME</sub-title>
+    <desc lang="pt">Charlie e Jake se preparam para sair em um encontro duplo, assim que Charlie decide contratar uma prostituta para Alan.</desc>
+  </programme>
+  <programme start="20261009154200 -0300" stop="20261009160500 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">ROUGH NIGHT IN HUMP JUNCTION</sub-title>
+    <desc lang="pt">Alan teme que a condição de mulherengo de Charlie tenha chegado a um nível altamente perigoso.</desc>
+  </programme>
+  <programme start="20261009160400 -0500" stop="20261009175900 -0500" channel="WARNER_CO.co">
+    <title lang="es">Viaje 2: La Isla Misteriosa</title>
+    <sub-title lang="es">Journey 2: The Mysterious Island</sub-title>
+    <desc lang="es">Sean, un joven de diecisiete años, recibe una señal de auxilio codificada proveniente de una isla que no figura en ningún mapa. Pensando que podría tratarse de la isla misteriosa sobre la que escribió Julio Verne, y que la señal puede haber venido de su abuelo desaparecido, el muchacho y su nuevo padrastro Hank deciden viajar al otro lado del mundo para encontrarla. Con la ayuda de Gabato, el único piloto de helicópteros dispuesto a asumir el riesgo del viaje, y su hija Kailani, parten en busca de la isla.</desc>
+  </programme>
+  <programme start="20261009160500 -0300" stop="20261009162900 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">LOOK AT ME, MOMMY, I'M PRETTY</sub-title>
+    <desc lang="pt">Enquanto Alan planeja o casamento de Evelyn e Teddy (Robert Wagner), Charlie procura uma maneira de conquistar a sua futura meio-irmã (Jenny McCarthy) e sua obsessão chega a tal ponto que até recebe conselhos da parte de Rose (atriz recorrente Melanie Lynskey), a respeito de como assediar a sua vítima.</desc>
+  </programme>
+  <programme start="20261009162900 -0300" stop="20261009165200 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">FISH IN A DRAWER</sub-title>
+    <desc lang="pt">O reconhecido ator George Eads ('CSI: Crime Scene Investigation') aparece neste episódio, pois a casa de Charlie se transforma em uma cena de crime e uma equipe de cientistas forenses a invade para examiná-la e descobrir o que aconteceu. Este episódio especial foi escrito por Sarah Goldfinger e Evan Dunsky, roteiristas da série 'CSI: Crime Scene Investigation'.</desc>
+  </programme>
+  <programme start="20261009163100 -0300" stop="20261009182000 -0300" channel="WARNER_AR.ar">
+    <title lang="es">Viaje 2: La Isla Misteriosa</title>
+    <sub-title lang="es">Journey 2: The Mysterious Island</sub-title>
+    <desc lang="es">Sean, un joven de diecisiete años, recibe una señal de auxilio codificada proveniente de una isla que no figura en ningún mapa. Pensando que podría tratarse de la isla misteriosa sobre la que escribió Julio Verne, y que la señal puede haber venido de su abuelo desaparecido, el muchacho y su nuevo padrastro Hank deciden viajar al otro lado del mundo para encontrarla. Con la ayuda de Gabato, el único piloto de helicópteros dispuesto a asumir el riesgo del viaje, y su hija Kailani, parten en busca de la isla.</desc>
+  </programme>
+  <programme start="20261009164200 -0400" stop="20261009182100 -0400" channel="WARNER_VE.ve">
+    <title lang="es">Viaje 2: La Isla Misteriosa</title>
+    <sub-title lang="es">Journey 2: The Mysterious Island</sub-title>
+    <desc lang="es">Sean, un joven de diecisiete años, recibe una señal de auxilio codificada proveniente de una isla que no figura en ningún mapa. Pensando que podría tratarse de la isla misteriosa sobre la que escribió Julio Verne, y que la señal puede haber venido de su abuelo desaparecido, el muchacho y su nuevo padrastro Hank deciden viajar al otro lado del mundo para encontrarla. Con la ayuda de Gabato, el único piloto de helicópteros dispuesto a asumir el riesgo del viaje, y su hija Kailani, parten en busca de la isla.</desc>
+  </programme>
+  <programme start="20261009164500 -0500" stop="20261009182600 -0500" channel="WARNER_AN.co">
+    <title lang="es">Viaje 2: La Isla Misteriosa</title>
+    <sub-title lang="es">Journey 2: The Mysterious Island</sub-title>
+    <desc lang="es">Sean, un joven de diecisiete años, recibe una señal de auxilio codificada proveniente de una isla que no figura en ningún mapa. Pensando que podría tratarse de la isla misteriosa sobre la que escribió Julio Verne, y que la señal puede haber venido de su abuelo desaparecido, el muchacho y su nuevo padrastro Hank deciden viajar al otro lado del mundo para encontrarla. Con la ayuda de Gabato, el único piloto de helicópteros dispuesto a asumir el riesgo del viaje, y su hija Kailani, parten en busca de la isla.</desc>
+  </programme>
+  <programme start="20261009165000 -0600" stop="20261009183100 -0600" channel="WARNER_MX.mx">
+    <title lang="es">Viaje 2: La Isla Misteriosa</title>
+    <sub-title lang="es">Journey 2: The Mysterious Island</sub-title>
+    <desc lang="es">Sean, un joven de diecisiete años, recibe una señal de auxilio codificada proveniente de una isla que no figura en ningún mapa. Pensando que podría tratarse de la isla misteriosa sobre la que escribió Julio Verne, y que la señal puede haber venido de su abuelo desaparecido, el muchacho y su nuevo padrastro Hank deciden viajar al otro lado del mundo para encontrarla. Con la ayuda de Gabato, el único piloto de helicópteros dispuesto a asumir el riesgo del viaje, y su hija Kailani, parten en busca de la isla.</desc>
+  </programme>
+  <programme start="20261009165100 -0400" stop="20261009183300 -0400" channel="WARNER_CL.cl">
+    <title lang="es">Viaje 2: La Isla Misteriosa</title>
+    <sub-title lang="es">Journey 2: The Mysterious Island</sub-title>
+    <desc lang="es">Sean, un joven de diecisiete años, recibe una señal de auxilio codificada proveniente de una isla que no figura en ningún mapa. Pensando que podría tratarse de la isla misteriosa sobre la que escribió Julio Verne, y que la señal puede haber venido de su abuelo desaparecido, el muchacho y su nuevo padrastro Hank deciden viajar al otro lado del mundo para encontrarla. Con la ayuda de Gabato, el único piloto de helicópteros dispuesto a asumir el riesgo del viaje, y su hija Kailani, parten en busca de la isla.</desc>
+  </programme>
+  <programme start="20261009165200 -0300" stop="20261009182700 -0300" channel="WARNER_BR.br">
+    <title lang="pt">A Hora do Rush 2</title>
+    <sub-title lang="pt">Rush Hour 2</sub-title>
+    <desc lang="pt">Carter, o falastrão detetive americano, e Lee, o dedicado inspetor asiático, juntam suas forças novamente para investigar os segredos por trás da explosão de uma bomba na embaixada americana em Hong Kong.</desc>
+  </programme>
+  <programme start="20261009175900 -0500" stop="20261009195600 -0500" channel="WARNER_CO.co">
+    <title lang="es">Una Pareja Explosiva 2</title>
+    <sub-title lang="es">Rush Hour 2</sub-title>
+    <desc lang="es">El inspector Lee y el detective James viajan a Hong Kong para pasar unas tranquilas vacaciones. Pero pronto se verán involucrados en un caso de falsificación de billetes que pone en jaque a la ciudad. Brett Ratner (Un hombre de familia) vuelve a dirigir a una dupla explosiva que combina el humor norteamericano (el hilarante Chris Tucker) con las acrobacias hongkonesas (de la mano del elástico Jackie Chan) y que incluye una escena antológica de combate a puro taco aguja entre las dos protagonistas femeninas.</desc>
+  </programme>
+  <programme start="20261009182000 -0300" stop="20261009200800 -0300" channel="WARNER_AR.ar">
+    <title lang="es">Una Pareja Explosiva 2</title>
+    <sub-title lang="es">Rush Hour 2</sub-title>
+    <desc lang="es">El inspector Lee y el detective James viajan a Hong Kong para pasar unas tranquilas vacaciones. Pero pronto se verán involucrados en un caso de falsificación de billetes que pone en jaque a la ciudad. Brett Ratner (Un hombre de familia) vuelve a dirigir a una dupla explosiva que combina el humor norteamericano (el hilarante Chris Tucker) con las acrobacias hongkonesas (de la mano del elástico Jackie Chan) y que incluye una escena antológica de combate a puro taco aguja entre las dos protagonistas femeninas.</desc>
+  </programme>
+  <programme start="20261009182100 -0400" stop="20261009200500 -0400" channel="WARNER_VE.ve">
+    <title lang="es">Una Pareja Explosiva 2</title>
+    <sub-title lang="es">Rush Hour 2</sub-title>
+    <desc lang="es">El inspector Lee y el detective James viajan a Hong Kong para pasar unas tranquilas vacaciones. Pero pronto se verán involucrados en un caso de falsificación de billetes que pone en jaque a la ciudad. Brett Ratner (Un hombre de familia) vuelve a dirigir a una dupla explosiva que combina el humor norteamericano (el hilarante Chris Tucker) con las acrobacias hongkonesas (de la mano del elástico Jackie Chan) y que incluye una escena antológica de combate a puro taco aguja entre las dos protagonistas femeninas.</desc>
+  </programme>
+  <programme start="20261009182600 -0500" stop="20261009200700 -0500" channel="WARNER_AN.co">
+    <title lang="es">Una Pareja Explosiva 2</title>
+    <sub-title lang="es">Rush Hour 2</sub-title>
+    <desc lang="es">El inspector Lee y el detective James viajan a Hong Kong para pasar unas tranquilas vacaciones. Pero pronto se verán involucrados en un caso de falsificación de billetes que pone en jaque a la ciudad. Brett Ratner (Un hombre de familia) vuelve a dirigir a una dupla explosiva que combina el humor norteamericano (el hilarante Chris Tucker) con las acrobacias hongkonesas (de la mano del elástico Jackie Chan) y que incluye una escena antológica de combate a puro taco aguja entre las dos protagonistas femeninas.</desc>
+  </programme>
+  <programme start="20261009182700 -0300" stop="20261009200200 -0300" channel="WARNER_BR.br">
+    <title lang="pt">A Hora do Rush 3</title>
+    <sub-title lang="pt">Rush Hour 3</sub-title>
+    <desc lang="pt">Situado em Paris, Rush Hour 3 mostra os desajustados parceiros do Ocidente e do Oriente, liderados por CHRIS TUCKER e CHARLIE CHAN, lutando contra uma ala da família das Tríades - o crime organizado chinês - numa mistura de muita ação e gargalhadas. Das deslumbrantes casas noturnas parisienses até as passarelas de moda da cidade, Rush Hour 3 promete mais ação, mais comédia e mais aventuras hilárias do que nunca!</desc>
+  </programme>
+  <programme start="20261009183100 -0600" stop="20261009201200 -0600" channel="WARNER_MX.mx">
+    <title lang="es">Una Pareja Explosiva 2</title>
+    <sub-title lang="es">Rush Hour 2</sub-title>
+    <desc lang="es">El inspector Lee y el detective James viajan a Hong Kong para pasar unas tranquilas vacaciones. Pero pronto se verán involucrados en un caso de falsificación de billetes que pone en jaque a la ciudad. Brett Ratner (Un hombre de familia) vuelve a dirigir a una dupla explosiva que combina el humor norteamericano (el hilarante Chris Tucker) con las acrobacias hongkonesas (de la mano del elástico Jackie Chan) y que incluye una escena antológica de combate a puro taco aguja entre las dos protagonistas femeninas.</desc>
+  </programme>
+  <programme start="20261009183300 -0400" stop="20261009201100 -0400" channel="WARNER_CL.cl">
+    <title lang="es">Una Pareja Explosiva 2</title>
+    <sub-title lang="es">Rush Hour 2</sub-title>
+    <desc lang="es">El inspector Lee y el detective James viajan a Hong Kong para pasar unas tranquilas vacaciones. Pero pronto se verán involucrados en un caso de falsificación de billetes que pone en jaque a la ciudad. Brett Ratner (Un hombre de familia) vuelve a dirigir a una dupla explosiva que combina el humor norteamericano (el hilarante Chris Tucker) con las acrobacias hongkonesas (de la mano del elástico Jackie Chan) y que incluye una escena antológica de combate a puro taco aguja entre las dos protagonistas femeninas.</desc>
+  </programme>
+  <programme start="20261009195600 -0500" stop="20261009214900 -0500" channel="WARNER_CO.co">
+    <title lang="es">Una Pareja Explosiva 3</title>
+    <sub-title lang="es">Rush Hour 3</sub-title>
+    <desc lang="es">La dispareja pareja de Chris Tucker y Jackie Chan combaten esta vez en Paris a la familia de las triadas, una organización familiar criminal china. Repleta de acción y situaciones cómicas, este par nos lleva desde los más sórdidos clubes nocturnos parisinos hasta las pasarelas más exclusivas de la ciudad. Una Pareja Explosiva 3 promete más acción, más comedia y más diversión que nunca.</desc>
+  </programme>
+  <programme start="20261009200200 -0300" stop="20261009202800 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE TENANT DISASSOCIATION</sub-title>
+    <episode-num system="xmltv_ns">10.18.</episode-num>
+    <desc lang="pt">Leonard enfrenta Sheldon na disputa pela presidência da associação dos inquilinos. Enquanto isso, Bernadette pede que Howard e Raj encontrem o dono do drone que caiu em seu quintal.</desc>
+  </programme>
+  <programme start="20261009200500 -0400" stop="20261009214800 -0400" channel="WARNER_VE.ve">
+    <title lang="es">Una Pareja Explosiva 3</title>
+    <sub-title lang="es">Rush Hour 3</sub-title>
+    <desc lang="es">La dispareja pareja de Chris Tucker y Jackie Chan combaten esta vez en Paris a la familia de las triadas, una organización familiar criminal china. Repleta de acción y situaciones cómicas, este par nos lleva desde los más sórdidos clubes nocturnos parisinos hasta las pasarelas más exclusivas de la ciudad. Una Pareja Explosiva 3 promete más acción, más comedia y más diversión que nunca.</desc>
+  </programme>
+  <programme start="20261009200700 -0500" stop="20261009214900 -0500" channel="WARNER_AN.co">
+    <title lang="es">Una Pareja Explosiva 3</title>
+    <sub-title lang="es">Rush Hour 3</sub-title>
+    <desc lang="es">La dispareja pareja de Chris Tucker y Jackie Chan combaten esta vez en Paris a la familia de las triadas, una organización familiar criminal china. Repleta de acción y situaciones cómicas, este par nos lleva desde los más sórdidos clubes nocturnos parisinos hasta las pasarelas más exclusivas de la ciudad. Una Pareja Explosiva 3 promete más acción, más comedia y más diversión que nunca.</desc>
+  </programme>
+  <programme start="20261009200800 -0300" stop="20261009214900 -0300" channel="WARNER_AR.ar">
+    <title lang="es">Una Pareja Explosiva 3</title>
+    <sub-title lang="es">Rush Hour 3</sub-title>
+    <desc lang="es">La dispareja pareja de Chris Tucker y Jackie Chan combaten esta vez en Paris a la familia de las triadas, una organización familiar criminal china. Repleta de acción y situaciones cómicas, este par nos lleva desde los más sórdidos clubes nocturnos parisinos hasta las pasarelas más exclusivas de la ciudad. Una Pareja Explosiva 3 promete más acción, más comedia y más diversión que nunca.</desc>
+  </programme>
+  <programme start="20261009201100 -0400" stop="20261009214900 -0400" channel="WARNER_CL.cl">
+    <title lang="es">Una Pareja Explosiva 3</title>
+    <sub-title lang="es">Rush Hour 3</sub-title>
+    <desc lang="es">La dispareja pareja de Chris Tucker y Jackie Chan combaten esta vez en Paris a la familia de las triadas, una organización familiar criminal china. Repleta de acción y situaciones cómicas, este par nos lleva desde los más sórdidos clubes nocturnos parisinos hasta las pasarelas más exclusivas de la ciudad. Una Pareja Explosiva 3 promete más acción, más comedia y más diversión que nunca.</desc>
+  </programme>
+  <programme start="20261009201200 -0600" stop="20261009214900 -0600" channel="WARNER_MX.mx">
+    <title lang="es">Una Pareja Explosiva 3</title>
+    <sub-title lang="es">Rush Hour 3</sub-title>
+    <desc lang="es">La dispareja pareja de Chris Tucker y Jackie Chan combaten esta vez en Paris a la familia de las triadas, una organización familiar criminal china. Repleta de acción y situaciones cómicas, este par nos lleva desde los más sórdidos clubes nocturnos parisinos hasta las pasarelas más exclusivas de la ciudad. Una Pareja Explosiva 3 promete más acción, más comedia y más diversión que nunca.</desc>
+  </programme>
+  <programme start="20261009202800 -0300" stop="20261009205400 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE RECLUSIVE POTENTIAL</sub-title>
+    <episode-num system="xmltv_ns">10.19.</episode-num>
+    <desc lang="pt">Enquanto Penny e Bernadette improvisam uma despedida de solteira para Amy, Sheldon e os garotos fazem uma visita a um cientista recluso no meio do nada.</desc>
+  </programme>
+  <programme start="20261009205400 -0300" stop="20261009211800 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE COMET POLARIZATION</sub-title>
+    <episode-num system="xmltv_ns">10.20.</episode-num>
+    <desc lang="pt">O escritor NEIL GAIMAN dá um empurrãozinho na loja de quadrinhos de Stuart. Enquanto isso, amizades são ameaçadas quando Raj leva os créditos pela descoberta astronômica de Penny.</desc>
+  </programme>
+  <programme start="20261009211800 -0300" stop="20261009214100 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE MONETARY INSUFFICIENCY</sub-title>
+    <episode-num system="xmltv_ns">10.21.</episode-num>
+    <desc lang="pt">Enquanto Sheldon vai a Vegas para ganhar milhões de dólares pela ciência, Penny e Bernadette levam Amy para comprar um vestido de noiva. Mas elas são pegas numa rede de mentiras.</desc>
+  </programme>
+  <programme start="20261009214100 -0300" stop="20261009220600 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE SIBLING REALIGNMENT</sub-title>
+    <episode-num system="xmltv_ns">10.22.</episode-num>
+    <desc lang="pt">Quando Sheldon descobre que sua mãe não irá ao seu casamento se ele não convidar seu irmão Georgie, ele vai ao Texas ao lado de Leonard para pôr um fim na briga familiar.</desc>
+  </programme>
+  <programme start="20261009214800 -0400" stop="20261009215900 -0400" channel="WARNER_VE.ve">
+    <title lang="es">INSIDE WARNER: DIGGER</title>
+    <sub-title lang="es">INSIDE WARNER: DIGER</sub-title>
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261009214900 -0300" stop="20261009220000 -0300" channel="WARNER_AR.ar">
+    <title lang="es">INSIDE WARNER: DIGGER</title>
+    <sub-title lang="es">INSIDE WARNER: DIGER</sub-title>
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261009214900 -0400" stop="20261009220000 -0400" channel="WARNER_CL.cl">
+    <title lang="es">INSIDE WARNER: DIGGER</title>
+    <sub-title lang="es">INSIDE WARNER: DIGER</sub-title>
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261009214900 -0500" stop="20261009220000 -0500" channel="WARNER_CO.co">
+    <title lang="es">INSIDE WARNER: DIGGER</title>
+    <sub-title lang="es">INSIDE WARNER: DIGER</sub-title>
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261009214900 -0500" stop="20261009220000 -0500" channel="WARNER_AN.co">
+    <title lang="es">INSIDE WARNER: DIGGER</title>
+    <sub-title lang="es">INSIDE WARNER: DIGER</sub-title>
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261009214900 -0600" stop="20261009220000 -0600" channel="WARNER_MX.mx">
+    <title lang="es">INSIDE WARNER: DIGGER</title>
+    <sub-title lang="es">INSIDE WARNER: DIGER</sub-title>
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261009215900 -0400" stop="20261010002000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">Oblivion</title>
+    <desc lang="es">En el año 2077, y debido a una larga guerra contra una civilización extraterrestre, la Tierra quedó destruida y sus habitantes tuvieron que huir a una de las lunas de Saturno. Jack y su compañera Vika son de los pocos humanos que siguen en la Tierra, y su tarea consiste en reparar drones. Por cuestiones de seguridad, la memoria de Jack fue borrada, pero Jack experimenta visiones en las que aparece una mujer que él no recuerda. Mientras investiga una nave espacial que impactó en la Tierra, Jack descubre que una de sus tripulantes es la mujer de sus visiones.</desc>
+  </programme>
+  <programme start="20261009220000 -0300" stop="20261010001900 -0300" channel="WARNER_AR.ar">
+    <title lang="es">Oblivion</title>
+    <desc lang="es">En el año 2077, y debido a una larga guerra contra una civilización extraterrestre, la Tierra quedó destruida y sus habitantes tuvieron que huir a una de las lunas de Saturno. Jack y su compañera Vika son de los pocos humanos que siguen en la Tierra, y su tarea consiste en reparar drones. Por cuestiones de seguridad, la memoria de Jack fue borrada, pero Jack experimenta visiones en las que aparece una mujer que él no recuerda. Mientras investiga una nave espacial que impactó en la Tierra, Jack descubre que una de sus tripulantes es la mujer de sus visiones.</desc>
+  </programme>
+  <programme start="20261009220000 -0400" stop="20261010001600 -0400" channel="WARNER_CL.cl">
+    <title lang="es">Oblivion</title>
+    <desc lang="es">En el año 2077, y debido a una larga guerra contra una civilización extraterrestre, la Tierra quedó destruida y sus habitantes tuvieron que huir a una de las lunas de Saturno. Jack y su compañera Vika son de los pocos humanos que siguen en la Tierra, y su tarea consiste en reparar drones. Por cuestiones de seguridad, la memoria de Jack fue borrada, pero Jack experimenta visiones en las que aparece una mujer que él no recuerda. Mientras investiga una nave espacial que impactó en la Tierra, Jack descubre que una de sus tripulantes es la mujer de sus visiones.</desc>
+  </programme>
+  <programme start="20261009220000 -0500" stop="20261010003600 -0500" channel="WARNER_CO.co">
+    <title lang="es">Oblivion</title>
+    <desc lang="es">En el año 2077, y debido a una larga guerra contra una civilización extraterrestre, la Tierra quedó destruida y sus habitantes tuvieron que huir a una de las lunas de Saturno. Jack y su compañera Vika son de los pocos humanos que siguen en la Tierra, y su tarea consiste en reparar drones. Por cuestiones de seguridad, la memoria de Jack fue borrada, pero Jack experimenta visiones en las que aparece una mujer que él no recuerda. Mientras investiga una nave espacial que impactó en la Tierra, Jack descubre que una de sus tripulantes es la mujer de sus visiones.</desc>
+  </programme>
+  <programme start="20261009220000 -0500" stop="20261010001800 -0500" channel="WARNER_AN.co">
+    <title lang="es">Oblivion</title>
+    <desc lang="es">En el año 2077, y debido a una larga guerra contra una civilización extraterrestre, la Tierra quedó destruida y sus habitantes tuvieron que huir a una de las lunas de Saturno. Jack y su compañera Vika son de los pocos humanos que siguen en la Tierra, y su tarea consiste en reparar drones. Por cuestiones de seguridad, la memoria de Jack fue borrada, pero Jack experimenta visiones en las que aparece una mujer que él no recuerda. Mientras investiga una nave espacial que impactó en la Tierra, Jack descubre que una de sus tripulantes es la mujer de sus visiones.</desc>
+  </programme>
+  <programme start="20261009220000 -0600" stop="20261010001300 -0600" channel="WARNER_MX.mx">
+    <title lang="es">Oblivion</title>
+    <desc lang="es">En el año 2077, y debido a una larga guerra contra una civilización extraterrestre, la Tierra quedó destruida y sus habitantes tuvieron que huir a una de las lunas de Saturno. Jack y su compañera Vika son de los pocos humanos que siguen en la Tierra, y su tarea consiste en reparar drones. Por cuestiones de seguridad, la memoria de Jack fue borrada, pero Jack experimenta visiones en las que aparece una mujer que él no recuerda. Mientras investiga una nave espacial que impactó en la Tierra, Jack descubre que una de sus tripulantes es la mujer de sus visiones.</desc>
+  </programme>
+  <programme start="20261009220600 -0300" stop="20261009223000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE BOW TIE ASYMMETRY</sub-title>
+    <episode-num system="xmltv_ns">10.23.</episode-num>
+    <desc lang="pt">No último episódio da temporada, os pais de Amy e a família de Sheldon chegam. Todos se esforçam para que tudo saia conforme os planos. Menos a noiva e o noivo.</desc>
+  </programme>
+  <programme start="20261009223000 -0300" stop="20261010003800 -0300" channel="WARNER_BR.br">
+    <title lang="pt">Oblivion</title>
+    <desc lang="pt">Em um universo futurista, Jack Harper é um misto de engenheiro e soldado responsável por uma missão na Terra, planeta que foi abandonado há mais de 60 anos pelos humanos depois uma grande guerra contra a raça alienígena Scavs. A humanidade conseguiu vencer a ameaça, porém isso teve um preço: a destruição de seu planeta natal com bombas nucleares. Os sobreviventes agora vivem em uma colônia no espaço e alguns escolhidos são enviados para a Terra para patrulhas. Tudo caminha sem maiores problemas, até que Jack começa a relembrar fatos antigos a partir de pequenos itens, isso cria uma nostalgia em sua mente. Ele começa, então, a questionar fatos sobre a batalha e a atual situação da Terra.</desc>
+  </programme>
+  <programme start="20261010001300 -0600" stop="20261010003500 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE TENANT DISASSOCIATION</sub-title>
+    <episode-num system="xmltv_ns">10.18.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010001600 -0400" stop="20261010003800 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE TENANT DISASSOCIATION</sub-title>
+    <episode-num system="xmltv_ns">10.18.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010001800 -0500" stop="20261010004000 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE TENANT DISASSOCIATION</sub-title>
+    <episode-num system="xmltv_ns">10.18.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010001900 -0300" stop="20261010004300 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE TENANT DISASSOCIATION</sub-title>
+    <episode-num system="xmltv_ns">10.18.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010002000 -0400" stop="20261010004200 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE TENANT DISASSOCIATION</sub-title>
+    <episode-num system="xmltv_ns">10.18.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010003500 -0600" stop="20261010005800 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE RECLUSIVE POTENTIAL</sub-title>
+    <episode-num system="xmltv_ns">10.19.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010003600 -0500" stop="20261010010100 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE TENANT DISASSOCIATION</sub-title>
+    <episode-num system="xmltv_ns">10.18.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010003800 -0300" stop="20261010010200 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">WINKY-DINK TIME</sub-title>
+    <desc lang="pt">Charlie e Jake se preparam para sair em um encontro duplo, assim que Charlie decide contratar uma prostituta para Alan.</desc>
+  </programme>
+  <programme start="20261010003800 -0400" stop="20261010010200 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE RECLUSIVE POTENTIAL</sub-title>
+    <episode-num system="xmltv_ns">10.19.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010004000 -0500" stop="20261010010300 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE RECLUSIVE POTENTIAL</sub-title>
+    <episode-num system="xmltv_ns">10.19.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010004200 -0400" stop="20261010010500 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE RECLUSIVE POTENTIAL</sub-title>
+    <episode-num system="xmltv_ns">10.19.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010004300 -0300" stop="20261010010800 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE RECLUSIVE POTENTIAL</sub-title>
+    <episode-num system="xmltv_ns">10.19.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010005800 -0600" stop="20261010012000 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE COMET POLARIZATION</sub-title>
+    <episode-num system="xmltv_ns">10.20.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010010100 -0500" stop="20261010012400 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE RECLUSIVE POTENTIAL</sub-title>
+    <episode-num system="xmltv_ns">10.19.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010010200 -0300" stop="20261010012500 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">ROUGH NIGHT IN HUMP JUNCTION</sub-title>
+    <desc lang="pt">Alan teme que a condição de mulherengo de Charlie tenha chegado a um nível altamente perigoso.</desc>
+  </programme>
+  <programme start="20261010010200 -0400" stop="20261010012500 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE COMET POLARIZATION</sub-title>
+    <episode-num system="xmltv_ns">10.20.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010010300 -0500" stop="20261010012500 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE COMET POLARIZATION</sub-title>
+    <episode-num system="xmltv_ns">10.20.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010010500 -0400" stop="20261010012700 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE COMET POLARIZATION</sub-title>
+    <episode-num system="xmltv_ns">10.20.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010010800 -0300" stop="20261010013200 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE COMET POLARIZATION</sub-title>
+    <episode-num system="xmltv_ns">10.20.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010012000 -0600" stop="20261010014000 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE MONETARY INSUFFICIENCY</sub-title>
+    <episode-num system="xmltv_ns">10.21.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010012400 -0500" stop="20261010014800 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE COMET POLARIZATION</sub-title>
+    <episode-num system="xmltv_ns">10.20.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010012500 -0300" stop="20261010014900 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">LOOK AT ME, MOMMY, I'M PRETTY</sub-title>
+    <desc lang="pt">Enquanto Alan planeja o casamento de Evelyn e Teddy (Robert Wagner), Charlie procura uma maneira de conquistar a sua futura meio-irmã (Jenny McCarthy) e sua obsessão chega a tal ponto que até recebe conselhos da parte de Rose (atriz recorrente Melanie Lynskey), a respeito de como assediar a sua vítima.</desc>
+  </programme>
+  <programme start="20261010012500 -0400" stop="20261010014700 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE MONETARY INSUFFICIENCY</sub-title>
+    <episode-num system="xmltv_ns">10.21.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010012500 -0500" stop="20261010014600 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE MONETARY INSUFFICIENCY</sub-title>
+    <episode-num system="xmltv_ns">10.21.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010012700 -0400" stop="20261010014700 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE MONETARY INSUFFICIENCY</sub-title>
+    <episode-num system="xmltv_ns">10.21.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010013200 -0300" stop="20261010015500 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE MONETARY INSUFFICIENCY</sub-title>
+    <episode-num system="xmltv_ns">10.21.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010014000 -0600" stop="20261010020200 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE SIBLING REALIGNMENT</sub-title>
+    <episode-num system="xmltv_ns">10.22.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010014600 -0500" stop="20261010020800 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE SIBLING REALIGNMENT</sub-title>
+    <episode-num system="xmltv_ns">10.22.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010014700 -0400" stop="20261010020900 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE SIBLING REALIGNMENT</sub-title>
+    <episode-num system="xmltv_ns">10.22.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010014700 -0400" stop="20261010021000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE SIBLING REALIGNMENT</sub-title>
+    <episode-num system="xmltv_ns">10.22.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010014800 -0500" stop="20261010021000 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE MONETARY INSUFFICIENCY</sub-title>
+    <episode-num system="xmltv_ns">10.21.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010014900 -0300" stop="20261010021000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">FISH IN A DRAWER</sub-title>
+    <desc lang="pt">O reconhecido ator George Eads ('CSI: Crime Scene Investigation') aparece neste episódio, pois a casa de Charlie se transforma em uma cena de crime e uma equipe de cientistas forenses a invade para examiná-la e descobrir o que aconteceu. Este episódio especial foi escrito por Sarah Goldfinger e Evan Dunsky, roteiristas da série 'CSI: Crime Scene Investigation'.</desc>
+  </programme>
+  <programme start="20261010015500 -0300" stop="20261010021500 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE SIBLING REALIGNMENT</sub-title>
+    <episode-num system="xmltv_ns">10.22.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010020200 -0600" stop="20261010022600 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE BOW TIE ASYMMETRY</sub-title>
+    <episode-num system="xmltv_ns">10.23.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010020800 -0500" stop="20261010023100 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE BOW TIE ASYMMETRY</sub-title>
+    <episode-num system="xmltv_ns">10.23.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010020900 -0400" stop="20261010023200 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE BOW TIE ASYMMETRY</sub-title>
+    <episode-num system="xmltv_ns">10.23.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010021000 -0300" stop="20261010023200 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">IF MY HOLE COULD TALK</sub-title>
+    <desc lang="pt">Charlie sente-se atraído por Angie (SUSAN BLAKELY - "Rich Man, Poor Man"), uma mulher mais velha que escreve livros de autoajuda. Enquanto isso, Alan e Jake discutem por causa de uma lição da escola.</desc>
+  </programme>
+  <programme start="20261010021000 -0400" stop="20261010023300 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE BOW TIE ASYMMETRY</sub-title>
+    <episode-num system="xmltv_ns">10.23.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010021000 -0500" stop="20261010023200 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE SIBLING REALIGNMENT</sub-title>
+    <episode-num system="xmltv_ns">10.22.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010021500 -0300" stop="20261010023800 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE BOW TIE ASYMMETRY</sub-title>
+    <episode-num system="xmltv_ns">10.23.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010022600 -0600" stop="20261010024900 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WINKY-DINK TIME</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010023100 -0500" stop="20261010025400 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WINKY-DINK TIME</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010023200 -0300" stop="20261010025600 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">WAITING FOR THE RIGHT SNAPPER</sub-title>
+    <desc lang="pt">Charlie tenta de todas as formas resistir à tentação quando conhece a filha de sua atual namorada (Susan Blakely). A situação piora quando se dá conta de que já se conheciam.</desc>
+  </programme>
+  <programme start="20261010023200 -0400" stop="20261010025600 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WINKY-DINK TIME</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010023200 -0500" stop="20261010025500 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="es">THE BOW TIE ASYMMETRY</sub-title>
+    <episode-num system="xmltv_ns">10.23.</episode-num>
+    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261010023300 -0400" stop="20261010025600 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WINKY-DINK TIME</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010023800 -0300" stop="20261010030100 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WINKY-DINK TIME</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010024900 -0600" stop="20261010031300 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">ROUGH NIGHT IN HUMP JUNCTION</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010025400 -0500" stop="20261010031800 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">ROUGH NIGHT IN HUMP JUNCTION</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010025500 -0500" stop="20261010031800 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WINKY-DINK TIME</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010025600 -0300" stop="20261010031700 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE TENANT DISASSOCIATION</sub-title>
+    <episode-num system="xmltv_ns">10.18.</episode-num>
+    <desc lang="pt">Leonard enfrenta Sheldon na disputa pela presidência da associação dos inquilinos. Enquanto isso, Bernadette pede que Howard e Raj encontrem o dono do drone que caiu em seu quintal.</desc>
+  </programme>
+  <programme start="20261010025600 -0400" stop="20261010031900 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">ROUGH NIGHT IN HUMP JUNCTION</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010025600 -0400" stop="20261010032000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">ROUGH NIGHT IN HUMP JUNCTION</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010030100 -0300" stop="20261010032400 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">ROUGH NIGHT IN HUMP JUNCTION</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010031300 -0600" stop="20261010033600 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">LOOK AT ME, MOMMY, I'M PRETTY</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010031700 -0300" stop="20261010034000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE RECLUSIVE POTENTIAL</sub-title>
+    <episode-num system="xmltv_ns">10.19.</episode-num>
+    <desc lang="pt">Enquanto Penny e Bernadette improvisam uma despedida de solteira para Amy, Sheldon e os garotos fazem uma visita a um cientista recluso no meio do nada.</desc>
+  </programme>
+  <programme start="20261010031800 -0500" stop="20261010034200 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">ROUGH NIGHT IN HUMP JUNCTION</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010031800 -0500" stop="20261010034100 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">LOOK AT ME, MOMMY, I'M PRETTY</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010031900 -0400" stop="20261010034300 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">LOOK AT ME, MOMMY, I'M PRETTY</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010032000 -0400" stop="20261010034300 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">LOOK AT ME, MOMMY, I'M PRETTY</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010032400 -0300" stop="20261010034700 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">LOOK AT ME, MOMMY, I'M PRETTY</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010033600 -0600" stop="20261010035900 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">FISH IN A DRAWER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010034000 -0300" stop="20261010040000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE COMET POLARIZATION</sub-title>
+    <episode-num system="xmltv_ns">10.20.</episode-num>
+    <desc lang="pt">O escritor NEIL GAIMAN dá um empurrãozinho na loja de quadrinhos de Stuart. Enquanto isso, amizades são ameaçadas quando Raj leva os créditos pela descoberta astronômica de Penny.</desc>
+  </programme>
+  <programme start="20261010034100 -0500" stop="20261010040400 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">FISH IN A DRAWER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010034200 -0500" stop="20261010040500 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">LOOK AT ME, MOMMY, I'M PRETTY</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010034300 -0400" stop="20261010040600 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">FISH IN A DRAWER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010034300 -0400" stop="20261010040600 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">FISH IN A DRAWER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010034700 -0300" stop="20261010040800 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">FISH IN A DRAWER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010035900 -0600" stop="20261010042200 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">IF MY HOLE COULD TALK</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010040000 -0300" stop="20261010042000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE MONETARY INSUFFICIENCY</sub-title>
+    <episode-num system="xmltv_ns">10.21.</episode-num>
+    <desc lang="pt">Enquanto Sheldon vai a Vegas para ganhar milhões de dólares pela ciência, Penny e Bernadette levam Amy para comprar um vestido de noiva. Mas elas são pegas numa rede de mentiras.</desc>
+  </programme>
+  <programme start="20261010040400 -0500" stop="20261010042700 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">IF MY HOLE COULD TALK</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010040500 -0500" stop="20261010042900 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">FISH IN A DRAWER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010040600 -0400" stop="20261010042900 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">IF MY HOLE COULD TALK</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010040600 -0400" stop="20261010043000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">IF MY HOLE COULD TALK</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010040800 -0300" stop="20261010043100 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">IF MY HOLE COULD TALK</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010042000 -0300" stop="20261010044200 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE SIBLING REALIGNMENT</sub-title>
+    <episode-num system="xmltv_ns">10.22.</episode-num>
+    <desc lang="pt">Quando Sheldon descobre que sua mãe não irá ao seu casamento se ele não convidar seu irmão Georgie, ele vai ao Texas ao lado de Leonard para pôr um fim na briga familiar.</desc>
+  </programme>
+  <programme start="20261010042200 -0600" stop="20261010044600 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WAITING FOR THE RIGHT SNAPPER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010042700 -0500" stop="20261010045000 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WAITING FOR THE RIGHT SNAPPER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010042900 -0400" stop="20261010045200 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WAITING FOR THE RIGHT SNAPPER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010042900 -0500" stop="20261010045200 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">IF MY HOLE COULD TALK</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010043000 -0400" stop="20261010045300 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WAITING FOR THE RIGHT SNAPPER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010043100 -0300" stop="20261010045400 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WAITING FOR THE RIGHT SNAPPER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010044200 -0300" stop="20261010050300 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">THE BOW TIE ASYMMETRY</sub-title>
+    <episode-num system="xmltv_ns">10.23.</episode-num>
+    <desc lang="pt">No último episódio da temporada, os pais de Amy e a família de Sheldon chegam. Todos se esforçam para que tudo saia conforme os planos. Menos a noiva e o noivo.</desc>
+  </programme>
+  <programme start="20261010044600 -0600" stop="20261010053800 -0600" channel="WARNER_MX.mx">
+    <title lang="es">The Pitt: Temporada 1</title>
+    <sub-title lang="es">5:00 P.M.</sub-title>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <desc lang="es">The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.</desc>
+  </programme>
+  <programme start="20261010045000 -0500" stop="20261010054000 -0500" channel="WARNER_AN.co">
+    <title lang="es">The Pitt: Temporada 1</title>
+    <sub-title lang="es">5:00 P.M.</sub-title>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <desc lang="es">The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.</desc>
+  </programme>
+  <programme start="20261010045200 -0400" stop="20261010054400 -0400" channel="WARNER_CL.cl">
+    <title lang="es">The Pitt: Temporada 1</title>
+    <sub-title lang="es">5:00 P.M.</sub-title>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <desc lang="es">The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.</desc>
+  </programme>
+  <programme start="20261010045200 -0500" stop="20261010051500 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="es">WAITING FOR THE RIGHT SNAPPER</sub-title>
+    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261010045300 -0400" stop="20261010054400 -0400" channel="WARNER_VE.ve">
+    <title lang="es">The Pitt: Temporada 1</title>
+    <sub-title lang="es">5:00 P.M.</sub-title>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <desc lang="es">The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.</desc>
+  </programme>
+  <programme start="20261010045400 -0300" stop="20261010054500 -0300" channel="WARNER_AR.ar">
+    <title lang="es">The Pitt: Temporada 1</title>
+    <sub-title lang="es">5:00 P.M.</sub-title>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <desc lang="es">The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.</desc>
+  </programme>
+  <programme start="20261010050300 -0300" stop="20261010054800 -0300" channel="WARNER_BR.br">
+    <title lang="pt">ALL AMERICAN: SEASON 6</title>
+    <sub-title lang="pt">THINGS DONE CHANGED</sub-title>
+    <episode-num system="xmltv_ns">5.0.</episode-num>
+    <desc lang="pt">É o início de um novo ano letivo e Spencer e Jordan são oficialmente elegíveis para a seleção da NFL.</desc>
+  </programme>
+  <programme start="20261010051500 -0500" stop="20261010055100 -0500" channel="WARNER_CO.co">
+    <title lang="es">COBRA KAI: SEASON 3</title>
+    <sub-title lang="es">RIGHT PATH, THE</sub-title>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <desc lang="es">Enemigos acérrimos. Dojos rivales. Sangre fresca. En esta secuela de las películas de ‘Karate Kid’, Daniel y Johnny reavivan viejas rencillas en el West Valley.</desc>
+  </programme>
+  <programme start="20261010053800 -0600" stop="20261010060000 -0600" channel="WARNER_MX.mx">
+    <title lang="es">MIRACLE WORKERS: SEASON 4</title>
+    <sub-title lang="es">WELCOME TO BOOMTOWN</sub-title>
+    <episode-num system="xmltv_ns">3.0.</episode-num>
+    <desc lang="es">Una comedia ambientada en las oficinas de Heaven Inc. Cuando Dios planea destruir la Tierra, dos ángeles de bajo nivel deben convencer a su jefe de salvar a la humanidad. Le apuestan a que pueden lograr su milagro más imposible: ayudar a dos humanos a enamorarse.</desc>
+  </programme>
+  <programme start="20261010054000 -0500" stop="20261010054800 -0500" channel="WARNER_AN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.23.</episode-num>
+  </programme>
+  <programme start="20261010054400 -0400" stop="20261010060000 -0400" channel="WARNER_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.33.</episode-num>
+  </programme>
+  <programme start="20261010054400 -0400" stop="20261010060000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.33.</episode-num>
+  </programme>
+  <programme start="20261010054500 -0300" stop="20261010060000 -0300" channel="WARNER_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.31.</episode-num>
+  </programme>
+  <programme start="20261010054800 -0300" stop="20261010060000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.27.</episode-num>
+  </programme>
+  <programme start="20261010054800 -0500" stop="20261010060000 -0500" channel="WARNER_AN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.27.</episode-num>
+  </programme>
+  <programme start="20261010055100 -0500" stop="20261010060000 -0500" channel="WARNER_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.23.</episode-num>
   </programme>
 </tv>
