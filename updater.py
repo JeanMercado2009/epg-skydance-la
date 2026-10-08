@@ -1,6 +1,5 @@
 import os
 import re
-import json
 from datetime import datetime, timedelta, timezone
 import xml.etree.ElementTree as ET
 import pandas as pd
@@ -14,7 +13,6 @@ RETENTION_DAYS = 15
 AUTH_URL = "https://epg.tapkit.warnermedia.com/api/security/oauth/token"
 BASE_DAILY_URL = "https://epg.tapkit.warnermedia.com/api/daily/shows?feedId={feed_id}&format=xls"
 
-# Estructura principal: Cada archivo XML tiene sus propios feeds y configuración
 NETWORKS_CONFIG = {
     "CNLA_EPG.xml": {
         "generator_name": "Guia de Programacion Cartoon Network MultiFeed",
@@ -222,8 +220,7 @@ def sanitize_and_parse_xml(file_path, generator_name):
         cleaned_lines = []
         for line in content.splitlines():
             stripped = line.strip()
-            # Filtro de cabeceras basura
-            if stripped in ["JUEVES", "VIERNES", "SÁBADO", "SABADO", "DOMINGO", "LUNES", "MARTES", "MIÉRCOLES", "MIERCOLES"] or (("PANREGIONAL" in stripped or "WARNER" in stripped or "TNT" in stripped) and not stripped.startswith("<")):
+            if stripped in ["JUEVES", "VIERNES", "SÁBADO", "SABADO", "DOMINGO", "LUNES", "MARTES", "MIÉRCOLES", "MIERCOLES"] or (any(net in stripped for net in ["PANREGIONAL", "WARNER", "TNT", "CARTOON"]) and not stripped.startswith("<")):
                 continue
             cleaned_lines.append(line)
 
@@ -254,6 +251,18 @@ def load_excel_schedule(file_path):
         df = pd.read_html(file_path, header=1)[0]
     return df
 
+def find_column(cols_dict, possible_names):
+    """Busca de forma segura una columna que coincida con alguna de las opciones dadas."""
+    for name in possible_names:
+        if name in cols_dict:
+            return cols_dict[name]
+    # Búsqueda parcial / insensible a mayúsculas
+    for col_key, col_val in cols_dict.items():
+        for name in possible_names:
+            if name.lower() in col_key.lower():
+                return col_val
+    return None
+
 def process_feed(root, feed_cfg, xls_path):
     channel_id = feed_cfg["channel_id"]
     channel_name = feed_cfg["channel_name"]
@@ -261,7 +270,6 @@ def process_feed(root, feed_cfg, xls_path):
     tz = feed_cfg["tz"]
     tz_str = feed_cfg["tz_str"]
 
-    # Crear el nodo del canal si no existe en la XMLTV
     existing_channels = [ch for ch in root.findall("channel") if ch.attrib.get("id") == channel_id]
     if not existing_channels:
         ch_node = ET.SubElement(root, "channel", {"id": channel_id})
@@ -269,13 +277,22 @@ def process_feed(root, feed_cfg, xls_path):
         disp.text = channel_name
 
     df = load_excel_schedule(xls_path)
+    
+    # Mapeo flexible de columnas por nombre
     cols = {str(c).strip(): c for c in df.columns}
-    col_date = cols.get("Schedule Date", df.columns[0])
-    col_time = cols.get("Title Start Time", df.columns[1])
-    col_title = cols.get("Title Name", df.columns[2])
-    col_ep = cols.get("Episode Name", df.columns[3] if len(df.columns) > 3 else None)
-    col_desc = cols.get("Title Synopsis", df.columns[4] if len(df.columns) > 4 else None)
-    col_ep_desc = cols.get("Episode Synopsis", None)
+    
+    col_date = find_column(cols, ["Schedule Date", "Date", "Fecha"]) or df.columns[0]
+    col_time = find_column(cols, ["Title Start Time", "Start Time", "Hora"]) or df.columns[1]
+    col_title = find_column(cols, ["Title Name", "Title", "Programa"]) or df.columns[2]
+    
+    # Columnas específicas para subtítulos, temporada y episodio
+    col_ep_name = find_column(cols, ["Episode Name English", "Episode Name", "Sub-title"])
+    col_ep_num = find_column(cols, ["Episode", "Episode Number", "Episodio"])
+    col_season = find_column(cols, ["Season", "Season Number", "Temporada"])
+    
+    # Sinopsis
+    col_desc = find_column(cols, ["Title Synopsis", "Synopsis", "Description"])
+    col_ep_desc = find_column(cols, ["Episode Synopsis"])
 
     first_date_raw = str(df.iloc[0].get(col_date, "")).strip()
     match_init = re.search(r"(\d{1,2})[-/](\d{1,2})[-/](\d{4})", first_date_raw)
@@ -296,7 +313,7 @@ def process_feed(root, feed_cfg, xls_path):
         time_raw = str(row.get(col_time, "")).strip()
 
         date_match = re.search(r"(\d{1,2})[-/](\d{1,2})[-/](\d{4})", date_raw)
-        time_match = re.search(r"(\d{1,2}):(\d{2})", time_raw)
+        time_match = re.search(r"(\d{1,2}):(\d{2})", time_match.group(0) if time_match else "") or re.search(r"(\d{1,2}):(\d{2})", time_raw)
 
         if not date_match or not time_match:
             continue
@@ -312,8 +329,22 @@ def process_feed(root, feed_cfg, xls_path):
             break
 
         title_val = str(row.get(col_title, "")).strip() if pd.notna(row.get(col_title)) else ""
-        ep_val = str(row.get(col_ep, "")).strip() if col_ep and pd.notna(row.get(col_ep)) else ""
+        ep_name_val = str(row.get(col_ep_name, "")).strip() if col_ep_name and pd.notna(row.get(col_ep_name)) else ""
         
+        season_val = str(row.get(col_season, "")).strip() if col_season and pd.notna(row.get(col_season)) else ""
+        ep_num_val = str(row.get(col_ep_num, "")).strip() if col_ep_num and pd.notna(row.get(col_ep_num)) else ""
+        
+        xmltv_season_ep = ""
+        try:
+            s_num = int(float(season_val)) - 1 if season_val.replace('.', '', 1).isdigit() else ""
+            e_num = int(float(ep_num_val)) - 1 if ep_num_val.replace('.', '', 1).isdigit() else ""
+            if s_num != "" and e_num != "":
+                xmltv_season_ep = f"{s_num}.{e_num}."
+            elif e_num != "":
+                xmltv_season_ep = f".{e_num}."
+        except:
+            xmltv_season_ep = ""
+
         desc_val = ""
         if col_ep_desc and pd.notna(row.get(col_ep_desc)) and str(row.get(col_ep_desc)).strip():
             desc_val = str(row.get(col_ep_desc)).strip()
@@ -323,7 +354,8 @@ def process_feed(root, feed_cfg, xls_path):
         raw_events.append({
             "start": event_dt,
             "title": title_val if title_val.lower() != "nan" else "",
-            "sub_title": ep_val if ep_val.lower() != title_val.lower() and ep_val.lower() != "nan" else "",
+            "sub_title": ep_name_val if ep_name_val.lower() != "nan" and ep_name_val.lower() != title_val.lower() else "",
+            "episode_num": xmltv_season_ep,
             "desc": desc_val if desc_val.lower() != "nan" else ""
         })
 
@@ -350,6 +382,10 @@ def process_feed(root, feed_cfg, xls_path):
             sub_title = ET.SubElement(prog, "sub-title", {"lang": lang})
             sub_title.text = ev["sub_title"]
 
+        if ev["episode_num"]:
+            ep_tag = ET.SubElement(prog, "episode-num", {"system": "xmltv_ns"})
+            ep_tag.text = ev["episode_num"]
+
         if ev["desc"]:
             desc = ET.SubElement(prog, "desc", {"lang": lang})
             desc.text = ev["desc"]
@@ -366,7 +402,6 @@ def process_feed(root, feed_cfg, xls_path):
 def main():
     token = login_and_get_token()
 
-    # Recorrer cada red y su archivo XML correspondiente
     for xml_filename, net_config in NETWORKS_CONFIG.items():
         print(f"\n==========================================")
         print(f"Procesando: {xml_filename}")
@@ -379,7 +414,6 @@ def main():
             if ch.attrib.get("id") not in active_channel_ids:
                 root.remove(ch)
 
-        # Descargar y procesar feeds
         for feed_cfg in net_config["feeds"]:
             try:
                 xls_path = download_feed_xls(token, feed_cfg["feed_id"], net_config["referer"])
@@ -387,7 +421,6 @@ def main():
             except Exception as e:
                 print(f"[ERROR] Error al procesar feed {feed_cfg['feed_id']}: {e}")
 
-        # Retención histórica (15 días)
         cutoff_date = datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)
         for p in list(root.findall("programme")):
             ch_id = p.attrib.get("channel")
@@ -399,7 +432,6 @@ def main():
             if stop_dt and stop_dt < cutoff_date:
                 root.remove(p)
 
-        # Reordenamiento por hora de inicio
         sorted_progs = sorted(
             root.findall("programme"),
             key=lambda x: x.attrib.get("start", "")
