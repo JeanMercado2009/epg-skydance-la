@@ -18,14 +18,6 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
-  <programme start="20260922193200 -0500" stop="20260922220000 -0500" channel="TNT_PAN.co">
-    <title lang="es">¡SHAZAM!</title>
-    <desc lang="es">El mayor sueño de todo niño  y no tan niño  es tener superpoderes. El universo cinematográfico de DC nos presenta a Billy Batson, un  joven huérfano que, gracias a un misterioso hechicero, se convierte en superhéroe al decir "¡Shazam!" En un cuerpo adulto y con corazón de niño, Billy deberá aprender a usar sus nuevos poderes para combatir las fuerzas del mal.</desc>
-  </programme>
-  <programme start="20260922193600 -0500" stop="20260922220000 -0500" channel="TNT_CO.co">
-    <title lang="es">¡SHAZAM!</title>
-    <desc lang="es">El mayor sueño de todo niño  y no tan niño  es tener superpoderes. El universo cinematográfico de DC nos presenta a Billy Batson, un  joven huérfano que, gracias a un misterioso hechicero, se convierte en superhéroe al decir "¡Shazam!" En un cuerpo adulto y con corazón de niño, Billy deberá aprender a usar sus nuevos poderes para combatir las fuerzas del mal.</desc>
-  </programme>
   <programme start="20260922194400 -0600" stop="20260922220000 -0600" channel="TNT_MX.mx">
     <title lang="es">¡SHAZAM!</title>
     <desc lang="es">El mayor sueño de todo niño  y no tan niño  es tener superpoderes. El universo cinematográfico de DC nos presenta a Billy Batson, un  joven huérfano que, gracias a un misterioso hechicero, se convierte en superhéroe al decir "¡Shazam!" En un cuerpo adulto y con corazón de niño, Billy deberá aprender a usar sus nuevos poderes para combatir las fuerzas del mal.</desc>
@@ -49,19 +41,9 @@
     <title lang="es">SHAZAM! LA FURIA DE LOS DIOSES</title>
     <desc lang="es">La increíble historia de Billy Batson y su familia continúa cuando los jóvenes deban decir "Shazam!" una vez más para convertirse en sus versiones adultas de superhéroes y así enfrentar a un vengativo trío de diosas para salvar su ciudad.</desc>
   </programme>
-  <programme start="20260922233000 -0300" stop="20260922235400 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA DJS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
   <programme start="20260922235200 -0500" stop="20260923014000 -0500" channel="TNT_CO.co">
     <title lang="es">REVANCHA</title>
     <desc lang="es">Porter es balaceado por su esposa y su mejor amigo, quienes huyen pensando que había fallecido. Cuando logra recuperarse, Porter va en busca de quienes formaron el triángulo amoroso que acabo con su matrimonio.</desc>
-  </programme>
-  <programme start="20260922235400 -0300" stop="20260923001700 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA INSPETORES</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
   </programme>
   <programme start="20260923001700 -0300" stop="20260923004000 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>

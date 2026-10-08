@@ -6,18 +6,6 @@
   <channel id="CNLA_BR.br">
     <display-name>Cartoon Network Brasil</display-name>
   </channel>
-  <programme start="20260922215100 -0500" stop="20260922220200 -0500" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <desc lang="es">Los Titanes descubren lo difícil que es producir dibujos animados cuando hacen uno sobre Michael y Aaron.</desc>
-  </programme>
-  <programme start="20260922220200 -0500" stop="20260922221400 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">Una noche oscura y lluviosa, Finn y Jake reciben la visita de Marceline, la reina vampiro.</desc>
-  </programme>
-  <programme start="20260922221400 -0500" stop="20260922222700 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">Cuando Finn comienza a tener episodios de sonambulismo y a soñar con la Dama Verde que había archivado en su memoria, Jake y Beemo lo ayudan a acceder a sus recuerdos reprimidos para revelar un pasado secreto. ¿Quién es la Dama Verde? ¿Y cuál es su relación con Finn?</desc>
-  </programme>
   <programme start="20260922222700 -0500" stop="20260922223900 -0500" channel="CNLA_PAN.co">
     <title lang="es">HORA DE AVENTURA</title>
     <desc lang="es">Finn se convierte en el rey de un clan de duendes para evitar un conflicto violento, pero las extrañas reglas de los duendes demuestran no ser del agrado de Finn.</desc>
@@ -46,28 +34,13 @@
     <title lang="es">UN SHOW MÁS</title>
     <desc lang="es">Mientras Musculoso y Fantasmano miran videos virales en Internet, Mordecai y Rigby apuestan $10 con Musculoso y Fantasmano a que pueden hacer un video mejor. Musculoso y Fantasmano hacen tres videos cada uno, que reciben 900.000 visitas, y Mordecai y Rigby deciden que no se conformarán con menos del doble.</desc>
   </programme>
-  <programme start="20260922234400 -0300" stop="20260922235600 -0300" channel="CNLA_BR.br">
-    <title lang="pt">CLARÊNCIO, O OTIMISTA</title>
-    <sub-title lang="pt">O JOGO</sub-title>
-    <desc lang="pt">Enquanto faz compras com sua mãe, Clarêncio encontra Breehn no meio das araras de roupas. Com a desculpa de que vão experimentar roupas, eles saem de fininho, atrás de um gameshow que está sendo apresentado no Shopping de Aberdale.</desc>
-  </programme>
   <programme start="20260922235400 -0500" stop="20260923000500 -0500" channel="CNLA_PAN.co">
     <title lang="es">UN SHOW MÁS</title>
     <desc lang="es">Mientras se realizan los preparativos para una fiesta de cumpleaños, Mordecai y Rigby tienen la tarea de distribuir sillas. Ambos intentan realizar el trabajo para probarle a Benson que no son dos vagos, pero terminan postergando la tarea, como siempre.</desc>
   </programme>
-  <programme start="20260922235600 -0300" stop="20260923000700 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">JAQUETA JEANS</sub-title>
-    <desc lang="pt">Os ursos encontram uma jaqueta jeans irada no lixo. Ela é a coisa mais espetacular que eles já viram e parece que ainda por cima traz muita sorte a quem a usa. Mas, depois de uma briga para saber quem vai ficar com ela, os três começam a pensar que a sorte, na verdade, se tornou uma praga.</desc>
-  </programme>
   <programme start="20260923000500 -0500" stop="20260923001600 -0500" channel="CNLA_PAN.co">
     <title lang="es">ESCANDALOSOS</title>
     <desc lang="es">Los Osos cambian de habitación por una noche y le dan un vistazo al espacio en el que vive uno de sus hermanos. Pero cuanto más conocen, más secretos ocultos salen a la superficie.</desc>
-  </programme>
-  <programme start="20260923000700 -0300" stop="20260923001800 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">QUARTOS</sub-title>
-    <desc lang="pt">Os ursos trocam de quarto por uma noite e têm o gosto de como seria viver no espaço um do outro. Mas, quanto mais eles exploram, mais segredos são revelados.</desc>
   </programme>
   <programme start="20260923001600 -0500" stop="20260923003000 -0500" channel="CNLA_PAN.co">
     <title lang="es">ESCANDALOSOS</title>
