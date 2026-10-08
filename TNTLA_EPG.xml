@@ -18,354 +18,6 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
-  <programme start="20260921234400 -0600" stop="20260922012200 -0600" channel="TNT_MX.mx">
-    <title lang="es">DIFÍCIL DE MATAR</title>
-  </programme>
-  <programme start="20260922012200 -0600" stop="20260922030300 -0600" channel="TNT_MX.mx">
-    <title lang="es">REVANCHA</title>
-    <desc lang="es">Porter es balaceado por su esposa y su mejor amigo, quienes huyen pensando que había fallecido. Cuando logra recuperarse, Porter va en busca de quienes formaron el triángulo amoroso que acabo con su matrimonio.</desc>
-  </programme>
-  <programme start="20260922013100 -0500" stop="20260922031500 -0500" channel="TNT_PAN.co">
-    <title lang="es">REVANCHA</title>
-    <desc lang="es">Porter es balaceado por su esposa y su mejor amigo, quienes huyen pensando que había fallecido. Cuando logra recuperarse, Porter va en busca de quienes formaron el triángulo amoroso que acabo con su matrimonio.</desc>
-  </programme>
-  <programme start="20260922013300 -0500" stop="20260922031400 -0500" channel="TNT_CO.co">
-    <title lang="es">REVANCHA</title>
-    <desc lang="es">Porter es balaceado por su esposa y su mejor amigo, quienes huyen pensando que había fallecido. Cuando logra recuperarse, Porter va en busca de quienes formaron el triángulo amoroso que acabo con su matrimonio.</desc>
-  </programme>
-  <programme start="20260922013600 -0400" stop="20260922031900 -0400" channel="TNT_CL.cl">
-    <title lang="es">REVANCHA</title>
-    <desc lang="es">Porter es balaceado por su esposa y su mejor amigo, quienes huyen pensando que había fallecido. Cuando logra recuperarse, Porter va en busca de quienes formaron el triángulo amoroso que acabo con su matrimonio.</desc>
-  </programme>
-  <programme start="20260922025800 -0300" stop="20260922043100 -0300" channel="TNT_BR.br">
-    <title lang="pt">PREMONIÇÃO</title>
-    <desc lang="pt">A bordo de um avião prestes a partir rumo à França, Alex tem uma premonição e é retirado junto com alguns amigos. Logo em seguida, todos vêem a aeronave explodir no ar, matando todos os passageiros. Misteriosamente, aqueles que se separaram do grupo vão morrendo um a um.</desc>
-  </programme>
-  <programme start="20260922030300 -0600" stop="20260922045600 -0600" channel="TNT_MX.mx">
-    <title lang="es">Butter</title>
-  </programme>
-  <programme start="20260922031400 -0500" stop="20260922050500 -0500" channel="TNT_CO.co">
-    <title lang="es">Butter</title>
-  </programme>
-  <programme start="20260922031500 -0500" stop="20260922050500 -0500" channel="TNT_PAN.co">
-    <title lang="es">Butter</title>
-  </programme>
-  <programme start="20260922031600 -0300" stop="20260922050600 -0300" channel="TNT_AR.ar">
-    <title lang="es">Butter</title>
-  </programme>
-  <programme start="20260922031900 -0400" stop="20260922050800 -0400" channel="TNT_CL.cl">
-    <title lang="es">Butter</title>
-  </programme>
-  <programme start="20260922043100 -0300" stop="20260922050600 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-  </programme>
-  <programme start="20260922045600 -0600" stop="20260922053300 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260922050500 -0500" stop="20260922054100 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260922050500 -0500" stop="20260922054000 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260922050600 -0300" stop="20260922054100 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-  </programme>
-  <programme start="20260922050600 -0300" stop="20260922054400 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260922050800 -0400" stop="20260922054300 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260922053300 -0600" stop="20260922054600 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260922054000 -0500" stop="20260922055700 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260922054100 -0300" stop="20260922054900 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260922054100 -0500" stop="20260922055100 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260922054300 -0400" stop="20260922055700 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260922054400 -0300" stop="20260922060000 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260922054600 -0600" stop="20260922060000 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260922054900 -0300" stop="20260922060000 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260922055100 -0500" stop="20260922060000 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260922055700 -0400" stop="20260922060000 -0400" channel="TNT_CL.cl">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260922055700 -0500" stop="20260922060000 -0500" channel="TNT_PAN.co">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260922060000 -0300" stop="20260922061300 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260922060000 -0300" stop="20260922063900 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260922060000 -0400" stop="20260922063400 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260922060000 -0500" stop="20260922060400 -0500" channel="TNT_CO.co">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260922060000 -0500" stop="20260922060200 -0500" channel="TNT_PAN.co">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260922060000 -0600" stop="20260922060300 -0600" channel="TNT_MX.mx">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260922060200 -0500" stop="20260922064500 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260922060300 -0600" stop="20260922060500 -0600" channel="TNT_MX.mx">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260922060400 -0500" stop="20260922060500 -0500" channel="TNT_CO.co">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260922060500 -0500" stop="20260922074200 -0500" channel="TNT_CO.co">
-    <title lang="es">INSTINTO PREDADOR</title>
-    <desc lang="es">Frank Walsh (Nicolas Cage) es un cazador que protege a animales capturados en el Amazonas. Durante un viaje en barco, Walsh descubre que a bordo también está un peligroso asesino (Kevin Durand), lo cual pone a todos en peligro.</desc>
-  </programme>
-  <programme start="20260922060500 -0600" stop="20260922060700 -0600" channel="TNT_MX.mx">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260922060700 -0600" stop="20260922074600 -0600" channel="TNT_MX.mx">
-    <title lang="es">INSTINTO PREDADOR</title>
-    <desc lang="es">Frank Walsh (Nicolas Cage) es un cazador que protege a animales capturados en el Amazonas. Durante un viaje en barco, Walsh descubre que a bordo también está un peligroso asesino (Kevin Durand), lo cual pone a todos en peligro.</desc>
-  </programme>
-  <programme start="20260922061300 -0300" stop="20260922061500 -0300" channel="TNT_BR.br">
-    <title lang="pt">TNT BUZZ</title>
-  </programme>
-  <programme start="20260922061500 -0300" stop="20260922061800 -0300" channel="TNT_BR.br">
-    <title lang="pt">TNT BUZZ</title>
-  </programme>
-  <programme start="20260922061800 -0300" stop="20260922082800 -0300" channel="TNT_BR.br">
-    <title lang="pt">U.S. MARSHALS: OS FEDERAIS</title>
-    <desc lang="pt">O agente Federal Samuel Gerard é um homem determinado e incansável. E quando Mark Roberts, acusado de matar dois homens em Nova York, escapa de um acidente aéreo ao ser escoltado para a prisão. Gerard inicia uma caçada implacável em busca do fugitivo.</desc>
-  </programme>
-  <programme start="20260922063400 -0400" stop="20260922071100 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260922063900 -0300" stop="20260922065300 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260922064500 -0500" stop="20260922065900 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260922065300 -0300" stop="20260922065400 -0300" channel="TNT_AR.ar">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260922065400 -0300" stop="20260922065900 -0300" channel="TNT_AR.ar">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260922065900 -0300" stop="20260922092100 -0300" channel="TNT_AR.ar">
-    <title lang="es">LOS FEDERALES</title>
-    <desc lang="es">El agente Federal Samuel Gerard es un hombre determinado e incansable. Y cuando Mark Roberts, acusado de matar a dos hombres en Nueva York, escapa de un accidente aéreo al ser escoltado para ir a prisión, Gerard inicia una cacería implacable en busca del fugitivo.</desc>
-  </programme>
-  <programme start="20260922065900 -0500" stop="20260922071000 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260922071000 -0500" stop="20260922085400 -0500" channel="TNT_PAN.co">
-    <title lang="es">DIFÍCIL DE MATAR</title>
-  </programme>
-  <programme start="20260922071100 -0400" stop="20260922085200 -0400" channel="TNT_CL.cl">
-    <title lang="es">DIFÍCIL DE MATAR</title>
-  </programme>
-  <programme start="20260922074200 -0500" stop="20260922092100 -0500" channel="TNT_CO.co">
-    <title lang="es">DIFÍCIL DE MATAR</title>
-  </programme>
-  <programme start="20260922074600 -0600" stop="20260922092500 -0600" channel="TNT_MX.mx">
-    <title lang="es">DIFÍCIL DE MATAR</title>
-  </programme>
-  <programme start="20260922082800 -0300" stop="20260922102500 -0300" channel="TNT_BR.br">
-    <title lang="pt">MISS SIMPATIA 2: ARMADA E PODEROSA</title>
-    <desc lang="pt">Gracie Hart (Sandra Bullock) está até tentando voltar a sua rotina policial após ter sido a estrela de um concurso de beleza. Mas o FBI quer porque quer tirar vantagem de sua fama para gerar publicidade ao bureau. Até que dois amigos que Gracie havia conhecido durante suas aventuras pelo mundo da beleza são seqüestrados. Ao lado de uma policial durona que não vai com a sua cara, ela fará de tudo para recuperar seu prestígio junto aos colegas.</desc>
-  </programme>
-  <programme start="20260922085200 -0400" stop="20260922111000 -0400" channel="TNT_CL.cl">
-    <title lang="es">LOS FEDERALES</title>
-    <desc lang="es">El agente Federal Samuel Gerard es un hombre determinado e incansable. Y cuando Mark Roberts, acusado de matar a dos hombres en Nueva York, escapa de un accidente aéreo al ser escoltado para ir a prisión, Gerard inicia una cacería implacable en busca del fugitivo.</desc>
-  </programme>
-  <programme start="20260922085400 -0500" stop="20260922111400 -0500" channel="TNT_PAN.co">
-    <title lang="es">LOS FEDERALES</title>
-    <desc lang="es">El agente Federal Samuel Gerard es un hombre determinado e incansable. Y cuando Mark Roberts, acusado de matar a dos hombres en Nueva York, escapa de un accidente aéreo al ser escoltado para ir a prisión, Gerard inicia una cacería implacable en busca del fugitivo.</desc>
-  </programme>
-  <programme start="20260922092100 -0300" stop="20260922111000 -0300" channel="TNT_AR.ar">
-    <title lang="es">MAMÁ SE FUE DE VIAJE</title>
-    <desc lang="es">Víctor Garbo y Vera están casados desde hace veinte años. Tienen cuatro hijos: Bruno, Lara, Tato y Lolo. Completamente absorbido por su actividad laboral, Víctor vive ajeno a los avatares diarios de su mujer y sus hijos. Vera, agobiada de dedicarse a la vida doméstica sin la ayuda de su marido, decide tomarse vacaciones de su familia y se va de viaje por diez días. Es así que Víctor se ve obligado a pedir licencia en su trabajo y ponerse al mando de la casa. Casi de inmediato, el caos se desata y se expande.</desc>
-  </programme>
-  <programme start="20260922092100 -0500" stop="20260922113700 -0500" channel="TNT_CO.co">
-    <title lang="es">LOS FEDERALES</title>
-    <desc lang="es">El agente Federal Samuel Gerard es un hombre determinado e incansable. Y cuando Mark Roberts, acusado de matar a dos hombres en Nueva York, escapa de un accidente aéreo al ser escoltado para ir a prisión, Gerard inicia una cacería implacable en busca del fugitivo.</desc>
-  </programme>
-  <programme start="20260922092500 -0600" stop="20260922113900 -0600" channel="TNT_MX.mx">
-    <title lang="es">LOS FEDERALES</title>
-    <desc lang="es">El agente Federal Samuel Gerard es un hombre determinado e incansable. Y cuando Mark Roberts, acusado de matar a dos hombres en Nueva York, escapa de un accidente aéreo al ser escoltado para ir a prisión, Gerard inicia una cacería implacable en busca del fugitivo.</desc>
-  </programme>
-  <programme start="20260922102500 -0300" stop="20260922105100 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">PRONTO, PARTE DOIS</sub-title>
-    <desc lang="pt">No emocionante episódio final da série, a família Banks se prepara para se mudar da Califórnia e Will encara o fato de não ter conquistado muita coisa desde que se mudou para lá. SHERMAN HEMSLEY, ISABEL SANFORD e MARLA GIBBS participam ao lado de GARY COLEMAN e CONRAD BAIN.</desc>
-  </programme>
-  <programme start="20260922105100 -0300" stop="20260922111600 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">PROJETO UM MALUCO NO PEDAÇO (PILOTO)</sub-title>
-    <desc lang="pt">Will Smith interpreta um jovem que se muda da periferia da Filadélfia à mansão dos seus parentes ricos, em Bel-Air, e obriga todos a repensarem a forma com que vivem e pensam.</desc>
-  </programme>
-  <programme start="20260922111000 -0300" stop="20260922131900 -0300" channel="TNT_AR.ar">
-    <title lang="es">MISS SIMPATÍA 2: ARMADA Y FABULOSA</title>
-    <desc lang="es">Luego de frustrar un atentado al concurso de belleza de Miss Estados Unidos, Gracie Hart, una integrante del FBI, adquiere tal fama en los medios que se ve impedida de participar en nuevos operativos como agente encubierto. Para continuar en el Departamento, deberá aceptar la propuesta de su jefe y ser la nueva relacionista pública del FBI. Secuela de la exitosa comedia policial Miss Simpatía, protagonizada y producida por Sandra Bullock.</desc>
-  </programme>
-  <programme start="20260922111000 -0400" stop="20260922130700 -0400" channel="TNT_CL.cl">
-    <title lang="es">UN HOMBRE DIFERENTE</title>
-    <desc lang="es">Sean (Vin Diesel) es un agente de la unidad antidrogas que recorre las noches de Los Angeles a la caza de violentos delincuentes. Su fin es ahora encarcelar, junto con su implacable compañero, a un mafioso escurridizo conocido como Diablo, líder de una gran organización aberrante. El dúo se enfrenta paso a paso con la muerte, mientras la búsqueda para Sean se vuelve cada vez más personal: ahora sabe que el capo mafioso es nada menos que el responsable de la muerte de su esposa.</desc>
-  </programme>
-  <programme start="20260922111400 -0500" stop="20260922131000 -0500" channel="TNT_PAN.co">
-    <title lang="es">UN HOMBRE DIFERENTE</title>
-    <desc lang="es">Sean (Vin Diesel) es un agente de la unidad antidrogas que recorre las noches de Los Angeles a la caza de violentos delincuentes. Su fin es ahora encarcelar, junto con su implacable compañero, a un mafioso escurridizo conocido como Diablo, líder de una gran organización aberrante. El dúo se enfrenta paso a paso con la muerte, mientras la búsqueda para Sean se vuelve cada vez más personal: ahora sabe que el capo mafioso es nada menos que el responsable de la muerte de su esposa.</desc>
-  </programme>
-  <programme start="20260922111600 -0300" stop="20260922114300 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">TOCA A BATERIA, ASHLEY</sub-title>
-    <desc lang="pt">O pai de Ashley quer que ela continue fazendo aula de violino, mas Will tem outra ideia.</desc>
-  </programme>
-  <programme start="20260922113700 -0500" stop="20260922132800 -0500" channel="TNT_CO.co">
-    <title lang="es">UN HOMBRE DIFERENTE</title>
-    <desc lang="es">Sean (Vin Diesel) es un agente de la unidad antidrogas que recorre las noches de Los Angeles a la caza de violentos delincuentes. Su fin es ahora encarcelar, junto con su implacable compañero, a un mafioso escurridizo conocido como Diablo, líder de una gran organización aberrante. El dúo se enfrenta paso a paso con la muerte, mientras la búsqueda para Sean se vuelve cada vez más personal: ahora sabe que el capo mafioso es nada menos que el responsable de la muerte de su esposa.</desc>
-  </programme>
-  <programme start="20260922113900 -0600" stop="20260922133000 -0600" channel="TNT_MX.mx">
-    <title lang="es">UN HOMBRE DIFERENTE</title>
-    <desc lang="es">Sean (Vin Diesel) es un agente de la unidad antidrogas que recorre las noches de Los Angeles a la caza de violentos delincuentes. Su fin es ahora encarcelar, junto con su implacable compañero, a un mafioso escurridizo conocido como Diablo, líder de una gran organización aberrante. El dúo se enfrenta paso a paso con la muerte, mientras la búsqueda para Sean se vuelve cada vez más personal: ahora sabe que el capo mafioso es nada menos que el responsable de la muerte de su esposa.</desc>
-  </programme>
-  <programme start="20260922114300 -0300" stop="20260922120700 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">CLUBBA HUBBA</sub-title>
-    <desc lang="pt">Will quer sair com uma garota, mas antes precisa dar um jeito de impressionar o pai dela, esnobe e protetor.</desc>
-  </programme>
-  <programme start="20260922120700 -0300" stop="20260922122900 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA DJS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260922122900 -0300" stop="20260922125100 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA INSPETORES</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260922125100 -0300" stop="20260922131300 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA DIA COM NEVE</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260922130700 -0400" stop="20260922151400 -0400" channel="TNT_CL.cl">
-    <title lang="es">MISS SIMPATÍA 2: ARMADA Y FABULOSA</title>
-    <desc lang="es">Luego de frustrar un atentado al concurso de belleza de Miss Estados Unidos, Gracie Hart, una integrante del FBI, adquiere tal fama en los medios que se ve impedida de participar en nuevos operativos como agente encubierto. Para continuar en el Departamento, deberá aceptar la propuesta de su jefe y ser la nueva relacionista pública del FBI. Secuela de la exitosa comedia policial Miss Simpatía, protagonizada y producida por Sandra Bullock.</desc>
-  </programme>
-  <programme start="20260922131000 -0500" stop="20260922152100 -0500" channel="TNT_PAN.co">
-    <title lang="es">MISS SIMPATÍA 2: ARMADA Y FABULOSA</title>
-    <desc lang="es">Luego de frustrar un atentado al concurso de belleza de Miss Estados Unidos, Gracie Hart, una integrante del FBI, adquiere tal fama en los medios que se ve impedida de participar en nuevos operativos como agente encubierto. Para continuar en el Departamento, deberá aceptar la propuesta de su jefe y ser la nueva relacionista pública del FBI. Secuela de la exitosa comedia policial Miss Simpatía, protagonizada y producida por Sandra Bullock.</desc>
-  </programme>
-  <programme start="20260922131300 -0300" stop="20260922133700 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA ROUBO DE CORDÃO</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260922131900 -0300" stop="20260922151800 -0300" channel="TNT_AR.ar">
-    <title lang="es">VENGANZA DESPIADADA</title>
-    <desc lang="es">En 1992, en su Bogotá natal, Cataleya presencia el asesinato de sus padres a manos de un narcotraficante llamado Don Luis Sandoval. Luego, ella viaja a Chicago y se va a vivir con su tío Emilio, quien la entrena en el arte de matar. Quince años después, Cataleya, quien ahora tiene 24 años, es una asesina a sueldo, pero su verdadero objetivo es encontrar a Don Luis, quien ahora forma parte del programa de protección de testigos de EE.UU., y vengarse.</desc>
-  </programme>
-  <programme start="20260922132800 -0500" stop="20260922152900 -0500" channel="TNT_CO.co">
-    <title lang="es">MISS SIMPATÍA 2: ARMADA Y FABULOSA</title>
-    <desc lang="es">Luego de frustrar un atentado al concurso de belleza de Miss Estados Unidos, Gracie Hart, una integrante del FBI, adquiere tal fama en los medios que se ve impedida de participar en nuevos operativos como agente encubierto. Para continuar en el Departamento, deberá aceptar la propuesta de su jefe y ser la nueva relacionista pública del FBI. Secuela de la exitosa comedia policial Miss Simpatía, protagonizada y producida por Sandra Bullock.</desc>
-  </programme>
-  <programme start="20260922133000 -0600" stop="20260922153200 -0600" channel="TNT_MX.mx">
-    <title lang="es">MISS SIMPATÍA 2: ARMADA Y FABULOSA</title>
-    <desc lang="es">Luego de frustrar un atentado al concurso de belleza de Miss Estados Unidos, Gracie Hart, una integrante del FBI, adquiere tal fama en los medios que se ve impedida de participar en nuevos operativos como agente encubierto. Para continuar en el Departamento, deberá aceptar la propuesta de su jefe y ser la nueva relacionista pública del FBI. Secuela de la exitosa comedia policial Miss Simpatía, protagonizada y producida por Sandra Bullock.</desc>
-  </programme>
-  <programme start="20260922133700 -0300" stop="20260922140100 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA MATAR AULA</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20260922140100 -0300" stop="20260922155700 -0300" channel="TNT_BR.br">
-    <title lang="pt">O VINGADOR</title>
-    <desc lang="pt">Sean Vetter, um agente especial do departamento local de combate às drogas que, ao lado do parceiro, Demetrius, esforça-se para acabar com o tráfico na fronteira com o México. Quando finalmente conseguem prender o líder multimilionário Memo Lucero, os dois não imaginam que a conseqüência será o surgimento de um chefão ainda mais perigoso, conhecido como Diablo. E ele tem Vetter na mira, que consegue escapar. A esposa do policial, no entanto, não tem a mesma sorte e, agora, ele deseja vingança. Mesmo que, para isso, precise se unir a Lucero.</desc>
-  </programme>
-  <programme start="20260922151400 -0400" stop="20260922171300 -0400" channel="TNT_CL.cl">
-    <title lang="es">VENGANZA DESPIADADA</title>
-    <desc lang="es">En 1992, en su Bogotá natal, Cataleya presencia el asesinato de sus padres a manos de un narcotraficante llamado Don Luis Sandoval. Luego, ella viaja a Chicago y se va a vivir con su tío Emilio, quien la entrena en el arte de matar. Quince años después, Cataleya, quien ahora tiene 24 años, es una asesina a sueldo, pero su verdadero objetivo es encontrar a Don Luis, quien ahora forma parte del programa de protección de testigos de EE.UU., y vengarse.</desc>
-  </programme>
-  <programme start="20260922151800 -0300" stop="20260922172700 -0300" channel="TNT_AR.ar">
-    <title lang="es">LA MULA</title>
-    <desc lang="es">A Earl Stone (Eastwood), un octogenario que está en quiebra, solo, y que se enfrenta a la ejecución hipotecaria de su negocio, se le ofrece un trabajo aparentemente fácil: sólo requiere conducir. Pero, sin saberlo, Earl se convierte en traficante de drogas para un cártel mexicano, y pasa a estar bajo el radar del agente de la DEA Colin Bates (Cooper).</desc>
-  </programme>
-  <programme start="20260922152100 -0500" stop="20260922171600 -0500" channel="TNT_PAN.co">
-    <title lang="es">VENGANZA DESPIADADA</title>
-    <desc lang="es">En 1992, en su Bogotá natal, Cataleya presencia el asesinato de sus padres a manos de un narcotraficante llamado Don Luis Sandoval. Luego, ella viaja a Chicago y se va a vivir con su tío Emilio, quien la entrena en el arte de matar. Quince años después, Cataleya, quien ahora tiene 24 años, es una asesina a sueldo, pero su verdadero objetivo es encontrar a Don Luis, quien ahora forma parte del programa de protección de testigos de EE.UU., y vengarse.</desc>
-  </programme>
-  <programme start="20260922152900 -0500" stop="20260922172500 -0500" channel="TNT_CO.co">
-    <title lang="es">VENGANZA DESPIADADA</title>
-    <desc lang="es">En 1992, en su Bogotá natal, Cataleya presencia el asesinato de sus padres a manos de un narcotraficante llamado Don Luis Sandoval. Luego, ella viaja a Chicago y se va a vivir con su tío Emilio, quien la entrena en el arte de matar. Quince años después, Cataleya, quien ahora tiene 24 años, es una asesina a sueldo, pero su verdadero objetivo es encontrar a Don Luis, quien ahora forma parte del programa de protección de testigos de EE.UU., y vengarse.</desc>
-  </programme>
-  <programme start="20260922153200 -0600" stop="20260922172400 -0600" channel="TNT_MX.mx">
-    <title lang="es">VENGANZA DESPIADADA</title>
-    <desc lang="es">En 1992, en su Bogotá natal, Cataleya presencia el asesinato de sus padres a manos de un narcotraficante llamado Don Luis Sandoval. Luego, ella viaja a Chicago y se va a vivir con su tío Emilio, quien la entrena en el arte de matar. Quince años después, Cataleya, quien ahora tiene 24 años, es una asesina a sueldo, pero su verdadero objetivo es encontrar a Don Luis, quien ahora forma parte del programa de protección de testigos de EE.UU., y vengarse.</desc>
-  </programme>
-  <programme start="20260922155700 -0300" stop="20260922173500 -0300" channel="TNT_BR.br">
-    <title lang="pt">Instinto Predador</title>
-    <desc lang="pt">Frank Walsh (Nicolas Cage) é um caçador que protege animais capturados na Amazônia. Durante uma viagem de navio, ele descobre que está na companhia de um perigoso assassino (Kevin Durand) que coloca tudo e todos em perigo.</desc>
-  </programme>
-  <programme start="20260922171300 -0400" stop="20260922192500 -0400" channel="TNT_CL.cl">
-    <title lang="es">LA MULA</title>
-    <desc lang="es">A Earl Stone (Eastwood), un octogenario que está en quiebra, solo, y que se enfrenta a la ejecución hipotecaria de su negocio, se le ofrece un trabajo aparentemente fácil: sólo requiere conducir. Pero, sin saberlo, Earl se convierte en traficante de drogas para un cártel mexicano, y pasa a estar bajo el radar del agente de la DEA Colin Bates (Cooper).</desc>
-  </programme>
-  <programme start="20260922171600 -0500" stop="20260922193200 -0500" channel="TNT_PAN.co">
-    <title lang="es">LA MULA</title>
-    <desc lang="es">A Earl Stone (Eastwood), un octogenario que está en quiebra, solo, y que se enfrenta a la ejecución hipotecaria de su negocio, se le ofrece un trabajo aparentemente fácil: sólo requiere conducir. Pero, sin saberlo, Earl se convierte en traficante de drogas para un cártel mexicano, y pasa a estar bajo el radar del agente de la DEA Colin Bates (Cooper).</desc>
-  </programme>
-  <programme start="20260922172400 -0600" stop="20260922194400 -0600" channel="TNT_MX.mx">
-    <title lang="es">GLORIA</title>
-    <desc lang="es">La joven mexicana Gloria Treviño audiciona para popular compositor musical Sergio Andrade. Esto la convierte en miembro del grupo pop Boquitas Pintadas. Pero si bien la banda no consigue acumular demasiada fama, Sergio sabe que Gloria tiene un gran potencial como cantante solista. Pronto Gloria Trevi se convierte en una de las cantantes más exitosas de Latinoamérica hasta que, en un momento, queda atrapada en medio de un escándalo sexual.</desc>
-  </programme>
-  <programme start="20260922172500 -0500" stop="20260922193600 -0500" channel="TNT_CO.co">
-    <title lang="es">LA MULA</title>
-    <desc lang="es">A Earl Stone (Eastwood), un octogenario que está en quiebra, solo, y que se enfrenta a la ejecución hipotecaria de su negocio, se le ofrece un trabajo aparentemente fácil: sólo requiere conducir. Pero, sin saberlo, Earl se convierte en traficante de drogas para un cártel mexicano, y pasa a estar bajo el radar del agente de la DEA Colin Bates (Cooper).</desc>
-  </programme>
-  <programme start="20260922172700 -0300" stop="20260922174200 -0300" channel="TNT_AR.ar">
-    <title lang="es" />
-  </programme>
-  <programme start="20260922173500 -0300" stop="20260922192300 -0300" channel="TNT_BR.br">
-    <title lang="pt">COLOMBIANA: EM BUSCA DE VINGANÇA</title>
-    <desc lang="pt">Cataleya é uma jovem que  vê os próprios pais serem assassinados na cidade colombiana de Bogotá por traficantes de drogas. Disposta a se vingar do responsável por sua perda, ela dedica toda a vida para se tornar a assassina mais letal em todo o mundo. Mesmo sendo órfã, ela consegue atravessar boa parte do continente e entrar ilegalmente nos Estados Unidos, onde acredita que suas buscas terão mais efeito e pode contar com apoio de alguns parentes. Agenciada pelo seu tio, ela começa sua caçada e elimina um por um dos membros do cartel colombiano, na esperança de chegar até o grande chefão do tráfico e acabar de uma vez por todas com o esquema existente.</desc>
-  </programme>
-  <programme start="20260922174200 -0300" stop="20260922202200 -0300" channel="TNT_AR.ar">
-    <title lang="es">¡SHAZAM!</title>
-    <desc lang="es">El mayor sueño de todo niño  y no tan niño  es tener superpoderes. El universo cinematográfico de DC nos presenta a Billy Batson, un  joven huérfano que, gracias a un misterioso hechicero, se convierte en superhéroe al decir "¡Shazam!" En un cuerpo adulto y con corazón de niño, Billy deberá aprender a usar sus nuevos poderes para combatir las fuerzas del mal.</desc>
-  </programme>
-  <programme start="20260922192300 -0300" stop="20260922210300 -0300" channel="TNT_BR.br">
-    <title lang="pt">DIFÍCIL DE MATAR</title>
-    <desc lang="pt">O trabalho do bilionário CEO de tecnologia Donovan Chalmers é tão valioso que contrata mercenários para protegê-lo, mas um grupo terrorista sequestra a sua filha apenas para tentar capturá-lo.</desc>
-  </programme>
-  <programme start="20260922192500 -0400" stop="20260922220000 -0400" channel="TNT_CL.cl">
-    <title lang="es">¡SHAZAM!</title>
-    <desc lang="es">El mayor sueño de todo niño  y no tan niño  es tener superpoderes. El universo cinematográfico de DC nos presenta a Billy Batson, un  joven huérfano que, gracias a un misterioso hechicero, se convierte en superhéroe al decir "¡Shazam!" En un cuerpo adulto y con corazón de niño, Billy deberá aprender a usar sus nuevos poderes para combatir las fuerzas del mal.</desc>
-  </programme>
   <programme start="20260922193200 -0500" stop="20260922220000 -0500" channel="TNT_PAN.co">
     <title lang="es">¡SHAZAM!</title>
     <desc lang="es">El mayor sueño de todo niño  y no tan niño  es tener superpoderes. El universo cinematográfico de DC nos presenta a Billy Batson, un  joven huérfano que, gracias a un misterioso hechicero, se convierte en superhéroe al decir "¡Shazam!" En un cuerpo adulto y con corazón de niño, Billy deberá aprender a usar sus nuevos poderes para combatir las fuerzas del mal.</desc>
@@ -377,18 +29,6 @@
   <programme start="20260922194400 -0600" stop="20260922220000 -0600" channel="TNT_MX.mx">
     <title lang="es">¡SHAZAM!</title>
     <desc lang="es">El mayor sueño de todo niño  y no tan niño  es tener superpoderes. El universo cinematográfico de DC nos presenta a Billy Batson, un  joven huérfano que, gracias a un misterioso hechicero, se convierte en superhéroe al decir "¡Shazam!" En un cuerpo adulto y con corazón de niño, Billy deberá aprender a usar sus nuevos poderes para combatir las fuerzas del mal.</desc>
-  </programme>
-  <programme start="20260922202200 -0300" stop="20260922220000 -0300" channel="TNT_AR.ar">
-    <title lang="es">SEPTIMO</title>
-    <desc lang="es">Lo que inicia como un juego entre un padre y sus hijos se transforma en un misterio escalofriante en este thriller estelarizado por Ricardo Darín y Belén Rueda en el que dos niños desaparecen sin explicación en las escaleras de un edificio.</desc>
-  </programme>
-  <programme start="20260922210300 -0300" stop="20260922233000 -0300" channel="TNT_BR.br">
-    <title lang="pt">¡SHAZAM!</title>
-    <desc lang="pt">O maior sonho de toda criança - e não tão criança assim - é ter superpoderes. O universo cinematográfico da DC nos apresenta Billy Batson, um jovem órfão que, graças a um misterioso feiticeiro, se torna um super-herói dizendo "Shazam!" Em um corpo adulto e com o coração de menino, Billy precisa aprender a usar seus novos poderes para combater as forças do mal.</desc>
-  </programme>
-  <programme start="20260922220000 -0300" stop="20260922223900 -0300" channel="TNT_AR.ar">
-    <title lang="es">CAUTIVA</title>
-    <desc lang="es">2013. Clara llega a casa de su madre en shock tras huir del convento. Años antes, su ingreso revela las primeras sombras de un entorno opresivo.</desc>
   </programme>
   <programme start="20260922220000 -0400" stop="20260923003700 -0400" channel="TNT_CL.cl">
     <title lang="es">SHAZAM! LA FURIA DE LOS DIOSES</title>
@@ -404,10 +44,6 @@
   <programme start="20260922220000 -0600" stop="20260923002400 -0600" channel="TNT_MX.mx">
     <title lang="es">SHAZAM! LA FURIA DE LOS DIOSES</title>
     <desc lang="es">La increíble historia de Billy Batson y su familia continúa cuando los jóvenes deban decir "Shazam!" una vez más para convertirse en sus versiones adultas de superhéroes y así enfrentar a un vengativo trío de diosas para salvar su ciudad.</desc>
-  </programme>
-  <programme start="20260922223900 -0300" stop="20260922231800 -0300" channel="TNT_AR.ar">
-    <title lang="es">CAUTIVA</title>
-    <desc lang="es">2013. Clara llega a casa de su madre en shock tras huir del convento. Años antes, su ingreso revela las primeras sombras de un entorno opresivo.</desc>
   </programme>
   <programme start="20260922231800 -0300" stop="20260923014800 -0300" channel="TNT_AR.ar">
     <title lang="es">SHAZAM! LA FURIA DE LOS DIOSES</title>
@@ -6464,5 +6100,432 @@
   </programme>
   <programme start="20261008055100 -0600" stop="20261008060000 -0600" channel="TNT_MX.mx">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261008060000 -0300" stop="20261008063800 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+  </programme>
+  <programme start="20261008060000 -0300" stop="20261008063800 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261008060000 -0400" stop="20261008060100 -0400" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261008060000 -0500" stop="20261008063900 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261008060000 -0500" stop="20261008064100 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261008060000 -0600" stop="20261008061600 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261008060100 -0400" stop="20261008063900 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261008061600 -0600" stop="20261008063200 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261008063200 -0600" stop="20261008063300 -0600" channel="TNT_MX.mx">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261008063300 -0600" stop="20261008084600 -0600" channel="TNT_MX.mx">
+    <title lang="es">EL ÚLTIMO GRAN HÉROE</title>
+    <desc lang="es">"Un adolescente fanático de las películas de acción siente que toca el cielo con las manos cuando consigue un ""ticket mágico"" que le permite literalmente entrar dentro de la nueva película de su héroe favorito, Jack Slater (Arnold Schwarzenegger) y compartir sus excitantes aventuras. Sin embargo, cuando los villanos descubren el famoso pase, Jack se verá forzado a salir también de la pantalla para atrapar a los malos y, en el proceso, aprender algo acerca de lo que es ser un héroe sin ficción mediante."</desc>
+  </programme>
+  <programme start="20261008063800 -0300" stop="20261008065000 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261008063800 -0300" stop="20261008064000 -0300" channel="TNT_AR.ar">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261008063900 -0400" stop="20261008072000 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261008063900 -0500" stop="20261008072400 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261008064000 -0300" stop="20261008065400 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261008064100 -0500" stop="20261008072200 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261008065000 -0300" stop="20261008070100 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261008065400 -0300" stop="20261008071200 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261008070100 -0300" stop="20261008083800 -0300" channel="TNT_BR.br">
+    <title lang="pt">FÚRIA DE TITÃS 2</title>
+    <desc lang="pt">Os deuses estão enfraquecidos, já que os humanos não estão mais rezando para eles. Esta situação permite que Hades e Ares elaborem um plano para libertar Cronos, o pai de Hades, Zeus e Poseidon, que está aprisionado no tártaro. Para que o plano funcione Hades e Ares capturam Zeus, o que faz com que Perseus parta para salvá-lo.</desc>
+  </programme>
+  <programme start="20261008071200 -0300" stop="20261008090400 -0300" channel="TNT_AR.ar">
+    <title lang="es">SIN HIJOS</title>
+    <desc lang="es">Gabriel Cabau está divorciado desde hace cuatro años. Dedica su vida al trabajo y a Sofía, su hija de ocho años, y no tiene planes de comenzar una nueva relación. De repente, se reencuentra con Vicky, un amor platónico de la adolescencia, quien hoy es una mujer hermosa e independiente. Pero no tiene intenciones de comenzar una relación con alguien con hijos, por lo que Gabriel hace de cuenta que no los tiene.</desc>
+  </programme>
+  <programme start="20261008072000 -0400" stop="20261008075900 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261008072200 -0500" stop="20261008073000 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261008072400 -0500" stop="20261008073400 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261008073000 -0500" stop="20261008104400 -0500" channel="TNT_PAN.co">
+    <title lang="es">BATMAN</title>
+    <desc lang="es">Matt Reeves dirige a Robert Pattinson en el rol de Batman, el detective justiciero de Ciudad Gótica, quien debe ir en una carrera contra el tiempo para detener el plan de un retorcido asesino en serie conocido como El Acertijo.</desc>
+  </programme>
+  <programme start="20261008073400 -0500" stop="20261008104700 -0500" channel="TNT_CO.co">
+    <title lang="es">BATMAN</title>
+    <desc lang="es">Matt Reeves dirige a Robert Pattinson en el rol de Batman, el detective justiciero de Ciudad Gótica, quien debe ir en una carrera contra el tiempo para detener el plan de un retorcido asesino en serie conocido como El Acertijo.</desc>
+  </programme>
+  <programme start="20261008075900 -0400" stop="20261008084200 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261008083800 -0300" stop="20261008105200 -0300" channel="TNT_BR.br">
+    <title lang="pt">O ÚLTIMO GRANDE HERÓI</title>
+    <desc lang="pt">Usando um ingresso mágico, um garoto fã dos filmes de ação do astro Jack Slater consegue entrar nas aventuras vividas pelo ídolo nas telas do cinema sem imaginar que estaria abrindo caminho para os vilões das histórias chegarem à realidade.</desc>
+  </programme>
+  <programme start="20261008084200 -0400" stop="20261008084900 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261008084600 -0600" stop="20261008114400 -0600" channel="TNT_MX.mx">
+    <title lang="es">BATMAN</title>
+    <desc lang="es">Matt Reeves dirige a Robert Pattinson en el rol de Batman, el detective justiciero de Ciudad Gótica, quien debe ir en una carrera contra el tiempo para detener el plan de un retorcido asesino en serie conocido como El Acertijo.</desc>
+  </programme>
+  <programme start="20261008084900 -0400" stop="20261008110600 -0400" channel="TNT_CL.cl">
+    <title lang="es">EL REY ARTURO: LA LEYENDA DE LA ESPADA</title>
+    <desc lang="es">Luego del asesinato de su padre, Vortigern, tío del joven Arturo y alguien hambriento de poder, se apodera de la corona. Despojado de su derecho natural, Arturo crece por las malas en los callejones de la ciudad sin saber quién es realmente. Cuando el destino lo lleva a sacar la espada Excalibur de una piedra, Arturo abraza su verdadero destino: el de convertirse en un gran luchador y un líder legendario.</desc>
+  </programme>
+  <programme start="20261008090400 -0300" stop="20261008112000 -0300" channel="TNT_AR.ar">
+    <title lang="es">EL REY ARTURO: LA LEYENDA DE LA ESPADA</title>
+    <desc lang="es">Luego del asesinato de su padre, Vortigern, tío del joven Arturo y alguien hambriento de poder, se apodera de la corona. Despojado de su derecho natural, Arturo crece por las malas en los callejones de la ciudad sin saber quién es realmente. Cuando el destino lo lleva a sacar la espada Excalibur de una piedra, Arturo abraza su verdadero destino: el de convertirse en un gran luchador y un líder legendario.</desc>
+  </programme>
+  <programme start="20261008104400 -0500" stop="20261008130800 -0500" channel="TNT_PAN.co">
+    <title lang="es">EL REY ARTURO: LA LEYENDA DE LA ESPADA</title>
+    <desc lang="es">Luego del asesinato de su padre, Vortigern, tío del joven Arturo y alguien hambriento de poder, se apodera de la corona. Despojado de su derecho natural, Arturo crece por las malas en los callejones de la ciudad sin saber quién es realmente. Cuando el destino lo lleva a sacar la espada Excalibur de una piedra, Arturo abraza su verdadero destino: el de convertirse en un gran luchador y un líder legendario.</desc>
+  </programme>
+  <programme start="20261008104700 -0500" stop="20261008130700 -0500" channel="TNT_CO.co">
+    <title lang="es">EL REY ARTURO: LA LEYENDA DE LA ESPADA</title>
+    <desc lang="es">Luego del asesinato de su padre, Vortigern, tío del joven Arturo y alguien hambriento de poder, se apodera de la corona. Despojado de su derecho natural, Arturo crece por las malas en los callejones de la ciudad sin saber quién es realmente. Cuando el destino lo lleva a sacar la espada Excalibur de una piedra, Arturo abraza su verdadero destino: el de convertirse en un gran luchador y un líder legendario.</desc>
+  </programme>
+  <programme start="20261008105200 -0300" stop="20261008111800 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">LÁ VEM O JUIZ</sub-title>
+    <desc lang="pt">A campanha de Philip para juiz do tribunal superior começa com um escândalo embaraçoso quando Will é preso por não pagar dois mil dólares em multas.</desc>
+  </programme>
+  <programme start="20261008110600 -0400" stop="20261008125100 -0400" channel="TNT_CL.cl">
+    <title lang="es">FURIA DE TITANES 2</title>
+    <desc lang="es">Perseo, el hijo semidiós de Zeus, vive una vida tranquila en un pueblo de pescadores. Mientras tanto, los dioses pierden el control sobre los Titanes encarcelados y su feroz líder, Cronos. Perseo no podrá ignorar su destino cuando su hermano y su tío capturan a Zeus y ayudan a Cronos a escapar de una prisión del inframundo. Ahora deberá hacer todo lo posible para salvarlo.</desc>
+  </programme>
+  <programme start="20261008111800 -0300" stop="20261008114400 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">RAPAZES NA FLORESTA</sub-title>
+    <desc lang="pt">Philip leva Carlton e Will para acampar, mas uma tempestade de neve deixa o trio inexperiente preso em uma caverna nas montanhas.</desc>
+  </programme>
+  <programme start="20261008112000 -0300" stop="20261008130900 -0300" channel="TNT_AR.ar">
+    <title lang="es">FURIA DE TITANES 2</title>
+    <desc lang="es">Perseo, el hijo semidiós de Zeus, vive una vida tranquila en un pueblo de pescadores. Mientras tanto, los dioses pierden el control sobre los Titanes encarcelados y su feroz líder, Cronos. Perseo no podrá ignorar su destino cuando su hermano y su tío capturan a Zeus y ayudan a Cronos a escapar de una prisión del inframundo. Ahora deberá hacer todo lo posible para salvarlo.</desc>
+  </programme>
+  <programme start="20261008114400 -0300" stop="20261008120800 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">UM NOITE DE ÓPERA</sub-title>
+    <desc lang="pt">A família Banks é convidada a participar do programa da Oprah na TV, mas suas brigas pessoais causam alvoroço no estúdio.</desc>
+  </programme>
+  <programme start="20261008114400 -0600" stop="20261008135400 -0600" channel="TNT_MX.mx">
+    <title lang="es">EL REY ARTURO: LA LEYENDA DE LA ESPADA</title>
+    <desc lang="es">Luego del asesinato de su padre, Vortigern, tío del joven Arturo y alguien hambriento de poder, se apodera de la corona. Despojado de su derecho natural, Arturo crece por las malas en los callejones de la ciudad sin saber quién es realmente. Cuando el destino lo lleva a sacar la espada Excalibur de una piedra, Arturo abraza su verdadero destino: el de convertirse en un gran luchador y un líder legendario.</desc>
+  </programme>
+  <programme start="20261008120800 -0300" stop="20261008123300 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">RETORNO ÀS CINZAS</sub-title>
+    <desc lang="pt">O senil e incompetente juiz Carl Robertson calunia Philip para vencê-lo na disputa por uma vaga no Tribunal Superior, mas morre durante a festa da vitória. Advinha quem é escolhido para prestar uma homenagem?</desc>
+  </programme>
+  <programme start="20261008123300 -0300" stop="20261008125500 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA A CORLEONE</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261008125100 -0400" stop="20261008150300 -0400" channel="TNT_CL.cl">
+    <title lang="es">JOHN Q - SITUACIÓN EXTREMA</title>
+    <desc lang="es">"En un partido de béisbol, el hijo de John Quincy Archibald (Denzel Washington) sufre un paro cardíaco y es llevado con urgencia a un hospital. El muchacho necesita un transplante lo antes posible, pero Quincy descubre que ni su seguro ni la salud pública cubren la operación. Desesperado, decide tomar todos los presentes como rehenes hasta que le aseguren la cirugía. En una lucha contra el tiempo, John intenta negociar una solución con el teniente Frank Grimes (Robert Duvall) y con el impaciente jefe de la policía Gus Monroe (Ray Liotta), cuya única preocupación es cerrar el caso lo antes posible. El film fue dirigido por el actor y director Nick Cassavetes, que actuó con Eddie Murphy en ""Condenados a Fugarse"" (""Life"", 1999)."</desc>
+  </programme>
+  <programme start="20261008125500 -0300" stop="20261008131800 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA REJEIÇÃO</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261008130700 -0500" stop="20261008145400 -0500" channel="TNT_CO.co">
+    <title lang="es">FURIA DE TITANES 2</title>
+    <desc lang="es">Perseo, el hijo semidiós de Zeus, vive una vida tranquila en un pueblo de pescadores. Mientras tanto, los dioses pierden el control sobre los Titanes encarcelados y su feroz líder, Cronos. Perseo no podrá ignorar su destino cuando su hermano y su tío capturan a Zeus y ayudan a Cronos a escapar de una prisión del inframundo. Ahora deberá hacer todo lo posible para salvarlo.</desc>
+  </programme>
+  <programme start="20261008130800 -0500" stop="20261008145900 -0500" channel="TNT_PAN.co">
+    <title lang="es">FURIA DE TITANES 2</title>
+    <desc lang="es">Perseo, el hijo semidiós de Zeus, vive una vida tranquila en un pueblo de pescadores. Mientras tanto, los dioses pierden el control sobre los Titanes encarcelados y su feroz líder, Cronos. Perseo no podrá ignorar su destino cuando su hermano y su tío capturan a Zeus y ayudan a Cronos a escapar de una prisión del inframundo. Ahora deberá hacer todo lo posible para salvarlo.</desc>
+  </programme>
+  <programme start="20261008130900 -0300" stop="20261008151700 -0300" channel="TNT_AR.ar">
+    <title lang="es">JOHN Q - SITUACIÓN EXTREMA</title>
+    <desc lang="es">"En un partido de béisbol, el hijo de John Quincy Archibald (Denzel Washington) sufre un paro cardíaco y es llevado con urgencia a un hospital. El muchacho necesita un transplante lo antes posible, pero Quincy descubre que ni su seguro ni la salud pública cubren la operación. Desesperado, decide tomar todos los presentes como rehenes hasta que le aseguren la cirugía. En una lucha contra el tiempo, John intenta negociar una solución con el teniente Frank Grimes (Robert Duvall) y con el impaciente jefe de la policía Gus Monroe (Ray Liotta), cuya única preocupación es cerrar el caso lo antes posible. El film fue dirigido por el actor y director Nick Cassavetes, que actuó con Eddie Murphy en ""Condenados a Fugarse"" (""Life"", 1999)."</desc>
+  </programme>
+  <programme start="20261008131800 -0300" stop="20261008134200 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA ELEIÇÕES</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261008134200 -0300" stop="20261008140500 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA MENTIROSO</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261008135400 -0600" stop="20261008153300 -0600" channel="TNT_MX.mx">
+    <title lang="es">FURIA DE TITANES 2</title>
+    <desc lang="es">Perseo, el hijo semidiós de Zeus, vive una vida tranquila en un pueblo de pescadores. Mientras tanto, los dioses pierden el control sobre los Titanes encarcelados y su feroz líder, Cronos. Perseo no podrá ignorar su destino cuando su hermano y su tío capturan a Zeus y ayudan a Cronos a escapar de una prisión del inframundo. Ahora deberá hacer todo lo posible para salvarlo.</desc>
+  </programme>
+  <programme start="20261008140500 -0300" stop="20261008142900 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA O MALVO</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261008142900 -0300" stop="20261008163500 -0300" channel="TNT_BR.br">
+    <title lang="pt">REI ARTHUR: A LENDA DA ESPADA</title>
+    <desc lang="pt">Antes de ser assassinado, sabendo dos planos de seu traiçoeiro irmão Vortigern, o rei Uther tenta salvar o seu filho colocando-o dentro de um pequeno barco. O menino acaba em Londonium e é encontrado e criado por prostitutas. O jovem Arthur cresce como um lutador habilidoso e homem das ruas, sem saber nada sobre as suas origens e controlando os becos da cidade. Ele desconhece totalmente a sua predestinação até que, um dia, tudo muda ao entrar em contato pela primeira vez com a lendária Excalibur. Depois de tirar a espada da pedra, o herdeiro do trono é forçado a reconhecer o seu verdadeiro legado e precisará lutar pelo seu povo tentando eliminar o tirano Vortigern, que quer o poder a todo custo.</desc>
+  </programme>
+  <programme start="20261008145400 -0500" stop="20261008170800 -0500" channel="TNT_CO.co">
+    <title lang="es">JOHN Q - SITUACIÓN EXTREMA</title>
+    <desc lang="es">"En un partido de béisbol, el hijo de John Quincy Archibald (Denzel Washington) sufre un paro cardíaco y es llevado con urgencia a un hospital. El muchacho necesita un transplante lo antes posible, pero Quincy descubre que ni su seguro ni la salud pública cubren la operación. Desesperado, decide tomar todos los presentes como rehenes hasta que le aseguren la cirugía. En una lucha contra el tiempo, John intenta negociar una solución con el teniente Frank Grimes (Robert Duvall) y con el impaciente jefe de la policía Gus Monroe (Ray Liotta), cuya única preocupación es cerrar el caso lo antes posible. El film fue dirigido por el actor y director Nick Cassavetes, que actuó con Eddie Murphy en ""Condenados a Fugarse"" (""Life"", 1999)."</desc>
+  </programme>
+  <programme start="20261008145900 -0500" stop="20261008171600 -0500" channel="TNT_PAN.co">
+    <title lang="es">JOHN Q - SITUACIÓN EXTREMA</title>
+    <desc lang="es">"En un partido de béisbol, el hijo de John Quincy Archibald (Denzel Washington) sufre un paro cardíaco y es llevado con urgencia a un hospital. El muchacho necesita un transplante lo antes posible, pero Quincy descubre que ni su seguro ni la salud pública cubren la operación. Desesperado, decide tomar todos los presentes como rehenes hasta que le aseguren la cirugía. En una lucha contra el tiempo, John intenta negociar una solución con el teniente Frank Grimes (Robert Duvall) y con el impaciente jefe de la policía Gus Monroe (Ray Liotta), cuya única preocupación es cerrar el caso lo antes posible. El film fue dirigido por el actor y director Nick Cassavetes, que actuó con Eddie Murphy en ""Condenados a Fugarse"" (""Life"", 1999)."</desc>
+  </programme>
+  <programme start="20261008150300 -0400" stop="20261008171400 -0400" channel="TNT_CL.cl">
+    <title lang="es">EL COLECCIONISTA DE HUESOS</title>
+    <desc lang="es">Denzel Washington protagoniza a un detective que fue victima de un atentado que lo dejó cuadriplégico en la cama de un hospital; desde allí ayuda a una oficial novata a ubicar las pistas de un asesino en serie que utiliza mensajes de ultratumba escondidos en los lugares donde comete el crimen.</desc>
+  </programme>
+  <programme start="20261008151700 -0300" stop="20261008173000 -0300" channel="TNT_AR.ar">
+    <title lang="es">EL COLECCIONISTA DE HUESOS</title>
+    <desc lang="es">Denzel Washington protagoniza a un detective que fue victima de un atentado que lo dejó cuadriplégico en la cama de un hospital; desde allí ayuda a una oficial novata a ubicar las pistas de un asesino en serie que utiliza mensajes de ultratumba escondidos en los lugares donde comete el crimen.</desc>
+  </programme>
+  <programme start="20261008153300 -0600" stop="20261008173700 -0600" channel="TNT_MX.mx">
+    <title lang="es">JOHN Q - SITUACIÓN EXTREMA</title>
+    <desc lang="es">"En un partido de béisbol, el hijo de John Quincy Archibald (Denzel Washington) sufre un paro cardíaco y es llevado con urgencia a un hospital. El muchacho necesita un transplante lo antes posible, pero Quincy descubre que ni su seguro ni la salud pública cubren la operación. Desesperado, decide tomar todos los presentes como rehenes hasta que le aseguren la cirugía. En una lucha contra el tiempo, John intenta negociar una solución con el teniente Frank Grimes (Robert Duvall) y con el impaciente jefe de la policía Gus Monroe (Ray Liotta), cuya única preocupación es cerrar el caso lo antes posible. El film fue dirigido por el actor y director Nick Cassavetes, que actuó con Eddie Murphy en ""Condenados a Fugarse"" (""Life"", 1999)."</desc>
+  </programme>
+  <programme start="20261008163500 -0300" stop="20261008193500 -0300" channel="TNT_BR.br">
+    <title lang="pt">Batman</title>
+    <desc lang="pt">Matt Reeves dirige Robert Pattinson no papel de Batman, o detetive justiceiro de Gotham City, que deve correr contra o tempo para impedir o plano de um perverso assassino em série conhecido como O Charada.</desc>
+  </programme>
+  <programme start="20261008170800 -0500" stop="20261008192300 -0500" channel="TNT_CO.co">
+    <title lang="es">EL COLECCIONISTA DE HUESOS</title>
+    <desc lang="es">Denzel Washington protagoniza a un detective que fue victima de un atentado que lo dejó cuadriplégico en la cama de un hospital; desde allí ayuda a una oficial novata a ubicar las pistas de un asesino en serie que utiliza mensajes de ultratumba escondidos en los lugares donde comete el crimen.</desc>
+  </programme>
+  <programme start="20261008171400 -0400" stop="20261008194800 -0400" channel="TNT_CL.cl">
+    <title lang="es">¡SHAZAM!</title>
+    <desc lang="es">El mayor sueño de todo niño  y no tan niño  es tener superpoderes. El universo cinematográfico de DC nos presenta a Billy Batson, un  joven huérfano que, gracias a un misterioso hechicero, se convierte en superhéroe al decir "¡Shazam!" En un cuerpo adulto y con corazón de niño, Billy deberá aprender a usar sus nuevos poderes para combatir las fuerzas del mal.</desc>
+  </programme>
+  <programme start="20261008171600 -0500" stop="20261008193000 -0500" channel="TNT_PAN.co">
+    <title lang="es">ASESINOS DE ELITE</title>
+    <desc lang="es">Danny es uno de los agentes de operaciones especiales más importantes y hábiles de la corporación, pero después de una experiencia perturbadora decide exilarse, para vivir en paz durante un tiempo. Pero sus planes se irán al demonio cuando reencuentre a sus antiguos colegas y decida realizar una misión muy difícil: rescatar a Hunter, su antiguo mentor y compañero, que fue secuestrado. Juntos, ellos emprenden la tarea aparentemente imposible de neutralizar a los soldados rebeldes, capaces de hacer cualquier cosa para cumplir las órdenes de su temido líder, Spike. Los experimentados agentes serán incansables en la lucha contra la muerte y para evitar una incontrolable crisis internacional.</desc>
+  </programme>
+  <programme start="20261008173000 -0300" stop="20261008174500 -0300" channel="TNT_AR.ar">
+    <title lang="es" />
+  </programme>
+  <programme start="20261008173700 -0600" stop="20261008194300 -0600" channel="TNT_MX.mx">
+    <title lang="es">EL COLECCIONISTA DE HUESOS</title>
+    <desc lang="es">Denzel Washington protagoniza a un detective que fue victima de un atentado que lo dejó cuadriplégico en la cama de un hospital; desde allí ayuda a una oficial novata a ubicar las pistas de un asesino en serie que utiliza mensajes de ultratumba escondidos en los lugares donde comete el crimen.</desc>
+  </programme>
+  <programme start="20261008174500 -0300" stop="20261008202900 -0300" channel="TNT_AR.ar">
+    <title lang="es">¡SHAZAM!</title>
+    <desc lang="es">El mayor sueño de todo niño  y no tan niño  es tener superpoderes. El universo cinematográfico de DC nos presenta a Billy Batson, un  joven huérfano que, gracias a un misterioso hechicero, se convierte en superhéroe al decir "¡Shazam!" En un cuerpo adulto y con corazón de niño, Billy deberá aprender a usar sus nuevos poderes para combatir las fuerzas del mal.</desc>
+  </programme>
+  <programme start="20261008192300 -0500" stop="20261008220000 -0500" channel="TNT_CO.co">
+    <title lang="es">¡SHAZAM!</title>
+    <desc lang="es">El mayor sueño de todo niño  y no tan niño  es tener superpoderes. El universo cinematográfico de DC nos presenta a Billy Batson, un  joven huérfano que, gracias a un misterioso hechicero, se convierte en superhéroe al decir "¡Shazam!" En un cuerpo adulto y con corazón de niño, Billy deberá aprender a usar sus nuevos poderes para combatir las fuerzas del mal.</desc>
+  </programme>
+  <programme start="20261008193000 -0500" stop="20261008220000 -0500" channel="TNT_PAN.co">
+    <title lang="es">¡SHAZAM!</title>
+    <desc lang="es">El mayor sueño de todo niño  y no tan niño  es tener superpoderes. El universo cinematográfico de DC nos presenta a Billy Batson, un  joven huérfano que, gracias a un misterioso hechicero, se convierte en superhéroe al decir "¡Shazam!" En un cuerpo adulto y con corazón de niño, Billy deberá aprender a usar sus nuevos poderes para combatir las fuerzas del mal.</desc>
+  </programme>
+  <programme start="20261008193500 -0300" stop="20261008194500 -0300" channel="TNT_BR.br">
+    <title lang="pt">BUZUM</title>
+    <sub-title lang="pt">VOCÊ POR AQUI</sub-title>
+    <desc lang="pt">Fernando entra sozinho e triste no Buzum porque brigou com o namorado, Miguel. Por coincidência, encontra com a mãe do namorado, que puxa assunto com ele. Mas é uma conversa desconfortável, pois até onde ele sabe, ela acha que os dois são apenas amigos. Durante o papo, mais conhecidos de Fernando aparecem no Buzum, o que o deixa cada vez mais confuso. Como ele conhece todo mundo nesse ônibus?</desc>
+  </programme>
+  <programme start="20261008194300 -0600" stop="20261008220000 -0600" channel="TNT_MX.mx">
+    <title lang="es">¡SHAZAM!</title>
+    <desc lang="es">El mayor sueño de todo niño  y no tan niño  es tener superpoderes. El universo cinematográfico de DC nos presenta a Billy Batson, un  joven huérfano que, gracias a un misterioso hechicero, se convierte en superhéroe al decir "¡Shazam!" En un cuerpo adulto y con corazón de niño, Billy deberá aprender a usar sus nuevos poderes para combatir las fuerzas del mal.</desc>
+  </programme>
+  <programme start="20261008194500 -0300" stop="20261008214600 -0300" channel="TNT_BR.br">
+    <title lang="pt" />
+    <desc lang="pt">Tio Tony (Marcus Majella) reina soberano no coração dos sobrinhos, Patricia (Julia Svacinna), Valentina (Sofia Barros) e João (João Barreto). Ele parece ter se regenerado da vida de trambiqueiro e vive em perfeita harmonia com a família até a chegada de Beto (Danton Mello), que rouba o coração da irmã, Ângela (Letícia Isnard), e, de quebra, encanta os pequenos. Com ciúmes desse intruso e inconformado, Tony entra numa disputa com Beto e vai armar planos mirabolantes envolvendo os sobrinhos para tentar provar que o futuro cunhado não vale nada.</desc>
+  </programme>
+  <programme start="20261008194800 -0400" stop="20261008220000 -0400" channel="TNT_CL.cl">
+    <title lang="es">MASTERCHEF CHILE</title>
+    <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
+  </programme>
+  <programme start="20261008202900 -0300" stop="20261008220000 -0300" channel="TNT_AR.ar">
+    <title lang="es">MASTERCHEF CELEBRITY ARGENTINA</title>
+    <desc lang="es">¡Se encienden las hornallas! Bajo la conducción de Wanda Nara, llega la nueva temporada de esta intensa competencia de sabores, donde distintas celebridades despliegan su talento culinario ante un exigente jurado de chefs. Damián Betular, Maru Botana y Germán Martitegui serán los encargados de evaluar cada plato y definir quiénes tienen lo necesario para seguir en competencia y quienes deberán que entregar su delantal.</desc>
+  </programme>
+  <programme start="20261008214600 -0300" stop="20261008234600 -0300" channel="TNT_BR.br">
+    <title lang="pt">Cine Holliúdy 2 - A Chibata Sideral</title>
+    <desc lang="pt">Francisgleydisson vê o Cine Holliúdy enfrentar tempos difíceis, mas tudo muda quando uma onda de avistamentos de OVNIs toma conta da cidade. Entre boatos, confusões e figuras excêntricas, ele transforma o cinema no centro da maior aventura intergaláctica do interior do Ceará, rendendo muitas gargalhadas e situações absurdas.</desc>
+  </programme>
+  <programme start="20261008220000 -0300" stop="20261009000900 -0300" channel="TNT_AR.ar">
+    <title lang="es">LIGA DE LA JUSTICIA</title>
+    <desc lang="es">Impulsado por su recuperada fe en la humanidad e inspirado por el acto desinteresado de Superman, Bruce Wayne solicita la ayuda de su nueva aliada, Diana Prince, para enfrentarse a un enemigo aún mayor.</desc>
+  </programme>
+  <programme start="20261008220000 -0400" stop="20261009002500 -0400" channel="TNT_CL.cl">
+    <title lang="es">LIGA DE LA JUSTICIA</title>
+    <desc lang="es">Impulsado por su recuperada fe en la humanidad e inspirado por el acto desinteresado de Superman, Bruce Wayne solicita la ayuda de su nueva aliada, Diana Prince, para enfrentarse a un enemigo aún mayor.</desc>
+  </programme>
+  <programme start="20261008220000 -0500" stop="20261009002000 -0500" channel="TNT_CO.co">
+    <title lang="es">LIGA DE LA JUSTICIA</title>
+    <desc lang="es">Impulsado por su recuperada fe en la humanidad e inspirado por el acto desinteresado de Superman, Bruce Wayne solicita la ayuda de su nueva aliada, Diana Prince, para enfrentarse a un enemigo aún mayor.</desc>
+  </programme>
+  <programme start="20261008220000 -0500" stop="20261009001800 -0500" channel="TNT_PAN.co">
+    <title lang="es">LIGA DE LA JUSTICIA</title>
+    <desc lang="es">Impulsado por su recuperada fe en la humanidad e inspirado por el acto desinteresado de Superman, Bruce Wayne solicita la ayuda de su nueva aliada, Diana Prince, para enfrentarse a un enemigo aún mayor.</desc>
+  </programme>
+  <programme start="20261008220000 -0600" stop="20261009000800 -0600" channel="TNT_MX.mx">
+    <title lang="es">LIGA DE LA JUSTICIA</title>
+    <desc lang="es">Impulsado por su recuperada fe en la humanidad e inspirado por el acto desinteresado de Superman, Bruce Wayne solicita la ayuda de su nueva aliada, Diana Prince, para enfrentarse a un enemigo aún mayor.</desc>
+  </programme>
+  <programme start="20261008234600 -0300" stop="20261009001000 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA A CORLEONE</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261009000800 -0600" stop="20261009030700 -0600" channel="TNT_MX.mx">
+    <title lang="es">BATMAN</title>
+    <desc lang="es">Matt Reeves dirige a Robert Pattinson en el rol de Batman, el detective justiciero de Ciudad Gótica, quien debe ir en una carrera contra el tiempo para detener el plan de un retorcido asesino en serie conocido como El Acertijo.</desc>
+  </programme>
+  <programme start="20261009000900 -0300" stop="20261009030900 -0300" channel="TNT_AR.ar">
+    <title lang="es">BATMAN</title>
+    <desc lang="es">Matt Reeves dirige a Robert Pattinson en el rol de Batman, el detective justiciero de Ciudad Gótica, quien debe ir en una carrera contra el tiempo para detener el plan de un retorcido asesino en serie conocido como El Acertijo.</desc>
+  </programme>
+  <programme start="20261009001000 -0300" stop="20261009003600 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA REJEIÇÃO</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261009001800 -0500" stop="20261009032100 -0500" channel="TNT_PAN.co">
+    <title lang="es">BATMAN</title>
+    <desc lang="es">Matt Reeves dirige a Robert Pattinson en el rol de Batman, el detective justiciero de Ciudad Gótica, quien debe ir en una carrera contra el tiempo para detener el plan de un retorcido asesino en serie conocido como El Acertijo.</desc>
+  </programme>
+  <programme start="20261009002000 -0500" stop="20261009031900 -0500" channel="TNT_CO.co">
+    <title lang="es">BATMAN</title>
+    <desc lang="es">Matt Reeves dirige a Robert Pattinson en el rol de Batman, el detective justiciero de Ciudad Gótica, quien debe ir en una carrera contra el tiempo para detener el plan de un retorcido asesino en serie conocido como El Acertijo.</desc>
+  </programme>
+  <programme start="20261009002500 -0400" stop="20261009032600 -0400" channel="TNT_CL.cl">
+    <title lang="es">BATMAN</title>
+    <desc lang="es">Matt Reeves dirige a Robert Pattinson en el rol de Batman, el detective justiciero de Ciudad Gótica, quien debe ir en una carrera contra el tiempo para detener el plan de un retorcido asesino en serie conocido como El Acertijo.</desc>
+  </programme>
+  <programme start="20261009003600 -0300" stop="20261009010200 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA ELEIÇÕES</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261009010200 -0300" stop="20261009012500 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA MENTIROSO</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261009012500 -0300" stop="20261009014900 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">TODO MUNDO ODEIA O MALVO</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261009014900 -0300" stop="20261009022300 -0300" channel="TNT_BR.br">
+    <title lang="pt">LIGA ESPETACULAR</title>
+    <desc lang="pt">O Liga Espetacular reúne num só lugar todos os motivos que fazem da Liga dos Campeões o melhor torneio de clubes do mundo. Nas semanas de rodada, todos os melhores momentos, os golaços, os ângulos que ainda ninguém viu estão no cardápio do programa. Além disso, as equipes do Esporte Interativo, espalhadas pela Europa, trazem reportagens especiais, entrevistas exclusivas e todos os passos dos brasileiros que brilham no Velho Continente.</desc>
+  </programme>
+  <programme start="20261009022300 -0300" stop="20261009024500 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">LÁ VEM O JUIZ</sub-title>
+    <desc lang="pt">A campanha de Philip para juiz do tribunal superior começa com um escândalo embaraçoso quando Will é preso por não pagar dois mil dólares em multas.</desc>
+  </programme>
+  <programme start="20261009024500 -0300" stop="20261009030900 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">RAPAZES NA FLORESTA</sub-title>
+    <desc lang="pt">Philip leva Carlton e Will para acampar, mas uma tempestade de neve deixa o trio inexperiente preso em uma caverna nas montanhas.</desc>
+  </programme>
+  <programme start="20261009030700 -0600" stop="20261009051000 -0600" channel="TNT_MX.mx">
+    <title lang="es">JOHN Q - SITUACIÓN EXTREMA</title>
+    <desc lang="es">"En un partido de béisbol, el hijo de John Quincy Archibald (Denzel Washington) sufre un paro cardíaco y es llevado con urgencia a un hospital. El muchacho necesita un transplante lo antes posible, pero Quincy descubre que ni su seguro ni la salud pública cubren la operación. Desesperado, decide tomar todos los presentes como rehenes hasta que le aseguren la cirugía. En una lucha contra el tiempo, John intenta negociar una solución con el teniente Frank Grimes (Robert Duvall) y con el impaciente jefe de la policía Gus Monroe (Ray Liotta), cuya única preocupación es cerrar el caso lo antes posible. El film fue dirigido por el actor y director Nick Cassavetes, que actuó con Eddie Murphy en ""Condenados a Fugarse"" (""Life"", 1999)."</desc>
+  </programme>
+  <programme start="20261009030900 -0300" stop="20261009033200 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">UM NOITE DE ÓPERA</sub-title>
+    <desc lang="pt">A família Banks é convidada a participar do programa da Oprah na TV, mas suas brigas pessoais causam alvoroço no estúdio.</desc>
+  </programme>
+  <programme start="20261009030900 -0300" stop="20261009050800 -0300" channel="TNT_AR.ar">
+    <title lang="es">JOHN Q - SITUACIÓN EXTREMA</title>
+    <desc lang="es">"En un partido de béisbol, el hijo de John Quincy Archibald (Denzel Washington) sufre un paro cardíaco y es llevado con urgencia a un hospital. El muchacho necesita un transplante lo antes posible, pero Quincy descubre que ni su seguro ni la salud pública cubren la operación. Desesperado, decide tomar todos los presentes como rehenes hasta que le aseguren la cirugía. En una lucha contra el tiempo, John intenta negociar una solución con el teniente Frank Grimes (Robert Duvall) y con el impaciente jefe de la policía Gus Monroe (Ray Liotta), cuya única preocupación es cerrar el caso lo antes posible. El film fue dirigido por el actor y director Nick Cassavetes, que actuó con Eddie Murphy en ""Condenados a Fugarse"" (""Life"", 1999)."</desc>
+  </programme>
+  <programme start="20261009031900 -0500" stop="20261009051900 -0500" channel="TNT_CO.co">
+    <title lang="es">JOHN Q - SITUACIÓN EXTREMA</title>
+    <desc lang="es">"En un partido de béisbol, el hijo de John Quincy Archibald (Denzel Washington) sufre un paro cardíaco y es llevado con urgencia a un hospital. El muchacho necesita un transplante lo antes posible, pero Quincy descubre que ni su seguro ni la salud pública cubren la operación. Desesperado, decide tomar todos los presentes como rehenes hasta que le aseguren la cirugía. En una lucha contra el tiempo, John intenta negociar una solución con el teniente Frank Grimes (Robert Duvall) y con el impaciente jefe de la policía Gus Monroe (Ray Liotta), cuya única preocupación es cerrar el caso lo antes posible. El film fue dirigido por el actor y director Nick Cassavetes, que actuó con Eddie Murphy en ""Condenados a Fugarse"" (""Life"", 1999)."</desc>
+  </programme>
+  <programme start="20261009032100 -0500" stop="20261009052600 -0500" channel="TNT_PAN.co">
+    <title lang="es">JOHN Q - SITUACIÓN EXTREMA</title>
+    <desc lang="es">"En un partido de béisbol, el hijo de John Quincy Archibald (Denzel Washington) sufre un paro cardíaco y es llevado con urgencia a un hospital. El muchacho necesita un transplante lo antes posible, pero Quincy descubre que ni su seguro ni la salud pública cubren la operación. Desesperado, decide tomar todos los presentes como rehenes hasta que le aseguren la cirugía. En una lucha contra el tiempo, John intenta negociar una solución con el teniente Frank Grimes (Robert Duvall) y con el impaciente jefe de la policía Gus Monroe (Ray Liotta), cuya única preocupación es cerrar el caso lo antes posible. El film fue dirigido por el actor y director Nick Cassavetes, que actuó con Eddie Murphy en ""Condenados a Fugarse"" (""Life"", 1999)."</desc>
+  </programme>
+  <programme start="20261009032600 -0400" stop="20261009053000 -0400" channel="TNT_CL.cl">
+    <title lang="es">JOHN Q - SITUACIÓN EXTREMA</title>
+    <desc lang="es">"En un partido de béisbol, el hijo de John Quincy Archibald (Denzel Washington) sufre un paro cardíaco y es llevado con urgencia a un hospital. El muchacho necesita un transplante lo antes posible, pero Quincy descubre que ni su seguro ni la salud pública cubren la operación. Desesperado, decide tomar todos los presentes como rehenes hasta que le aseguren la cirugía. En una lucha contra el tiempo, John intenta negociar una solución con el teniente Frank Grimes (Robert Duvall) y con el impaciente jefe de la policía Gus Monroe (Ray Liotta), cuya única preocupación es cerrar el caso lo antes posible. El film fue dirigido por el actor y director Nick Cassavetes, que actuó con Eddie Murphy en ""Condenados a Fugarse"" (""Life"", 1999)."</desc>
+  </programme>
+  <programme start="20261009033200 -0300" stop="20261009035500 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">RETORNO ÀS CINZAS</sub-title>
+    <desc lang="pt">O senil e incompetente juiz Carl Robertson calunia Philip para vencê-lo na disputa por uma vaga no Tribunal Superior, mas morre durante a festa da vitória. Advinha quem é escolhido para prestar uma homenagem?</desc>
+  </programme>
+  <programme start="20261009035500 -0300" stop="20261009054800 -0300" channel="TNT_BR.br">
+    <title lang="pt">LIGA DA JUSTIÇA</title>
+    <desc lang="pt">Alimentado por sua fé restaurada na humanidade e inspirado pelo ato altruísta de Superman, Bruce Wayne conta com a ajuda de sua recém-descoberta aliada, Diana Prince, para enfrentar um inimigo ainda maior.</desc>
+  </programme>
+  <programme start="20261009050800 -0300" stop="20261009054300 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261009051000 -0600" stop="20261009054700 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261009051900 -0500" stop="20261009055600 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+  </programme>
+  <programme start="20261009052600 -0500" stop="20261009054400 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261009053000 -0400" stop="20261009054600 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261009054300 -0300" stop="20261009060000 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261009054400 -0500" stop="20261009060000 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261009054600 -0400" stop="20261009055700 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261009054700 -0600" stop="20261009055500 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261009054800 -0300" stop="20261009060000 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+  </programme>
+  <programme start="20261009055500 -0600" stop="20261009055700 -0600" channel="TNT_MX.mx">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261009055600 -0500" stop="20261009060000 -0500" channel="TNT_CO.co">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261009055700 -0400" stop="20261009060000 -0400" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+  </programme>
+  <programme start="20261009055700 -0600" stop="20261009060000 -0600" channel="TNT_MX.mx">
+    <title lang="es">TNT BUZZ</title>
   </programme>
 </tv>
