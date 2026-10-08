@@ -9,7 +9,7 @@ def update_skydance_epg():
     # Asegurar que la carpeta de destino exista
     os.makedirs("nickelodeon", exist_ok=True)
     
-    # Obtener la fecha actual en formato YYYYMMDD (ej. 20261007)
+    # Obtener la fecha actual en formato YYYYMMDD
     today_str = datetime.now().strftime("%Y%m%d")
     url = BASE_VIMN_URL.format(date_str=today_str)
     
