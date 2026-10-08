@@ -453,4 +453,46 @@ def main():
 
     for xml_filename, net_config in NETWORKS_CONFIG.items():
         print(f"\n==========================================")
-        print(f"Procesando: {xml
+        print(f"Procesando: {xml_filename}")
+        print(f"==========================================")
+        
+        root = sanitize_and_parse_xml(xml_filename, net_config["generator_name"])
+
+        active_channel_ids = {cfg["channel_id"] for cfg in net_config["feeds"]}
+        for ch in list(root.findall("channel")):
+            if ch.attrib.get("id") not in active_channel_ids:
+                root.remove(ch)
+
+        for feed_cfg in net_config["feeds"]:
+            try:
+                xls_path = download_feed_xls(token, feed_cfg["feed_id"], net_config["referer"])
+                process_feed(root, feed_cfg, xls_path)
+            except Exception as e:
+                print(f"[ERROR] Error al procesar feed {feed_cfg['feed_id']}: {e}")
+
+        cutoff_date = datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)
+        for p in list(root.findall("programme")):
+            ch_id = p.attrib.get("channel")
+            if ch_id not in active_channel_ids:
+                root.remove(p)
+                continue
+            cfg = next((c for c in net_config["feeds"] if c["channel_id"] == ch_id), net_config["feeds"][0])
+            stop_dt = parse_xmltv_date(p.attrib.get("stop", ""), cfg["tz"])
+            if stop_dt and stop_dt < cutoff_date:
+                root.remove(p)
+
+        sorted_progs = sorted(
+            root.findall("programme"),
+            key=lambda x: x.attrib.get("start", "")
+        )
+        for p in list(root.findall("programme")):
+            root.remove(p)
+        for p in sorted_progs:
+            root.append(p)
+
+        ET.indent(root, space="  ", level=0)
+        ET.ElementTree(root).write(xml_filename, encoding="utf-8", xml_declaration=True)
+        print(f"[OK] Archivo {xml_filename} guardado con éxito. Total programas: {len(sorted_progs)}")
+
+if __name__ == "__main__":
+    main()
