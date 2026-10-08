@@ -6,14 +6,6 @@
   <channel id="CNLA_BR.br">
     <display-name>Cartoon Network Brasil</display-name>
   </channel>
-  <programme start="20260922222700 -0500" stop="20260922223900 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">Finn se convierte en el rey de un clan de duendes para evitar un conflicto violento, pero las extrañas reglas de los duendes demuestran no ser del agrado de Finn.</desc>
-  </programme>
-  <programme start="20260922223900 -0500" stop="20260922225200 -0500" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <desc lang="es">Finn trae una entrega especial para Bollo de Canela desde el Reino de Fuego, pero puede tener un precio muy peligroso.</desc>
-  </programme>
   <programme start="20260922225200 -0500" stop="20260922230400 -0500" channel="CNLA_PAN.co">
     <title lang="es">HORA DE AVENTURA</title>
     <desc lang="es">Finn deja a la Dulce Princesa verde y calva, y se enfrenta a un dilema moral: confesar su error y aceptar que su amiga lo odie por siempre o dejar que la Dulce Princesa acuse injustamente al Duque de la Nuez.</desc>
@@ -46,19 +38,9 @@
     <title lang="es">ESCANDALOSOS</title>
     <desc lang="es">La guardabosques Tabes guía a una tropa de muchachas a una expedición en una cueva y lleva a Pardo como experto en cuevas.</desc>
   </programme>
-  <programme start="20260923003000 -0300" stop="20260923004100 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">NINJAS DO SILÉNCIO</sub-title>
-    <desc lang="pt">Os ursos estão cansados da falta de educação nas salas de cinema. Você não está? Assim, eles resolvem assumir a posição de vigilantes, locomovendo-se como ninjas para calar as pessoas que estão estragando a sessão dos outros.</desc>
-  </programme>
   <programme start="20260923003000 -0500" stop="20260923004100 -0500" channel="CNLA_PAN.co">
     <title lang="es">ESCANDALOSOS</title>
     <desc lang="es">Los Osos están hartos de la decadencia actual del protocolo en los cines. ¿Tú no lo estás? Tras autoproclamarse ¿la policía de los cines¿, se cuelan como ninjas para hacer callar a las personas que arruinan con sus malos modales la experiencia del ir al cine.</desc>
-  </programme>
-  <programme start="20260923004100 -0300" stop="20260923005200 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">A ILHA</sub-title>
-    <desc lang="pt">Enquanto tentam ir de barco até o Japão, os bebês ursos ficam presos numa ilha. Por sorte, eles conhecem Dave e Karla, que os ajudam a sobreviver enquanto tentam uma fuga.</desc>
   </programme>
   <programme start="20260923004100 -0500" stop="20260923005400 -0500" channel="CNLA_PAN.co">
     <title lang="es">ESCANDALOSOS</title>
