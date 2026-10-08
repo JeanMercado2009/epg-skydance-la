@@ -1,4 +1,4 @@
-name: Actualización Diaria EPG Cartoon Network, Warner Channel y TNT
+name: Actualización Diaria EPG Warner Bros Skydance
 
 on:
   schedule:
@@ -44,6 +44,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No hay cambios nuevos en las grillas."
           else
-            git commit -m "Auto-update EPG CN, Warner Channel y TNT: $(date +'%Y-%m-%d %H:%M')"
+            git commit -m "Auto-update EPG WB Skydance: $(date +'%Y-%m-%d %H:%M')"
             git push
           fi
