@@ -18,193 +18,25 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
-  <programme start="20260925234200 -0600" stop="20260926011100 -0600" channel="TNT_MX.mx">
-    <title lang="es">MATAR O MORIR</title>
-    <desc lang="es">Clive Owen es Smith, un hombre solitario que, en una determinada noche, está sentado en una parada de colectivo cuando una mujer embarazada pasa corriendo, perseguida por un hombre con un arma. Él los sigue a los dos, le tira al hombre y, de repente, se ve en la posición de ayudar a la mujer a dar a luz en medio de un tiroteo. La madre termina siendo asesinada, pero nuestro héroe, decidido a salvar al bebé, logra escapar del líder de la pandilla, Hertz (Paul Giamatti). En un prostíbulo, conoce a Donna (Monica Bellucci), una mujer que acaba de perder a su bebé, a quien le pide que amamante al recién nacido. Pero la situación se complica y esa familia poco común que acaba de formarse al poco tiempo debe escapar. ¿Por qué quieren matar al bebé?</desc>
-  </programme>
-  <programme start="20260926010400 -0400" stop="20260926030900 -0400" channel="TNT_CL.cl">
-    <title lang="es">LOS CABALLEROS</title>
-  </programme>
-  <programme start="20260926011100 -0600" stop="20260926031100 -0600" channel="TNT_MX.mx">
-    <title lang="es">LOS CABALLEROS</title>
-  </programme>
-  <programme start="20260926011700 -0500" stop="20260926031300 -0500" channel="TNT_CO.co">
-    <title lang="es">LOS CABALLEROS</title>
-  </programme>
-  <programme start="20260926011700 -0500" stop="20260926031600 -0500" channel="TNT_PAN.co">
-    <title lang="es">LOS CABALLEROS</title>
-  </programme>
-  <programme start="20260926030200 -0300" stop="20260926044300 -0300" channel="TNT_AR.ar">
-    <title lang="es">FELIZ NOVEDAD</title>
-    <desc lang="es">Abby (Kristen Stewart) y Harper (Mackenzie Davis) llevan saliendo un año. Cuando Harper invita a Abby a la cena anual de Navidad con su familia, ella piensa que es el momento perfecto para proponerle matrimonio a Harper. Pero todo se complica cuando descubre que su pareja aún no ha salido del armario con sus padres y ambas deben fingir ser sólo compañeras de cuarto.</desc>
-  </programme>
-  <programme start="20260926030400 -0300" stop="20260926042700 -0300" channel="TNT_BR.br">
-    <title lang="pt">MANDANDO BALA</title>
-    <desc lang="pt">Clive Owen é Smith, um homem solitário que, certa noite, está sentado em um ponto de ônibus quando uma mulher grávida passa correndo, perseguida por um homem com uma arma. Ele segue os dois, atira no homem e, de repente, se vê na posição de ajudar a mulher a dar à luz no meio de um tiroteio. A mãe acaba sendo morta, mas o nosso herói, determinado a salvar a criança, consegue escapar do líder da gangue, Hertz (Paul Giamatti). Em uma casa de prostituição, ele conhece Donna (Monica Bellucci), uma mulher que acaba de perder um bebê, a quem ele pede para amamentar o recém-nascido. Mas a situação se complica e essa família um tanto incomum que acaba de se formar logo se vê em fuga. Por que querem matar o bebê?</desc>
-  </programme>
-  <programme start="20260926030900 -0400" stop="20260926045200 -0400" channel="TNT_CL.cl">
-    <title lang="es">FELIZ NOVEDAD</title>
-    <desc lang="es">Abby (Kristen Stewart) y Harper (Mackenzie Davis) llevan saliendo un año. Cuando Harper invita a Abby a la cena anual de Navidad con su familia, ella piensa que es el momento perfecto para proponerle matrimonio a Harper. Pero todo se complica cuando descubre que su pareja aún no ha salido del armario con sus padres y ambas deben fingir ser sólo compañeras de cuarto.</desc>
-  </programme>
-  <programme start="20260926031100 -0600" stop="20260926045500 -0600" channel="TNT_MX.mx">
-    <title lang="es">FELIZ NOVEDAD</title>
-    <desc lang="es">Abby (Kristen Stewart) y Harper (Mackenzie Davis) llevan saliendo un año. Cuando Harper invita a Abby a la cena anual de Navidad con su familia, ella piensa que es el momento perfecto para proponerle matrimonio a Harper. Pero todo se complica cuando descubre que su pareja aún no ha salido del armario con sus padres y ambas deben fingir ser sólo compañeras de cuarto.</desc>
-  </programme>
-  <programme start="20260926031300 -0500" stop="20260926045500 -0500" channel="TNT_CO.co">
-    <title lang="es">FELIZ NOVEDAD</title>
-    <desc lang="es">Abby (Kristen Stewart) y Harper (Mackenzie Davis) llevan saliendo un año. Cuando Harper invita a Abby a la cena anual de Navidad con su familia, ella piensa que es el momento perfecto para proponerle matrimonio a Harper. Pero todo se complica cuando descubre que su pareja aún no ha salido del armario con sus padres y ambas deben fingir ser sólo compañeras de cuarto.</desc>
-  </programme>
-  <programme start="20260926031600 -0500" stop="20260926045700 -0500" channel="TNT_PAN.co">
-    <title lang="es">FELIZ NOVEDAD</title>
-    <desc lang="es">Abby (Kristen Stewart) y Harper (Mackenzie Davis) llevan saliendo un año. Cuando Harper invita a Abby a la cena anual de Navidad con su familia, ella piensa que es el momento perfecto para proponerle matrimonio a Harper. Pero todo se complica cuando descubre que su pareja aún no ha salido del armario con sus padres y ambas deben fingir ser sólo compañeras de cuarto.</desc>
-  </programme>
-  <programme start="20260926042700 -0300" stop="20260926050100 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-  </programme>
-  <programme start="20260926044300 -0300" stop="20260926052100 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260926045200 -0400" stop="20260926052900 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260926045500 -0500" stop="20260926053100 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260926045500 -0600" stop="20260926053300 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260926045700 -0500" stop="20260926053200 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260926050100 -0300" stop="20260926051600 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260926051600 -0300" stop="20260926052400 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260926052100 -0300" stop="20260926060000 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260926052400 -0300" stop="20260926060000 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-  </programme>
-  <programme start="20260926052900 -0400" stop="20260926054100 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260926053100 -0500" stop="20260926054300 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260926053200 -0500" stop="20260926054500 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260926053300 -0600" stop="20260926054700 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260926054100 -0400" stop="20260926055400 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260926054300 -0500" stop="20260926060000 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260926054500 -0500" stop="20260926060000 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260926054700 -0600" stop="20260926060000 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260926055400 -0400" stop="20260926055600 -0400" channel="TNT_CL.cl">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260926055600 -0400" stop="20260926060000 -0400" channel="TNT_CL.cl">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260926060000 -0300" stop="20260926063600 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-  </programme>
-  <programme start="20260926060000 -0300" stop="20260926063700 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260926060000 -0400" stop="20260926063600 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260926060000 -0500" stop="20260926060300 -0500" channel="TNT_CO.co">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260926060000 -0500" stop="20260926063900 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
   <programme start="20260926060000 -0600" stop="20260926063800 -0600" channel="TNT_MX.mx">
     <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
   </programme>
-  <programme start="20260926060300 -0500" stop="20260926060400 -0500" channel="TNT_CO.co">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260926060400 -0500" stop="20260926064200 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260926063600 -0300" stop="20260926064400 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260926063600 -0400" stop="20260926071200 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260926063700 -0300" stop="20260926064700 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
   <programme start="20260926063800 -0600" stop="20260926065200 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260926063900 -0500" stop="20260926065700 -0500" channel="TNT_PAN.co">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
   </programme>
   <programme start="20260926064200 -0500" stop="20260926072500 -0500" channel="TNT_CO.co">
     <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
   </programme>
-  <programme start="20260926064400 -0300" stop="20260926065700 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260926064700 -0300" stop="20260926070200 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
   <programme start="20260926065200 -0600" stop="20260926070800 -0600" channel="TNT_MX.mx">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260926065700 -0300" stop="20260926070700 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260926065700 -0500" stop="20260926070500 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260926070200 -0300" stop="20260926085100 -0300" channel="TNT_AR.ar">
-    <title lang="es">17 OTRA VEZ</title>
-    <desc lang="es">¿Quién dice que sólo eres joven una vez? Zac Efron y Matthew Perry realmente piensan en Grande, en esta divertida comedia sobre un padre, ¡quien descubre que ha vuelto a cumplir 17 años!</desc>
   </programme>
   <programme start="20260926070500 -0500" stop="20260926085700 -0500" channel="TNT_PAN.co">
     <title lang="es">17 OTRA VEZ</title>
     <desc lang="es">¿Quién dice que sólo eres joven una vez? Zac Efron y Matthew Perry realmente piensan en Grande, en esta divertida comedia sobre un padre, ¡quien descubre que ha vuelto a cumplir 17 años!</desc>
   </programme>
-  <programme start="20260926070700 -0300" stop="20260926070900 -0300" channel="TNT_BR.br">
-    <title lang="pt">TNT BUZZ</title>
-  </programme>
   <programme start="20260926070800 -0600" stop="20260926091300 -0600" channel="TNT_MX.mx">
     <title lang="es">SÓLO PARA PAREJAS</title>
     <desc lang="es">Intentando salvar su matrimonio, Jason y Cynthia invitan a otras tres parejas a un encuentro en un resort ubicado en una isla tropical. Los otros están algo renuentes, pero aceptan, planeando divertirse mientras Jason y Cynthia hacen sus sesiones de terapia. Lamentablemente, para la sorpresa de todos, el paquete es inflexible: todas las parejas deberán participar en las actividades se quieren seguir en el resort.</desc>
-  </programme>
-  <programme start="20260926070900 -0300" stop="20260926071200 -0300" channel="TNT_BR.br">
-    <title lang="pt">TNT BUZZ</title>
-  </programme>
-  <programme start="20260926071200 -0300" stop="20260926090400 -0300" channel="TNT_BR.br">
-    <title lang="pt">17 OUTRA VEZ</title>
-    <desc lang="pt">Quem disse que só se é jovem uma vez? Zac Efron e Matthew Perry mudam o conceito de maturidade nesta hilária comédia adolescente em que um pai de meia idade volta aos seus 17 anos!</desc>
-  </programme>
-  <programme start="20260926071200 -0400" stop="20260926071500 -0400" channel="TNT_CL.cl">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260926071500 -0400" stop="20260926071700 -0400" channel="TNT_CL.cl">
-    <title lang="es">TNT BUZZ</title>
   </programme>
   <programme start="20260926071700 -0400" stop="20260926090700 -0400" channel="TNT_CL.cl">
     <title lang="es">17 OTRA VEZ</title>

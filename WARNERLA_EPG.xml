@@ -21,347 +21,32 @@
   <channel id="WARNER_MX.mx">
     <display-name>Warner Channel México</display-name>
   </channel>
-  <programme start="20260925220000 -0600" stop="20260926005900 -0600" channel="WARNER_MX.mx">
-    <title lang="es">Batman: El Caballero de la Noche Asciende</title>
-    <desc lang="es">Christopher Nolan regresa para completar la trilogía de Gotham que comenzó con Batman Begins y llegó a la estratósfera con la exitosa segunda parte, The Dark Knight. Marion Cotillard y Joseph Gordon-Levitt, de Inception, se unen al elenco junto con Anne Hathaway como Selina Kyle (alias Catwoman) y Tom Hardy como el poderoso villano, Bane. Christian Bale se apodera de la noche como el Caballero de la Noche, combatiendo el crimen y la corrupción con la ayuda de Michael Caine, Morgan Freeman y Gary Oldman.</desc>
-  </programme>
-  <programme start="20260926005900 -0600" stop="20260926011800 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926011800 -0600" stop="20260926014000 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926012600 -0500" stop="20260926014800 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926013800 -0500" stop="20260926020000 -0500" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926014000 -0600" stop="20260926020200 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926014800 -0500" stop="20260926020900 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926020000 -0500" stop="20260926022200 -0500" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926020200 -0600" stop="20260926022300 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926020900 -0500" stop="20260926023000 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926022200 -0500" stop="20260926024400 -0500" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926022300 -0600" stop="20260926024500 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926023000 -0500" stop="20260926025100 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926023100 -0400" stop="20260926025200 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926023100 -0400" stop="20260926025200 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926024400 -0500" stop="20260926030500 -0500" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926024500 -0600" stop="20260926030400 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926025100 -0500" stop="20260926031100 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926025200 -0400" stop="20260926031400 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926025200 -0400" stop="20260926031400 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926030400 -0600" stop="20260926032700 -0600" channel="WARNER_MX.mx">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926030500 -0500" stop="20260926032700 -0500" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260926031100 -0500" stop="20260926033400 -0500" channel="WARNER_AN.co">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926031400 -0400" stop="20260926033700 -0400" channel="WARNER_CL.cl">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926031400 -0400" stop="20260926033700 -0400" channel="WARNER_VE.ve">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926032700 -0500" stop="20260926035000 -0500" channel="WARNER_CO.co">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926032700 -0600" stop="20260926034900 -0600" channel="WARNER_MX.mx">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926033400 -0500" stop="20260926035600 -0500" channel="WARNER_AN.co">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926033600 -0300" stop="20260926035800 -0300" channel="WARNER_AR.ar">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926033700 -0300" stop="20260926035700 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE PROM EQUIVALENCY</sub-title>
-    <desc lang="pt">Quando os rapazes recriam a noite de formatura do colegial no telhado do prédio, Sheldon sente-se pressionado a fazer parte das tradições românticas.</desc>
-  </programme>
-  <programme start="20260926033700 -0400" stop="20260926035900 -0400" channel="WARNER_CL.cl">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926033700 -0400" stop="20260926035700 -0400" channel="WARNER_VE.ve">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926034900 -0600" stop="20260926041000 -0600" channel="WARNER_MX.mx">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926035000 -0500" stop="20260926041200 -0500" channel="WARNER_CO.co">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926035600 -0500" stop="20260926041900 -0500" channel="WARNER_AN.co">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926035700 -0300" stop="20260926041800 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE SEPTUM DEVIATION</sub-title>
-    <desc lang="pt">Quando  Leonard faz uma pequena cirurgia no nariz, Sheldon reage de forma exagerada. Enquanto isso, Howard e Bernadette tentam resolver suas diferenças frente ao iminente divórcio dos pais de Raj.</desc>
-  </programme>
-  <programme start="20260926035700 -0400" stop="20260926042000 -0400" channel="WARNER_VE.ve">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926035800 -0300" stop="20260926041900 -0300" channel="WARNER_AR.ar">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926035900 -0400" stop="20260926042200 -0400" channel="WARNER_CL.cl">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926041000 -0600" stop="20260926043200 -0600" channel="WARNER_MX.mx">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926041200 -0500" stop="20260926043500 -0500" channel="WARNER_CO.co">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926041800 -0300" stop="20260926043900 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE CHAMPAGNE REFLECTION</sub-title>
-    <desc lang="pt">Enquanto Sheldon grava o último episódio de Fun with Flags, Bernadette fica chocada quando Penny lhe conta o que seus colegas de trabalho sentem por ela.</desc>
-  </programme>
-  <programme start="20260926041900 -0300" stop="20260926044100 -0300" channel="WARNER_AR.ar">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926041900 -0500" stop="20260926044200 -0500" channel="WARNER_AN.co">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926042000 -0400" stop="20260926044300 -0400" channel="WARNER_VE.ve">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926042200 -0400" stop="20260926044500 -0400" channel="WARNER_CL.cl">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926043200 -0600" stop="20260926045500 -0600" channel="WARNER_MX.mx">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926043500 -0500" stop="20260926045800 -0500" channel="WARNER_CO.co">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926043900 -0300" stop="20260926045800 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE CLEAN ROOM INFILTRATION</sub-title>
-    <desc lang="pt">Leonard e Howard pedem ajuda a Raj para lidar com uma emergência no trabalho após se desentenderem por conta de uma quase tragédia na universidade.</desc>
-  </programme>
-  <programme start="20260926044100 -0300" stop="20260926050400 -0300" channel="WARNER_AR.ar">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926044200 -0500" stop="20260926050300 -0500" channel="WARNER_AN.co">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926044300 -0400" stop="20260926050400 -0400" channel="WARNER_VE.ve">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926044500 -0400" stop="20260926050800 -0400" channel="WARNER_CL.cl">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926045500 -0600" stop="20260926051700 -0600" channel="WARNER_MX.mx">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926045800 -0300" stop="20260926052000 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE SPACE PROBE DISINTEGRATION</sub-title>
-    <desc lang="pt">Quando os meninos finalmente concordam em fazer algo que as meninas gostam, Leonard e Sheldon se desentendem.</desc>
-  </programme>
-  <programme start="20260926045800 -0500" stop="20260926052100 -0500" channel="WARNER_CO.co">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926050300 -0500" stop="20260926052600 -0500" channel="WARNER_AN.co">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926050400 -0300" stop="20260926052600 -0300" channel="WARNER_AR.ar">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926050400 -0400" stop="20260926052700 -0400" channel="WARNER_VE.ve">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926050800 -0400" stop="20260926053100 -0400" channel="WARNER_CL.cl">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926051700 -0600" stop="20260926060000 -0600" channel="WARNER_MX.mx">
-    <title lang="es">The Pitt: Temporada 1</title>
-  </programme>
-  <programme start="20260926052000 -0300" stop="20260926055500 -0300" channel="WARNER_BR.br">
-    <title lang="pt">COBRA KAI: SEASON 4</title>
-    <sub-title lang="pt">Campos minados</sub-title>
-    <desc lang="pt">Daniel convida Anthony para o Miyagi-Do e descobre que não conhece o filho tão bem quanto imaginava. Miguel fica sabendo da verdade sobre Johnny e Carmen.</desc>
-  </programme>
-  <programme start="20260926052100 -0500" stop="20260926054400 -0500" channel="WARNER_CO.co">
-    <title lang="es">TWO AND A HALF MEN</title>
-  </programme>
-  <programme start="20260926052600 -0300" stop="20260926060000 -0300" channel="WARNER_AR.ar">
-    <title lang="es">SEARCH PARTY - TEMPORADA 4</title>
-  </programme>
-  <programme start="20260926052600 -0500" stop="20260926060000 -0500" channel="WARNER_AN.co">
-    <title lang="es">SEARCH PARTY - TEMPORADA 4</title>
-  </programme>
-  <programme start="20260926052700 -0400" stop="20260926060000 -0400" channel="WARNER_VE.ve">
-    <title lang="es">SEARCH PARTY - TEMPORADA 4</title>
-  </programme>
-  <programme start="20260926053100 -0400" stop="20260926054500 -0400" channel="WARNER_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260926054400 -0500" stop="20260926055600 -0500" channel="WARNER_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260926054500 -0400" stop="20260926060000 -0400" channel="WARNER_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260926055500 -0300" stop="20260926055800 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TNT BUZZ</title>
-  </programme>
-  <programme start="20260926055600 -0500" stop="20260926060000 -0500" channel="WARNER_CO.co">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260926055800 -0300" stop="20260926060000 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TNT BUZZ</title>
-  </programme>
-  <programme start="20260926060000 -0300" stop="20260926065000 -0300" channel="WARNER_AR.ar">
-    <title lang="es">COBRA KAI: SEASON 5</title>
-  </programme>
-  <programme start="20260926060000 -0300" stop="20260926060200 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TNT BUZZ</title>
-  </programme>
-  <programme start="20260926060000 -0400" stop="20260926062100 -0400" channel="WARNER_CL.cl">
-    <title lang="es">Corte Nocturna</title>
-    <desc lang="es">La jueza Abby Stone, hija del difunto Harry Stone, sigue los pasos de su padre, presidir el turno de noche de un juzgado de instrucción de Manhattan.</desc>
-  </programme>
-  <programme start="20260926060000 -0400" stop="20260926062100 -0400" channel="WARNER_VE.ve">
-    <title lang="es">Corte Nocturna</title>
-    <desc lang="es">La jueza Abby Stone, hija del difunto Harry Stone, sigue los pasos de su padre, presidir el turno de noche de un juzgado de instrucción de Manhattan.</desc>
-  </programme>
-  <programme start="20260926060000 -0500" stop="20260926060100 -0500" channel="WARNER_CO.co">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260926060000 -0500" stop="20260926065100 -0500" channel="WARNER_AN.co">
-    <title lang="es">COBRA KAI: SEASON 5</title>
-  </programme>
   <programme start="20260926060000 -0600" stop="20260926060700 -0600" channel="WARNER_MX.mx">
     <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260926060100 -0500" stop="20260926060300 -0500" channel="WARNER_CO.co">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260926060200 -0300" stop="20260926060500 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TNT BUZZ</title>
-  </programme>
-  <programme start="20260926060300 -0500" stop="20260926061800 -0500" channel="WARNER_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260926060500 -0300" stop="20260926063000 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">YES, MONSIGNOR</sub-title>
-    <desc lang="pt">Charlie encontra Lisa (atriz coadjuvante convidada DENISE RICHARDS), a mulher que ele pensava ser 'a escolhida' até que ela lhe conta que estava comprometida com outra pessoa. Ele fica louco para saber que o casamento dela não deu certo, apesar dele ter pleno conhecimento de que agora há outros obstáculos a vencer em seu possível relacionamento, um bebê (interpretado pela filha de Sheen e Richard na vida real, Sam, em sua primeira apresentação nas telas).</desc>
   </programme>
   <programme start="20260926060700 -0600" stop="20260926063100 -0600" channel="WARNER_MX.mx">
     <title lang="es">Corte Nocturna</title>
     <desc lang="es">La jueza Abby Stone, hija del difunto Harry Stone, sigue los pasos de su padre, presidir el turno de noche de un juzgado de instrucción de Manhattan.</desc>
   </programme>
-  <programme start="20260926061800 -0500" stop="20260926062500 -0500" channel="WARNER_CO.co">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260926062100 -0400" stop="20260926071500 -0400" channel="WARNER_CL.cl">
-    <title lang="es">COBRA KAI: SEASON 5</title>
-  </programme>
-  <programme start="20260926062100 -0400" stop="20260926071200 -0400" channel="WARNER_VE.ve">
-    <title lang="es">COBRA KAI: SEASON 5</title>
-  </programme>
-  <programme start="20260926062500 -0500" stop="20260926062700 -0500" channel="WARNER_CO.co">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
   <programme start="20260926062700 -0500" stop="20260926090500 -0500" channel="WARNER_CO.co">
     <title lang="es">La Caída de la Casa Blanca</title>
     <desc lang="es">John Cale viaja a Washington D.C. junto a su hija de 11 años, con quien tiene una relación conflictiva, para acudir a una entrevista laboral en la Casa Blanca, ya que quiere formar parte del Servicio Secreto y proteger al presidente James Sawyer. Finalmente no obtiene el trabajo, pero para no decepcionar a su hija, una apasionada de la política, le propone hacer un recorrido por la Casa Blanca. De repente, un grupo paramilitar toma el lugar, y John deberá encargarse de salvar el día.</desc>
   </programme>
-  <programme start="20260926063000 -0300" stop="20260926064000 -0300" channel="WARNER_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-  </programme>
   <programme start="20260926063100 -0600" stop="20260926072400 -0600" channel="WARNER_MX.mx">
     <title lang="es">COBRA KAI: SEASON 5</title>
   </programme>
-  <programme start="20260926064000 -0300" stop="20260926064200 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TNT BUZZ</title>
-  </programme>
-  <programme start="20260926064200 -0300" stop="20260926064400 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TNT BUZZ</title>
-  </programme>
-  <programme start="20260926064400 -0300" stop="20260926070500 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">THAT SALMON UNDER MY SWEATER</sub-title>
-    <desc lang="pt">Charlie escreve uma trilha sonora para um novo desenho animado baseado em uma das revistas em quadrinhos favoritas de Jake, mas Jake odeia a música. Percebendo que Jake conhece mais a respeito dos desenhos que ele, Charlie acaba pedindo algumas dicas para o seu sobrinho. Ao mesmo tempo, Rose convida Alan para um cinema e o surpreende com sua inteligência.</desc>
-  </programme>
-  <programme start="20260926065000 -0300" stop="20260926072000 -0300" channel="WARNER_AR.ar">
-    <title lang="es">COBRA KAI: SEASON 1</title>
-  </programme>
   <programme start="20260926065100 -0500" stop="20260926071800 -0500" channel="WARNER_AN.co">
-    <title lang="es">COBRA KAI: SEASON 1</title>
-  </programme>
-  <programme start="20260926070500 -0300" stop="20260926072900 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">LAST CHANCE TO SEE THOSE TATTOOS</sub-title>
-    <desc lang="pt">Charlie se surpreende quando Gail, uma mulher que ele conhece em um bar, o rejeita, porque leu na Internet sobre sua má fama com as mulheres. Mais tarde, Jake também menciona este site para o tio. Quando Charlie investiga o que há na internet, descobre que sua página se chama www.charlieharpercheiramal.com.</desc>
-  </programme>
-  <programme start="20260926071200 -0400" stop="20260926073900 -0400" channel="WARNER_VE.ve">
-    <title lang="es">COBRA KAI: SEASON 1</title>
-  </programme>
-  <programme start="20260926071500 -0400" stop="20260926074200 -0400" channel="WARNER_CL.cl">
     <title lang="es">COBRA KAI: SEASON 1</title>
   </programme>
   <programme start="20260926071800 -0500" stop="20260926074100 -0500" channel="WARNER_AN.co">
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
-  <programme start="20260926072000 -0300" stop="20260926073400 -0300" channel="WARNER_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
   <programme start="20260926072400 -0600" stop="20260926075400 -0600" channel="WARNER_MX.mx">
     <title lang="es">COBRA KAI: SEASON 1</title>
-  </programme>
-  <programme start="20260926072900 -0300" stop="20260926075300 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">LUNGFUL OF ALAN, A</sub-title>
-    <desc lang="pt">Jamie, a melhor amiga de Alan do colégio, vem visitá-lo em sua casa. Charlie só fazia zombar dela quando eram crianças, mas quando os irmãos vêem como ela está linda, os dois tentam conquistá-la. Entretanto Jamie tem outros planos.</desc>
   </programme>
   <programme start="20260926073400 -0300" stop="20260926095400 -0300" channel="WARNER_AR.ar">
     <title lang="es">La Caída de la Casa Blanca</title>
     <desc lang="es">John Cale viaja a Washington D.C. junto a su hija de 11 años, con quien tiene una relación conflictiva, para acudir a una entrevista laboral en la Casa Blanca, ya que quiere formar parte del Servicio Secreto y proteger al presidente James Sawyer. Finalmente no obtiene el trabajo, pero para no decepcionar a su hija, una apasionada de la política, le propone hacer un recorrido por la Casa Blanca. De repente, un grupo paramilitar toma el lugar, y John deberá encargarse de salvar el día.</desc>
-  </programme>
-  <programme start="20260926073900 -0400" stop="20260926080300 -0400" channel="WARNER_VE.ve">
-    <title lang="es">TWO AND A HALF MEN</title>
   </programme>
   <programme start="20260926074100 -0500" stop="20260926095800 -0500" channel="WARNER_AN.co">
     <title lang="es">La Caída de la Casa Blanca</title>
@@ -371,11 +56,6 @@
     <title lang="es">La Caída de la Casa Blanca</title>
     <desc lang="es">John Cale viaja a Washington D.C. junto a su hija de 11 años, con quien tiene una relación conflictiva, para acudir a una entrevista laboral en la Casa Blanca, ya que quiere formar parte del Servicio Secreto y proteger al presidente James Sawyer. Finalmente no obtiene el trabajo, pero para no decepcionar a su hija, una apasionada de la política, le propone hacer un recorrido por la Casa Blanca. De repente, un grupo paramilitar toma el lugar, y John deberá encargarse de salvar el día.</desc>
   </programme>
-  <programme start="20260926075300 -0300" stop="20260926081600 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">ZEJDZ ZMOICH WLOSOW (GET OFF MY HAIR)</sub-title>
-    <desc lang="pt">Quando um terremoto provoca grandes estragos no encanamento da casa de Judith, Alan a deixa morar com eles até que o problema seja resolvido, mesmo sabendo que Charlie não aprecia muito essa idéia. Depois de alguns dias, Charlie e Jake já não a agüentam mais, mas Alan aguenta. Aliás, ele percebe que sente ciúmes quando um homem vem buscá-la para sair. Por isso, decide viver na casa de Judith para não sofrer mais. Então, Charlie resolve procurar uma solução melhor: ele vai arranjar um encontro para o seu irmão com uma mulher bonita e muito jovem. Quando Judith vê Alan com a garota decide voltar para sua casa. Porém, para a má sorte de Charlie, Alan gostou muito da garota, assim, Charlie terá que continuar pagando os honorários da jovem, ou, pelos favores que ela estará prestando.</desc>
-  </programme>
   <programme start="20260926075400 -0600" stop="20260926081700 -0600" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
   </programme>
@@ -383,19 +63,9 @@
     <title lang="es">La Caída de la Casa Blanca</title>
     <desc lang="es">John Cale viaja a Washington D.C. junto a su hija de 11 años, con quien tiene una relación conflictiva, para acudir a una entrevista laboral en la Casa Blanca, ya que quiere formar parte del Servicio Secreto y proteger al presidente James Sawyer. Finalmente no obtiene el trabajo, pero para no decepcionar a su hija, una apasionada de la política, le propone hacer un recorrido por la Casa Blanca. De repente, un grupo paramilitar toma el lugar, y John deberá encargarse de salvar el día.</desc>
   </programme>
-  <programme start="20260926081600 -0300" stop="20260926084000 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE ANXIETY OPTIMIZATION</sub-title>
-    <desc lang="pt">Sheldon acha que seu estilo de vida confortável está o impedindo de progredir cientificamente. Assim, ele pede ajuda aos seus amigos para deixá-lo um trapo.</desc>
-  </programme>
   <programme start="20260926081700 -0600" stop="20260926103400 -0600" channel="WARNER_MX.mx">
     <title lang="es">La Caída de la Casa Blanca</title>
     <desc lang="es">John Cale viaja a Washington D.C. junto a su hija de 11 años, con quien tiene una relación conflictiva, para acudir a una entrevista laboral en la Casa Blanca, ya que quiere formar parte del Servicio Secreto y proteger al presidente James Sawyer. Finalmente no obtiene el trabajo, pero para no decepcionar a su hija, una apasionada de la política, le propone hacer un recorrido por la Casa Blanca. De repente, un grupo paramilitar toma el lugar, y John deberá encargarse de salvar el día.</desc>
-  </programme>
-  <programme start="20260926084000 -0300" stop="20260926090500 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE TROLL MANIFESTATION</sub-title>
-    <desc lang="pt">Quando um valentão online destrói o trabalho de física de Leonard e Sheldon, os rapazes se unem para derrubá-lo.</desc>
   </programme>
   <programme start="20260926090500 -0300" stop="20260926092700 -0300" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
