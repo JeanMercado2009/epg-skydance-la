@@ -18,28 +18,11 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
-  <programme start="20260928060000 -0300" stop="20260928074300 -0300" channel="TNT_BR.br">
-    <title lang="pt">A SOGRA</title>
-    <desc lang="pt">Após uma ausência de 15 anos, a diva Jane Fonda volta às telas nesta divertida comédia romântica co-estrelada por Jennifer Lopez e Michael Vartan. A série de tentativas fracassadas no amor não impediu Charlie (Lopez) de continuar procurando seu príncipe encantado. E ela finalmente parece ter encontrado o homem de sua vida: Dr Kevin Fields, bem-sucedido, inteligente, carinhoso, fiel e atraente. Perfeito. Até Charlie conhecer a sogra e se dar conta de que, para segurar o príncipe, terá de enfrentar a megera Viola Fields.</desc>
-  </programme>
-  <programme start="20260928060000 -0300" stop="20260928060100 -0300" channel="TNT_AR.ar">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928063400 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260928060000 -0500" stop="20260928060100 -0500" channel="TNT_CO.co">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
   <programme start="20260928060000 -0500" stop="20260928063700 -0500" channel="TNT_PAN.co">
     <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
   </programme>
   <programme start="20260928060000 -0600" stop="20260928060700 -0600" channel="TNT_MX.mx">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260928060100 -0300" stop="20260928073100 -0300" channel="TNT_AR.ar">
-    <title lang="es">#FBF</title>
-    <desc lang="es">Tras el divorcio de sus padres, el mayor deseo de Annie es volver a su escuela y a sus amigos en Nueva Jersey. Y cuando surge la oportunidad perfecta, arma un plan para hacer que se enamoren de nuevo, pero las cosas no son tan simples...</desc>
   </programme>
   <programme start="20260928060100 -0500" stop="20260928060800 -0500" channel="TNT_CO.co">
     <title lang="es">TNT BUZZ</title>

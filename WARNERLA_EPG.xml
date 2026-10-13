@@ -21,32 +21,11 @@
   <channel id="WARNER_MX.mx">
     <display-name>Warner Channel México</display-name>
   </channel>
-  <programme start="20260928060000 -0300" stop="20260928062500 -0300" channel="WARNER_AR.ar">
-    <title lang="es">Corte Nocturna</title>
-    <desc lang="es">La jueza Abby Stone, hija del difunto Harry Stone, sigue los pasos de su padre, presidir el turno de noche de un juzgado de instrucción de Manhattan.</desc>
-  </programme>
-  <programme start="20260928060000 -0300" stop="20260928061400 -0300" channel="WARNER_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928062200 -0400" channel="WARNER_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260928060000 -0400" stop="20260928062300 -0400" channel="WARNER_VE.ve">
-    <title lang="es">Corte Nocturna</title>
-    <desc lang="es">La jueza Abby Stone, hija del difunto Harry Stone, sigue los pasos de su padre, presidir el turno de noche de un juzgado de instrucción de Manhattan.</desc>
-  </programme>
-  <programme start="20260928060000 -0500" stop="20260928060100 -0500" channel="WARNER_CO.co">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
   <programme start="20260928060000 -0500" stop="20260928062800 -0500" channel="WARNER_AN.co">
     <title lang="es">COBRA KAI: SEASON 1</title>
   </programme>
   <programme start="20260928060000 -0600" stop="20260928061300 -0600" channel="WARNER_MX.mx">
     <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260928060100 -0500" stop="20260928060300 -0500" channel="WARNER_CO.co">
-    <title lang="es">TNT BUZZ</title>
   </programme>
   <programme start="20260928060300 -0500" stop="20260928062700 -0500" channel="WARNER_CO.co">
     <title lang="es">MIRACLE WORKERS</title>
@@ -55,23 +34,9 @@
     <title lang="es">Diario de una Pasión</title>
     <desc lang="es">En una residencia para ancianos, un hombre le relata una vieja historia de amor escrita en una libreta a una mujer que sufre demencia senil. A través de varias lecturas, ambos descubren la emotiva historia amorosa entre Noah y Allie, dos adolescentes que vivieron un intenso amor de verano. Pero la separación de los jóvenes no tardó en llegar: primero porque sus padres no aprobaban la relación por la gran brecha social que los distanciaba y más tarde, por el estallido de la Segunda Guerra Mundial. A partir de ese momento, los adolescentes tomaron caminos diferentes, pero nunca perdieron la esperanza de que el destino decida juntarlos nuevamente.</desc>
   </programme>
-  <programme start="20260928061400 -0300" stop="20260928063600 -0300" channel="WARNER_BR.br">
-    <title lang="pt">MIRACLE WORKERS</title>
-    <sub-title lang="pt">3 DAYS</sub-title>
-    <desc lang="pt">Rosie se encontra com um concorrente enquanto Craig, Eliza e Sanjay tentam enganar Deus.</desc>
-  </programme>
-  <programme start="20260928062200 -0400" stop="20260928062300 -0400" channel="WARNER_CL.cl">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
   <programme start="20260928062300 -0400" stop="20260928083200 -0400" channel="WARNER_CL.cl">
     <title lang="es">Diario de una Pasión</title>
     <desc lang="es">En una residencia para ancianos, un hombre le relata una vieja historia de amor escrita en una libreta a una mujer que sufre demencia senil. A través de varias lecturas, ambos descubren la emotiva historia amorosa entre Noah y Allie, dos adolescentes que vivieron un intenso amor de verano. Pero la separación de los jóvenes no tardó en llegar: primero porque sus padres no aprobaban la relación por la gran brecha social que los distanciaba y más tarde, por el estallido de la Segunda Guerra Mundial. A partir de ese momento, los adolescentes tomaron caminos diferentes, pero nunca perdieron la esperanza de que el destino decida juntarlos nuevamente.</desc>
-  </programme>
-  <programme start="20260928062300 -0400" stop="20260928065500 -0400" channel="WARNER_VE.ve">
-    <title lang="es">COBRA KAI: SEASON 1</title>
-  </programme>
-  <programme start="20260928062500 -0300" stop="20260928062700 -0300" channel="WARNER_AR.ar">
-    <title lang="es">TNT BUZZ</title>
   </programme>
   <programme start="20260928062700 -0300" stop="20260928083200 -0300" channel="WARNER_AR.ar">
     <title lang="es">Diario de una Pasión</title>
@@ -86,11 +51,6 @@
   </programme>
   <programme start="20260928063400 -0500" stop="20260928063700 -0500" channel="WARNER_CO.co">
     <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260928063600 -0300" stop="20260928065700 -0300" channel="WARNER_BR.br">
-    <title lang="pt">MIRACLE WORKERS</title>
-    <sub-title lang="pt">1 DAY</sub-title>
-    <desc lang="pt">Deus se encontra com potenciais investidores para seu novo restaurante inovador.</desc>
   </programme>
   <programme start="20260928063700 -0500" stop="20260928064100 -0500" channel="WARNER_CO.co">
     <title lang="es">TNT BUZZ</title>

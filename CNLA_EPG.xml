@@ -6,11 +6,6 @@
   <channel id="CNLA_BR.br">
     <display-name>Cartoon Network Brasil</display-name>
   </channel>
-  <programme start="20260928060000 -0300" stop="20260928061200 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">PESCANDO</sub-title>
-    <desc lang="pt">Durante uma pescaria, os Ursos são atacados por um lendário peixe gigante.</desc>
-  </programme>
   <programme start="20260928060000 -0500" stop="20260928061100 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">Alan es tan bueno que Gumball se muere por hacerle perder los estribos. A pesar de que pone a toda la escuela en su contra, destruye su relación con Carmen y hasta vende a sus padres, Alan sigue comprensivo y feliz. Derrotados, Gumball y Darwin deciden adoptar la actitud positiva de Alan para ver si pueden parecerse más a él.</desc>
@@ -19,84 +14,35 @@
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">No pasa gran cosa con Gumball y Darwin, así que los personajes secundarios de Elmore aprovechan la oportunidad. Diversos personajes secundarios en los que quizá hayan reparado durante las aventuras de Gumball y Darwin por fin se hacen oír.  Veremos una serie de situaciones que incluyen unos extras de un partido de tenis, dos pizzas enamoradas y el Hombre del Tocino.</desc>
   </programme>
-  <programme start="20260928061200 -0300" stop="20260928062300 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <desc lang="pt">Os Bebês Urso participam de um torneio mexicano de luta.</desc>
-  </programme>
-  <programme start="20260928062300 -0300" stop="20260928063500 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">A MALDIÇÃO DA MÚMIA</sub-title>
-    <desc lang="pt">Os Bebês Ursos deverão devolver uma múmia à sua tumba antes que sejam amaldiçoados para sempre.</desc>
-  </programme>
   <programme start="20260928062300 -0500" stop="20260928063600 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">Un paquete misterioso aparece en la casa de los Watterson, y la familia se esfuerza por contenerse de abrirlo.</desc>
-  </programme>
-  <programme start="20260928063500 -0300" stop="20260928064700 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">HOTEL DE CACHORRO</sub-title>
-    <desc lang="pt">Sem ter onde ficar enquanto sua caverna é dedetizada, os ursos fazem uma reserva num hotel para cachorros.</desc>
   </programme>
   <programme start="20260928063600 -0500" stop="20260928065000 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">Clayton se transforma en otras personas para intercambiar su tiempo de detención por dinero. Comienza a tender trampas a la gente para hacer que parezca que cometieron delitos. Gumball y Darwin deben localizarlo para detenerlo.</desc>
   </programme>
-  <programme start="20260928064700 -0300" stop="20260928065800 -0300" channel="CNLA_BR.br">
-    <title lang="pt">URSOS SEM CURSO</title>
-    <sub-title lang="pt">O CARA DA GRANA</sub-title>
-    <desc lang="pt">Os Ursos ajudam Chloe a apresentar seu projeto num concurso universitário de ciências. Mas as rivais dela tornam as coisas difíceis.</desc>
-  </programme>
   <programme start="20260928065000 -0500" stop="20260928070100 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
     <desc lang="es">Los niños descubren que Papá se ha vestido como una mujer para conocer amigos.</desc>
-  </programme>
-  <programme start="20260928065800 -0300" stop="20260928070900 -0300" channel="CNLA_BR.br">
-    <title lang="pt">IRMÃO DO JOREL</title>
-    <sub-title lang="pt">O FENOMENAL CAPACETE COM RODINHAS</sub-title>
-    <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
   </programme>
   <programme start="20260928070100 -0500" stop="20260928071200 -0500" channel="CNLA_PAN.co">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, ¿pero qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
   </programme>
-  <programme start="20260928070900 -0300" stop="20260928072100 -0300" channel="CNLA_BR.br">
-    <title lang="pt">IRMÃO DO JOREL</title>
-    <sub-title lang="pt">CLUBE DA LUTA LIVRE</sub-title>
-    <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
-  </programme>
   <programme start="20260928071200 -0500" stop="20260928072500 -0500" channel="CNLA_PAN.co">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <desc lang="es">Cuando las nalgas de Robin se le salen de tanto bailar, los Titanes deben embarcarse en una aventura para recuperar el trasero perdido.</desc>
-  </programme>
-  <programme start="20260928072100 -0300" stop="20260928073200 -0300" channel="CNLA_BR.br">
-    <title lang="pt">IRMÃO DO JOREL</title>
-    <sub-title lang="pt">A HISTÓRIA SEM COMEÇO MEIO E FIM</sub-title>
-    <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
   </programme>
   <programme start="20260928072500 -0500" stop="20260928073600 -0500" channel="CNLA_PAN.co">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, ¿pero qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
   </programme>
-  <programme start="20260928073200 -0300" stop="20260928074400 -0300" channel="CNLA_BR.br">
-    <title lang="pt">IRMÃO DO JOREL</title>
-    <sub-title lang="pt">ROSTO DA EXPRESSIVIDADE MÁXIMA</sub-title>
-    <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
-  </programme>
   <programme start="20260928073600 -0500" stop="20260928074900 -0500" channel="CNLA_PAN.co">
     <title lang="es">Escandalositos</title>
   </programme>
-  <programme start="20260928074400 -0300" stop="20260928075500 -0300" channel="CNLA_BR.br">
-    <title lang="pt">IRMÃO DO JOREL</title>
-    <sub-title lang="pt">NATUREZA TOTALMENTE SELVAGEM</sub-title>
-    <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
-  </programme>
   <programme start="20260928074900 -0500" stop="20260928080000 -0500" channel="CNLA_PAN.co">
     <title lang="es">Escandalositos</title>
-  </programme>
-  <programme start="20260928075500 -0300" stop="20260928080700 -0300" channel="CNLA_BR.br">
-    <title lang="pt">IRMÃO DO JOREL</title>
-    <sub-title lang="pt">GINCANA MORTAL</sub-title>
-    <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
   </programme>
   <programme start="20260928080000 -0500" stop="20260928081200 -0500" channel="CNLA_PAN.co">
     <title lang="es">ESCANDALOSOS</title>
