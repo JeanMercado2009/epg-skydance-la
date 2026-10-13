@@ -18,83 +18,6 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
-  <programme start="20260928060000 -0500" stop="20260928063700 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260928060000 -0600" stop="20260928060700 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260928060100 -0500" stop="20260928060800 -0500" channel="TNT_CO.co">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260928060700 -0600" stop="20260928064600 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260928060800 -0500" stop="20260928061600 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260928061600 -0500" stop="20260928065600 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260928063400 -0400" stop="20260928071300 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260928063700 -0500" stop="20260928063900 -0500" channel="TNT_PAN.co">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260928063900 -0500" stop="20260928080900 -0500" channel="TNT_PAN.co">
-    <title lang="es">#FBF</title>
-    <desc lang="es">Tras el divorcio de sus padres, el mayor deseo de Annie es volver a su escuela y a sus amigos en Nueva Jersey. Y cuando surge la oportunidad perfecta, arma un plan para hacer que se enamoren de nuevo, pero las cosas no son tan simples...</desc>
-  </programme>
-  <programme start="20260928064600 -0600" stop="20260928081400 -0600" channel="TNT_MX.mx">
-    <title lang="es">#FBF</title>
-    <desc lang="es">Tras el divorcio de sus padres, el mayor deseo de Annie es volver a su escuela y a sus amigos en Nueva Jersey. Y cuando surge la oportunidad perfecta, arma un plan para hacer que se enamoren de nuevo, pero las cosas no son tan simples...</desc>
-  </programme>
-  <programme start="20260928065600 -0500" stop="20260928073900 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-  </programme>
-  <programme start="20260928071300 -0400" stop="20260928073100 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-  </programme>
-  <programme start="20260928073100 -0300" stop="20260928091900 -0300" channel="TNT_AR.ar">
-    <title lang="es">UNA SUEGRA DE CUIDADO</title>
-    <desc lang="es">Charlie (Jennifer Lopez) por fin encontró al hombre de sus sueños en Kevin (Kevin Vartan). Por desgracia, su futura suegra, Viola (Jane Fonda), es una pesadilla hecha realidad. Viola, recientemente despedida de su puesto como reconocida presentadora de noticias, teme perder a su hijo así como perdió su empleo, y no ahorrará recursos para espantar a la prometida de Kevin. Con la ayuda de su leal asistente (Wanda Sykes) pondrá en marcha toda clase de artimañas, pero Charlie está decidida a darle pelea.</desc>
-  </programme>
-  <programme start="20260928073100 -0400" stop="20260928073200 -0400" channel="TNT_CL.cl">
-    <title lang="es">TNT BUZZ</title>
-  </programme>
-  <programme start="20260928073200 -0400" stop="20260928092000 -0400" channel="TNT_CL.cl">
-    <title lang="es">UNA SUEGRA DE CUIDADO</title>
-    <desc lang="es">Charlie (Jennifer Lopez) por fin encontró al hombre de sus sueños en Kevin (Kevin Vartan). Por desgracia, su futura suegra, Viola (Jane Fonda), es una pesadilla hecha realidad. Viola, recientemente despedida de su puesto como reconocida presentadora de noticias, teme perder a su hijo así como perdió su empleo, y no ahorrará recursos para espantar a la prometida de Kevin. Con la ayuda de su leal asistente (Wanda Sykes) pondrá en marcha toda clase de artimañas, pero Charlie está decidida a darle pelea.</desc>
-  </programme>
-  <programme start="20260928073900 -0500" stop="20260928092800 -0500" channel="TNT_CO.co">
-    <title lang="es">UNA SUEGRA DE CUIDADO</title>
-    <desc lang="es">Charlie (Jennifer Lopez) por fin encontró al hombre de sus sueños en Kevin (Kevin Vartan). Por desgracia, su futura suegra, Viola (Jane Fonda), es una pesadilla hecha realidad. Viola, recientemente despedida de su puesto como reconocida presentadora de noticias, teme perder a su hijo así como perdió su empleo, y no ahorrará recursos para espantar a la prometida de Kevin. Con la ayuda de su leal asistente (Wanda Sykes) pondrá en marcha toda clase de artimañas, pero Charlie está decidida a darle pelea.</desc>
-  </programme>
-  <programme start="20260928074300 -0300" stop="20260928081800 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-  </programme>
-  <programme start="20260928080900 -0500" stop="20260928095400 -0500" channel="TNT_PAN.co">
-    <title lang="es">UNA SUEGRA DE CUIDADO</title>
-    <desc lang="es">Charlie (Jennifer Lopez) por fin encontró al hombre de sus sueños en Kevin (Kevin Vartan). Por desgracia, su futura suegra, Viola (Jane Fonda), es una pesadilla hecha realidad. Viola, recientemente despedida de su puesto como reconocida presentadora de noticias, teme perder a su hijo así como perdió su empleo, y no ahorrará recursos para espantar a la prometida de Kevin. Con la ayuda de su leal asistente (Wanda Sykes) pondrá en marcha toda clase de artimañas, pero Charlie está decidida a darle pelea.</desc>
-  </programme>
-  <programme start="20260928081400 -0600" stop="20260928100000 -0600" channel="TNT_MX.mx">
-    <title lang="es">UNA SUEGRA DE CUIDADO</title>
-    <desc lang="es">Charlie (Jennifer Lopez) por fin encontró al hombre de sus sueños en Kevin (Kevin Vartan). Por desgracia, su futura suegra, Viola (Jane Fonda), es una pesadilla hecha realidad. Viola, recientemente despedida de su puesto como reconocida presentadora de noticias, teme perder a su hijo así como perdió su empleo, y no ahorrará recursos para espantar a la prometida de Kevin. Con la ayuda de su leal asistente (Wanda Sykes) pondrá en marcha toda clase de artimañas, pero Charlie está decidida a darle pelea.</desc>
-  </programme>
-  <programme start="20260928081800 -0300" stop="20260928103000 -0300" channel="TNT_BR.br">
-    <title lang="pt">O Contador</title>
-    <desc lang="pt">Christian Wolff é um contador matemático e portador da Síndrome de Asperger, um autismo de alto funcionamento. Usando sua excelente habilidade para lidar com os números, ao contrário daquela em lidar com as pessoas ao seu redor, Chris também presta serviços como freelancer num escritório de uma pequena cidade. No entanto, o local é a sede de uma das mais perigosas organizações criminosas já existentes. Durante um dia normal de trabalho, o jovem desvenda códigos encontrados em livros e descobre uma série de registros fraudados, algo somado em dezenas de milhões de dólares. Por causa de sua grande descoberta, ele coloca Dana, sua entusiasmada colega de trabalho, e a si mesmo em um enorme perigo.</desc>
-  </programme>
-  <programme start="20260928091900 -0300" stop="20260928114600 -0300" channel="TNT_AR.ar">
-    <title lang="es">HARRY POTTER Y EL PRISIONERO DE AZKABAN</title>
-    <desc lang="es">Un verano más con los Dursley para Harry Potter (Daniel Radcliffe), que con  13 años ha perdido la paciencia a sus insoportables parientes. Así que, cuando llega de visita la tía Marge (Pam Ferris), no tiene mejor idea que hacer un truco que la mandá a volar, literalmente. Así que no le queda otra que huir, para evitar una serie de reprimendas. Primero sube al autobús Noc-támbulo, que lo lleva al pub del Caldero Chorreante, donde es recibido por el Ministro Cornelius Fudge (Robert Hardy), quien no lo castiga por haber usado su magia fuera de la escuela, sino que lo invita a pasar la noche en el lugar. ¿La razón? Resguardarlo del peligroso y enigmático mago Sirius Black (Gary Oldman), quien ha escapado de la Prisión de Azkaban y ahora busca a Harry para... ¿matarlo? El mejor lugar para ocultarse para estar en Hogwarts, pero allí se alojan también los aterradores guardas de Azkaban, los Dementores, que no lo dejarán tranquilo.</desc>
-  </programme>
-  <programme start="20260928092000 -0400" stop="20260928115000 -0400" channel="TNT_CL.cl">
-    <title lang="es">HARRY POTTER Y EL PRISIONERO DE AZKABAN</title>
-    <desc lang="es">Un verano más con los Dursley para Harry Potter (Daniel Radcliffe), que con  13 años ha perdido la paciencia a sus insoportables parientes. Así que, cuando llega de visita la tía Marge (Pam Ferris), no tiene mejor idea que hacer un truco que la mandá a volar, literalmente. Así que no le queda otra que huir, para evitar una serie de reprimendas. Primero sube al autobús Noc-támbulo, que lo lleva al pub del Caldero Chorreante, donde es recibido por el Ministro Cornelius Fudge (Robert Hardy), quien no lo castiga por haber usado su magia fuera de la escuela, sino que lo invita a pasar la noche en el lugar. ¿La razón? Resguardarlo del peligroso y enigmático mago Sirius Black (Gary Oldman), quien ha escapado de la Prisión de Azkaban y ahora busca a Harry para... ¿matarlo? El mejor lugar para ocultarse para estar en Hogwarts, pero allí se alojan también los aterradores guardas de Azkaban, los Dementores, que no lo dejarán tranquilo.</desc>
-  </programme>
   <programme start="20260928092800 -0500" stop="20260928115200 -0500" channel="TNT_CO.co">
     <title lang="es">HARRY POTTER Y EL PRISIONERO DE AZKABAN</title>
     <desc lang="es">Un verano más con los Dursley para Harry Potter (Daniel Radcliffe), que con  13 años ha perdido la paciencia a sus insoportables parientes. Así que, cuando llega de visita la tía Marge (Pam Ferris), no tiene mejor idea que hacer un truco que la mandá a volar, literalmente. Así que no le queda otra que huir, para evitar una serie de reprimendas. Primero sube al autobús Noc-támbulo, que lo lleva al pub del Caldero Chorreante, donde es recibido por el Ministro Cornelius Fudge (Robert Hardy), quien no lo castiga por haber usado su magia fuera de la escuela, sino que lo invita a pasar la noche en el lugar. ¿La razón? Resguardarlo del peligroso y enigmático mago Sirius Black (Gary Oldman), quien ha escapado de la Prisión de Azkaban y ahora busca a Harry para... ¿matarlo? El mejor lugar para ocultarse para estar en Hogwarts, pero allí se alojan también los aterradores guardas de Azkaban, los Dementores, que no lo dejarán tranquilo.</desc>
@@ -107,21 +30,6 @@
     <title lang="es">HARRY POTTER Y EL PRISIONERO DE AZKABAN</title>
     <desc lang="es">Un verano más con los Dursley para Harry Potter (Daniel Radcliffe), que con  13 años ha perdido la paciencia a sus insoportables parientes. Así que, cuando llega de visita la tía Marge (Pam Ferris), no tiene mejor idea que hacer un truco que la mandá a volar, literalmente. Así que no le queda otra que huir, para evitar una serie de reprimendas. Primero sube al autobús Noc-támbulo, que lo lleva al pub del Caldero Chorreante, donde es recibido por el Ministro Cornelius Fudge (Robert Hardy), quien no lo castiga por haber usado su magia fuera de la escuela, sino que lo invita a pasar la noche en el lugar. ¿La razón? Resguardarlo del peligroso y enigmático mago Sirius Black (Gary Oldman), quien ha escapado de la Prisión de Azkaban y ahora busca a Harry para... ¿matarlo? El mejor lugar para ocultarse para estar en Hogwarts, pero allí se alojan también los aterradores guardas de Azkaban, los Dementores, que no lo dejarán tranquilo.</desc>
   </programme>
-  <programme start="20260928103000 -0300" stop="20260928105700 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">MOÇA LEGAL</sub-title>
-    <desc lang="pt">Will quer provar que é responsável o suficiente para pegar o carro da família emprestado. Mas quase entra em apuros ao acompanhar a filha adolescente de um lorde britânico à ópera.</desc>
-  </programme>
-  <programme start="20260928105700 -0300" stop="20260928112400 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">AMOR À PRIMEIRA BRIGA</sub-title>
-    <desc lang="pt">Quando Will começa a namorar uma aluna de Vivian (Jasmine Guy), as notas dela despencam, e ela corre o risco de perder a bolsa de estudos.</desc>
-  </programme>
-  <programme start="20260928112400 -0300" stop="20260928115200 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">BANKS SHOT</sub-title>
-    <desc lang="pt">Will é enganado em um salão de bilhar e quase perde o Mercedes da família, mas Philip o salva.</desc>
-  </programme>
   <programme start="20260928114600 -0300" stop="20260928143300 -0300" channel="TNT_AR.ar">
     <title lang="es">HARRY POTTER Y EL CÁLIZ DE FUEGO</title>
     <desc lang="es">Harry Potter regresa a Hogwarts por cuarto año consecutivo, y el Torneo de los Tres Magos, una competencia entre tres famosas escuelas de magia, está a punto de comenzar. El candidato de cada escuela es elegido por el cáliz de fuego, y todo el mundo se sorprende cuando Harry, quien es aun muy joven para participar, es incluido entre los competidores. El joven mago deberá enfrentarse al peligro para superar los numerosos desafíos que pondrán en riesgo su vida, mientras su lucha contra el lado oscuro continúa, tras la reaparición de Lord Voldemort.</desc>
@@ -130,19 +38,9 @@
     <title lang="es">HARRY POTTER Y EL CÁLIZ DE FUEGO</title>
     <desc lang="es">Harry Potter regresa a Hogwarts por cuarto año consecutivo, y el Torneo de los Tres Magos, una competencia entre tres famosas escuelas de magia, está a punto de comenzar. El candidato de cada escuela es elegido por el cáliz de fuego, y todo el mundo se sorprende cuando Harry, quien es aun muy joven para participar, es incluido entre los competidores. El joven mago deberá enfrentarse al peligro para superar los numerosos desafíos que pondrán en riesgo su vida, mientras su lucha contra el lado oscuro continúa, tras la reaparición de Lord Voldemort.</desc>
   </programme>
-  <programme start="20260928115200 -0300" stop="20260928121800 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">72 HORAS</sub-title>
-    <desc lang="pt">Decidido a provar que é igual ao primo, Carlton aceita o desafio de Will: passar dois dias em um bairro violento de Los Angeles.</desc>
-  </programme>
   <programme start="20260928115200 -0500" stop="20260928144000 -0500" channel="TNT_CO.co">
     <title lang="es">HARRY POTTER Y EL CÁLIZ DE FUEGO</title>
     <desc lang="es">Harry Potter regresa a Hogwarts por cuarto año consecutivo, y el Torneo de los Tres Magos, una competencia entre tres famosas escuelas de magia, está a punto de comenzar. El candidato de cada escuela es elegido por el cáliz de fuego, y todo el mundo se sorprende cuando Harry, quien es aun muy joven para participar, es incluido entre los competidores. El joven mago deberá enfrentarse al peligro para superar los numerosos desafíos que pondrán en riesgo su vida, mientras su lucha contra el lado oscuro continúa, tras la reaparición de Lord Voldemort.</desc>
-  </programme>
-  <programme start="20260928121800 -0300" stop="20260928124000 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA O DIA DAS MÃES</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
   </programme>
   <programme start="20260928121800 -0500" stop="20260928145400 -0500" channel="TNT_PAN.co">
     <title lang="es">HARRY POTTER Y EL CÁLIZ DE FUEGO</title>
@@ -151,11 +49,6 @@
   <programme start="20260928122300 -0600" stop="20260928150300 -0600" channel="TNT_MX.mx">
     <title lang="es">HARRY POTTER Y EL CÁLIZ DE FUEGO</title>
     <desc lang="es">Harry Potter regresa a Hogwarts por cuarto año consecutivo, y el Torneo de los Tres Magos, una competencia entre tres famosas escuelas de magia, está a punto de comenzar. El candidato de cada escuela es elegido por el cáliz de fuego, y todo el mundo se sorprende cuando Harry, quien es aun muy joven para participar, es incluido entre los competidores. El joven mago deberá enfrentarse al peligro para superar los numerosos desafíos que pondrán en riesgo su vida, mientras su lucha contra el lado oscuro continúa, tras la reaparición de Lord Voldemort.</desc>
-  </programme>
-  <programme start="20260928124000 -0300" stop="20260928130300 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">TODO MUNDO ODEIA O PRIMEIRO BEIJO</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
   </programme>
   <programme start="20260928130300 -0300" stop="20260928132600 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
@@ -5628,5 +5521,553 @@ Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consag
   <programme start="20261011055700 -0400" stop="20261011060000 -0400" channel="TNT_CL.cl">
     <title lang="es">TNT BUZZ</title>
     <episode-num system="xmltv_ns">14.73.</episode-num>
+  </programme>
+  <programme start="20261013060000 -0300" stop="20261013063500 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.13.</episode-num>
+  </programme>
+  <programme start="20261013060000 -0300" stop="20261013061200 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <episode-num system="xmltv_ns">-1.34.</episode-num>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+  </programme>
+  <programme start="20261013060000 -0400" stop="20261013063700 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.14.</episode-num>
+  </programme>
+  <programme start="20261013060000 -0500" stop="20261013060900 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <episode-num system="xmltv_ns">-1.24.</episode-num>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+  </programme>
+  <programme start="20261013060000 -0500" stop="20261013063500 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.12.</episode-num>
+  </programme>
+  <programme start="20261013060000 -0600" stop="20261013074900 -0600" channel="TNT_MX.mx">
+    <title lang="es">FUGA DE PRETORIA</title>
+    <sub-title lang="es">ESCAPE FROM PRETORIA</sub-title>
+    <desc lang="es">La extraordinaria historia real de dos hombres sudafricanos blancos catalogados terroristas y encarcelados en 1978 por su participación en operaciones encubiertas anti-apartheid. Juntos deciden escapar de la prisión de máxima seguridad de Pretoria.</desc>
+  </programme>
+  <programme start="20261013060900 -0500" stop="20261013062400 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <episode-num system="xmltv_ns">-1.25.</episode-num>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+  </programme>
+  <programme start="20261013061200 -0300" stop="20261013080900 -0300" channel="TNT_AR.ar">
+    <title lang="es">CENICIENTA</title>
+    <sub-title lang="es">CINDERELLA</sub-title>
+    <desc lang="es">En esta versión musical moderna, Ella (Camila Cabello) no sueña con un príncipe, sino con cumplir su propio destino como diseñadora de moda. Con la ayuda del mágico Fab G (Billy Porter), desafiará las reglas, enfrentará a su madrastra y descubrirá que creer en uno mismo puede cambiarlo todo.</desc>
+  </programme>
+  <programme start="20261013062400 -0500" stop="20261013063200 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <episode-num system="xmltv_ns">-1.32.</episode-num>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+  </programme>
+  <programme start="20261013063200 -0500" stop="20261013081900 -0500" channel="TNT_CO.co">
+    <title lang="es">PETER PAN</title>
+    <sub-title lang="es">PAN</sub-title>
+    <desc lang="es">Peter es un travieso niño de 12 años que vivió toda su vida en un deprimente orfanato londinense. Una noche, Peter es llevado mágicamente del orfanato a un mundo fantástico de piratas, guerreros y hadas llamado Nunca Jamás. Junto a la guerrera Tiger Lily y un nuevo amigo llamado James Garfio, Peter deberá derrotar al despiadado pirata Barnanegra para salvar la tierra de Nunca Jamás y descubrir su verdadero destino: convertirse en el héroe que será conocido por siempre como Peter Pan.</desc>
+  </programme>
+  <programme start="20261013063500 -0300" stop="20261013080800 -0300" channel="TNT_BR.br">
+    <title lang="pt">Turbo</title>
+    <desc lang="pt">Theo é um pequeno caracol de jardim obcecado por velocidade e corridas de carros. Mas depois que um estranho acidente lhe dá supervelocidade, Theo (agora apelidado de Turbo) percebe que seus sonhos estão finalmente ao seu alcance, e embarca em uma aventura extraordinária com seus amigos para vencer as 500 milhas de Indianapolis.</desc>
+  </programme>
+  <programme start="20261013063500 -0500" stop="20261013083300 -0500" channel="TNT_PAN.co">
+    <title lang="es">PETER PAN</title>
+    <sub-title lang="es">PAN</sub-title>
+    <desc lang="es">Peter es un travieso niño de 12 años que vivió toda su vida en un deprimente orfanato londinense. Una noche, Peter es llevado mágicamente del orfanato a un mundo fantástico de piratas, guerreros y hadas llamado Nunca Jamás. Junto a la guerrera Tiger Lily y un nuevo amigo llamado James Garfio, Peter deberá derrotar al despiadado pirata Barnanegra para salvar la tierra de Nunca Jamás y descubrir su verdadero destino: convertirse en el héroe que será conocido por siempre como Peter Pan.</desc>
+  </programme>
+  <programme start="20261013063700 -0400" stop="20261013071400 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.13.</episode-num>
+  </programme>
+  <programme start="20261013071400 -0400" stop="20261013091500 -0400" channel="TNT_CL.cl">
+    <title lang="es">CENICIENTA</title>
+    <sub-title lang="es">CINDERELLA</sub-title>
+    <desc lang="es">En esta versión musical moderna, Ella (Camila Cabello) no sueña con un príncipe, sino con cumplir su propio destino como diseñadora de moda. Con la ayuda del mágico Fab G (Billy Porter), desafiará las reglas, enfrentará a su madrastra y descubrirá que creer en uno mismo puede cambiarlo todo.</desc>
+  </programme>
+  <programme start="20261013074900 -0600" stop="20261013093000 -0600" channel="TNT_MX.mx">
+    <title lang="es">TROLLS</title>
+    <desc lang="es">Ahora que Poppy sabe que hay otros trolls musicales esparcidos por el bosque, reprime su infinita positividad e invita a los delegados de todas las tribus trols del bosque a vivir juntos en armonía en un gran experimento que ella llama TrollsTopia.</desc>
+  </programme>
+  <programme start="20261013080800 -0300" stop="20261013094400 -0300" channel="TNT_BR.br">
+    <title lang="pt">Trolls</title>
+    <desc lang="pt">Do estúdio por trás de Shrek, Madagascar e Kung Fu Panda, chega uma comédia inteligente, divertida e irreverente sobre a busca pela felicidade e até onde algumas pessoas vão para alcançá-la. Entre no maravilhoso mundo povoado pelos otimistas trolls, que estão sempre dançando e cantando, e pelos cômicos e pessimistas Berguens, que só ficam felizes quando têm Trolls em seus estômagos. Depois que os Berguens invadem a Vila dos Trolls, Poppy, a troll mais feliz de todos, e o excessivamente cauteloso e rabugento Tronco partem em uma jornada para resgatar seus amigos. Sua missão é repleta de aventuras e contratempos, pois essa dupla incompatível precisa aprender a tolerar um ao outro por tempo suficiente para realizar o trabalho.</desc>
+  </programme>
+  <programme start="20261013080900 -0300" stop="20261013100600 -0300" channel="TNT_AR.ar">
+    <title lang="es">LA EXTORSIÓN</title>
+    <desc lang="es">Alejandro, un piloto a punto de jubilarse es extorsionado y forzado a transportar una misteriosa carga de Buenos Aires a Madrid.</desc>
+  </programme>
+  <programme start="20261013081900 -0500" stop="20261013102700 -0500" channel="TNT_CO.co">
+    <title lang="es">CENICIENTA</title>
+    <sub-title lang="es">CINDERELLA</sub-title>
+    <desc lang="es">En esta versión musical moderna, Ella (Camila Cabello) no sueña con un príncipe, sino con cumplir su propio destino como diseñadora de moda. Con la ayuda del mágico Fab G (Billy Porter), desafiará las reglas, enfrentará a su madrastra y descubrirá que creer en uno mismo puede cambiarlo todo.</desc>
+  </programme>
+  <programme start="20261013083300 -0500" stop="20261013104100 -0500" channel="TNT_PAN.co">
+    <title lang="es">CENICIENTA</title>
+    <sub-title lang="es">CINDERELLA</sub-title>
+    <desc lang="es">En esta versión musical moderna, Ella (Camila Cabello) no sueña con un príncipe, sino con cumplir su propio destino como diseñadora de moda. Con la ayuda del mágico Fab G (Billy Porter), desafiará las reglas, enfrentará a su madrastra y descubrirá que creer en uno mismo puede cambiarlo todo.</desc>
+  </programme>
+  <programme start="20261013091500 -0400" stop="20261013105500 -0400" channel="TNT_CL.cl">
+    <title lang="es">TURBO</title>
+    <desc lang="es">Turbo, el caracol superveloz, vive un montón de locas aventuras con el equipo FAST mientras se enfrentan a rivales chiflados con los trucos más increíbles.</desc>
+  </programme>
+  <programme start="20261013093000 -0600" stop="20261013104500 -0600" channel="TNT_MX.mx">
+    <title lang="es">UEFA CHAMPIONS LEAGUE</title>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20261013094400 -0300" stop="20261013100700 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">WHERE THERE'S A WILL, THERE'S A WAY - PART I</sub-title>
+    <episode-num system="xmltv_ns">3.0.</episode-num>
+    <desc lang="pt">Will e Carlton entram para a faculdade e se mudam para um apartamento. Philip e Vivian curtem o bebê recém-nascido. Hilary descobre que Trevor pretende pedi-la em casamento.</desc>
+  </programme>
+  <programme start="20261013100600 -0300" stop="20261013121400 -0300" channel="TNT_AR.ar">
+    <title lang="es">NUEVE REINAS</title>
+    <desc lang="es">Juan y Marcos, dos estafadores, se conocen por casualidad cuando Juan, el más inexperto de los dos, intenta estafar sin éxito a la empleada de una tienda y Marcos decide ayudarlo. Ambos terminan recorriendo juntos las calles de Buenos Aires mientras Marcos le enseña a Juan los secretos del oficio, cuando un inusual negocio toca a su puerta: un ex socio de Marcos le pide ayuda para vender copias falsas de unas raras estampillas, las Nueve Reinas. Esto desencadena una carrera contra el tiempo en la que ambos descubren que, en el mundo de la estafa, no se puede confiar en nadie.</desc>
+  </programme>
+  <programme start="20261013100700 -0300" stop="20261013103200 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">WHERE THERE'S A WILL, THERE'S A WAY - PART II</sub-title>
+    <episode-num system="xmltv_ns">3.1.</episode-num>
+    <desc lang="pt">Will e Carlton entram para a faculdade e se mudam para um apartamento. Philip e Vivian curtem o bebê recém-nascido. Hilary descobre que Trevor pretende pedi-la em casamento. Segunda parte de um episódio em duas partes.</desc>
+  </programme>
+  <programme start="20261013102700 -0500" stop="20261013121400 -0500" channel="TNT_CO.co">
+    <title lang="es">TURBO</title>
+    <desc lang="es">Turbo, el caracol superveloz, vive un montón de locas aventuras con el equipo FAST mientras se enfrentan a rivales chiflados con los trucos más increíbles.</desc>
+  </programme>
+  <programme start="20261013103200 -0300" stop="20261013105700 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261013104100 -0500" stop="20261013122300 -0500" channel="TNT_PAN.co">
+    <title lang="es">TURBO</title>
+    <desc lang="es">Turbo, el caracol superveloz, vive un montón de locas aventuras con el equipo FAST mientras se enfrentan a rivales chiflados con los trucos más increíbles.</desc>
+  </programme>
+  <programme start="20261013104500 -0600" stop="20261013124500 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+    <episode-num system="xmltv_ns">-1.18.</episode-num>
+  </programme>
+  <programme start="20261013105500 -0400" stop="20261013123400 -0400" channel="TNT_CL.cl">
+    <title lang="es">TROLLS</title>
+    <desc lang="es">Ahora que Poppy sabe que hay otros trolls musicales esparcidos por el bosque, reprime su infinita positividad e invita a los delegados de todas las tribus trols del bosque a vivir juntos en armonía en un gran experimento que ella llama TrollsTopia.</desc>
+  </programme>
+  <programme start="20261013105700 -0300" stop="20261013112000 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261013112000 -0300" stop="20261013114400 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261013114400 -0300" stop="20261013120600 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <desc lang="pt">O apartamento é arrombado e Julius e Rochelle decidem que seria uma boa ideia ter um cachorro, algo que Chris sempre quis. Infelizmente, Julius só está pensando na segurança e não na diversão, por isso, Chris receberá a tarefa de treinar o cachorro para ser um cão de ataque. Sem televisão para passar o tempo, Drew e Tonya encontram novas formas de se divertir, inclusive passar trotes pelo telefone.</desc>
+  </programme>
+  <programme start="20261013120600 -0300" stop="20261013123000 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <desc lang="pt">Sem atividades extracurriculares no seu nome, Chris decide se unir ao grupo de redatores do jornal escolar. Mas como as suas habilidades na escrita deixam a desejar, Chris trama uma história fictícia sobre um serial killer solto nas ruas de Bed-Stuy. A história acaba parando nas manchetes de um jornal local do Brooklyn, causando pânico na comunidade.</desc>
+  </programme>
+  <programme start="20261013121400 -0300" stop="20261013141900 -0300" channel="TNT_AR.ar">
+    <title lang="es">LA ODISEA DE LOS GILES</title>
+    <desc lang="es">Los habitantes de un pueblo del interior de Argentina deciden crear una cooperativa agrícola, con la esperanza de cambiar su destino y el del pueblo entero. Pero la economía del país tiene otros planes, y enfrentándolos a la peor crisis de las últimas décadas y a un banquero corrupto y estafador, los lleva a perder toda su inversión. Tras descubrir que su dinero no está tan lejos, deciden dejar de seguir las reglas para recuperar lo que les pertenece.</desc>
+  </programme>
+  <programme start="20261013121400 -0500" stop="20261013135300 -0500" channel="TNT_CO.co">
+    <title lang="es">TROLLS</title>
+    <desc lang="es">Ahora que Poppy sabe que hay otros trolls musicales esparcidos por el bosque, reprime su infinita positividad e invita a los delegados de todas las tribus trols del bosque a vivir juntos en armonía en un gran experimento que ella llama TrollsTopia.</desc>
+  </programme>
+  <programme start="20261013122300 -0500" stop="20261013140100 -0500" channel="TNT_PAN.co">
+    <title lang="es">TROLLS</title>
+    <desc lang="es">Ahora que Poppy sabe que hay otros trolls musicales esparcidos por el bosque, reprime su infinita positividad e invita a los delegados de todas las tribus trols del bosque a vivir juntos en armonía en un gran experimento que ella llama TrollsTopia.</desc>
+  </programme>
+  <programme start="20261013123000 -0300" stop="20261013134500 -0300" channel="TNT_BR.br">
+    <title lang="pt">PRÉ-JOGO UEFA CHAMPIONS LEAGUE 2026/27</title>
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+    <desc lang="pt">A melhor cobertura dos jogos da UEFA CHAMPIONS LEAGUE e o melhor futebol do mundo, na programação da TNT Brasil.</desc>
+  </programme>
+  <programme start="20261013123400 -0400" stop="20261013141100 -0400" channel="TNT_CL.cl">
+    <title lang="es">LLUVIA DE HAMBURGUESAS</title>
+    <sub-title lang="es">CLOUDY WITH A CHANCE OF MEATBALLS</sub-title>
+    <desc lang="es">Cuando el último artilugio de Flint Lockwood destruye accidentalmente la plaza y llega a las nubes, piensa que su carrera como inventor está terminada. Entonces algo asombroso sucede: hamburguesas comienzan a llover del cielo. ¡Su máquina realmente funciona! Pero cuando la gente empieza a pedir golosamente más y más comida, la máquina enloquece desatando tornados de espaguetis y gigantes albóndigas que amenazan al mundo. Con la ayuda de la meteoróloga Sam Sparks y Steve, su charlatán asistente mono, Flint deberá buscar el modo de apagar la máquina antes que el mundo sea cubierto por enormes albóndigas.</desc>
+  </programme>
+  <programme start="20261013124500 -0600" stop="20261013130000 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20261013130000 -0600" stop="20261013150000 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+    <episode-num system="xmltv_ns">-1.23.</episode-num>
+  </programme>
+  <programme start="20261013134500 -0300" stop="20261013160000 -0300" channel="TNT_BR.br">
+    <title lang="pt" />
+    <episode-num system="xmltv_ns">-1.18.</episode-num>
+    <desc lang="pt">A melhor cobertura dos jogos da UEFA CHAMPIONS LEAGUE e o melhor futebol do mundo, na programação da TNT Brasil.</desc>
+  </programme>
+  <programme start="20261013135300 -0500" stop="20261013153400 -0500" channel="TNT_CO.co">
+    <title lang="es">LLUVIA DE HAMBURGUESAS</title>
+    <sub-title lang="es">CLOUDY WITH A CHANCE OF MEATBALLS</sub-title>
+    <desc lang="es">Cuando el último artilugio de Flint Lockwood destruye accidentalmente la plaza y llega a las nubes, piensa que su carrera como inventor está terminada. Entonces algo asombroso sucede: hamburguesas comienzan a llover del cielo. ¡Su máquina realmente funciona! Pero cuando la gente empieza a pedir golosamente más y más comida, la máquina enloquece desatando tornados de espaguetis y gigantes albóndigas que amenazan al mundo. Con la ayuda de la meteoróloga Sam Sparks y Steve, su charlatán asistente mono, Flint deberá buscar el modo de apagar la máquina antes que el mundo sea cubierto por enormes albóndigas.</desc>
+  </programme>
+  <programme start="20261013140100 -0500" stop="20261013153900 -0500" channel="TNT_PAN.co">
+    <title lang="es">LLUVIA DE HAMBURGUESAS</title>
+    <sub-title lang="es">CLOUDY WITH A CHANCE OF MEATBALLS</sub-title>
+    <desc lang="es">Cuando el último artilugio de Flint Lockwood destruye accidentalmente la plaza y llega a las nubes, piensa que su carrera como inventor está terminada. Entonces algo asombroso sucede: hamburguesas comienzan a llover del cielo. ¡Su máquina realmente funciona! Pero cuando la gente empieza a pedir golosamente más y más comida, la máquina enloquece desatando tornados de espaguetis y gigantes albóndigas que amenazan al mundo. Con la ayuda de la meteoróloga Sam Sparks y Steve, su charlatán asistente mono, Flint deberá buscar el modo de apagar la máquina antes que el mundo sea cubierto por enormes albóndigas.</desc>
+  </programme>
+  <programme start="20261013141100 -0400" stop="20261013155500 -0400" channel="TNT_CL.cl">
+    <title lang="es">LLUVIA DE HAMBURGUESAS 2: LA VENGANZA DE LAS SOBRAS</title>
+    <desc lang="es">El inventor Flint Lockwood recibe la invitación de su ídolo Chester V para formar parte de la Live Corp Company, donde los mejores y más brillantes inventores del mundo desarrollan tecnologías para mejorar la humanidad. Flint siempre soñó con ser reconocido como un gran inventor, pero todo cambia cuando descubre que su máquina más tristemente célebre, que convierte el agua en alimento, sigue funcionando y ahora está creando unas bestias impresionantes.</desc>
+  </programme>
+  <programme start="20261013141900 -0300" stop="20261013160300 -0300" channel="TNT_AR.ar">
+    <title lang="es">LLUVIA DE HAMBURGUESAS 2: LA VENGANZA DE LAS SOBRAS</title>
+    <desc lang="es">El inventor Flint Lockwood recibe la invitación de su ídolo Chester V para formar parte de la Live Corp Company, donde los mejores y más brillantes inventores del mundo desarrollan tecnologías para mejorar la humanidad. Flint siempre soñó con ser reconocido como un gran inventor, pero todo cambia cuando descubre que su máquina más tristemente célebre, que convierte el agua en alimento, sigue funcionando y ahora está creando unas bestias impresionantes.</desc>
+  </programme>
+  <programme start="20261013150000 -0600" stop="20261013154500 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20261013153400 -0500" stop="20261013171800 -0500" channel="TNT_CO.co">
+    <title lang="es">LLUVIA DE HAMBURGUESAS 2: LA VENGANZA DE LAS SOBRAS</title>
+    <desc lang="es">El inventor Flint Lockwood recibe la invitación de su ídolo Chester V para formar parte de la Live Corp Company, donde los mejores y más brillantes inventores del mundo desarrollan tecnologías para mejorar la humanidad. Flint siempre soñó con ser reconocido como un gran inventor, pero todo cambia cuando descubre que su máquina más tristemente célebre, que convierte el agua en alimento, sigue funcionando y ahora está creando unas bestias impresionantes.</desc>
+  </programme>
+  <programme start="20261013153900 -0500" stop="20261013172700 -0500" channel="TNT_PAN.co">
+    <title lang="es">LLUVIA DE HAMBURGUESAS 2: LA VENGANZA DE LAS SOBRAS</title>
+    <desc lang="es">El inventor Flint Lockwood recibe la invitación de su ídolo Chester V para formar parte de la Live Corp Company, donde los mejores y más brillantes inventores del mundo desarrollan tecnologías para mejorar la humanidad. Flint siempre soñó con ser reconocido como un gran inventor, pero todo cambia cuando descubre que su máquina más tristemente célebre, que convierte el agua en alimento, sigue funcionando y ahora está creando unas bestias impresionantes.</desc>
+  </programme>
+  <programme start="20261013154500 -0600" stop="20261013164500 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20261013155500 -0400" stop="20261013182500 -0400" channel="TNT_CL.cl">
+    <title lang="es">MATRIX RECARGADO</title>
+    <sub-title lang="es">THE MATRIX RELOADED</sub-title>
+    <desc lang="es">Neo (Keanu Reeves), Trinity (Carrie-Anne Moss) y Morfeo (Laurence Fishburne) están de regreso en la secuela de la increíble "Matrix". La dupla de directores -los hermanos Andy y Larry Wachowski- demuestran no tener límites en su creatividad y ofrecen un gran espectáculo que acelera el corazón mientras nos hace reflexionar sobre la "evolución" de la humanidad. Esta vez, los tres protagonistas viajan a Zion, el último núcleo de seres humanos libres en la Tierra. Allí, Neo tendrá 72 horas para detener el avance de las máquinas, antes de que ellas dominen lo que queda de la humanidad. Pero tal vez ni siquiera el "Elegido", con nuevos e impresionantes poderes, sea capaz de impedir un gran desastre, ya que los enemigos también se han fortalecido. El agente Smith (Hugo Weaving), por ejemplo, sorprende a Neo con su nueva capacidad para clonarse cuantas veces quiera. A "Matrix Recargado" le siguió "Matrix Revoluciones", que cerró la trilogía.</desc>
+  </programme>
+  <programme start="20261013160000 -0300" stop="20261013180000 -0300" channel="TNT_BR.br">
+    <title lang="pt" />
+    <episode-num system="xmltv_ns">-1.23.</episode-num>
+    <desc lang="pt">A melhor cobertura dos jogos da UEFA CHAMPIONS LEAGUE e o melhor futebol do mundo, na programação da TNT Brasil.</desc>
+  </programme>
+  <programme start="20261013160300 -0300" stop="20261013183300 -0300" channel="TNT_AR.ar">
+    <title lang="es">MATRIX RECARGADO</title>
+    <sub-title lang="es">THE MATRIX RELOADED</sub-title>
+    <desc lang="es">Neo (Keanu Reeves), Trinity (Carrie-Anne Moss) y Morfeo (Laurence Fishburne) están de regreso en la secuela de la increíble "Matrix". La dupla de directores -los hermanos Andy y Larry Wachowski- demuestran no tener límites en su creatividad y ofrecen un gran espectáculo que acelera el corazón mientras nos hace reflexionar sobre la "evolución" de la humanidad. Esta vez, los tres protagonistas viajan a Zion, el último núcleo de seres humanos libres en la Tierra. Allí, Neo tendrá 72 horas para detener el avance de las máquinas, antes de que ellas dominen lo que queda de la humanidad. Pero tal vez ni siquiera el "Elegido", con nuevos e impresionantes poderes, sea capaz de impedir un gran desastre, ya que los enemigos también se han fortalecido. El agente Smith (Hugo Weaving), por ejemplo, sorprende a Neo con su nueva capacidad para clonarse cuantas veces quiera. A "Matrix Recargado" le siguió "Matrix Revoluciones", que cerró la trilogía.</desc>
+  </programme>
+  <programme start="20261013164500 -0600" stop="20261013181900 -0600" channel="TNT_MX.mx">
+    <title lang="es">LLUVIA DE HAMBURGUESAS</title>
+    <sub-title lang="es">CLOUDY WITH A CHANCE OF MEATBALLS</sub-title>
+    <desc lang="es">Cuando el último artilugio de Flint Lockwood destruye accidentalmente la plaza y llega a las nubes, piensa que su carrera como inventor está terminada. Entonces algo asombroso sucede: hamburguesas comienzan a llover del cielo. ¡Su máquina realmente funciona! Pero cuando la gente empieza a pedir golosamente más y más comida, la máquina enloquece desatando tornados de espaguetis y gigantes albóndigas que amenazan al mundo. Con la ayuda de la meteoróloga Sam Sparks y Steve, su charlatán asistente mono, Flint deberá buscar el modo de apagar la máquina antes que el mundo sea cubierto por enormes albóndigas.</desc>
+  </programme>
+  <programme start="20261013171800 -0500" stop="20261013195600 -0500" channel="TNT_CO.co">
+    <title lang="es">MATRIX RECARGADO</title>
+    <sub-title lang="es">THE MATRIX RELOADED</sub-title>
+    <desc lang="es">Neo (Keanu Reeves), Trinity (Carrie-Anne Moss) y Morfeo (Laurence Fishburne) están de regreso en la secuela de la increíble "Matrix". La dupla de directores -los hermanos Andy y Larry Wachowski- demuestran no tener límites en su creatividad y ofrecen un gran espectáculo que acelera el corazón mientras nos hace reflexionar sobre la "evolución" de la humanidad. Esta vez, los tres protagonistas viajan a Zion, el último núcleo de seres humanos libres en la Tierra. Allí, Neo tendrá 72 horas para detener el avance de las máquinas, antes de que ellas dominen lo que queda de la humanidad. Pero tal vez ni siquiera el "Elegido", con nuevos e impresionantes poderes, sea capaz de impedir un gran desastre, ya que los enemigos también se han fortalecido. El agente Smith (Hugo Weaving), por ejemplo, sorprende a Neo con su nueva capacidad para clonarse cuantas veces quiera. A "Matrix Recargado" le siguió "Matrix Revoluciones", que cerró la trilogía.</desc>
+  </programme>
+  <programme start="20261013172700 -0500" stop="20261013200000 -0500" channel="TNT_PAN.co">
+    <title lang="es">MATRIX RECARGADO</title>
+    <sub-title lang="es">THE MATRIX RELOADED</sub-title>
+    <desc lang="es">Neo (Keanu Reeves), Trinity (Carrie-Anne Moss) y Morfeo (Laurence Fishburne) están de regreso en la secuela de la increíble "Matrix". La dupla de directores -los hermanos Andy y Larry Wachowski- demuestran no tener límites en su creatividad y ofrecen un gran espectáculo que acelera el corazón mientras nos hace reflexionar sobre la "evolución" de la humanidad. Esta vez, los tres protagonistas viajan a Zion, el último núcleo de seres humanos libres en la Tierra. Allí, Neo tendrá 72 horas para detener el avance de las máquinas, antes de que ellas dominen lo que queda de la humanidad. Pero tal vez ni siquiera el "Elegido", con nuevos e impresionantes poderes, sea capaz de impedir un gran desastre, ya que los enemigos también se han fortalecido. El agente Smith (Hugo Weaving), por ejemplo, sorprende a Neo con su nueva capacidad para clonarse cuantas veces quiera. A "Matrix Recargado" le siguió "Matrix Revoluciones", que cerró la trilogía.</desc>
+  </programme>
+  <programme start="20261013180000 -0300" stop="20261013190000 -0300" channel="TNT_BR.br">
+    <title lang="pt">PÓS-JOGO UEFA CHAMPIONS LEAGUE 2026/27</title>
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+    <desc lang="pt">A melhor cobertura dos jogos da UEFA CHAMPIONS LEAGUE e o melhor futebol do mundo, na programação da TNT Brasil.</desc>
+  </programme>
+  <programme start="20261013181900 -0600" stop="20261013204400 -0600" channel="TNT_MX.mx">
+    <title lang="es">MATRIX RECARGADO</title>
+    <sub-title lang="es">THE MATRIX RELOADED</sub-title>
+    <desc lang="es">Neo (Keanu Reeves), Trinity (Carrie-Anne Moss) y Morfeo (Laurence Fishburne) están de regreso en la secuela de la increíble "Matrix". La dupla de directores -los hermanos Andy y Larry Wachowski- demuestran no tener límites en su creatividad y ofrecen un gran espectáculo que acelera el corazón mientras nos hace reflexionar sobre la "evolución" de la humanidad. Esta vez, los tres protagonistas viajan a Zion, el último núcleo de seres humanos libres en la Tierra. Allí, Neo tendrá 72 horas para detener el avance de las máquinas, antes de que ellas dominen lo que queda de la humanidad. Pero tal vez ni siquiera el "Elegido", con nuevos e impresionantes poderes, sea capaz de impedir un gran desastre, ya que los enemigos también se han fortalecido. El agente Smith (Hugo Weaving), por ejemplo, sorprende a Neo con su nueva capacidad para clonarse cuantas veces quiera. A "Matrix Recargado" le siguió "Matrix Revoluciones", que cerró la trilogía.</desc>
+  </programme>
+  <programme start="20261013182500 -0400" stop="20261013202900 -0400" channel="TNT_CL.cl">
+    <title lang="es">DE LA CUNA A LA TUMBA</title>
+    <desc lang="es">"Juntos son dinamita, para la pantalla grande y también para la taquilla. El astro de las artes marciales Jet Li y el polémico rapero DMX protagonizan este film que costó 25 millones de dólares y que sólo en la cartelera norteamericana recaudó 35. Dirigida por el polaco Andrzej Bartkowiak -reconocido director de fotografía y montajista de films como ""Un día de furia"" y ""Máxima velocidad""-, la película acompaña el recorrido contrarreloj de un ladrón (DMX) que debe rescatar a su hija, secuestrada por un gángster. Para lograrlo se une a un agente del gobierno taiwanés (Li), que está en busca de unos diamantes robados. "</desc>
+  </programme>
+  <programme start="20261013183300 -0300" stop="20261013184800 -0300" channel="TNT_AR.ar">
+    <title lang="es" />
+    <episode-num system="xmltv_ns">-1.17.</episode-num>
+  </programme>
+  <programme start="20261013184800 -0300" stop="20261013203000 -0300" channel="TNT_AR.ar">
+    <title lang="es">SEPTIMO</title>
+    <desc lang="es">Lo que inicia como un juego entre un padre y sus hijos se transforma en un misterio escalofriante en este thriller estelarizado por Ricardo Darín y Belén Rueda en el que dos niños desaparecen sin explicación en las escaleras de un edificio.</desc>
+  </programme>
+  <programme start="20261013190000 -0300" stop="20261013195900 -0300" channel="TNT_BR.br">
+    <title lang="pt">CONVOCADOS</title>
+    <episode-num system="xmltv_ns">-1.3.</episode-num>
+    <desc lang="pt">Comandado por Taynah Espinoza, o Convocados reúne o elenco da TNT Sports em uma cobertura jornalística de alto nível que vai ao ar  após cada rodada da UEFA Champions League. O programa analisa os principais lances, as decisões táticas e os desdobramentos dos grandes confrontos europeus, além de entrevistas com os  personagens que escreveram a história de um dia de Champions.</desc>
+  </programme>
+  <programme start="20261013195600 -0500" stop="20261013220000 -0500" channel="TNT_CO.co">
+    <title lang="es">DE LA CUNA A LA TUMBA</title>
+    <desc lang="es">"Juntos son dinamita, para la pantalla grande y también para la taquilla. El astro de las artes marciales Jet Li y el polémico rapero DMX protagonizan este film que costó 25 millones de dólares y que sólo en la cartelera norteamericana recaudó 35. Dirigida por el polaco Andrzej Bartkowiak -reconocido director de fotografía y montajista de films como ""Un día de furia"" y ""Máxima velocidad""-, la película acompaña el recorrido contrarreloj de un ladrón (DMX) que debe rescatar a su hija, secuestrada por un gángster. Para lograrlo se une a un agente del gobierno taiwanés (Li), que está en busca de unos diamantes robados. "</desc>
+  </programme>
+  <programme start="20261013195900 -0300" stop="20261013215400 -0300" channel="TNT_BR.br">
+    <title lang="pt">O ATIRADOR FANTASMA</title>
+    <sub-title lang="pt">SNIPER: GHOST SHOOTER</sub-title>
+    <desc lang="pt">Brandon Beckett e Richard Mileer são dois jovens atiradores de elite que estão combatendo extremistas no Oriente Médio. Eles então recebem de seu superior a ordem de garantir a segurança de um gasoduto que se estende da República da Geórgia até a Europa Ocidental das mãos de tenebrosos terroristas árabes que pretendem fazer um perigoso ataque. Durante a guerra, um dos atiradores acaba sendo morto pelas mãos de um terrorista islâmico fantasma, que sabe exatamente onde a dupla está localizada. Com a fatalidade, as tensões aumentam já que o sobrevivente passa a desconfiar de que há infiltrados na missão. Assim, ele precisa correr contra o tempo para impedir uma catástrofe e descobrir quem violou a segurança.</desc>
+  </programme>
+  <programme start="20261013200000 -0500" stop="20261013220000 -0500" channel="TNT_PAN.co">
+    <title lang="es">DE LA CUNA A LA TUMBA</title>
+    <desc lang="es">"Juntos son dinamita, para la pantalla grande y también para la taquilla. El astro de las artes marciales Jet Li y el polémico rapero DMX protagonizan este film que costó 25 millones de dólares y que sólo en la cartelera norteamericana recaudó 35. Dirigida por el polaco Andrzej Bartkowiak -reconocido director de fotografía y montajista de films como ""Un día de furia"" y ""Máxima velocidad""-, la película acompaña el recorrido contrarreloj de un ladrón (DMX) que debe rescatar a su hija, secuestrada por un gángster. Para lograrlo se une a un agente del gobierno taiwanés (Li), que está en busca de unos diamantes robados. "</desc>
+  </programme>
+  <programme start="20261013202900 -0400" stop="20261013220000 -0400" channel="TNT_CL.cl">
+    <title lang="es">MASTERCHEF CHILE</title>
+    <episode-num system="xmltv_ns">4.6.</episode-num>
+    <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
+  </programme>
+  <programme start="20261013203000 -0300" stop="20261013215800 -0300" channel="TNT_AR.ar">
+    <title lang="es">MASTERCHEF CELEBRITY ARGENTINA</title>
+    <episode-num system="xmltv_ns">-1.10.</episode-num>
+    <desc lang="es">¡Se encienden las hornallas! Bajo la conducción de Wanda Nara, llega la nueva temporada de esta intensa competencia de sabores, donde distintas celebridades despliegan su talento culinario ante un exigente jurado de chefs. Damián Betular, Maru Botana y Germán Martitegui serán los encargados de evaluar cada plato y definir quiénes tienen lo necesario para seguir en competencia y quienes deberán que entregar su delantal.</desc>
+  </programme>
+  <programme start="20261013204400 -0600" stop="20261013223800 -0600" channel="TNT_MX.mx">
+    <title lang="es">DE LA CUNA A LA TUMBA</title>
+    <desc lang="es">"Juntos son dinamita, para la pantalla grande y también para la taquilla. El astro de las artes marciales Jet Li y el polémico rapero DMX protagonizan este film que costó 25 millones de dólares y que sólo en la cartelera norteamericana recaudó 35. Dirigida por el polaco Andrzej Bartkowiak -reconocido director de fotografía y montajista de films como ""Un día de furia"" y ""Máxima velocidad""-, la película acompaña el recorrido contrarreloj de un ladrón (DMX) que debe rescatar a su hija, secuestrada por un gángster. Para lograrlo se une a un agente del gobierno taiwanés (Li), que está en busca de unos diamantes robados. "</desc>
+  </programme>
+  <programme start="20261013215400 -0300" stop="20261013235200 -0300" channel="TNT_BR.br">
+    <title lang="pt">Na Mira do Perigo</title>
+    <sub-title lang="pt">The Marksman</sub-title>
+    <desc lang="pt">Jim (Liam Neeson) é um fazendeiro do Arizona que entra em uma perigosa batalha para proteger um garoto mexicano de um cartel.</desc>
+  </programme>
+  <programme start="20261013215800 -0300" stop="20261013223700 -0300" channel="TNT_AR.ar">
+    <title lang="es">CAUTIVA</title>
+    <sub-title lang="es">ASTRAY</sub-title>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <desc lang="es">Mientras una periodista investiga los abusos, Clara confronta su pasado. En 2008, un descubrimiento conlleva castigos todavía peores.</desc>
+  </programme>
+  <programme start="20261013220000 -0400" stop="20261014000300 -0400" channel="TNT_CL.cl">
+    <title lang="es">SNIPER: FUEGO OCULTO</title>
+    <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
+    <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
+  </programme>
+  <programme start="20261013220000 -0500" stop="20261013235500 -0500" channel="TNT_CO.co">
+    <title lang="es">SNIPER: FUEGO OCULTO</title>
+    <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
+    <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
+  </programme>
+  <programme start="20261013220000 -0500" stop="20261013235400 -0500" channel="TNT_PAN.co">
+    <title lang="es">SNIPER: FUEGO OCULTO</title>
+    <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
+    <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
+  </programme>
+  <programme start="20261013223700 -0300" stop="20261013231700 -0300" channel="TNT_AR.ar">
+    <title lang="es">CAUTIVA</title>
+    <sub-title lang="es">ASTRAY</sub-title>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <desc lang="es">Mientras una periodista investiga los abusos, Clara confronta su pasado. En 2008, un descubrimiento conlleva castigos todavía peores.</desc>
+  </programme>
+  <programme start="20261013223800 -0600" stop="20261014002600 -0600" channel="TNT_MX.mx">
+    <title lang="es">SNIPER: FUEGO OCULTO</title>
+    <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
+    <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
+  </programme>
+  <programme start="20261013231700 -0300" stop="20261014010700 -0300" channel="TNT_AR.ar">
+    <title lang="es">SNIPER: FUEGO OCULTO</title>
+    <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
+    <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
+  </programme>
+  <programme start="20261013235200 -0300" stop="20261014001800 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261013235400 -0500" stop="20261014014800 -0500" channel="TNT_PAN.co">
+    <title lang="es">SANGRE CODICIOSA</title>
+    <sub-title lang="es">GREEDY PEOPLE</sub-title>
+    <desc lang="es">Joseph Gordon-Levitt y Himesh Patel protagonizan esta comedia negra como dos policías de una isla que cometen un error fatal y arrastran a su pequeña comunidad a una serie de mentiras, crímenes y una lucha por un millón de dólares.</desc>
+  </programme>
+  <programme start="20261013235500 -0500" stop="20261014015100 -0500" channel="TNT_CO.co">
+    <title lang="es">SANGRE CODICIOSA</title>
+    <sub-title lang="es">GREEDY PEOPLE</sub-title>
+    <desc lang="es">Joseph Gordon-Levitt y Himesh Patel protagonizan esta comedia negra como dos policías de una isla que cometen un error fatal y arrastran a su pequeña comunidad a una serie de mentiras, crímenes y una lucha por un millón de dólares.</desc>
+  </programme>
+  <programme start="20261014000300 -0400" stop="20261014015900 -0400" channel="TNT_CL.cl">
+    <title lang="es">SANGRE CODICIOSA</title>
+    <sub-title lang="es">GREEDY PEOPLE</sub-title>
+    <desc lang="es">Joseph Gordon-Levitt y Himesh Patel protagonizan esta comedia negra como dos policías de una isla que cometen un error fatal y arrastran a su pequeña comunidad a una serie de mentiras, crímenes y una lucha por un millón de dólares.</desc>
+  </programme>
+  <programme start="20261014001800 -0300" stop="20261014004200 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261014002600 -0600" stop="20261014021800 -0600" channel="TNT_MX.mx">
+    <title lang="es">SANGRE CODICIOSA</title>
+    <sub-title lang="es">GREEDY PEOPLE</sub-title>
+    <desc lang="es">Joseph Gordon-Levitt y Himesh Patel protagonizan esta comedia negra como dos policías de una isla que cometen un error fatal y arrastran a su pequeña comunidad a una serie de mentiras, crímenes y una lucha por un millón de dólares.</desc>
+  </programme>
+  <programme start="20261014004200 -0300" stop="20261014010700 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+  </programme>
+  <programme start="20261014010700 -0300" stop="20261014013000 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <desc lang="pt">O apartamento é arrombado e Julius e Rochelle decidem que seria uma boa ideia ter um cachorro, algo que Chris sempre quis. Infelizmente, Julius só está pensando na segurança e não na diversão, por isso, Chris receberá a tarefa de treinar o cachorro para ser um cão de ataque. Sem televisão para passar o tempo, Drew e Tonya encontram novas formas de se divertir, inclusive passar trotes pelo telefone.</desc>
+  </programme>
+  <programme start="20261014010700 -0300" stop="20261014030100 -0300" channel="TNT_AR.ar">
+    <title lang="es">SANGRE CODICIOSA</title>
+    <sub-title lang="es">GREEDY PEOPLE</sub-title>
+    <desc lang="es">Joseph Gordon-Levitt y Himesh Patel protagonizan esta comedia negra como dos policías de una isla que cometen un error fatal y arrastran a su pequeña comunidad a una serie de mentiras, crímenes y una lucha por un millón de dólares.</desc>
+  </programme>
+  <programme start="20261014013000 -0300" stop="20261014015100 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <desc lang="pt">Sem atividades extracurriculares no seu nome, Chris decide se unir ao grupo de redatores do jornal escolar. Mas como as suas habilidades na escrita deixam a desejar, Chris trama uma história fictícia sobre um serial killer solto nas ruas de Bed-Stuy. A história acaba parando nas manchetes de um jornal local do Brooklyn, causando pânico na comunidade.</desc>
+  </programme>
+  <programme start="20261014014800 -0500" stop="20261014032400 -0500" channel="TNT_PAN.co">
+    <title lang="es">MANOS A LAS ARMAS</title>
+    <sub-title lang="es">GUNS AKIMBO</sub-title>
+    <desc lang="es">El apacible Miles se encuentra involucrado en un sitio web de una red oscura que designa a extraños a pelear a muerte, mientras todo esto se ve por streaming con un público mundial sediento de sangre.</desc>
+  </programme>
+  <programme start="20261014015100 -0300" stop="20261014021300 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">THE WAY WE WERE</sub-title>
+    <episode-num system="xmltv_ns">2.22.</episode-num>
+    <desc lang="pt">Philip e Vivian se preparam para comemorar 25 anos de casados, e as crianças recordam momentos engraçados que viveram juntos.</desc>
+  </programme>
+  <programme start="20261014015100 -0500" stop="20261014032500 -0500" channel="TNT_CO.co">
+    <title lang="es">MANOS A LAS ARMAS</title>
+    <sub-title lang="es">GUNS AKIMBO</sub-title>
+    <desc lang="es">El apacible Miles se encuentra involucrado en un sitio web de una red oscura que designa a extraños a pelear a muerte, mientras todo esto se ve por streaming con un público mundial sediento de sangre.</desc>
+  </programme>
+  <programme start="20261014015900 -0400" stop="20261014033600 -0400" channel="TNT_CL.cl">
+    <title lang="es">MANOS A LAS ARMAS</title>
+    <sub-title lang="es">GUNS AKIMBO</sub-title>
+    <desc lang="es">El apacible Miles se encuentra involucrado en un sitio web de una red oscura que designa a extraños a pelear a muerte, mientras todo esto se ve por streaming con un público mundial sediento de sangre.</desc>
+  </programme>
+  <programme start="20261014021300 -0300" stop="20261014023600 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">SIX DEGREES OF GRADUATION</sub-title>
+    <episode-num system="xmltv_ns">2.23.</episode-num>
+    <desc lang="pt">Para se formar, Will deverá encarar uma aula de apreciação de música ao lado de várias crianças precoces.</desc>
+  </programme>
+  <programme start="20261014021800 -0600" stop="20261014035200 -0600" channel="TNT_MX.mx">
+    <title lang="es">MANOS A LAS ARMAS</title>
+    <sub-title lang="es">GUNS AKIMBO</sub-title>
+    <desc lang="es">El apacible Miles se encuentra involucrado en un sitio web de una red oscura que designa a extraños a pelear a muerte, mientras todo esto se ve por streaming con un público mundial sediento de sangre.</desc>
+  </programme>
+  <programme start="20261014023600 -0300" stop="20261014025700 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">WHERE THERE'S A WILL, THERE'S A WAY - PART I</sub-title>
+    <episode-num system="xmltv_ns">3.0.</episode-num>
+    <desc lang="pt">Will e Carlton entram para a faculdade e se mudam para um apartamento. Philip e Vivian curtem o bebê recém-nascido. Hilary descobre que Trevor pretende pedi-la em casamento.</desc>
+  </programme>
+  <programme start="20261014025700 -0300" stop="20261014031900 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">WHERE THERE'S A WILL, THERE'S A WAY - PART II</sub-title>
+    <episode-num system="xmltv_ns">3.1.</episode-num>
+    <desc lang="pt">Will e Carlton entram para a faculdade e se mudam para um apartamento. Philip e Vivian curtem o bebê recém-nascido. Hilary descobre que Trevor pretende pedi-la em casamento. Segunda parte de um episódio em duas partes.</desc>
+  </programme>
+  <programme start="20261014030100 -0300" stop="20261014043600 -0300" channel="TNT_AR.ar">
+    <title lang="es">MANOS A LAS ARMAS</title>
+    <sub-title lang="es">GUNS AKIMBO</sub-title>
+    <desc lang="es">El apacible Miles se encuentra involucrado en un sitio web de una red oscura que designa a extraños a pelear a muerte, mientras todo esto se ve por streaming con un público mundial sediento de sangre.</desc>
+  </programme>
+  <programme start="20261014031900 -0300" stop="20261014050600 -0300" channel="TNT_BR.br">
+    <title lang="pt">Gananciosos</title>
+    <sub-title lang="pt">Greedy People</sub-title>
+    <desc lang="pt">Joseph Gordon-Levitt e Himesh Patel estrelam esta comédia de humor ácido como dois policiais de uma ilha que cometem um erro fatal e arrastam sua pequena comunidade para uma série de mentiras, crimes e uma luta por um milhão de dólares.</desc>
+  </programme>
+  <programme start="20261014032400 -0500" stop="20261014051600 -0500" channel="TNT_PAN.co">
+    <title lang="es">SANGRE CODICIOSA</title>
+    <sub-title lang="es">GREEDY PEOPLE</sub-title>
+    <desc lang="es">Joseph Gordon-Levitt y Himesh Patel protagonizan esta comedia negra como dos policías de una isla que cometen un error fatal y arrastran a su pequeña comunidad a una serie de mentiras, crímenes y una lucha por un millón de dólares.</desc>
+  </programme>
+  <programme start="20261014032500 -0500" stop="20261014051400 -0500" channel="TNT_CO.co">
+    <title lang="es">SANGRE CODICIOSA</title>
+    <sub-title lang="es">GREEDY PEOPLE</sub-title>
+    <desc lang="es">Joseph Gordon-Levitt y Himesh Patel protagonizan esta comedia negra como dos policías de una isla que cometen un error fatal y arrastran a su pequeña comunidad a una serie de mentiras, crímenes y una lucha por un millón de dólares.</desc>
+  </programme>
+  <programme start="20261014033600 -0400" stop="20261014052400 -0400" channel="TNT_CL.cl">
+    <title lang="es">SANGRE CODICIOSA</title>
+    <sub-title lang="es">GREEDY PEOPLE</sub-title>
+    <desc lang="es">Joseph Gordon-Levitt y Himesh Patel protagonizan esta comedia negra como dos policías de una isla que cometen un error fatal y arrastran a su pequeña comunidad a una serie de mentiras, crímenes y una lucha por un millón de dólares.</desc>
+  </programme>
+  <programme start="20261014035200 -0600" stop="20261014054400 -0600" channel="TNT_MX.mx">
+    <title lang="es">SANGRE CODICIOSA</title>
+    <sub-title lang="es">GREEDY PEOPLE</sub-title>
+    <desc lang="es">Joseph Gordon-Levitt y Himesh Patel protagonizan esta comedia negra como dos policías de una isla que cometen un error fatal y arrastran a su pequeña comunidad a una serie de mentiras, crímenes y una lucha por un millón de dólares.</desc>
+  </programme>
+  <programme start="20261014043600 -0300" stop="20261014051100 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.9.</episode-num>
+  </programme>
+  <programme start="20261014050600 -0300" stop="20261014053400 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.12.</episode-num>
+  </programme>
+  <programme start="20261014051100 -0300" stop="20261014054800 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.10.</episode-num>
+  </programme>
+  <programme start="20261014051400 -0500" stop="20261014055100 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.10.</episode-num>
+  </programme>
+  <programme start="20261014051600 -0500" stop="20261014055000 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.14.</episode-num>
+  </programme>
+  <programme start="20261014052400 -0400" stop="20261014060000 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.12.</episode-num>
+  </programme>
+  <programme start="20261014053400 -0300" stop="20261014054800 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+    <episode-num system="xmltv_ns">-1.33.</episode-num>
+    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+  </programme>
+  <programme start="20261014054400 -0600" stop="20261014054600 -0600" channel="TNT_MX.mx">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.55.</episode-num>
+  </programme>
+  <programme start="20261014054600 -0600" stop="20261014060000 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <episode-num system="xmltv_ns">-1.29.</episode-num>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+  </programme>
+  <programme start="20261014054800 -0300" stop="20261014060000 -0300" channel="TNT_BR.br">
+    <title lang="pt">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.66.</episode-num>
+  </programme>
+  <programme start="20261014054800 -0300" stop="20261014060000 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <episode-num system="xmltv_ns">-1.41.</episode-num>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+  </programme>
+  <programme start="20261014055000 -0500" stop="20261014060000 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <episode-num system="xmltv_ns">-1.41.</episode-num>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+  </programme>
+  <programme start="20261014055100 -0500" stop="20261014060000 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <episode-num system="xmltv_ns">-1.32.</episode-num>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
   </programme>
 </tv>
