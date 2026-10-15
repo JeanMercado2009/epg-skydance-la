@@ -21,62 +21,6 @@
   <channel id="WARNER_MX.mx">
     <display-name>Warner Channel México</display-name>
   </channel>
-  <programme start="20260929171100 -0500" stop="20260929192200 -0500" channel="WARNER_CO.co">
-    <title lang="es">El Protector</title>
-  </programme>
-  <programme start="20260929173500 -0600" stop="20260929193500 -0600" channel="WARNER_MX.mx">
-    <title lang="es">El Protector</title>
-  </programme>
-  <programme start="20260929174100 -0500" stop="20260929193800 -0500" channel="WARNER_AN.co">
-    <title lang="es">El Protector</title>
-  </programme>
-  <programme start="20260929192200 -0500" stop="20260929220000 -0500" channel="WARNER_CO.co">
-    <title lang="es">Jack Reacher: Bajo la Mira</title>
-    <desc lang="es">Adaptación de la novela de Lee Child en la que Tom Cruise es Jack Reacher, un expolicía militar encargado de demostrar la inocencia de un francotirador acusado de asesinar a cinco personas sin aparente conexión.</desc>
-  </programme>
-  <programme start="20260929193100 -0300" stop="20260929220000 -0300" channel="WARNER_AR.ar">
-    <title lang="es">Jack Reacher: Bajo la Mira</title>
-    <desc lang="es">Adaptación de la novela de Lee Child en la que Tom Cruise es Jack Reacher, un expolicía militar encargado de demostrar la inocencia de un francotirador acusado de asesinar a cinco personas sin aparente conexión.</desc>
-  </programme>
-  <programme start="20260929193500 -0400" stop="20260929220000 -0400" channel="WARNER_CL.cl">
-    <title lang="es">Jack Reacher: Bajo la Mira</title>
-    <desc lang="es">Adaptación de la novela de Lee Child en la que Tom Cruise es Jack Reacher, un expolicía militar encargado de demostrar la inocencia de un francotirador acusado de asesinar a cinco personas sin aparente conexión.</desc>
-  </programme>
-  <programme start="20260929193500 -0600" stop="20260929220000 -0600" channel="WARNER_MX.mx">
-    <title lang="es">Jack Reacher: Bajo la Mira</title>
-    <desc lang="es">Adaptación de la novela de Lee Child en la que Tom Cruise es Jack Reacher, un expolicía militar encargado de demostrar la inocencia de un francotirador acusado de asesinar a cinco personas sin aparente conexión.</desc>
-  </programme>
-  <programme start="20260929193800 -0500" stop="20260929220000 -0500" channel="WARNER_AN.co">
-    <title lang="es">Jack Reacher: Bajo la Mira</title>
-    <desc lang="es">Adaptación de la novela de Lee Child en la que Tom Cruise es Jack Reacher, un expolicía militar encargado de demostrar la inocencia de un francotirador acusado de asesinar a cinco personas sin aparente conexión.</desc>
-  </programme>
-  <programme start="20260929194400 -0400" stop="20260929220100 -0400" channel="WARNER_VE.ve">
-    <title lang="es">Jack Reacher: Bajo la Mira</title>
-    <desc lang="es">Adaptación de la novela de Lee Child en la que Tom Cruise es Jack Reacher, un expolicía militar encargado de demostrar la inocencia de un francotirador acusado de asesinar a cinco personas sin aparente conexión.</desc>
-  </programme>
-  <programme start="20260929205800 -0300" stop="20260929212100 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE PLATONIC PERMUTATION</sub-title>
-    <desc lang="pt">Enquanto Howard concorda relutantemente com um trabalho voluntário ao lado de Bernadette, Raj e Emily, e Sheldon e Amy passam o Dia de Ação de Graças juntos no aquário como amigos.</desc>
-  </programme>
-  <programme start="20260929212100 -0300" stop="20260929214600 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE EARWORM REVERBERATION</sub-title>
-    <desc lang="pt">Após deixar Leonard e Penny malucos em sua tentativa desesperada de lembrar o nome de uma música, Sheldon tem uma revelação quando percebe o porquê.</desc>
-  </programme>
-  <programme start="20260929214600 -0300" stop="20260929220900 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE OPENING NIGHT EXCITATION</sub-title>
-    <desc lang="pt">Após mais de cinco anos de namoro, Sheldon e Amy passam sua primeira noite juntos. BOB NEWHART volta como o Obi-Wan de Sheldon para aconselhá-lo.</desc>
-  </programme>
-  <programme start="20260929220000 -0300" stop="20260930004100 -0300" channel="WARNER_AR.ar">
-    <title lang="es">Aquaman</title>
-    <desc lang="es">Aquaman relata la historia sobre el origen del mitad humano, mitad atlante, Arthur Curry y acerca del viaje de su vida, uno que no solo lo obligará a confrontar quién es en realidad, sino que además descubrirá si es capaz de ser quien fue destinado a ser... un rey.</desc>
-  </programme>
-  <programme start="20260929220000 -0400" stop="20260930003700 -0400" channel="WARNER_CL.cl">
-    <title lang="es">Aquaman</title>
-    <desc lang="es">Aquaman relata la historia sobre el origen del mitad humano, mitad atlante, Arthur Curry y acerca del viaje de su vida, uno que no solo lo obligará a confrontar quién es en realidad, sino que además descubrirá si es capaz de ser quien fue destinado a ser... un rey.</desc>
-  </programme>
   <programme start="20260929220000 -0500" stop="20260930004900 -0500" channel="WARNER_CO.co">
     <title lang="es">Aquaman</title>
     <desc lang="es">Aquaman relata la historia sobre el origen del mitad humano, mitad atlante, Arthur Curry y acerca del viaje de su vida, uno que no solo lo obligará a confrontar quién es en realidad, sino que además descubrirá si es capaz de ser quien fue destinado a ser... un rey.</desc>
@@ -89,43 +33,13 @@
     <title lang="es">Aquaman</title>
     <desc lang="es">Aquaman relata la historia sobre el origen del mitad humano, mitad atlante, Arthur Curry y acerca del viaje de su vida, uno que no solo lo obligará a confrontar quién es en realidad, sino que además descubrirá si es capaz de ser quien fue destinado a ser... un rey.</desc>
   </programme>
-  <programme start="20260929220100 -0400" stop="20260930003100 -0400" channel="WARNER_VE.ve">
-    <title lang="es">Aquaman</title>
-    <desc lang="es">Aquaman relata la historia sobre el origen del mitad humano, mitad atlante, Arthur Curry y acerca del viaje de su vida, uno que no solo lo obligará a confrontar quién es en realidad, sino que además descubrirá si es capaz de ser quien fue destinado a ser... un rey.</desc>
-  </programme>
-  <programme start="20260929220900 -0300" stop="20260929223000 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE SALES CALL SUBLIMINATION</sub-title>
-    <desc lang="pt">Howard e Bernadette vivem a Síndrome do Ninho Vazio quando Stuart se muda. Enquanto isso, Penny dá um tiro no pé quando Leonard vai ao psiquiatra a pedido dela.</desc>
-  </programme>
-  <programme start="20260929223000 -0300" stop="20260930005000 -0300" channel="WARNER_BR.br">
-    <title lang="pt">Jack Reacher: O Último Tiro</title>
-    <desc lang="pt">Adaptação do romance de Lee Child no qual Tom Cruise é Jack Reacher, um ex-policial militar encarregado de provar a inocência de um franco-atirador acusado de assassinar cinco pessoas aleatórias.</desc>
-  </programme>
-  <programme start="20260930003100 -0400" stop="20260930005100 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
   <programme start="20260930003300 -0500" stop="20260930005300 -0500" channel="WARNER_AN.co">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260930003600 -0600" stop="20260930005700 -0600" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
-  <programme start="20260930003700 -0400" stop="20260930005800 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260930004100 -0300" stop="20260930010100 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
   <programme start="20260930004900 -0500" stop="20260930011200 -0500" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260930005000 -0300" stop="20260930011400 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">PRINCIPAL GALLAGHER'S LESBIAN LOVER</sub-title>
-    <desc lang="pt">Quando a diretora da escola de Jake exige uma reunião imediata com Alan por causa de um desenho feito por Jake, Alan pede a ajuda de Charlie, mas Charlie não responde. Quando Alan o acusa de não estar presente quando necessário, Charlie aceita atender os telefones no consultório quiroprático de Alan para provar-lhe o contrário, mas Charlie acaba contratando uma 'massagista' para que o ajude com a prática, complicando mais ainda a sua situação com seu irmão. Enquanto isso, antes de decidir o castigo de Jake, a diretora faz com que Alan conheça a mãe da menina que foi ofendida.</desc>
-  </programme>
-  <programme start="20260930005100 -0400" stop="20260930011200 -0400" channel="WARNER_VE.ve">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260930005300 -0500" stop="20260930011400 -0500" channel="WARNER_AN.co">
@@ -134,22 +48,11 @@
   <programme start="20260930005700 -0600" stop="20260930011700 -0600" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
-  <programme start="20260930005800 -0400" stop="20260930011800 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260930010100 -0300" stop="20260930012400 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
   <programme start="20260930011200 -0400" stop="20260930013400 -0400" channel="WARNER_VE.ve">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260930011200 -0500" stop="20260930013400 -0500" channel="WARNER_CO.co">
     <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260930011400 -0300" stop="20260930013800 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">CARPET BURNS AND A BITE MARK</sub-title>
-    <desc lang="pt">Charlie fica consternado ao descobrir que a recente série de encontros de Alan foram todos com sua ex-esposa, Judith. Charlie teme que se Alan e Judith se reconciliarem ele verá Jake muito pouco. Por isso Charlie faz tudo o que pode, incluindo tentar distrair Alan com belíssimas mulheres, para mantê-los separados. Acontece que Charlie subestima a habilidade de seu irmão para estragar seus relacionamentos por conta própria.</desc>
   </programme>
   <programme start="20260930011400 -0500" stop="20260930013700 -0500" channel="WARNER_AN.co">
     <title lang="es">THE BIG BANG THEORY</title>
@@ -158,9 +61,6 @@
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260930011800 -0400" stop="20260930014100 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260930012400 -0300" stop="20260930014800 -0300" channel="WARNER_AR.ar">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260930013400 -0400" stop="20260930015700 -0400" channel="WARNER_VE.ve">
@@ -172,18 +72,10 @@
   <programme start="20260930013700 -0500" stop="20260930020000 -0500" channel="WARNER_AN.co">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
-  <programme start="20260930013800 -0300" stop="20260930020100 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">YOUR DISMISSIVE ATTITUDE TOWARDS BOOBS</sub-title>
-    <desc lang="pt">Alan deixa Charlie furioso quando dá permissão à Berta para que se mude para a casa na praia por alguns dias. Charlie reclama com Alan e o lembra que ele é um mero hóspede e não tem o direito de permitir que Berta se instale na casa junto com eles. Magoado com a reação de Charlie, Alan decide que ele e Jake precisam se mudar e ter seu próprio espaço. Porém, depois de uma procura por apartamentos com sua mãe, Alan implora à Charlie que os deixe continuar morando ali. Nenhum deles se dá conta de que Berta os usou como marionetes para discutirem e brigarem para que ela conseguisse se mudar permanentemente para a casa de Charlie.</desc>
-  </programme>
   <programme start="20260930014000 -0600" stop="20260930020300 -0600" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260930014100 -0400" stop="20260930020400 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260930014800 -0300" stop="20260930020800 -0300" channel="WARNER_AR.ar">
     <title lang="es">THE BIG BANG THEORY</title>
   </programme>
   <programme start="20260930015700 -0400" stop="20260930021900 -0400" channel="WARNER_VE.ve">
@@ -194,11 +86,6 @@
   </programme>
   <programme start="20260930020000 -0500" stop="20260930022200 -0500" channel="WARNER_AN.co">
     <title lang="es">THE BIG BANG THEORY</title>
-  </programme>
-  <programme start="20260930020100 -0300" stop="20260930022400 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">WE CALLED IT MR. PINKY</sub-title>
-    <desc lang="pt">Quando uma mulher com quem ele está mantendo relações declara seu amor por ele, Charlie responde de forma imprópria e sofre de impotência. Posteriormente, Rose explica que a incapacidade de Charlie tem em manter uma relação duradoura se deve a problemas não resolvidos com sua mãe. Para mal dos pecados de Alan, Jake pede conselhos à Charlie porque quer se relacionar com uma menina da escola, de quem ele está gostando.</desc>
   </programme>
   <programme start="20260930020300 -0600" stop="20260930022500 -0600" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
