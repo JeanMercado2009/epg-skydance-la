@@ -10,7 +10,8 @@ import requests
 # -------------------------------------------------------------
 # CONFIGURACIÓN GENERAL Y CANALES
 # -------------------------------------------------------------
-RETENTION_DAYS = 15
+RETENTION_DAYS_PAST = 5     # Días hacia atrás a conservar en la grilla
+RETENTION_DAYS_FUTURE = 15   # Días hacia adelante a conservar (ventana activa)
 
 AUTH_URL = "https://epg.tapkit.warnermedia.com/api/security/oauth/token"
 BASE_DAILY_URL = "https://epg.tapkit.warnermedia.com/api/daily/shows?feedId={feed_id}&format=xls"
@@ -194,7 +195,6 @@ def login_and_get_token():
     return token
 
 def get_target_months():
-    """Calcula automáticamente el mes actual y el mes siguiente (manejando cambios de año)."""
     now = datetime.now()
     year_curr, month_curr = now.year, now.month
     
@@ -207,14 +207,7 @@ def get_target_months():
 
     return [(year_curr, month_curr), (year_next, month_next)]
 
-# -------------------------------------------------------------
-# DESCARGA Y LECTURA AUTOMÁTICA DE GRILLAS MENSUALES Y TVEGO
-# -------------------------------------------------------------
 def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_type="PAN"):
-    """
-    Descarga dinámicamente las grillas mensuales (PAN) y subgrillas TVEGO de Tapkit.
-    Indexa: Títulos traducidos, sinopsis en español y Año de Producción.
-    """
     months = get_target_months()
     combined_dict = {}
 
@@ -231,15 +224,12 @@ def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_t
 
     for year, month in months:
         month_str = f"{month:02d}"
-        
-        # Peticiones para Grilla Mensual y Subgrilla TVEGO
         files_to_check = [
             f"{network}_{year}_{month_str}_grids_{lang}_{feed_type}.xls",
             f"{network}_{year}_{month_str}_grids_{lang}_TVEGO.xlsx"
         ]
 
         for filename in files_to_check:
-            is_tvego = "TVEGO" in filename
             path = f"network-files/{network}/{year}/{month_str}/grids/{lang}/{filename}"
             payload = [{"name": filename, "path": path}]
 
@@ -251,7 +241,6 @@ def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_t
                 content_bytes = io.BytesIO(res.content)
                 df_grid = None
 
-                # Si es un archivo ZIP o Excel directo
                 if zipfile.is_zipfile(content_bytes):
                     with zipfile.ZipFile(content_bytes) as z:
                         for z_name in z.namelist():
@@ -268,7 +257,6 @@ def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_t
                         df_grid = pd.read_html(content_bytes)[0]
 
                 if df_grid is not None:
-                    # Normalización de nombres de columnas
                     if any("Program Name" in str(col) or "Schedule Date" in str(col) for col in df_grid.columns):
                         pass
                     elif len(df_grid) > 0 and any("Program Name" in str(val) for val in df_grid.iloc[0].values):
@@ -293,9 +281,8 @@ def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_t
                             }
                             count += 1
 
-                    print(f"[OK] {filename} indexado con éxito ({count} registros).")
-
-            except Exception as e:
+                print(f"[OK] {filename} indexado con éxito ({count} registros).")
+            except Exception:
                 pass
 
     print(f"[ÉXITO] Metadatos mensuales activos indexados: {len(combined_dict)} elementos.")
@@ -489,7 +476,6 @@ def process_feed(root, feed_cfg, xls_path, monthly_meta=None):
         ep_name_val = str(row.get(col_ep_name, "")).strip() if col_ep_name and pd.notna(row.get(col_ep_name)) else ""
         year_val = str(row.get(col_year, "")).strip() if col_year and pd.notna(row.get(col_year)) else ""
 
-        # REGLA CINE CARTOON: Formatear bloque de cine
         if prog_name_val.lower() == "cine cartoon":
             movie_title = press_title_val or ep_name_val
             if movie_title and movie_title.lower() != "nan":
@@ -520,7 +506,6 @@ def process_feed(root, feed_cfg, xls_path, monthly_meta=None):
         elif col_desc and pd.notna(row.get(col_desc)) and str(row.get(col_desc)).strip():
             desc_val = str(row.get(col_desc)).strip()
 
-        # CRUCE CON GRILLA MENSUAL Y TVEGO EN CNLA_PAN.co
         if feed_cfg["feed_id"] == "CNLA_PAN" and monthly_meta:
             search_key = ep_name_val.upper() if ep_name_val else title_val.replace(" (Cine Cartoon)", "").upper()
             if search_key in monthly_meta:
@@ -532,11 +517,9 @@ def process_feed(root, feed_cfg, xls_path, monthly_meta=None):
                 if not year_val and match["year"]:
                     year_val = match["year"]
 
-        # Respaldo TMDb si la descripción continúa vacía
         if not desc_val and title_val:
             desc_val = fetch_tmdb_synopsis(title_val.replace(" (Cine Cartoon)", ""))
 
-        # Limpieza final del Año de Producción
         clean_year = year_val.split('.')[0] if year_val and year_val.replace('.', '', 1).isdigit() else ""
 
         raw_events.append({
@@ -575,7 +558,6 @@ def process_feed(root, feed_cfg, xls_path, monthly_meta=None):
             desc = ET.SubElement(prog, "desc", {"lang": lang})
             desc.text = ev["desc"]
 
-        # AÑO DE PRODUCCIÓN OBLIGATORIO EN XMLTV (<date>YYYY</date>)
         if ev["year"]:
             date_elem = ET.SubElement(prog, "date")
             date_elem.text = ev["year"]
@@ -586,17 +568,20 @@ def process_feed(root, feed_cfg, xls_path, monthly_meta=None):
 
         new_programmes.append(prog)
 
-    existing_starts = {p.attrib.get("start") for p in root.findall("programme") if p.attrib.get("channel") == channel_id}
+    # Reemplazar o agregar programas existentes evitando duplicados exactos por start+channel
+    existing_progs_map = {p.attrib.get("start"): p for p in root.findall("programme") if p.attrib.get("channel") == channel_id}
+    
     for np in new_programmes:
-        if np.attrib.get("start") not in existing_starts:
-            root.append(np)
+        start_key = np.attrib.get("start")
+        if start_key in existing_progs_map:
+            root.remove(existing_progs_map[start_key])
+        root.append(np)
 
-    print(f"[{channel_id}] Eventos procesados hoy: {len(new_programmes)}")
+    print(f"[{channel_id}] Eventos procesados e integrados hoy: {len(new_programmes)}")
 
 def main():
     token = login_and_get_token()
 
-    # Descarga e indexación dinámica de Grillas Mensuales + TVEGO para Cartoon Network
     cn_monthly_meta = download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_type="PAN")
 
     for xml_filename, net_config in NETWORKS_CONFIG.items():
@@ -614,13 +599,16 @@ def main():
         for feed_cfg in net_config["feeds"]:
             try:
                 xls_path = download_feed_xls(token, feed_cfg["feed_id"], net_config["referer"])
-                
                 use_meta = cn_monthly_meta if "CNLA" in xml_filename else None
                 process_feed(root, feed_cfg, xls_path, monthly_meta=use_meta)
             except Exception as e:
                 print(f"[ERROR] Error al procesar feed {feed_cfg['feed_id']}: {e}")
 
-        cutoff_date = datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)
+        # APLICAR VENTANA DESLIZANTE DE 15 DÍAS (Pasados y Futuros)
+        now_utc = datetime.now(timezone.utc)
+        cutoff_past = now_utc - timedelta(days=RETENTION_DAYS_PAST)
+        cutoff_future = now_utc + timedelta(days=RETENTION_DAYS_FUTURE)
+
         for p in list(root.findall("programme")):
             ch_id = p.attrib.get("channel")
             if ch_id not in active_channel_ids:
@@ -628,7 +616,11 @@ def main():
                 continue
             cfg = next((c for c in net_config["feeds"] if c["channel_id"] == ch_id), net_config["feeds"][0])
             stop_dt = parse_xmltv_date(p.attrib.get("stop", ""), cfg["tz"])
-            if stop_dt and stop_dt < cutoff_date:
+            start_dt = parse_xmltv_date(p.attrib.get("start", ""), cfg["tz"])
+            
+            if stop_dt and stop_dt.astimezone(timezone.utc) < cutoff_past:
+                root.remove(p)
+            elif start_dt and start_dt.astimezone(timezone.utc) > cutoff_future:
                 root.remove(p)
 
         sorted_progs = sorted(
@@ -642,7 +634,7 @@ def main():
 
         ET.indent(root, space="  ", level=0)
         ET.ElementTree(root).write(xml_filename, encoding="utf-8", xml_declaration=True)
-        print(f"[OK] Archivo {xml_filename} guardado con éxito. Total programas: {len(sorted_progs)}")
+        print(f"[OK] Archivo {xml_filename} guardado con éxito. Total programas activos: {len(sorted_progs)}")
 
 if __name__ == "__main__":
     main()
