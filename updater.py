@@ -11,7 +11,7 @@ import requests
 # CONFIGURACIÓN GENERAL Y CANALES
 # -------------------------------------------------------------
 RETENTION_DAYS_PAST = 5     # Días hacia atrás a conservar en la grilla
-RETENTION_DAYS_FUTURE = 15   # Días hacia adelante a conservar (ventana activa)
+RETENTION_DAYS_FUTURE = 15   # Ventana activa de 15 días hacia adelante
 
 AUTH_URL = "https://epg.tapkit.warnermedia.com/api/security/oauth/token"
 BASE_DAILY_URL = "https://epg.tapkit.warnermedia.com/api/daily/shows?feedId={feed_id}&format=xls"
@@ -434,6 +434,8 @@ def process_feed(root, feed_cfg, xls_path, monthly_meta=None):
     
     col_desc = find_column(cols, ["Program Sinopsis Prensa(ESPA)", "Title Synopsis", "Synopsis", "Description"])
     col_ep_desc = find_column(cols, ["Episode Sinopsis Prensa(ESPA)", "Episode Synopsis"])
+    
+    col_is_new = find_column(cols, ["Is Premiere", "New Episode", "Premiere", "Estreno", "Title Classification", "Y/N"])
 
     first_date_raw = str(df.iloc[0].get(col_date, "")).strip()
     match_init = re.search(r"(\d{1,2})[-/](\d{1,2})[-/](\d{4})", first_date_raw)
@@ -520,6 +522,18 @@ def process_feed(root, feed_cfg, xls_path, monthly_meta=None):
         if not desc_val and title_val:
             desc_val = fetch_tmdb_synopsis(title_val.replace(" (Cine Cartoon)", ""))
 
+        is_new_episode = False
+        if col_is_new and pd.notna(row.get(col_is_new)):
+            val_new = str(row.get(col_is_new)).strip().upper()
+            if val_new == "Y":
+                is_new_episode = True
+
+        if is_new_episode:
+            if ep_name_val and ep_name_val.lower() != "nan":
+                ep_name_val = f"{ep_name_val} (NUEVO EPISODIO)"
+            elif title_val and not "(NUEVO EPISODIO)" in title_val:
+                title_val = f"{title_val} (NUEVO EPISODIO)"
+
         clean_year = year_val.split('.')[0] if year_val and year_val.replace('.', '', 1).isdigit() else ""
 
         raw_events.append({
@@ -568,7 +582,6 @@ def process_feed(root, feed_cfg, xls_path, monthly_meta=None):
 
         new_programmes.append(prog)
 
-    # Reemplazar o agregar programas existentes evitando duplicados exactos por start+channel
     existing_progs_map = {p.attrib.get("start"): p for p in root.findall("programme") if p.attrib.get("channel") == channel_id}
     
     for np in new_programmes:
@@ -604,7 +617,6 @@ def main():
             except Exception as e:
                 print(f"[ERROR] Error al procesar feed {feed_cfg['feed_id']}: {e}")
 
-        # APLICAR VENTANA DESLIZANTE DE 15 DÍAS (Pasados y Futuros)
         now_utc = datetime.now(timezone.utc)
         cutoff_past = now_utc - timedelta(days=RETENTION_DAYS_PAST)
         cutoff_future = now_utc + timedelta(days=RETENTION_DAYS_FUTURE)
