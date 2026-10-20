@@ -15,7 +15,6 @@ RETENTION_DAYS = 15
 AUTH_URL = "https://epg.tapkit.warnermedia.com/api/security/oauth/token"
 BASE_DAILY_URL = "https://epg.tapkit.warnermedia.com/api/daily/shows?feedId={feed_id}&format=xls"
 
-# Configuración de TMDb
 TMDB_API_KEY = os.environ.get("TMDB_API_KEY", "").strip()
 TMDB_TOKEN = os.environ.get("TMDB_TOKEN", "").strip()
 
@@ -161,7 +160,7 @@ NETWORKS_CONFIG = {
 }
 
 COMMON_HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
     "Accept": "application/json, text/plain, */*",
     "Accept-Language": "es",
     "Origin": "https://epg.tapkit.warnermedia.com",
@@ -194,9 +193,6 @@ def login_and_get_token():
     print("[OK] Sesión iniciada y token obtenido exitosamente.")
     return token
 
-# -------------------------------------------------------------
-# FUNCIÓN DE DESCARGA AUTOMÁTICA DE SUBGRILLAS TVEGO
-# -------------------------------------------------------------
 def get_target_months():
     """Calcula automáticamente el mes actual y el mes siguiente (manejando cambios de año)."""
     now = datetime.now()
@@ -211,16 +207,19 @@ def get_target_months():
 
     return [(year_curr, month_curr), (year_next, month_next)]
 
-def download_and_load_tvego_dynamic(token, network="CNLA", lang="SPA"):
+# -------------------------------------------------------------
+# DESCARGA Y LECTURA AUTOMÁTICA DE GRILLAS MENSUALES Y TVEGO
+# -------------------------------------------------------------
+def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_type="PAN"):
     """
-    Descarga y combina las subgrillas de TVEGO para el mes actual y el siguiente.
-    Indexa 'Original Episode Title' -> 'Episode Title (ESPA)' y 'Episode Synopsis VOD (ESPA)'.
+    Descarga dinámicamente las grillas mensuales (PAN) y subgrillas TVEGO de Tapkit.
+    Indexa: Títulos traducidos, sinopsis en español y Año de Producción.
     """
     months = get_target_months()
-    combined_tvego_dict = {}
+    combined_dict = {}
 
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Accept": "application/json, text/plain, */*",
         "Content-Type": "application/json",
         "Authorization": f"Bearer {token}",
@@ -232,46 +231,77 @@ def download_and_load_tvego_dynamic(token, network="CNLA", lang="SPA"):
 
     for year, month in months:
         month_str = f"{month:02d}"
-        filename = f"{network}_{year}_{month_str}_grids_{lang}_TVEGO.xlsx"
-        path = f"network-files/{network}/{year}/{month_str}/grids/{lang}/{filename}"
+        
+        # Peticiones para Grilla Mensual y Subgrilla TVEGO
+        files_to_check = [
+            f"{network}_{year}_{month_str}_grids_{lang}_{feed_type}.xls",
+            f"{network}_{year}_{month_str}_grids_{lang}_TVEGO.xlsx"
+        ]
 
-        payload = [{"name": filename, "path": path}]
+        for filename in files_to_check:
+            is_tvego = "TVEGO" in filename
+            path = f"network-files/{network}/{year}/{month_str}/grids/{lang}/{filename}"
+            payload = [{"name": filename, "path": path}]
 
-        try:
-            res = requests.post(url, json=payload, headers=headers, timeout=30)
-            if res.status_code != 200:
-                print(f"[INFO] No se encontró subgrilla TVEGO para {year}-{month_str} ({filename}).")
-                continue
+            try:
+                res = requests.post(url, json=payload, headers=headers, timeout=30)
+                if res.status_code != 200:
+                    continue
 
-            with zipfile.ZipFile(io.BytesIO(res.content)) as z:
-                for zip_filename in z.namelist():
-                    if zip_filename.endswith(".xlsx"):
-                        with z.open(zip_filename) as f:
-                            df_tvego = pd.read_excel(f)
-                            
-                            count = 0
-                            for _, row in df_tvego.iterrows():
-                                orig_ep = str(row.get("Original Episode Title", "")).strip().upper()
-                                es_title = str(row.get("Episode Title (ESPA)", "")).strip()
-                                es_desc = str(row.get("Episode Synopsis VOD (ESPA)", "")).strip()
+                content_bytes = io.BytesIO(res.content)
+                df_grid = None
 
-                                if orig_ep and orig_ep != "NAN":
-                                    combined_tvego_dict[orig_ep] = {
-                                        "title": es_title if es_title and es_title.lower() != "nan" else "",
-                                        "desc": es_desc if es_desc and es_desc.lower() != "nan" else ""
-                                    }
-                                    count += 1
+                # Si es un archivo ZIP o Excel directo
+                if zipfile.is_zipfile(content_bytes):
+                    with zipfile.ZipFile(content_bytes) as z:
+                        for z_name in z.namelist():
+                            if z_name.endswith((".xlsx", ".xls")):
+                                with z.open(z_name) as f:
+                                    try:
+                                        df_grid = pd.read_excel(f)
+                                    except:
+                                        df_grid = pd.read_html(f)[0]
+                else:
+                    try:
+                        df_grid = pd.read_excel(content_bytes)
+                    except:
+                        df_grid = pd.read_html(content_bytes)[0]
 
-                            print(f"[OK] TVEGO indexado automáticamente para {year}-{month_str} ({count} episodios).")
+                if df_grid is not None:
+                    # Normalización de nombres de columnas
+                    if any("Program Name" in str(col) or "Schedule Date" in str(col) for col in df_grid.columns):
+                        pass
+                    elif len(df_grid) > 0 and any("Program Name" in str(val) for val in df_grid.iloc[0].values):
+                        df_grid.columns = df_grid.iloc[0]
+                        df_grid = df_grid[1:].reset_index(drop=True)
 
-        except Exception as e:
-            print(f"[WARN] Ocurrió un inconveniente al procesar TVEGO para {year}-{month_str}: {e}")
+                    count = 0
+                    for _, row in df_grid.iterrows():
+                        orig_title = str(row.get("Original Title", row.get("Original Episode Title", ""))).strip().upper()
+                        orig_ep = str(row.get("Original Episode Title", "")).strip().upper()
+                        
+                        es_title = str(row.get("Press Title (ESPA)", row.get("Episode Title (ESPA)", row.get("Episode Title(ESPA)", "")))).strip()
+                        es_desc = str(row.get("Episode Sinopsis Prensa(ESPA)", row.get("Episode Synopsis VOD (ESPA)", row.get("Program Sinopsis Prensa(ESPA)", "")))).strip()
+                        year_val = str(row.get("Year", row.get("Año", ""))).strip()
 
-    print(f"[ÉXITO] Diccionario total TVEGO activo: {len(combined_tvego_dict)} episodios cargados.")
-    return combined_tvego_dict
+                        key = orig_ep if orig_ep and orig_ep != "NAN" else orig_title
+                        if key and key != "NAN":
+                            combined_dict[key] = {
+                                "title": es_title if es_title and es_title.lower() != "nan" else "",
+                                "desc": es_desc if es_desc and es_desc.lower() != "nan" else "",
+                                "year": year_val if year_val and year_val.lower() != "nan" and year_val.isdigit() else ""
+                            }
+                            count += 1
+
+                    print(f"[OK] {filename} indexado con éxito ({count} registros).")
+
+            except Exception as e:
+                pass
+
+    print(f"[ÉXITO] Metadatos mensuales activos indexados: {len(combined_dict)} elementos.")
+    return combined_dict
 
 def fetch_tmdb_synopsis(title):
-    """Busca la sinopsis en español en TMDb usando estrategias de limpieza y respaldo."""
     if not title or (not TMDB_TOKEN and not TMDB_API_KEY):
         return ""
     
@@ -289,7 +319,6 @@ def fetch_tmdb_synopsis(title):
             continue
             
         params = {"query": query_str, "language": "es-ES"}
-        
         try:
             url_tv = "https://api.themoviedb.org/3/search/tv"
             res = requests.get(url_tv, headers=headers, params=params, timeout=10)
@@ -312,7 +341,7 @@ def fetch_tmdb_synopsis(title):
 def download_feed_xls(token, feed_id, referer_url):
     session = requests.Session()
     session.headers.update({
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Accept": "application/json, text/plain, */*",
         "Accept-Language": "es",
         "Authorization": f"Bearer {token}",
@@ -367,10 +396,18 @@ def format_xmltv_date(dt, tz_str):
 
 def load_excel_schedule(file_path):
     try:
-        df = pd.read_excel(file_path, header=1, sheet_name=0)
+        df = pd.read_excel(file_path, sheet_name=0)
+        if any("Program Name" in str(col) or "Schedule Date" in str(col) for col in df.columns):
+            return df
+        return pd.read_excel(file_path, header=1, sheet_name=0)
     except Exception:
-        df = pd.read_html(file_path, header=1)[0]
-    return df
+        try:
+            df = pd.read_html(file_path)[0]
+            if not any("Program Name" in str(col) or "Schedule Date" in str(col) for col in df.columns):
+                df = pd.read_html(file_path, header=1)[0]
+            return df
+        except:
+            return pd.read_html(file_path, header=1)[0]
 
 def find_column(cols_dict, possible_names):
     for name in possible_names:
@@ -382,7 +419,7 @@ def find_column(cols_dict, possible_names):
                 return col_val
     return None
 
-def process_feed(root, feed_cfg, xls_path, tvego_dict=None):
+def process_feed(root, feed_cfg, xls_path, monthly_meta=None):
     channel_id = feed_cfg["channel_id"]
     channel_name = feed_cfg["channel_name"]
     lang = feed_cfg["lang"]
@@ -399,15 +436,17 @@ def process_feed(root, feed_cfg, xls_path, tvego_dict=None):
     cols = {str(c).strip(): c for c in df.columns}
     
     col_date = find_column(cols, ["Schedule Date", "Date", "Fecha"]) or df.columns[0]
-    col_time = find_column(cols, ["Title Start Time", "Start Time", "Hora"]) or df.columns[1]
-    col_title = find_column(cols, ["Title Name", "Title", "Programa"]) or df.columns[2]
+    col_time = find_column(cols, ["Program Start Time", "Title Start Time", "Start Time", "Hora"]) or df.columns[1]
+    col_title = find_column(cols, ["Program Name", "Title Name", "Title", "Programa"]) or df.columns[2]
+    col_press_title = find_column(cols, ["Press Title (ESPA)", "Original Title"])
     
-    col_ep_name = find_column(cols, ["Episode Name English", "Episode Name", "Sub-title", "Episode Title(ESPA)"])
+    col_ep_name = find_column(cols, ["Episode Title(ESPA)", "Episode Title (ESPA)", "Episode Name English", "Episode Name", "Sub-title"])
     col_ep_num = find_column(cols, ["Episode", "Episode Number", "Episodio"])
     col_season = find_column(cols, ["Season", "Season Number", "Temporada"])
+    col_year = find_column(cols, ["Year", "Año"])
     
-    col_desc = find_column(cols, ["Title Synopsis", "Synopsis", "Description"])
-    col_ep_desc = find_column(cols, ["Episode Synopsis", "Episode Sinopsis Prensa(ESPA)"])
+    col_desc = find_column(cols, ["Program Sinopsis Prensa(ESPA)", "Title Synopsis", "Synopsis", "Description"])
+    col_ep_desc = find_column(cols, ["Episode Sinopsis Prensa(ESPA)", "Episode Synopsis"])
 
     first_date_raw = str(df.iloc[0].get(col_date, "")).strip()
     match_init = re.search(r"(\d{1,2})[-/](\d{1,2})[-/](\d{4})", first_date_raw)
@@ -445,9 +484,22 @@ def process_feed(root, feed_cfg, xls_path, tvego_dict=None):
         if event_dt >= cycle_end:
             break
 
-        title_val = str(row.get(col_title, "")).strip() if pd.notna(row.get(col_title)) else ""
+        prog_name_val = str(row.get(col_title, "")).strip() if pd.notna(row.get(col_title)) else ""
+        press_title_val = str(row.get(col_press_title, "")).strip() if col_press_title and pd.notna(row.get(col_press_title)) else ""
         ep_name_val = str(row.get(col_ep_name, "")).strip() if col_ep_name and pd.notna(row.get(col_ep_name)) else ""
-        
+        year_val = str(row.get(col_year, "")).strip() if col_year and pd.notna(row.get(col_year)) else ""
+
+        # REGLA CINE CARTOON: Formatear bloque de cine
+        if prog_name_val.lower() == "cine cartoon":
+            movie_title = press_title_val or ep_name_val
+            if movie_title and movie_title.lower() != "nan":
+                title_val = f"{movie_title} (Cine Cartoon)"
+            else:
+                title_val = "Cine Cartoon"
+            ep_name_val = ""
+        else:
+            title_val = prog_name_val
+
         season_val = str(row.get(col_season, "")).strip() if col_season and pd.notna(row.get(col_season)) else ""
         ep_num_val = str(row.get(col_ep_num, "")).strip() if col_ep_num and pd.notna(row.get(col_ep_num)) else ""
         
@@ -468,26 +520,32 @@ def process_feed(root, feed_cfg, xls_path, tvego_dict=None):
         elif col_desc and pd.notna(row.get(col_desc)) and str(row.get(col_desc)).strip():
             desc_val = str(row.get(col_desc)).strip()
 
-        # INYECCIÓN AUTOMÁTICA DE TVEGO PARA PANREGIONAL (CNLA_PAN)
-        if feed_cfg["feed_id"] == "CNLA_PAN" and tvego_dict and ep_name_val:
-            ep_key = ep_name_val.upper()
-            if ep_key in tvego_dict:
-                match = tvego_dict[ep_key]
-                if match["title"]:
+        # CRUCE CON GRILLA MENSUAL Y TVEGO EN CNLA_PAN.co
+        if feed_cfg["feed_id"] == "CNLA_PAN" and monthly_meta:
+            search_key = ep_name_val.upper() if ep_name_val else title_val.replace(" (Cine Cartoon)", "").upper()
+            if search_key in monthly_meta:
+                match = monthly_meta[search_key]
+                if match["title"] and not ("(Cine Cartoon)" in title_val):
                     ep_name_val = match["title"]
                 if not desc_val and match["desc"]:
                     desc_val = match["desc"]
+                if not year_val and match["year"]:
+                    year_val = match["year"]
 
-        # Respaldo automático con TMDb si la descripción sigue vacía
+        # Respaldo TMDb si la descripción continúa vacía
         if not desc_val and title_val:
-            desc_val = fetch_tmdb_synopsis(title_val)
+            desc_val = fetch_tmdb_synopsis(title_val.replace(" (Cine Cartoon)", ""))
+
+        # Limpieza final del Año de Producción
+        clean_year = year_val.split('.')[0] if year_val and year_val.replace('.', '', 1).isdigit() else ""
 
         raw_events.append({
             "start": event_dt,
             "title": title_val if title_val.lower() != "nan" else "",
             "sub_title": ep_name_val if ep_name_val.lower() != "nan" and ep_name_val.lower() != title_val.lower() else "",
             "episode_num": xmltv_season_ep,
-            "desc": desc_val if desc_val.lower() != "nan" else ""
+            "desc": desc_val if desc_val.lower() != "nan" else "",
+            "year": clean_year
         })
 
     raw_events = sorted(raw_events, key=lambda x: x["start"])
@@ -513,13 +571,18 @@ def process_feed(root, feed_cfg, xls_path, tvego_dict=None):
             sub_title = ET.SubElement(prog, "sub-title", {"lang": lang})
             sub_title.text = ev["sub_title"]
 
-        if ev["episode_num"]:
-            ep_tag = ET.SubElement(prog, "episode-num", {"system": "xmltv_ns"})
-            ep_tag.text = ev["episode_num"]
-
         if ev["desc"]:
             desc = ET.SubElement(prog, "desc", {"lang": lang})
             desc.text = ev["desc"]
+
+        # AÑO DE PRODUCCIÓN OBLIGATORIO EN XMLTV (<date>YYYY</date>)
+        if ev["year"]:
+            date_elem = ET.SubElement(prog, "date")
+            date_elem.text = ev["year"]
+
+        if ev["episode_num"]:
+            ep_tag = ET.SubElement(prog, "episode-num", {"system": "xmltv_ns"})
+            ep_tag.text = ev["episode_num"]
 
         new_programmes.append(prog)
 
@@ -533,8 +596,8 @@ def process_feed(root, feed_cfg, xls_path, tvego_dict=None):
 def main():
     token = login_and_get_token()
 
-    # Carga automática de subgrilla TVEGO para Cartoon Network (SPA)
-    tvego_cn_spa = download_and_load_tvego_dynamic(token, network="CNLA", lang="SPA")
+    # Descarga e indexación dinámica de Grillas Mensuales + TVEGO para Cartoon Network
+    cn_monthly_meta = download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_type="PAN")
 
     for xml_filename, net_config in NETWORKS_CONFIG.items():
         print(f"\n==========================================")
@@ -552,9 +615,8 @@ def main():
             try:
                 xls_path = download_feed_xls(token, feed_cfg["feed_id"], net_config["referer"])
                 
-                # Transmitir el diccionario tvego_cn_spa al procesar solo en CNLA
-                use_tvego = tvego_cn_spa if "CNLA" in xml_filename else None
-                process_feed(root, feed_cfg, xls_path, tvego_dict=use_tvego)
+                use_meta = cn_monthly_meta if "CNLA" in xml_filename else None
+                process_feed(root, feed_cfg, xls_path, monthly_meta=use_meta)
             except Exception as e:
                 print(f"[ERROR] Error al procesar feed {feed_cfg['feed_id']}: {e}")
 
