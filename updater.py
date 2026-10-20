@@ -272,14 +272,22 @@ def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_t
                         es_desc = str(row.get("Episode Sinopsis Prensa(ESPA)", row.get("Episode Synopsis VOD (ESPA)", row.get("Program Sinopsis Prensa(ESPA)", "")))).strip()
                         year_val = str(row.get("Year", row.get("Año", ""))).strip()
 
-                        key = orig_ep if orig_ep and orig_ep != "NAN" else orig_title
-                        if key and key != "NAN":
-                            combined_dict[key] = {
-                                "title": es_title if es_title and es_title.lower() != "nan" else "",
-                                "desc": es_desc if es_desc and es_desc.lower() != "nan" else "",
-                                "year": year_val if year_val and year_val.lower() != "nan" and year_val.isdigit() else ""
-                            }
-                            count += 1
+                        meta_data = {
+                            "title": es_title if es_title and es_title.lower() != "nan" else "",
+                            "desc": es_desc if es_desc and es_desc.lower() != "nan" else "",
+                            "year": year_val if year_val and year_val.lower() != "nan" and year_val.isdigit() else ""
+                        }
+
+                        if orig_ep and orig_ep != "NAN":
+                            combined_dict[orig_ep] = meta_data
+                            combined_dict[orig_ep.upper()] = meta_data
+                        if orig_title and orig_title != "NAN":
+                            combined_dict[orig_title] = meta_data
+                            combined_dict[orig_title.upper()] = meta_data
+                        if es_title and es_title != "NAN":
+                            combined_dict[es_title.upper()] = meta_data
+
+                        count += 1
 
                 print(f"[OK] {filename} indexado con éxito ({count} registros).")
             except Exception:
@@ -508,16 +516,23 @@ def process_feed(root, feed_cfg, xls_path, monthly_meta=None):
         elif col_desc and pd.notna(row.get(col_desc)) and str(row.get(col_desc)).strip():
             desc_val = str(row.get(col_desc)).strip()
 
+        # CRUCE MEJORADO Y ROBUSTO CON METADATOS MENSUALES (Forzar traducción al español)
         if feed_cfg["feed_id"] == "CNLA_PAN" and monthly_meta:
-            search_key = ep_name_val.upper() if ep_name_val else title_val.replace(" (Cine Cartoon)", "").upper()
-            if search_key in monthly_meta:
-                match = monthly_meta[search_key]
-                if match["title"] and not ("(Cine Cartoon)" in title_val):
-                    ep_name_val = match["title"]
-                if not desc_val and match["desc"]:
-                    desc_val = match["desc"]
-                if not year_val and match["year"]:
-                    year_val = match["year"]
+            search_keys = [ep_name_val.upper(), title_val.upper()]
+            matched_info = None
+
+            for key in search_keys:
+                if key and key in monthly_meta:
+                    matched_info = monthly_meta[key]
+                    break
+
+            if matched_info:
+                if matched_info["title"] and matched_info["title"].lower() != title_val.lower() and not ("(Cine Cartoon)" in title_val):
+                    ep_name_val = matched_info["title"]
+                if not desc_val and matched_info["desc"]:
+                    desc_val = matched_info["desc"]
+                if not year_val and matched_info["year"]:
+                    year_val = matched_info["year"]
 
         if not desc_val and title_val:
             desc_val = fetch_tmdb_synopsis(title_val.replace(" (Cine Cartoon)", ""))
