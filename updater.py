@@ -552,7 +552,7 @@ def main():
             try:
                 xls_path = download_feed_xls(token, feed_cfg["feed_id"], net_config["referer"])
                 
-                # Transmitir el diccionario tvego_cn_spa al procesar
+                # Transmitir el diccionario tvego_cn_spa al procesar solo en CNLA
                 use_tvego = tvego_cn_spa if "CNLA" in xml_filename else None
                 process_feed(root, feed_cfg, xls_path, tvego_dict=use_tvego)
             except Exception as e:
