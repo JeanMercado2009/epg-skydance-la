@@ -2,8 +2,8 @@ name: Actualización Diaria EPG Warner Bros Skydance
 
 on:
   schedule:
-    # 20:00 COT (UTC-5) = 01:00 UTC
-    - cron: '0 1 * * *'
+    # 19:30 COT (UTC-5) = 00:30 UTC
+    - cron: '30 0 * * *'
   workflow_dispatch:
 
 permissions:
@@ -46,6 +46,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No hay cambios nuevos en las grillas."
           else
-            git commit -m "Auto-update EPG WB Skydance + Mensual + TVEGO: $(date +'%Y-%m-%d %H:%M')"
+            git commit -m "Auto-update EPG WB Skydance + Mensual + TVEGO + Estrenos: $(date +'%Y-%m-%d %H:%M')"
             git push
           fi
