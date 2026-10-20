@@ -29,7 +29,7 @@ jobs:
         run: |
           pip install requests pandas xlrd openpyxl beautifulsoup4 html5lib
 
-      - name: Descargar y Procesar Grillas
+      - name: Descargar y Procesar Grillas Diarias y Subgrillas TVEGO
         env:
           TAPKIT_EMAIL: ${{ secrets.TAPKIT_EMAIL }}
           TAPKIT_PASSWORD: ${{ secrets.TAPKIT_PASSWORD }}
@@ -46,6 +46,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No hay cambios nuevos en las grillas."
           else
-            git commit -m "Auto-update EPG WB Skydance: $(date +'%Y-%m-%d %H:%M')"
+            git commit -m "Auto-update EPG WB Skydance + TVEGO: $(date +'%Y-%m-%d %H:%M')"
             git push
           fi
