@@ -18,632 +18,10 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
-  <programme start="20261014200500 -0500" stop="20261014220000 -0500" channel="TNT_CO.co">
-    <title lang="es">ALFA</title>
-    <sub-title lang="es">ALPHA</sub-title>
-    <desc lang="es">En el pasado prehistórico, un joven lucha por regresar a casa después de haber sido separado de su tribu durante una cacería de búfalos, pero en el camino conocerá a un lobo, y su amistad con él cambiaría a la humanidad.</desc>
-  </programme>
-  <programme start="20261014200900 -0500" stop="20261014220000 -0500" channel="TNT_PAN.co">
-    <title lang="es">ALFA</title>
-    <sub-title lang="es">ALPHA</sub-title>
-    <desc lang="es">En el pasado prehistórico, un joven lucha por regresar a casa después de haber sido separado de su tribu durante una cacería de búfalos, pero en el camino conocerá a un lobo, y su amistad con él cambiaría a la humanidad.</desc>
-  </programme>
-  <programme start="20261014201000 -0600" stop="20261014215300 -0600" channel="TNT_MX.mx">
-    <title lang="es">Angry Birds 2: la película</title>
-    <sub-title lang="es">The Angry Birds Movie 2</sub-title>
-    <desc lang="es">Los pájaros cascarrabias y los cerdos verdes están de vuelta y esta vez deben aliarse para luchar contra una amenaza común. Una malvada ave llamada Zeta que vive en una isla de hielo fabricó un arma secreta para destruir las islas de los pájaros y los cerdos. Ahora el grupo deberá idear un plan para infiltrarse en el territorio enemigo y destruir el arma.</desc>
-  </programme>
-  <programme start="20261014215300 -0600" stop="20261015001500 -0600" channel="TNT_MX.mx">
-    <title lang="es">GLORIA</title>
-    <desc lang="es">La joven mexicana Gloria Treviño audiciona para popular compositor musical Sergio Andrade. Esto la convierte en miembro del grupo pop Boquitas Pintadas. Pero si bien la banda no consigue acumular demasiada fama, Sergio sabe que Gloria tiene un gran potencial como cantante solista. Pronto Gloria Trevi se convierte en una de las cantantes más exitosas de Latinoamérica hasta que, en un momento, queda atrapada en medio de un escándalo sexual.</desc>
-  </programme>
-  <programme start="20261014215900 -0300" stop="20261015000900 -0300" channel="TNT_BR.br">
-    <title lang="pt">BARBIE</title>
-    <desc lang="pt">Em uma exploração magistral da feminilidade e do existencialismo, Greta Gerwig traz para a tela grande a boneca mais icônica da história.</desc>
-  </programme>
-  <programme start="20261014220000 -0400" stop="20261015001800 -0400" channel="TNT_CL.cl">
-    <title lang="es">BARBIE</title>
-    <desc lang="es">En una magistral exploración a la feminidad y el existencialismo, Greta Gerwig presenta en la gran pantalla a la muñeca más icónica de la historia.</desc>
-  </programme>
-  <programme start="20261014220000 -0500" stop="20261015001500 -0500" channel="TNT_CO.co">
-    <title lang="es">BARBIE</title>
-    <desc lang="es">En una magistral exploración a la feminidad y el existencialismo, Greta Gerwig presenta en la gran pantalla a la muñeca más icónica de la historia.</desc>
-  </programme>
-  <programme start="20261014220000 -0500" stop="20261015001000 -0500" channel="TNT_PAN.co">
-    <title lang="es">BARBIE</title>
-    <desc lang="es">En una magistral exploración a la feminidad y el existencialismo, Greta Gerwig presenta en la gran pantalla a la muñeca más icónica de la historia.</desc>
-  </programme>
-  <programme start="20261014220200 -0300" stop="20261015000700 -0300" channel="TNT_AR.ar">
-    <title lang="es">BARBIE</title>
-    <desc lang="es">En una magistral exploración a la feminidad y el existencialismo, Greta Gerwig presenta en la gran pantalla a la muñeca más icónica de la historia.</desc>
-  </programme>
-  <programme start="20261015000700 -0300" stop="20261015020000 -0300" channel="TNT_AR.ar">
-    <title lang="es">XXX: REACTIVADO</title>
-    <sub-title lang="es">XXX: RETURN OF XANDER CAGE</sub-title>
-    <desc lang="es">Xander Cage es dado por muerto y abandonado tras un incidente, luego vuelve a la acción en secreto para una nueva misión.</desc>
-  </programme>
-  <programme start="20261015000900 -0300" stop="20261015003500 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <episode-num system="xmltv_ns">2.5.</episode-num>
-    <desc lang="pt">Quando Chris descobre que Tasha (atriz convidada Paige Hurd), sua paixão de longa data, gosta de bad boys, ele decide que está na hora de deixar de lado a sua imagem de bonzinho e conquistar a garota dos seus sonhos. Enquanto isso, a família inteira está animada com o fato de Julius ter sido eleito funcionário do mês e ter ganho um jantar gratuito para toda a família em um restaurante caro. Mas, ao que parece, o presente tem algumas restrições inesperadas.</desc>
-  </programme>
-  <programme start="20261015001000 -0500" stop="20261015020100 -0500" channel="TNT_PAN.co">
-    <title lang="es">XXX: REACTIVADO</title>
-    <sub-title lang="es">XXX: RETURN OF XANDER CAGE</sub-title>
-    <desc lang="es">Xander Cage es dado por muerto y abandonado tras un incidente, luego vuelve a la acción en secreto para una nueva misión.</desc>
-  </programme>
-  <programme start="20261015001500 -0500" stop="20261015020400 -0500" channel="TNT_CO.co">
-    <title lang="es">XXX: REACTIVADO</title>
-    <sub-title lang="es">XXX: RETURN OF XANDER CAGE</sub-title>
-    <desc lang="es">Xander Cage es dado por muerto y abandonado tras un incidente, luego vuelve a la acción en secreto para una nueva misión.</desc>
-  </programme>
-  <programme start="20261015001500 -0600" stop="20261015020500 -0600" channel="TNT_MX.mx">
-    <title lang="es">XXX: REACTIVADO</title>
-    <sub-title lang="es">XXX: RETURN OF XANDER CAGE</sub-title>
-    <desc lang="es">Xander Cage es dado por muerto y abandonado tras un incidente, luego vuelve a la acción en secreto para una nueva misión.</desc>
-  </programme>
-  <programme start="20261015001800 -0400" stop="20261015020700 -0400" channel="TNT_CL.cl">
-    <title lang="es">XXX: REACTIVADO</title>
-    <sub-title lang="es">XXX: RETURN OF XANDER CAGE</sub-title>
-    <desc lang="es">Xander Cage es dado por muerto y abandonado tras un incidente, luego vuelve a la acción en secreto para una nueva misión.</desc>
-  </programme>
-  <programme start="20261015003500 -0300" stop="20261015005900 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <episode-num system="xmltv_ns">2.6.</episode-num>
-    <desc lang="pt">Quando toda a família de Chris fica de cama com gripe, Rochelle e Julius dão um jeito de o sr. Omar (ator convidado Ernest Thomas) tomar conta de Chris até a família se recuperar. Infelizmente, o que o sr. Omar entende como tomar conta do Chris é deixá-lo sozinho enquanto ele cuida de uma viúva em luto. Como não é de perder uma grande oportunidade, Greg sugere que Chris aproveite a independência para convidar Tasha (atriz convidada Paige Hurd) para passar um período a sós com ele, mas as coisas saem um pouco de controle quando a notícia de que Chris tinha um apartamento só para ele se espalha.</desc>
-  </programme>
-  <programme start="20261015005900 -0300" stop="20261015012100 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <episode-num system="xmltv_ns">2.7.</episode-num>
-    <desc lang="pt">Com o pai de Greg fora da cidade, Chris o convida para ficar na sua casa durante a semana. Mas o comportamento de Chris muda depois que Rochelle e o restante da família passam a fazer de tudo para agradar Greg, deixando Chris em segundo plano. Enquanto isso, Julius, que está ganhando dinheiro extra dirigindo um táxi nas horas vagas, pega um passageiro fugitivo que pede a Julius que o leve até Las Vegas.</desc>
-  </programme>
-  <programme start="20261015012100 -0300" stop="20261015014300 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <episode-num system="xmltv_ns">2.8.</episode-num>
-    <desc lang="pt">Quando um novo alun  chega à Escola Corleone, Chris percebe que ele tem mais coisas em comum com Albert do que apenas o fato de serem os dois únicos afro-americanos na escola.  Julius e Rochelle recebem pelo correio um cheque de reembolso inesperado da Receita Federal, mas Julius tem medo de gastar o dinheiro.</desc>
-  </programme>
-  <programme start="20261015014300 -0300" stop="20261015020400 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <episode-num system="xmltv_ns">2.9.</episode-num>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20261015020000 -0300" stop="20261015035200 -0300" channel="TNT_AR.ar">
-    <title lang="es" />
-  </programme>
-  <programme start="20261015020100 -0500" stop="20261015035600 -0500" channel="TNT_PAN.co">
-    <title lang="es" />
-  </programme>
-  <programme start="20261015020400 -0300" stop="20261015022600 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">ALL GUTS, NO GLORY</sub-title>
-    <episode-num system="xmltv_ns">3.2.</episode-num>
-    <desc lang="pt">Will abandona uma aula de filosofia na faculdade, mas se arrepende ao descobrir que o professor é uma das pessoas mais estimulantes que já conheceu.</desc>
-  </programme>
-  <programme start="20261015020400 -0500" stop="20261015035700 -0500" channel="TNT_CO.co">
-    <title lang="es" />
-  </programme>
-  <programme start="20261015020500 -0600" stop="20261015035900 -0600" channel="TNT_MX.mx">
-    <title lang="es" />
-  </programme>
-  <programme start="20261015020700 -0400" stop="20261015040200 -0400" channel="TNT_CL.cl">
-    <title lang="es" />
-  </programme>
-  <programme start="20261015022600 -0300" stop="20261015024800 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">FATHER OF THE YEAR</sub-title>
-    <episode-num system="xmltv_ns">3.3.</episode-num>
-    <desc lang="pt">Para impressionar uma garota na faculdade, Will finge ser pai de seu priminho recém-nascido. E agora vai ter que aceitar o título de ¿pai do ano¿ na universidade.</desc>
-  </programme>
-  <programme start="20261015024800 -0300" stop="20261015031000 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">IT'S BETTER TO HAVE LOVED AND LOST IT...</sub-title>
-    <episode-num system="xmltv_ns">3.4.</episode-num>
-    <desc lang="pt">Carlton conhece a bela JoAnn no campus da universidade e finalmente perde a virgindade.</desc>
-  </programme>
-  <programme start="20261015031000 -0300" stop="20261015033200 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">WILL GOES A COURTIN'</sub-title>
-    <episode-num system="xmltv_ns">3.5.</episode-num>
-    <desc lang="pt">Will se recusa a pagar o aluguel a Philip se ele não consertar o ar condicionado e o caso vai parar na justiça.</desc>
-  </programme>
-  <programme start="20261015033200 -0300" stop="20261015051200 -0300" channel="TNT_BR.br">
-    <title lang="pt">XXX: REATIVADO</title>
-    <sub-title lang="pt">XXX: RETURN OF XANDER CAGE</sub-title>
-    <desc lang="pt">Xander está aposentado como agente. Quando uma arma é roubada e pode cair nas mãos de terroristas, ele desiste da aposentadoria e recruta um novo grupo para ajudá-lo.</desc>
-  </programme>
-  <programme start="20261015035200 -0300" stop="20261015052500 -0300" channel="TNT_AR.ar">
-    <title lang="es">MI NOVIA DE MENTIRA</title>
-    <sub-title lang="es">DATING AMBER</sub-title>
-    <desc lang="es">El padre de Eddie, estudiante de secundaria, es un oficial superior del cuartel del ejército que espera que Eddie siga sus pasos. Amber es una adolescente descontenta en la escuela de Eddie que anhela escapar a lo que imagina que es el nirvana punk de Londres. Lo que Eddie y Amber tienen en común es que son secretamente homosexuales y la gente empieza a murmurar sobre su aparente falta de interés en salir con personas del sexo opuesto. Deciden que sería mutuamente conveniente ser la barba del otro, creando la ficción pública de ser pareja para quitarse de encima a los homófobos. Pero esto crea una relación extrañamente intensa entre ellos que no se ignora fácilmente cuando aparecen verdaderos candidatos a parejas románticas.</desc>
-  </programme>
-  <programme start="20261015035600 -0500" stop="20261015053300 -0500" channel="TNT_PAN.co">
-    <title lang="es">MI NOVIA DE MENTIRA</title>
-    <sub-title lang="es">DATING AMBER</sub-title>
-    <desc lang="es">El padre de Eddie, estudiante de secundaria, es un oficial superior del cuartel del ejército que espera que Eddie siga sus pasos. Amber es una adolescente descontenta en la escuela de Eddie que anhela escapar a lo que imagina que es el nirvana punk de Londres. Lo que Eddie y Amber tienen en común es que son secretamente homosexuales y la gente empieza a murmurar sobre su aparente falta de interés en salir con personas del sexo opuesto. Deciden que sería mutuamente conveniente ser la barba del otro, creando la ficción pública de ser pareja para quitarse de encima a los homófobos. Pero esto crea una relación extrañamente intensa entre ellos que no se ignora fácilmente cuando aparecen verdaderos candidatos a parejas románticas.</desc>
-  </programme>
-  <programme start="20261015035700 -0500" stop="20261015053000 -0500" channel="TNT_CO.co">
-    <title lang="es">MI NOVIA DE MENTIRA</title>
-    <sub-title lang="es">DATING AMBER</sub-title>
-    <desc lang="es">El padre de Eddie, estudiante de secundaria, es un oficial superior del cuartel del ejército que espera que Eddie siga sus pasos. Amber es una adolescente descontenta en la escuela de Eddie que anhela escapar a lo que imagina que es el nirvana punk de Londres. Lo que Eddie y Amber tienen en común es que son secretamente homosexuales y la gente empieza a murmurar sobre su aparente falta de interés en salir con personas del sexo opuesto. Deciden que sería mutuamente conveniente ser la barba del otro, creando la ficción pública de ser pareja para quitarse de encima a los homófobos. Pero esto crea una relación extrañamente intensa entre ellos que no se ignora fácilmente cuando aparecen verdaderos candidatos a parejas románticas.</desc>
-  </programme>
-  <programme start="20261015035900 -0600" stop="20261015053600 -0600" channel="TNT_MX.mx">
-    <title lang="es">MI NOVIA DE MENTIRA</title>
-    <sub-title lang="es">DATING AMBER</sub-title>
-    <desc lang="es">El padre de Eddie, estudiante de secundaria, es un oficial superior del cuartel del ejército que espera que Eddie siga sus pasos. Amber es una adolescente descontenta en la escuela de Eddie que anhela escapar a lo que imagina que es el nirvana punk de Londres. Lo que Eddie y Amber tienen en común es que son secretamente homosexuales y la gente empieza a murmurar sobre su aparente falta de interés en salir con personas del sexo opuesto. Deciden que sería mutuamente conveniente ser la barba del otro, creando la ficción pública de ser pareja para quitarse de encima a los homófobos. Pero esto crea una relación extrañamente intensa entre ellos que no se ignora fácilmente cuando aparecen verdaderos candidatos a parejas románticas.</desc>
-  </programme>
-  <programme start="20261015040200 -0400" stop="20261015053500 -0400" channel="TNT_CL.cl">
-    <title lang="es">MI NOVIA DE MENTIRA</title>
-    <sub-title lang="es">DATING AMBER</sub-title>
-    <desc lang="es">El padre de Eddie, estudiante de secundaria, es un oficial superior del cuartel del ejército que espera que Eddie siga sus pasos. Amber es una adolescente descontenta en la escuela de Eddie que anhela escapar a lo que imagina que es el nirvana punk de Londres. Lo que Eddie y Amber tienen en común es que son secretamente homosexuales y la gente empieza a murmurar sobre su aparente falta de interés en salir con personas del sexo opuesto. Deciden que sería mutuamente conveniente ser la barba del otro, creando la ficción pública de ser pareja para quitarse de encima a los homófobos. Pero esto crea una relación extrañamente intensa entre ellos que no se ignora fácilmente cuando aparecen verdaderos candidatos a parejas románticas.</desc>
-  </programme>
-  <programme start="20261015051200 -0300" stop="20261015054700 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-    <episode-num system="xmltv_ns">-1.11.</episode-num>
-  </programme>
-  <programme start="20261015052500 -0300" stop="20261015053500 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.27.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015053000 -0500" stop="20261015054100 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.34.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015053300 -0500" stop="20261015054700 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.36.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015053500 -0300" stop="20261015054600 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.28.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015053500 -0400" stop="20261015054600 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.25.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015053600 -0600" stop="20261015055100 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.33.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015054100 -0500" stop="20261015055100 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.35.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015054600 -0300" stop="20261015060000 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.30.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015054600 -0400" stop="20261015060000 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.26.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015054700 -0300" stop="20261015060000 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.43.</episode-num>
-    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015054700 -0500" stop="20261015060000 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.30.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015055100 -0500" stop="20261015060000 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.38.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015055100 -0600" stop="20261015060000 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.32.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015060000 -0300" stop="20261015063800 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-    <episode-num system="xmltv_ns">-1.13.</episode-num>
-  </programme>
-  <programme start="20261015060000 -0300" stop="20261015061200 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.32.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015060000 -0400" stop="20261015060900 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.44.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015060000 -0500" stop="20261015073100 -0500" channel="TNT_CO.co">
-    <title lang="es">MISFITS</title>
-    <desc lang="es">Luego de escapar de una cárcel de máxima seguridad, el famoso delincuente Richard Pace (Pierce Brosnan) es reclutado por una banda de ladrones al estilo Robin Hood para realizar el robo más importante del siglo y de paso desfinanciar a grupos terroristas a nivel mundial. Del director de "Duro de Matar 2" y con la participación de Tim Roth.</desc>
-  </programme>
-  <programme start="20261015060000 -0500" stop="20261015064100 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <episode-num system="xmltv_ns">-1.14.</episode-num>
-  </programme>
-  <programme start="20261015060000 -0600" stop="20261015061700 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.36.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015060900 -0400" stop="20261015062400 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.39.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015061200 -0300" stop="20261015062000 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.35.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015061700 -0600" stop="20261015063300 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.39.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015062000 -0300" stop="20261015080300 -0300" channel="TNT_AR.ar">
-    <title lang="es">PETER RABBIT CONEJO EN FUGA</title>
-    <sub-title lang="es">PETER RABBIT 2: THE RUNAWAY</sub-title>
-    <desc lang="es">El travieso Peter Rabbit se escapa a la gran ciudad, donde conoce a personajes sombríos y termina creando el caos para toda la familia.</desc>
-  </programme>
-  <programme start="20261015062400 -0400" stop="20261015080800 -0400" channel="TNT_CL.cl">
-    <title lang="es">PETER RABBIT CONEJO EN FUGA</title>
-    <sub-title lang="es">PETER RABBIT 2: THE RUNAWAY</sub-title>
-    <desc lang="es">El travieso Peter Rabbit se escapa a la gran ciudad, donde conoce a personajes sombríos y termina creando el caos para toda la familia.</desc>
-  </programme>
-  <programme start="20261015063300 -0600" stop="20261015064300 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.40.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015063800 -0300" stop="20261015071800 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-    <episode-num system="xmltv_ns">-1.14.</episode-num>
-  </programme>
-  <programme start="20261015064100 -0500" stop="20261015072300 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <episode-num system="xmltv_ns">-1.15.</episode-num>
-  </programme>
-  <programme start="20261015064300 -0600" stop="20261015081700 -0600" channel="TNT_MX.mx">
-    <title lang="es">ALFA</title>
-    <sub-title lang="es">ALPHA</sub-title>
-    <desc lang="es">En el pasado prehistórico, un joven lucha por regresar a casa después de haber sido separado de su tribu durante una cacería de búfalos, pero en el camino conocerá a un lobo, y su amistad con él cambiaría a la humanidad.</desc>
-  </programme>
-  <programme start="20261015071800 -0300" stop="20261015073300 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.39.</episode-num>
-    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015072300 -0500" stop="20261015073200 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.41.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261015073100 -0500" stop="20261015091800 -0500" channel="TNT_CO.co">
-    <title lang="es">PETER RABBIT CONEJO EN FUGA</title>
-    <sub-title lang="es">PETER RABBIT 2: THE RUNAWAY</sub-title>
-    <desc lang="es">El travieso Peter Rabbit se escapa a la gran ciudad, donde conoce a personajes sombríos y termina creando el caos para toda la familia.</desc>
-  </programme>
-  <programme start="20261015073200 -0500" stop="20261015092000 -0500" channel="TNT_PAN.co">
-    <title lang="es">PETER RABBIT CONEJO EN FUGA</title>
-    <sub-title lang="es">PETER RABBIT 2: THE RUNAWAY</sub-title>
-    <desc lang="es">El travieso Peter Rabbit se escapa a la gran ciudad, donde conoce a personajes sombríos y termina creando el caos para toda la familia.</desc>
-  </programme>
-  <programme start="20261015073300 -0300" stop="20261015091800 -0300" channel="TNT_BR.br">
-    <title lang="pt" />
-    <episode-num system="xmltv_ns">-1.29.</episode-num>
-    <desc lang="pt">A melhor cobertura dos jogos da UEFA CHAMPIONS LEAGUE e o melhor futebol do mundo, na programação da TNT Brasil.</desc>
-  </programme>
-  <programme start="20261015080300 -0300" stop="20261015094700 -0300" channel="TNT_AR.ar">
-    <title lang="es">LLUVIA DE HAMBURGUESAS 2: LA VENGANZA DE LAS SOBRAS</title>
-    <desc lang="es">El inventor Flint Lockwood recibe la invitación de su ídolo Chester V para formar parte de la Live Corp Company, donde los mejores y más brillantes inventores del mundo desarrollan tecnologías para mejorar la humanidad. Flint siempre soñó con ser reconocido como un gran inventor, pero todo cambia cuando descubre que su máquina más tristemente célebre, que convierte el agua en alimento, sigue funcionando y ahora está creando unas bestias impresionantes.</desc>
-  </programme>
-  <programme start="20261015080800 -0400" stop="20261015095000 -0400" channel="TNT_CL.cl">
-    <title lang="es">LLUVIA DE HAMBURGUESAS 2: LA VENGANZA DE LAS SOBRAS</title>
-    <desc lang="es">El inventor Flint Lockwood recibe la invitación de su ídolo Chester V para formar parte de la Live Corp Company, donde los mejores y más brillantes inventores del mundo desarrollan tecnologías para mejorar la humanidad. Flint siempre soñó con ser reconocido como un gran inventor, pero todo cambia cuando descubre que su máquina más tristemente célebre, que convierte el agua en alimento, sigue funcionando y ahora está creando unas bestias impresionantes.</desc>
-  </programme>
-  <programme start="20261015081700 -0600" stop="20261015100600 -0600" channel="TNT_MX.mx">
-    <title lang="es">XXX: REACTIVADO</title>
-    <sub-title lang="es">XXX: RETURN OF XANDER CAGE</sub-title>
-    <desc lang="es">Xander Cage es dado por muerto y abandonado tras un incidente, luego vuelve a la acción en secreto para una nueva misión.</desc>
-  </programme>
-  <programme start="20261015091800 -0300" stop="20261015110000 -0300" channel="TNT_BR.br">
-    <title lang="pt">Pedro Coelho 2: O Fugitivo</title>
-    <sub-title lang="pt">Peter Rabbit 2: The Runaway</sub-title>
-    <desc lang="pt">Cansado da monótona vida no jardim com Thomas (Domhnall Gleeson), Bea (Rose Byrne) e sua família de coelhos, o travesso Peter Rabbit foge para a grande cidade, onde encontra personagens sombrios e acaba criando o caos para toda a família.</desc>
-  </programme>
-  <programme start="20261015091800 -0500" stop="20261015110900 -0500" channel="TNT_CO.co">
-    <title lang="es">LLUVIA DE HAMBURGUESAS 2: LA VENGANZA DE LAS SOBRAS</title>
-    <desc lang="es">El inventor Flint Lockwood recibe la invitación de su ídolo Chester V para formar parte de la Live Corp Company, donde los mejores y más brillantes inventores del mundo desarrollan tecnologías para mejorar la humanidad. Flint siempre soñó con ser reconocido como un gran inventor, pero todo cambia cuando descubre que su máquina más tristemente célebre, que convierte el agua en alimento, sigue funcionando y ahora está creando unas bestias impresionantes.</desc>
-  </programme>
-  <programme start="20261015092000 -0500" stop="20261015110300 -0500" channel="TNT_PAN.co">
-    <title lang="es">LLUVIA DE HAMBURGUESAS 2: LA VENGANZA DE LAS SOBRAS</title>
-    <desc lang="es">El inventor Flint Lockwood recibe la invitación de su ídolo Chester V para formar parte de la Live Corp Company, donde los mejores y más brillantes inventores del mundo desarrollan tecnologías para mejorar la humanidad. Flint siempre soñó con ser reconocido como un gran inventor, pero todo cambia cuando descubre que su máquina más tristemente célebre, que convierte el agua en alimento, sigue funcionando y ahora está creando unas bestias impresionantes.</desc>
-  </programme>
-  <programme start="20261015094700 -0300" stop="20261015113200 -0300" channel="TNT_AR.ar">
-    <title lang="es">ANGRY BIRDS</title>
-    <desc lang="es">Un grupo de pájaros que no pueden volar viven mayormente felices con la excepción de Red, quien no soporta los incordios diarios de la vida. Su temperamento lo hace terminar en curso de control de la ira, donde conoce a otros dos inadaptados, Chuck y Bomb. Red se altera aún más cuando sus plumíferos correligionarios le dan la bienvenida a unos cerdos verdes a su isla paradisíaca. Mientras estos últimos lo fastidian cada vez más, Red se une a Chuck y a Bomb para investigar la verdadera razón detrás de esta misteriosa llegada.</desc>
-  </programme>
-  <programme start="20261015095000 -0400" stop="20261015113400 -0400" channel="TNT_CL.cl">
-    <title lang="es">ANGRY BIRDS</title>
-    <desc lang="es">Un grupo de pájaros que no pueden volar viven mayormente felices con la excepción de Red, quien no soporta los incordios diarios de la vida. Su temperamento lo hace terminar en curso de control de la ira, donde conoce a otros dos inadaptados, Chuck y Bomb. Red se altera aún más cuando sus plumíferos correligionarios le dan la bienvenida a unos cerdos verdes a su isla paradisíaca. Mientras estos últimos lo fastidian cada vez más, Red se une a Chuck y a Bomb para investigar la verdadera razón detrás de esta misteriosa llegada.</desc>
-  </programme>
-  <programme start="20261015100600 -0600" stop="20261015122100 -0600" channel="TNT_MX.mx">
-    <title lang="es">GLORIA</title>
-    <desc lang="es">La joven mexicana Gloria Treviño audiciona para popular compositor musical Sergio Andrade. Esto la convierte en miembro del grupo pop Boquitas Pintadas. Pero si bien la banda no consigue acumular demasiada fama, Sergio sabe que Gloria tiene un gran potencial como cantante solista. Pronto Gloria Trevi se convierte en una de las cantantes más exitosas de Latinoamérica hasta que, en un momento, queda atrapada en medio de un escándalo sexual.</desc>
-  </programme>
-  <programme start="20261015110000 -0300" stop="20261015112600 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">HEX AND THE SINGLE GUY</sub-title>
-    <episode-num system="xmltv_ns">3.6.</episode-num>
-    <desc lang="pt">A família Banks participa de uma sessão espírita para que Hilary se comunique com seu ex-noivo falecido. O ceticismo de Will irrita o médium, que joga uma praga na família para que todos tenham muito azar.</desc>
-  </programme>
-  <programme start="20261015110300 -0500" stop="20261015125100 -0500" channel="TNT_PAN.co">
-    <title lang="es">ANGRY BIRDS</title>
-    <desc lang="es">Un grupo de pájaros que no pueden volar viven mayormente felices con la excepción de Red, quien no soporta los incordios diarios de la vida. Su temperamento lo hace terminar en curso de control de la ira, donde conoce a otros dos inadaptados, Chuck y Bomb. Red se altera aún más cuando sus plumíferos correligionarios le dan la bienvenida a unos cerdos verdes a su isla paradisíaca. Mientras estos últimos lo fastidian cada vez más, Red se une a Chuck y a Bomb para investigar la verdadera razón detrás de esta misteriosa llegada.</desc>
-  </programme>
-  <programme start="20261015110900 -0500" stop="20261015125400 -0500" channel="TNT_CO.co">
-    <title lang="es">ANGRY BIRDS</title>
-    <desc lang="es">Un grupo de pájaros que no pueden volar viven mayormente felices con la excepción de Red, quien no soporta los incordios diarios de la vida. Su temperamento lo hace terminar en curso de control de la ira, donde conoce a otros dos inadaptados, Chuck y Bomb. Red se altera aún más cuando sus plumíferos correligionarios le dan la bienvenida a unos cerdos verdes a su isla paradisíaca. Mientras estos últimos lo fastidian cada vez más, Red se une a Chuck y a Bomb para investigar la verdadera razón detrás de esta misteriosa llegada.</desc>
-  </programme>
-  <programme start="20261015112600 -0300" stop="20261015115000 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">BLOOD IS THICKER THAN MUD</sub-title>
-    <episode-num system="xmltv_ns">3.7.</episode-num>
-    <desc lang="pt">Will e Carlton têm que realizar tarefas humilhantes para entrar para uma fraternidade na universidade, mas o problema parece ser mesmo a família rica de Carlton.</desc>
-  </programme>
-  <programme start="20261015113200 -0300" stop="20261015131600 -0300" channel="TNT_AR.ar">
-    <title lang="es">Angry Birds 2: la película</title>
-    <sub-title lang="es">The Angry Birds Movie 2</sub-title>
-    <desc lang="es">Los pájaros cascarrabias y los cerdos verdes están de vuelta y esta vez deben aliarse para luchar contra una amenaza común. Una malvada ave llamada Zeta que vive en una isla de hielo fabricó un arma secreta para destruir las islas de los pájaros y los cerdos. Ahora el grupo deberá idear un plan para infiltrarse en el territorio enemigo y destruir el arma.</desc>
-  </programme>
-  <programme start="20261015113400 -0400" stop="20261015131900 -0400" channel="TNT_CL.cl">
-    <title lang="es">Angry Birds 2: la película</title>
-    <sub-title lang="es">The Angry Birds Movie 2</sub-title>
-    <desc lang="es">Los pájaros cascarrabias y los cerdos verdes están de vuelta y esta vez deben aliarse para luchar contra una amenaza común. Una malvada ave llamada Zeta que vive en una isla de hielo fabricó un arma secreta para destruir las islas de los pájaros y los cerdos. Ahora el grupo deberá idear un plan para infiltrarse en el territorio enemigo y destruir el arma.</desc>
-  </programme>
-  <programme start="20261015115000 -0300" stop="20261015121300 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">FRESH PRINCE AFTER DARK</sub-title>
-    <episode-num system="xmltv_ns">3.8.</episode-num>
-    <desc lang="pt">Quando Hilary é convidada a posar para a Playboy, Will e Carlton têm a chance de conhecer Hugh Hefner e suas belas ¿coelhinhas¿ na mansão da Playboy.</desc>
-  </programme>
-  <programme start="20261015121300 -0300" stop="20261015123700 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">HOME IS WHERE THE HEART ATTACK IS</sub-title>
-    <episode-num system="xmltv_ns">3.9.</episode-num>
-    <desc lang="pt">Philip precisa emagrecer, mas suborna Will para lhe comprar um hambúrguer e acaba tendo um infarto.</desc>
-  </programme>
-  <programme start="20261015122100 -0600" stop="20261015140400 -0600" channel="TNT_MX.mx">
-    <title lang="es">PETER RABBIT CONEJO EN FUGA</title>
-    <sub-title lang="es">PETER RABBIT 2: THE RUNAWAY</sub-title>
-    <desc lang="es">El travieso Peter Rabbit se escapa a la gran ciudad, donde conoce a personajes sombríos y termina creando el caos para toda la familia.</desc>
-  </programme>
-  <programme start="20261015123700 -0300" stop="20261015130000 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <episode-num system="xmltv_ns">2.10.</episode-num>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20261015125100 -0500" stop="20261015143900 -0500" channel="TNT_PAN.co">
-    <title lang="es">Angry Birds 2: la película</title>
-    <sub-title lang="es">The Angry Birds Movie 2</sub-title>
-    <desc lang="es">Los pájaros cascarrabias y los cerdos verdes están de vuelta y esta vez deben aliarse para luchar contra una amenaza común. Una malvada ave llamada Zeta que vive en una isla de hielo fabricó un arma secreta para destruir las islas de los pájaros y los cerdos. Ahora el grupo deberá idear un plan para infiltrarse en el territorio enemigo y destruir el arma.</desc>
-  </programme>
-  <programme start="20261015125400 -0500" stop="20261015143800 -0500" channel="TNT_CO.co">
-    <title lang="es">Angry Birds 2: la película</title>
-    <sub-title lang="es">The Angry Birds Movie 2</sub-title>
-    <desc lang="es">Los pájaros cascarrabias y los cerdos verdes están de vuelta y esta vez deben aliarse para luchar contra una amenaza común. Una malvada ave llamada Zeta que vive en una isla de hielo fabricó un arma secreta para destruir las islas de los pájaros y los cerdos. Ahora el grupo deberá idear un plan para infiltrarse en el territorio enemigo y destruir el arma.</desc>
-  </programme>
-  <programme start="20261015130000 -0300" stop="20261015132200 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <episode-num system="xmltv_ns">2.11.</episode-num>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20261015131600 -0300" stop="20261015145100 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOTEL TRANSYLVANIA 2</title>
-    <desc lang="es">Finalmente, el Hotel Transilvania ya no es más un hotel exclusivo para monstruos, pero a Drac le preocupa que se note que su nieto Dennis es mitad humano, mitad vampiro y, junto a sus amigos Frank, Wayne y Griffin, lo envía a un campamento de "entrenamiento para monstruos". Mientras tanto, Mavis está visitando a su familia política humana junto a su marido Johnny y Vlad, el padre tradicionalista de Drac, decide visitar a su hijo sin saber que su bisnieto no es de sangre pura.</desc>
-  </programme>
-  <programme start="20261015131900 -0400" stop="20261015145600 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOTEL TRANSYLVANIA 2</title>
-    <desc lang="es">Finalmente, el Hotel Transilvania ya no es más un hotel exclusivo para monstruos, pero a Drac le preocupa que se note que su nieto Dennis es mitad humano, mitad vampiro y, junto a sus amigos Frank, Wayne y Griffin, lo envía a un campamento de "entrenamiento para monstruos". Mientras tanto, Mavis está visitando a su familia política humana junto a su marido Johnny y Vlad, el padre tradicionalista de Drac, decide visitar a su hijo sin saber que su bisnieto no es de sangre pura.</desc>
-  </programme>
-  <programme start="20261015132200 -0300" stop="20261015134600 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <episode-num system="xmltv_ns">2.12.</episode-num>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20261015134600 -0300" stop="20261015140800 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <episode-num system="xmltv_ns">2.13.</episode-num>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20261015140400 -0600" stop="20261015154200 -0600" channel="TNT_MX.mx">
-    <title lang="es">LLUVIA DE HAMBURGUESAS 2: LA VENGANZA DE LAS SOBRAS</title>
-    <desc lang="es">El inventor Flint Lockwood recibe la invitación de su ídolo Chester V para formar parte de la Live Corp Company, donde los mejores y más brillantes inventores del mundo desarrollan tecnologías para mejorar la humanidad. Flint siempre soñó con ser reconocido como un gran inventor, pero todo cambia cuando descubre que su máquina más tristemente célebre, que convierte el agua en alimento, sigue funcionando y ahora está creando unas bestias impresionantes.</desc>
-  </programme>
-  <programme start="20261015140800 -0300" stop="20261015143100 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <episode-num system="xmltv_ns">2.14.</episode-num>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20261015143100 -0300" stop="20261015160100 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOTEL TRANSILVÂNIA 2</title>
-    <sub-title lang="pt">Hotel Transylvania 2</sub-title>
-    <desc lang="pt">Depois de se casarem, a vampira Mavis e o humano Jonathan continuam vivendo no Hotel Transilvânia. O Conde Drácula ofereceu um emprego ao genro, pois quer que a filha permaneça ao seu lado. Drácula fica eufórico ao descobrir que Mavis está grávida e torce para que o neto seja um vampiro de verdade. Portanto, ele começa a ir atrás de todos os indícios de que seu desejo aconteça. Prestes a completar cinco anos de idade, o pequeno Dennis demonstra que ainda é um ser humano normal. Drácula fica preocupado e submete o menino a um treinamento especial com vários testes, enquanto Mavis e Johnny aproveitam as férias. E para piorar a situação, o pai do vampiro aparece de surpresa em uma visita.</desc>
-  </programme>
-  <programme start="20261015143800 -0500" stop="20261015161700 -0500" channel="TNT_CO.co">
-    <title lang="es">HOTEL TRANSYLVANIA 2</title>
-    <desc lang="es">Finalmente, el Hotel Transilvania ya no es más un hotel exclusivo para monstruos, pero a Drac le preocupa que se note que su nieto Dennis es mitad humano, mitad vampiro y, junto a sus amigos Frank, Wayne y Griffin, lo envía a un campamento de "entrenamiento para monstruos". Mientras tanto, Mavis está visitando a su familia política humana junto a su marido Johnny y Vlad, el padre tradicionalista de Drac, decide visitar a su hijo sin saber que su bisnieto no es de sangre pura.</desc>
-  </programme>
-  <programme start="20261015143900 -0500" stop="20261015161900 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOTEL TRANSYLVANIA 2</title>
-    <desc lang="es">Finalmente, el Hotel Transilvania ya no es más un hotel exclusivo para monstruos, pero a Drac le preocupa que se note que su nieto Dennis es mitad humano, mitad vampiro y, junto a sus amigos Frank, Wayne y Griffin, lo envía a un campamento de "entrenamiento para monstruos". Mientras tanto, Mavis está visitando a su familia política humana junto a su marido Johnny y Vlad, el padre tradicionalista de Drac, decide visitar a su hijo sin saber que su bisnieto no es de sangre pura.</desc>
-  </programme>
-  <programme start="20261015145100 -0300" stop="20261015162300 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOTEL TRANSYLVANIA: TRANSFORMANIA</title>
-    <desc lang="es">La banda de Drac está de vuelta como nunca antes los habías visto en Hotel Transylvania 4: Transformanía.</desc>
-  </programme>
-  <programme start="20261015145600 -0400" stop="20261015163100 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOTEL TRANSYLVANIA: TRANSFORMANIA</title>
-    <desc lang="es">La banda de Drac está de vuelta como nunca antes los habías visto en Hotel Transylvania 4: Transformanía.</desc>
-  </programme>
-  <programme start="20261015154200 -0600" stop="20261015172200 -0600" channel="TNT_MX.mx">
-    <title lang="es">ANGRY BIRDS</title>
-    <desc lang="es">Un grupo de pájaros que no pueden volar viven mayormente felices con la excepción de Red, quien no soporta los incordios diarios de la vida. Su temperamento lo hace terminar en curso de control de la ira, donde conoce a otros dos inadaptados, Chuck y Bomb. Red se altera aún más cuando sus plumíferos correligionarios le dan la bienvenida a unos cerdos verdes a su isla paradisíaca. Mientras estos últimos lo fastidian cada vez más, Red se une a Chuck y a Bomb para investigar la verdadera razón detrás de esta misteriosa llegada.</desc>
-  </programme>
-  <programme start="20261015160100 -0300" stop="20261015172700 -0300" channel="TNT_BR.br">
-    <title lang="pt">Hotel Transilvânia 4: Transformonstrão</title>
-    <sub-title lang="pt">Hotel Transylvania 4: Transformania</sub-title>
-    <desc lang="pt">Drac e sua turma estão de volta, como você nunca os viu antes em Hotel Transylvania: Transformania.</desc>
-  </programme>
-  <programme start="20261015161700 -0500" stop="20261015180100 -0500" channel="TNT_CO.co">
-    <title lang="es">HOTEL TRANSYLVANIA: TRANSFORMANIA</title>
-    <desc lang="es">La banda de Drac está de vuelta como nunca antes los habías visto en Hotel Transylvania 4: Transformanía.</desc>
-  </programme>
-  <programme start="20261015161900 -0500" stop="20261015180100 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOTEL TRANSYLVANIA: TRANSFORMANIA</title>
-    <desc lang="es">La banda de Drac está de vuelta como nunca antes los habías visto en Hotel Transylvania 4: Transformanía.</desc>
-  </programme>
-  <programme start="20261015162300 -0300" stop="20261015181300 -0300" channel="TNT_AR.ar">
-    <title lang="es">ALFA</title>
-    <sub-title lang="es">ALPHA</sub-title>
-    <desc lang="es">En el pasado prehistórico, un joven lucha por regresar a casa después de haber sido separado de su tribu durante una cacería de búfalos, pero en el camino conocerá a un lobo, y su amistad con él cambiaría a la humanidad.</desc>
-  </programme>
-  <programme start="20261015163100 -0400" stop="20261015181600 -0400" channel="TNT_CL.cl">
-    <title lang="es">ALFA</title>
-    <sub-title lang="es">ALPHA</sub-title>
-    <desc lang="es">En el pasado prehistórico, un joven lucha por regresar a casa después de haber sido separado de su tribu durante una cacería de búfalos, pero en el camino conocerá a un lobo, y su amistad con él cambiaría a la humanidad.</desc>
-  </programme>
-  <programme start="20261015172200 -0600" stop="20261015185900 -0600" channel="TNT_MX.mx">
-    <title lang="es">Angry Birds 2: la película</title>
-    <sub-title lang="es">The Angry Birds Movie 2</sub-title>
-    <desc lang="es">Los pájaros cascarrabias y los cerdos verdes están de vuelta y esta vez deben aliarse para luchar contra una amenaza común. Una malvada ave llamada Zeta que vive en una isla de hielo fabricó un arma secreta para destruir las islas de los pájaros y los cerdos. Ahora el grupo deberá idear un plan para infiltrarse en el territorio enemigo y destruir el arma.</desc>
-  </programme>
-  <programme start="20261015172700 -0300" stop="20261015192000 -0300" channel="TNT_BR.br">
-    <title lang="pt">XXX: REATIVADO</title>
-    <sub-title lang="pt">XXX: RETURN OF XANDER CAGE</sub-title>
-    <desc lang="pt">Xander está aposentado como agente. Quando uma arma é roubada e pode cair nas mãos de terroristas, ele desiste da aposentadoria e recruta um novo grupo para ajudá-lo.</desc>
-  </programme>
-  <programme start="20261015180100 -0500" stop="20261015195200 -0500" channel="TNT_CO.co">
-    <title lang="es">ALFA</title>
-    <sub-title lang="es">ALPHA</sub-title>
-    <desc lang="es">En el pasado prehistórico, un joven lucha por regresar a casa después de haber sido separado de su tribu durante una cacería de búfalos, pero en el camino conocerá a un lobo, y su amistad con él cambiaría a la humanidad.</desc>
-  </programme>
-  <programme start="20261015180100 -0500" stop="20261015195400 -0500" channel="TNT_PAN.co">
-    <title lang="es">ALFA</title>
-    <sub-title lang="es">ALPHA</sub-title>
-    <desc lang="es">En el pasado prehistórico, un joven lucha por regresar a casa después de haber sido separado de su tribu durante una cacería de búfalos, pero en el camino conocerá a un lobo, y su amistad con él cambiaría a la humanidad.</desc>
-  </programme>
-  <programme start="20261015181300 -0300" stop="20261015182800 -0300" channel="TNT_AR.ar">
-    <title lang="es" />
-    <episode-num system="xmltv_ns">-1.18.</episode-num>
-  </programme>
-  <programme start="20261015181600 -0400" stop="20261015202200 -0400" channel="TNT_CL.cl">
-    <title lang="es">XXX: REACTIVADO</title>
-    <sub-title lang="es">XXX: RETURN OF XANDER CAGE</sub-title>
-    <desc lang="es">Xander Cage es dado por muerto y abandonado tras un incidente, luego vuelve a la acción en secreto para una nueva misión.</desc>
-  </programme>
-  <programme start="20261015182800 -0300" stop="20261015203000 -0300" channel="TNT_AR.ar">
-    <title lang="es">XXX: REACTIVADO</title>
-    <sub-title lang="es">XXX: RETURN OF XANDER CAGE</sub-title>
-    <desc lang="es">Xander Cage es dado por muerto y abandonado tras un incidente, luego vuelve a la acción en secreto para una nueva misión.</desc>
-  </programme>
-  <programme start="20261015185900 -0600" stop="20261015202900 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOTEL TRANSYLVANIA 2</title>
-    <desc lang="es">Finalmente, el Hotel Transilvania ya no es más un hotel exclusivo para monstruos, pero a Drac le preocupa que se note que su nieto Dennis es mitad humano, mitad vampiro y, junto a sus amigos Frank, Wayne y Griffin, lo envía a un campamento de "entrenamiento para monstruos". Mientras tanto, Mavis está visitando a su familia política humana junto a su marido Johnny y Vlad, el padre tradicionalista de Drac, decide visitar a su hijo sin saber que su bisnieto no es de sangre pura.</desc>
-  </programme>
-  <programme start="20261015192000 -0300" stop="20261015193100 -0300" channel="TNT_BR.br">
-    <title lang="pt">BUZUM</title>
-    <sub-title lang="pt">VOCÊ POR AQUI</sub-title>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <desc lang="pt">Fernando entra sozinho e triste no Buzum porque brigou com o namorado, Miguel. Por coincidência, encontra com a mãe do namorado, que puxa assunto com ele. Mas é uma conversa desconfortável, pois até onde ele sabe, ela acha que os dois são apenas amigos. Durante o papo, mais conhecidos de Fernando aparecem no Buzum, o que o deixa cada vez mais confuso. Como ele conhece todo mundo nesse ônibus?</desc>
-  </programme>
-  <programme start="20261015193100 -0300" stop="20261015213000 -0300" channel="TNT_BR.br">
-    <title lang="pt">SAIDEIRA</title>
-    <desc lang="pt">Depois de mais de 10 anos distantes, duas irmãs se reencontram e partem numa jornada pelo interior do estado de Minas Gerais atrás da mítica cachaça Saideira, a herança de seu avó.</desc>
-  </programme>
-  <programme start="20261015195200 -0500" stop="20261015220000 -0500" channel="TNT_CO.co">
-    <title lang="es">XXX: REACTIVADO</title>
-    <sub-title lang="es">XXX: RETURN OF XANDER CAGE</sub-title>
-    <desc lang="es">Xander Cage es dado por muerto y abandonado tras un incidente, luego vuelve a la acción en secreto para una nueva misión.</desc>
-  </programme>
-  <programme start="20261015195400 -0500" stop="20261015220000 -0500" channel="TNT_PAN.co">
-    <title lang="es">XXX: REACTIVADO</title>
-    <sub-title lang="es">XXX: RETURN OF XANDER CAGE</sub-title>
-    <desc lang="es">Xander Cage es dado por muerto y abandonado tras un incidente, luego vuelve a la acción en secreto para una nueva misión.</desc>
-  </programme>
-  <programme start="20261015202200 -0400" stop="20261015220000 -0400" channel="TNT_CL.cl">
-    <title lang="es">MASTERCHEF CHILE</title>
-    <episode-num system="xmltv_ns">4.8.</episode-num>
-    <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
-  </programme>
-  <programme start="20261015202900 -0600" stop="20261015220000 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOTEL TRANSYLVANIA: TRANSFORMANIA</title>
-    <desc lang="es">La banda de Drac está de vuelta como nunca antes los habías visto en Hotel Transylvania 4: Transformanía.</desc>
-  </programme>
-  <programme start="20261015203000 -0300" stop="20261015220100 -0300" channel="TNT_AR.ar">
-    <title lang="es">MASTERCHEF CELEBRITY ARGENTINA</title>
-    <episode-num system="xmltv_ns">-1.12.</episode-num>
-    <desc lang="es">¡Se encienden las hornallas! Bajo la conducción de Wanda Nara, llega la nueva temporada de esta intensa competencia de sabores, donde distintas celebridades despliegan su talento culinario ante un exigente jurado de chefs. Damián Betular, Maru Botana y Germán Martitegui serán los encargados de evaluar cada plato y definir quiénes tienen lo necesario para seguir en competencia y quienes deberán que entregar su delantal.</desc>
-  </programme>
-  <programme start="20261015213000 -0300" stop="20261015233000 -0300" channel="TNT_BR.br">
-    <title lang="pt">MINHA VIDA EM MARTE</title>
-    <desc lang="pt">Minha Vida em Marte acompanha Fernanda, uma mulher que enfrenta uma crise no casamento e tenta lidar com as confusões da vida adulta com a ajuda de seu melhor amigo, Aníbal. Entre situações engraçadas e emocionantes, ela busca se reencontrar e descobrir o que realmente quer para sua vida.</desc>
-  </programme>
-  <programme start="20261015220000 -0400" stop="20261015235000 -0400" channel="TNT_CL.cl">
-    <title lang="es">JACK Y JILL</title>
-    <sub-title lang="es">JACK AND JILL</sub-title>
-    <desc lang="es">Jack Sadelstein tiene todo en la vida: una hermosa mujer, dos hijos encantadores, una enorme casa en Los Ángeles y un trabajo exitoso como ejecutivo de publicidad. Pero se acerca el día de Acción de Gracias, el cual Jack detesta porque implica la visita de su hermana Jill, con quien no se lleva nada bien. En el medio de todo esto, Dunkin¿ Donuts, su cliente más importante, le pide que convenza a Al Pacino de protagonizar una publicidad.</desc>
-  </programme>
-  <programme start="20261015220000 -0500" stop="20261015235100 -0500" channel="TNT_CO.co">
-    <title lang="es">JACK Y JILL</title>
-    <sub-title lang="es">JACK AND JILL</sub-title>
-    <desc lang="es">Jack Sadelstein tiene todo en la vida: una hermosa mujer, dos hijos encantadores, una enorme casa en Los Ángeles y un trabajo exitoso como ejecutivo de publicidad. Pero se acerca el día de Acción de Gracias, el cual Jack detesta porque implica la visita de su hermana Jill, con quien no se lleva nada bien. En el medio de todo esto, Dunkin¿ Donuts, su cliente más importante, le pide que convenza a Al Pacino de protagonizar una publicidad.</desc>
-  </programme>
-  <programme start="20261015220000 -0500" stop="20261015234700 -0500" channel="TNT_PAN.co">
-    <title lang="es">JACK Y JILL</title>
-    <sub-title lang="es">JACK AND JILL</sub-title>
-    <desc lang="es">Jack Sadelstein tiene todo en la vida: una hermosa mujer, dos hijos encantadores, una enorme casa en Los Ángeles y un trabajo exitoso como ejecutivo de publicidad. Pero se acerca el día de Acción de Gracias, el cual Jack detesta porque implica la visita de su hermana Jill, con quien no se lleva nada bien. En el medio de todo esto, Dunkin¿ Donuts, su cliente más importante, le pide que convenza a Al Pacino de protagonizar una publicidad.</desc>
-  </programme>
   <programme start="20261015220000 -0600" stop="20261015234700 -0600" channel="TNT_MX.mx">
     <title lang="es">JACK Y JILL</title>
     <sub-title lang="es">JACK AND JILL</sub-title>
     <desc lang="es">Jack Sadelstein tiene todo en la vida: una hermosa mujer, dos hijos encantadores, una enorme casa en Los Ángeles y un trabajo exitoso como ejecutivo de publicidad. Pero se acerca el día de Acción de Gracias, el cual Jack detesta porque implica la visita de su hermana Jill, con quien no se lleva nada bien. En el medio de todo esto, Dunkin¿ Donuts, su cliente más importante, le pide que convenza a Al Pacino de protagonizar una publicidad.</desc>
-  </programme>
-  <programme start="20261015220100 -0300" stop="20261015234500 -0300" channel="TNT_AR.ar">
-    <title lang="es">JACK Y JILL</title>
-    <sub-title lang="es">JACK AND JILL</sub-title>
-    <desc lang="es">Jack Sadelstein tiene todo en la vida: una hermosa mujer, dos hijos encantadores, una enorme casa en Los Ángeles y un trabajo exitoso como ejecutivo de publicidad. Pero se acerca el día de Acción de Gracias, el cual Jack detesta porque implica la visita de su hermana Jill, con quien no se lleva nada bien. En el medio de todo esto, Dunkin¿ Donuts, su cliente más importante, le pide que convenza a Al Pacino de protagonizar una publicidad.</desc>
-  </programme>
-  <programme start="20261015233000 -0300" stop="20261015235500 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <episode-num system="xmltv_ns">2.10.</episode-num>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20261015234500 -0300" stop="20261016015000 -0300" channel="TNT_AR.ar">
-    <title lang="es" />
   </programme>
   <programme start="20261015234700 -0500" stop="20261016014600 -0500" channel="TNT_PAN.co">
     <title lang="es" />
@@ -656,30 +34,6 @@
   </programme>
   <programme start="20261015235100 -0500" stop="20261016014900 -0500" channel="TNT_CO.co">
     <title lang="es" />
-  </programme>
-  <programme start="20261015235500 -0300" stop="20261016002100 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <episode-num system="xmltv_ns">2.11.</episode-num>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20261016002100 -0300" stop="20261016004700 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <episode-num system="xmltv_ns">2.12.</episode-num>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20261016004700 -0300" stop="20261016011300 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <episode-num system="xmltv_ns">2.13.</episode-num>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20261016011300 -0300" stop="20261016013600 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <episode-num system="xmltv_ns">2.14.</episode-num>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
   </programme>
   <programme start="20261016013600 -0300" stop="20261016021100 -0300" channel="TNT_BR.br">
     <title lang="pt">LIGA ESPETACULAR</title>
@@ -3567,5 +2921,582 @@
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.47.</episode-num>
+  </programme>
+  <programme start="20261021060000 -0300" stop="20261021063800 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.10.</episode-num>
+  </programme>
+  <programme start="20261021060000 -0300" stop="20261021080700 -0300" channel="TNT_AR.ar">
+    <title lang="es">EL HIJO DE LA NOVIA</title>
+    <sub-title lang="es">SON OF THE BRIDE</sub-title>
+    <desc lang="es">A los 42, Rafael Belvedere está pasando una crisis. Vive a la sombra de su padre, se siente culpable porque rara vez visita a su anciana madre, su ex esposa dice que no pasa suficiente tiempo con su hija y aún tiene que adquirir un compromiso con su novia. En su punto más bajo, un pequeño ataque cardiaco lo reúne con Juan Carlos, un amigo de la infancia que le ayuda a reconstruir su pasado.</desc>
+  </programme>
+  <programme start="20261021060000 -0400" stop="20261021063800 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.10.</episode-num>
+  </programme>
+  <programme start="20261021060000 -0500" stop="20261021063400 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.12.</episode-num>
+  </programme>
+  <programme start="20261021060000 -0500" stop="20261021064100 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.15.</episode-num>
+  </programme>
+  <programme start="20261021060000 -0600" stop="20261021063400 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.10.</episode-num>
+  </programme>
+  <programme start="20261021063400 -0500" stop="20261021071200 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.13.</episode-num>
+  </programme>
+  <programme start="20261021063400 -0600" stop="20261021071400 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.11.</episode-num>
+  </programme>
+  <programme start="20261021063800 -0300" stop="20261021065200 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.33.</episode-num>
+  </programme>
+  <programme start="20261021063800 -0400" stop="20261021071400 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.11.</episode-num>
+  </programme>
+  <programme start="20261021064100 -0500" stop="20261021085600 -0500" channel="TNT_PAN.co">
+    <title lang="es">BATMAN Y ROBIN</title>
+    <desc lang="es">La cuarta película de Batman. El Capitán Frío y Hiedra Venenosa han unido fuerzas para congelar Ciudad Gótica y destruir a sus habitantes humanos. Batman, Robin y Batichica se unen para luchar contra esta mortal amenaza.</desc>
+  </programme>
+  <programme start="20261021065200 -0300" stop="20261021070300 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.34.</episode-num>
+  </programme>
+  <programme start="20261021070300 -0300" stop="20261021071200 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.35.</episode-num>
+  </programme>
+  <programme start="20261021071200 -0300" stop="20261021073500 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">THE CLIENT</sub-title>
+    <desc lang="pt">Will ajuda Ashley a impressionar um executivo de uma gravadora, mas Philip é absolutamente contra a carreira de cantora da filha. A primeira parte de um episódio em duas partes, que termina com a pergunta: ¿"O que Will tem a ver com isso"?</desc>
+    <episode-num system="xmltv_ns">4.0.</episode-num>
+  </programme>
+  <programme start="20261021071200 -0500" stop="20261021072100 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.44.</episode-num>
+  </programme>
+  <programme start="20261021071400 -0400" stop="20261021073300 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.39.</episode-num>
+  </programme>
+  <programme start="20261021071400 -0600" stop="20261021073000 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.37.</episode-num>
+  </programme>
+  <programme start="20261021072100 -0500" stop="20261021093300 -0500" channel="TNT_CO.co">
+    <title lang="es">BATMAN Y ROBIN</title>
+    <desc lang="es">La cuarta película de Batman. El Capitán Frío y Hiedra Venenosa han unido fuerzas para congelar Ciudad Gótica y destruir a sus habitantes humanos. Batman, Robin y Batichica se unen para luchar contra esta mortal amenaza.</desc>
+  </programme>
+  <programme start="20261021073000 -0600" stop="20261021074300 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.42.</episode-num>
+  </programme>
+  <programme start="20261021073300 -0400" stop="20261021073600 -0400" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.84.</episode-num>
+  </programme>
+  <programme start="20261021073500 -0300" stop="20261021075900 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">WHAT'S WILL GOT TO DO WITH IT?</sub-title>
+    <desc lang="pt">Will fica feliz com o sucesso de Ashley na indústria musical, mas a dupla está prestes a ter uma surpresa desagradável. A segunda parte do episódio em duas partes: continuação de "The Client".</desc>
+    <episode-num system="xmltv_ns">4.1.</episode-num>
+  </programme>
+  <programme start="20261021073600 -0400" stop="20261021073900 -0400" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.86.</episode-num>
+  </programme>
+  <programme start="20261021073900 -0400" stop="20261021093300 -0400" channel="TNT_CL.cl">
+    <title lang="es">VENGANZA DESPIADADA</title>
+    <desc lang="es">En 1992, en su Bogotá natal, Cataleya presencia el asesinato de sus padres a manos de un narcotraficante llamado Don Luis Sandoval. Luego, ella viaja a Chicago y se va a vivir con su tío Emilio, quien la entrena en el arte de matar. Quince años después, Cataleya, quien ahora tiene 24 años, es una asesina a sueldo, pero su verdadero objetivo es encontrar a Don Luis, quien ahora forma parte del programa de protección de testigos de EE.UU., y vengarse.</desc>
+  </programme>
+  <programme start="20261021074300 -0600" stop="20261021092900 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+    <episode-num system="xmltv_ns">-1.42.</episode-num>
+  </programme>
+  <programme start="20261021075900 -0300" stop="20261021082400 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">REALITY BITES</sub-title>
+    <desc lang="pt">Will entra em uma briga com um homem fantasiado de Dougie, a Baleia (o herói de Nicky) e fica tentado a dizer a Nicky que seu "herói" não é real. Hilary estaciona na vaga de Leeza Gibbons e sofre as consequências.</desc>
+    <episode-num system="xmltv_ns">4.2.</episode-num>
+  </programme>
+  <programme start="20261021080700 -0300" stop="20261021082000 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.41.</episode-num>
+  </programme>
+  <programme start="20261021082000 -0300" stop="20261021101300 -0300" channel="TNT_AR.ar">
+    <title lang="es">VENGANZA DESPIADADA</title>
+    <desc lang="es">En 1992, en su Bogotá natal, Cataleya presencia el asesinato de sus padres a manos de un narcotraficante llamado Don Luis Sandoval. Luego, ella viaja a Chicago y se va a vivir con su tío Emilio, quien la entrena en el arte de matar. Quince años después, Cataleya, quien ahora tiene 24 años, es una asesina a sueldo, pero su verdadero objetivo es encontrar a Don Luis, quien ahora forma parte del programa de protección de testigos de EE.UU., y vengarse.</desc>
+  </programme>
+  <programme start="20261021082400 -0300" stop="20261021084800 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">GRUMPY YOUNG MEN</sub-title>
+    <desc lang="pt">Quando a garota dos sonhos de Will escolhe Carlton em vez dele, Will fica com ciúmes. Ashley aprende a dirigir.</desc>
+    <episode-num system="xmltv_ns">4.3.</episode-num>
+  </programme>
+  <programme start="20261021084800 -0300" stop="20261021091100 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Chris e seus colegas terão que memorizar um famoso discurso da Segunda Guerra Mundial e recitá-lo diante da turma. Sem tempo para memorizar o discurso, Chris decide ligar para a escola fazendo uma ameaça de bomba. Uma cliente roga uma praga para Rochelle depois que ela se recusa a devolver o dinheiro da mulher pelos serviços prestados no salão.</desc>
+    <episode-num system="xmltv_ns">3.16.</episode-num>
+  </programme>
+  <programme start="20261021085600 -0500" stop="20261021105800 -0500" channel="TNT_PAN.co">
+    <title lang="es">VENGANZA DESPIADADA</title>
+    <desc lang="es">En 1992, en su Bogotá natal, Cataleya presencia el asesinato de sus padres a manos de un narcotraficante llamado Don Luis Sandoval. Luego, ella viaja a Chicago y se va a vivir con su tío Emilio, quien la entrena en el arte de matar. Quince años después, Cataleya, quien ahora tiene 24 años, es una asesina a sueldo, pero su verdadero objetivo es encontrar a Don Luis, quien ahora forma parte del programa de protección de testigos de EE.UU., y vengarse.</desc>
+  </programme>
+  <programme start="20261021091100 -0300" stop="20261021093300 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Chris consegue sua carteira de motorista e Rochelle e Julius permitem que ele compre um carro. Procurando seu maço de cigarros secreto, Rochelle descobre escondido um bilhete de aposta em corridas de Julius.</desc>
+    <episode-num system="xmltv_ns">3.17.</episode-num>
+  </programme>
+  <programme start="20261021092900 -0600" stop="20261021104600 -0600" channel="TNT_MX.mx">
+    <title lang="es">UEFA CHAMPIONS LEAGUE</title>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20261021093300 -0300" stop="20261021095600 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Chris decide ficar contra sua mãe, Rochelle, e se recusa a fazer as tarefas domésticas. Rochelle reclama com Julius que seu filho a está desrespeitando. O sr. Omar acha que está morrendo e passa a dizer tudo o que lhe vem à cabeça.</desc>
+    <episode-num system="xmltv_ns">3.18.</episode-num>
+  </programme>
+  <programme start="20261021093300 -0400" stop="20261021115500 -0400" channel="TNT_CL.cl">
+    <title lang="es">ANIMALES FANTÁSTICOS: LOS CRÍMENES DE GRINDELWALD</title>
+    <sub-title lang="es">Fantastic Beasts: The Crimes of Grindelwald</sub-title>
+    <desc lang="es">Grindelwald ha escapado de la custodia y ha preparado todo para reunir a sus seguidores, muchos de ellos, desconociendo sus verdaderas intenciones: criar magos de sangre pura para controlar a los seres no mágicos. En un esfuerzo por detener los planes de Grindelwald, Albus Dumbledore recurre a la ayuda de un antiguo estudiante, Newt Scamander, quien accede a ayudar, desconociendo los peligros a los que tendrá que enfrentarse.</desc>
+  </programme>
+  <programme start="20261021093300 -0500" stop="20261021113100 -0500" channel="TNT_CO.co">
+    <title lang="es">VENGANZA DESPIADADA</title>
+    <desc lang="es">En 1992, en su Bogotá natal, Cataleya presencia el asesinato de sus padres a manos de un narcotraficante llamado Don Luis Sandoval. Luego, ella viaja a Chicago y se va a vivir con su tío Emilio, quien la entrena en el arte de matar. Quince años después, Cataleya, quien ahora tiene 24 años, es una asesina a sueldo, pero su verdadero objetivo es encontrar a Don Luis, quien ahora forma parte del programa de protección de testigos de EE.UU., y vengarse.</desc>
+  </programme>
+  <programme start="20261021095600 -0300" stop="20261021101900 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Chris junta coragem para perguntar a Tasha se ela quer ser sua namorada e fica surpreso quando ela aceita. Só que Chris não tem a mínima ideia de que ser namorado exige abrir mão de todo o seu tempo livre e só fazer o que Tasha quer. Rochelle descobre que Julius foi casado e que não está legalmente divorciado.</desc>
+    <episode-num system="xmltv_ns">3.19.</episode-num>
+  </programme>
+  <programme start="20261021101300 -0300" stop="20261021123700 -0300" channel="TNT_AR.ar">
+    <title lang="es">ANIMALES FANTÁSTICOS: LOS CRÍMENES DE GRINDELWALD</title>
+    <sub-title lang="es">Fantastic Beasts: The Crimes of Grindelwald</sub-title>
+    <desc lang="es">Grindelwald ha escapado de la custodia y ha preparado todo para reunir a sus seguidores, muchos de ellos, desconociendo sus verdaderas intenciones: criar magos de sangre pura para controlar a los seres no mágicos. En un esfuerzo por detener los planes de Grindelwald, Albus Dumbledore recurre a la ayuda de un antiguo estudiante, Newt Scamander, quien accede a ayudar, desconociendo los peligros a los que tendrá que enfrentarse.</desc>
+  </programme>
+  <programme start="20261021101900 -0300" stop="20261021104400 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Chris atinge Greg ao fazer o test drive no carro do zelador, e Greg acaba no hospital com uma perna quebrada. Com os pais de Greg fora da cidade, Rochelle decide interromper as férias da família. Julius precisa descobrir uma forma de entreter Drew e Tonya enquanto chove o tempo todo durante as férias na praia.</desc>
+    <episode-num system="xmltv_ns">3.20.</episode-num>
+  </programme>
+  <programme start="20261021104400 -0300" stop="20261021123000 -0300" channel="TNT_BR.br">
+    <title lang="pt" />
+    <episode-num system="xmltv_ns">-1.42.</episode-num>
+  </programme>
+  <programme start="20261021104600 -0600" stop="20261021124500 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+    <episode-num system="xmltv_ns">-1.46.</episode-num>
+  </programme>
+  <programme start="20261021105800 -0500" stop="20261021133000 -0500" channel="TNT_PAN.co">
+    <title lang="es">ANIMALES FANTÁSTICOS: LOS CRÍMENES DE GRINDELWALD</title>
+    <sub-title lang="es">Fantastic Beasts: The Crimes of Grindelwald</sub-title>
+    <desc lang="es">Grindelwald ha escapado de la custodia y ha preparado todo para reunir a sus seguidores, muchos de ellos, desconociendo sus verdaderas intenciones: criar magos de sangre pura para controlar a los seres no mágicos. En un esfuerzo por detener los planes de Grindelwald, Albus Dumbledore recurre a la ayuda de un antiguo estudiante, Newt Scamander, quien accede a ayudar, desconociendo los peligros a los que tendrá que enfrentarse.</desc>
+  </programme>
+  <programme start="20261021113100 -0500" stop="20261021135400 -0500" channel="TNT_CO.co">
+    <title lang="es">ANIMALES FANTÁSTICOS: LOS CRÍMENES DE GRINDELWALD</title>
+    <sub-title lang="es">Fantastic Beasts: The Crimes of Grindelwald</sub-title>
+    <desc lang="es">Grindelwald ha escapado de la custodia y ha preparado todo para reunir a sus seguidores, muchos de ellos, desconociendo sus verdaderas intenciones: criar magos de sangre pura para controlar a los seres no mágicos. En un esfuerzo por detener los planes de Grindelwald, Albus Dumbledore recurre a la ayuda de un antiguo estudiante, Newt Scamander, quien accede a ayudar, desconociendo los peligros a los que tendrá que enfrentarse.</desc>
+  </programme>
+  <programme start="20261021115500 -0400" stop="20261021142500 -0400" channel="TNT_CL.cl">
+    <title lang="es">EL PLAN PERFECTO</title>
+    <desc lang="es">Cuando una sucursal de un banco de Wall Street es tomada por asalto, dos entrenados negociadores, los detectives Keith Frazier (Denzel Washington) y Bill Mitchell (Chiwetel Ejiofor), deben lidiar con el líder del grupo (Clive Owen). A pesar del gigante operativo, algunos hechos no encajan para Frazier, como la extraña visita de una mujer (Jodie Foster), que pide hablar con el jefe de la banda, y el desmedido interés del presidente del consejo del banco por el desarrollo de la situación.</desc>
+  </programme>
+  <programme start="20261021123000 -0300" stop="20261021134500 -0300" channel="TNT_BR.br">
+    <title lang="pt">PRÉ-JOGO UEFA CHAMPIONS LEAGUE 2026/27</title>
+    <desc lang="pt">A melhor cobertura dos jogos da UEFA CHAMPIONS LEAGUE e o melhor futebol do mundo, na programação da TNT Brasil.</desc>
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261021123700 -0300" stop="20261021150100 -0300" channel="TNT_AR.ar">
+    <title lang="es">EL PLAN PERFECTO</title>
+    <desc lang="es">Cuando una sucursal de un banco de Wall Street es tomada por asalto, dos entrenados negociadores, los detectives Keith Frazier (Denzel Washington) y Bill Mitchell (Chiwetel Ejiofor), deben lidiar con el líder del grupo (Clive Owen). A pesar del gigante operativo, algunos hechos no encajan para Frazier, como la extraña visita de una mujer (Jodie Foster), que pide hablar con el jefe de la banda, y el desmedido interés del presidente del consejo del banco por el desarrollo de la situación.</desc>
+  </programme>
+  <programme start="20261021124500 -0600" stop="20261021130000 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20261021130000 -0600" stop="20261021150000 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+    <episode-num system="xmltv_ns">-1.50.</episode-num>
+  </programme>
+  <programme start="20261021133000 -0500" stop="20261021160200 -0500" channel="TNT_PAN.co">
+    <title lang="es">EL PLAN PERFECTO</title>
+    <desc lang="es">Cuando una sucursal de un banco de Wall Street es tomada por asalto, dos entrenados negociadores, los detectives Keith Frazier (Denzel Washington) y Bill Mitchell (Chiwetel Ejiofor), deben lidiar con el líder del grupo (Clive Owen). A pesar del gigante operativo, algunos hechos no encajan para Frazier, como la extraña visita de una mujer (Jodie Foster), que pide hablar con el jefe de la banda, y el desmedido interés del presidente del consejo del banco por el desarrollo de la situación.</desc>
+  </programme>
+  <programme start="20261021134500 -0300" stop="20261021160000 -0300" channel="TNT_BR.br">
+    <title lang="pt" />
+    <episode-num system="xmltv_ns">-1.45.</episode-num>
+  </programme>
+  <programme start="20261021135400 -0500" stop="20261021161700 -0500" channel="TNT_CO.co">
+    <title lang="es">EL PLAN PERFECTO</title>
+    <desc lang="es">Cuando una sucursal de un banco de Wall Street es tomada por asalto, dos entrenados negociadores, los detectives Keith Frazier (Denzel Washington) y Bill Mitchell (Chiwetel Ejiofor), deben lidiar con el líder del grupo (Clive Owen). A pesar del gigante operativo, algunos hechos no encajan para Frazier, como la extraña visita de una mujer (Jodie Foster), que pide hablar con el jefe de la banda, y el desmedido interés del presidente del consejo del banco por el desarrollo de la situación.</desc>
+  </programme>
+  <programme start="20261021142500 -0400" stop="20261021175400 -0400" channel="TNT_CL.cl">
+    <title lang="es">EL SEÑOR DE LOS ANILLOS: LA COMUNIDAD DEL ANILLO</title>
+    <sub-title lang="es">THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING</sub-title>
+    <desc lang="es">En la mítica Tierra Media, un mundo fantástico y misterioso habitado por hombres, hobbits, magos, elfos, enanos y trolls, vive Frodo Bolsón (Elijah Wood), un tímido hobbit que deberá cumplir una difícil misión para salvar el destino de su tierra. Todo comienza cuando Frodo recibe un anillo de su tío Bilbo (Ian Holm) y el mago Gandalf (Ian McKellen) descubre que se trata del Anillo Unico. Ese poderoso anillo fue concebido por Sauron, el Señor Oscuro de Mordor (Sala Baker), y permite esclavizar a toda la Tierra Media movilizando las fuerzas oscuras. Para destruir el anillo Frodo deberá llevarlo hasta una lejana montaña ubicada en Mordor, la zona controlada por el amo del mal. Afortunadamente, lo acompañará una comunidad integrada por los hobbits Sam (Sean Astin), Merry (Dominic Monaghan) y Pippin (Billy Boyd), además de Gandalf, los guerreros humanos Aragorn (Viggo Mortensen) y Boromir (Sean Bean), y el Elfo Legolas (Orlando Bloom). Juntos deberán enfrentar peligrosos obstáculos en un temible mundo de misterio y oscuridad. Esta espectacular adaptación de la trilogía épica de J.R.R. Tolkien fue dirigida por Peter Jackson.</desc>
+  </programme>
+  <programme start="20261021150000 -0600" stop="20261021154400 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20261021150100 -0300" stop="20261021181500 -0300" channel="TNT_AR.ar">
+    <title lang="es">EL SEÑOR DE LOS ANILLOS: LA COMUNIDAD DEL ANILLO</title>
+    <sub-title lang="es">THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING</sub-title>
+    <desc lang="es">En la mítica Tierra Media, un mundo fantástico y misterioso habitado por hombres, hobbits, magos, elfos, enanos y trolls, vive Frodo Bolsón (Elijah Wood), un tímido hobbit que deberá cumplir una difícil misión para salvar el destino de su tierra. Todo comienza cuando Frodo recibe un anillo de su tío Bilbo (Ian Holm) y el mago Gandalf (Ian McKellen) descubre que se trata del Anillo Unico. Ese poderoso anillo fue concebido por Sauron, el Señor Oscuro de Mordor (Sala Baker), y permite esclavizar a toda la Tierra Media movilizando las fuerzas oscuras. Para destruir el anillo Frodo deberá llevarlo hasta una lejana montaña ubicada en Mordor, la zona controlada por el amo del mal. Afortunadamente, lo acompañará una comunidad integrada por los hobbits Sam (Sean Astin), Merry (Dominic Monaghan) y Pippin (Billy Boyd), además de Gandalf, los guerreros humanos Aragorn (Viggo Mortensen) y Boromir (Sean Bean), y el Elfo Legolas (Orlando Bloom). Juntos deberán enfrentar peligrosos obstáculos en un temible mundo de misterio y oscuridad. Esta espectacular adaptación de la trilogía épica de J.R.R. Tolkien fue dirigida por Peter Jackson.</desc>
+  </programme>
+  <programme start="20261021154400 -0600" stop="20261021164400 -0600" channel="TNT_MX.mx">
+    <title lang="es" />
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20261021160000 -0300" stop="20261021180000 -0300" channel="TNT_BR.br">
+    <title lang="pt" />
+    <episode-num system="xmltv_ns">-1.49.</episode-num>
+  </programme>
+  <programme start="20261021160200 -0500" stop="20261021193900 -0500" channel="TNT_PAN.co">
+    <title lang="es">EL SEÑOR DE LOS ANILLOS: LA COMUNIDAD DEL ANILLO</title>
+    <sub-title lang="es">THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING</sub-title>
+    <desc lang="es">En la mítica Tierra Media, un mundo fantástico y misterioso habitado por hombres, hobbits, magos, elfos, enanos y trolls, vive Frodo Bolsón (Elijah Wood), un tímido hobbit que deberá cumplir una difícil misión para salvar el destino de su tierra. Todo comienza cuando Frodo recibe un anillo de su tío Bilbo (Ian Holm) y el mago Gandalf (Ian McKellen) descubre que se trata del Anillo Unico. Ese poderoso anillo fue concebido por Sauron, el Señor Oscuro de Mordor (Sala Baker), y permite esclavizar a toda la Tierra Media movilizando las fuerzas oscuras. Para destruir el anillo Frodo deberá llevarlo hasta una lejana montaña ubicada en Mordor, la zona controlada por el amo del mal. Afortunadamente, lo acompañará una comunidad integrada por los hobbits Sam (Sean Astin), Merry (Dominic Monaghan) y Pippin (Billy Boyd), además de Gandalf, los guerreros humanos Aragorn (Viggo Mortensen) y Boromir (Sean Bean), y el Elfo Legolas (Orlando Bloom). Juntos deberán enfrentar peligrosos obstáculos en un temible mundo de misterio y oscuridad. Esta espectacular adaptación de la trilogía épica de J.R.R. Tolkien fue dirigida por Peter Jackson.</desc>
+  </programme>
+  <programme start="20261021161700 -0500" stop="20261021194200 -0500" channel="TNT_CO.co">
+    <title lang="es">EL SEÑOR DE LOS ANILLOS: LA COMUNIDAD DEL ANILLO</title>
+    <sub-title lang="es">THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING</sub-title>
+    <desc lang="es">En la mítica Tierra Media, un mundo fantástico y misterioso habitado por hombres, hobbits, magos, elfos, enanos y trolls, vive Frodo Bolsón (Elijah Wood), un tímido hobbit que deberá cumplir una difícil misión para salvar el destino de su tierra. Todo comienza cuando Frodo recibe un anillo de su tío Bilbo (Ian Holm) y el mago Gandalf (Ian McKellen) descubre que se trata del Anillo Unico. Ese poderoso anillo fue concebido por Sauron, el Señor Oscuro de Mordor (Sala Baker), y permite esclavizar a toda la Tierra Media movilizando las fuerzas oscuras. Para destruir el anillo Frodo deberá llevarlo hasta una lejana montaña ubicada en Mordor, la zona controlada por el amo del mal. Afortunadamente, lo acompañará una comunidad integrada por los hobbits Sam (Sean Astin), Merry (Dominic Monaghan) y Pippin (Billy Boyd), además de Gandalf, los guerreros humanos Aragorn (Viggo Mortensen) y Boromir (Sean Bean), y el Elfo Legolas (Orlando Bloom). Juntos deberán enfrentar peligrosos obstáculos en un temible mundo de misterio y oscuridad. Esta espectacular adaptación de la trilogía épica de J.R.R. Tolkien fue dirigida por Peter Jackson.</desc>
+  </programme>
+  <programme start="20261021164400 -0600" stop="20261021200300 -0600" channel="TNT_MX.mx">
+    <title lang="es">EL SEÑOR DE LOS ANILLOS: LA COMUNIDAD DEL ANILLO</title>
+    <sub-title lang="es">THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING</sub-title>
+    <desc lang="es">En la mítica Tierra Media, un mundo fantástico y misterioso habitado por hombres, hobbits, magos, elfos, enanos y trolls, vive Frodo Bolsón (Elijah Wood), un tímido hobbit que deberá cumplir una difícil misión para salvar el destino de su tierra. Todo comienza cuando Frodo recibe un anillo de su tío Bilbo (Ian Holm) y el mago Gandalf (Ian McKellen) descubre que se trata del Anillo Unico. Ese poderoso anillo fue concebido por Sauron, el Señor Oscuro de Mordor (Sala Baker), y permite esclavizar a toda la Tierra Media movilizando las fuerzas oscuras. Para destruir el anillo Frodo deberá llevarlo hasta una lejana montaña ubicada en Mordor, la zona controlada por el amo del mal. Afortunadamente, lo acompañará una comunidad integrada por los hobbits Sam (Sean Astin), Merry (Dominic Monaghan) y Pippin (Billy Boyd), además de Gandalf, los guerreros humanos Aragorn (Viggo Mortensen) y Boromir (Sean Bean), y el Elfo Legolas (Orlando Bloom). Juntos deberán enfrentar peligrosos obstáculos en un temible mundo de misterio y oscuridad. Esta espectacular adaptación de la trilogía épica de J.R.R. Tolkien fue dirigida por Peter Jackson.</desc>
+  </programme>
+  <programme start="20261021175400 -0400" stop="20261021201600 -0400" channel="TNT_CL.cl">
+    <title lang="es">EN EL CORAZÓN DEL MAR</title>
+    <sub-title lang="es">IN THE HEART OF THE SEA</sub-title>
+    <desc lang="es">En el invierno de 1820, el ballenero Essex, de Nueva Inglaterra, fue atacado por
+algo que nadie podía creer: una ballena enorme y decidida como un mamut, y con
+un sentido de venganza casi humano. La tripulación sobreviviente es llevada a los extremos y se ve obligada a hacer lo impensado para permanecer con vida. Al
+sufrir terribles tormentas, hambruna y desesperanza, los hombres cuestionarán
+sus creencias más profundas, desde el valor de sus vidas a la moralidad de su
+profesión.</desc>
+  </programme>
+  <programme start="20261021180000 -0300" stop="20261021190000 -0300" channel="TNT_BR.br">
+    <title lang="pt">PÓS-JOGO UEFA CHAMPIONS LEAGUE 2026/27</title>
+    <desc lang="pt">A melhor cobertura dos jogos da UEFA CHAMPIONS LEAGUE e o melhor futebol do mundo, na programação da TNT Brasil.</desc>
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261021181500 -0300" stop="20261021202800 -0300" channel="TNT_AR.ar">
+    <title lang="es">EN EL CORAZÓN DEL MAR</title>
+    <sub-title lang="es">IN THE HEART OF THE SEA</sub-title>
+    <desc lang="es">En el invierno de 1820, el ballenero Essex, de Nueva Inglaterra, fue atacado por
+algo que nadie podía creer: una ballena enorme y decidida como un mamut, y con
+un sentido de venganza casi humano. La tripulación sobreviviente es llevada a los extremos y se ve obligada a hacer lo impensado para permanecer con vida. Al
+sufrir terribles tormentas, hambruna y desesperanza, los hombres cuestionarán
+sus creencias más profundas, desde el valor de sus vidas a la moralidad de su
+profesión.</desc>
+  </programme>
+  <programme start="20261021190000 -0300" stop="20261021195800 -0300" channel="TNT_BR.br">
+    <title lang="pt">CONVOCADOS</title>
+    <desc lang="pt">Comandado por Taynah Espinoza, o Convocados reúne o elenco da TNT Sports em uma cobertura jornalística de alto nível que vai ao ar  após cada rodada da UEFA Champions League. O programa analisa os principais lances, as decisões táticas e os desdobramentos dos grandes confrontos europeus, além de entrevistas com os  personagens que escreveram a história de um dia de Champions.</desc>
+    <episode-num system="xmltv_ns">-1.6.</episode-num>
+  </programme>
+  <programme start="20261021193900 -0500" stop="20261021220000 -0500" channel="TNT_PAN.co">
+    <title lang="es">EN EL CORAZÓN DEL MAR</title>
+    <sub-title lang="es">IN THE HEART OF THE SEA</sub-title>
+    <desc lang="es">En el invierno de 1820, el ballenero Essex, de Nueva Inglaterra, fue atacado por
+algo que nadie podía creer: una ballena enorme y decidida como un mamut, y con
+un sentido de venganza casi humano. La tripulación sobreviviente es llevada a los extremos y se ve obligada a hacer lo impensado para permanecer con vida. Al
+sufrir terribles tormentas, hambruna y desesperanza, los hombres cuestionarán
+sus creencias más profundas, desde el valor de sus vidas a la moralidad de su
+profesión.</desc>
+  </programme>
+  <programme start="20261021194200 -0500" stop="20261021220000 -0500" channel="TNT_CO.co">
+    <title lang="es">EN EL CORAZÓN DEL MAR</title>
+    <sub-title lang="es">IN THE HEART OF THE SEA</sub-title>
+    <desc lang="es">En el invierno de 1820, el ballenero Essex, de Nueva Inglaterra, fue atacado por
+algo que nadie podía creer: una ballena enorme y decidida como un mamut, y con
+un sentido de venganza casi humano. La tripulación sobreviviente es llevada a los extremos y se ve obligada a hacer lo impensado para permanecer con vida. Al
+sufrir terribles tormentas, hambruna y desesperanza, los hombres cuestionarán
+sus creencias más profundas, desde el valor de sus vidas a la moralidad de su
+profesión.</desc>
+  </programme>
+  <programme start="20261021195800 -0300" stop="20261021231600 -0300" channel="TNT_BR.br">
+    <title lang="pt">O SENHOR DOS ANEIS: AS DUAS TORRES</title>
+    <sub-title lang="pt">The Lord of the Rings: The Two Towers</sub-title>
+    <desc lang="pt">O segundo capítulo da trilogia "O Senhor dos Anéis" gira em torno de duas tramas. Após a captura de Merry (Dominic Monaghan) e Pippin (Billy Boyd) e a dissolução da Sociedade do Anel, Frodo (Elijah Wood) e Sam (Sean Astin) seguem sua jornada rumo à Montanha da Perdição para destruir o precioso anel. Enquanto isso, Aragorn (Viggo Mortensen), Legolas (Orlando Bloom) e Gimli (John Rhys-Davies) partem para resgatar os hobbits seqüestrados pelos orcs. "As Duas Torres" foi vencedor do Oscar nas categorias de melhor edição de som e efeitos visuais. Também recebeu indicações de melhor filme, direção de arte, edição e som.</desc>
+  </programme>
+  <programme start="20261021200300 -0600" stop="20261021232700 -0600" channel="TNT_MX.mx">
+    <title lang="es">EL SEÑOR DE LOS ANILLOS: LAS DOS TORRES</title>
+    <sub-title lang="es">THE LORD OF THE RINGS: THE TWO TOWERS</sub-title>
+    <desc lang="es">Segunda entrega de la multipremiada saga dirigida por Peter Jackson, basada en la famosa obra de J.R.R. Tolkien. Tras la muerte de Boromir, los hobbits Frodo y Sam toman el camino de Mordor para destruir el Anillo Unico, guiados por Gollum, una criatura no muy confiable. Mientras tanto, Aragorn, Gimli y Legolas procuran rescatar a Merry y  Pippin, secuestrados por los orcos Uruk-hai. En el bosque de Fangorn ellos se reencuentran con el viejo amigo Gandalf. Defender la fortaleza de los Hombres será el gran objetivo: el futuro se definirá en la batalla del Abismo de Helm. La trilogía de Jackson ha conseguido el mayor número de premios Oscar de la historia: 17 estatuillas entre los tres films.</desc>
+  </programme>
+  <programme start="20261021201600 -0400" stop="20261021220000 -0400" channel="TNT_CL.cl">
+    <title lang="es">MASTERCHEF CHILE</title>
+    <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
+    <episode-num system="xmltv_ns">4.12.</episode-num>
+  </programme>
+  <programme start="20261021202800 -0300" stop="20261021220000 -0300" channel="TNT_AR.ar">
+    <title lang="es">MASTERCHEF CELEBRITY ARGENTINA</title>
+    <desc lang="es">¡Se encienden las hornallas! Bajo la conducción de Wanda Nara, llega la nueva temporada de esta intensa competencia de sabores, donde distintas celebridades despliegan su talento culinario ante un exigente jurado de chefs. Damián Betular, Maru Botana y Germán Martitegui serán los encargados de evaluar cada plato y definir quiénes tienen lo necesario para seguir en competencia y quienes deberán que entregar su delantal.</desc>
+    <episode-num system="xmltv_ns">-1.15.</episode-num>
+  </programme>
+  <programme start="20261021220000 -0300" stop="20261022012200 -0300" channel="TNT_AR.ar">
+    <title lang="es">EL SEÑOR DE LOS ANILLOS: LAS DOS TORRES</title>
+    <sub-title lang="es">THE LORD OF THE RINGS: THE TWO TOWERS</sub-title>
+    <desc lang="es">Segunda entrega de la multipremiada saga dirigida por Peter Jackson, basada en la famosa obra de J.R.R. Tolkien. Tras la muerte de Boromir, los hobbits Frodo y Sam toman el camino de Mordor para destruir el Anillo Unico, guiados por Gollum, una criatura no muy confiable. Mientras tanto, Aragorn, Gimli y Legolas procuran rescatar a Merry y  Pippin, secuestrados por los orcos Uruk-hai. En el bosque de Fangorn ellos se reencuentran con el viejo amigo Gandalf. Defender la fortaleza de los Hombres será el gran objetivo: el futuro se definirá en la batalla del Abismo de Helm. La trilogía de Jackson ha conseguido el mayor número de premios Oscar de la historia: 17 estatuillas entre los tres films.</desc>
+  </programme>
+  <programme start="20261021220000 -0400" stop="20261022014300 -0400" channel="TNT_CL.cl">
+    <title lang="es">EL SEÑOR DE LOS ANILLOS: LAS DOS TORRES</title>
+    <sub-title lang="es">THE LORD OF THE RINGS: THE TWO TOWERS</sub-title>
+    <desc lang="es">Segunda entrega de la multipremiada saga dirigida por Peter Jackson, basada en la famosa obra de J.R.R. Tolkien. Tras la muerte de Boromir, los hobbits Frodo y Sam toman el camino de Mordor para destruir el Anillo Unico, guiados por Gollum, una criatura no muy confiable. Mientras tanto, Aragorn, Gimli y Legolas procuran rescatar a Merry y  Pippin, secuestrados por los orcos Uruk-hai. En el bosque de Fangorn ellos se reencuentran con el viejo amigo Gandalf. Defender la fortaleza de los Hombres será el gran objetivo: el futuro se definirá en la batalla del Abismo de Helm. La trilogía de Jackson ha conseguido el mayor número de premios Oscar de la historia: 17 estatuillas entre los tres films.</desc>
+  </programme>
+  <programme start="20261021220000 -0500" stop="20261022012200 -0500" channel="TNT_CO.co">
+    <title lang="es">EL SEÑOR DE LOS ANILLOS: LAS DOS TORRES</title>
+    <sub-title lang="es">THE LORD OF THE RINGS: THE TWO TOWERS</sub-title>
+    <desc lang="es">Segunda entrega de la multipremiada saga dirigida por Peter Jackson, basada en la famosa obra de J.R.R. Tolkien. Tras la muerte de Boromir, los hobbits Frodo y Sam toman el camino de Mordor para destruir el Anillo Unico, guiados por Gollum, una criatura no muy confiable. Mientras tanto, Aragorn, Gimli y Legolas procuran rescatar a Merry y  Pippin, secuestrados por los orcos Uruk-hai. En el bosque de Fangorn ellos se reencuentran con el viejo amigo Gandalf. Defender la fortaleza de los Hombres será el gran objetivo: el futuro se definirá en la batalla del Abismo de Helm. La trilogía de Jackson ha conseguido el mayor número de premios Oscar de la historia: 17 estatuillas entre los tres films.</desc>
+  </programme>
+  <programme start="20261021220000 -0500" stop="20261022012000 -0500" channel="TNT_PAN.co">
+    <title lang="es">EL SEÑOR DE LOS ANILLOS: LAS DOS TORRES</title>
+    <sub-title lang="es">THE LORD OF THE RINGS: THE TWO TOWERS</sub-title>
+    <desc lang="es">Segunda entrega de la multipremiada saga dirigida por Peter Jackson, basada en la famosa obra de J.R.R. Tolkien. Tras la muerte de Boromir, los hobbits Frodo y Sam toman el camino de Mordor para destruir el Anillo Unico, guiados por Gollum, una criatura no muy confiable. Mientras tanto, Aragorn, Gimli y Legolas procuran rescatar a Merry y  Pippin, secuestrados por los orcos Uruk-hai. En el bosque de Fangorn ellos se reencuentran con el viejo amigo Gandalf. Defender la fortaleza de los Hombres será el gran objetivo: el futuro se definirá en la batalla del Abismo de Helm. La trilogía de Jackson ha conseguido el mayor número de premios Oscar de la historia: 17 estatuillas entre los tres films.</desc>
+  </programme>
+  <programme start="20261021231600 -0300" stop="20261021234200 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Chris e seus colegas terão que memorizar um famoso discurso da Segunda Guerra Mundial e recitá-lo diante da turma. Sem tempo para memorizar o discurso, Chris decide ligar para a escola fazendo uma ameaça de bomba. Uma cliente roga uma praga para Rochelle depois que ela se recusa a devolver o dinheiro da mulher pelos serviços prestados no salão.</desc>
+    <episode-num system="xmltv_ns">3.16.</episode-num>
+  </programme>
+  <programme start="20261021232700 -0600" stop="20261022013000 -0600" channel="TNT_MX.mx">
+    <title lang="es">RECIÉN CAZADO</title>
+    <sub-title lang="es">JUST MARRIED</sub-title>
+    <desc lang="es">Sebastián, un joven y exitoso enólogo, es el soltero por excelencia, acostumbrado a una vida de excesos, lujos y muchas mujeres, un día despierta al lado de Alexa, una hermosa bióloga marina con quien, sin recordarlo y motivado por una tremenda borrachera, contrajo matrimonio la noche anterior. Aunque Sebastián agota todos los recursos por anular su espontáneo matrimonio, Alexa lo amenaza con quitarle la mitad de sus bienes si no acepta que ella se quede a vivir con él al menos tres semanas para asegurarse de no estar embarazada. Recién Cazado es una divertida lucha de sexos, en donde Sebastián y Alexa tendrán que aprender a tolerarse, convivir, compartir y dejar atrás sus más intensas extravagancias de solteros para dar paso al verdadero amor.</desc>
+  </programme>
+  <programme start="20261021234200 -0300" stop="20261022000700 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Chris consegue sua carteira de motorista e Rochelle e Julius permitem que ele compre um carro. Procurando seu maço de cigarros secreto, Rochelle descobre escondido um bilhete de aposta em corridas de Julius.</desc>
+    <episode-num system="xmltv_ns">3.17.</episode-num>
+  </programme>
+  <programme start="20261022000700 -0300" stop="20261022003300 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Chris decide ficar contra sua mãe, Rochelle, e se recusa a fazer as tarefas domésticas. Rochelle reclama com Julius que seu filho a está desrespeitando. O sr. Omar acha que está morrendo e passa a dizer tudo o que lhe vem à cabeça.</desc>
+    <episode-num system="xmltv_ns">3.18.</episode-num>
+  </programme>
+  <programme start="20261022003300 -0300" stop="20261022005800 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Chris junta coragem para perguntar a Tasha se ela quer ser sua namorada e fica surpreso quando ela aceita. Só que Chris não tem a mínima ideia de que ser namorado exige abrir mão de todo o seu tempo livre e só fazer o que Tasha quer. Rochelle descobre que Julius foi casado e que não está legalmente divorciado.</desc>
+    <episode-num system="xmltv_ns">3.19.</episode-num>
+  </programme>
+  <programme start="20261022005800 -0300" stop="20261022012100 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Chris atinge Greg ao fazer o test drive no carro do zelador, e Greg acaba no hospital com uma perna quebrada. Com os pais de Greg fora da cidade, Rochelle decide interromper as férias da família. Julius precisa descobrir uma forma de entreter Drew e Tonya enquanto chove o tempo todo durante as férias na praia.</desc>
+    <episode-num system="xmltv_ns">3.20.</episode-num>
+  </programme>
+  <programme start="20261022012000 -0500" stop="20261022025500 -0500" channel="TNT_PAN.co">
+    <title lang="es">PLAN DE ESCAPE: EL RESCATE</title>
+    <sub-title lang="es">ESCAPE PLAN: THE EXTRACTORS</sub-title>
+    <desc lang="es">Cuando un experto en seguridad se encuentra encarcelado en la prisión más secreta y segura del mundo, tiene que utilizar sus habilidades para escapar con ayuda desde el interior.</desc>
+  </programme>
+  <programme start="20261022012100 -0300" stop="20261022014500 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">THE CLIENT</sub-title>
+    <desc lang="pt">Will ajuda Ashley a impressionar um executivo de uma gravadora, mas Philip é absolutamente contra a carreira de cantora da filha. A primeira parte de um episódio em duas partes, que termina com a pergunta: ¿"O que Will tem a ver com isso"?</desc>
+    <episode-num system="xmltv_ns">4.0.</episode-num>
+  </programme>
+  <programme start="20261022012200 -0300" stop="20261022030100 -0300" channel="TNT_AR.ar">
+    <title lang="es">PLAN DE ESCAPE: EL RESCATE</title>
+    <sub-title lang="es">ESCAPE PLAN: THE EXTRACTORS</sub-title>
+    <desc lang="es">Cuando un experto en seguridad se encuentra encarcelado en la prisión más secreta y segura del mundo, tiene que utilizar sus habilidades para escapar con ayuda desde el interior.</desc>
+  </programme>
+  <programme start="20261022012200 -0500" stop="20261022030000 -0500" channel="TNT_CO.co">
+    <title lang="es">PLAN DE ESCAPE: EL RESCATE</title>
+    <sub-title lang="es">ESCAPE PLAN: THE EXTRACTORS</sub-title>
+    <desc lang="es">Cuando un experto en seguridad se encuentra encarcelado en la prisión más secreta y segura del mundo, tiene que utilizar sus habilidades para escapar con ayuda desde el interior.</desc>
+  </programme>
+  <programme start="20261022013000 -0600" stop="20261022030900 -0600" channel="TNT_MX.mx">
+    <title lang="es">PLAN DE ESCAPE: EL RESCATE</title>
+    <sub-title lang="es">ESCAPE PLAN: THE EXTRACTORS</sub-title>
+    <desc lang="es">Cuando un experto en seguridad se encuentra encarcelado en la prisión más secreta y segura del mundo, tiene que utilizar sus habilidades para escapar con ayuda desde el interior.</desc>
+  </programme>
+  <programme start="20261022014300 -0400" stop="20261022032200 -0400" channel="TNT_CL.cl">
+    <title lang="es">PLAN DE ESCAPE: EL RESCATE</title>
+    <sub-title lang="es">ESCAPE PLAN: THE EXTRACTORS</sub-title>
+    <desc lang="es">Cuando un experto en seguridad se encuentra encarcelado en la prisión más secreta y segura del mundo, tiene que utilizar sus habilidades para escapar con ayuda desde el interior.</desc>
+  </programme>
+  <programme start="20261022014500 -0300" stop="20261022021000 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">WHAT'S WILL GOT TO DO WITH IT?</sub-title>
+    <desc lang="pt">Will fica feliz com o sucesso de Ashley na indústria musical, mas a dupla está prestes a ter uma surpresa desagradável. A segunda parte do episódio em duas partes: continuação de "The Client".</desc>
+    <episode-num system="xmltv_ns">4.1.</episode-num>
+  </programme>
+  <programme start="20261022021000 -0300" stop="20261022023200 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">REALITY BITES</sub-title>
+    <desc lang="pt">Will entra em uma briga com um homem fantasiado de Dougie, a Baleia (o herói de Nicky) e fica tentado a dizer a Nicky que seu "herói" não é real. Hilary estaciona na vaga de Leeza Gibbons e sofre as consequências.</desc>
+    <episode-num system="xmltv_ns">4.2.</episode-num>
+  </programme>
+  <programme start="20261022023200 -0300" stop="20261022025500 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">GRUMPY YOUNG MEN</sub-title>
+    <desc lang="pt">Quando a garota dos sonhos de Will escolhe Carlton em vez dele, Will fica com ciúmes. Ashley aprende a dirigir.</desc>
+    <episode-num system="xmltv_ns">4.3.</episode-num>
+  </programme>
+  <programme start="20261022025500 -0300" stop="20261022042700 -0300" channel="TNT_BR.br">
+    <title lang="pt">Rota de fuga 3: O Resgate</title>
+    <sub-title lang="pt">Escape Plan: The Extractors</sub-title>
+    <desc lang="pt">Ryan Breslin (Sylvester Stallone) e seu time de especialistas em segurança - incluindo Trent DeRosa (Dave Bautista) e Hush (Curtis "50 Cent" Jackson) - precisam executar uma missão mortal para resgatar a filha de um magnata da tecnologia de Hong Kong e a namorada de Breslin, sequestradas em uma prisão impenetrável conhecida como Estação do Diabo.</desc>
+  </programme>
+  <programme start="20261022025500 -0500" stop="20261022043800 -0500" channel="TNT_PAN.co">
+    <title lang="es">UNA PÉRDIDA ACEPTABLE</title>
+    <desc lang="es">Libby Lamm es una antigua asesora de seguridad nacional que, mientras trabajaba con Rachel Burke, una veterana política implacable y de voluntad firme, firmó una polémica acción militar que supuestamente iba a poner fin a la guerra contra el terrorismo. El problema: miles murieron bajo falsas pretensiones. Perseguida por su pasado, Libby se propone decir la verdad, arriesgando la traición y su propia vida, para exponer un encubrimiento que se extiende hasta los niveles más altos del gobierno.</desc>
+  </programme>
+  <programme start="20261022030000 -0500" stop="20261022044100 -0500" channel="TNT_CO.co">
+    <title lang="es">UNA PÉRDIDA ACEPTABLE</title>
+    <desc lang="es">Libby Lamm es una antigua asesora de seguridad nacional que, mientras trabajaba con Rachel Burke, una veterana política implacable y de voluntad firme, firmó una polémica acción militar que supuestamente iba a poner fin a la guerra contra el terrorismo. El problema: miles murieron bajo falsas pretensiones. Perseguida por su pasado, Libby se propone decir la verdad, arriesgando la traición y su propia vida, para exponer un encubrimiento que se extiende hasta los niveles más altos del gobierno.</desc>
+  </programme>
+  <programme start="20261022030100 -0300" stop="20261022050800 -0300" channel="TNT_AR.ar">
+    <title lang="es">EL HIJO DE LA NOVIA</title>
+    <sub-title lang="es">SON OF THE BRIDE</sub-title>
+    <desc lang="es">A los 42, Rafael Belvedere está pasando una crisis. Vive a la sombra de su padre, se siente culpable porque rara vez visita a su anciana madre, su ex esposa dice que no pasa suficiente tiempo con su hija y aún tiene que adquirir un compromiso con su novia. En su punto más bajo, un pequeño ataque cardiaco lo reúne con Juan Carlos, un amigo de la infancia que le ayuda a reconstruir su pasado.</desc>
+  </programme>
+  <programme start="20261022030900 -0600" stop="20261022045300 -0600" channel="TNT_MX.mx">
+    <title lang="es">UNA PÉRDIDA ACEPTABLE</title>
+    <desc lang="es">Libby Lamm es una antigua asesora de seguridad nacional que, mientras trabajaba con Rachel Burke, una veterana política implacable y de voluntad firme, firmó una polémica acción militar que supuestamente iba a poner fin a la guerra contra el terrorismo. El problema: miles murieron bajo falsas pretensiones. Perseguida por su pasado, Libby se propone decir la verdad, arriesgando la traición y su propia vida, para exponer un encubrimiento que se extiende hasta los niveles más altos del gobierno.</desc>
+  </programme>
+  <programme start="20261022032200 -0400" stop="20261022050600 -0400" channel="TNT_CL.cl">
+    <title lang="es">UNA PÉRDIDA ACEPTABLE</title>
+    <desc lang="es">Libby Lamm es una antigua asesora de seguridad nacional que, mientras trabajaba con Rachel Burke, una veterana política implacable y de voluntad firme, firmó una polémica acción militar que supuestamente iba a poner fin a la guerra contra el terrorismo. El problema: miles murieron bajo falsas pretensiones. Perseguida por su pasado, Libby se propone decir la verdad, arriesgando la traición y su propia vida, para exponer un encubrimiento que se extiende hasta los niveles más altos del gobierno.</desc>
+  </programme>
+  <programme start="20261022042700 -0300" stop="20261022050200 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.11.</episode-num>
+  </programme>
+  <programme start="20261022043800 -0500" stop="20261022051600 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.10.</episode-num>
+  </programme>
+  <programme start="20261022044100 -0500" stop="20261022051600 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.10.</episode-num>
+  </programme>
+  <programme start="20261022045300 -0600" stop="20261022053100 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.12.</episode-num>
+  </programme>
+  <programme start="20261022050200 -0300" stop="20261022053700 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.12.</episode-num>
+  </programme>
+  <programme start="20261022050600 -0400" stop="20261022054400 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.9.</episode-num>
+  </programme>
+  <programme start="20261022050800 -0300" stop="20261022054300 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.9.</episode-num>
+  </programme>
+  <programme start="20261022051600 -0500" stop="20261022055400 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.11.</episode-num>
+  </programme>
+  <programme start="20261022051600 -0500" stop="20261022055100 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.12.</episode-num>
+  </programme>
+  <programme start="20261022053100 -0600" stop="20261022054500 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.37.</episode-num>
+  </programme>
+  <programme start="20261022053700 -0300" stop="20261022054700 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.40.</episode-num>
+  </programme>
+  <programme start="20261022054300 -0300" stop="20261022060000 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.45.</episode-num>
+  </programme>
+  <programme start="20261022054400 -0400" stop="20261022055600 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.42.</episode-num>
+  </programme>
+  <programme start="20261022054500 -0600" stop="20261022055400 -0600" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.44.</episode-num>
+  </programme>
+  <programme start="20261022054700 -0300" stop="20261022055500 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.41.</episode-num>
+  </programme>
+  <programme start="20261022055100 -0500" stop="20261022060000 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.38.</episode-num>
+  </programme>
+  <programme start="20261022055400 -0500" stop="20261022055600 -0500" channel="TNT_CO.co">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.66.</episode-num>
+  </programme>
+  <programme start="20261022055400 -0600" stop="20261022060000 -0600" channel="TNT_MX.mx">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.84.</episode-num>
+  </programme>
+  <programme start="20261022055500 -0300" stop="20261022060000 -0300" channel="TNT_BR.br">
+    <title lang="pt">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.56.</episode-num>
+  </programme>
+  <programme start="20261022055600 -0400" stop="20261022060000 -0400" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.72.</episode-num>
+  </programme>
+  <programme start="20261022055600 -0500" stop="20261022060000 -0500" channel="TNT_CO.co">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.67.</episode-num>
   </programme>
 </tv>
