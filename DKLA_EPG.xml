@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="Guia de Programación Cartoon Network Latinoamérica">
+  <channel id="DKLA_PAN.co">
+    <display-name>Discovery Kids Panregional</display-name>
+  </channel>
+  <channel id="DKLA_MX.mx">
+    <display-name>Discovery Kids México</display-name>
+  </channel>
+  <channel id="DKLA_BR.br">
+    <display-name>Discovery Kids Brasil</display-name>
+  </channel>
+</tv>
