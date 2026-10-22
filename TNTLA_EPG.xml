@@ -18,29 +18,7 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
-  <programme start="20261016201300 -0600" stop="20261016215900 -0600" channel="TNT_MX.mx">
-    <title lang="es">JACK Y JILL</title>
-    <sub-title lang="es">JACK AND JILL</sub-title>
-    <desc lang="es">Jack Sadelstein tiene todo en la vida: una hermosa mujer, dos hijos encantadores, una enorme casa en Los Ángeles y un trabajo exitoso como ejecutivo de publicidad. Pero se acerca el día de Acción de Gracias, el cual Jack detesta porque implica la visita de su hermana Jill, con quien no se lleva nada bien. En el medio de todo esto, Dunkin¿ Donuts, su cliente más importante, le pide que convenza a Al Pacino de protagonizar una publicidad.</desc>
-  </programme>
   <programme start="20261016215900 -0600" stop="20261016234000 -0600" channel="TNT_MX.mx">
-    <title lang="es">KUNG FU PANDA</title>
-    <desc lang="es">Unos poderosos enemigos se han reunido en la entrada del Valle de la Paz, y la única esperanza es una antigua profecía que predice la aparición de un héroe que salvará la situación. Pero ninguno de los maestros de artes marciales que se han presentado llevan la marca del Escogido... hasta ahora. Cuando Po, el animal más perezoso que habita el Valle,  aparece involuntariamente en medio de la competición, todos se quedan asombrados al ver que un panda tan poco motivado sea el elegido. Dependerá de ellos convertir a este tierno gigante en un luchador de kung-fu antes de que sea demasiado tarde.</desc>
-  </programme>
-  <programme start="20261016220000 -0500" stop="20261016234200 -0500" channel="TNT_CO.co">
-    <title lang="es">KUNG FU PANDA</title>
-    <desc lang="es">Unos poderosos enemigos se han reunido en la entrada del Valle de la Paz, y la única esperanza es una antigua profecía que predice la aparición de un héroe que salvará la situación. Pero ninguno de los maestros de artes marciales que se han presentado llevan la marca del Escogido... hasta ahora. Cuando Po, el animal más perezoso que habita el Valle,  aparece involuntariamente en medio de la competición, todos se quedan asombrados al ver que un panda tan poco motivado sea el elegido. Dependerá de ellos convertir a este tierno gigante en un luchador de kung-fu antes de que sea demasiado tarde.</desc>
-  </programme>
-  <programme start="20261016220000 -0500" stop="20261016234500 -0500" channel="TNT_PAN.co">
-    <title lang="es">KUNG FU PANDA</title>
-    <desc lang="es">Unos poderosos enemigos se han reunido en la entrada del Valle de la Paz, y la única esperanza es una antigua profecía que predice la aparición de un héroe que salvará la situación. Pero ninguno de los maestros de artes marciales que se han presentado llevan la marca del Escogido... hasta ahora. Cuando Po, el animal más perezoso que habita el Valle,  aparece involuntariamente en medio de la competición, todos se quedan asombrados al ver que un panda tan poco motivado sea el elegido. Dependerá de ellos convertir a este tierno gigante en un luchador de kung-fu antes de que sea demasiado tarde.</desc>
-  </programme>
-  <programme start="20261016230700 -0300" stop="20261017011000 -0300" channel="TNT_AR.ar">
-    <title lang="es">¿QUIÉN *&amp;$%! SON LOS MILLER?</title>
-    <sub-title lang="es">WE'RE THE MILLERS</sub-title>
-    <desc lang="es">Jason Sudeikis interpreta en esta loca comedia a un pequeño traficante de marihuana, quien prefiere mantener un perfil bajo en un pequeño suburbio. Cuando se encuentra con un grupo de pandilleros que le roban todo su dinero y su cargamento, él se encuentra en un grave problema con su proveedor (Ed Helms de ¿Qué pasó ayer?). Para poder arreglar lo sucedido, el pequeño traficante debe convertirse en un gran traficante trayendo un gran cargamento desde México. Contratando a sus vecinos - una cínica stripper (Jennifer Aniston), una adolescente astuta (Emma Roberts) y un potencial cliente (Will Poulter) - él aparecerá con un increíble plan. Una esposa de mentira, dos supuestos hijos y un descomunal y brillante motorhome, "the Millers" apuntan a la frontera del sur en el feriado del 4 de Julio con la seguridad de conseguir unas buenas explosiones!</desc>
-  </programme>
-  <programme start="20261016230700 -0400" stop="20261017004900 -0400" channel="TNT_CL.cl">
     <title lang="es">KUNG FU PANDA</title>
     <desc lang="es">Unos poderosos enemigos se han reunido en la entrada del Valle de la Paz, y la única esperanza es una antigua profecía que predice la aparición de un héroe que salvará la situación. Pero ninguno de los maestros de artes marciales que se han presentado llevan la marca del Escogido... hasta ahora. Cuando Po, el animal más perezoso que habita el Valle,  aparece involuntariamente en medio de la competición, todos se quedan asombrados al ver que un panda tan poco motivado sea el elegido. Dependerá de ellos convertir a este tierno gigante en un luchador de kung-fu antes de que sea demasiado tarde.</desc>
   </programme>
@@ -59,45 +37,15 @@
     <sub-title lang="es">WE'RE THE MILLERS</sub-title>
     <desc lang="es">Jason Sudeikis interpreta en esta loca comedia a un pequeño traficante de marihuana, quien prefiere mantener un perfil bajo en un pequeño suburbio. Cuando se encuentra con un grupo de pandilleros que le roban todo su dinero y su cargamento, él se encuentra en un grave problema con su proveedor (Ed Helms de ¿Qué pasó ayer?). Para poder arreglar lo sucedido, el pequeño traficante debe convertirse en un gran traficante trayendo un gran cargamento desde México. Contratando a sus vecinos - una cínica stripper (Jennifer Aniston), una adolescente astuta (Emma Roberts) y un potencial cliente (Will Poulter) - él aparecerá con un increíble plan. Una esposa de mentira, dos supuestos hijos y un descomunal y brillante motorhome, "the Millers" apuntan a la frontera del sur en el feriado del 4 de Julio con la seguridad de conseguir unas buenas explosiones!</desc>
   </programme>
-  <programme start="20261016235200 -0300" stop="20261017001500 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <episode-num system="xmltv_ns">2.16.</episode-num>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20261017001500 -0300" stop="20261017003800 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <episode-num system="xmltv_ns">2.17.</episode-num>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
-  <programme start="20261017003800 -0300" stop="20261017010000 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <episode-num system="xmltv_ns">2.18.</episode-num>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
   <programme start="20261017004900 -0400" stop="20261017024400 -0400" channel="TNT_CL.cl">
     <title lang="es">¿QUIÉN *&amp;$%! SON LOS MILLER?</title>
     <sub-title lang="es">WE'RE THE MILLERS</sub-title>
     <desc lang="es">Jason Sudeikis interpreta en esta loca comedia a un pequeño traficante de marihuana, quien prefiere mantener un perfil bajo en un pequeño suburbio. Cuando se encuentra con un grupo de pandilleros que le roban todo su dinero y su cargamento, él se encuentra en un grave problema con su proveedor (Ed Helms de ¿Qué pasó ayer?). Para poder arreglar lo sucedido, el pequeño traficante debe convertirse en un gran traficante trayendo un gran cargamento desde México. Contratando a sus vecinos - una cínica stripper (Jennifer Aniston), una adolescente astuta (Emma Roberts) y un potencial cliente (Will Poulter) - él aparecerá con un increíble plan. Una esposa de mentira, dos supuestos hijos y un descomunal y brillante motorhome, "the Millers" apuntan a la frontera del sur en el feriado del 4 de Julio con la seguridad de conseguir unas buenas explosiones!</desc>
   </programme>
-  <programme start="20261017010000 -0300" stop="20261017012300 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <episode-num system="xmltv_ns">2.19.</episode-num>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-  </programme>
   <programme start="20261017011000 -0300" stop="20261017025100 -0300" channel="TNT_AR.ar">
     <title lang="es">BUENOS VECINOS</title>
     <sub-title lang="es">NEIGHBORS</sub-title>
     <desc lang="es">Mac y Kelly Radner son una joven pareja que intenta criar a su pequeña hija Stella en su casa en los suburbios. De repente, una fraternidad liderada por Teddy Sanders y Pete Regazolli se muda a la casa de al lado. Al comienzo, Mac y Kelly hacen buenas migas con los Delta Psi, pero cuando una noche, al no poder dormir debido a una fiesta en la casa de al lado, Mac llama a la policía, Teddy y Pete les declaran la guerra.</desc>
-  </programme>
-  <programme start="20261017012300 -0300" stop="20261017014600 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">TAKE MY COUSIN...PLEASE</sub-title>
-    <episode-num system="xmltv_ns">3.10.</episode-num>
-    <desc lang="pt">Recém-divorciado, um dos professores de Will está deprimido. Will resolve então apresentá-lo a Hilary para melhorar suas notas.</desc>
   </programme>
   <programme start="20261017013700 -0600" stop="20261017031600 -0600" channel="TNT_MX.mx">
     <title lang="es">BUENOS VECINOS</title>
@@ -113,12 +61,6 @@
     <title lang="es">BUENOS VECINOS</title>
     <sub-title lang="es">NEIGHBORS</sub-title>
     <desc lang="es">Mac y Kelly Radner son una joven pareja que intenta criar a su pequeña hija Stella en su casa en los suburbios. De repente, una fraternidad liderada por Teddy Sanders y Pete Regazolli se muda a la casa de al lado. Al comienzo, Mac y Kelly hacen buenas migas con los Delta Psi, pero cuando una noche, al no poder dormir debido a una fiesta en la casa de al lado, Mac llama a la policía, Teddy y Pete les declaran la guerra.</desc>
-  </programme>
-  <programme start="20261017014600 -0300" stop="20261017020900 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">YOU'VE GOT TO BE A FOOTBALL HERO</sub-title>
-    <episode-num system="xmltv_ns">3.11.</episode-num>
-    <desc lang="pt">Bêbado, Will fica preso em um mausoléu com quatro fantasmas filosóficos.</desc>
   </programme>
   <programme start="20261017020900 -0300" stop="20261017023100 -0300" channel="TNT_BR.br">
     <title lang="pt">UM MALUCO NO PEDAÇO</title>
