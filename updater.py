@@ -157,6 +157,36 @@ NETWORKS_CONFIG = {
                 "tz_str": "-0400"
             }
         ]
+    },
+    "DKLA_EPG.xml": {
+        "generator_name": "Guia de Programacion Discovery Kids MultiFeed",
+        "referer": "https://epg.tapkit.warnermedia.com/epg/networks/2",
+        "feeds": [
+            {
+                "feed_id": "FULL_DLA_Discovery_Kids_Latin",
+                "channel_id": "DKLA_PAN.co",
+                "channel_name": "Discovery Kids Panregional",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-5)),
+                "tz_str": "-0500"
+            },
+            {
+                "feed_id": "FULL_DLA_Discovery_Kids_Mexico",
+                "channel_id": "DKLA_MX.mx",
+                "channel_name": "Discovery Kids México",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-6)),
+                "tz_str": "-0600"
+            },
+            {
+                "feed_id": "FULL_DLA_Discovery_Kids_Brazil",
+                "channel_id": "DKLA_BR.br",
+                "channel_name": "Discovery Kids Brasil",
+                "lang": "pt",
+                "tz": timezone(timedelta(hours=-3)),
+                "tz_str": "-0300"
+            }
+        ]
     }
 }
 
@@ -296,6 +326,107 @@ def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_t
     print(f"[ÉXITO] Metadatos mensuales activos indexados: {len(combined_dict)} elementos.")
     return combined_dict
 
+def download_and_load_discovery_kids_metadata(token):
+    now = datetime.now()
+    year_curr = now.year
+    month_curr = now.month
+    year_short = str(year_curr)[-2:]
+    
+    if month_curr % 2 != 0:
+        start_m = month_curr
+        end_m = month_curr + 1
+    else:
+        start_m = month_curr - 1
+        end_m = month_curr
+
+    if end_m > 12:
+        end_m = 12
+
+    start_str = f"{year_short}{start_m:02d}01"
+    last_day = 31 if end_m in [1, 3, 5, 7, 8, 10, 12] else 30
+    if end_m == 2:
+        last_day = 28
+    end_str = f"{year_short}{end_m:02d}{last_day}"
+
+    regions = ["Latin", "Mexico", "Brazil"]
+    combined_dict = {}
+
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {token}",
+        "Origin": "https://epg.tapkit.warnermedia.com",
+        "Referer": "https://epg.tapkit.warnermedia.com/epg/networks/2"
+    }
+
+    url = "https://epg.tapkit.warnermedia.com/api/epg/tapkitFrontEnd/networksepg/downloadfiles"
+
+    for reg in regions:
+        filename = f"FULL_DLA_Discovery_Kids_{reg}_{start_str}_{end_str}.xlsx"
+        path = f"network-files/DISCKIDS/EPAK/FULL/{filename}"
+        payload = [{"name": filename, "path": path}]
+
+        try:
+            res = requests.post(url, json=payload, headers=headers, timeout=30)
+            if res.status_code != 200:
+                continue
+
+            content_bytes = io.BytesIO(res.content)
+            df_grid = None
+
+            if zipfile.is_zipfile(content_bytes):
+                with zipfile.ZipFile(content_bytes) as z:
+                    for z_name in z.namelist():
+                        if z_name.endswith((".xlsx", ".xls")):
+                            with z.open(z_name) as f:
+                                try:
+                                    df_grid = pd.read_excel(f)
+                                except:
+                                    df_grid = pd.read_html(f)[0]
+            else:
+                try:
+                    df_grid = pd.read_excel(content_bytes)
+                except:
+                    df_grid = pd.read_html(content_bytes)[0]
+
+            if df_grid is not None:
+                if not any("Program Name" in str(col) or "Schedule Date" in str(col) or "Original Title" in str(col) for col in df_grid.columns):
+                    if len(df_grid) > 0:
+                        df_grid.columns = df_grid.iloc[0]
+                        df_grid = df_grid[1:].reset_index(drop=True)
+
+                count = 0
+                for _, row in df_grid.iterrows():
+                    orig_title = str(row.get("Original Title", row.get("Original Episode Title", ""))).strip().upper()
+                    orig_ep = str(row.get("Original Episode Title", "")).strip().upper()
+                    
+                    es_title = str(row.get("Press Title (ESPA)", row.get("Episode Title (ESPA)", row.get("Episode Title(ESPA)", ""))).strip()
+                    es_desc = str(row.get("Episode Sinopsis Prensa(ESPA)", row.get("Episode Synopsis VOD (ESPA)", row.get("Program Sinopsis Prensa(ESPA)", ""))).strip()
+                    year_val = str(row.get("Year", row.get("Año", ""))).strip()
+
+                    meta_data = {
+                        "title": es_title if es_title and es_title.lower() != "nan" else "",
+                        "desc": es_desc if es_desc and es_desc.lower() != "nan" else "",
+                        "year": year_val if year_val and year_val.lower() != "nan" and year_val.isdigit() else ""
+                    }
+
+                    if orig_ep and orig_ep != "NAN":
+                        combined_dict[orig_ep] = meta_data
+                        combined_dict[orig_ep.upper()] = meta_data
+                    if orig_title and orig_title != "NAN":
+                        combined_dict[orig_title] = meta_data
+                        combined_dict[orig_title.upper()] = meta_data
+                    if es_title and es_title != "NAN":
+                        combined_dict[es_title.upper()] = meta_data
+
+                    count += 1
+                print(f"[OK] Discovery Kids ({reg}) indexado con éxito ({count} registros).")
+        except Exception as e:
+            print(f"[WARN] No se pudo cargar Discovery Kids ({reg}) para {filename}: {e}")
+
+    return combined_dict
+
 def fetch_tmdb_synopsis(title):
     if not title or (not TMDB_TOKEN and not TMDB_API_KEY):
         return ""
@@ -365,7 +496,7 @@ def sanitize_and_parse_xml(file_path, generator_name):
         cleaned_lines = []
         for line in content.splitlines():
             stripped = line.strip()
-            if stripped in ["JUEVES", "VIERNES", "SÁBADO", "SABADO", "DOMINGO", "LUNES", "MARTES", "MIÉRCOLES", "MIERCOLES"] or (any(net in stripped for net in ["PANREGIONAL", "WARNER", "TNT", "CARTOON"]) and not stripped.startswith("<")):
+            if stripped in ["JUEVES", "VIERNES", "SÁBADO", "SABADO", "DOMINGO", "LUNES", "MARTES", "MIÉRCOLES", "MIERCOLES"] or (any(net in stripped for net in ["PANREGIONAL", "WARNER", "TNT", "CARTOON", "DISCOVERY"]) and not stripped.startswith("<")):
                 continue
             cleaned_lines.append(line)
 
@@ -516,8 +647,8 @@ def process_feed(root, feed_cfg, xls_path, monthly_meta=None):
         elif col_desc and pd.notna(row.get(col_desc)) and str(row.get(col_desc)).strip():
             desc_val = str(row.get(col_desc)).strip()
 
-        # CRUCE MEJORADO Y ROBUSTO CON METADATOS MENSUALES (Forzar traducción al español)
-        if feed_cfg["feed_id"] == "CNLA_PAN" and monthly_meta:
+        # CRUCE CON METADATOS MENSUALES
+        if monthly_meta:
             search_keys = [ep_name_val.upper(), title_val.upper()]
             matched_info = None
 
@@ -610,7 +741,9 @@ def process_feed(root, feed_cfg, xls_path, monthly_meta=None):
 def main():
     token = login_and_get_token()
 
+    # Cargar metadatos mensuales y bimensuales
     cn_monthly_meta = download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_type="PAN")
+    dk_monthly_meta = download_and_load_discovery_kids_metadata(token)
 
     for xml_filename, net_config in NETWORKS_CONFIG.items():
         print(f"\n==========================================")
@@ -627,7 +760,14 @@ def main():
         for feed_cfg in net_config["feeds"]:
             try:
                 xls_path = download_feed_xls(token, feed_cfg["feed_id"], net_config["referer"])
-                use_meta = cn_monthly_meta if "CNLA" in xml_filename else None
+                
+                if "CNLA" in xml_filename:
+                    use_meta = cn_monthly_meta
+                elif "DKLA" in xml_filename:
+                    use_meta = dk_monthly_meta
+                else:
+                    use_meta = None
+
                 process_feed(root, feed_cfg, xls_path, monthly_meta=use_meta)
             except Exception as e:
                 print(f"[ERROR] Error al procesar feed {feed_cfg['feed_id']}: {e}")
