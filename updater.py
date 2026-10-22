@@ -401,8 +401,8 @@ def download_and_load_discovery_kids_metadata(token):
                     orig_title = str(row.get("Original Title", row.get("Original Episode Title", ""))).strip().upper()
                     orig_ep = str(row.get("Original Episode Title", "")).strip().upper()
                     
-                    es_title = str(row.get("Press Title (ESPA)", row.get("Episode Title (ESPA)", row.get("Episode Title(ESPA)", ""))).strip()
-                    es_desc = str(row.get("Episode Sinopsis Prensa(ESPA)", row.get("Episode Synopsis VOD (ESPA)", row.get("Program Sinopsis Prensa(ESPA)", ""))).strip()
+                    es_title = str(row.get("Press Title (ESPA)", row.get("Episode Title (ESPA)", row.get("Episode Title(ESPA)", "")))).strip()
+                    es_desc = str(row.get("Episode Sinopsis Prensa(ESPA)", row.get("Episode Synopsis VOD (ESPA)", row.get("Program Sinopsis Prensa(ESPA)", "")))).strip()
                     year_val = str(row.get("Year", row.get("Año", ""))).strip()
 
                     meta_data = {
@@ -741,7 +741,6 @@ def process_feed(root, feed_cfg, xls_path, monthly_meta=None):
 def main():
     token = login_and_get_token()
 
-    # Cargar metadatos mensuales y bimensuales
     cn_monthly_meta = download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_type="PAN")
     dk_monthly_meta = download_and_load_discovery_kids_metadata(token)
 
