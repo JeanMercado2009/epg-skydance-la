@@ -18,16 +18,6 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
-  <programme start="20261016200600 -0500" stop="20261016220000 -0500" channel="TNT_CO.co">
-    <title lang="es">JACK Y JILL</title>
-    <sub-title lang="es">JACK AND JILL</sub-title>
-    <desc lang="es">Jack Sadelstein tiene todo en la vida: una hermosa mujer, dos hijos encantadores, una enorme casa en Los Ángeles y un trabajo exitoso como ejecutivo de publicidad. Pero se acerca el día de Acción de Gracias, el cual Jack detesta porque implica la visita de su hermana Jill, con quien no se lleva nada bien. En el medio de todo esto, Dunkin¿ Donuts, su cliente más importante, le pide que convenza a Al Pacino de protagonizar una publicidad.</desc>
-  </programme>
-  <programme start="20261016200800 -0500" stop="20261016220000 -0500" channel="TNT_PAN.co">
-    <title lang="es">JACK Y JILL</title>
-    <sub-title lang="es">JACK AND JILL</sub-title>
-    <desc lang="es">Jack Sadelstein tiene todo en la vida: una hermosa mujer, dos hijos encantadores, una enorme casa en Los Ángeles y un trabajo exitoso como ejecutivo de publicidad. Pero se acerca el día de Acción de Gracias, el cual Jack detesta porque implica la visita de su hermana Jill, con quien no se lleva nada bien. En el medio de todo esto, Dunkin¿ Donuts, su cliente más importante, le pide que convenza a Al Pacino de protagonizar una publicidad.</desc>
-  </programme>
   <programme start="20261016201300 -0600" stop="20261016215900 -0600" channel="TNT_MX.mx">
     <title lang="es">JACK Y JILL</title>
     <sub-title lang="es">JACK AND JILL</sub-title>
@@ -44,12 +34,6 @@
   <programme start="20261016220000 -0500" stop="20261016234500 -0500" channel="TNT_PAN.co">
     <title lang="es">KUNG FU PANDA</title>
     <desc lang="es">Unos poderosos enemigos se han reunido en la entrada del Valle de la Paz, y la única esperanza es una antigua profecía que predice la aparición de un héroe que salvará la situación. Pero ninguno de los maestros de artes marciales que se han presentado llevan la marca del Escogido... hasta ahora. Cuando Po, el animal más perezoso que habita el Valle,  aparece involuntariamente en medio de la competición, todos se quedan asombrados al ver que un panda tan poco motivado sea el elegido. Dependerá de ellos convertir a este tierno gigante en un luchador de kung-fu antes de que sea demasiado tarde.</desc>
-  </programme>
-  <programme start="20261016223300 -0400" stop="20261016230700 -0400" channel="TNT_CL.cl">
-    <title lang="es">CAUTIVA</title>
-    <sub-title lang="es">AWAKENING</sub-title>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <desc lang="es">En el convento, Clara termina en la enfermería a causa de los trabajos forzados. En el presente, decide confrontar a su madre y testificar.</desc>
   </programme>
   <programme start="20261016230700 -0300" stop="20261017011000 -0300" channel="TNT_AR.ar">
     <title lang="es">¿QUIÉN *&amp;$%! SON LOS MILLER?</title>
