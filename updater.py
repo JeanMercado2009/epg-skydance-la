@@ -475,8 +475,7 @@ def sanitize_and_parse_xml(file_path, generator_name):
                 continue
             cleaned_lines.append(line)
 
-        cleaned_content = "
-".join(cleaned_lines)
+        cleaned_content = "\n".join(cleaned_lines)
         return ET.fromstring(cleaned_content)
     except Exception:
         return ET.Element("tv", {"generator-info-name": generator_name})
