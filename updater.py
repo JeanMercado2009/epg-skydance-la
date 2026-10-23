@@ -241,6 +241,20 @@ def get_target_months():
 
     return [(year_curr, month_curr), (year_next, month_next)]
 
+def standardize_date_str(date_val):
+    if not date_val or pd.isna(date_val):
+        return ""
+    d_str = str(date_val).strip().split()[0]
+    match = re.search(r"(\d{4})[-/](\d{1,2})[-/](\d{1,2})|(\d{1,2})[-/](\d{1,2})[-/](\d{4})", d_str)
+    if match:
+        groups = match.groups()
+        if groups[0]:
+            y, m, d = int(groups[0]), int(groups[1]), int(groups[2])
+        else:
+            d, m, y = int(groups[3]), int(groups[4]), int(groups[5])
+        return f"{y:04d}-{m:02d}-{d:02d}"
+    return d_str
+
 def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_type="PAN"):
     months = get_target_months()
     combined_dict = {}
@@ -299,19 +313,30 @@ def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_t
 
                     count = 0
                     for _, row in df_grid.iterrows():
+                        date_norm = standardize_date_str(row.get("Schedule Date") or row.get("Date"))
+                        prog_norm = str(row.get("Press Title (ESPA)") or row.get("Program Name") or "").strip().upper()
+                        
                         orig_title = str(row.get("Original Title") or row.get("Original Episode Title") or "").strip().upper()
                         orig_ep = str(row.get("Original Episode Title") or "").strip().upper()
                         
-                        es_title = str(row.get("Press Title (ESPA)") or row.get("Episode Title (ESPA)") or row.get("Episode Title(ESPA)") or "").strip()
+                        es_title = str(row.get("Episode Title(ESPA)") or row.get("Episode Title (ESPA)") or row.get("Press Title (ESPA)") or "").strip()
+                        en_title = str(row.get("Original Episode Title") or row.get("Episode Title(INGL)") or "").strip()
                         es_desc = str(row.get("Episode Sinopsis Prensa(ESPA)") or row.get("Episode Synopsis VOD (ESPA)") or row.get("Program Sinopsis Prensa(ESPA)") or "").strip()
                         year_val = str(row.get("Year") or row.get("Año") or "").strip()
 
                         meta_data = {
-                            "title": es_title if es_title and es_title.lower() != "nan" else "",
+                            "title_es": es_title if es_title and es_title.lower() != "nan" else "",
+                            "title_en": en_title if en_title and en_title.lower() != "nan" else "",
                             "desc": es_desc if es_desc and es_desc.lower() != "nan" else "",
                             "year": year_val if year_val and year_val.lower() != "nan" and year_val.isdigit() else ""
                         }
 
+                        # 1. Indexación precisa por Fecha + Nombre de Programa
+                        if date_norm and prog_norm:
+                            date_prog_key = f"{date_norm}|{prog_norm}"
+                            combined_dict[date_prog_key] = meta_data
+
+                        # 2. Indexaciones de respaldo por episodio o título original
                         if orig_ep and orig_ep != "NAN":
                             combined_dict[orig_ep] = meta_data
                             combined_dict[orig_ep.upper()] = meta_data
@@ -525,6 +550,7 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None):
     col_press_title = find_column(cols, ["Press Title (ESPA)", "Original Title"])
     
     col_ep_name = find_column(cols, ["Episode Title(ESPA)", "Episode Title (ESPA)", "Episode Name English", "Episode Name", "Sub-title"])
+    col_ep_name_en = find_column(cols, ["Episode Name English", "Original Episode Title", "Episode Title(INGL)"])
     col_ep_num = find_column(cols, ["Episode", "Episode Number", "Episodio"])
     col_season = find_column(cols, ["Season", "Season Number", "Temporada"])
     col_year = find_column(cols, ["Year", "Año"])
@@ -570,10 +596,20 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None):
         if event_dt >= cycle_end:
             break
 
+        # Título tomado directamente del show de la grilla diaria
         prog_name_val = str(row.get(col_title, "")).strip() if pd.notna(row.get(col_title)) else ""
+        
+        # Renombrar "LOS COLORADO"
+        if prog_name_val.strip().upper() == "LOS COLORADO":
+            prog_name_val = "El Chapulín Y Los Colorado"
+
         press_title_val = str(row.get(col_press_title, "")).strip() if col_press_title and pd.notna(row.get(col_press_title)) else ""
         ep_name_val = str(row.get(col_ep_name, "")).strip() if col_ep_name and pd.notna(row.get(col_ep_name)) else ""
+        ep_name_en_val = str(row.get(col_ep_name_en, "")).strip() if col_ep_name_en and pd.notna(row.get(col_ep_name_en)) else ""
         year_val = str(row.get(col_year, "")).strip() if col_year and pd.notna(row.get(col_year)) else ""
+
+        desc_es = ""
+        desc_en = ""
 
         if prog_name_val.lower() == "cine cartoon":
             movie_title = press_title_val or ep_name_val
@@ -582,6 +618,11 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None):
             else:
                 title_val = "Cine Cartoon"
             ep_name_val = ""
+            ep_name_en_val = ""
+            
+            # Descripciones fijas para Cine Cartoon
+            desc_es = "Cartoon Network trae los clásicos del cine a la pantalla de TV. Ahora podrás disfrutar de estas historias inolvidables en la comodidad de tu hogar."
+            desc_en = "Cartoon Network brings classic cinematic tales to the TV screen. Now you can spend a relaxing Saturday in front of the television in your favorite chair, enjoying these unforgettable stories."
         else:
             title_val = prog_name_val
 
@@ -599,31 +640,43 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None):
         except:
             xmltv_season_ep = ""
 
-        desc_val = ""
-        if col_ep_desc and pd.notna(row.get(col_ep_desc)) and str(row.get(col_ep_desc)).strip():
-            desc_val = str(row.get(col_ep_desc)).strip()
-        elif col_desc and pd.notna(row.get(col_desc)) and str(row.get(col_desc)).strip():
-            desc_val = str(row.get(col_desc)).strip()
+        if not desc_es:
+            if col_ep_desc and pd.notna(row.get(col_ep_desc)) and str(row.get(col_ep_desc)).strip():
+                desc_es = str(row.get(col_ep_desc)).strip()
+            elif col_desc and pd.notna(row.get(col_desc)) and str(row.get(col_desc)).strip():
+                desc_es = str(row.get(col_desc)).strip()
 
+        sub_es = ep_name_val if ep_name_val and ep_name_val.lower() != "nan" else ""
+        sub_en = ep_name_en_val if ep_name_en_val and ep_name_en_val.lower() != "nan" else ""
+
+        # CRUCE DE EPISODIO CON GRILLA MENSUAL POR FECHA + SHOW DIA
         if monthly_meta:
-            search_keys = [ep_name_val.upper(), title_val.upper()]
-            matched_info = None
+            norm_date = standardize_date_str(date_raw)
+            date_prog_key = f"{norm_date}|{prog_name_val.upper()}"
+            
+            # 1. Búsqueda por Fecha + Programa
+            matched_info = monthly_meta.get(date_prog_key)
 
-            for key in search_keys:
-                if key and key in monthly_meta:
-                    matched_info = monthly_meta[key]
-                    break
+            # 2. Respaldo por nombre de episodio / título
+            if not matched_info:
+                search_keys = [ep_name_val.upper(), title_val.upper(), sub_en.upper()]
+                for key in search_keys:
+                    if key and key in monthly_meta:
+                        matched_info = monthly_meta[key]
+                        break
 
             if matched_info:
-                if matched_info["title"] and matched_info["title"].lower() != title_val.lower() and not ("(Cine Cartoon)" in title_val):
-                    ep_name_val = matched_info["title"]
-                if not desc_val and matched_info["desc"]:
-                    desc_val = matched_info["desc"]
-                if not year_val and matched_info["year"]:
+                if matched_info["title_es"]:
+                    sub_es = matched_info["title_es"]
+                if matched_info["title_en"] and not sub_en:
+                    sub_en = matched_info["title_en"]
+                if not desc_es and matched_info["desc"]:
+                    desc_es = matched_info["desc"]
+                if matched_info["year"]:
                     year_val = matched_info["year"]
 
-        if not desc_val and title_val:
-            desc_val = fetch_tmdb_synopsis(title_val.replace(" (Cine Cartoon)", ""))
+        if not desc_es and title_val and "Cine Cartoon" not in title_val:
+            desc_es = fetch_tmdb_synopsis(title_val)
 
         is_new_episode = False
         if col_is_new and pd.notna(row.get(col_is_new)):
@@ -632,8 +685,8 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None):
                 is_new_episode = True
 
         if is_new_episode:
-            if ep_name_val and ep_name_val.lower() != "nan":
-                ep_name_val = f"{ep_name_val} (NUEVO EPISODIO)"
+            if sub_es and sub_es.lower() != "nan":
+                sub_es = f"{sub_es} (NUEVO EPISODIO)"
             elif title_val and not "(NUEVO EPISODIO)" in title_val:
                 title_val = f"{title_val} (NUEVO EPISODIO)"
 
@@ -642,9 +695,11 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None):
         raw_events.append({
             "start": event_dt,
             "title": title_val if title_val.lower() != "nan" else "",
-            "sub_title": ep_name_val if ep_name_val.lower() != "nan" and ep_name_val.lower() != title_val.lower() else "",
+            "sub_title_es": sub_es if sub_es.lower() != "nan" and sub_es.lower() != title_val.lower() else "",
+            "sub_title_en": sub_en if sub_en.lower() != "nan" and sub_en.lower() != sub_es.lower() else "",
             "episode_num": xmltv_season_ep,
-            "desc": desc_val if desc_val.lower() != "nan" else "",
+            "desc_es": desc_es if desc_es.lower() != "nan" else "",
+            "desc_en": desc_en if desc_en.lower() != "nan" else "",
             "year": clean_year
         })
 
@@ -667,13 +722,21 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None):
         if ev["title"]:
             title.text = ev["title"]
 
-        if ev["sub_title"]:
-            sub_title = ET.SubElement(prog, "sub-title", {"lang": lang})
-            sub_title.text = ev["sub_title"]
+        if ev["sub_title_es"]:
+            sub_es_elem = ET.SubElement(prog, "sub-title", {"lang": "es"})
+            sub_es_elem.text = ev["sub_title_es"]
 
-        if ev["desc"]:
-            desc = ET.SubElement(prog, "desc", {"lang": lang})
-            desc.text = ev["desc"]
+        if ev["sub_title_en"]:
+            sub_en_elem = ET.SubElement(prog, "sub-title", {"lang": "en"})
+            sub_en_elem.text = ev["sub_title_en"]
+
+        if ev["desc_es"]:
+            desc_es_elem = ET.SubElement(prog, "desc", {"lang": "es"})
+            desc_es_elem.text = ev["desc_es"]
+
+        if ev["desc_en"]:
+            desc_en_elem = ET.SubElement(prog, "desc", {"lang": "en"})
+            desc_en_elem.text = ev["desc_en"]
 
         if ev["year"]:
             date_elem = ET.SubElement(prog, "date")
@@ -713,7 +776,6 @@ def process_discovery_kids_feed(root, feed_cfg, df_grid):
     col_start = find_column(cols, ["START_TIME", "Start Time", "Hora Inicio"])
     col_end = find_column(cols, ["END_TIME", "End Time", "Hora Fin"])
     
-    # Mapeo exacto según las columnas que indicaste de Discovery Kids
     col_series = find_column(cols, ["LOCAL_SERIES_NAME", "SERIES_NAME", "Program Name", "Title"])
     col_title = find_column(cols, ["LOCAL_PROGRAM_NAME", "TITLE_NAME", "Episode Title (ESPA)", "Sub-title"])
     col_desc = find_column(cols, ["LOCAL_PROGRAM_DESCRIPTION", "PROGRAMME_DESCRIPTION", "Synopsis"])
