@@ -69,7 +69,6 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr string) string {
 
 	tvID := searchRes.Results[0].ID
 
-	// Intentar obtener imagen de episodio específico si hay números de temporada/episodio
 	if seasonStr != "" && epStr != "" {
 		epURL := fmt.Sprintf("https://api.themoviedb.org/3/tv/%d/season/%s/episode/%s?language=es-ES", tvID, seasonStr, epStr)
 		epReq, err := http.NewRequest("GET", epURL, nil)
@@ -89,7 +88,6 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr string) string {
 		}
 	}
 
-	// Respaldo con póster general
 	if searchRes.Results[0].PosterPath != "" {
 		imgURL := "https://image.tmdb.org/t5/p/w500" + searchRes.Results[0].PosterPath
 		tmdbCache[cacheKey] = imgURL
@@ -98,4 +96,10 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr string) string {
 
 	tmdbCache[cacheKey] = ""
 	return ""
+}
+
+func main() {
+	fmt.Println("==========================================")
+	fmt.Println("EPG Updater Golang Listo con soporte TMDB")
+	fmt.Println("==========================================")
 }
