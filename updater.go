@@ -15,7 +15,7 @@ var tmdbCache = make(map[string]string)
 
 // Cliente HTTP con conexiones persistentes optimizadas para velocidad
 var httpClient = &http.Client{
-	Timeout: 5 * time.Second,
+	Timeout: 6 * time.Second,
 	Transport: &http.Transport{
 		DialContext: (&net.Dialer{
 			Timeout:   3 * time.Second,
@@ -89,7 +89,12 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr string) string {
 			if err == nil && epResp.StatusCode == 200 {
 				var epData TMDBEpisode
 				if json.NewDecoder(epResp.Body).Decode(&epData) == nil && epData.StillPath != "" {
-					imgURL := "https://image.tmdb.org/t5/p/w500" + epData.StillPath
+					stillPath := epData.StillPath
+					if !strings.HasPrefix(stillPath, "/") {
+						stillPath = "/" + stillPath
+					}
+					// Uso explícito de media.themoviedb.org
+					imgURL := "https://media.themoviedb.org/t/p/w500" + stillPath
 					tmdbCache[cacheKey] = imgURL
 					return imgURL
 				}
@@ -98,7 +103,11 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr string) string {
 	}
 
 	if searchRes.Results[0].PosterPath != "" {
-		imgURL := "https://image.tmdb.org/t5/p/w500" + searchRes.Results[0].PosterPath
+		posterPath := searchRes.Results[0].PosterPath
+		if !strings.HasPrefix(posterPath, "/") {
+			posterPath = "/" + posterPath
+		}
+		imgURL := "https://media.themoviedb.org/t/p/w500" + posterPath
 		tmdbCache[cacheKey] = imgURL
 		return imgURL
 	}
@@ -109,6 +118,6 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr string) string {
 
 func main() {
 	fmt.Println("==========================================")
-	fmt.Println("EPG Golang optimizado con Pooling HTTP y Localbreaks")
+	fmt.Println("EPG Golang optimizado con TMDB (media.themoviedb.org)")
 	fmt.Println("==========================================")
 }
