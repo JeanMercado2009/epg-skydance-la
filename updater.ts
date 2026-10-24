@@ -1,7 +1,6 @@
-import axios from 'axios';
+import axios, { AxiosInstance } from 'axios';
 
-// Cliente HTTP con conexiones persistentes (Keep-Alive) y tipado estricto
-const client = axios.create({
+const client: AxiosInstance = axios.create({
     timeout: 15000,
     headers: { 
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36", 
@@ -11,17 +10,16 @@ const client = axios.create({
 
 const tmdbCache: Record<string, string> = {};
 
-async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: string, lang: string = "es"): Promise<string> {
+async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: string, epTitleEn: string = "", lang: string = "es"): Promise<string> {
     if (!seriesTitle) return "";
     const cleanTitle: string = seriesTitle.replace(/[:\-].*/g, '').trim();
-    const cacheKey: string = `${cleanTitle}|${seasonStr}|${epStr}|${lang}`;
+    const cacheKey: string = `${cleanTitle}|${seasonStr}|${epStr}|${epTitleEn}|${lang}`;
     if (tmdbCache[cacheKey] !== undefined) return tmdbCache[cacheKey];
 
     const token: string = process.env.TMDB_TOKEN || "";
     const apiKey: string = process.env.TMDB_API_KEY || "";
     if (!token && !apiKey) return "";
 
-    // Idioma dinámico: portugués para Brasil, español para el resto
     const tmdbLang: string = (lang === "pt") ? "pt-BR" : "es-ES";
     const headers: Record<string, string> = { "accept": "application/json" };
     if (token) headers["Authorization"] = `Bearer ${token}`;
@@ -39,6 +37,7 @@ async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: str
             const sNum: number = parseInt(seasonStr, 10);
             const eNum: number = parseInt(epStr, 10);
 
+            // 1. Intento principal por número
             if (!isNaN(sNum) && !isNaN(eNum)) {
                 try {
                     const epRes = await client.get(`https://api.themoviedb.org/3/tv/${tvId}/season/${sNum}/episode/${eNum}`, {
@@ -53,17 +52,37 @@ async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: str
                     }
                 } catch (e) {}
             }
+
+            // 2. Respaldo por título exacto en inglés dentro de la temporada
+            if (!isNaN(sNum) && epTitleEn) {
+                try {
+                    const seasonRes = await client.get(`https://api.themoviedb.org/3/tv/${tvId}/season/${sNum}`, {
+                        headers, params: { language: "en-US" }
+                    });
+                    const episodes = seasonRes.data.episodes || [];
+                    for (const ep of episodes) {
+                        if (ep.name && ep.name.trim().toLowerCase() === epTitleEn.trim().toLowerCase()) {
+                            let stillPath: string | undefined = ep.still_path;
+                            if (stillPath) {
+                                if (!stillPath.startsWith('/')) stillPath = '/' + stillPath;
+                                const img = `https://media.themoviedb.org/t/p/w500${stillPath}`;
+                                tmdbCache[cacheKey] = img;
+                                return img;
+                            }
+                        }
+                    }
+                } catch (e) {}
+            }
         }
     } catch (e) {}
 
-    // Sin respaldo de póster general: si no hay miniatura exacta, retorna vacío
     tmdbCache[cacheKey] = "";
     return "";
 }
 
 async function main(): Promise<void> {
     console.log("==========================================");
-    console.log("updater.ts optimizado y listo.");
+    console.log("updater.ts optimizado con doble validación.");
     console.log("==========================================");
 }
 
