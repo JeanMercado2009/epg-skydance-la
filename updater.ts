@@ -15,13 +15,32 @@ const TITLE_ALIASES: Record<string, string> = {
     "el malentendido": "the misunderstandings",
     "el origen parte 1": "the origins 1",
     "el origen parte 2": "the origins 2",
-    "kabums pt 2": "kabooms 2",
-    "kabums pt 1": "kabooms 1",
+    "kabums pt 2": "kabooms (2)",
+    "kabúms pt 2": "kabooms (2)",
+    "kabums pt 1": "kabooms (1)",
+    "kabúms pt 1": "kabooms (1)",
     "standards & practices": "s&p",
     "arcoiris de la dimension de cristal": "crystals have power",
     "el cruce": "crossover",
     "la panza de la bestia": "belly of the beast"
 };
+
+function getTargetDatesToProcess(): string[] {
+    const now = new Date();
+    const weekday = now.getDay(); // 0: Dom, 1: Lun, ..., 5: Vie, 6: Sáb
+    const formatDate = (d: Date) => d.toISOString().split('T')[0];
+    
+    const dates = [formatDate(now)];
+    if (weekday === 5) { // Viernes -> Viernes y Sábado
+        const sat = new Date(now); sat.setDate(now.getDate() + 1);
+        dates.push(formatDate(sat));
+    } else if (weekday === 6) { // Sábado -> Sábado, Domingo, Lunes
+        const sun = new Date(now); sun.setDate(now.getDate() + 1);
+        const mon = new Date(now); mon.setDate(now.getDate() + 2);
+        dates.push(formatDate(sun), formatDate(mon));
+    }
+    return Array.from(new Set(dates));
+}
 
 function normalizeTitle(text: string): string {
     if (!text) return "";
@@ -38,9 +57,11 @@ function normalizeTitle(text: string): string {
     return clean;
 }
 
-async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: string, epTitleEn: string = "", lang: string = "es"): Promise<string> {
+async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: string, epTitleEn: string = "", epTitleEs: string = "", lang: string = "es"): Promise<string> {
     if (!seriesTitle) return "";
-    const lookupTarget = epTitleEn ? epTitleEn : seriesTitle;
+    const rawTarget = (epTitleEn && epTitleEn.toLowerCase() !== "nan") ? epTitleEn : epTitleEs;
+    const lookupTarget = TITLE_ALIASES[rawTarget.toLowerCase().trim()] || rawTarget;
+    
     const cacheKey: string = `${seriesTitle}|${seasonStr}|${epStr}|${lookupTarget}|${lang}`;
     if (tmdbCache[cacheKey] !== undefined) return tmdbCache[cacheKey];
 
@@ -77,7 +98,7 @@ async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: str
             const episodes = seasonRes.data.episodes || [];
             const normTarget = normalizeTitle(lookupTarget);
             for (const ep of episodes) {
-                if (ep.name && normalizeTitle(ep.name) === normTarget) {
+                if (ep.name && (normalizeTitle(ep.name) === normTarget || normTarget.includes(normalizeTitle(ep.name)))) {
                     if (ep.still_path) {
                         const img = `https://media.themoviedb.org/t/p/w500${ep.still_path}`;
                         tmdbCache[cacheKey] = img;
