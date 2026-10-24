@@ -1,6 +1,5 @@
 const axios = require('axios');
 
-// Cliente HTTP con conexiones persistentes (Keep-Alive)
 const client = axios.create({
     timeout: 15000,
     headers: { 
@@ -11,17 +10,16 @@ const client = axios.create({
 
 const tmdbCache = {};
 
-async function fetchTmdbStill(seriesTitle, seasonStr, epStr, lang = "es") {
+async function fetchTmdbStill(seriesTitle, seasonStr, epStr, epTitleEn = "", lang = "es") {
     if (!seriesTitle) return "";
     const cleanTitle = seriesTitle.replace(/[:\-].*/g, '').trim();
-    const cacheKey = `${cleanTitle}|${seasonStr}|${epStr}|${lang}`;
+    const cacheKey = `${cleanTitle}|${seasonStr}|${epStr}|${epTitleEn}|${lang}`;
     if (tmdbCache[cacheKey] !== undefined) return tmdbCache[cacheKey];
 
     const token = process.env.TMDB_TOKEN || "";
     const apiKey = process.env.TMDB_API_KEY || "";
     if (!token && !apiKey) return "";
 
-    // Idioma dinámico: portugués para Brasil, español para el resto
     const tmdbLang = (lang === "pt") ? "pt-BR" : "es-ES";
     const headers = { "accept": "application/json" };
     if (token) headers["Authorization"] = `Bearer ${token}`;
@@ -39,6 +37,7 @@ async function fetchTmdbStill(seriesTitle, seasonStr, epStr, lang = "es") {
             const sNum = parseInt(seasonStr, 10);
             const eNum = parseInt(epStr, 10);
 
+            // 1. Intento principal por número
             if (!isNaN(sNum) && !isNaN(eNum)) {
                 try {
                     const epRes = await client.get(`https://api.themoviedb.org/3/tv/${tvId}/season/${sNum}/episode/${eNum}`, {
@@ -53,17 +52,37 @@ async function fetchTmdbStill(seriesTitle, seasonStr, epStr, lang = "es") {
                     }
                 } catch (e) {}
             }
+
+            // 2. Respaldo por título exacto en inglés dentro de la temporada
+            if (!isNaN(sNum) && epTitleEn) {
+                try {
+                    const seasonRes = await client.get(`https://api.themoviedb.org/3/tv/${tvId}/season/${sNum}`, {
+                        headers, params: { language: "en-US" }
+                    });
+                    const episodes = seasonRes.data.episodes || [];
+                    for (const ep of episodes) {
+                        if (ep.name && ep.name.trim().toLowerCase() === epTitleEn.trim().toLowerCase()) {
+                            let stillPath = ep.still_path;
+                            if (stillPath) {
+                                if (!stillPath.startsWith('/')) stillPath = '/' + stillPath;
+                                const img = `https://media.themoviedb.org/t/p/w500${stillPath}`;
+                                tmdbCache[cacheKey] = img;
+                                return img;
+                            }
+                        }
+                    }
+                } catch (e) {}
+            }
         }
     } catch (e) {}
 
-    // Sin respaldo de póster general: si no hay miniatura exacta, retorna vacío
     tmdbCache[cacheKey] = "";
     return "";
 }
 
 async function main() {
     console.log("==========================================");
-    console.log("updater.js optimizado y listo.");
+    console.log("updater.js optimizado con doble validación.");
     console.log("==========================================");
 }
 
