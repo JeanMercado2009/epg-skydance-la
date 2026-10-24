@@ -39,8 +39,8 @@ fn normalize_title(text: &str) -> String {
     else if clean_raw == "el malentendido" { clean_raw = "the misunderstandings".to_string(); }
     else if clean_raw == "el origen parte 1" { clean_raw = "the origins 1".to_string(); }
     else if clean_raw == "el origen parte 2" { clean_raw = "the origins 2".to_string(); }
-    else if clean_raw == "kabums pt 2" { clean_raw = "kabooms 2".to_string(); }
-    else if clean_raw == "kabums pt 1" { clean_raw = "kabooms 1".to_string(); }
+    else if clean_raw == "kabums pt 2" || clean_raw == "kabúms pt 2" { clean_raw = "kabooms (2)".to_string(); }
+    else if clean_raw == "kabums pt 1" || clean_raw == "kabúms pt 1" { clean_raw = "kabooms (1)".to_string(); }
     else if clean_raw == "standards & practices" { clean_raw = "s&p".to_string(); }
 
     let re_paren = Regex::new(r"\(.*?\)").unwrap();
@@ -54,12 +54,13 @@ fn normalize_title(text: &str) -> String {
     re_alnum.replace_all(&clean, "").to_string()
 }
 
-async fn fetch_tmdb_still(client: &Client, series_title: &str, season_str: &str, ep_str: &str, ep_title_en: &str, lang: &str) -> String {
+async fn fetch_tmdb_still(client: &Client, series_title: &str, season_str: &str, ep_str: &str, ep_title_en: &str, ep_title_es: &str, lang: &str) -> String {
     if series_title.is_empty() {
         return "".to_string();
     }
 
-    let lookup_target = if !ep_title_en.is_empty() { ep_title_en } else { series_title };
+    let raw_target = if !ep_title_en.is_empty() && ep_title_en.to_lowercase() != "nan" { ep_title_en } else { ep_title_es };
+    let lookup_target = raw_target;
 
     let lower_title = series_title.to_lowercase();
     if lower_title.contains("submarine jim") || lower_title.contains("el submarino de jim") {
@@ -78,7 +79,7 @@ async fn fetch_tmdb_still(client: &Client, series_title: &str, season_str: &str,
         return "".to_string();
     }
 
-    let auth_header = if !token.is_empty { format!("Bearer {}", token) } else { format!("Bearer {}", api_key) };
+    let auth_header = if !token.is_empty() { format!("Bearer {}", token) } else { format!("Bearer {}", api_key) };
     let tmdb_lang = if lang == "pt" { "pt-BR" } else { "es-ES" };
 
     let res = client.get("https://api.themoviedb.org/3/search/tv")
@@ -99,7 +100,7 @@ async fn fetch_tmdb_still(client: &Client, series_title: &str, season_str: &str,
                             let norm_target = normalize_title(lookup_target);
                             for ep in episodes {
                                 if let Some(name) = ep.name {
-                                    if normalize_title(&name) == norm_target {
+                                    if normalize_title(&name) == norm_target || norm_target.contains(&normalize_title(&name)) {
                                         if let Some(mut still) = ep.still_path {
                                             if !still.starts_with('/') { still = format!("/{}", still); }
                                             return format!("https://media.themoviedb.org/t/p/w500{}", still);
