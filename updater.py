@@ -29,17 +29,19 @@ http_session.headers.update({
 
 tmdb_cache = {}
 
-def fetch_tmdb_still(series_title, season_str, ep_str):
+def fetch_tmdb_still(series_title, season_str, ep_str, lang="es"):
     if not series_title:
         return ""
     clean_title = re.sub(r'[:\-].*', '', series_title).strip()
-    cache_key = f"{clean_title}|{season_str}|{ep_str}"
+    cache_key = f"{clean_title}|{season_str}|{ep_str}|{lang}"
     if cache_key in tmdb_cache:
         return tmdb_cache[cache_key]
 
     if not TMDB_TOKEN and not TMDB_API_KEY:
         return ""
 
+    # Idioma según la señal (pt-BR para Brasil, es-ES para el resto)
+    tmdb_lang = "pt-BR" if lang == "pt" else "es-ES"
     headers = {"accept": "application/json"}
     if TMDB_TOKEN:
         headers["Authorization"] = f"Bearer {TMDB_TOKEN}"
@@ -48,33 +50,32 @@ def fetch_tmdb_still(series_title, season_str, ep_str):
 
     try:
         url_tv = "https://api.themoviedb.org/3/search/tv"
-        res = http_session.get(url_tv, headers=headers, params={"query": clean_title, "language": "es-ES"}, timeout=4)
+        res = http_session.get(url_tv, headers=headers, params={"query": clean_title, "language": tmdb_lang}, timeout=4)
         if res.status_code == 200 and res.json().get("results"):
             tv_id = res.json()["results"][0]["id"]
-            if season_str and ep_str and str(season_str).replace('.', '', 1).isdigit() and str(ep_str).replace('.', '', 1).isdigit():
+            
+            s_num, e_num = None, None
+            if season_str and str(season_str).replace('.', '', 1).isdigit():
                 s_num = int(float(season_str))
+            if ep_str and str(ep_str).replace('.', '', 1).isdigit():
                 e_num = int(float(ep_str))
+
+            # Extracción estricta de la miniatura propia del episodio por temporada
+            if s_num is not None and e_num is not None:
                 ep_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_num}/episode/{e_num}"
-                ep_res = http_session.get(ep_url, headers=headers, params={"language": "es-ES"}, timeout=4)
+                ep_res = http_session.get(ep_url, headers=headers, params={"language": tmdb_lang}, timeout=4)
                 if ep_res.status_code == 200:
                     still_path = ep_res.json().get("still_path")
                     if still_path:
                         if not still_path.startswith('/'):
                             still_path = '/' + still_path
-                        # Uso explícito de media.themoviedb.org
                         img_url = f"https://media.themoviedb.org/t/p/w500{still_path}"
                         tmdb_cache[cache_key] = img_url
                         return img_url
-            poster_path = res.json()["results"][0].get("poster_path")
-            if poster_path:
-                if not poster_path.startswith('/'):
-                    poster_path = '/' + poster_path
-                img_url = f"https://media.themoviedb.org/t/p/w500{poster_path}"
-                tmdb_cache[cache_key] = img_url
-                return img_url
     except Exception:
         pass
 
+    # Sin respaldo de póster general: si no hay miniatura de episodio exacta, retorna vacío
     tmdb_cache[cache_key] = ""
     return ""
 
@@ -506,7 +507,7 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
         if not desc_es and title_val and "Cine Cartoon" not in title_val:
             desc_es = fetch_tmdb_synopsis(title_val)
 
-        icon_url = fetch_tmdb_still(title_val, season_val, ep_num_val) if title_val and "Cine Cartoon" not in title_val else ""
+        icon_url = fetch_tmdb_still(title_val, season_val, ep_num_val, lang=lang) if title_val and "Cine Cartoon" not in title_val else ""
 
         if col_is_new and pd.notna(row.get(col_is_new)) and str(row.get(col_is_new)).strip().upper() == "Y":
             if sub_es and sub_es.lower() != "nan": sub_es = f"{sub_es} (NUEVO EPISODIO)"
