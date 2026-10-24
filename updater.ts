@@ -10,37 +10,49 @@ const client: AxiosInstance = axios.create({
 
 const tmdbCache: Record<string, string> = {};
 
+const TITLE_ALIASES: Record<string, string> = {
+    "equipo monstruo": "monster squad",
+    "el malentendido": "the misunderstandings",
+    "el origen parte 1": "the origins 1",
+    "el origen parte 2": "the origins 2",
+    "kabums pt 2": "kabooms 2",
+    "kabums pt 1": "kabooms 1",
+    "standards & practices": "s&p",
+    "arcoiris de la dimension de cristal": "crystals have power",
+    "el cruce": "crossover",
+    "la panza de la bestia": "belly of the beast"
+};
+
 function normalizeTitle(text: string): string {
     if (!text) return "";
-    const noAccent = text.normalize("NFKD").replace(/[\u0300-\u036f]/g, "");
-    let clean = noAccent.toLowerCase().trim();
-    clean = clean.replace(/\bpt\.?\s*(\d+)/g, "($1)");
-    clean = clean.replace(/\bpart\.?\s*(\d+)/g, "($1)");
-    clean = clean.replace(/s\b/g, ""); // Plural tolerance
-    clean = clean.replace(/[^a-z0-9]/g, "");
+    let cleanRaw = text.toLowerCase().trim();
+    if (TITLE_ALIASES[cleanRaw]) {
+        cleanRaw = TITLE_ALIASES[cleanRaw];
+    }
+    const noParen = cleanRaw.replace(/\(.*?\)/g, "");
+    const noAccent = noParen.normalize("NFKD").replace(/[\u0300-\u036f]/g, "");
+    let clean = noAccent.trim();
+    clean = clean.replace(/\b(?:pt\.?|part\.?)\s*(\d+)/g, "($1)");
+    clean = clean.replace(/s\b/g, "");
+    clean = clean.replace(/[^a-z0-9&]/g, "");
     return clean;
 }
 
 async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: string, epTitleEn: string = "", lang: string = "es"): Promise<string> {
     if (!seriesTitle) return "";
-    const cacheKey: string = `${seriesTitle}|${seasonStr}|${epStr}|${epTitleEn}|${lang}`;
+    const lookupTarget = epTitleEn ? epTitleEn : seriesTitle;
+    const cacheKey: string = `${seriesTitle}|${seasonStr}|${epStr}|${lookupTarget}|${lang}`;
     if (tmdbCache[cacheKey] !== undefined) return tmdbCache[cacheKey];
 
     const lowerTitle = seriesTitle.toLowerCase();
     if (lowerTitle.includes("submarine jim") || lowerTitle.includes("el submarino de jim")) {
-        const img = "https://media.themoviedb.org/t/p/w220_and_h330_face/8BqoJXMhrV9KfKmodPtyi67VgBG.jpg";
-        tmdbCache[cacheKey] = img;
-        return img;
+        return "https://media.themoviedb.org/t/p/w220_and_h330_face/cHN9UE0cjsDByMWk0FgaPEkHNeJ.jpg";
     }
     if (lowerTitle.includes("aquaman: rage of atlantis") || lowerTitle.includes("lego dc")) {
-        const img = "https://media.themoviedb.org/t/p/w220_and_h330_face/8BqoJXMhrV9KfKmodPtyi67VgBG.jpg";
-        tmdbCache[cacheKey] = img;
-        return img;
+        return "https://media.themoviedb.org/t/p/w220_and_h330_face/8BqoJXMhrV9KfKmodPtyi67VgBG.jpg";
     }
     if (lowerTitle.includes("spider-man") && lowerTitle.includes("un nuevo universo")) {
-        const img = "https://media.themoviedb.org/t/p/w220_and_h330_face/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg";
-        tmdbCache[cacheKey] = img;
-        return img;
+        return "https://media.themoviedb.org/t/p/w220_and_h330_face/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg";
     }
 
     const token: string = process.env.TMDB_TOKEN || "";
@@ -53,79 +65,25 @@ async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: str
     else if (apiKey) headers["Authorization"] = `Bearer ${apiKey}`;
 
     try {
-        const searchQueries: string[] = [seriesTitle];
-        const cleanTitle = seriesTitle.replace(/[:\-].*/g, '').trim();
-        if (cleanTitle && cleanTitle.toLowerCase() !== seriesTitle.toLowerCase()) {
-            searchQueries.push(cleanTitle);
-        }
-
-        let tvId: number | null = null;
-        let numberOfSeasons: number = 10;
-
-        for (const query of searchQueries) {
-            const searchRes = await client.get("https://api.themoviedb.org/3/search/tv", {
-                headers, params: { query, language: tmdbLang }
+        const searchRes = await client.get("https://api.themoviedb.org/3/search/tv", {
+            headers, params: { query: seriesTitle, language: tmdbLang }
+        });
+        const results = searchRes.data.results;
+        if (results && results.length > 0) {
+            const tvId = results[0].id;
+            const seasonRes = await client.get(`https://api.themoviedb.org/3/tv/${tvId}/season/${seasonStr || 1}`, {
+                headers, params: { language: "en-US" }
             });
-            const results = searchRes.data.results;
-            if (results && results.length > 0) {
-                tvId = results[0].id;
-                try {
-                    const detailRes = await client.get(`https://api.themoviedb.org/3/tv/${tvId}`, { headers });
-                    if (detailRes.data && detailRes.data.number_of_seasons) {
-                        numberOfSeasons = detailRes.data.number_of_seasons;
-                    }
-                } catch (e) {}
-                break;
-            }
-        }
-
-        if (tvId) {
-            const sNum: number = parseInt(seasonStr, 10);
-            const normTarget = epTitleEn ? normalizeTitle(epTitleEn) : "";
-
-            if (normTarget) {
-                const seasonsToCheck: number[] = [];
-                if (!isNaN(sNum)) seasonsToCheck.push(sNum);
-                for (let s = 1; s <= numberOfSeasons; s++) {
-                    if (!seasonsToCheck.includes(s)) seasonsToCheck.push(s);
-                }
-                if (!seasonsToCheck.includes(0)) seasonsToCheck.push(0);
-
-                for (const sCheck of seasonsToCheck) {
-                    try {
-                        const seasonRes = await client.get(`https://api.themoviedb.org/3/tv/${tvId}/season/${sCheck}`, {
-                            headers, params: { language: "en-US" }
-                        });
-                        const episodes = seasonRes.data.episodes || [];
-                        for (const ep of episodes) {
-                            if (ep.name && normalizeTitle(ep.name) === normTarget) {
-                                let stillPath: string | undefined = ep.still_path;
-                                if (stillPath) {
-                                    if (!stillPath.startsWith('/')) stillPath = '/' + stillPath;
-                                    const img = `https://media.themoviedb.org/t/p/w500${stillPath}`;
-                                    tmdbCache[cacheKey] = img;
-                                    return img;
-                                }
-                            }
-                        }
-                    } catch (e) {}
-                }
-            }
-
-            const eNum: number = parseInt(epStr, 10);
-            if (!isNaN(sNum) && !isNaN(eNum)) {
-                try {
-                    const epRes = await client.get(`https://api.themoviedb.org/3/tv/${tvId}/season/${sNum}/episode/${eNum}`, {
-                        headers, params: { language: tmdbLang }
-                    });
-                    let stillPath: string | undefined = epRes.data && epRes.data.still_path;
-                    if (stillPath) {
-                        if (!stillPath.startsWith('/')) stillPath = '/' + stillPath;
-                        const img = `https://media.themoviedb.org/t/p/w500${stillPath}`;
+            const episodes = seasonRes.data.episodes || [];
+            const normTarget = normalizeTitle(lookupTarget);
+            for (const ep of episodes) {
+                if (ep.name && normalizeTitle(ep.name) === normTarget) {
+                    if (ep.still_path) {
+                        const img = `https://media.themoviedb.org/t/p/w500${ep.still_path}`;
                         tmdbCache[cacheKey] = img;
                         return img;
                     }
-                } catch (e) {}
+                }
             }
         }
     } catch (e) {}
