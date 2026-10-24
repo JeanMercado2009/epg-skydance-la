@@ -6,6 +6,7 @@ from datetime import datetime, timedelta, timezone
 import xml.etree.ElementTree as ET
 import pandas as pd
 import requests
+import unicodedata
 
 RETENTION_DAYS_PAST = 5
 RETENTION_DAYS_FUTURE = 15
@@ -25,11 +26,22 @@ http_session.headers.update({
 
 tmdb_cache = {}
 
+def normalize_title(text):
+    if not text:
+        return ""
+    nfkd = unicodedata.normalize('NFKD', text)
+    no_accent = "".join([c for c in nfkd if not unicodedata.combining(c)])
+    clean = no_accent.lower().strip()
+    clean = re.sub(r'\bpt\.?\s*(\d+)', r'(\1)', clean)
+    clean = re.sub(r'\bpart\.?\s*(\d+)', r'(\1)', clean)
+    clean = re.sub(r'[^a-z0-9]', '', clean)
+    return clean
+
 def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", lang="es"):
     if not series_title:
         return ""
-    clean_title = re.sub(r'[:\-].*', '', series_title).strip()
-    cache_key = f"{clean_title}|{season_str}|{ep_str}|{ep_title_en}|{lang}"
+    
+    cache_key = f"{series_title}|{season_str}|{ep_str}|{ep_title_en}|{lang}"
     if cache_key in tmdb_cache:
         return tmdb_cache[cache_key]
 
@@ -45,30 +57,61 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", lang="es"
 
     try:
         url_tv = "https://api.themoviedb.org/3/search/tv"
-        res = http_session.get(url_tv, headers=headers, params={"query": clean_title, "language": tmdb_lang}, timeout=4)
-        if res.status_code == 200 and res.json().get("results"):
-            tv_id = res.json()["results"][0]["id"]
-            
+        search_queries = [series_title]
+        clean_title = re.sub(r'[:\-].*', '', series_title).strip()
+        if clean_title and clean_title.lower() != series_title.lower():
+            search_queries.append(clean_title)
+
+        tv_id = None
+        number_of_seasons = 10 
+        for query in search_queries:
+            res = http_session.get(url_tv, headers=headers, params={"query": query, "language": tmdb_lang}, timeout=4)
+            if res.status_code == 200 and res.json().get("results"):
+                show_data = res.json()["results"][0]
+                tv_id = show_data["id"]
+                detail_res = http_session.get(f"https://api.themoviedb.org/3/tv/{tv_id}", headers=headers, timeout=4)
+                if detail_res.status_code == 200:
+                    number_of_seasons = detail_res.json().get("number_of_seasons", 10)
+                break
+
+        if tv_id:
             s_num = None
             if season_str and str(season_str).replace('.', '', 1).isdigit():
                 s_num = int(float(season_str))
 
-            # Prioridad 1: Búsqueda directa por título exacto en inglés escaneando la temporada
-            if s_num is not None and ep_title_en:
-                season_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_num}"
-                season_res = http_session.get(season_url, headers=headers, params={"language": "en-US"}, timeout=4)
-                if season_res.status_code == 200:
-                    for ep in season_res.json().get("episodes", []):
-                        if ep.get("name", "").strip().lower() == ep_title_en.strip().lower():
-                            still_path = ep.get("still_path")
-                            if still_path:
-                                if not still_path.startswith('/'):
-                                    still_path = '/' + still_path
-                                img_url = f"https://media.themoviedb.org/t/p/w500{still_path}"
-                                tmdb_cache[cache_key] = img_url
-                                return img_url
+            norm_target = normalize_title(ep_title_en) if ep_title_en else ""
 
-            # Prioridad 2: Respaldo por número de episodio
+            # Prioridad 1: Búsqueda global barriendo todas las temporadas por título en inglés
+            if norm_target:
+                seasons_to_check = []
+                if s_num is not None:
+                    seasons_to_check.append(s_num)
+                for s in range(1, number_of_seasons + 1):
+                    if s not in seasons_to_check:
+                        seasons_to_check.append(s)
+                seasons_to_check.append(0)
+
+                found_still = ""
+                for s_check in seasons_to_check:
+                    season_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_check}"
+                    season_res = http_session.get(season_url, headers=headers, params={"language": "en-US"}, timeout=4)
+                    if season_res.status_code == 200:
+                        for ep in season_res.json().get("episodes", []):
+                            if normalize_title(ep.get("name", "")) == norm_target:
+                                still_path = ep.get("still_path")
+                                if still_path:
+                                    if not still_path.startswith('/'):
+                                        still_path = '/' + still_path
+                                    found_still = f"https://media.themoviedb.org/t/p/w500{still_path}"
+                                    break
+                    if found_still:
+                        break
+
+                if found_still:
+                    tmdb_cache[cache_key] = found_still
+                    return found_still
+
+            # Prioridad 2: Respaldo por número de episodio si no hay título en inglés
             e_num = None
             if ep_str and str(ep_str).replace('.', '', 1).isdigit():
                 e_num = int(float(ep_str))
