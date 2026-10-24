@@ -20,15 +20,39 @@ jobs:
       - name: Checkout del repositorio
         uses: actions/checkout@v4
 
+      # ---------------------------------------------------------
+      # ENTORNOS DE LENGUAJES
+      # ---------------------------------------------------------
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Instalar dependencias
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Configurar Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+
+      # ---------------------------------------------------------
+      # INSTALACIÓN DE DEPENDENCIAS
+      # ---------------------------------------------------------
+      - name: Instalar dependencias de Python
         run: |
           pip install requests pandas xlrd openpyxl beautifulsoup4 html5lib
 
+      - name: Instalar dependencias de Node.js
+        run: |
+          npm install axios xlsx xml2js
+
+      # ---------------------------------------------------------
+      # EJECUCIÓN DEL SCRIPT
+      # (Actualmente ejecuta updater.py)
+      # ---------------------------------------------------------
       - name: Descargar y Procesar Grillas Diarias, Mensuales y TVEGO
         env:
           TAPKIT_EMAIL: ${{ secrets.TAPKIT_EMAIL }}
@@ -37,7 +61,14 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
           python updater.py
+          # Para cambiar de lenguaje en el futuro, solo cambias la línea de arriba por:
+          # node updater.js
+          # o
+          # go run updater.go
 
+      # ---------------------------------------------------------
+      # GUARDAR CAMBIOS EN GITHUB
+      # ---------------------------------------------------------
       - name: Guardar cambios en el repositorio
         run: |
           git config --global user.name "github-actions[bot]"
