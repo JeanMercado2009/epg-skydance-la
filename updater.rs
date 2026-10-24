@@ -13,7 +13,6 @@ struct TMDBResponse {
 #[derive(Deserialize)]
 struct TVResult {
     id: u64,
-    poster_path: Option<String>,
 }
 
 #[derive(Deserialize)]
@@ -21,7 +20,6 @@ struct EpisodeResponse {
     still_path: Option<String>,
 }
 
-// Caché global en memoria thread-safe
 static TMDB_CACHE: Lazy<Mutex<HashMap<String, String>>> = Lazy::new(|| Mutex::new(HashMap::new()));
 
 async fn fetch_tmdb_still(client: &Client, series_title: &str, season_str: &str, ep_str: &str, lang: &str) -> String {
@@ -52,7 +50,6 @@ async fn fetch_tmdb_still(client: &Client, series_title: &str, season_str: &str,
         format!("Bearer {}", api_key)
     };
 
-    // Búsqueda de la serie usando parámetros seguros de reqwest
     let res = client.get("https://api.themoviedb.org/3/search/tv")
         .query(&[("query", clean_title), ("language", tmdb_lang)])
         .header("accept", "application/json")
@@ -95,30 +92,10 @@ async fn fetch_tmdb_still(client: &Client, series_title: &str, season_str: &str,
                             }
                         }
                     }
-
-                    // Respaldo de póster general si el capítulo no tiene miniatura individual
-                    if let Some(mut poster) = search_data.results[0].poster_path.clone() {
-                        if !poster.starts_with('/') {
-                            poster = format!("/{}", poster);
-                        }
-                        let img_url = format!("https://media.themoviedb.org/t/p/w500{}", poster);
-                        if let Ok(mut cache) = TMDB_CACHE.lock() {
-                            cache.insert(cache_key, img_url.clone());
-                        }
-                        return img_url;
-                    }
                 }
             }
         }
     }
 
     "".to_string()
-}
-
-#[tokio::main]
-async fn main() {
-    let client = Client::new();
-    println!("==========================================");
-    println!("EPG Rust optimizado con tokio y reqwest listo.");
-    println!("==========================================");
 }
