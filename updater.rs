@@ -7,32 +7,18 @@ use once_cell::sync::Lazy;
 use regex::Regex;
 
 #[derive(Deserialize)]
-struct TMDBResponse {
-    results: Vec<TVResult>,
-}
-
+struct TMDBResponse { results: Vec<TVResult> }
 #[derive(Deserialize)]
-struct TVResult {
-    id: u64,
-}
-
+struct TVResult { id: u64 }
 #[derive(Deserialize)]
-struct EpisodeResponse {
-    name: Option<String>,
-    still_path: Option<String>,
-}
-
+struct EpisodeResponse { name: Option<String>, still_path: Option<String> }
 #[derive(Deserialize)]
-struct SeasonResponse {
-    episodes: Option<Vec<EpisodeResponse>>,
-}
+struct SeasonResponse { episodes: Option<Vec<EpisodeResponse>> }
 
 static TMDB_CACHE: Lazy<Mutex<HashMap<String, String>>> = Lazy::new(|| Mutex::new(HashMap::new()));
 
 fn normalize_title(text: &str) -> String {
-    if text.is_empty() {
-        return "".to_string();
-    }
+    if text.is_empty() { return "".to_string(); }
     let mut clean_raw = text.to_lowercase();
     
     if clean_raw == "equipo monstruo" { clean_raw = "monster squad".to_string(); }
@@ -45,7 +31,6 @@ fn normalize_title(text: &str) -> String {
 
     let re_paren = Regex::new(r"\(.*?\)").unwrap();
     let clean_raw = re_paren.replace_all(&clean_raw, "");
-
     let re_pt = Regex::new(r"\b(?:pt\.?|part\.?)\s*(\d+)").unwrap();
     let clean = re_pt.replace_all(&clean_raw, "($1)");
     let re_plural = Regex::new(r"s\b").unwrap();
@@ -55,9 +40,7 @@ fn normalize_title(text: &str) -> String {
 }
 
 async fn fetch_tmdb_still(client: &Client, series_title: &str, season_str: &str, ep_str: &str, ep_title_en: &str, ep_title_es: &str, lang: &str) -> String {
-    if series_title.is_empty() {
-        return "".to_string();
-    }
+    if series_title.is_empty() { return "".to_string(); }
 
     let raw_target = if !ep_title_en.is_empty() && ep_title_en.to_lowercase() != "nan" { ep_title_en } else { ep_title_es };
     let lookup_target = raw_target;
@@ -75,9 +58,7 @@ async fn fetch_tmdb_still(client: &Client, series_title: &str, season_str: &str,
 
     let token = env::var("TMDB_TOKEN").unwrap_or_default();
     let api_key = env::var("TMDB_API_KEY").unwrap_or_default();
-    if token.is_empty() && api_key.is_empty() {
-        return "".to_string();
-    }
+    if token.is_empty() && api_key.is_empty() { return "".to_string(); }
 
     let auth_header = if !token.is_empty() { format!("Bearer {}", token) } else { format!("Bearer {}", api_key) };
     let tmdb_lang = if lang == "pt" { "pt-BR" } else { "es-ES" };
@@ -114,6 +95,5 @@ async fn fetch_tmdb_still(client: &Client, series_title: &str, season_str: &str,
             }
         }
     }
-
     "".to_string()
 }
