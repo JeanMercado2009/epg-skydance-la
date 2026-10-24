@@ -16,6 +16,7 @@ function normalizeTitle(text: string): string {
     let clean = noAccent.toLowerCase().trim();
     clean = clean.replace(/\bpt\.?\s*(\d+)/g, "($1)");
     clean = clean.replace(/\bpart\.?\s*(\d+)/g, "($1)");
+    clean = clean.replace(/s\b/g, ""); // Plural tolerance
     clean = clean.replace(/[^a-z0-9]/g, "");
     return clean;
 }
@@ -24,6 +25,23 @@ async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: str
     if (!seriesTitle) return "";
     const cacheKey: string = `${seriesTitle}|${seasonStr}|${epStr}|${epTitleEn}|${lang}`;
     if (tmdbCache[cacheKey] !== undefined) return tmdbCache[cacheKey];
+
+    const lowerTitle = seriesTitle.toLowerCase();
+    if (lowerTitle.includes("submarine jim") || lowerTitle.includes("el submarino de jim")) {
+        const img = "https://media.themoviedb.org/t/p/w220_and_h330_face/8BqoJXMhrV9KfKmodPtyi67VgBG.jpg";
+        tmdbCache[cacheKey] = img;
+        return img;
+    }
+    if (lowerTitle.includes("aquaman: rage of atlantis") || lowerTitle.includes("lego dc")) {
+        const img = "https://media.themoviedb.org/t/p/w220_and_h330_face/8BqoJXMhrV9KfKmodPtyi67VgBG.jpg";
+        tmdbCache[cacheKey] = img;
+        return img;
+    }
+    if (lowerTitle.includes("spider-man") && lowerTitle.includes("un nuevo universo")) {
+        const img = "https://media.themoviedb.org/t/p/w220_and_h330_face/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg";
+        tmdbCache[cacheKey] = img;
+        return img;
+    }
 
     const token: string = process.env.TMDB_TOKEN || "";
     const apiKey: string = process.env.TMDB_API_KEY || "";
@@ -46,8 +64,7 @@ async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: str
 
         for (const query of searchQueries) {
             const searchRes = await client.get("https://api.themoviedb.org/3/search/tv", {
-                headers,
-                params: { query, language: tmdbLang }
+                headers, params: { query, language: tmdbLang }
             });
             const results = searchRes.data.results;
             if (results && results.length > 0) {
@@ -66,7 +83,6 @@ async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: str
             const sNum: number = parseInt(seasonStr, 10);
             const normTarget = epTitleEn ? normalizeTitle(epTitleEn) : "";
 
-            // Prioridad 1: Barrido global barriendo todas las temporadas por título en inglés normalizado
             if (normTarget) {
                 const seasonsToCheck: number[] = [];
                 if (!isNaN(sNum)) seasonsToCheck.push(sNum);
@@ -96,7 +112,6 @@ async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: str
                 }
             }
 
-            // Prioridad 2: Respaldo por número de episodio
             const eNum: number = parseInt(epStr, 10);
             if (!isNaN(sNum) && !isNaN(eNum)) {
                 try {
@@ -118,8 +133,3 @@ async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: str
     tmdbCache[cacheKey] = "";
     return "";
 }
-
-async function main(): Promise<void> {
-    console.log("updater.ts sincronizado.");
-}
-main();
