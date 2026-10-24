@@ -37,7 +37,11 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr, lang string) string {
 	}
 	defer resp.Body.Close()
 
-	var searchRes TMDBResponse
+	var searchRes struct {
+		Results []struct {
+			ID int `json:"id"`
+		} `json:"results"`
+	}
 	if json.NewDecoder(resp.Body).Decode(&searchRes) != nil || len(searchRes.Results) == 0 {
 		return ""
 	}
@@ -52,7 +56,9 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr, lang string) string {
 			}
 			epResp, err := httpClient.Do(epReq)
 			if err == nil && epResp.StatusCode == 200 {
-				var epData TMDBEpisode
+				var epData struct {
+					StillPath string `json:"still_path"`
+				}
 				if json.NewDecoder(epResp.Body).Decode(&epData) == nil && epData.StillPath != "" {
 					stillPath := epData.StillPath
 					if !strings.HasPrefix(stillPath, "/") {
@@ -66,16 +72,6 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr, lang string) string {
 		}
 	}
 
-	if searchRes.Results[0].PosterPath != "" {
-		posterPath := searchRes.Results[0].PosterPath
-		if !strings.HasPrefix(posterPath, "/") {
-			posterPath = "/" + posterPath
-		}
-		imgURL := "https://media.themoviedb.org/t/p/w500" + posterPath
-		tmdbCache[cacheKey] = imgURL
-		return imgURL
-	}
-
-    tmdbCache[cacheKey] = ""
+	tmdbCache[cacheKey] = ""
 	return ""
 }
