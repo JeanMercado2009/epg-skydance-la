@@ -50,9 +50,7 @@ func getTargetDatesToProcess() []string {
 }
 
 func normalizeTitle(text string) string {
-	if text == "" {
-		return ""
-	}
+	if text == "" { return "" }
 	cleanRaw := strings.ToLower(strings.TrimSpace(text))
 	if alias, ok := titleAliases[cleanRaw]; ok {
 		cleanRaw = alias
@@ -79,9 +77,7 @@ func normalizeTitle(text string) string {
 }
 
 func FetchTmdbStill(seriesTitle, seasonStr, epStr, epTitleEn, epTitleEs, lang string) string {
-	if seriesTitle == "" {
-		return ""
-	}
+	if seriesTitle == "" { return "" }
 	rawTarget := epTitleEn
 	if rawTarget == "" || strings.ToLower(rawTarget) == "nan" {
 		rawTarget = epTitleEs
@@ -92,9 +88,7 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr, epTitleEn, epTitleEs, lang st
 	}
 
 	cacheKey := fmt.Sprintf("%s|%s|%s|%s|%s", seriesTitle, seasonStr, epStr, lookupTarget, lang)
-	if val, ok := tmdbCache[cacheKey]; ok {
-		return val
-	}
+	if val, ok := tmdbCache[cacheKey]; ok { return val }
 
 	lowerTitle := strings.ToLower(seriesTitle)
 	if strings.Contains(lowerTitle, "submarine jim") || strings.Contains(lowerTitle, "el submarino de jim") {
@@ -109,32 +103,20 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr, epTitleEn, epTitleEs, lang st
 
 	token := strings.TrimSpace(os.Getenv("TMDB_TOKEN"))
 	apiKey := strings.TrimSpace(os.Getenv("TMDB_API_KEY"))
-	if token == "" && apiKey == "" {
-		return ""
-	}
+	if token == "" && apiKey == "" { return "" }
 
 	apiURL := fmt.Sprintf("https://api.themoviedb.org/3/search/tv?query=%s&language=es-ES", url.QueryEscape(seriesTitle))
 	req, err := http.NewRequest("GET", apiURL, nil)
-	if err != nil {
-		return ""
-	}
+	if err != nil { return "" }
 	req.Header.Set("accept", "application/json")
-	if token != "" {
-		req.Header.Set("Authorization", "Bearer "+token)
-	} else {
-		req.Header.Set("Authorization", "Bearer "+apiKey)
-	}
+	if token != "" { req.Header.Set("Authorization", "Bearer "+token) } else { req.Header.Set("Authorization", "Bearer "+apiKey) }
 
 	resp, err := httpClient.Do(req)
-	if err != nil || resp.StatusCode != 200 {
-		return ""
-	}
+	if err != nil || resp.StatusCode != 200 { return "" }
 	defer resp.Body.Close()
 
 	var searchRes struct {
-		Results []struct {
-			ID int `json:"id"`
-		} `json:"results"`
+		Results []struct { ID int `json:"id"` } `json:"results"`
 	}
 	json.NewDecoder(resp.Body).Decode(&searchRes)
 
@@ -143,9 +125,7 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr, epTitleEn, epTitleEs, lang st
 		seasonURL := fmt.Sprintf("https://api.themoviedb.org/3/tv/%d/season/%s?language=en-US", tvID, seasonStr)
 		seasonReq, err := http.NewRequest("GET", seasonURL, nil)
 		if err == nil {
-			if token != "" {
-				seasonReq.Header.Set("Authorization", "Bearer "+token)
-			}
+			if token != "" { seasonReq.Header.Set("Authorization", "Bearer "+token) }
 			seasonResp, err := httpClient.Do(seasonReq)
 			if err == nil && seasonResp.StatusCode == 200 {
 				defer seasonResp.Body.Close()
@@ -167,7 +147,6 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr, epTitleEn, epTitleEs, lang st
 			}
 		}
 	}
-
 	tmdbCache[cacheKey] = ""
 	return ""
 }
