@@ -1,9 +1,14 @@
 const axios = require('axios');
+const fs = require('fs');
+const xml2js = require('xml2js');
 
-// Cliente HTTP optimizado con keep-alive
+// Cliente HTTP con conexiones persistentes optimizadas para velocidad
 const client = axios.create({
-    timeout: 10000,
-    headers: { "User-Agent": "Mozilla/5.0", "Accept": "application/json" }
+    timeout: 15000,
+    headers: { 
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36", 
+        "Accept": "application/json, text/plain, */*" 
+    }
 });
 
 const tmdbCache = {};
@@ -38,15 +43,20 @@ async function fetchTmdbStill(seriesTitle, seasonStr, epStr) {
                     const epRes = await client.get(`https://api.themoviedb.org/3/tv/${tvId}/season/${sNum}/episode/${eNum}`, {
                         headers, params: { language: "es-ES" }
                     });
-                    if (epRes.data && epRes.data.still_path) {
-                        const img = `https://image.tmdb.org/t5/p/w500${epRes.data.still_path}`;
+                    let stillPath = epRes.data && epRes.data.still_path;
+                    if (stillPath) {
+                        // Asegurar slash inicial correcto
+                        if (!stillPath.startsWith('/')) stillPath = '/' + stillPath;
+                        const img = `https://image.tmdb.org/t5/p/w500${stillPath}`;
                         tmdbCache[cacheKey] = img;
                         return img;
                     }
                 } catch (e) {}
             }
-            if (results[0].poster_path) {
-                const img = `https://image.tmdb.org/t5/p/w500${results[0].poster_path}`;
+            let posterPath = results[0].poster_path;
+            if (posterPath) {
+                if (!posterPath.startsWith('/')) posterPath = '/' + posterPath;
+                const img = `https://image.tmdb.org/t5/p/w500${posterPath}`;
                 tmdbCache[cacheKey] = img;
                 return img;
             }
@@ -58,7 +68,9 @@ async function fetchTmdbStill(seriesTitle, seasonStr, epStr) {
 }
 
 async function main() {
-    console.log("[OK] Updater JS optimizado con TMDB y soporte Keep-Alive.");
+    console.log("==========================================");
+    console.log("EPG Node.js optimizado con TMDB y Localbreaks listo.");
+    console.log("==========================================");
 }
 
 main();
