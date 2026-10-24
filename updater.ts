@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-// Cliente HTTP con conexiones persistentes (Keep-Alive) y pooling
+// Cliente HTTP con conexiones persistentes (Keep-Alive) y tipado estricto
 const client = axios.create({
     timeout: 15000,
     headers: { 
@@ -13,16 +13,16 @@ const tmdbCache: Record<string, string> = {};
 
 async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: string, lang: string = "es"): Promise<string> {
     if (!seriesTitle) return "";
-    const cleanTitle = seriesTitle.replace(/[:\-].*/g, '').trim();
-    const cacheKey = `${cleanTitle}|${seasonStr}|${epStr}|${lang}`;
+    const cleanTitle: string = seriesTitle.replace(/[:\-].*/g, '').trim();
+    const cacheKey: string = `${cleanTitle}|${seasonStr}|${epStr}|${lang}`;
     if (tmdbCache[cacheKey] !== undefined) return tmdbCache[cacheKey];
 
-    const token = process.env.TMDB_TOKEN || "";
-    const apiKey = process.env.TMDB_API_KEY || "";
+    const token: string = process.env.TMDB_TOKEN || "";
+    const apiKey: string = process.env.TMDB_API_KEY || "";
     if (!token && !apiKey) return "";
 
     // Idioma dinámico: portugués para Brasil, español para el resto
-    const tmdbLang = (lang === "pt") ? "pt-BR" : "es-ES";
+    const tmdbLang: string = (lang === "pt") ? "pt-BR" : "es-ES";
     const headers: Record<string, string> = { "accept": "application/json" };
     if (token) headers["Authorization"] = `Bearer ${token}`;
     else if (apiKey) headers["Authorization"] = `Bearer ${apiKey}`;
@@ -35,16 +35,16 @@ async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: str
 
         const results = searchRes.data.results;
         if (results && results.length > 0) {
-            const tvId = results[0].id;
-            const sNum = parseInt(seasonStr, 10);
-            const eNum = parseInt(epStr, 10);
+            const tvId: number = results[0].id;
+            const sNum: number = parseInt(seasonStr, 10);
+            const eNum: number = parseInt(epStr, 10);
 
             if (!isNaN(sNum) && !isNaN(eNum)) {
                 try {
                     const epRes = await client.get(`https://api.themoviedb.org/3/tv/${tvId}/season/${sNum}/episode/${eNum}`, {
                         headers, params: { language: tmdbLang }
                     });
-                    let stillPath = epRes.data && epRes.data.still_path;
+                    let stillPath: string | undefined = epRes.data && epRes.data.still_path;
                     if (stillPath) {
                         if (!stillPath.startsWith('/')) stillPath = '/' + stillPath;
                         const img = `https://media.themoviedb.org/t/p/w500${stillPath}`;
@@ -53,25 +53,17 @@ async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: str
                     }
                 } catch (e) {}
             }
-
-            // Respaldo de póster general si el capítulo no cuenta con miniatura propia
-            let posterPath = results[0].poster_path;
-            if (posterPath) {
-                if (!posterPath.startsWith('/')) posterPath = '/' + posterPath;
-                const img = `https://media.themoviedb.org/t/p/w500${posterPath}`;
-                tmdbCache[cacheKey] = img;
-                return img;
-            }
         }
     } catch (e) {}
 
+    // Sin respaldo de póster general: si no hay miniatura exacta, retorna vacío
     tmdbCache[cacheKey] = "";
     return "";
 }
 
-async function main() {
+async function main(): Promise<void> {
     console.log("==========================================");
-    console.log("EPG TypeScript optimizado y listo.");
+    console.log("updater.ts optimizado y listo.");
     console.log("==========================================");
 }
 
