@@ -208,11 +208,9 @@ def download_and_load_monthly_rows(token, target_dates, network="CNLA", lang="SP
                             df_grid.columns = df_grid.iloc[0]
                             df_grid = df_grid[1:].reset_index(drop=True)
                     for _, row in df_grid.iterrows():
-                        date_norm = standardize_date_str(row.get("Schedule Date") or row.get("Date"))
-                        if date_norm in target_dates:
-                            all_rows.append(row)
+                        all_rows.append(row)
             except Exception: pass
-        return all_rows
+    return all_rows
 
 NETWORKS_CONFIG = {
     "CNLA_EPG.xml": {
@@ -241,20 +239,18 @@ def process_single_day_feed(root, feed_cfg, monthly_rows, target_date_str):
     tz = feed_cfg["tz"]
     tz_str = feed_cfg["tz_str"]
 
+    target_dt = datetime.strptime(target_date_str, "%Y-%m-%d")
+    cycle_start = datetime(target_dt.year, target_dt.month, target_dt.day, 6, 0, 0, tzinfo=tz)
+    cycle_end = cycle_start + timedelta(days=1)
+
     raw_events = []
     for row in monthly_rows:
         date_raw = str(row.get("Schedule Date") or row.get("Date") or "").strip()
-        date_norm = standardize_date_str(date_raw)
-        
-        # FILTRO ESTRICTO: Solo procesar filas que coincidan exactamente con la fecha objetivo de este ciclo
-        if date_norm != target_date_str:
-            continue
-
         time_raw = str(row.get("Program Start Time") or "").strip()[:5]
-        time_match = re.search(r"(\d{1,2}):(\d{2})", time_raw)
-        if not time_match: continue
+        
         date_match = re.search(r"(\d{4})[-/](\d{1,2})[-/](\d{1,2})|(\d{1,2})[-/](\d{1,2})[-/](\d{4})", date_raw)
-        if not date_match: continue
+        time_match = re.search(r"(\d{1,2}):(\d{2})", time_raw)
+        if not date_match or not time_match: continue
 
         groups = date_match.groups()
         if groups[0]: y, m, d = int(groups[0]), int(groups[1]), int(groups[2])
@@ -262,6 +258,12 @@ def process_single_day_feed(root, feed_cfg, monthly_rows, target_date_str):
 
         hh, mm = map(int, time_match.groups())
         event_dt = datetime(y, m, d, hh, mm, 0, tzinfo=tz)
+
+        if hh < 6 and event_dt.date() == cycle_start.date():
+            event_dt += timedelta(days=1)
+
+        if event_dt < cycle_start or event_dt >= cycle_end:
+            continue
 
         prog_name_val = str(row.get("Program Name") or row.get("Title Name") or "").strip()
         if prog_name_val.upper() == "LOS COLORADO": prog_name_val = "El Chapulín Y Los Colorado"
@@ -315,7 +317,7 @@ def process_single_day_feed(root, feed_cfg, monthly_rows, target_date_str):
     for i in range(total):
         ev = raw_events[i]
         start_dt = ev["start"]
-        stop_dt = raw_events[i + 1]["start"] if i + 1 < total else start_dt + timedelta(minutes=30)
+        stop_dt = raw_events[i + 1]["start"] if i + 1 < total else cycle_end
 
         prog = ET.Element("programme", {
             "start": format_xmltv_date(start_dt, tz_str),
@@ -335,7 +337,7 @@ def process_single_day_feed(root, feed_cfg, monthly_rows, target_date_str):
 def main():
     token = login_and_get_token()
     target_dates = get_target_dates_to_process()
-    print(f"[INFO] Fechas objetivo estrictas: {target_dates}")
+    print(f"[INFO] Fechas objetivo con ventana de transmisión: {target_dates}")
 
     feed_type_map = {"CNLA_PAN": "PAN", "CNLA_BR": "BR"}
 
@@ -346,7 +348,6 @@ def main():
             lang_code = "POR" if feed_cfg["lang"] == "pt" else "SPA"
             monthly_rows = download_and_load_monthly_rows(token, target_dates, network="CNLA", lang=lang_code, feed_type=f_type)
             
-            # Procesar cada fecha de forma completamente aislada
             for d_str in target_dates:
                 process_single_day_feed(root, feed_cfg, monthly_rows, d_str)
 
@@ -356,7 +357,7 @@ def main():
 
         ET.indent(root, space="  ", level=0)
         ET.ElementTree(root).write(xml_filename, encoding="utf-8", xml_declaration=True)
-        print(f"[OK] {xml_filename} generado sin cruces ni desfases.")
+        print(f"[OK] {xml_filename} generado limpiamente sin cruces de días.")
 
 if __name__ == "__main__":
     main()
