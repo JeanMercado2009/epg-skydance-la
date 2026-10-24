@@ -1,4 +1,13 @@
 const axios = require('axios');
+const fs = require('fs');
+const xlsx = require('xlsx');
+
+const AUTH_URL = "https://epg.tapkit.warnermedia.com/api/security/oauth/token";
+const BASE_DAILY_URL = "https://epg.tapkit.warnermedia.com/api/daily/shows?feedId={feed_id}&format=xls";
+
+const TAPKIT_EMAIL = process.env.TAPKIT_EMAIL || "";
+const TAPKIT_PASSWORD = process.env.TAPKIT_PASSWORD || "";
+
 const tmdbCache = {};
 
 async function fetchTmdbStill(seriesTitle, seasonStr, epStr) {
@@ -35,7 +44,7 @@ async function fetchTmdbStill(seriesTitle, seasonStr, epStr) {
                         params: { language: "es-ES" },
                         timeout: 5000
                     });
-                    if (epRes.data.still_path) {
+                    if (epRes.data && epRes.data.still_path) {
                         const imgUrl = `https://image.tmdb.org/t5/p/w500${epRes.data.still_path}`;
                         tmdbCache[cacheKey] = imgUrl;
                         return imgUrl;
@@ -54,3 +63,35 @@ async function fetchTmdbStill(seriesTitle, seasonStr, epStr) {
     tmdbCache[cacheKey] = "";
     return "";
 }
+
+async function loginAndGetToken() {
+    if (!TAPKIT_EMAIL || !TAPKIT_PASSWORD) {
+        throw new Error("Faltan TAPKIT_EMAIL o TAPKIT_PASSWORD en los Secrets de GitHub.");
+    }
+
+    const params = new URLSearchParams();
+    params.append("grant_type", "password");
+    params.append("scope", "any");
+    params.append("username", TAPKIT_EMAIL);
+    params.append("password", TAPKIT_PASSWORD);
+
+    const res = await axios.post(AUTH_URL, params, {
+        headers: {
+            "User-Agent": "Mozilla/5.0",
+            "Content-Type": "application/x-www-form-urlencoded"
+        }
+    });
+
+    return res.data.access_token;
+}
+
+async function main() {
+    try {
+        const token = await loginAndGetToken();
+        console.log("[OK] Sesión iniciada en Node.js");
+    } catch (err) {
+        console.error("[ERROR]", err.message);
+    }
+}
+
+main();
