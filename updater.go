@@ -22,8 +22,10 @@ var titleAliases = map[string]string{
 	"el malentendido":      "the misunderstandings",
 	"el origen parte 1":    "the origins 1",
 	"el origen parte 2":    "the origins 2",
-	"kabums pt 2":          "kabooms 2",
-	"kabums pt 1":          "kabooms 1",
+	"kabums pt 2":          "kabooms (2)",
+	"kabúms pt 2":          "kabooms (2)",
+	"kabums pt 1":          "kabooms (1)",
+	"kabúms pt 1":          "kabooms (1)",
 	"standards & practices": "s&p",
 	"arcoiris de la dimension de cristal": "crystals have power",
 	"el cruce":             "crossover",
@@ -31,6 +33,21 @@ var titleAliases = map[string]string{
 }
 
 var httpClient = &http.Client{Timeout: 6 * time.Second}
+
+func getTargetDatesToProcess() []string {
+	now := time.Now()
+	weekday := now.Weekday()
+	dates := []string{now.Format("2006-01-02")}
+	if weekday == time.Friday {
+		sat := now.AddDate(0, 0, 1).Format("2006-01-02")
+		dates = append(dates, sat)
+	} else if weekday == time.Saturday {
+		sun := now.AddDate(0, 0, 1).Format("2006-01-02")
+		mon := now.AddDate(0, 0, 2).Format("2006-01-02")
+		dates = append(dates, sun, mon)
+	}
+	return dates
+}
 
 func normalizeTitle(text string) string {
 	if text == "" {
@@ -61,13 +78,17 @@ func normalizeTitle(text string) string {
 	return clean
 }
 
-func FetchTmdbStill(seriesTitle, seasonStr, epStr, epTitleEn, lang string) string {
+func FetchTmdbStill(seriesTitle, seasonStr, epStr, epTitleEn, epTitleEs, lang string) string {
 	if seriesTitle == "" {
 		return ""
 	}
-	lookupTarget := epTitleEn
-	if lookupTarget == "" {
-		lookupTarget = seriesTitle
+	rawTarget := epTitleEn
+	if rawTarget == "" || strings.ToLower(rawTarget) == "nan" {
+		rawTarget = epTitleEs
+	}
+	lookupTarget := rawTarget
+	if alias, ok := titleAliases[strings.ToLower(strings.TrimSpace(rawTarget))]; ok {
+		lookupTarget = alias
 	}
 
 	cacheKey := fmt.Sprintf("%s|%s|%s|%s|%s", seriesTitle, seasonStr, epStr, lookupTarget, lang)
@@ -137,7 +158,7 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr, epTitleEn, lang string) strin
 				json.NewDecoder(seasonResp.Body).Decode(&seasonData)
 				normTarget := normalizeTitle(lookupTarget)
 				for _, ep := range seasonData.Episodes {
-					if normalizeTitle(ep.Name) == normTarget && ep.StillPath != "" {
+					if (normalizeTitle(ep.Name) == normTarget || strings.Contains(normTarget, normalizeTitle(ep.Name))) && ep.StillPath != "" {
 						imgURL := "https://media.themoviedb.org/t/p/w500" + ep.StillPath
 						tmdbCache[cacheKey] = imgURL
 						return imgURL
