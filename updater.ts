@@ -31,10 +31,10 @@ function getTargetDatesToProcess(): string[] {
     const formatDate = (d: Date) => d.toISOString().split('T')[0];
     
     const dates = [formatDate(now)];
-    if (weekday === 5) { // Viernes
+    if (weekday === 5) {
         const sat = new Date(now); sat.setDate(now.getDate() + 1);
         dates.push(formatDate(sat));
-    } else if (weekday === 6) { // Sábado
+    } else if (weekday === 6) {
         const sun = new Date(now); sun.setDate(now.getDate() + 1);
         const mon = new Date(now); mon.setDate(now.getDate() + 2);
         dates.push(formatDate(sun), formatDate(mon));
