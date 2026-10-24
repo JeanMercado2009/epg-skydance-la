@@ -19,6 +19,53 @@ BASE_DAILY_URL = "https://epg.tapkit.warnermedia.com/api/daily/shows?feedId={fee
 TMDB_API_KEY = os.environ.get("TMDB_API_KEY", "").strip()
 TMDB_TOKEN = os.environ.get("TMDB_TOKEN", "").strip()
 
+# Caché local para evitar consultas repetidas a TMDB y optimizar velocidad
+tmdb_cache = {}
+
+def fetch_tmdb_still(series_title, season_str, ep_str):
+    if not series_title:
+        return ""
+    clean_title = re.sub(r'[:\-].*', '', series_title).strip()
+    cache_key = f"{clean_title}|{season_str}|{ep_str}"
+    if cache_key in tmdb_cache:
+        return tmdb_cache[cache_key]
+
+    if not TMDB_TOKEN and not TMDB_API_KEY:
+        return ""
+
+    headers = {"accept": "application/json"}
+    if TMDB_TOKEN:
+        headers["Authorization"] = f"Bearer {TMDB_TOKEN}"
+    elif TMDB_API_KEY:
+        headers["Authorization"] = f"Bearer {TMDB_API_KEY}"
+
+    try:
+        url_tv = "https://api.themoviedb.org/3/search/tv"
+        res = requests.get(url_tv, headers=headers, params={"query": clean_title, "language": "es-ES"}, timeout=5)
+        if res.status_code == 200 and res.json().get("results"):
+            tv_id = res.json()["results"][0]["id"]
+            if season_str and ep_str and season_str.replace('.', '', 1).isdigit() and ep_str.replace('.', '', 1).isdigit():
+                s_num = int(float(season_str))
+                e_num = int(float(ep_str))
+                ep_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_num}/episode/{e_num}"
+                ep_res = requests.get(ep_url, headers=headers, params={"language": "es-ES"}, timeout=5)
+                if ep_res.status_code == 200:
+                    still_path = ep_res.json().get("still_path")
+                    if still_path:
+                        img_url = f"https://image.tmdb.org/t5/p/w500{still_path}"
+                        tmdb_cache[cache_key] = img_url
+                        return img_url
+            poster_path = res.json()["results"][0].get("poster_path")
+            if poster_path:
+                img_url = f"https://image.tmdb.org/t5/p/w500{poster_path}"
+                tmdb_cache[cache_key] = img_url
+                return img_url
+    except Exception:
+        pass
+
+    tmdb_cache[cache_key] = ""
+    return ""
+
 NETWORKS_CONFIG = {
     "CNLA_EPG.xml": {
         "generator_name": "Guia de Programacion Cartoon Network MultiFeed",
@@ -329,12 +376,10 @@ def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_t
                             "year": year_val if year_val and year_val.lower() != "nan" and year_val.isdigit() else ""
                         }
 
-                        # LLAVE COMPUESTA EXACTA: Fecha + HoraInicio + TítuloInglés
                         if date_norm and start_time and orig_ep and orig_ep != "NAN":
                             exact_key = f"{date_norm}|{start_time}|{orig_ep}"
                             combined_dict[exact_key] = meta_data
                             
-                        # Respaldo por nombre de episodio solitario
                         if orig_ep and orig_ep != "NAN" and orig_ep not in combined_dict:
                             combined_dict[orig_ep] = meta_data
 
@@ -590,7 +635,6 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None):
 
         prog_name_val = str(row.get(col_title, "")).strip() if pd.notna(row.get(col_title)) else ""
         
-        # Renombrar "LOS COLORADO"
         if prog_name_val.strip().upper() == "LOS COLORADO":
             prog_name_val = "El Chapulín Y Los Colorado"
 
@@ -610,8 +654,6 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None):
                 title_val = "Cine Cartoon"
             ep_name_val = ""
             ep_name_en_val = ""
-            
-            # Descripciones fijas para Cine Cartoon
             desc_es = "Cartoon Network trae los clásicos del cine a la pantalla de TV. Ahora podrás disfrutar de estas historias inolvidables en la comodidad de tu hogar."
             desc_en = "Cartoon Network brings classic cinematic tales to the TV screen. Now you can spend a relaxing Saturday in front of the television in your favorite chair, enjoying these unforgettable stories."
         else:
@@ -640,10 +682,9 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None):
         sub_es = ep_name_val if ep_name_val and ep_name_val.lower() != "nan" else ""
         sub_en = ep_name_en_val if ep_name_en_val and ep_name_en_val.lower() != "nan" else ""
 
-        # CRUCE DE METADATOS CON LA GRILLA MENSUAL EXACTA (Llave Compuesta: Fecha + Hora + TítuloInglés)
         if monthly_meta:
             norm_date = standardize_date_str(date_raw)
-            daily_start_time = time_raw[:5] # formato HH:MM
+            daily_start_time = time_raw[:5]
             exact_key = f"{norm_date}|{daily_start_time}|{sub_en.upper()}"
             
             matched_info = monthly_meta.get(exact_key)
@@ -662,6 +703,11 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None):
 
         if not desc_es and title_val and "Cine Cartoon" not in title_val:
             desc_es = fetch_tmdb_synopsis(title_val)
+
+        # Obtener miniatura de TMDB (episodio o póster)
+        icon_url = ""
+        if title_val and "Cine Cartoon" not in title_val:
+            icon_url = fetch_tmdb_still(title_val, season_val, ep_num_val)
 
         is_new_episode = False
         if col_is_new and pd.notna(row.get(col_is_new)):
@@ -685,7 +731,8 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None):
             "episode_num": xmltv_season_ep,
             "desc_es": desc_es if desc_es.lower() != "nan" else "",
             "desc_en": desc_en if desc_en.lower() != "nan" else "",
-            "year": clean_year
+            "year": clean_year,
+            "icon": icon_url
         })
 
     raw_events = sorted(raw_events, key=lambda x: x["start"])
@@ -730,6 +777,10 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None):
         if ev["episode_num"]:
             ep_tag = ET.SubElement(prog, "episode-num", {"system": "xmltv_ns"})
             ep_tag.text = ev["episode_num"]
+
+        # Añadir etiqueta icon si TMDB devolvió imagen
+        if ev["icon"]:
+            ET.SubElement(prog, "icon", {"src": ev["icon"]})
 
         new_programmes.append(prog)
 
@@ -783,9 +834,9 @@ def process_discovery_kids_feed(root, feed_cfg, df_grid):
 
         try:
             groups = date_match.groups()
-            if groups[0]:  # YYYY-MM-DD
+            if groups[0]:
                 y, m, d = map(int, [groups[0], groups[1], groups[2]])
-            else:  # DD-MM-YYYY
+            else:
                 d, m, y = map(int, [groups[3], groups[4], groups[5]])
 
             sh, sm = map(int, start_match.groups())
@@ -822,6 +873,9 @@ def process_discovery_kids_feed(root, feed_cfg, df_grid):
 
         clean_year = year_val.split('.')[0] if year_val and year_val.replace('.', '', 1).isdigit() else ""
 
+        # Icono para Discovery Kids
+        icon_url = fetch_tmdb_still(prog_title, season_val, ep_val)
+
         prog = ET.Element("programme", {
             "start": format_xmltv_date(start_dt, tz_str),
             "stop": format_xmltv_date(end_dt, tz_str),
@@ -846,6 +900,9 @@ def process_discovery_kids_feed(root, feed_cfg, df_grid):
         if xmltv_season_ep:
             ep_tag = ET.SubElement(prog, "episode-num", {"system": "xmltv_ns"})
             ep_tag.text = xmltv_season_ep
+
+        if icon_url:
+            ET.SubElement(prog, "icon", {"src": icon_url})
 
         root.append(prog)
         count_events += 1
