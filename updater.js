@@ -15,13 +15,32 @@ const TITLE_ALIASES = {
     "el malentendido": "the misunderstandings",
     "el origen parte 1": "the origins 1",
     "el origen parte 2": "the origins 2",
-    "kabums pt 2": "kabooms 2",
-    "kabums pt 1": "kabooms 1",
+    "kabums pt 2": "kabooms (2)",
+    "kabúms pt 2": "kabooms (2)",
+    "kabums pt 1": "kabooms (1)",
+    "kabúms pt 1": "kabooms (1)",
     "standards & practices": "s&p",
     "arcoiris de la dimension de cristal": "crystals have power",
     "el cruce": "crossover",
     "la panza de la bestia": "belly of the beast"
 };
+
+function getTargetDatesToProcess() {
+    const now = new Date();
+    const weekday = now.getDay();
+    const formatDate = (d) => d.toISOString().split('T')[0];
+    
+    const dates = [formatDate(now)];
+    if (weekday === 5) { // Viernes
+        const sat = new Date(now); sat.setDate(now.getDate() + 1);
+        dates.push(formatDate(sat));
+    } else if (weekday === 6) { // Sábado
+        const sun = new Date(now); sun.setDate(now.getDate() + 1);
+        const mon = new Date(now); mon.setDate(now.getDate() + 2);
+        dates.push(formatDate(sun), formatDate(mon));
+    }
+    return Array.from(new Set(dates));
+}
 
 function normalizeTitle(text) {
     if (!text) return "";
@@ -38,9 +57,11 @@ function normalizeTitle(text) {
     return clean;
 }
 
-async function fetchTmdbStill(seriesTitle, seasonStr, epStr, epTitleEn = "", lang = "es") {
+async function fetchTmdbStill(seriesTitle, seasonStr, epStr, epTitleEn = "", epTitleEs = "", lang = "es") {
     if (!seriesTitle) return "";
-    const lookupTarget = epTitleEn ? epTitleEn : seriesTitle;
+    const rawTarget = (epTitleEn && epTitleEn.toLowerCase() !== "nan") ? epTitleEn : epTitleEs;
+    const lookupTarget = TITLE_ALIASES[rawTarget.toLowerCase().trim()] || rawTarget;
+    
     const cacheKey = `${seriesTitle}|${seasonStr}|${epStr}|${lookupTarget}|${lang}`;
     if (tmdbCache[cacheKey] !== undefined) return tmdbCache[cacheKey];
 
@@ -77,7 +98,7 @@ async function fetchTmdbStill(seriesTitle, seasonStr, epStr, epTitleEn = "", lan
             const episodes = seasonRes.data.episodes || [];
             const normTarget = normalizeTitle(lookupTarget);
             for (const ep of episodes) {
-                if (ep.name && normalizeTitle(ep.name) === normTarget) {
+                if (ep.name && (normalizeTitle(ep.name) === normTarget || normTarget.includes(normalizeTitle(ep.name)))) {
                     if (ep.still_path) {
                         const img = `https://media.themoviedb.org/t/p/w500${ep.still_path}`;
                         tmdbCache[cacheKey] = img;
