@@ -1,15 +1,3 @@
-import axios, { AxiosInstance } from 'axios';
-
-const client: AxiosInstance = axios.create({
-    timeout: 15000,
-    headers: { 
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36", 
-        "Accept": "application/json, text/plain, */*" 
-    }
-});
-
-const tmdbCache: Record<string, string> = {};
-
 async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: string, epTitleEn: string = "", lang: string = "es"): Promise<string> {
     if (!seriesTitle) return "";
     const cleanTitle: string = seriesTitle.replace(/[:\-].*/g, '').trim();
@@ -37,23 +25,7 @@ async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: str
             const sNum: number = parseInt(seasonStr, 10);
             const eNum: number = parseInt(epStr, 10);
 
-            // 1. Intento principal por número
-            if (!isNaN(sNum) && !isNaN(eNum)) {
-                try {
-                    const epRes = await client.get(`https://api.themoviedb.org/3/tv/${tvId}/season/${sNum}/episode/${eNum}`, {
-                        headers, params: { language: tmdbLang }
-                    });
-                    let stillPath: string | undefined = epRes.data && epRes.data.still_path;
-                    if (stillPath) {
-                        if (!stillPath.startsWith('/')) stillPath = '/' + stillPath;
-                        const img = `https://media.themoviedb.org/t/p/w500${stillPath}`;
-                        tmdbCache[cacheKey] = img;
-                        return img;
-                    }
-                } catch (e) {}
-            }
-
-            // 2. Respaldo por título exacto en inglés dentro de la temporada
+            // Prioridad 1: Búsqueda directa por título exacto en inglés escaneando la temporada
             if (!isNaN(sNum) && epTitleEn) {
                 try {
                     const seasonRes = await client.get(`https://api.themoviedb.org/3/tv/${tvId}/season/${sNum}`, {
@@ -73,17 +45,25 @@ async function fetchTmdbStill(seriesTitle: string, seasonStr: string, epStr: str
                     }
                 } catch (e) {}
             }
+
+            // Prioridad 2: Respaldo por número de episodio
+            if (!isNaN(sNum) && !isNaN(eNum)) {
+                try {
+                    const epRes = await client.get(`https://api.themoviedb.org/3/tv/${tvId}/season/${sNum}/episode/${eNum}`, {
+                        headers, params: { language: tmdbLang }
+                    });
+                    let stillPath: string | undefined = epRes.data && epRes.data.still_path;
+                    if (stillPath) {
+                        if (!stillPath.startsWith('/')) stillPath = '/' + stillPath;
+                        const img = `https://media.themoviedb.org/t/p/w500${stillPath}`;
+                        tmdbCache[cacheKey] = img;
+                        return img;
+                    }
+                } catch (e) {}
+            }
         }
     } catch (e) {}
 
     tmdbCache[cacheKey] = "";
     return "";
 }
-
-async function main(): Promise<void> {
-    console.log("==========================================");
-    console.log("updater.ts optimizado con doble validación.");
-    console.log("==========================================");
-}
-
-main();
