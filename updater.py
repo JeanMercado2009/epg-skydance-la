@@ -704,7 +704,6 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None):
         if not desc_es and title_val and "Cine Cartoon" not in title_val:
             desc_es = fetch_tmdb_synopsis(title_val)
 
-        # Obtener miniatura de TMDB (episodio o póster)
         icon_url = ""
         if title_val and "Cine Cartoon" not in title_val:
             icon_url = fetch_tmdb_still(title_val, season_val, ep_num_val)
@@ -778,7 +777,6 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None):
             ep_tag = ET.SubElement(prog, "episode-num", {"system": "xmltv_ns"})
             ep_tag.text = ev["episode_num"]
 
-        # Añadir etiqueta icon si TMDB devolvió imagen
         if ev["icon"]:
             ET.SubElement(prog, "icon", {"src": ev["icon"]})
 
@@ -873,7 +871,6 @@ def process_discovery_kids_feed(root, feed_cfg, df_grid):
 
         clean_year = year_val.split('.')[0] if year_val and year_val.replace('.', '', 1).isdigit() else ""
 
-        # Icono para Discovery Kids
         icon_url = fetch_tmdb_still(prog_title, season_val, ep_val)
 
         prog = ET.Element("programme", {
