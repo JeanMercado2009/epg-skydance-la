@@ -49,26 +49,11 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", lang="es"
         if res.status_code == 200 and res.json().get("results"):
             tv_id = res.json()["results"][0]["id"]
             
-            s_num, e_num = None, None
+            s_num = None
             if season_str and str(season_str).replace('.', '', 1).isdigit():
                 s_num = int(float(season_str))
-            if ep_str and str(ep_str).replace('.', '', 1).isdigit():
-                e_num = int(float(ep_str))
 
-            # 1. Intento principal por número de temporada y episodio
-            if s_num is not None and e_num is not None:
-                ep_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_num}/episode/{e_num}"
-                ep_res = http_session.get(ep_url, headers=headers, params={"language": tmdb_lang}, timeout=4)
-                if ep_res.status_code == 200:
-                    still_path = ep_res.json().get("still_path")
-                    if still_path:
-                        if not still_path.startswith('/'):
-                            still_path = '/' + still_path
-                        img_url = f"https://media.themoviedb.org/t/p/w500{still_path}"
-                        tmdb_cache[cache_key] = img_url
-                        return img_url
-
-            # 2. Respaldo inteligente por el título exacto en inglés dentro de la temporada
+            # Prioridad 1: Búsqueda directa por título exacto en inglés escaneando la temporada
             if s_num is not None and ep_title_en:
                 season_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_num}"
                 season_res = http_session.get(season_url, headers=headers, params={"language": "en-US"}, timeout=4)
@@ -82,6 +67,23 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", lang="es"
                                 img_url = f"https://media.themoviedb.org/t/p/w500{still_path}"
                                 tmdb_cache[cache_key] = img_url
                                 return img_url
+
+            # Prioridad 2: Respaldo por número de episodio
+            e_num = None
+            if ep_str and str(ep_str).replace('.', '', 1).isdigit():
+                e_num = int(float(ep_str))
+
+            if s_num is not None and e_num is not None:
+                ep_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_num}/episode/{e_num}"
+                ep_res = http_session.get(ep_url, headers=headers, params={"language": tmdb_lang}, timeout=4)
+                if ep_res.status_code == 200:
+                    still_path = ep_res.json().get("still_path")
+                    if still_path:
+                        if not still_path.startswith('/'):
+                            still_path = '/' + still_path
+                        img_url = f"https://media.themoviedb.org/t/p/w500{still_path}"
+                        tmdb_cache[cache_key] = img_url
+                        return img_url
     except Exception:
         pass
 
