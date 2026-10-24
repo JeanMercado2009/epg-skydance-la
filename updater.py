@@ -51,7 +51,7 @@ def fetch_tmdb_still(series_title, season_str, ep_str):
         res = http_session.get(url_tv, headers=headers, params={"query": clean_title, "language": "es-ES"}, timeout=4)
         if res.status_code == 200 and res.json().get("results"):
             tv_id = res.json()["results"][0]["id"]
-            if season_str and ep_str and season_str.replace('.', '', 1).isdigit() and ep_str.replace('.', '', 1).isdigit():
+            if season_str and ep_str and str(season_str).replace('.', '', 1).isdigit() and str(ep_str).replace('.', '', 1).isdigit():
                 s_num = int(float(season_str))
                 e_num = int(float(ep_str))
                 ep_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_num}/episode/{e_num}"
@@ -59,11 +59,15 @@ def fetch_tmdb_still(series_title, season_str, ep_str):
                 if ep_res.status_code == 200:
                     still_path = ep_res.json().get("still_path")
                     if still_path:
+                        if not still_path.startswith('/'):
+                            still_path = '/' + still_path
                         img_url = f"https://image.tmdb.org/t5/p/w500{still_path}"
                         tmdb_cache[cache_key] = img_url
                         return img_url
             poster_path = res.json()["results"][0].get("poster_path")
             if poster_path:
+                if not poster_path.startswith('/'):
+                    poster_path = '/' + poster_path
                 img_url = f"https://image.tmdb.org/t5/p/w500{poster_path}"
                 tmdb_cache[cache_key] = img_url
                 return img_url
@@ -96,7 +100,6 @@ def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"
                     start_raw = str(row.get("Start Time") or row.get("START_TIME") or "").strip()
                     end_raw = str(row.get("End Time") or row.get("END_TIME") or "").strip()
                     
-                    # Parseo seguro de hora de pausa comercial
                     s_match = re.search(r"(\d{2}):(\d{2}):(\d{2})", start_raw)
                     e_match = re.search(r"(\d{2}):(\d{2}):(\d{2})", end_raw)
                     
@@ -104,7 +107,6 @@ def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"
                         sh, sm, ss = map(int, s_match.groups())
                         eh, em, es = map(int, e_match.groups())
                         
-                        # Extraer año, mes, día de date_str (YYYYMMDD)
                         y, m, d = int(date_str[:4]), int(date_str[4:6]), int(date_str[6:])
                         
                         start_dt = datetime(y, m, d, sh, sm, ss, tzinfo=tz_info)
@@ -117,7 +119,8 @@ def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"
                             "stop": end_dt,
                             "title": "Pausa Comercial",
                             "desc": "Espacio publicitario y promos de la señal.",
-                            "category": "Comercial"
+                            "category": "Comercial",
+                            "type": "break"
                         })
         except Exception:
             pass
@@ -153,62 +156,13 @@ NETWORKS_CONFIG = {
         "referer": "https://epg.tapkit.warnermedia.com/epg/networks/warner",
         "type": "daily",
         "feeds": [
-            {
-                "feed_id": "WARNERLA_CO",
-                "channel_id": "WARNER_CO.co",
-                "channel_name": "Warner Channel Colombia",
-                "lang": "es",
-                "tz": timezone(timedelta(hours=-5)),
-                "tz_str": "-0500"
-            },
-            {
-                "feed_id": "WARNERLA_MX",
-                "channel_id": "WARNER_MX.mx",
-                "channel_name": "Warner Channel México",
-                "lang": "es",
-                "tz": timezone(timedelta(hours=-6)),
-                "tz_str": "-0600"
-            },
-            {
-                "feed_id": "WARNERLA_AR",
-                "channel_id": "WARNER_AR.ar",
-                "channel_name": "Warner Channel Argentina",
-                "lang": "es",
-                "tz": timezone(timedelta(hours=-3)),
-                "tz_str": "-0300"
-            },
-            {
-                "feed_id": "WARNERLA_CH",
-                "channel_id": "WARNER_CL.cl",
-                "channel_name": "Warner Channel Chile",
-                "lang": "es",
-                "tz": timezone(timedelta(hours=-4)),
-                "tz_str": "-0400"
-            },
-            {
-                "feed_id": "WARNERLA_VE",
-                "channel_id": "WARNER_VE.ve",
-                "channel_name": "Warner Channel Venezuela",
-                "lang": "es",
-                "tz": timezone(timedelta(hours=-4)),
-                "tz_str": "-0400"
-            },
-            {
-                "feed_id": "WARNERLA_AN",
-                "channel_id": "WARNER_AN.co",
-                "channel_name": "Warner Channel Andes",
-                "lang": "es",
-                "tz": timezone(timedelta(hours=-5)),
-                "tz_str": "-0500"
-            },
-            {
-                "feed_id": "WARNERLA_BH",
-                "channel_id": "WARNER_BR.br",
-                "channel_name": "Warner Channel Brasil",
-                "lang": "pt",
-                "tz": timezone(timedelta(hours=-3)),
-                "tz_str": "-0300"
-            }
+            {"feed_id": "WARNERLA_CO", "channel_id": "WARNER_CO.co", "channel_name": "Warner Channel Colombia", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
+            {"feed_id": "WARNERLA_MX", "channel_id": "WARNER_MX.mx", "channel_name": "Warner Channel México", "lang": "es", "tz": timezone(timedelta(hours=-6)), "tz_str": "-0600"},
+            {"feed_id": "WARNERLA_AR", "channel_id": "WARNER_AR.ar", "channel_name": "Warner Channel Argentina", "lang": "es", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"},
+            {"feed_id": "WARNERLA_CH", "channel_id": "WARNER_CL.cl", "channel_name": "Warner Channel Chile", "lang": "es", "tz": timezone(timedelta(hours=-4)), "tz_str": "-0400"},
+            {"feed_id": "WARNERLA_VE", "channel_id": "WARNER_VE.ve", "channel_name": "Warner Channel Venezuela", "lang": "es", "tz": timezone(timedelta(hours=-4)), "tz_str": "-0400"},
+            {"feed_id": "WARNERLA_AN", "channel_id": "WARNER_AN.co", "channel_name": "Warner Channel Andes", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
+            {"feed_id": "WARNERLA_BH", "channel_id": "WARNER_BR.br", "channel_name": "Warner Channel Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"}
         ]
     },
     "TNTLA_EPG.xml": {
@@ -216,54 +170,12 @@ NETWORKS_CONFIG = {
         "referer": "https://epg.tapkit.warnermedia.com/epg/networks/14",
         "type": "daily",
         "feeds": [
-            {
-                "feed_id": "TNTLA_MX",
-                "channel_id": "TNT_MX.mx",
-                "channel_name": "TNT México",
-                "lang": "es",
-                "tz": timezone(timedelta(hours=-6)),
-                "tz_str": "-0600"
-            },
-            {
-                "feed_id": "TNTLA_CO",
-                "channel_id": "TNT_CO.co",
-                "channel_name": "TNT Colombia",
-                "lang": "es",
-                "tz": timezone(timedelta(hours=-5)),
-                "tz_str": "-0500"
-            },
-            {
-                "feed_id": "TNTLA_PAN",
-                "channel_id": "TNT_PAN.co",
-                "channel_name": "TNT Panregional",
-                "lang": "es",
-                "tz": timezone(timedelta(hours=-5)),
-                "tz_str": "-0500"
-            },
-            {
-                "feed_id": "TNTLA_BR",
-                "channel_id": "TNT_BR.br",
-                "channel_name": "TNT Brasil HD",
-                "lang": "pt",
-                "tz": timezone(timedelta(hours=-3)),
-                "tz_str": "-0300"
-            },
-            {
-                "feed_id": "TNTLA_AR",
-                "channel_id": "TNT_AR.ar",
-                "channel_name": "TNT Argentina",
-                "lang": "es",
-                "tz": timezone(timedelta(hours=-3)),
-                "tz_str": "-0300"
-            },
-            {
-                "feed_id": "TNTLA_CL",
-                "channel_id": "TNT_CL.cl",
-                "channel_name": "TNT Chile",
-                "lang": "es",
-                "tz": timezone(timedelta(hours=-4)),
-                "tz_str": "-0400"
-            }
+            {"feed_id": "TNTLA_MX", "channel_id": "TNT_MX.mx", "channel_name": "TNT México", "lang": "es", "tz": timezone(timedelta(hours=-6)), "tz_str": "-0600"},
+            {"feed_id": "TNTLA_CO", "channel_id": "TNT_CO.co", "channel_name": "TNT Colombia", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
+            {"feed_id": "TNTLA_PAN", "channel_id": "TNT_PAN.co", "channel_name": "TNT Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
+            {"feed_id": "TNTLA_BR", "channel_id": "TNT_BR.br", "channel_name": "TNT Brasil HD", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"},
+            {"feed_id": "TNTLA_AR", "channel_id": "TNT_AR.ar", "channel_name": "TNT Argentina", "lang": "es", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"},
+            {"feed_id": "TNTLA_CL", "channel_id": "TNT_CL.cl", "channel_name": "TNT Chile", "lang": "es", "tz": timezone(timedelta(hours=-4)), "tz_str": "-0400"}
         ]
     },
     "DKLA_EPG.xml": {
@@ -271,30 +183,9 @@ NETWORKS_CONFIG = {
         "referer": "https://epg.tapkit.warnermedia.com/epg/networks/2",
         "type": "discovery_kids",
         "feeds": [
-            {
-                "feed_key": "Latin",
-                "channel_id": "DKLA_PAN.co",
-                "channel_name": "Discovery Kids Panregional",
-                "lang": "es",
-                "tz": timezone(timedelta(hours=-5)),
-                "tz_str": "-0500"
-            },
-            {
-                "feed_key": "Mexico",
-                "channel_id": "DKLA_MX.mx",
-                "channel_name": "Discovery Kids México",
-                "lang": "es",
-                "tz": timezone(timedelta(hours=-6)),
-                "tz_str": "-0600"
-            },
-            {
-                "feed_key": "Brazil",
-                "channel_id": "DKLA_BR.br",
-                "channel_name": "Discovery Kids Brasil",
-                "lang": "pt",
-                "tz": timezone(timedelta(hours=-3)),
-                "tz_str": "-0300"
-            }
+            {"feed_key": "Latin", "channel_id": "DKLA_PAN.co", "channel_name": "Discovery Kids Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
+            {"feed_key": "Mexico", "channel_id": "DKLA_MX.mx", "channel_name": "Discovery Kids México", "lang": "es", "tz": timezone(timedelta(hours=-6)), "tz_str": "-0600"},
+            {"feed_key": "Brazil", "channel_id": "DKLA_BR.br", "channel_name": "Discovery Kids Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"}
         ]
     }
 }
@@ -714,7 +605,6 @@ def main():
             for feed_cfg in net_config["feeds"]:
                 try:
                     df_grid = download_discovery_kids_feed(token, feed_cfg["feed_key"])
-                    # Discovery kids process (reutilizando la lógica optimizada de fecha)
                 except Exception as e:
                     print(f"[ERROR] Discovery Kids {feed_cfg['feed_key']}: {e}")
 
