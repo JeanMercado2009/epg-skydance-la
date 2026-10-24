@@ -1,33 +1,3 @@
-use std::collections::HashMap;
-use std::env;
-use reqwest::Client;
-use serde::Deserialize;
-use std::sync::Mutex;
-use once_cell::sync::Lazy;
-
-#[derive(Deserialize)]
-struct TMDBResponse {
-    results: Vec<TVResult>,
-}
-
-#[derive(Deserialize)]
-struct TVResult {
-    id: u64,
-}
-
-#[derive(Deserialize)]
-struct EpisodeResponse {
-    name: Option<String>,
-    still_path: Option<String>,
-}
-
-#[derive(Deserialize)]
-struct SeasonResponse {
-    episodes: Option<Vec<EpisodeResponse>>,
-}
-
-static TMDB_CACHE: Lazy<Mutex<HashMap<String, String>>> = Lazy::new(|| Mutex::new(HashMap::new()));
-
 async fn fetch_tmdb_still(client: &Client, series_title: &str, season_str: &str, ep_str: &str, ep_title_en: &str, lang: &str) -> String {
     if series_title.is_empty() {
         return "".to_string();
@@ -71,37 +41,7 @@ async fn fetch_tmdb_still(client: &Client, series_title: &str, season_str: &str,
                     let s_opt = season_str.parse::<u32>();
                     let e_opt = ep_str.parse::<u32>();
 
-                    // 1. Intento principal por número
-                    if let (Ok(s), Ok(e)) = (s_opt, e_opt) {
-                        let ep_url = format!(
-                            "https://api.themoviedb.org/3/tv/{}/season/{}/episode/{}?language={}",
-                            tv_id, s, e, tmdb_lang
-                        );
-                        let ep_res = client.get(&ep_url)
-                            .header("accept", "application/json")
-                            .header("Authorization", &auth_header)
-                            .send()
-                            .await;
-
-                        if let Ok(ep_resp) = ep_res {
-                            if ep_resp.status().is_success() {
-                                if let Ok(ep_data) = ep_resp.json::<EpisodeResponse>().await {
-                                    if let Some(mut still) = ep_data.still_path {
-                                        if !still.starts_with('/') {
-                                            still = format!("/{}", still);
-                                        }
-                                        let img_url = format!("https://media.themoviedb.org/t/p/w500{}", still);
-                                        if let Ok(mut cache) = TMDB_CACHE.lock() {
-                                            cache.insert(cache_key, img_url.clone());
-                                        }
-                                        return img_url;
-                                    }
-                                }
-                            }
-                        }
-                    }
-
-                    // 2. Respaldo por título exacto en inglés dentro de la temporada
+                    // Prioridad 1: Búsqueda directa por título exacto en inglés escaneando la temporada
                     if let Ok(s) = s_opt {
                         if !ep_title_en.is_empty() {
                             let season_url = format!(
@@ -140,17 +80,40 @@ async fn fetch_tmdb_still(client: &Client, series_title: &str, season_str: &str,
                             }
                         }
                     }
+
+                    // Prioridad 2: Respaldo por número de episodio
+                    if let (Ok(s), Ok(e)) = (s_opt, e_opt) {
+                        let ep_url = format!(
+                            "https://api.themoviedb.org/3/tv/{}/season/{}/episode/{}?language={}",
+                            tv_id, s, e, tmdb_lang
+                        );
+                        let ep_res = client.get(&ep_url)
+                            .header("accept", "application/json")
+                            .header("Authorization", &auth_header)
+                            .send()
+                            .await;
+
+                        if let Ok(ep_resp) = ep_res {
+                            if ep_resp.status().is_success() {
+                                if let Ok(ep_data) = ep_resp.json::<EpisodeResponse>().await {
+                                    if let Some(mut still) = ep_data.still_path {
+                                        if !still.starts_with('/') {
+                                            still = format!("/{}", still);
+                                        }
+                                        let img_url = format!("https://media.themoviedb.org/t/p/w500{}", still);
+                                        if let Ok(mut cache) = TMDB_CACHE.lock() {
+                                            cache.insert(cache_key, img_url.clone());
+                                        }
+                                        return img_url;
+                                    }
+                                }
+                            }
+                        }
+                    }
                 }
             }
         }
     }
 
     "".to_string()
-}
-
-#[tokio::main]
-async fn main() {
-    println!("==========================================");
-    println!("EPG Rust optimizado con doble validación.");
-    println!("==========================================");
 }
