@@ -39,7 +39,7 @@ TITLE_ALIASES = {
 
 def get_target_dates_to_process():
     now = datetime.now()
-    weekday = now.weekday() # 0: Lunes, 4: Viernes, 5: Sábado, 6: Domingo
+    weekday = now.weekday() # 4: Viernes, 5: Sábado
     dates_to_fetch = [now.strftime("%Y-%m-%d")]
 
     if weekday == 4: # Viernes -> Viernes y Sábado
@@ -51,32 +51,26 @@ def get_target_dates_to_process():
     return list(dict.fromkeys(dates_to_fetch))
 
 def normalize_title(text):
-    if not text:
-        return ""
+    if not text: return ""
     clean_raw = text.lower().strip()
     if clean_raw in TITLE_ALIASES:
         text = TITLE_ALIASES[clean_raw]
-    
     text = re.sub(r'\(.*?\)', '', text)
     nfkd = unicodedata.normalize('NFKD', text)
     no_accent = "".join([c for c in nfkd if not unicodedata.combining(c)])
     clean = no_accent.lower().strip()
-    
     clean = re.sub(r'\b(?:pt\.?|part\.?)\s*(\d+)', r'(\1)', clean)
     clean = re.sub(r's\b', '', clean)
     clean = re.sub(r'[^a-z0-9&]', '', clean)
     return clean
 
 def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", ep_title_es="", lang="es"):
-    if not series_title:
-        return ""
-    
+    if not series_title: return ""
     raw_target = ep_title_en if ep_title_en and ep_title_en.lower() != "nan" else ep_title_es
     lookup_target = TITLE_ALIASES.get(raw_target.lower().strip(), raw_target)
     
     cache_key = f"{series_title}|{season_str}|{ep_str}|{lookup_target}|{lang}"
-    if cache_key in tmdb_cache:
-        return tmdb_cache[cache_key]
+    if cache_key in tmdb_cache: return tmdb_cache[cache_key]
 
     lower_title = series_title.lower()
     if "submarine jim" in lower_title or "el submarino de jim" in lower_title:
@@ -92,15 +86,11 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", ep_title_
         tmdb_cache[cache_key] = img
         return img
 
-    if not TMDB_TOKEN and not TMDB_API_KEY:
-        return ""
-
+    if not TMDB_TOKEN and not TMDB_API_KEY: return ""
     tmdb_lang = "pt-BR" if lang == "pt" else "es-ES"
     headers = {"accept": "application/json"}
-    if TMDB_TOKEN:
-        headers["Authorization"] = f"Bearer {TMDB_TOKEN}"
-    elif TMDB_API_KEY:
-        headers["Authorization"] = f"Bearer {TMDB_API_KEY}"
+    if TMDB_TOKEN: headers["Authorization"] = f"Bearer {TMDB_TOKEN}"
+    elif TMDB_API_KEY: headers["Authorization"] = f"Bearer {TMDB_API_KEY}"
 
     try:
         url_tv = "https://api.themoviedb.org/3/search/tv"
@@ -125,15 +115,12 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", ep_title_
             s_num = None
             if season_str and str(season_str).replace('.', '', 1).isdigit():
                 s_num = int(float(season_str))
-
             norm_target = normalize_title(lookup_target)
             if norm_target:
                 seasons_to_check = []
-                if s_num is not None:
-                    seasons_to_check.append(s_num)
+                if s_num is not None: seasons_to_check.append(s_num)
                 for s in range(1, number_of_seasons + 1):
-                    if s not in seasons_to_check:
-                        seasons_to_check.append(s)
+                    if s not in seasons_to_check: seasons_to_check.append(s)
                 seasons_to_check.append(0)
 
                 found_still = ""
@@ -146,19 +133,14 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", ep_title_
                             if normalize_title(ep_name_raw) == norm_target or norm_target in normalize_title(ep_name_raw):
                                 still_path = ep.get("still_path")
                                 if still_path:
-                                    if not still_path.startswith('/'):
-                                        still_path = '/' + still_path
+                                    if not still_path.startswith('/'): still_path = '/' + still_path
                                     found_still = f"https://media.themoviedb.org/t/p/w500{still_path}"
                                     break
-                    if found_still:
-                        break
-
+                    if found_still: break
                 if found_still:
                     tmdb_cache[cache_key] = found_still
                     return found_still
-    except Exception:
-        pass
-
+    except Exception: pass
     tmdb_cache[cache_key] = ""
     return ""
 
@@ -173,23 +155,17 @@ def login_and_get_token():
 def get_target_months():
     now = datetime.now()
     year_curr, month_curr = now.year, now.month
-    if month_curr == 12:
-        year_next, month_next = year_curr + 1, 1
-    else:
-        year_next, month_next = year_curr, month_curr + 1
+    year_next, month_next = (year_curr + 1, 1) if month_curr == 12 else (year_curr, month_curr + 1)
     return [(year_curr, month_curr), (year_next, month_next)]
 
 def standardize_date_str(date_val):
-    if not date_val or pd.isna(date_val):
-        return ""
+    if not date_val or pd.isna(date_val): return ""
     d_str = str(date_val).strip().split()[0]
     match = re.search(r"(\d{4})[-/](\d{1,2})[-/](\d{1,2})|(\d{1,2})[-/](\d{1,2})[-/](\d{4})", d_str)
     if match:
         groups = match.groups()
-        if groups[0]:
-            y, m, d = int(groups[0]), int(groups[1]), int(groups[2])
-        else:
-            d, m, y = int(groups[3]), int(groups[4]), int(groups[5])
+        if groups[0]: y, m, d = int(groups[0]), int(groups[1]), int(groups[2])
+        else: d, m, y = int(groups[3]), int(groups[4]), int(groups[5])
         return f"{y:04d}-{m:02d}-{d:02d}"
     return d_str
 
@@ -202,21 +178,18 @@ def download_and_load_monthly_rows(token, target_dates, network="CNLA", lang="SP
         "Origin": "https://epg.tapkit.warnermedia.com",
         "Referer": "https://epg.tapkit.warnermedia.com/epg/networks/2"
     }
-
     for year, month in months:
         month_str = f"{month:02d}"
         files_to_check = [
             f"{network}_{year}_{month_str}_grids_{lang}_{feed_type}.xls",
             f"{network}_{year}_{month_str}_grids_{lang}_TVEGO.xlsx"
         ]
-
         for filename in files_to_check:
             path = f"network-files/{network}/{year}/{month_str}/grids/{lang}/{filename}"
             payload = [{"name": filename, "path": path}]
             try:
                 res = http_session.post(MONTHLY_FILES_URL, json=payload, headers=headers, timeout=20)
-                if res.status_code != 200:
-                    continue
+                if res.status_code != 200: continue
                 content_bytes = io.BytesIO(res.content)
                 df_grid = None
                 if zipfile.is_zipfile(content_bytes):
@@ -229,20 +202,17 @@ def download_and_load_monthly_rows(token, target_dates, network="CNLA", lang="SP
                 else:
                     try: df_grid = pd.read_excel(content_bytes)
                     except: df_grid = pd.read_html(content_bytes)[0]
-
                 if df_grid is not None:
                     if not any("Program Name" in str(col) or "Schedule Date" in str(col) for col in df_grid.columns):
                         if len(df_grid) > 0 and any("Program Name" in str(val) for val in df_grid.iloc[0].values):
                             df_grid.columns = df_grid.iloc[0]
                             df_grid = df_grid[1:].reset_index(drop=True)
-
                     for _, row in df_grid.iterrows():
                         date_norm = standardize_date_str(row.get("Schedule Date") or row.get("Date"))
                         if date_norm in target_dates:
                             all_rows.append(row)
-            except Exception:
-                pass
-    return all_rows
+            except Exception: pass
+        return all_rows
 
 NETWORKS_CONFIG = {
     "CNLA_EPG.xml": {
@@ -265,7 +235,7 @@ def sanitize_and_parse_xml(generator_name):
 def format_xmltv_date(dt, tz_str):
     return dt.strftime(f"%Y%m%d%H%M%S {tz_str}")
 
-def process_target_dates(root, feed_cfg, monthly_rows):
+def process_single_day_feed(root, feed_cfg, monthly_rows, target_date_str):
     channel_id = feed_cfg["channel_id"]
     lang = feed_cfg["lang"]
     tz = feed_cfg["tz"]
@@ -274,16 +244,21 @@ def process_target_dates(root, feed_cfg, monthly_rows):
     raw_events = []
     for row in monthly_rows:
         date_raw = str(row.get("Schedule Date") or row.get("Date") or "").strip()
+        date_norm = standardize_date_str(date_raw)
+        
+        # FILTRO ESTRICTO: Solo procesar filas que coincidan exactamente con la fecha objetivo de este ciclo
+        if date_norm != target_date_str:
+            continue
+
         time_raw = str(row.get("Program Start Time") or "").strip()[:5]
-        date_match = re.search(r"(\d{4})[-/](\d{1,2})[-/](\d{1,2})|(\d{1,2})[-/](\d{1,2})[-/](\d{4})", date_raw)
         time_match = re.search(r"(\d{1,2}):(\d{2})", time_raw)
-        if not date_match or not time_match: continue
+        if not time_match: continue
+        date_match = re.search(r"(\d{4})[-/](\d{1,2})[-/](\d{1,2})|(\d{1,2})[-/](\d{1,2})[-/](\d{4})", date_raw)
+        if not date_match: continue
 
         groups = date_match.groups()
-        if groups[0]:
-            y, m, d = int(groups[0]), int(groups[1]), int(groups[2])
-        else:
-            d, m, y = int(groups[3]), int(groups[4]), int(groups[5])
+        if groups[0]: y, m, d = int(groups[0]), int(groups[1]), int(groups[2])
+        else: d, m, y = int(groups[3]), int(groups[4]), int(groups[5])
 
         hh, mm = map(int, time_match.groups())
         event_dt = datetime(y, m, d, hh, mm, 0, tzinfo=tz)
@@ -360,7 +335,7 @@ def process_target_dates(root, feed_cfg, monthly_rows):
 def main():
     token = login_and_get_token()
     target_dates = get_target_dates_to_process()
-    print(f"[INFO] Fechas objetivo calculadas (Regla Inteligente de Anticipación): {target_dates}")
+    print(f"[INFO] Fechas objetivo estrictas: {target_dates}")
 
     feed_type_map = {"CNLA_PAN": "PAN", "CNLA_BR": "BR"}
 
@@ -370,7 +345,10 @@ def main():
             f_type = feed_type_map.get(feed_cfg["feed_id"], "PAN")
             lang_code = "POR" if feed_cfg["lang"] == "pt" else "SPA"
             monthly_rows = download_and_load_monthly_rows(token, target_dates, network="CNLA", lang=lang_code, feed_type=f_type)
-            process_target_dates(root, feed_cfg, monthly_rows)
+            
+            # Procesar cada fecha de forma completamente aislada
+            for d_str in target_dates:
+                process_single_day_feed(root, feed_cfg, monthly_rows, d_str)
 
         sorted_progs = sorted(root.findall("programme"), key=lambda x: x.attrib.get("start", ""))
         for p in list(root.findall("programme")): root.remove(p)
@@ -378,7 +356,7 @@ def main():
 
         ET.indent(root, space="  ", level=0)
         ET.ElementTree(root).write(xml_filename, encoding="utf-8", xml_declaration=True)
-        print(f"[OK] {xml_filename} generado exitosamente con todas las reglas.")
+        print(f"[OK] {xml_filename} generado sin cruces ni desfases.")
 
 if __name__ == "__main__":
     main()
