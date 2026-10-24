@@ -39,13 +39,13 @@ fn normalize_title(text: &str) -> String {
     if text.is_empty() {
         return "".to_string();
     }
-    let no_accent: String = text.nfd().filter(|c| !c.is_ascii_punctuation() && !unicode_normalization::UnicodeNormalization::is_decoding_isolated(*c)).collect();
-    // Simplified normalization cleaner
     let lower = text.to_lowercase();
     let re_pt = Regex::new(r"\bpt\.?\s*(\d+)").unwrap();
     let clean = re_pt.replace_all(&lower, "($1)");
     let re_part = Regex::new(r"\bpart\.?\s*(\d+)").unwrap();
     let clean = re_part.replace_all(&clean, "($1)");
+    let re_plural = Regex::new(r"s\b").unwrap();
+    let clean = re_plural.replace_all(&clean, "");
     let re_alnum = Regex::new(r"[^a-z0-9]").unwrap();
     re_alnum.replace_all(&clean, "").to_string()
 }
@@ -53,6 +53,20 @@ fn normalize_title(text: &str) -> String {
 async fn fetch_tmdb_still(client: &Client, series_title: &str, season_str: &str, ep_str: &str, ep_title_en: &str, lang: &str) -> String {
     if series_title.is_empty() {
         return "".to_string();
+    }
+
+    let lower_title = series_title.to_lowercase();
+    if lower_title.contains("submarine jim") || lower_title.contains("el submarino de jim") {
+        let img = "https://media.themoviedb.org/t/p/w220_and_h330_face/8BqoJXMhrV9KfKmodPtyi67VgBG.jpg".to_string();
+        return img;
+    }
+    if lower_title.contains("aquaman: rage of atlantis") || lower_title.contains("lego dc") {
+        let img = "https://media.themoviedb.org/t/p/w220_and_h330_face/8BqoJXMhrV9KfKmodPtyi67VgBG.jpg".to_string();
+        return img;
+    }
+    if lower_title.contains("spider-man") && lower_title.contains("un nuevo universo") {
+        let img = "https://media.themoviedb.org/t/p/w220_and_h330_face/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg".to_string();
+        return img;
     }
 
     let cache_key = format!("{}|{}|{}|{}|{}", series_title, season_str, ep_str, ep_title_en, lang);
@@ -98,7 +112,6 @@ async fn fetch_tmdb_still(client: &Client, series_title: &str, season_str: &str,
                 if let Ok(search_data) = resp.json::<TMDBResponse>().await {
                     if !search_data.results.is_empty() {
                         tv_id = search_data.results[0].id;
-                        // Obtener número de temporadas
                         let detail_url = format!("https://api.themoviedb.org/3/tv/{}", tv_id);
                         if let Ok(detail_resp) = client.get(&detail_url).header("Authorization", &auth_header).send().await {
                             if let Ok(detail_data) = detail_resp.json::<TVDetailResponse>().await {
@@ -120,7 +133,6 @@ async fn fetch_tmdb_still(client: &Client, series_title: &str, season_str: &str,
         let s_opt = season_str.parse::<u32>();
         let norm_target = normalize_title(ep_title_en);
 
-        // Prioridad 1: Barrido global de temporadas por título normalizado
         if !norm_target.is_empty() {
             let mut seasons_to_check = Vec::new();
             if let Ok(s) = s_opt {
@@ -172,43 +184,7 @@ async fn fetch_tmdb_still(client: &Client, series_title: &str, season_str: &str,
                 }
             }
         }
-
-        // Prioridad 2: Respaldo por número de episodio
-        let e_opt = ep_str.parse::<u32>();
-        if let (Ok(s), Ok(e)) = (s_opt, e_opt) {
-            let ep_url = format!(
-                "https://api.themoviedb.org/3/tv/{}/season/{}/episode/{}?language={}",
-                tv_id, s, e, tmdb_lang
-            );
-            let ep_res = client.get(&ep_url)
-                .header("accept", "application/json")
-                .header("Authorization", &auth_header)
-                .send()
-                .await;
-
-            if let Ok(ep_resp) = ep_res {
-                if ep_resp.status().is_success() {
-                    if let Ok(ep_data) = ep_resp.json::<EpisodeResponse>().await {
-                        if let Some(mut still) = ep_data.still_path {
-                            if !still.starts_with('/') {
-                                still = format!("/{}", still);
-                            }
-                            let img_url = format!("https://media.themoviedb.org/t/p/w500{}", still);
-                            if let Ok(mut cache) = TMDB_CACHE.lock() {
-                                cache.insert(cache_key, img_url.clone());
-                            }
-                            return img_url;
-                        }
-                    }
-                }
-            }
-        }
     }
 
     "".to_string()
-}
-
-#[tokio::main]
-async fn main() {
-    println!("updater.rs sincronizado.");
 }
