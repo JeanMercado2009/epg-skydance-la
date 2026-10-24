@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"net"
 	"net/http"
 	"net/url"
 	"os"
@@ -11,6 +12,20 @@ import (
 )
 
 var tmdbCache = make(map[string]string)
+
+// Cliente HTTP con conexiones persistentes optimizadas para velocidad
+var httpClient = &http.Client{
+	Timeout: 5 * time.Second,
+	Transport: &http.Transport{
+		DialContext: (&net.Dialer{
+			Timeout:   3 * time.Second,
+			KeepAlive: 30 * time.Second,
+		}).DialContext,
+		MaxIdleConns:        100,
+		MaxIdleConnsPerHost: 20,
+		IdleConnTimeout:     90 * time.Second,
+	},
+}
 
 type TMDBResponse struct {
 	Results []struct {
@@ -27,10 +42,7 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr string) string {
 	if seriesTitle == "" {
 		return ""
 	}
-	cleanTitle := strings.Split(seriesTitle, ":")[0]
-	cleanTitle = strings.Split(cleanTitle, "-")[0]
-	cleanTitle = strings.TrimSpace(cleanTitle)
-
+	cleanTitle := strings.TrimSpace(strings.Split(strings.Split(seriesTitle, ":")[0], "-")[0])
 	cacheKey := fmt.Sprintf("%s|%s|%s", cleanTitle, seasonStr, epStr)
 	if val, ok := tmdbCache[cacheKey]; ok {
 		return val
@@ -42,9 +54,7 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr string) string {
 		return ""
 	}
 
-	client := &http.Client{Timeout: 5 * time.Second}
 	apiURL := fmt.Sprintf("https://api.themoviedb.org/3/search/tv?query=%s&language=es-ES", url.QueryEscape(cleanTitle))
-
 	req, err := http.NewRequest("GET", apiURL, nil)
 	if err != nil {
 		return ""
@@ -56,7 +66,7 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr string) string {
 		req.Header.Set("Authorization", "Bearer "+apiKey)
 	}
 
-	resp, err := client.Do(req)
+	resp, err := httpClient.Do(req)
 	if err != nil || resp.StatusCode != 200 {
 		return ""
 	}
@@ -68,7 +78,6 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr string) string {
 	}
 
 	tvID := searchRes.Results[0].ID
-
 	if seasonStr != "" && epStr != "" {
 		epURL := fmt.Sprintf("https://api.themoviedb.org/3/tv/%d/season/%s/episode/%s?language=es-ES", tvID, seasonStr, epStr)
 		epReq, err := http.NewRequest("GET", epURL, nil)
@@ -76,7 +85,7 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr string) string {
 			if token != "" {
 				epReq.Header.Set("Authorization", "Bearer "+token)
 			}
-			epResp, err := client.Do(epReq)
+			epResp, err := httpClient.Do(epReq)
 			if err == nil && epResp.StatusCode == 200 {
 				var epData TMDBEpisode
 				if json.NewDecoder(epResp.Body).Decode(&epData) == nil && epData.StillPath != "" {
@@ -100,6 +109,6 @@ func FetchTmdbStill(seriesTitle, seasonStr, epStr string) string {
 
 func main() {
 	fmt.Println("==========================================")
-	fmt.Println("EPG Updater Golang Listo con soporte TMDB")
+	fmt.Println("EPG Golang optimizado con Pooling HTTP y Localbreaks")
 	fmt.Println("==========================================")
 }
