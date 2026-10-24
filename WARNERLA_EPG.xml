@@ -21,37 +21,6 @@
   <channel id="WARNER_MX.mx">
     <display-name>Warner Channel México</display-name>
   </channel>
-  <programme start="20261019115800 -0600" stop="20261019122200 -0600" channel="WARNER_MX.mx">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">SKUNK, DOG CRAP AND KETCHUP</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-  </programme>
-  <programme start="20261019120300 -0500" stop="20261019140300 -0500" channel="WARNER_CO.co">
-    <title lang="es">Sin Límites</title>
-    <sub-title lang="es">Limitless</sub-title>
-    <desc lang="es">Eddie Morra está seguro de que no tiene futuro. Cuando un viejo amigo le da una droga que produce una mayor agudeza mental, Eddie asciende a la cima del mundo financiero y atrae la atención de un magnate que intenta usarlo para hacer una fortuna.</desc>
-  </programme>
-  <programme start="20261019122200 -0600" stop="20261019124500 -0600" channel="WARNER_MX.mx">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">LOOKING FOR JAPANESE SUBS</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-  </programme>
-  <programme start="20261019124500 -0600" stop="20261019131500 -0600" channel="WARNER_MX.mx">
-    <title lang="es">COBRA KAI: SEASON 2</title>
-    <sub-title lang="es">LULL</sub-title>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-    <desc lang="es">Enemigos acérrimos. Dojos rivales. Sangre fresca. En esta secuela de las películas de ‘Karate Kid’, Daniel y Johnny reavivan viejas rencillas en el West Valley.</desc>
-  </programme>
-  <programme start="20261019130000 -0400" stop="20261019145200 -0400" channel="WARNER_VE.ve">
-    <title lang="es">Sin Límites</title>
-    <sub-title lang="es">Limitless</sub-title>
-    <desc lang="es">Eddie Morra está seguro de que no tiene futuro. Cuando un viejo amigo le da una droga que produce una mayor agudeza mental, Eddie asciende a la cima del mundo financiero y atrae la atención de un magnate que intenta usarlo para hacer una fortuna.</desc>
-  </programme>
-  <programme start="20261019130100 -0400" stop="20261019145500 -0400" channel="WARNER_CL.cl">
-    <title lang="es">Sin Límites</title>
-    <sub-title lang="es">Limitless</sub-title>
-    <desc lang="es">Eddie Morra está seguro de que no tiene futuro. Cuando un viejo amigo le da una droga que produce una mayor agudeza mental, Eddie asciende a la cima del mundo financiero y atrae la atención de un magnate que intenta usarlo para hacer una fortuna.</desc>
-  </programme>
   <programme start="20261019130500 -0500" stop="20261019145800 -0500" channel="WARNER_AN.co">
     <title lang="es">Sin Límites</title>
     <sub-title lang="es">Limitless</sub-title>
@@ -65,15 +34,6 @@
   <programme start="20261019140300 -0500" stop="20261019155400 -0500" channel="WARNER_CO.co">
     <title lang="es">Shrek 2</title>
     <desc lang="es">Los padres de la princesa Fiona la invitan con Shrek a una cena para celebrar su boda. Si tan solo supieran que ambos recién casados son ogros...</desc>
-  </programme>
-  <programme start="20261019143200 -0300" stop="20261019161500 -0300" channel="WARNER_AR.ar">
-    <title lang="es">Shrek 2</title>
-    <desc lang="es">Los padres de la princesa Fiona la invitan con Shrek a una cena para celebrar su boda. Si tan solo supieran que ambos recién casados son ogros...</desc>
-  </programme>
-  <programme start="20261019144800 -0300" stop="20261019151100 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">A GOOD TIME IN CENTRAL AFRICA</sub-title>
-    <desc lang="pt">Charlie fica obcecado pela substituta de Berta; e Alan pensa que está sendo perseguido pelo ex-marido de Lyndsay.</desc>
   </programme>
   <programme start="20261019145200 -0400" stop="20261019162700 -0400" channel="WARNER_VE.ve">
     <title lang="es">Shrek 2</title>
@@ -90,16 +50,6 @@
   <programme start="20261019150200 -0600" stop="20261019163500 -0600" channel="WARNER_MX.mx">
     <title lang="es">Shrek 2</title>
     <desc lang="es">Los padres de la princesa Fiona la invitan con Shrek a una cena para celebrar su boda. Si tan solo supieran que ambos recién casados son ogros...</desc>
-  </programme>
-  <programme start="20261019151100 -0300" stop="20261019153400 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">OW, OW, DON'T STOP</sub-title>
-    <desc lang="pt">Courtney, uma ex-namorada de Charlie, sai da prisão. Enquanto Alan se preocupa pela possibilidade de ser novamente estafado por ela, Charlie faz de tudo para agradá-la.</desc>
-  </programme>
-  <programme start="20261019153400 -0300" stop="20261019155900 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">DEAD FROM THE WAIST DOWN</sub-title>
-    <desc lang="pt">Alan tenta dar um bom presente de aniversário para Lindsey.</desc>
   </programme>
   <programme start="20261019155400 -0500" stop="20261019174200 -0500" channel="WARNER_CO.co">
     <title lang="es">Shrek Tercero</title>
