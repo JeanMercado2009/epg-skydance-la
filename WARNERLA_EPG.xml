@@ -21,21 +21,6 @@
   <channel id="WARNER_MX.mx">
     <display-name>Warner Channel México</display-name>
   </channel>
-  <programme start="20261018201900 -0600" stop="20261018220000 -0600" channel="WARNER_MX.mx">
-    <title lang="es">Shrek para Siempre</title>
-    <sub-title lang="es">Shrek Forever After</sub-title>
-    <desc lang="es">Con el deseo de volver a los tiempos en los que era un aterrador y despreocupado ogro, Shrek firma un contrato con el malvado y ambicioso Rumpelstiltskin para volver a ser el mismo de antes. Sin embargo, el pacto termina revolucionando su vida y la de los que lo rodean. Ahora Shrek tiene sólo veinticuatro horas para recuperar a sus amigos y esposa y revertir el contrato para recobrar su vida y salvar a su reino del malvado villano.</desc>
-  </programme>
-  <programme start="20261018220000 -0400" stop="20261019001300 -0400" channel="WARNER_CL.cl">
-    <title lang="es">Luna de Miel en Familia</title>
-    <sub-title lang="es">Blended</sub-title>
-    <desc lang="es">Por problemas económicos, una pareja de recién casados no tiene más remedio que ir a vivirse temporalmente con los padres de él. Y claro, la luna de miel en casa de padres y suegros se prolonga demasiado.</desc>
-  </programme>
-  <programme start="20261018220000 -0400" stop="20261019001500 -0400" channel="WARNER_VE.ve">
-    <title lang="es">Luna de Miel en Familia</title>
-    <sub-title lang="es">Blended</sub-title>
-    <desc lang="es">Por problemas económicos, una pareja de recién casados no tiene más remedio que ir a vivirse temporalmente con los padres de él. Y claro, la luna de miel en casa de padres y suegros se prolonga demasiado.</desc>
-  </programme>
   <programme start="20261018220000 -0500" stop="20261019002800 -0500" channel="WARNER_CO.co">
     <title lang="es">Luna de Miel en Familia</title>
     <sub-title lang="es">Blended</sub-title>
@@ -51,32 +36,12 @@
     <sub-title lang="es">Blended</sub-title>
     <desc lang="es">Por problemas económicos, una pareja de recién casados no tiene más remedio que ir a vivirse temporalmente con los padres de él. Y claro, la luna de miel en casa de padres y suegros se prolonga demasiado.</desc>
   </programme>
-  <programme start="20261018223000 -0300" stop="20261019004300 -0300" channel="WARNER_BR.br">
-    <title lang="pt">Juntos e Misturados</title>
-    <sub-title lang="pt">Blended</sub-title>
-    <desc lang="pt">Jim é um atrapalhado vendedor viúvo. Lauren é uma organizadora de armários recém-separada e uma mulher à beira de um ataque de nervos. Em comum, possuem apenas o fato de criarem seus filhos sozinhos. Entretanto, quando Jen, a sócia de Lauren, desiste de uma viagem à África com o namorado e seus cinco filhos, surge a oportunidade para que Lauren desfrute do passeio de luxo ao lado de Brendan e Tyler, seus filhos. Jim e suas três filhas também vão para o local na mesma época. Anos depois de um desastroso e bizarro encontro às cegas, os dois se reencontram, mas isso é a última coisa que desejavam. Enquanto passam a se conhecer, a atração entre eles aumenta e quem vai se aproveitar da situação são os respectivos filhos.</desc>
-  </programme>
-  <programme start="20261019001100 -0300" stop="20261019003700 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">VEGAS RENORMALIZATION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
   <programme start="20261019001100 -0500" stop="20261019003600 -0500" channel="WARNER_AN.co">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">VEGAS RENORMALIZATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
   <programme start="20261019001100 -0600" stop="20261019003500 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">VEGAS RENORMALIZATION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
-  <programme start="20261019001300 -0400" stop="20261019003800 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">VEGAS RENORMALIZATION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
-  <programme start="20261019001500 -0400" stop="20261019003900 -0400" channel="WARNER_VE.ve">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">VEGAS RENORMALIZATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
@@ -96,11 +61,6 @@
     <sub-title lang="es">CLASSIFIED MATERIALS TURBULENCE, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
-  <programme start="20261019003700 -0300" stop="20261019010000 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">CLASSIFIED MATERIALS TURBULENCE, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
   <programme start="20261019003800 -0400" stop="20261019010000 -0400" channel="WARNER_CL.cl">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">CLASSIFIED MATERIALS TURBULENCE, THE</sub-title>
@@ -110,11 +70,6 @@
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">CLASSIFIED MATERIALS TURBULENCE, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
-  <programme start="20261019004300 -0300" stop="20261019010800 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">LIZARD-SPOCK EXPANSION, THE</sub-title>
-    <desc lang="pt">Wolowitz fica completamente encantado e alucinado com uma belíssima garota (Sara Rue) que parece estar interessada em Leonard.</desc>
   </programme>
   <programme start="20261019005300 -0500" stop="20261019011400 -0500" channel="WARNER_CO.co">
     <title lang="es">THE BIG BANG THEORY</title>
@@ -136,20 +91,10 @@
     <sub-title lang="es">MONOPOLAR EXPEDITION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
-  <programme start="20261019010000 -0300" stop="20261019012400 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">MONOPOLAR EXPEDITION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
   <programme start="20261019010000 -0400" stop="20261019012300 -0400" channel="WARNER_CL.cl">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">MONOPOLAR EXPEDITION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
-  <programme start="20261019010800 -0300" stop="20261019013200 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">WHITE ASPARAGUS TRIANGULATION, THE</sub-title>
-    <desc lang="pt">Sheldon não consegue esconder sua emoção quando Leonard finalmente decide sair com Stephanie (Sara Rue), uma garota que até agora cumpre com os múltiplos - e impossíveis - requisitos que Leonard exige.</desc>
   </programme>
   <programme start="20261019011400 -0500" stop="20261019013800 -0500" channel="WARNER_CO.co">
     <title lang="es">THE BIG BANG THEORY</title>
@@ -172,11 +117,6 @@
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
   <programme start="20261019012300 -0400" stop="20261019014700 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">ELECTRIC CAN OPENER FLUCTUATION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
-  <programme start="20261019012400 -0300" stop="20261019014900 -0300" channel="WARNER_AR.ar">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">ELECTRIC CAN OPENER FLUCTUATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
