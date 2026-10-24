@@ -61,14 +61,15 @@ def fetch_tmdb_still(series_title, season_str, ep_str):
                     if still_path:
                         if not still_path.startswith('/'):
                             still_path = '/' + still_path
-                        img_url = f"https://image.tmdb.org/t5/p/w500{still_path}"
+                        # Uso explícito de media.themoviedb.org
+                        img_url = f"https://media.themoviedb.org/t/p/w500{still_path}"
                         tmdb_cache[cache_key] = img_url
                         return img_url
             poster_path = res.json()["results"][0].get("poster_path")
             if poster_path:
                 if not poster_path.startswith('/'):
                     poster_path = '/' + poster_path
-                img_url = f"https://image.tmdb.org/t5/p/w500{poster_path}"
+                img_url = f"https://media.themoviedb.org/t/p/w500{poster_path}"
                 tmdb_cache[cache_key] = img_url
                 return img_url
     except Exception:
@@ -78,7 +79,6 @@ def fetch_tmdb_still(series_title, season_str, ep_str):
     return ""
 
 def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"):
-    """Descarga y procesa los reportes de pausas comerciales (Cue Tone Reports) de Tapkit"""
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {token}",
