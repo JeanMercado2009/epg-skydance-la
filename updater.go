@@ -3,8 +3,6 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"io"
-	"log"
 	"net/http"
 	"net/url"
 	"os"
@@ -12,75 +10,92 @@ import (
 	"time"
 )
 
-// -------------------------------------------------------------
-// CONFIGURACIÓN GENERAL Y CANALES
-// -------------------------------------------------------------
-const AuthURL = "https://epg.tapkit.warnermedia.com/api/security/oauth/token"
-const BaseDailyURL = "https://epg.tapkit.warnermedia.com/api/daily/shows?feedId=%s&format=xls"
+var tmdbCache = make(map[string]string)
 
-type TokenResponse struct {
-	AccessToken string `json:"access_token"`
+type TMDBResponse struct {
+	Results []struct {
+		ID         int    `json:"id"`
+		PosterPath string `json:"poster_path"`
+	} `json:"results"`
 }
 
-func LoginAndGetToken() (string, error) {
-	email := strings.TrimSpace(os.Getenv("TAPKIT_EMAIL"))
-	password := strings.TrimSpace(os.Getenv("TAPKIT_PASSWORD"))
+type TMDBEpisode struct {
+	StillPath string `json:"still_path"`
+}
 
-	if email == "" || password == "" {
-		return "", fmt.Errorf("faltan TAPKIT_EMAIL o TAPKIT_PASSWORD en los Secrets de GitHub")
+func FetchTmdbStill(seriesTitle, seasonStr, epStr string) string {
+	if seriesTitle == "" {
+		return ""
+	}
+	cleanTitle := strings.Split(seriesTitle, ":")[0]
+	cleanTitle = strings.Split(cleanTitle, "-")[0]
+	cleanTitle = strings.TrimSpace(cleanTitle)
+
+	cacheKey := fmt.Sprintf("%s|%s|%s", cleanTitle, seasonStr, epStr)
+	if val, ok := tmdbCache[cacheKey]; ok {
+		return val
 	}
 
-	data := url.Values{}
-	data.Set("grant_type", "password")
-	data.Set("scope", "any")
-	data.Set("username", email)
-	data.Set("password", password)
+	token := strings.TrimSpace(os.Getenv("TMDB_TOKEN"))
+	apiKey := strings.TrimSpace(os.Getenv("TMDB_API_KEY"))
+	if token == "" && apiKey == "" {
+		return ""
+	}
 
-	req, err := http.NewRequest("POST", AuthURL, strings.NewReader(data.Encode()))
+	client := &http.Client{Timeout: 5 * time.Second}
+	apiURL := fmt.Sprintf("https://api.themoviedb.org/3/search/tv?query=%s&language=es-ES", url.QueryEscape(cleanTitle))
+
+	req, err := http.NewRequest("GET", apiURL, nil)
 	if err != nil {
-		return "", err
+		return ""
+	}
+	req.Header.Set("accept", "application/json")
+	if token != "" {
+		req.Header.Set("Authorization", "Bearer "+token)
+	} else if apiKey != "" {
+		req.Header.Set("Authorization", "Bearer "+apiKey)
 	}
 
-	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64)")
-	req.Header.Set("Content-Type", "application/x-www-form-urlencoded")
-	req.Header.Set("Origin", "https://epg.tapkit.warnermedia.com")
-	req.Header.Set("Referer", "https://epg.tapkit.warnermedia.com/login")
-
-	client := &http.Client{Timeout: 30 * time.Second}
 	resp, err := client.Do(req)
-	if err != nil {
-		return "", err
+	if err != nil || resp.StatusCode != 200 {
+		return ""
 	}
 	defer resp.Body.Close()
 
-	if resp.StatusCode != http.StatusOK {
-		bodyBytes, _ := io.ReadAll(resp.Body)
-		return "", fmt.Errorf("error en login HTTP %d: %s", resp.StatusCode, string(bodyBytes))
+	var searchRes TMDBResponse
+	if json.NewDecoder(resp.Body).Decode(&searchRes) != nil || len(searchRes.Results) == 0 {
+		return ""
 	}
 
-	var tokenResp TokenResponse
-	if err := json.NewDecoder(resp.Body).Decode(&tokenResp); err != nil {
-		return "", err
+	tvID := searchRes.Results[0].ID
+
+	// Intentar obtener imagen de episodio específico si hay números de temporada/episodio
+	if seasonStr != "" && epStr != "" {
+		epURL := fmt.Sprintf("https://api.themoviedb.org/3/tv/%d/season/%s/episode/%s?language=es-ES", tvID, seasonStr, epStr)
+		epReq, err := http.NewRequest("GET", epURL, nil)
+		if err == nil {
+			if token != "" {
+				epReq.Header.Set("Authorization", "Bearer "+token)
+			}
+			epResp, err := client.Do(epReq)
+			if err == nil && epResp.StatusCode == 200 {
+				var epData TMDBEpisode
+				if json.NewDecoder(epResp.Body).Decode(&epData) == nil && epData.StillPath != "" {
+					imgURL := "https://image.tmdb.org/t5/p/w500" + epData.StillPath
+					tmdbCache[cacheKey] = imgURL
+					return imgURL
+				}
+			}
+		}
 	}
 
-	if tokenResp.AccessToken == "" {
-		return "", fmt.Errorf("no se encontró access_token en la respuesta")
+	// Respaldo con póster general
+	if searchRes.Results[0].PosterPath != "" {
+		imgURL := "https://image.tmdb.org/t5/p/w500" + searchRes.Results[0].PosterPath
+		tmdbCache[cacheKey] = imgURL
+		return imgURL
 	}
 
-	fmt.Println("[OK] Sesión iniciada y token obtenido exitosamente en Go.")
-	return tokenResp.AccessToken, nil
-}
-
-func main() {
-	fmt.Println("==========================================")
-	fmt.Println("Iniciando EPG Updater en Golang (Go)")
-	fmt.Println("==========================================")
-
-	token, err := LoginAndGetToken()
-	if err != nil {
-		log.Fatalf("[ERROR CRÍTICO] %v", err)
-	}
-
-	// Aquí puedes continuar con la lógica de descarga de feeds XLS y procesamiento XML
-	fmt.Printf("[OK] Token listo para usar: %s...\n", token[:15])
+	tmdbCache[cacheKey] = ""
+	return ""
 }
