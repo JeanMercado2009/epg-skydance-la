@@ -45,9 +45,9 @@ async function fetchTmdbStill(seriesTitle, seasonStr, epStr) {
                     });
                     let stillPath = epRes.data && epRes.data.still_path;
                     if (stillPath) {
-                        // Asegurar slash inicial correcto
-                        if (!stillPath.startsWith('/')) stillPath = '/' + stillPath;
-                        const img = `https://image.tmdb.org/t5/p/w500${stillPath}`;
+                        if (!stillPath.startswith('/')) stillPath = '/' + stillPath;
+                        // Uso explícito de media.themoviedb.org
+                        const img = `https://media.themoviedb.org/t/p/w500${stillPath}`;
                         tmdbCache[cacheKey] = img;
                         return img;
                     }
@@ -55,8 +55,8 @@ async function fetchTmdbStill(seriesTitle, seasonStr, epStr) {
             }
             let posterPath = results[0].poster_path;
             if (posterPath) {
-                if (!posterPath.startsWith('/')) posterPath = '/' + posterPath;
-                const img = `https://image.tmdb.org/t5/p/w500${posterPath}`;
+                if (!posterPath.startswith('/')) posterPath = '/' + posterPath;
+                const img = `https://media.themoviedb.org/t/p/w500${posterPath}`;
                 tmdbCache[cacheKey] = img;
                 return img;
             }
@@ -69,7 +69,7 @@ async function fetchTmdbStill(seriesTitle, seasonStr, epStr) {
 
 async function main() {
     console.log("==========================================");
-    console.log("EPG Node.js optimizado con TMDB y Localbreaks listo.");
+    console.log("EPG Node.js optimizado con TMDB (media.themoviedb.org) listo.");
     console.log("==========================================");
 }
 
