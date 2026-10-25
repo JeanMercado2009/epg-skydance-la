@@ -50,7 +50,7 @@ def get_target_dates_to_process():
     elif weekday == 5: # Sábado -> Sábado, Domingo y Lunes
         dates_to_fetch.append((now + timedelta(days=1)).strftime("%Y-%m-%d"))
         dates_to_fetch.append((now + timedelta(days=2)).strftime("%Y-%m-%d"))
-    # Domingo (6), Lunes (0), Martes (1), Miércoles (2), Jueves (3) procesan ÚNICAMENTE su día actual.
+    # Domingo, Lunes, Martes, Miércoles y Jueves procesan ÚNICAMENTE su día actual.
         
     return list(dict.fromkeys(dates_to_fetch))
 
@@ -173,7 +173,7 @@ def standardize_date_str(date_val):
         return f"{y:04d}-{m:02d}-{d:02d}"
     return d_str
 
-def download_and_load_monthly_rows(token, target_dates, network="CNLA", lang="SPA", feed_type="PAN"):
+def download_and_load_monthly_rows(token, target_dates, network_code="CNLA", lang="SPA", feed_type="PAN"):
     months = get_target_months()
     all_rows = []
     headers = {
@@ -185,11 +185,11 @@ def download_and_load_monthly_rows(token, target_dates, network="CNLA", lang="SP
     for year, month in months:
         month_str = f"{month:02d}"
         files_to_check = [
-            f"{network}_{year}_{month_str}_grids_{lang}_{feed_type}.xls",
-            f"{network}_{year}_{month_str}_grids_{lang}_TVEGO.xlsx"
+            f"{network_code}_{year}_{month_str}_grids_{lang}_{feed_type}.xls",
+            f"{network_code}_{year}_{month_str}_grids_{lang}_TVEGO.xlsx"
         ]
         for filename in files_to_check:
-            path = f"network-files/{network}/{year}/{month_str}/grids/{lang}/{filename}"
+            path = f"network-files/{network_code}/{year}/{month_str}/grids/{lang}/{filename}"
             payload = [{"name": filename, "path": path}]
             try:
                 res = http_session.post(MONTHLY_FILES_URL, json=payload, headers=headers, timeout=20)
@@ -212,22 +212,44 @@ def download_and_load_monthly_rows(token, target_dates, network="CNLA", lang="SP
             except Exception: pass
     return all_rows
 
+# RESTAURACIÓN COMPLETA DE TODOS TUS CANALES Y REDES
 NETWORKS_CONFIG = {
     "CNLA_EPG.xml": {
         "generator_name": "Guia de Programacion Cartoon Network MultiFeed",
+        "network": "CNLA",
         "feeds": [
             {"feed_id": "CNLA_PAN", "channel_id": "CNLA_PAN.co", "channel_name": "Cartoon Network Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
             {"feed_id": "CNLA_BR", "channel_id": "CNLA_BR.br", "channel_name": "Cartoon Network Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"}
         ]
+    },
+    "WB_EPG.xml": {
+        "generator_name": "Guia de Programacion Warner Channel",
+        "network": "WB",
+        "feeds": [
+            {"feed_id": "WB_PAN", "channel_id": "WB_PAN.co", "channel_name": "Warner Channel Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"}
+        ]
+    },
+    "TNT_EPG.xml": {
+        "generator_name": "Guia de Programacion TNT",
+        "network": "TNT",
+        "feeds": [
+            {"feed_id": "TNT_PAN", "channel_id": "TNT_PAN.co", "channel_name": "TNT Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"}
+        ]
+    },
+    "DK_EPG.xml": {
+        "generator_name": "Guia de Programacion Discovery Kids",
+        "network": "DK",
+        "feeds": [
+            {"feed_id": "DK_PAN", "channel_id": "DK_PAN.co", "channel_name": "Discovery Kids Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"}
+        ]
     }
 }
 
-def sanitize_and_parse_xml(generator_name):
+def sanitize_and_parse_xml(generator_name, feeds_config):
     root = ET.Element("tv", {"generator-info-name": generator_name})
-    pan = ET.SubElement(root, "channel", {"id": "CNLA_PAN.co"})
-    ET.SubElement(pan, "display-name").text = "Cartoon Network Panregional"
-    br = ET.SubElement(root, "channel", {"id": "CNLA_BR.br"})
-    ET.SubElement(br, "display-name").text = "Cartoon Network Brasil"
+    for feed_cfg in feeds_config:
+        ch = ET.SubElement(root, "channel", {"id": feed_cfg["channel_id"]})
+        ET.SubElement(ch, "display-name").text = feed_cfg["channel_name"]
     return root
 
 def format_xmltv_date(dt, tz_str):
@@ -342,14 +364,16 @@ def main():
     target_dates = get_target_dates_to_process()
     print(f"[INFO] Fechas objetivo estrictas (Hora Colombia): {target_dates}")
 
-    feed_type_map = {"CNLA_PAN": "PAN", "CNLA_BR": "BR"}
+    feed_type_map = {"CNLA_PAN": "PAN", "CNLA_BR": "BR", "WB_PAN": "PAN", "TNT_PAN": "PAN", "DK_PAN": "PAN"}
 
     for xml_filename, net_config in NETWORKS_CONFIG.items():
-        root = sanitize_and_parse_xml(net_config["generator_name"])
+        network_code = net_config["network"]
+        root = sanitize_and_parse_xml(net_config["generator_name"], net_config["feeds"])
+        
         for feed_cfg in net_config["feeds"]:
             f_type = feed_type_map.get(feed_cfg["feed_id"], "PAN")
             lang_code = "POR" if feed_cfg["lang"] == "pt" else "SPA"
-            monthly_rows = download_and_load_monthly_rows(token, target_dates, network="CNLA", lang=lang_code, feed_type=f_type)
+            monthly_rows = download_and_load_monthly_rows(token, target_dates, network_code=network_code, lang=lang_code, feed_type=f_type)
             
             for d_str in target_dates:
                 process_single_day_feed(root, feed_cfg, monthly_rows, d_str)
@@ -360,7 +384,7 @@ def main():
 
         ET.indent(root, space="  ", level=0)
         ET.ElementTree(root).write(xml_filename, encoding="utf-8", xml_declaration=True)
-        print(f"[OK] {xml_filename} generado correctamente.")
+        print(f"[OK] {xml_filename} generado correctamente para todos sus canales.")
 
 if __name__ == "__main__":
     main()
