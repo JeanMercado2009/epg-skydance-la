@@ -20,9 +20,6 @@ LOCAL_BREAKS_URL = "https://epg.tapkit.warnermedia.com/api/epg/tapkitLocalBreaks
 TMDB_API_KEY = os.environ.get("TMDB_API_KEY", "").strip()
 TMDB_TOKEN = os.environ.get("TMDB_TOKEN", "").strip()
 
-# FORZAR ZONA HORARIA DE COLOMBIA (-5) PARA EVITAR DESFASES CON UTC DE GITHUB
-COLOMBIA_TZ = timezone(timedelta(hours=-5))
-
 # Sesión HTTP global persistente para máxima velocidad (Connection Pooling)
 http_session = requests.Session()
 http_session.headers.update({
@@ -31,20 +28,6 @@ http_session.headers.update({
 })
 
 tmdb_cache = {}
-
-def get_target_dates_to_process(is_cartoon_network=False):
-    now = datetime.now(COLOMBIA_TZ)
-    weekday = now.weekday() # 0: Lun, 1: Mar, 2: Mié, 3: Jue, 4: Vie, 5: Sáb, 6: Dom
-    dates_to_fetch = [now.strftime("%Y-%m-%d")]
-
-    if is_cartoon_network:
-        if weekday == 4: # Viernes -> Viernes y Sábado
-            dates_to_fetch.append((now + timedelta(days=1)).strftime("%Y-%m-%d"))
-        elif weekday == 5: # Sábado -> Sábado, Domingo y Lunes
-            dates_to_fetch.append((now + timedelta(days=1)).strftime("%Y-%m-%d"))
-            dates_to_fetch.append((now + timedelta(days=2)).strftime("%Y-%m-%d"))
-        
-    return list(dict.fromkeys(dates_to_fetch))
 
 def fetch_tmdb_still(series_title, season_str, ep_str):
     if not series_title:
@@ -233,7 +216,7 @@ def login_and_get_token():
     return token
 
 def get_target_months():
-    now = datetime.now(COLOMBIA_TZ)
+    now = datetime.now()
     year_curr, month_curr = now.year, now.month
     if month_curr == 12:
         year_next, month_next = year_curr + 1, 1
@@ -325,7 +308,7 @@ def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_t
     return combined_dict
 
 def download_discovery_kids_feed(token, feed_key):
-    now = datetime.now(COLOMBIA_TZ)
+    now = datetime.now()
     year_short = str(now.year)[-2:]
     month_curr = now.month
     start_m = month_curr if month_curr % 2 != 0 else month_curr - 1
@@ -352,6 +335,102 @@ def download_discovery_kids_feed(token, feed_key):
                 if z_name.endswith((".xlsx", ".xls")):
                     with z.open(z_name) as f: return pd.read_excel(f)
     return pd.read_excel(content_bytes)
+
+def process_discovery_kids_feed(root, feed_cfg, df, token=None):
+    channel_id = feed_cfg["channel_id"]
+    channel_name = feed_cfg["channel_name"]
+    lang = feed_cfg["lang"]
+    tz = feed_cfg["tz"]
+    tz_str = feed_cfg["tz_str"]
+
+    if not any(ch.attrib.get("id") == channel_id for ch in root.findall("channel")):
+        ch_node = ET.SubElement(root, "channel", {"id": channel_id})
+        ET.SubElement(ch_node, "display-name").text = channel_name
+
+    cols = {str(c).strip(): c for c in df.columns}
+    col_date = find_column(cols, ["Schedule Date", "Date", "Fecha"]) or df.columns[0]
+    col_time = find_column(cols, ["Program Start Time", "Title Start Time", "Start Time", "Hora"]) or df.columns[1]
+    col_title = find_column(cols, ["Program Name", "Title Name", "Title", "Programa"]) or df.columns[2]
+    col_ep_name = find_column(cols, ["Episode Title(ESPA)", "Episode Title (ESPA)", "Episode Title(PORT)", "Episode Name English", "Episode Name", "Sub-title"])
+    col_season = find_column(cols, ["Season", "Season Number", "Temporada"])
+    col_ep_num = find_column(cols, ["Episode", "Episode Number", "Episodio"])
+    col_desc = find_column(cols, ["Program Sinopsis Prensa(ESPA)", "Program Sinopsis Prensa(PORT)", "Title Synopsis", "Synopsis", "Description"])
+
+    now_local = datetime.now(tz)
+    cycle_start = datetime(now_local.year, now_local.month, now_local.day, 6, 0, 0, tzinfo=tz)
+    cycle_end = cycle_start + timedelta(days=1)
+
+    raw_events = []
+    for _, row in df.iterrows():
+        date_raw = str(row.get(col_date, "")).strip()
+        time_raw = str(row.get(col_time, "")).strip()
+        date_match = re.search(r"(\d{1,2})[-/](\d{1,2})[-/](\d{4})", date_raw)
+        time_match = re.search(r"(\d{1,2}):(\d{2})", time_raw)
+        if not time_match and date_match: time_match = re.search(r"(\d{1,2}):(\d{2})", date_raw)
+        if not date_match or not time_match: continue
+
+        d, m, y = map(int, date_match.groups())
+        hh, mm = map(int, time_match.groups())
+        event_dt = datetime(y, m, d, hh, mm, 0, tzinfo=tz)
+        
+        prog_name_val = str(row.get(col_title, "")).strip() if pd.notna(row.get(col_title)) else ""
+        ep_name_val = str(row.get(col_ep_name, "")).strip() if col_ep_name and pd.notna(row.get(col_ep_name)) else ""
+        season_val = str(row.get(col_season, "")).strip() if col_season and pd.notna(row.get(col_season)) else ""
+        ep_num_val = str(row.get(col_ep_num, "")).strip() if col_ep_num and pd.notna(row.get(col_ep_num)) else ""
+        desc_val = str(row.get(col_desc, "")).strip() if col_desc and pd.notna(row.get(col_desc)) else ""
+
+        xmltv_season_ep = ""
+        try:
+            s_num = int(float(season_val)) - 1 if season_val.replace('.', '', 1).isdigit() else ""
+            e_num = int(float(ep_num_val)) - 1 if ep_num_val.replace('.', '', 1).isdigit() else ""
+            if s_num != "" and e_num != "": xmltv_season_ep = f"{s_num}.{e_num}."
+            elif e_num != "": xmltv_season_ep = f".{e_num}."
+        except: pass
+
+        if not desc_val and prog_name_val:
+            desc_val = fetch_tmdb_synopsis(prog_name_val)
+
+        icon_url = fetch_tmdb_still(prog_name_val, season_val, ep_num_val) if prog_name_val else ""
+
+        raw_events.append({
+            "start": event_dt,
+            "title": prog_name_val if prog_name_val.lower() != "nan" else "DISCOVERY KIDS",
+            "sub_title": ep_name_val if ep_name_val and ep_name_val.lower() != "nan" and ep_name_val.lower() != prog_name_val.lower() else "",
+            "episode_num": xmltv_season_ep,
+            "desc": desc_val if desc_val.lower() != "nan" else "",
+            "icon": icon_url
+        })
+
+    raw_events = sorted(raw_events, key=lambda x: x["start"])
+    new_programmes = []
+    total_events = len(raw_events)
+
+    for i in range(total_events):
+        ev = raw_events[i]
+        start_dt = ev["start"]
+        stop_dt = raw_events[i + 1]["start"] if i + 1 < total_events else start_dt + timedelta(hours=1)
+
+        prog = ET.Element("programme", {
+            "start": format_xmltv_date(start_dt, tz_str),
+            "stop": format_xmltv_date(stop_dt, tz_str),
+            "channel": channel_id
+        })
+
+        if ev["title"]: ET.SubElement(prog, "title", {"lang": lang}).text = ev["title"]
+        if ev["sub_title"]: ET.SubElement(prog, "sub-title", {"lang": lang}).text = ev["sub_title"]
+        if ev["desc"]: ET.SubElement(prog, "desc", {"lang": lang}).text = ev["desc"]
+        if ev["episode_num"]: ET.SubElement(prog, "episode-num", {"system": "xmltv_ns"}).text = ev["episode_num"]
+        if ev["icon"]: ET.SubElement(prog, "icon", {"src": ev["icon"]})
+
+        new_programmes.append(prog)
+
+    existing_progs_map = {p.attrib.get("start"): p for p in root.findall("programme") if p.attrib.get("channel") == channel_id}
+    for np in new_programmes:
+        start_key = np.attrib.get("start")
+        if start_key in existing_progs_map: root.remove(existing_progs_map[start_key])
+        root.append(np)
+
+    print(f"[{channel_id}] Eventos Discovery Kids procesados: {len(new_programmes)}")
 
 def fetch_tmdb_synopsis(title):
     if not title or (not TMDB_TOKEN and not TMDB_API_KEY): return ""
@@ -422,7 +501,7 @@ def find_column(cols_dict, possible_names):
             if name.lower() in col_key.lower(): return col_val
     return None
 
-def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, target_date_str=None):
+def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
     channel_id = feed_cfg["channel_id"]
     channel_name = feed_cfg["channel_name"]
     lang = feed_cfg["lang"]
@@ -449,8 +528,12 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
     col_ep_desc = find_column(cols, ["Episode Sinopsis Prensa(ESPA)", "Episode Sinopsis Prensa(PORT)", "Episode Synopsis"])
     col_is_new = find_column(cols, ["Is Premiere", "New Episode", "Premiere", "Estreno", "Title Classification", "Y/N"])
 
-    target_dt = datetime.strptime(target_date_str, "%Y-%m-%d")
-    cycle_start = datetime(target_dt.year, target_dt.month, target_dt.day, 6, 0, 0, tzinfo=tz)
+    first_date_raw = str(df.iloc[0].get(col_date, "")).strip()
+    match_init = re.search(r"(\d{1,2})[-/](\d{1,2})[-/](\d{4})", first_date_raw)
+    if not match_init: return
+
+    d0, m0, y0 = map(int, match_init.groups())
+    cycle_start = datetime(y0, m0, d0, 6, 0, 0, tzinfo=tz)
     cycle_end = cycle_start + timedelta(days=1)
 
     raw_events = []
@@ -459,18 +542,14 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
         time_raw = str(row.get(col_time, "")).strip()
         date_match = re.search(r"(\d{1,2})[-/](\d{1,2})[-/](\d{4})", date_raw)
         time_match = re.search(r"(\d{1,2}):(\d{2})", time_raw)
-        if not time_match and date_match: time_match = re.search(r"(\d{1,2}):(\d{2})", time_raw)
+        if not time_match and date_match: time_match = re.search(r"(\d{1,2}):(\d{2})", date_raw)
         if not date_match or not time_match: continue
 
         d, m, y = map(int, date_match.groups())
         hh, mm = map(int, time_match.groups())
         event_dt = datetime(y, m, d, hh, mm, 0, tzinfo=tz)
-
-        if hh < 6 and event_dt.date() == cycle_start.date():
-            event_dt += timedelta(days=1)
-
-        if event_dt < cycle_start or event_dt >= cycle_end:
-            continue
+        if (d == d0 and m == m0 and y == y0) and hh < 6: event_dt += timedelta(days=1)
+        if event_dt >= cycle_end: break
 
         prog_name_val = str(row.get(col_title, "")).strip() if pd.notna(row.get(col_title)) else ""
         if prog_name_val.strip().upper() == "LOS COLORADO": prog_name_val = "El Chapulín Y Los Colorado"
@@ -485,7 +564,7 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
             movie_title = press_title_val or ep_name_val
             title_val = f"{movie_title} (Cine Cartoon)" if movie_title and movie_title.lower() != "nan" else "Cine Cartoon"
             ep_name_val, ep_name_en_val = "", ""
-            desc_es = "Cartoon Network trae los clásicos del cine a la pantalla de TV."
+            desc_es = "Cartoon Network trae los clásicos del cine a la pantalla de TV. Ahora podrás disfrutar de estas historias inolvidables en la comodidad de tu hogar."
             desc_en = "Cartoon Network brings classic cinematic tales to the TV screen."
         else:
             title_val = prog_name_val
@@ -541,9 +620,8 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
             "type": "show"
         })
 
-    # Inyectar Localbreaks (Pausas Comerciales) si es de Cartoon Network
     if token and "CNLA" in feed_cfg.get("feed_id", ""):
-        date_str_fmt = f"{target_dt.year}{target_dt.month:02d}{target_dt.day:02d}"
+        date_str_fmt = f"{y0}{m0:02d}{d0:02d}"
         local_breaks = download_and_parse_local_breaks(token, date_str_fmt, tz)
         for lb in local_breaks:
             raw_events.append({
@@ -564,6 +642,10 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
         start_dt = ev["start"]
         stop_dt = ev.get("stop") or (raw_events[i + 1]["start"] if i + 1 < total_events else cycle_end)
 
+        # VALIDACIÓN: Evitar eventos con duración 0 o invertida
+        if start_dt >= stop_dt:
+            continue
+
         prog = ET.Element("programme", {
             "start": format_xmltv_date(start_dt, tz_str),
             "stop": format_xmltv_date(stop_dt, tz_str),
@@ -575,14 +657,26 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
             ET.SubElement(prog, "desc", {"lang": lang}).text = ev["desc"]
             ET.SubElement(prog, "category", {"lang": lang}).text = ev["category"]
         else:
-            if ev["title"]: ET.SubElement(prog, "title", {"lang": lang}).text = ev["title"]
-            if ev["sub_title_es"]: ET.SubElement(prog, "sub-title", {"lang": lang}).text = ev["sub_title_es"]
+            final_title = ev["title"]
+            sub_es = ev["sub_title_es"]
+            
+            # GARANTIZAR QUE SIEMPRE HAYA UN TITLE VÁLIDO
+            if not final_title:
+                if sub_es:
+                    final_title = sub_es
+                    sub_es = ""
+                else:
+                    final_title = channel_name
+
+            ET.SubElement(prog, "title", {"lang": lang}).text = final_title
+            if sub_es: ET.SubElement(prog, "sub-title", {"lang": lang}).text = sub_es
             if ev["sub_title_en"]: ET.SubElement(prog, "sub-title", {"lang": "en"}).text = ev["sub_title_en"]
             if ev["desc_es"]: ET.SubElement(prog, "desc", {"lang": lang}).text = ev["desc_es"]
             if ev["desc_en"]: ET.SubElement(prog, "desc", {"lang": "en"}).text = ev["desc_en"]
             if ev["year"]: ET.SubElement(prog, "date").text = ev["year"]
             if ev["episode_num"]: ET.SubElement(prog, "episode-num", {"system": "xmltv_ns"}).text = ev["episode_num"]
-            if ev["icon"]: ET.SubElement(prog, "icon", {"src": ev["icon"]})
+            if ev["icon"]:
+                ET.SubElement(prog, "icon", {"src": ev["icon"]})
 
         new_programmes.append(prog)
 
@@ -592,7 +686,7 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
         if start_key in existing_progs_map: root.remove(existing_progs_map[start_key])
         root.append(np)
 
-    print(f"[{channel_id}] Fecha {target_date_str} procesada correctamente. Eventos: {len(new_programmes)}")
+    print(f"[{channel_id}] Eventos y pausas procesadas hoy: {len(new_programmes)}")
 
 def main():
     token = login_and_get_token()
@@ -609,23 +703,19 @@ def main():
             if ch.attrib.get("id") not in active_channel_ids: root.remove(ch)
 
         net_type = net_config.get("type", "daily")
-        is_cn = "CNLA" in xml_filename
-        target_dates = get_target_dates_to_process(is_cartoon_network=is_cn)
-        print(f"[INFO] Fechas objetivo para {xml_filename}: {target_dates}")
-
         if net_type == "daily":
             for feed_cfg in net_config["feeds"]:
                 try:
                     xls_path = download_feed_xls(token, feed_cfg["feed_id"], net_config["referer"])
-                    use_meta = cn_monthly_meta if is_cn else None
-                    for d_str in target_dates:
-                        process_daily_feed(root, feed_cfg, xls_path, monthly_meta=use_meta, token=token, target_date_str=d_str)
+                    use_meta = cn_monthly_meta if "CNLA" in xml_filename else None
+                    process_daily_feed(root, feed_cfg, xls_path, monthly_meta=use_meta, token=token)
                 except Exception as e:
                     print(f"[ERROR] Feed {feed_cfg['feed_id']}: {e}")
         elif net_type == "discovery_kids":
             for feed_cfg in net_config["feeds"]:
                 try:
                     df_grid = download_discovery_kids_feed(token, feed_cfg["feed_key"])
+                    process_discovery_kids_feed(root, feed_cfg, df_grid, token=token)
                 except Exception as e:
                     print(f"[ERROR] Discovery Kids {feed_cfg['feed_key']}: {e}")
 
@@ -638,9 +728,33 @@ def main():
             if ch_id not in active_channel_ids:
                 root.remove(p)
                 continue
+            
+            # FILTRAR EVENTOS FANTASMA / DURACIÓN CERO O INVERTIDA
+            start_str = p.attrib.get("start", "")
+            stop_str = p.attrib.get("stop", "")
+            if not start_str or not stop_str or start_str >= stop_str:
+                root.remove(p)
+                continue
+
+            # GARANTIZAR QUE CADA PROGRAMME TENGA <title>
+            title_elem = p.find("title")
+            if title_elem is None or not title_elem.text:
+                sub_elem = p.find("sub-title")
+                if sub_elem is not None and sub_elem.text:
+                    new_t = ET.Element("title")
+                    new_t.text = sub_elem.text
+                    if 'lang' in sub_elem.attrib:
+                        new_t.set('lang', sub_elem.get('lang'))
+                    p.insert(0, new_t)
+                else:
+                    new_t = ET.Element("title")
+                    new_t.text = "PROGRAMACIÓN"
+                    new_t.set('lang', "es")
+                    p.insert(0, new_t)
+
             cfg = next((c for c in net_config["feeds"] if c["channel_id"] == ch_id), net_config["feeds"][0])
-            stop_dt = parse_xmltv_date(p.attrib.get("stop", ""), cfg["tz"])
-            start_dt = parse_xmltv_date(p.attrib.get("start", ""), cfg["tz"])
+            stop_dt = parse_xmltv_date(stop_str, cfg["tz"])
+            start_dt = parse_xmltv_date(start_str, cfg["tz"])
             if stop_dt and stop_dt.astimezone(timezone.utc) < cutoff_past: root.remove(p)
             elif start_dt and start_dt.astimezone(timezone.utc) > cutoff_future: root.remove(p)
 
