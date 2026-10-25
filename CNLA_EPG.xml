@@ -7,7 +7,7 @@
     <display-name>Cartoon Network Brasil</display-name>
   </channel>
   <programme start="20261025060000 -0300" stop="20261025061200 -0300" channel="CNLA_BR.br">
-    <title lang="pt">The Prince and the Birthday Bluesies</title>
+    <sub-title lang="pt">The Prince and the Birthday Bluesies</sub-title>
     <episode-num system="xmltv_ns">3.39.</episode-num>
   </programme>
   <programme start="20261025060000 -0500" stop="20261025061100 -0500" channel="CNLA_PAN.co">
@@ -28,7 +28,7 @@
     <icon src="https://image.tmdb.org/t5/p/w500/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg" />
   </programme>
   <programme start="20261025061200 -0300" stop="20261025062500 -0300" channel="CNLA_BR.br">
-    <title lang="pt">The Prince and the Scrawny Squire</title>
+    <sub-title lang="pt">The Prince and the Scrawny Squire</sub-title>
     <episode-num system="xmltv_ns">4.33.</episode-num>
   </programme>
   <programme start="20261025062300 -0500" stop="20261025063400 -0500" channel="CNLA_PAN.co">
@@ -40,7 +40,7 @@
     <icon src="https://image.tmdb.org/t5/p/w500/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg" />
   </programme>
   <programme start="20261025062500 -0300" stop="20261025063700 -0300" channel="CNLA_BR.br">
-    <title lang="pt">The Prince and the Squire-Off</title>
+    <sub-title lang="pt">The Prince and the Squire-Off</sub-title>
     <episode-num system="xmltv_ns">2.16.</episode-num>
   </programme>
   <programme start="20261025063400 -0500" stop="20261025064700 -0500" channel="CNLA_PAN.co">
@@ -53,7 +53,7 @@
     <icon src="https://image.tmdb.org/t5/p/w500/vgUuvhZXzM4jbIbadv4MFkLucfj.jpg" />
   </programme>
   <programme start="20261025063700 -0300" stop="20261025070200 -0300" channel="CNLA_BR.br">
-    <title lang="pt">THE PRINCE AND THE PLAYDATE</title>
+    <sub-title lang="pt">THE PRINCE AND THE PLAYDATE</sub-title>
     <episode-num system="xmltv_ns">1.41.</episode-num>
   </programme>
   <programme start="20261025064700 -0500" stop="20261025070000 -0500" channel="CNLA_PAN.co">
@@ -70,7 +70,7 @@
     <desc lang="es">Drac y la pandilla vuelven, como nunca los habías visto antes en Hotel Transilvania: Transformanía. Volveremos a encontrarnos con nuestros monstruos favoritos en una aventura completamente nueva en la que Drac se enfrentará a una de las situaciones más aterradoras vividas hasta el momento. Cuando el misterioso invento de Van Helsing, el "Rayo Monstrificador", se vuelve totalmente fuera de control, Drac y sus monstruosos amigos se transforman en humanos, ¡y Johnny se convierte en un monstruo!</desc>
   </programme>
   <programme start="20261025070200 -0300" stop="20261025082600 -0300" channel="CNLA_BR.br">
-    <title lang="pt">Hotel Transylvania 4: Transformania</title>
+    <sub-title lang="pt">Hotel Transylvania 4: Transformania</sub-title>
   </programme>
   <programme start="20261025082400 -0500" stop="20261025083900 -0500" channel="CNLA_PAN.co">
     <title lang="es">SUMMER MEMORIES - SEASON 1</title>
@@ -80,7 +80,7 @@
     <icon src="https://image.tmdb.org/t5/p/w500/2fgI2kioW38AF2IlOkQkhd0OGKP.jpg" />
   </programme>
   <programme start="20261025082600 -0300" stop="20261025101800 -0300" channel="CNLA_BR.br">
-    <title lang="pt">SPIDER-MAN: INTO THE SPIDER-VERSE</title>
+    <sub-title lang="pt">SPIDER-MAN: INTO THE SPIDER-VERSE</sub-title>
     <desc lang="pt">Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras versões do Homem-Aranha.</desc>
     <date>2018</date>
   </programme>
@@ -144,7 +144,7 @@
     <icon src="https://image.tmdb.org/t5/p/w500/6yPzZRqGt1S8TFngVEqyBeQiCP0.jpg" />
   </programme>
   <programme start="20261025101800 -0300" stop="20261025103100 -0300" channel="CNLA_BR.br">
-    <title lang="pt">THE POOL</title>
+    <sub-title lang="pt">THE POOL</sub-title>
     <date>2025</date>
     <episode-num system="xmltv_ns">0.16.</episode-num>
   </programme>
@@ -210,7 +210,7 @@
     <icon src="https://image.tmdb.org/t5/p/w500/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg" />
   </programme>
   <programme start="20261025110600 -0300" stop="20261025113000 -0300" channel="CNLA_BR.br">
-    <title lang="pt">THE WHEEL OF VOMIT</title>
+    <sub-title lang="pt">THE WHEEL OF VOMIT</sub-title>
     <episode-num system="xmltv_ns">0.7.</episode-num>
   </programme>
   <programme start="20261025110900 -0500" stop="20261025112000 -0500" channel="CNLA_PAN.co">
@@ -232,7 +232,7 @@
     <icon src="https://image.tmdb.org/t5/p/w500/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg" />
   </programme>
   <programme start="20261025113000 -0300" stop="20261025114100 -0300" channel="CNLA_BR.br">
-    <title lang="pt">The Unboxing Nightmare</title>
+    <sub-title lang="pt">The Unboxing Nightmare</sub-title>
     <episode-num system="xmltv_ns">0.4.</episode-num>
   </programme>
   <programme start="20261025113100 -0500" stop="20261025115600 -0500" channel="CNLA_PAN.co">
@@ -244,11 +244,11 @@
     <icon src="https://image.tmdb.org/t5/p/w500/urANgPY1gyATjqGux96rM0zZU9z.jpg" />
   </programme>
   <programme start="20261025114100 -0300" stop="20261025115300 -0300" channel="CNLA_BR.br">
-    <title lang="pt">Boy #2</title>
+    <sub-title lang="pt">Boy #2</sub-title>
     <episode-num system="xmltv_ns">0.6.</episode-num>
   </programme>
   <programme start="20261025115300 -0300" stop="20261025120300 -0300" channel="CNLA_BR.br">
-    <title lang="pt">Bug in the system</title>
+    <sub-title lang="pt">Bug in the system</sub-title>
     <episode-num system="xmltv_ns">0.8.</episode-num>
   </programme>
   <programme start="20261025115600 -0500" stop="20261025120700 -0500" channel="CNLA_PAN.co">
@@ -529,7 +529,7 @@
     <icon src="https://image.tmdb.org/t5/p/w500/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg" />
   </programme>
   <programme start="20261025153500 -0300" stop="20261025154800 -0300" channel="CNLA_BR.br">
-    <title lang="pt">Capitanita</title>
+    <sub-title lang="pt">Capitanita</sub-title>
     <sub-title lang="en">MY LIL CAPTAIN</sub-title>
     <desc lang="pt">Después de que el cetro del Rey Caballito de Mar casi es robado, la tripulación del Calypso tiene la tarea de vigilar al ladrón en la Celebración del Caballito de Mar.</desc>
     <date>2021</date>
@@ -545,7 +545,7 @@
     <icon src="https://image.tmdb.org/t5/p/w500/mVFAS63u2u7pLFuAmXJUDc14LiL.jpg" />
   </programme>
   <programme start="20261025154800 -0300" stop="20261025160000 -0300" channel="CNLA_BR.br">
-    <title lang="pt">WALK THE PLANK</title>
+    <sub-title lang="pt">WALK THE PLANK</sub-title>
     <date>2021</date>
     <episode-num system="xmltv_ns">0.15.</episode-num>
   </programme>
@@ -604,7 +604,7 @@
     <icon src="https://image.tmdb.org/t5/p/w500/dMYY2XqsQvDEdTtPfykTEOUZngK.jpg" />
   </programme>
   <programme start="20261025163500 -0300" stop="20261025164800 -0300" channel="CNLA_BR.br">
-    <title lang="pt">That Ain't The Way I See It</title>
+    <sub-title lang="pt">That Ain't The Way I See It</sub-title>
     <date>2022</date>
     <episode-num system="xmltv_ns">0.20.</episode-num>
   </programme>
@@ -618,7 +618,7 @@
     <icon src="https://image.tmdb.org/t5/p/w500/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg" />
   </programme>
   <programme start="20261025164800 -0300" stop="20261025170000 -0300" channel="CNLA_BR.br">
-    <title lang="pt">Night Games</title>
+    <sub-title lang="pt">Night Games</sub-title>
     <date>2022</date>
     <episode-num system="xmltv_ns">0.6.</episode-num>
   </programme>
@@ -751,7 +751,7 @@
     <icon src="https://image.tmdb.org/t5/p/w500/qZkAyOlDAxHtQreQE4ZzGfrSQl8.jpg" />
   </programme>
   <programme start="20261025183100 -0300" stop="20261025184400 -0300" channel="CNLA_BR.br">
-    <title lang="pt">THE TRAFFIC</title>
+    <sub-title lang="pt">THE TRAFFIC</sub-title>
     <date>2025</date>
     <episode-num system="xmltv_ns">0.5.</episode-num>
   </programme>
@@ -765,7 +765,7 @@
     <icon src="https://image.tmdb.org/t5/p/w500/qZkAyOlDAxHtQreQE4ZzGfrSQl8.jpg" />
   </programme>
   <programme start="20261025184400 -0300" stop="20261025185500 -0300" channel="CNLA_BR.br">
-    <title lang="pt">THE CHEERLEADER</title>
+    <sub-title lang="pt">THE CHEERLEADER</sub-title>
     <date>2025</date>
     <episode-num system="xmltv_ns">0.7.</episode-num>
   </programme>
@@ -907,7 +907,7 @@
     <icon src="https://image.tmdb.org/t5/p/w500/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg" />
   </programme>
   <programme start="20261025203000 -0300" stop="20261025204100 -0300" channel="CNLA_BR.br">
-    <title lang="pt">CORPSE FLOWER</title>
+    <sub-title lang="pt">CORPSE FLOWER</sub-title>
     <date>2026</date>
     <episode-num system="xmltv_ns">0.5.</episode-num>
   </programme>
@@ -920,12 +920,12 @@
     <icon src="https://image.tmdb.org/t5/p/w500/8SilP8b7SspS3zYPoP8iCHzRTKP.jpg" />
   </programme>
   <programme start="20261025204100 -0300" stop="20261025205300 -0300" channel="CNLA_BR.br">
-    <title lang="pt">THAT'S FUNNY</title>
+    <sub-title lang="pt">THAT'S FUNNY</sub-title>
     <date>2026</date>
     <episode-num system="xmltv_ns">0.15.</episode-num>
   </programme>
   <programme start="20261025205300 -0300" stop="20261025210600 -0300" channel="CNLA_BR.br">
-    <title lang="pt">STILT WALKERS</title>
+    <sub-title lang="pt">STILT WALKERS</sub-title>
     <date>2026</date>
     <episode-num system="xmltv_ns">0.8.</episode-num>
   </programme>
@@ -935,7 +935,7 @@
     <desc lang="es">Drac y la pandilla vuelven, como nunca los habías visto antes en Hotel Transilvania: Transformanía. Volveremos a encontrarnos con nuestros monstruos favoritos en una aventura completamente nueva en la que Drac se enfrentará a una de las situaciones más aterradoras vividas hasta el momento. Cuando el misterioso invento de Van Helsing, el "Rayo Monstrificador", se vuelve totalmente fuera de control, Drac y sus monstruosos amigos se transforman en humanos, ¡y Johnny se convierte en un monstruo!</desc>
   </programme>
   <programme start="20261025210600 -0300" stop="20261025222800 -0300" channel="CNLA_BR.br">
-    <title lang="pt">Hotel Transylvania 4: Transformania</title>
+    <sub-title lang="pt">Hotel Transylvania 4: Transformania</sub-title>
   </programme>
   <programme start="20261025222800 -0300" stop="20261025223900 -0300" channel="CNLA_BR.br">
     <title lang="pt">APENAS UM SHOW</title>
@@ -1070,7 +1070,7 @@
     <episode-num system="xmltv_ns">3.83.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/urANgPY1gyATjqGux96rM0zZU9z.jpg" />
   </programme>
-  <programme start="20261026000200 -0300" stop="20261026001300 -0300" channel="CNLA_BR.br">
+  <programme start="20261026000200 -0300" stop="20261026000300 -0300" channel="CNLA_BR.br">
     <title lang="pt">URSOS SEM CURSO</title>
     <sub-title lang="pt">MÁS DEL CANAL DE TODOS</sub-title>
     <sub-title lang="en">MORE EVERYONE'S TUBE</sub-title>
@@ -1079,7 +1079,16 @@
     <episode-num system="xmltv_ns">3.83.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/urANgPY1gyATjqGux96rM0zZU9z.jpg" />
   </programme>
-  <programme start="20261026000700 -0500" stop="20261026002100 -0500" channel="CNLA_PAN.co">
+  <programme start="20261026000300 -0300" stop="20261026001300 -0300" channel="CNLA_BR.br">
+    <title lang="pt">URSOS SEM CURSO</title>
+    <sub-title lang="pt">VIAJE CON OSOS</sub-title>
+    <sub-title lang="en">BEAR LIFT</sub-title>
+    <desc lang="pt">Para ajudar a arrecadar dinheiro e salvar a loja de Darrell, os ursos usam seu empilhamento como táxi num aplicativo para celular.</desc>
+    <date>2017</date>
+    <episode-num system="xmltv_ns">2.91.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/urANgPY1gyATjqGux96rM0zZU9z.jpg" />
+  </programme>
+  <programme start="20261026000700 -0500" stop="20261026000700 -0500" channel="CNLA_PAN.co">
     <title lang="es">ESCANDALOSOS</title>
     <sub-title lang="es">VIDA ECOLÓGICA</sub-title>
     <sub-title lang="en">TOTE LIFE</sub-title>
@@ -1088,7 +1097,7 @@
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/l2pxMfX1kLwjn1bU9GAFsqdlQGu.jpg" />
   </programme>
-  <programme start="20261026001300 -0300" stop="20261026002500 -0300" channel="CNLA_BR.br">
+  <programme start="20261026001300 -0300" stop="20261026001500 -0300" channel="CNLA_BR.br">
     <title lang="pt">URSOS SEM CURSO</title>
     <sub-title lang="pt">VIDA ECOLÓGICA</sub-title>
     <sub-title lang="en">TOTE LIFE</sub-title>
@@ -1096,6 +1105,15 @@
     <date>2015</date>
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/l2pxMfX1kLwjn1bU9GAFsqdlQGu.jpg" />
+  </programme>
+  <programme start="20261026001500 -0300" stop="20261026002500 -0300" channel="CNLA_BR.br">
+    <title lang="pt">URSOS SEM CURSO</title>
+    <sub-title lang="pt">GRIPE DE OSO</sub-title>
+    <sub-title lang="en">BEAR FLU</sub-title>
+    <desc lang="pt">Os ursos ficam superdoentes e Chloe assume a missão de cuidar deles. Mas as coisas se complicam quando a notícia da doença se espalha.</desc>
+    <date>2016</date>
+    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/urANgPY1gyATjqGux96rM0zZU9z.jpg" />
   </programme>
   <programme start="20261026002100 -0500" stop="20261026003300 -0500" channel="CNLA_PAN.co">
     <title lang="es">ESCANDALOSOS</title>
@@ -1106,7 +1124,7 @@
     <episode-num system="xmltv_ns">3.132.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/urANgPY1gyATjqGux96rM0zZU9z.jpg" />
   </programme>
-  <programme start="20261026002500 -0300" stop="20261026003700 -0300" channel="CNLA_BR.br">
+  <programme start="20261026002500 -0300" stop="20261026002700 -0300" channel="CNLA_BR.br">
     <title lang="pt">URSOS SEM CURSO</title>
     <sub-title lang="pt">BEBÉS SERPIENTES</sub-title>
     <sub-title lang="en">SNAKE BABIES</sub-title>
@@ -1114,6 +1132,14 @@
     <date>2019</date>
     <episode-num system="xmltv_ns">3.132.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/urANgPY1gyATjqGux96rM0zZU9z.jpg" />
+  </programme>
+  <programme start="20261026002700 -0300" stop="20261026003700 -0300" channel="CNLA_BR.br">
+    <title lang="pt">URSOS SEM CURSO</title>
+    <sub-title lang="pt">NOM NOM</sub-title>
+    <desc lang="pt">Após um recente ataque de fúria, Nom Nom foi deposto da sua posição de astro mais fofo da internet. Assim, ele aparece todo desgrenhado na porta dos ursos para que os três o ajudem a recuperar seu status.</desc>
+    <date>2015</date>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/nVSGmP58IH8dhptxjDAvF9zIf9f.jpg" />
   </programme>
   <programme start="20261026003300 -0500" stop="20261026004600 -0500" channel="CNLA_PAN.co">
     <title lang="es">ESCANDALOSOS</title>
@@ -1124,13 +1150,22 @@
     <episode-num system="xmltv_ns">2.79.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/urANgPY1gyATjqGux96rM0zZU9z.jpg" />
   </programme>
-  <programme start="20261026003700 -0300" stop="20261026004900 -0300" channel="CNLA_BR.br">
+  <programme start="20261026003700 -0300" stop="20261026003900 -0300" channel="CNLA_BR.br">
     <title lang="pt">URSOS SEM CURSO</title>
     <sub-title lang="pt">EL GATITO</sub-title>
     <sub-title lang="en">THE KITTY</sub-title>
     <desc lang="pt">Depois de um incidente na floresta, os ursos perdem sua casa para animais ameaçadores.</desc>
     <date>2017</date>
     <episode-num system="xmltv_ns">2.79.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/urANgPY1gyATjqGux96rM0zZU9z.jpg" />
+  </programme>
+  <programme start="20261026003900 -0300" stop="20261026004900 -0300" channel="CNLA_BR.br">
+    <title lang="pt">URSOS SEM CURSO</title>
+    <sub-title lang="pt">EL SEÑOR DE LAS AMAPOLAS</sub-title>
+    <sub-title lang="en">LORD OF THE POPPIES</sub-title>
+    <desc lang="pt">Pardo e os Guardas Mirins vão acampar numa ilha. Mas eles logo se veem literalmente ilhados.</desc>
+    <date>2019</date>
+    <episode-num system="xmltv_ns">3.136.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/urANgPY1gyATjqGux96rM0zZU9z.jpg" />
   </programme>
   <programme start="20261026004600 -0500" stop="20261026005800 -0500" channel="CNLA_PAN.co">
@@ -1142,7 +1177,7 @@
     <episode-num system="xmltv_ns">3.142.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/urANgPY1gyATjqGux96rM0zZU9z.jpg" />
   </programme>
-  <programme start="20261026004900 -0300" stop="20261026010000 -0300" channel="CNLA_BR.br">
+  <programme start="20261026004900 -0300" stop="20261026005100 -0300" channel="CNLA_BR.br">
     <title lang="pt">URSOS SEM CURSO</title>
     <sub-title lang="pt">EL CUMPLEAÑOS DE PANDA</sub-title>
     <sub-title lang="en">PANDA'S BIRTHDAY</sub-title>
@@ -1150,6 +1185,14 @@
     <date>2018</date>
     <episode-num system="xmltv_ns">3.142.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/urANgPY1gyATjqGux96rM0zZU9z.jpg" />
+  </programme>
+  <programme start="20261026005100 -0300" stop="20261026010000 -0300" channel="CNLA_BR.br">
+    <title lang="pt">URSOS SEM CURSO</title>
+    <sub-title lang="pt">CHLOE</sub-title>
+    <desc lang="pt">Chloe está estudando os ursos para uma apresentação que precisa fazer. Mas, quando os três dão uma espiada no trabalho ¿sem graça¿ dela, eles decidem adicionar um tempero com fatos exagerados sobre suas vidas.</desc>
+    <date>2015</date>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/jQyteYg8kAvG82Q790ZqF7XqPW.jpg" />
   </programme>
   <programme start="20261026005800 -0500" stop="20261026010900 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
@@ -1160,7 +1203,7 @@
     <episode-num system="xmltv_ns">5.156.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/dMYY2XqsQvDEdTtPfykTEOUZngK.jpg" />
   </programme>
-  <programme start="20261026010000 -0300" stop="20261026011200 -0300" channel="CNLA_BR.br">
+  <programme start="20261026010000 -0300" stop="20261026010300 -0300" channel="CNLA_BR.br">
     <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
     <sub-title lang="pt">EL FUNDADOR</sub-title>
     <sub-title lang="en">THE FOUNDER</sub-title>
@@ -1168,6 +1211,15 @@
     <date>2017</date>
     <episode-num system="xmltv_ns">5.156.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/dMYY2XqsQvDEdTtPfykTEOUZngK.jpg" />
+  </programme>
+  <programme start="20261026010300 -0300" stop="20261026011200 -0300" channel="CNLA_BR.br">
+    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
+    <sub-title lang="pt">LA  FIESTA</sub-title>
+    <sub-title lang="en">THE PARTY</sub-title>
+    <desc lang="pt">Gumball e Darwin são convidados para uma festa dos colegas de escola, mas eles precisam ir acompanhados.</desc>
+    <date>2011</date>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/zBhsk0ztb7dvpgy6crtJ3ybiigq.jpg" />
   </programme>
   <programme start="20261026010900 -0500" stop="20261026012400 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
@@ -1178,7 +1230,7 @@
     <episode-num system="xmltv_ns">5.144.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/dMYY2XqsQvDEdTtPfykTEOUZngK.jpg" />
   </programme>
-  <programme start="20261026011200 -0300" stop="20261026012500 -0300" channel="CNLA_BR.br">
+  <programme start="20261026011200 -0300" stop="20261026011500 -0300" channel="CNLA_BR.br">
     <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
     <sub-title lang="pt">EL INTERNET</sub-title>
     <sub-title lang="en">THE INTERNET</sub-title>
@@ -1186,6 +1238,15 @@
     <date>2012</date>
     <episode-num system="xmltv_ns">1.36.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/cuCn4wIckaWQX3pNLx4pAyYbjC6.jpg" />
+  </programme>
+  <programme start="20261026011500 -0300" stop="20261026012500 -0300" channel="CNLA_BR.br">
+    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
+    <sub-title lang="pt">EL DON NADIE</sub-title>
+    <sub-title lang="en">THE NOBODY</sub-title>
+    <desc lang="pt">Gumball e Darwin descobrem que há um hóspede invasor na casa.</desc>
+    <date>2013</date>
+    <episode-num system="xmltv_ns">2.55.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/dMYY2XqsQvDEdTtPfykTEOUZngK.jpg" />
   </programme>
   <programme start="20261026012400 -0500" stop="20261026013500 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
@@ -1196,13 +1257,22 @@
     <episode-num system="xmltv_ns">4.136.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/dMYY2XqsQvDEdTtPfykTEOUZngK.jpg" />
   </programme>
-  <programme start="20261026012500 -0300" stop="20261026013600 -0300" channel="CNLA_BR.br">
+  <programme start="20261026012500 -0300" stop="20261026012700 -0300" channel="CNLA_BR.br">
     <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
     <sub-title lang="pt">EL PADRE</sub-title>
     <sub-title lang="en">THE FATHER</sub-title>
     <desc lang="pt">Os meninos tentam ajudar o papai a se entender com Frankie.</desc>
     <date>2017</date>
     <episode-num system="xmltv_ns">5.144.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/dMYY2XqsQvDEdTtPfykTEOUZngK.jpg" />
+  </programme>
+  <programme start="20261026012700 -0300" stop="20261026013600 -0300" channel="CNLA_BR.br">
+    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
+    <sub-title lang="pt">EL ORÁCULO</sub-title>
+    <sub-title lang="en">THE ORACLE</sub-title>
+    <desc lang="pt">Gumball, Darwin e Anaís descobrem que a mãe de João Banana pinta quadros que preveem o futuro. Quando encontram um em que Gumball aparece correndo pelado pelo shopping, Gumball decide não deixar isso acontecer. Mas tudo parece conspirar contra ele e Gumball descobre que, às vezes, é impossível lutar contra o destino.</desc>
+    <date>2013</date>
+    <episode-num system="xmltv_ns">2.52.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/dMYY2XqsQvDEdTtPfykTEOUZngK.jpg" />
   </programme>
   <programme start="20261026013500 -0500" stop="20261026014700 -0500" channel="CNLA_PAN.co">
@@ -1214,7 +1284,7 @@
     <episode-num system="xmltv_ns">4.113.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/dMYY2XqsQvDEdTtPfykTEOUZngK.jpg" />
   </programme>
-  <programme start="20261026013600 -0300" stop="20261026014800 -0300" channel="CNLA_BR.br">
+  <programme start="20261026013600 -0300" stop="20261026013900 -0300" channel="CNLA_BR.br">
     <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
     <sub-title lang="pt">EL CANTO</sub-title>
     <sub-title lang="en">THE SINGING</sub-title>
@@ -1222,6 +1292,15 @@
     <date>2016</date>
     <episode-num system="xmltv_ns">4.136.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/dMYY2XqsQvDEdTtPfykTEOUZngK.jpg" />
+  </programme>
+  <programme start="20261026013900 -0300" stop="20261026014800 -0300" channel="CNLA_BR.br">
+    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
+    <sub-title lang="pt">EL VIRUS</sub-title>
+    <sub-title lang="en">THE VIRUS</sub-title>
+    <desc lang="pt">Gumball acha que Teri exagera no seu medo de germes. Até que um vem atrás dele e quer vingança.</desc>
+    <date>2012</date>
+    <episode-num system="xmltv_ns">1.27.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/bwLpa1DhyFQ5pAoP01YBbNSNP4Z.jpg" />
   </programme>
   <programme start="20261026014700 -0500" stop="20261026020200 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
@@ -1232,7 +1311,7 @@
     <episode-num system="xmltv_ns">1.26.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/kXkbR10bkl8rEODWbZ4XRb6GxXF.jpg" />
   </programme>
-  <programme start="20261026014800 -0300" stop="20261026020000 -0300" channel="CNLA_BR.br">
+  <programme start="20261026014800 -0300" stop="20261026015100 -0300" channel="CNLA_BR.br">
     <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
     <sub-title lang="pt">EL HECHICERO</sub-title>
     <sub-title lang="en">THE SORCERER</sub-title>
@@ -1241,7 +1320,16 @@
     <episode-num system="xmltv_ns">4.113.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/dMYY2XqsQvDEdTtPfykTEOUZngK.jpg" />
   </programme>
-  <programme start="20261026020000 -0300" stop="20261026021100 -0300" channel="CNLA_BR.br">
+  <programme start="20261026015100 -0300" stop="20261026020000 -0300" channel="CNLA_BR.br">
+    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
+    <sub-title lang="pt">LA ENTROMETIDA</sub-title>
+    <sub-title lang="en">THE MEDDLER</sub-title>
+    <desc lang="pt">Gumball fica morrendo de vergonha quando sua mãe vai à escola para passar mais tempo com ele.</desc>
+    <date>2011</date>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/eqVm9F1YOT1aAQ8e6F0QuLiRCTb.jpg" />
+  </programme>
+  <programme start="20261026020000 -0300" stop="20261026020400 -0300" channel="CNLA_BR.br">
     <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
     <sub-title lang="pt">LA FURIA</sub-title>
     <sub-title lang="en">THE FURY</sub-title>
@@ -1259,7 +1347,16 @@
     <episode-num system="xmltv_ns">3.95.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/dMYY2XqsQvDEdTtPfykTEOUZngK.jpg" />
   </programme>
-  <programme start="20261026021100 -0300" stop="20261026022300 -0300" channel="CNLA_BR.br">
+  <programme start="20261026020400 -0300" stop="20261026021100 -0300" channel="CNLA_BR.br">
+    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
+    <sub-title lang="pt">EL AMOR</sub-title>
+    <sub-title lang="en">THE LOVE</sub-title>
+    <desc lang="pt">Os moradores de Elmore buscam o significado do amor.</desc>
+    <date>2014</date>
+    <episode-num system="xmltv_ns">3.83.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/dMYY2XqsQvDEdTtPfykTEOUZngK.jpg" />
+  </programme>
+  <programme start="20261026021100 -0300" stop="20261026021600 -0300" channel="CNLA_BR.br">
     <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
     <sub-title lang="pt">EL REEMBOLSO</sub-title>
     <sub-title lang="en">THE REFUND</sub-title>
@@ -1277,7 +1374,16 @@
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/zBhsk0ztb7dvpgy6crtJ3ybiigq.jpg" />
   </programme>
-  <programme start="20261026022300 -0300" stop="20261026024600 -0300" channel="CNLA_BR.br">
+  <programme start="20261026021600 -0300" stop="20261026022300 -0300" channel="CNLA_BR.br">
+    <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
+    <sub-title lang="pt">LA CONCIENCIA</sub-title>
+    <sub-title lang="en">THE AWARENESS</sub-title>
+    <desc lang="pt">Gumball e Darwin tentam ser ecológicos, mas acabam infestando a escola de videiras.</desc>
+    <date>2017</date>
+    <episode-num system="xmltv_ns">5.154.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/dMYY2XqsQvDEdTtPfykTEOUZngK.jpg" />
+  </programme>
+  <programme start="20261026022300 -0300" stop="20261026022700 -0300" channel="CNLA_BR.br">
     <title lang="pt">STEVEN UNIVERSO</title>
     <sub-title lang="pt">COSECHA DE GEMAS</sub-title>
     <sub-title lang="en">GEM HARVEST</sub-title>
@@ -1293,6 +1399,15 @@
     <desc lang="es">La visita otoñal de Steven al establo hace entrar a un nuevo extraño a su vida.</desc>
     <date>2016</date>
     <episode-num system="xmltv_ns">3.112.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/8zRstOgaipruJPlsHK2diMx4lPy.jpg" />
+  </programme>
+  <programme start="20261026022700 -0300" stop="20261026024600 -0300" channel="CNLA_BR.br">
+    <title lang="pt">STEVEN UNIVERSO</title>
+    <sub-title lang="pt">CAMBIA DE PARECER</sub-title>
+    <sub-title lang="en">CHANGE YOUR MIND</sub-title>
+    <desc lang="pt">Steven enfrenta seu maior desafio até hoje.</desc>
+    <date>2016</date>
+    <episode-num system="xmltv_ns">4.157.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/8zRstOgaipruJPlsHK2diMx4lPy.jpg" />
   </programme>
   <programme start="20261026024600 -0300" stop="20261026025700 -0300" channel="CNLA_BR.br">
@@ -1331,13 +1446,22 @@
     <episode-num system="xmltv_ns">0.42.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/7ooyD0VjTSjbBEBa5zAxbEVvZhb.jpg" />
   </programme>
-  <programme start="20261026030900 -0300" stop="20261026032000 -0300" channel="CNLA_BR.br">
+  <programme start="20261026030900 -0300" stop="20261026031300 -0300" channel="CNLA_BR.br">
     <title lang="pt">STEVEN UNIVERSO</title>
     <sub-title lang="pt">AMIGO ONION</sub-title>
     <sub-title lang="en">ONION FRIEND</sub-title>
     <desc lang="pt">Steven e Ametista visitam o estranho mundo da casa de Cebola.</desc>
     <date>2015</date>
     <episode-num system="xmltv_ns">1.66.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/8zRstOgaipruJPlsHK2diMx4lPy.jpg" />
+  </programme>
+  <programme start="20261026031300 -0300" stop="20261026032000 -0300" channel="CNLA_BR.br">
+    <title lang="pt">STEVEN UNIVERSO</title>
+    <sub-title lang="pt">REENCUENTRO DE MONSTRUOS</sub-title>
+    <sub-title lang="en">MONSTER REUNION</sub-title>
+    <desc lang="pt">Steven se reúne com um velho amigo.</desc>
+    <date>2015</date>
+    <episode-num system="xmltv_ns">2.92.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/8zRstOgaipruJPlsHK2diMx4lPy.jpg" />
   </programme>
   <programme start="20261026031300 -0500" stop="20261026032400 -0500" channel="CNLA_PAN.co">
@@ -1349,7 +1473,7 @@
     <episode-num system="xmltv_ns">1.66.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/8zRstOgaipruJPlsHK2diMx4lPy.jpg" />
   </programme>
-  <programme start="20261026032000 -0300" stop="20261026033300 -0300" channel="CNLA_BR.br">
+  <programme start="20261026032000 -0300" stop="20261026032500 -0300" channel="CNLA_BR.br">
     <title lang="pt">STEVEN UNIVERSO</title>
     <sub-title lang="pt">DEWEY GANA</sub-title>
     <sub-title lang="en">DEWEY WINS</sub-title>
@@ -1367,12 +1491,30 @@
     <episode-num system="xmltv_ns">4.134.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/8zRstOgaipruJPlsHK2diMx4lPy.jpg" />
   </programme>
-  <programme start="20261026033300 -0300" stop="20261026034400 -0300" channel="CNLA_BR.br">
+  <programme start="20261026032500 -0300" stop="20261026033300 -0300" channel="CNLA_BR.br">
+    <title lang="pt">STEVEN UNIVERSO: FUTURO</title>
+    <sub-title lang="pt">Un Episodio Muy Especial</sub-title>
+    <sub-title lang="en">A VERY SPECIAL EPISODE</sub-title>
+    <desc lang="pt">Arco-Íris Quartz 2.0 prometeu sair com Cebola no mesmo dia em que Sunstone programou um seminário sobre segurança no lar! Como pode Steven estar em dois lugares e em duas fusões ao mesmo tempo?</desc>
+    <date>2019</date>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/bER1TaLwSNGXrVTLr6YynqtWHO6.jpg" />
+  </programme>
+  <programme start="20261026033300 -0300" stop="20261026033700 -0300" channel="CNLA_BR.br">
     <title lang="pt">STEVEN UNIVERSO</title>
     <sub-title lang="pt">The Return</sub-title>
     <desc lang="pt">Uma nova ameaça chega a Beach City.</desc>
     <date>2026</date>
     <episode-num system="xmltv_ns">0.50.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/8zRstOgaipruJPlsHK2diMx4lPy.jpg" />
+  </programme>
+  <programme start="20261026033700 -0300" stop="20261026034400 -0300" channel="CNLA_BR.br">
+    <title lang="pt">STEVEN UNIVERSO</title>
+    <sub-title lang="pt">CONOCE A TU FUSIÓN</sub-title>
+    <sub-title lang="en">KNOW YOUR FUSION</sub-title>
+    <desc lang="pt">A visita de outono de Steven ao celeiro traz um novo estranho à sua vida.</desc>
+    <date>2015</date>
+    <episode-num system="xmltv_ns">3.105.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/8zRstOgaipruJPlsHK2diMx4lPy.jpg" />
   </programme>
   <programme start="20261026033700 -0500" stop="20261026034900 -0500" channel="CNLA_PAN.co">
@@ -1383,7 +1525,7 @@
     <episode-num system="xmltv_ns">0.50.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/8zRstOgaipruJPlsHK2diMx4lPy.jpg" />
   </programme>
-  <programme start="20261026034400 -0300" stop="20261026035600 -0300" channel="CNLA_BR.br">
+  <programme start="20261026034400 -0300" stop="20261026034800 -0300" channel="CNLA_BR.br">
     <title lang="pt">STEVEN UNIVERSO</title>
     <sub-title lang="pt">EL ATAQUE DE LAS CANICAS</sub-title>
     <sub-title lang="en">MARBLE MADNESS</sub-title>
@@ -1391,6 +1533,15 @@
     <date>2014</date>
     <episode-num system="xmltv_ns">0.43.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/9Tvatm14FAPPwgtmAgfYZE0OrnO.jpg" />
+  </programme>
+  <programme start="20261026034800 -0300" stop="20261026035600 -0300" channel="CNLA_BR.br">
+    <title lang="pt">STEVEN UNIVERSO</title>
+    <sub-title lang="pt">REGENERADA</sub-title>
+    <sub-title lang="en">REFORMED</sub-title>
+    <desc lang="pt">Steven, Ametista e Garnet saem à caça de um monstro que está apavorando o Templo.</desc>
+    <date>2014</date>
+    <episode-num system="xmltv_ns">1.56.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/8zRstOgaipruJPlsHK2diMx4lPy.jpg" />
   </programme>
   <programme start="20261026034900 -0500" stop="20261026040000 -0500" channel="CNLA_PAN.co">
     <title lang="es">STEVEN UNIVERSE</title>
@@ -1401,12 +1552,20 @@
     <episode-num system="xmltv_ns">0.43.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/9Tvatm14FAPPwgtmAgfYZE0OrnO.jpg" />
   </programme>
-  <programme start="20261026035600 -0300" stop="20261026040700 -0300" channel="CNLA_BR.br">
+  <programme start="20261026035600 -0300" stop="20261026040000 -0300" channel="CNLA_BR.br">
     <title lang="pt">O MUNDO DE GREG</title>
     <sub-title lang="pt">BEYOND THE OVERPASS</sub-title>
     <desc lang="pt">Greg e seus dois melhores amigos, Kelsey e JP, estão sempre se aventurando no selvagem e indômito riacho - uma utopia infantil em que tribos de crianças dominam três fortes e rampas de bike, formando uma grande sociedade infantil. Em cada episódio, vemos as crianças se aventurando em áreas inexploradas do riacho, encontrando novos amigos, ou simplesmente criando confusão em seu local favorito.</desc>
     <date>2021</date>
     <episode-num system="xmltv_ns">3.121.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/cGIWvCRPFBAFlb7QO6wiphs84RX.jpg" />
+  </programme>
+  <programme start="20261026040000 -0300" stop="20261026040700 -0300" channel="CNLA_BR.br">
+    <title lang="pt">O MUNDO DE GREG</title>
+    <sub-title lang="pt">OPPOSITE DAY</sub-title>
+    <desc lang="pt">Greg e seus dois melhores amigos, Kelsey e JP, estão sempre se aventurando no selvagem e indômito riacho - uma utopia infantil em que tribos de crianças dominam três fortes e rampas de bike, formando uma grande sociedade infantil. Em cada episódio, vemos as crianças se aventurando em áreas inexploradas do riacho, encontrando novos amigos, ou simplesmente criando confusão em seu local favorito.</desc>
+    <date>2021</date>
+    <episode-num system="xmltv_ns">3.135.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/cGIWvCRPFBAFlb7QO6wiphs84RX.jpg" />
   </programme>
   <programme start="20261026040000 -0500" stop="20261026041100 -0500" channel="CNLA_PAN.co">
@@ -1417,7 +1576,7 @@
     <episode-num system="xmltv_ns">3.121.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/cGIWvCRPFBAFlb7QO6wiphs84RX.jpg" />
   </programme>
-  <programme start="20261026040700 -0300" stop="20261026041800 -0300" channel="CNLA_BR.br">
+  <programme start="20261026040700 -0300" stop="20261026041300 -0300" channel="CNLA_BR.br">
     <title lang="pt">O MUNDO DE GREG</title>
     <sub-title lang="pt">CARRERA EN EL ARROYO</sub-title>
     <sub-title lang="en">CREEK CART RACERS</sub-title>
@@ -1435,7 +1594,16 @@
     <episode-num system="xmltv_ns">0.27.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/a5aHntjjozL4SYvvkpiQiKUCsPJ.jpg" />
   </programme>
-  <programme start="20261026041800 -0300" stop="20261026043000 -0300" channel="CNLA_BR.br">
+  <programme start="20261026041300 -0300" stop="20261026041800 -0300" channel="CNLA_BR.br">
+    <title lang="pt">O MUNDO DE GREG</title>
+    <sub-title lang="pt">ANCIANOS DE ARROYO</sub-title>
+    <sub-title lang="en">ANCIENTS OF THE CREEK</sub-title>
+    <desc lang="pt">Greg, Kelsey e JP encontram um forte ancestral que pertenceu às primeiras crianças do riacho.</desc>
+    <date>2019</date>
+    <episode-num system="xmltv_ns">1.63.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/cGIWvCRPFBAFlb7QO6wiphs84RX.jpg" />
+  </programme>
+  <programme start="20261026041800 -0300" stop="20261026042400 -0300" channel="CNLA_BR.br">
     <title lang="pt">O MUNDO DE GREG</title>
     <sub-title lang="pt">SACA TU BESTIA</sub-title>
     <sub-title lang="en">BRING OUT YOUR BEAST</sub-title>
@@ -1443,6 +1611,15 @@
     <date>2018</date>
     <episode-num system="xmltv_ns">0.12.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/ccP7rbxOx0riy9T0KySImeacbNx.jpg" />
+  </programme>
+  <programme start="20261026042400 -0300" stop="20261026043000 -0300" channel="CNLA_BR.br">
+    <title lang="pt">O MUNDO DE GREG</title>
+    <sub-title lang="pt">PRIMO DEL ARROYO</sub-title>
+    <sub-title lang="en">COUSIN OF THE CREEK</sub-title>
+    <desc lang="pt">Greg leva seu primo Bryson ao riacho e sem querer dá início a uma guerra de balões de água.</desc>
+    <date>2019</date>
+    <episode-num system="xmltv_ns">1.55.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/cGIWvCRPFBAFlb7QO6wiphs84RX.jpg" />
   </programme>
   <programme start="20261026042500 -0500" stop="20261026043600 -0500" channel="CNLA_PAN.co">
     <title lang="es">El mundo de craig</title>
@@ -1453,7 +1630,7 @@
     <episode-num system="xmltv_ns">0.29.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/qShNtcNGwqvESPW5H8wmu0KMCU4.jpg" />
   </programme>
-  <programme start="20261026043000 -0300" stop="20261026044200 -0300" channel="CNLA_BR.br">
+  <programme start="20261026043000 -0300" stop="20261026043500 -0300" channel="CNLA_BR.br">
     <title lang="pt">O MUNDO DE GREG</title>
     <sub-title lang="pt">JEXTRA PERRESTRE</sub-title>
     <sub-title lang="en">J.P. JEXTRA PERRESTRIAL</sub-title>
@@ -1461,6 +1638,12 @@
     <date>2018</date>
     <episode-num system="xmltv_ns">0.29.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/qShNtcNGwqvESPW5H8wmu0KMCU4.jpg" />
+  </programme>
+  <programme start="20261026043500 -0300" stop="20261026044000 -0300" channel="CNLA_BR.br">
+    <title lang="pt">URSOS SEM CURSO - CURTAS</title>
+    <sub-title lang="pt">LOG RIDE</sub-title>
+    <desc lang="pt">Os ursos querem porque querem tirar a "foto de ação" perfeita num brinquedo do parque de diversões. E eles entram na fila milhares de vezes até conseguir o melhor clique.</desc>
+    <icon src="https://image.tmdb.org/t5/p/w500/urANgPY1gyATjqGux96rM0zZU9z.jpg" />
   </programme>
   <programme start="20261026043600 -0500" stop="20261026044900 -0500" channel="CNLA_PAN.co">
     <title lang="es">El mundo de craig</title>
@@ -1471,7 +1654,15 @@
     <episode-num system="xmltv_ns">1.59.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/cGIWvCRPFBAFlb7QO6wiphs84RX.jpg" />
   </programme>
-  <programme start="20261026044200 -0300" stop="20261026045300 -0300" channel="CNLA_BR.br">
+  <programme start="20261026044000 -0300" stop="20261026044200 -0300" channel="CNLA_BR.br">
+    <title lang="pt">O MUNDO DE GREG</title>
+    <sub-title lang="pt">JESSICA THE INTERN</sub-title>
+    <desc lang="pt">Greg e seus dois melhores amigos, Kelsey e JP, estão sempre se aventurando no selvagem e indômito riacho - uma utopia infantil em que tribos de crianças dominam três fortes e rampas de bike, formando uma grande sociedade infantil. Em cada episódio, vemos as crianças se aventurando em áreas inexploradas do riacho, encontrando novos amigos, ou simplesmente criando confusão em seu local favorito.</desc>
+    <date>2019</date>
+    <episode-num system="xmltv_ns">2.114.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/cGIWvCRPFBAFlb7QO6wiphs84RX.jpg" />
+  </programme>
+  <programme start="20261026044200 -0300" stop="20261026045200 -0300" channel="CNLA_BR.br">
     <title lang="pt">O MUNDO DE GREG</title>
     <sub-title lang="pt">EVOLUCIÓN DE CRAIG</sub-title>
     <sub-title lang="en">THE EVOLUTION OF CRAIG</sub-title>
@@ -1488,7 +1679,15 @@
     <episode-num system="xmltv_ns">3.142.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/cGIWvCRPFBAFlb7QO6wiphs84RX.jpg" />
   </programme>
-  <programme start="20261026045300 -0300" stop="20261026050400 -0300" channel="CNLA_BR.br">
+  <programme start="20261026045200 -0300" stop="20261026045300 -0300" channel="CNLA_BR.br">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <sub-title lang="pt">Unmasking - The Teen Titans Story</sub-title>
+    <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões?</desc>
+    <date>2025</date>
+    <episode-num system="xmltv_ns">8.506.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg" />
+  </programme>
+  <programme start="20261026045300 -0300" stop="20261026050200 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
     <sub-title lang="pt">LA CITA</sub-title>
     <sub-title lang="en">THE DATE</sub-title>
@@ -1506,13 +1705,31 @@
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/1C7YlIAXe2IXrGoHumIaZITVDb7.jpg" />
   </programme>
-  <programme start="20261026050400 -0300" stop="20261026051500 -0300" channel="CNLA_BR.br">
+  <programme start="20261026050200 -0300" stop="20261026050400 -0300" channel="CNLA_BR.br">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <sub-title lang="pt">PIRATAS DEL BOSQUE</sub-title>
+    <sub-title lang="en">FOREST PIRATES (SUPER SUMMER HERO CAMP 1)</sub-title>
+    <desc lang="pt">Num acampamento de verão para super-heróis, os Titãs deverão adicionar um membro à equipe, se quiserem vencer a grande competição de canoas.</desc>
+    <date>2018</date>
+    <episode-num system="xmltv_ns">4.247.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg" />
+  </programme>
+  <programme start="20261026050400 -0300" stop="20261026051400 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
     <sub-title lang="pt">LA BURLA</sub-title>
     <sub-title lang="en">THE CHAFF</sub-title>
     <desc lang="pt">Tentando cancelar Os Jovens Titãs em Ação, Maluco do Controle exibe algumas cenas excluídas.</desc>
     <date>2018</date>
     <episode-num system="xmltv_ns">4.233.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg" />
+  </programme>
+  <programme start="20261026051400 -0300" stop="20261026051500 -0300" channel="CNLA_BR.br">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <sub-title lang="pt">EL BERGERAC</sub-title>
+    <sub-title lang="en">THE BERGERAC (SUPER SUMMER HERO CAMP 2)</sub-title>
+    <desc lang="pt">Os Titãs aconselham Robin e tentam ajudá-lo em seu romance com a Garota-Maravilha.</desc>
+    <date>2018</date>
+    <episode-num system="xmltv_ns">4.248.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg" />
   </programme>
   <programme start="20261026051400 -0500" stop="20261026052400 -0500" channel="CNLA_PAN.co">
@@ -1524,7 +1741,7 @@
     <episode-num system="xmltv_ns">4.233.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg" />
   </programme>
-  <programme start="20261026051500 -0300" stop="20261026052600 -0300" channel="CNLA_BR.br">
+  <programme start="20261026051500 -0300" stop="20261026052500 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
     <sub-title lang="pt">VIAJE POR CARRETERA</sub-title>
     <sub-title lang="en">ROAD TRIP</sub-title>
@@ -1542,6 +1759,15 @@
     <episode-num system="xmltv_ns">1.37.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/rWRg8bgV2nlmLOUG7xQqNQXjAJi.jpg" />
   </programme>
+  <programme start="20261026052500 -0300" stop="20261026052600 -0300" channel="CNLA_BR.br">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <sub-title lang="pt">MOCOS Y LÁGRIMAS</sub-title>
+    <sub-title lang="en">SNOT AND TEAR (SUPER SUMMER HERO CAMP 3)</sub-title>
+    <desc lang="pt">Robin aconselha os Titãs a serem menos negligentes. Caso contrário, eles serão pegos por um vilão.</desc>
+    <date>2019</date>
+    <episode-num system="xmltv_ns">4.249.</episode-num>
+    <icon src="https://image.tmdb.org/t5/p/w500/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg" />
+  </programme>
   <programme start="20261026052600 -0300" stop="20261026053700 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
     <sub-title lang="pt">CHICOS VS CHICAS</sub-title>
@@ -1551,7 +1777,7 @@
     <episode-num system="xmltv_ns">1.36.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/pyQLFgKrMUa8Cv1qjxGDbIA5AYM.jpg" />
   </programme>
-  <programme start="20261026053700 -0300" stop="20261026054800 -0300" channel="CNLA_BR.br">
+  <programme start="20261026053700 -0300" stop="20261026053700 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
     <sub-title lang="pt">DOS PARTES: PARTE UNO</sub-title>
     <sub-title lang="en">TWO PARTER: PART ONE</sub-title>
