@@ -14,6 +14,9 @@ MONTHLY_FILES_URL = "https://epg.tapkit.warnermedia.com/api/epg/tapkitFrontEnd/n
 TMDB_API_KEY = os.environ.get("TMDB_API_KEY", "").strip()
 TMDB_TOKEN = os.environ.get("TMDB_TOKEN", "").strip()
 
+# FORZAR ZONA HORARIA DE COLOMBIA (-5) PARA EVITAR DESFASES CON UTC DE GITHUB
+COLOMBIA_TZ = timezone(timedelta(hours=-5))
+
 http_session = requests.Session()
 http_session.headers.update({
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -38,7 +41,7 @@ TITLE_ALIASES = {
 }
 
 def get_target_dates_to_process():
-    now = datetime.now()
+    now = datetime.now(COLOMBIA_TZ)
     weekday = now.weekday() # 0: Lun, 1: Mar, 2: Mié, 3: Jue, 4: Vie, 5: Sáb, 6: Dom
     dates_to_fetch = [now.strftime("%Y-%m-%d")]
 
@@ -47,6 +50,7 @@ def get_target_dates_to_process():
     elif weekday == 5: # Sábado -> Sábado, Domingo y Lunes
         dates_to_fetch.append((now + timedelta(days=1)).strftime("%Y-%m-%d"))
         dates_to_fetch.append((now + timedelta(days=2)).strftime("%Y-%m-%d"))
+    # Domingo (6), Lunes (0), Martes (1), Miércoles (2), Jueves (3) procesan ÚNICAMENTE su día actual.
         
     return list(dict.fromkeys(dates_to_fetch))
 
@@ -153,7 +157,7 @@ def login_and_get_token():
     return res.json().get("access_token")
 
 def get_target_months():
-    now = datetime.now()
+    now = datetime.now(COLOMBIA_TZ)
     year_curr, month_curr = now.year, now.month
     year_next, month_next = (year_curr + 1, 1) if month_curr == 12 else (year_curr, month_curr + 1)
     return [(year_curr, month_curr), (year_next, month_next)]
@@ -336,7 +340,7 @@ def process_single_day_feed(root, feed_cfg, monthly_rows, target_date_str):
 def main():
     token = login_and_get_token()
     target_dates = get_target_dates_to_process()
-    print(f"[INFO] Fechas objetivo estrictas: {target_dates}")
+    print(f"[INFO] Fechas objetivo estrictas (Hora Colombia): {target_dates}")
 
     feed_type_map = {"CNLA_PAN": "PAN", "CNLA_BR": "BR"}
 
