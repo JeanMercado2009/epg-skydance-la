@@ -78,9 +78,6 @@ SPECIAL_EPISODE_OVERRIDES = {
     }
 }
 
-# ---------------------------------------------
-# CONFIGURACIÓN DE REDES Y CANALES (Tus archivos y feeds exactos)
-# ---------------------------------------------
 NETWORKS_CONFIG = {
     "CNLA_EPG.xml": {
         "generator_name": "Guia de Programacion Cartoon Network MultiFeed",
@@ -241,20 +238,9 @@ NETWORKS_CONFIG = {
 }
 
 def get_target_dates_to_process():
+    # Solo el día corriente (24 horas) para máxima compatibilidad con OTT Navigator
     now = datetime.now()
-    weekday = now.weekday()
-    dates_to_fetch = [now.strftime("%Y-%m-%d")]
-
-    if weekday == 4: # Viernes
-        dates_to_fetch.extend([(now + timedelta(days=1)).strftime("%Y-%m-%d"), (now + timedelta(days=2)).strftime("%Y-%m-%d"), (now + timedelta(days=3)).strftime("%Y-%m-%d")])
-    elif weekday == 5: # Sábado
-        dates_to_fetch.extend([(now + timedelta(days=1)).strftime("%Y-%m-%d"), (now + timedelta(days=2)).strftime("%Y-%m-%d"), (now + timedelta(days=3)).strftime("%Y-%m-%d")])
-    elif weekday == 6: # Domingo
-        dates_to_fetch.extend([(now + timedelta(days=1)).strftime("%Y-%m-%d"), (now + timedelta(days=2)).strftime("%Y-%m-%d")])
-    else: # Lunes a Jueves
-        dates_to_fetch.extend([(now + timedelta(days=1)).strftime("%Y-%m-%d"), (now + timedelta(days=2)).strftime("%Y-%m-%d")])
-        
-    return list(dict.fromkeys(dates_to_fetch))
+    return [now.strftime("%Y-%m-%d")]
 
 def normalize_title(text):
     if not text:
@@ -483,6 +469,8 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
     col_date = find_column(cols, ["Schedule Date", "Date", "Fecha"]) or df.columns[0]
     col_time = find_column(cols, ["Program Start Time", "Title Start Time", "Start Time", "Hora"]) or df.columns[1]
     col_title = find_column(cols, ["Program Name", "Title Name", "Title", "Programa"]) or df.columns[2]
+    
+    # Columnas corregidas para recuperar títulos en español e inglés
     col_ep_name = find_column(cols, ["Episode Title(ESPA)", "Episode Title (ESPA)", "Episode Title(PORT)", "Episode Name English", "Episode Name", "Sub-title"])
     col_ep_name_en = find_column(cols, ["Episode Name English", "Original Episode Title", "Episode Title(INGL)"])
     col_ep_num = find_column(cols, ["Episode", "Episode Number", "Episodio"])
@@ -552,7 +540,6 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
             "icon": icon_url
         })
 
-    # ORDENAMIENTO CRONOLÓGICO ESTRICTO PARA LA MADRUGADA Y EL DÍA
     raw_events = sorted(raw_events, key=lambda x: x["start"])
     new_programmes = []
     total_events = len(raw_events)
@@ -584,12 +571,12 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
         if start_key in existing_progs_map: root.remove(existing_progs_map[start_key])
         root.append(np)
 
-    print(f"[{channel_id}] Eventos procesados y ordenados cronológicamente: {len(new_programmes)}")
+    print(f"[{channel_id}] Eventos procesados (24h con títulos en español): {len(new_programmes)}")
 
 def main():
     token = login_and_get_token()
     target_dates = get_target_dates_to_process()
-    print(f"[INFO] Fechas objetivo calculadas: {target_dates}")
+    print(f"[INFO] Fecha objetivo (24h): {target_dates}")
     
     cn_monthly_meta = download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_type="PAN")
 
@@ -612,7 +599,7 @@ def main():
 
         ET.indent(root, space="  ", level=0)
         ET.ElementTree(root).write(xml_filename, encoding="utf-8", xml_declaration=True)
-        print(f"[OK] {xml_filename} guardado.")
+        print(f"[OK] {xml_filename} guardado correctamente.")
 
 if __name__ == "__main__":
     main()
