@@ -45,7 +45,6 @@ TITLE_ALIASES = {
     "la panza de la bestia": "belly of the beast"
 }
 
-# Diccionario de sobreescritura exacta para títulos especiales y miniaturas en TMDB
 SPECIAL_EPISODE_OVERRIDES = {
     "two parter (1)": {
         "es": "DOS PARTES: PARTE UNO",
@@ -76,6 +75,168 @@ SPECIAL_EPISODE_OVERRIDES = {
         "es": "TEEN TITANS GO TO THE REPAIR SHOP PT 2",
         "en": "Teen Titans Go to the Repair Shop (2)",
         "icon": "https://media.themoviedb.org/t/p/w227_and_h127_face/nbYmVSxNR3gNa3wbQESdlgKDfUa.jpg"
+    }
+}
+
+# ---------------------------------------------
+# CONFIGURACIÓN DE REDES Y CANALES (Tus archivos y feeds exactos)
+# ---------------------------------------------
+NETWORKS_CONFIG = {
+    "CNLA_EPG.xml": {
+        "generator_name": "Guia de Programacion Cartoon Network MultiFeed",
+        "referer": "https://epg.tapkit.warnermedia.com/epg/networks/2",
+        "type": "daily",
+        "feeds": [
+            {
+                "feed_id": "CNLA_PAN",
+                "channel_id": "CNLA_PAN.co",
+                "channel_name": "Cartoon Network Panregional",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-5)),
+                "tz_str": "-0500"
+            },
+            {
+                "feed_id": "CNLA_BR",
+                "channel_id": "CNLA_BR.br",
+                "channel_name": "Cartoon Network Brasil",
+                "lang": "pt",
+                "tz": timezone(timedelta(hours=-3)),
+                "tz_str": "-0300"
+            }
+        ]
+    },
+    "DKLA_EPG.xml": {
+        "generator_name": "Guia de Programacion Discovery Kids MultiFeed",
+        "referer": "https://epg.tapkit.warnermedia.com/epg/networks/5",
+        "type": "daily",
+        "feeds": [
+            {
+                "feed_id": "DKLA_PAN",
+                "channel_id": "DKLA_PAN.co",
+                "channel_name": "Discovery Kids Panregional",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-5)),
+                "tz_str": "-0500"
+            }
+        ]
+    },
+    "WARNERLA_EPG.xml": {
+        "generator_name": "Guia de Programacion Warner Channel MultiFeed",
+        "referer": "https://epg.tapkit.warnermedia.com/epg/networks/warner",
+        "type": "daily",
+        "feeds": [
+            {
+                "feed_id": "WARNERLA_CO",
+                "channel_id": "WARNER_CO.co",
+                "channel_name": "Warner Channel Colombia",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-5)),
+                "tz_str": "-0500"
+            },
+            {
+                "feed_id": "WARNERLA_MX",
+                "channel_id": "WARNER_MX.mx",
+                "channel_name": "Warner Channel México",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-6)),
+                "tz_str": "-0600"
+            },
+            {
+                "feed_id": "WARNERLA_AR",
+                "channel_id": "WARNER_AR.ar",
+                "channel_name": "Warner Channel Argentina",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-3)),
+                "tz_str": "-0300"
+            },
+            {
+                "feed_id": "WARNERLA_CH",
+                "channel_id": "WARNER_CL.cl",
+                "channel_name": "Warner Channel Chile",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-4)),
+                "tz_str": "-0400"
+            },
+            {
+                "feed_id": "WARNERLA_VE",
+                "channel_id": "WARNER_VE.ve",
+                "channel_name": "Warner Channel Venezuela",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-4)),
+                "tz_str": "-0400"
+            },
+            {
+                "feed_id": "WARNERLA_AN",
+                "channel_id": "WARNER_AN.co",
+                "channel_name": "Warner Channel Andes",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-5)),
+                "tz_str": "-0500"
+            },
+            {
+                "feed_id": "WARNERLA_BH",
+                "channel_id": "WARNER_BR.br",
+                "channel_name": "Warner Channel Brasil",
+                "lang": "pt",
+                "tz": timezone(timedelta(hours=-3)),
+                "tz_str": "-0300"
+            }
+        ]
+    },
+    "TNTLA_EPG.xml": {
+        "generator_name": "Guia de Programacion TNT MultiFeed",
+        "referer": "https://epg.tapkit.warnermedia.com/epg/networks/14",
+        "type": "daily",
+        "feeds": [
+            {
+                "feed_id": "TNTLA_MX",
+                "channel_id": "TNT_MX.mx",
+                "channel_name": "TNT México",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-6)),
+                "tz_str": "-0600"
+            },
+            {
+                "feed_id": "TNTLA_CO",
+                "channel_id": "TNT_CO.co",
+                "channel_name": "TNT Colombia",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-5)),
+                "tz_str": "-0500"
+            },
+            {
+                "feed_id": "TNTLA_PAN",
+                "channel_id": "TNT_PAN.co",
+                "channel_name": "TNT Panregional",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-5)),
+                "tz_str": "-0500"
+            },
+            {
+                "feed_id": "TNTLA_BR",
+                "channel_id": "TNT_BR.br",
+                "channel_name": "TNT Brasil HD",
+                "lang": "pt",
+                "tz": timezone(timedelta(hours=-3)),
+                "tz_str": "-0300"
+            },
+            {
+                "feed_id": "TNTLA_AR",
+                "channel_id": "TNT_AR.ar",
+                "channel_name": "TNT Argentina",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-3)),
+                "tz_str": "-0300"
+            },
+            {
+                "feed_id": "TNTLA_CL",
+                "channel_id": "TNT_CL.cl",
+                "channel_name": "TNT Chile",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-4)),
+                "tz_str": "-0400"
+            }
+        ]
     }
 }
 
@@ -119,7 +280,6 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", ep_title_
     raw_target = ep_title_en if ep_title_en and ep_title_en.lower() != "nan" else ep_title_es
     lookup_target = TITLE_ALIASES.get(raw_target.lower().strip(), raw_target)
     
-    # Verificación de overrides manuales directos
     key_check = lookup_target.lower().strip()
     if key_check in SPECIAL_EPISODE_OVERRIDES:
         return SPECIAL_EPISODE_OVERRIDES[key_check]["icon"]
@@ -127,16 +287,6 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", ep_title_
     cache_key = f"{series_title}|{season_str}|{ep_str}|{lookup_target}|{lang}"
     if cache_key in tmdb_cache:
         return tmdb_cache[cache_key]
-
-    lower_title = series_title.lower()
-    if "submarine jim" in lower_title or "el submarino de jim" in lower_title:
-        img = "https://media.themoviedb.org/t/p/w500/cHN9UE0cjsDByMWk0FgaPEkHNeJ.jpg"
-        tmdb_cache[cache_key] = img
-        return img
-    if "aquaman: rage of atlantis" in lower_title or "lego dc" in lower_title:
-        img = "https://media.themoviedb.org/t/p/w500/8BqoJXMhrV9KfKmodPtyi67VgBG.jpg"
-        tmdb_cache[cache_key] = img
-        return img
 
     if not TMDB_TOKEN and not TMDB_API_KEY:
         return ""
@@ -208,79 +358,6 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", ep_title_
     tmdb_cache[cache_key] = ""
     return ""
 
-def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"):
-    headers = {
-        "Content-Type": "application/json",
-        "Authorization": f"Bearer {token}",
-        "Origin": "https://epg.tapkit.warnermedia.com",
-        "Referer": "https://epg.tapkit.warnermedia.com/epg/networks/2"
-    }
-
-    breaks_events = []
-    for break_num in range(1, 10):
-        filename = f"{date_str}_{feed_code}_CNLH Break {break_num}_1.csv"
-        path = f"fromCueToneReport/done{filename}"
-        payload = {"name": filename, "path": path}
-
-        try:
-            res = http_session.post(LOCAL_BREAKS_URL, json=payload, headers=headers, timeout=10)
-            if res.status_code == 200 and len(res.content) > 0:
-                df_break = pd.read_csv(io.BytesIO(res.content))
-                for _, row in df_break.iterrows():
-                    start_raw = str(row.get("Start Time") or row.get("START_TIME") or "").strip()
-                    end_raw = str(row.get("End Time") or row.get("END_TIME") or "").strip()
-                    
-                    s_match = re.search(r"(\d{2}):(\d{2}):(\d{2})", start_raw)
-                    e_match = re.search(r"(\d{2}):(\d{2}):(\d{2})", end_raw)
-                    
-                    if s_match and e_match:
-                        sh, sm, ss = map(int, s_match.groups())
-                        eh, em, es = map(int, e_match.groups())
-                        y, m, d = int(date_str[:4]), int(date_str[4:6]), int(date_str[6:])
-                        
-                        start_dt = datetime(y, m, d, sh, sm, ss, tzinfo=tz_info)
-                        end_dt = datetime(y, m, d, eh, em, es, tzinfo=tz_info)
-                        if end_dt <= start_dt:
-                            end_dt += timedelta(days=1)
-
-                        breaks_events.append({
-                            "start": start_dt,
-                            "stop": end_dt,
-                            "title": "Pausa Comercial",
-                            "desc": "Espacio publicitario y promos de la señal.",
-                            "category": "Comercial"
-                        })
-        except Exception:
-            pass
-
-    return breaks_events
-
-NETWORKS_CONFIG = {
-    "CNLA_EPG.xml": {
-        "generator_name": "Guia de Programacion Cartoon Network MultiFeed",
-        "referer": "https://epg.tapkit.warnermedia.com/epg/networks/2",
-        "type": "daily",
-        "feeds": [
-            {
-                "feed_id": "CNLA_PAN",
-                "channel_id": "CNLA_PAN.co",
-                "channel_name": "Cartoon Network Panregional",
-                "lang": "es",
-                "tz": timezone(timedelta(hours=-5)),
-                "tz_str": "-0500"
-            },
-            {
-                "feed_id": "CNLA_BR",
-                "channel_id": "CNLA_BR.br",
-                "channel_name": "Cartoon Network Brasil",
-                "lang": "pt",
-                "tz": timezone(timedelta(hours=-3)),
-                "tz_str": "-0300"
-            }
-        ]
-    }
-}
-
 def login_and_get_token():
     email = os.environ.get("TAPKIT_EMAIL", "").strip()
     password = os.environ.get("TAPKIT_PASSWORD", "").strip()
@@ -335,8 +412,6 @@ def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_t
                 content_bytes = io.BytesIO(res.content)
                 df_grid = pd.read_excel(content_bytes)
                 for _, row in df_grid.iterrows():
-                    date_norm = standardize_date_str(row.get("Schedule Date") or row.get("Date"))
-                    start_time = str(row.get("Program Start Time") or "").strip()[:5]
                     orig_ep = str(row.get("Original Episode Title") or row.get("Episode Title(INGL)") or "").strip().upper()
                     es_title = str(row.get("Episode Title(ESPA)") or row.get("Episode Title (ESPA)") or "").strip()
                     en_title = str(row.get("Original Episode Title") or row.get("Episode Title(INGL)") or "").strip()
@@ -371,14 +446,6 @@ def sanitize_and_parse_xml(file_path, generator_name):
         return ET.fromstring("\n".join(cleaned_lines))
     except Exception:
         return ET.Element("tv", {"generator-info-name": generator_name})
-
-def parse_xmltv_date(date_str, tz_info):
-    if not date_str: return None
-    clean = re.sub(r"[^\d\s\+\-]", "", str(date_str).strip())
-    m = re.match(r"^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})", clean)
-    if not m: return None
-    y, mo, d, h, mi, s = map(int, m.groups())
-    return datetime(y, mo, d, min(h, 23), min(mi, 59), min(s, 59), tzinfo=tz_info)
 
 def format_xmltv_date(dt, tz_str):
     return dt.strftime(f"%Y%m%d%H%M%S {tz_str}")
@@ -421,7 +488,6 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
     col_ep_num = find_column(cols, ["Episode", "Episode Number", "Episodio"])
     col_season = find_column(cols, ["Season", "Season Number", "Temporada"])
     col_year = find_column(cols, ["Year", "Año"])
-    col_desc = find_column(cols, ["Title Synopsis", "Synopsis", "Description"])
     col_ep_desc = find_column(cols, ["Episode Sinopsis Prensa(ESPA)", "Episode Synopsis"])
 
     target_set = set(target_dates) if target_dates else None
@@ -448,7 +514,6 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
         year_val = str(row.get(col_year, "")).strip() if col_year and pd.notna(row.get(col_year)) else ""
 
         title_val = prog_name_val
-
         season_val = str(row.get(col_season, "")).strip() if col_season and pd.notna(row.get(col_season)) else ""
         ep_num_val = str(row.get(col_ep_num, "")).strip() if col_ep_num and pd.notna(row.get(col_ep_num)) else ""
         
@@ -464,7 +529,6 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
         sub_es = ep_name_val if ep_name_val and ep_name_val.lower() != "nan" else ""
         sub_en = ep_name_en_val if ep_name_en_val and ep_name_en_val.lower() != "nan" else ""
 
-        # Aplicar overrides manuales si coinciden los títulos en inglés o español
         for override_key, override_data in SPECIAL_EPISODE_OVERRIDES.items():
             if override_key in sub_en.lower() or override_key in sub_es.lower():
                 sub_es = override_data["es"]
@@ -485,10 +549,10 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
             "episode_num": xmltv_season_ep,
             "desc_es": desc_es if desc_es.lower() != "nan" else "",
             "year": year_val.split('.')[0] if year_val and year_val.replace('.', '', 1).isdigit() else "",
-            "icon": icon_url,
-            "type": "show"
+            "icon": icon_url
         })
 
+    # ORDENAMIENTO CRONOLÓGICO ESTRICTO PARA LA MADRUGADA Y EL DÍA
     raw_events = sorted(raw_events, key=lambda x: x["start"])
     new_programmes = []
     total_events = len(raw_events)
@@ -496,7 +560,7 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
     for i in range(total_events):
         ev = raw_events[i]
         start_dt = ev["start"]
-        stop_dt = ev.get("stop") or (raw_events[i + 1]["start"] if i + 1 < total_events else start_dt + timedelta(minutes=30))
+        stop_dt = raw_events[i + 1]["start"] if i + 1 < total_events else start_dt + timedelta(minutes=30)
 
         prog = ET.Element("programme", {
             "start": format_xmltv_date(start_dt, tz_str),
@@ -520,7 +584,7 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
         if start_key in existing_progs_map: root.remove(existing_progs_map[start_key])
         root.append(np)
 
-    print(f"[{channel_id}] Eventos procesados: {len(new_programmes)}")
+    print(f"[{channel_id}] Eventos procesados y ordenados cronológicamente: {len(new_programmes)}")
 
 def main():
     token = login_and_get_token()
@@ -542,7 +606,7 @@ def main():
             except Exception as e:
                 print(f"[ERROR] Feed {feed_cfg['feed_id']}: {e}")
 
-        sorted_progs = sorted(root.findall("programme"), key=lambda x: x.attrib.get("start", ""))
+        sorted_progs = sorted(root.findall("programme"), key=lambda x: (x.attrib.get("channel", ""), x.attrib.get("start", "")))
         for p in list(root.findall("programme")): root.remove(p)
         for p in sorted_progs: root.append(p)
 
