@@ -241,7 +241,6 @@ NETWORKS_CONFIG = {
 }
 
 def get_target_dates_to_process():
-    # Descargamos hoy y mañana para capturar la programación completa de las 24 horas operativas (06:00 a 05:59 del día siguiente)
     now = datetime.now()
     tomorrow = now + timedelta(days=1)
     return [now.strftime("%Y-%m-%d"), tomorrow.strftime("%Y-%m-%d")]
@@ -474,7 +473,6 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
     col_time = find_column(cols, ["Program Start Time", "Title Start Time", "Start Time", "Hora"]) or df.columns[1]
     col_title = find_column(cols, ["Program Name", "Title Name", "Title", "Programa"]) or df.columns[2]
     
-    # Recuperación correcta de títulos en español e inglés
     col_ep_name = find_column(cols, ["Episode Title(ESPA)", "Episode Title (ESPA)", "Episode Title(PORT)", "Episode Name English", "Episode Name", "Sub-title"])
     col_ep_name_en = find_column(cols, ["Episode Name English", "Original Episode Title", "Episode Title(INGL)"])
     col_ep_num = find_column(cols, ["Episode", "Episode Number", "Episodio"])
@@ -500,12 +498,6 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
         d, m, y = map(int, date_match.groups())
         hh, mm = map(int, time_match.groups())
         event_dt = datetime(y, m, d, hh, mm, 0, tzinfo=tz)
-
-        # Filtro estricto para asegurar el bloque operativo correcto de 06:00 a 05:59 del día corriente
-        event_date_str = event_dt.strftime("%Y-%m-%d")
-        if event_date_str != today_str and not (event_date_str == datetime.strptime(today_str, "%Y-%m-%d").date().strftime("%Y-%m-%d") and hh < 6):
-            # Si el evento es de la madrugada anterior pero pertenece al día operativo actual, lo permitimos
-            pass
 
         prog_name_val = str(row.get(col_title, "")).strip() if pd.notna(row.get(col_title)) else ""
         ep_name_val = str(row.get(col_ep_name, "")).strip() if col_ep_name and pd.notna(row.get(col_ep_name)) else ""
@@ -587,7 +579,7 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
 def main():
     token = login_and_get_token()
     target_dates = get_target_dates_to_process()
-    print(f"[INFO] Fechas objetivo para captura de madrugada: {target_dates}")
+    print(f"[INFO] Fechas objetivo: {target_dates}")
     
     cn_monthly_meta = download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_type="PAN")
 
@@ -601,6 +593,11 @@ def main():
             try:
                 xls_path = download_feed_xls(token, feed_cfg["feed_id"], net_config["referer"])
                 process_daily_feed(root, feed_cfg, xls_path, monthly_meta=cn_monthly_meta, token=token, target_dates=target_dates)
+            except requests.exceptions.HTTPError as he:
+                if he.response.status_code == 404:
+                    print(f"[AVISO] Feed {feed_cfg['feed_id']} no disponible (404), omitiendo...")
+                else:
+                    print(f"[ERROR HTTP] Feed {feed_cfg['feed_id']}: {he}")
             except Exception as e:
                 print(f"[ERROR] Feed {feed_cfg['feed_id']}: {e}")
 
