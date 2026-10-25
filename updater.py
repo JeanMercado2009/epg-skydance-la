@@ -50,7 +50,6 @@ def get_target_dates_to_process():
     weekday = now.weekday() # 0: Lunes, 4: Viernes, 5: Sábado, 6: Domingo
     dates_to_fetch = [now.strftime("%Y-%m-%d")]
 
-    # Ampliamos el rango para capturar correctamente las madrugadas y transiciones de fines de semana
     if weekday == 4: # Viernes
         dates_to_fetch.append((now + timedelta(days=1)).strftime("%Y-%m-%d"))
         dates_to_fetch.append((now + timedelta(days=2)).strftime("%Y-%m-%d"))
@@ -570,25 +569,10 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
 
     target_set = set(target_dates) if target_dates else None
 
-raw_events = []
+    raw_events = []
     for _, row in df.iterrows():
         date_raw = str(row.get(col_date, "")).strip()
         norm_date = standardize_date_str(date_raw)
-        
-        time_raw = str(row.get(col_time, "")).strip()
-        date_match = re.search(r"(\d{1,2})[-/](\d{1,2})[-/](\d{4})", date_raw)
-        time_match = re.search(r"(\d{1,2}):(\d{2})", time_raw)
-        if not time_match and date_match: time_match = re.search(r"(\d{1,2}):(\d{2})", time_raw)
-        if not date_match or not time_match: continue
-
-        d, m, y = map(int, date_match.groups())
-        hh, mm = map(int, time_match.groups())
-        
-        # Corrección de desfase de madrugada (Broadcast Day adjustment)
-        # Si la hora está entre las 00:00 y las 05:59, pertenece técnicamente a la trasnoche del día operativo
-        event_dt = datetime(y, m, d, hh, mm, 0, tzinfo=tz)
-
-        # Validación con las fechas objetivo
         if target_set and norm_date and norm_date not in target_set:
             continue
 
@@ -687,7 +671,6 @@ raw_events = []
                     "type": "break"
                 })
 
-    # Ordenamiento cronológico puro respetando el ciclo de transmisión (06:00 AM en adelante)
     raw_events = sorted(raw_events, key=lambda x: x["start"])
     new_programmes = []
     total_events = len(raw_events)
