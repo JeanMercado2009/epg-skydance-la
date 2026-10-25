@@ -21,97 +21,12 @@
   <channel id="WARNER_MX.mx">
     <display-name>Warner Channel México</display-name>
   </channel>
-  <programme start="20261019131500 -0600" stop="20261019150200 -0600" channel="WARNER_MX.mx">
-    <title lang="es">Sin Límites</title>
-    <sub-title lang="es">Limitless</sub-title>
-    <desc lang="es">Eddie Morra está seguro de que no tiene futuro. Cuando un viejo amigo le da una droga que produce una mayor agudeza mental, Eddie asciende a la cima del mundo financiero y atrae la atención de un magnate que intenta usarlo para hacer una fortuna.</desc>
-  </programme>
-  <programme start="20261019140300 -0500" stop="20261019155400 -0500" channel="WARNER_CO.co">
-    <title lang="es">Shrek 2</title>
-    <desc lang="es">Los padres de la princesa Fiona la invitan con Shrek a una cena para celebrar su boda. Si tan solo supieran que ambos recién casados son ogros...</desc>
-  </programme>
-  <programme start="20261019145200 -0400" stop="20261019162700 -0400" channel="WARNER_VE.ve">
-    <title lang="es">Shrek 2</title>
-    <desc lang="es">Los padres de la princesa Fiona la invitan con Shrek a una cena para celebrar su boda. Si tan solo supieran que ambos recién casados son ogros...</desc>
-  </programme>
-  <programme start="20261019145500 -0400" stop="20261019163300 -0400" channel="WARNER_CL.cl">
-    <title lang="es">Shrek 2</title>
-    <desc lang="es">Los padres de la princesa Fiona la invitan con Shrek a una cena para celebrar su boda. Si tan solo supieran que ambos recién casados son ogros...</desc>
-  </programme>
-  <programme start="20261019145800 -0500" stop="20261019163400 -0500" channel="WARNER_AN.co">
-    <title lang="es">Shrek 2</title>
-    <desc lang="es">Los padres de la princesa Fiona la invitan con Shrek a una cena para celebrar su boda. Si tan solo supieran que ambos recién casados son ogros...</desc>
-  </programme>
-  <programme start="20261019150200 -0600" stop="20261019163500 -0600" channel="WARNER_MX.mx">
-    <title lang="es">Shrek 2</title>
-    <desc lang="es">Los padres de la princesa Fiona la invitan con Shrek a una cena para celebrar su boda. Si tan solo supieran que ambos recién casados son ogros...</desc>
-  </programme>
-  <programme start="20261019155400 -0500" stop="20261019174200 -0500" channel="WARNER_CO.co">
-    <title lang="es">Shrek Tercero</title>
-    <sub-title lang="es">Shrek the Third</sub-title>
-    <desc lang="es">Cuando su nuevo suegro, el rey Harold, se enferma, Shrek tiene la presión de ser el próximo heredero del reino Muy Muy Lejano. Como no quiere mudarse de su adorado pantano, Shrek recluta a sus amigos Burro y Gato para que lo ayuden a traer al rebelde Artie al reinado, para que sea el nuevo rey.</desc>
-  </programme>
-  <programme start="20261019155900 -0300" stop="20261019180300 -0300" channel="WARNER_BR.br">
-    <title lang="pt">Homem-Aranha no Aranhaverso</title>
-    <sub-title lang="pt">Spider-Man: Into the Spider-Verse</sub-title>
-    <desc lang="pt">Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras versões do Homem-Aranha.</desc>
-  </programme>
-  <programme start="20261019161500 -0300" stop="20261019180000 -0300" channel="WARNER_AR.ar">
-    <title lang="es">Shrek Tercero</title>
-    <sub-title lang="es">Shrek the Third</sub-title>
-    <desc lang="es">Cuando su nuevo suegro, el rey Harold, se enferma, Shrek tiene la presión de ser el próximo heredero del reino Muy Muy Lejano. Como no quiere mudarse de su adorado pantano, Shrek recluta a sus amigos Burro y Gato para que lo ayuden a traer al rebelde Artie al reinado, para que sea el nuevo rey.</desc>
-  </programme>
-  <programme start="20261019162700 -0400" stop="20261019180200 -0400" channel="WARNER_VE.ve">
-    <title lang="es">Shrek Tercero</title>
-    <sub-title lang="es">Shrek the Third</sub-title>
-    <desc lang="es">Cuando su nuevo suegro, el rey Harold, se enferma, Shrek tiene la presión de ser el próximo heredero del reino Muy Muy Lejano. Como no quiere mudarse de su adorado pantano, Shrek recluta a sus amigos Burro y Gato para que lo ayuden a traer al rebelde Artie al reinado, para que sea el nuevo rey.</desc>
-  </programme>
-  <programme start="20261019163300 -0400" stop="20261019181300 -0400" channel="WARNER_CL.cl">
-    <title lang="es">Shrek Tercero</title>
-    <sub-title lang="es">Shrek the Third</sub-title>
-    <desc lang="es">Cuando su nuevo suegro, el rey Harold, se enferma, Shrek tiene la presión de ser el próximo heredero del reino Muy Muy Lejano. Como no quiere mudarse de su adorado pantano, Shrek recluta a sus amigos Burro y Gato para que lo ayuden a traer al rebelde Artie al reinado, para que sea el nuevo rey.</desc>
-  </programme>
-  <programme start="20261019163400 -0500" stop="20261019181200 -0500" channel="WARNER_AN.co">
-    <title lang="es">Shrek Tercero</title>
-    <sub-title lang="es">Shrek the Third</sub-title>
-    <desc lang="es">Cuando su nuevo suegro, el rey Harold, se enferma, Shrek tiene la presión de ser el próximo heredero del reino Muy Muy Lejano. Como no quiere mudarse de su adorado pantano, Shrek recluta a sus amigos Burro y Gato para que lo ayuden a traer al rebelde Artie al reinado, para que sea el nuevo rey.</desc>
-  </programme>
-  <programme start="20261019163500 -0600" stop="20261019181100 -0600" channel="WARNER_MX.mx">
-    <title lang="es">Shrek Tercero</title>
-    <sub-title lang="es">Shrek the Third</sub-title>
-    <desc lang="es">Cuando su nuevo suegro, el rey Harold, se enferma, Shrek tiene la presión de ser el próximo heredero del reino Muy Muy Lejano. Como no quiere mudarse de su adorado pantano, Shrek recluta a sus amigos Burro y Gato para que lo ayuden a traer al rebelde Artie al reinado, para que sea el nuevo rey.</desc>
-  </programme>
-  <programme start="20261019174200 -0500" stop="20261019193400 -0500" channel="WARNER_CO.co">
-    <title lang="es">Shrek para Siempre</title>
-    <sub-title lang="es">Shrek Forever After</sub-title>
-    <desc lang="es">Con el deseo de volver a los tiempos en los que era un aterrador y despreocupado ogro, Shrek firma un contrato con el malvado y ambicioso Rumpelstiltskin para volver a ser el mismo de antes. Sin embargo, el pacto termina revolucionando su vida y la de los que lo rodean. Ahora Shrek tiene sólo veinticuatro horas para recuperar a sus amigos y esposa y revertir el contrato para recobrar su vida y salvar a su reino del malvado villano.</desc>
-  </programme>
-  <programme start="20261019180000 -0300" stop="20261019194700 -0300" channel="WARNER_AR.ar">
-    <title lang="es">Shrek para Siempre</title>
-    <sub-title lang="es">Shrek Forever After</sub-title>
-    <desc lang="es">Con el deseo de volver a los tiempos en los que era un aterrador y despreocupado ogro, Shrek firma un contrato con el malvado y ambicioso Rumpelstiltskin para volver a ser el mismo de antes. Sin embargo, el pacto termina revolucionando su vida y la de los que lo rodean. Ahora Shrek tiene sólo veinticuatro horas para recuperar a sus amigos y esposa y revertir el contrato para recobrar su vida y salvar a su reino del malvado villano.</desc>
-  </programme>
-  <programme start="20261019180200 -0400" stop="20261019194700 -0400" channel="WARNER_VE.ve">
-    <title lang="es">Shrek para Siempre</title>
-    <sub-title lang="es">Shrek Forever After</sub-title>
-    <desc lang="es">Con el deseo de volver a los tiempos en los que era un aterrador y despreocupado ogro, Shrek firma un contrato con el malvado y ambicioso Rumpelstiltskin para volver a ser el mismo de antes. Sin embargo, el pacto termina revolucionando su vida y la de los que lo rodean. Ahora Shrek tiene sólo veinticuatro horas para recuperar a sus amigos y esposa y revertir el contrato para recobrar su vida y salvar a su reino del malvado villano.</desc>
-  </programme>
-  <programme start="20261019180300 -0300" stop="20261019200600 -0300" channel="WARNER_BR.br">
-    <title lang="pt">Esposa de Mentirinha</title>
-    <sub-title lang="pt">Just Go with It</sub-title>
-    <desc lang="pt">Danny, um bem sucedido cirurgião plástico, quer um relacionamento sério, mas mente constantemente para conquistar as mulheres. Para driblar a carência, se envolve em namoricos e transas sem o menor compromisso. Assim, ele toca sua vida até que um dia ele conhece a mulher de sua vida. Disposto a se casar com ela, Danny pisa na bola quando, para conquistá-la, inventa que é marido de sua melhor amiga Katherine, mãe solteira de um casal de crianças e que vai se separar. Começa então uma verdadeira aventura amorosa recheada de mentiras, confusões de todos os tipos em uma viagem para o Hawai.</desc>
-  </programme>
   <programme start="20261019181100 -0600" stop="20261019195200 -0600" channel="WARNER_MX.mx">
     <title lang="es">Shrek para Siempre</title>
     <sub-title lang="es">Shrek Forever After</sub-title>
     <desc lang="es">Con el deseo de volver a los tiempos en los que era un aterrador y despreocupado ogro, Shrek firma un contrato con el malvado y ambicioso Rumpelstiltskin para volver a ser el mismo de antes. Sin embargo, el pacto termina revolucionando su vida y la de los que lo rodean. Ahora Shrek tiene sólo veinticuatro horas para recuperar a sus amigos y esposa y revertir el contrato para recobrar su vida y salvar a su reino del malvado villano.</desc>
   </programme>
   <programme start="20261019181200 -0500" stop="20261019195100 -0500" channel="WARNER_AN.co">
-    <title lang="es">Shrek para Siempre</title>
-    <sub-title lang="es">Shrek Forever After</sub-title>
-    <desc lang="es">Con el deseo de volver a los tiempos en los que era un aterrador y despreocupado ogro, Shrek firma un contrato con el malvado y ambicioso Rumpelstiltskin para volver a ser el mismo de antes. Sin embargo, el pacto termina revolucionando su vida y la de los que lo rodean. Ahora Shrek tiene sólo veinticuatro horas para recuperar a sus amigos y esposa y revertir el contrato para recobrar su vida y salvar a su reino del malvado villano.</desc>
-  </programme>
-  <programme start="20261019181300 -0400" stop="20261019195100 -0400" channel="WARNER_CL.cl">
     <title lang="es">Shrek para Siempre</title>
     <sub-title lang="es">Shrek Forever After</sub-title>
     <desc lang="es">Con el deseo de volver a los tiempos en los que era un aterrador y despreocupado ogro, Shrek firma un contrato con el malvado y ambicioso Rumpelstiltskin para volver a ser el mismo de antes. Sin embargo, el pacto termina revolucionando su vida y la de los que lo rodean. Ahora Shrek tiene sólo veinticuatro horas para recuperar a sus amigos y esposa y revertir el contrato para recobrar su vida y salvar a su reino del malvado villano.</desc>
@@ -145,21 +60,6 @@
     <title lang="es">Una Esposa De Mentira</title>
     <sub-title lang="es">Just Go with It</sub-title>
     <desc lang="es">Danny Maccabee es un cirujano plástico que siempre finge estar casado para así no comprometerse con ninguna mujer. Pero un día conoce a la despampanante Palmer, una joven con la que quiere algo más serio. El problema es que cuando Palmer descubre su anillo de casado, piensa que lo está, así que Danny decide contratar a su ayudante Katherine, una madre soltera con hijos, para que finjan ser su familia. Su intención es demostrarle a Palmer que su amor por ella es tan grande que está a punto de divorciarse de su mujer.</desc>
-  </programme>
-  <programme start="20261019200600 -0300" stop="20261019203000 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">FINANCIAL PERMEABILITY, THE</sub-title>
-    <desc lang="pt">A 'simples' solução que Sheldon propõe para resolver os problemas financeiros de Penny termina com um confrontar entre Leonard e Kurt (ator convidado Brian Patrick Wade), o corpulento ex-namorado de Penny.</desc>
-  </programme>
-  <programme start="20261019203000 -0300" stop="20261019205400 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">MATERNAL CAPACITANCE, THE</sub-title>
-    <desc lang="pt">A desastrosa visita de Mrs. Hofstadter (convidada especial Christine Baranski) faz com que Penny e Leonard se aproximem cada vez mais.</desc>
-  </programme>
-  <programme start="20261019205400 -0300" stop="20261019211900 -0300" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">CUSHION SATURATION, THE</sub-title>
-    <desc lang="pt">Um jogo de paintball levará Penny e Leonard a brigar enquanto Howard, por sua vez, consegue um pouco de carinho de uma velha amiga.</desc>
   </programme>
   <programme start="20261019211900 -0300" stop="20261019214400 -0300" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
@@ -6431,25 +6331,79 @@
     <sub-title lang="pt">THE EQUALIZER 2</sub-title>
     <desc lang="pt">O Protetor 2 conta a história de Robert McCall (Denzel Washington), um homem que agora trabalha como motorista e ajuda as pessoas que enfrentam dificuldades decorrentes de injustiças, em Massachusetts, Estados Unidos. Quando sua amiga Susan Plummer (Melissa Leo) é morta durante a investigação de um assassinato na Bélgica, ele decide sair do anonimato e encontrar seu antigo parceiro, Dave (Pedro Pascal), no intuito de encontrar pistas sobre o autor do crime.</desc>
   </programme>
+  <programme start="20261025001100 -0500" stop="20261025001900 -0500" channel="WARNER_AN.co">
+    <title lang="es">INSIDE WARNER: CLAYFACE</title>
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261025001600 -0400" stop="20261025002400 -0400" channel="WARNER_CL.cl">
+    <title lang="es">INSIDE WARNER: CLAYFACE</title>
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261025001700 -0600" stop="20261025002400 -0600" channel="WARNER_MX.mx">
+    <title lang="es">INSIDE WARNER: CLAYFACE</title>
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261025001900 -0400" stop="20261025002700 -0400" channel="WARNER_VE.ve">
+    <title lang="es">INSIDE WARNER: CLAYFACE</title>
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261025001900 -0500" stop="20261025004200 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">TOAST DERIVATION, THE</sub-title>
+  </programme>
+  <programme start="20261025002100 -0300" stop="20261025002900 -0300" channel="WARNER_AR.ar">
+    <title lang="es">INSIDE WARNER: CLAYFACE</title>
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261025002400 -0400" stop="20261025004900 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">TOAST DERIVATION, THE</sub-title>
+  </programme>
   <programme start="20261025002400 -0500" stop="20261025023100 -0500" channel="WARNER_AN.co">
     <title lang="es">EL JUSTICIERO 2</title>
     <sub-title lang="es">THE EQUALIZER 2</sub-title>
     <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
+  </programme>
+  <programme start="20261025002400 -0600" stop="20261025005200 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">TOAST DERIVATION, THE</sub-title>
+  </programme>
+  <programme start="20261025002500 -0500" stop="20261025003300 -0500" channel="WARNER_CO.co">
+    <title lang="es">INSIDE WARNER: CLAYFACE</title>
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
   </programme>
   <programme start="20261025002600 -0400" stop="20261025023400 -0400" channel="WARNER_CL.cl">
     <title lang="es">EL JUSTICIERO 2</title>
     <sub-title lang="es">THE EQUALIZER 2</sub-title>
     <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
   </programme>
+  <programme start="20261025002700 -0400" stop="20261025005000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">TOAST DERIVATION, THE</sub-title>
+  </programme>
+  <programme start="20261025002900 -0300" stop="20261025005500 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">TOAST DERIVATION, THE</sub-title>
+  </programme>
   <programme start="20261025002900 -0400" stop="20261025023400 -0400" channel="WARNER_VE.ve">
     <title lang="es">EL JUSTICIERO 2</title>
     <sub-title lang="es">THE EQUALIZER 2</sub-title>
     <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
   </programme>
+  <programme start="20261025003000 -0300" stop="20261025005100 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">HOT TROLL DEVIATION, THE</sub-title>
+    <sub-title lang="en">HOT TROLL DEVIATION, THE</sub-title>
+    <desc lang="pt">Wolowitz tenta voltar com Bernadette, enquanto Sheldon e Raj se enfrentam numa guerra na universidade.</desc>
+  </programme>
   <programme start="20261025003100 -0300" stop="20261025024200 -0300" channel="WARNER_AR.ar">
     <title lang="es">EL JUSTICIERO 2</title>
     <sub-title lang="es">THE EQUALIZER 2</sub-title>
     <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
+  </programme>
+  <programme start="20261025003300 -0500" stop="20261025010000 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">TOAST DERIVATION, THE</sub-title>
   </programme>
   <programme start="20261025003300 -0600" stop="20261025024200 -0600" channel="WARNER_MX.mx">
     <title lang="es">EL JUSTICIERO 2</title>
@@ -6461,15 +6415,183 @@
     <sub-title lang="es">THE EQUALIZER 2</sub-title>
     <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
   </programme>
+  <programme start="20261025004200 -0500" stop="20261025010500 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">PRESTIDIGITATION APPROXIMATION, THE</sub-title>
+  </programme>
+  <programme start="20261025004900 -0400" stop="20261025011300 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">PRESTIDIGITATION APPROXIMATION, THE</sub-title>
+  </programme>
+  <programme start="20261025005000 -0400" stop="20261025011200 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">PRESTIDIGITATION APPROXIMATION, THE</sub-title>
+  </programme>
+  <programme start="20261025005100 -0300" stop="20261025011400 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">DESPERATION EMANATION, THE</sub-title>
+    <sub-title lang="en">DESPERATION EMANATION, THE</sub-title>
+    <desc lang="pt">Sheldon conhece a mãe de Amy e desiste do relacionamento. Enquanto isso, Leonard percebe que é o único que está sem namorada.</desc>
+  </programme>
+  <programme start="20261025005200 -0600" stop="20261025011600 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">PRESTIDIGITATION APPROXIMATION, THE</sub-title>
+  </programme>
   <programme start="20261025005400 -0300" stop="20261025025900 -0300" channel="WARNER_BR.br">
     <title lang="pt">Esquadrão Suicida</title>
     <sub-title lang="pt">Suicide Squad</sub-title>
     <desc lang="pt">É bom ser mau ... Reúna uma equipe dos super vilões mais perigosos e encarcerados do mundo, ofereça-lhes o mais poderoso arsenal à disposição do governo e envie-os em uma missão para derrotar uma entidade enigmática e insuperável. A oficial de inteligência norte-americana Amanda Waller determinou que apenas um grupo secretamente convocado de indivíduos desprezíveis e desprezíveis, com quase nada a perder, fará.</desc>
   </programme>
+  <programme start="20261025005500 -0300" stop="20261025012000 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">PRESTIDIGITATION APPROXIMATION, THE</sub-title>
+  </programme>
+  <programme start="20261025010000 -0500" stop="20261025012200 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">PRESTIDIGITATION APPROXIMATION, THE</sub-title>
+  </programme>
+  <programme start="20261025010500 -0500" stop="20261025012800 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">ZARNECKI INCURSION, THE</sub-title>
+  </programme>
+  <programme start="20261025011200 -0400" stop="20261025013500 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">ZARNECKI INCURSION, THE</sub-title>
+  </programme>
+  <programme start="20261025011300 -0400" stop="20261025013500 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">ZARNECKI INCURSION, THE</sub-title>
+  </programme>
+  <programme start="20261025011400 -0300" stop="20261025013700 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">IRISH PUB FORMULATION, THE</sub-title>
+    <sub-title lang="en">IRISH PUB FORMULATION, THE</sub-title>
+    <desc lang="pt">Raj proíbe os amigos de paquerarem sua irmã que o está visitando, sem saber que Leonard já a conhecia.</desc>
+  </programme>
+  <programme start="20261025011600 -0600" stop="20261025014000 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">ZARNECKI INCURSION, THE</sub-title>
+  </programme>
+  <programme start="20261025012000 -0300" stop="20261025014600 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">ZARNECKI INCURSION, THE</sub-title>
+  </programme>
+  <programme start="20261025012200 -0500" stop="20261025014500 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">ZARNECKI INCURSION, THE</sub-title>
+  </programme>
+  <programme start="20261025012800 -0500" stop="20261025015100 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">THE HERB GARDEN GERMINATION</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/nlidiQe6jIloJSrBLxQdPDZuVb5.jpg" />
+  </programme>
+  <programme start="20261025013500 -0400" stop="20261025015800 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">THE HERB GARDEN GERMINATION</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/nlidiQe6jIloJSrBLxQdPDZuVb5.jpg" />
+  </programme>
+  <programme start="20261025013500 -0400" stop="20261025015800 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">THE HERB GARDEN GERMINATION</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/nlidiQe6jIloJSrBLxQdPDZuVb5.jpg" />
+  </programme>
+  <programme start="20261025013700 -0300" stop="20261025015800 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">APOLOGY INSUFFICIENCY, THE</sub-title>
+    <sub-title lang="en">APOLOGY INSUFFICIENCY, THE</sub-title>
+    <desc lang="pt">Os rapazes são interrogados pelo FBI para que a segurança de Howard será garantida.</desc>
+  </programme>
+  <programme start="20261025014000 -0600" stop="20261025020400 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">THE HERB GARDEN GERMINATION</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/nlidiQe6jIloJSrBLxQdPDZuVb5.jpg" />
+  </programme>
+  <programme start="20261025014500 -0500" stop="20261025020800 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">THE HERB GARDEN GERMINATION</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/nlidiQe6jIloJSrBLxQdPDZuVb5.jpg" />
+  </programme>
+  <programme start="20261025014600 -0300" stop="20261025021200 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">THE HERB GARDEN GERMINATION</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/nlidiQe6jIloJSrBLxQdPDZuVb5.jpg" />
+  </programme>
+  <programme start="20261025015100 -0500" stop="20261025021300 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">THE AGREEMENT DISSECTION</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/8pkhzxsCYsknfd3gsiGH56yKACs.jpg" />
+  </programme>
+  <programme start="20261025015800 -0300" stop="20261025021800 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">21-SECOND EXCITATION, THE</sub-title>
+    <sub-title lang="en">21-SECOND EXCITATION, THE</sub-title>
+    <desc lang="pt">Os rapazes acampam e fazem fila para ver 21 segundos a mais de Raiders of the Lost Ark e ficam bravos ao verem o malvado Will Wheaton e seus amigos furarem a fila. Por outro lado, Penny e Bernadette convidam Amy para uma noite só de garotas.</desc>
+  </programme>
+  <programme start="20261025015800 -0400" stop="20261025022000 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">THE AGREEMENT DISSECTION</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/8pkhzxsCYsknfd3gsiGH56yKACs.jpg" />
+  </programme>
+  <programme start="20261025015800 -0400" stop="20261025022000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">THE AGREEMENT DISSECTION</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/8pkhzxsCYsknfd3gsiGH56yKACs.jpg" />
+  </programme>
+  <programme start="20261025020400 -0600" stop="20261025022600 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">THE AGREEMENT DISSECTION</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/8pkhzxsCYsknfd3gsiGH56yKACs.jpg" />
+  </programme>
+  <programme start="20261025020800 -0500" stop="20261025023000 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">THE AGREEMENT DISSECTION</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/8pkhzxsCYsknfd3gsiGH56yKACs.jpg" />
+  </programme>
+  <programme start="20261025021200 -0300" stop="20261025023400 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">THE AGREEMENT DISSECTION</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/8pkhzxsCYsknfd3gsiGH56yKACs.jpg" />
+  </programme>
+  <programme start="20261025021300 -0500" stop="20261025023600 -0500" channel="WARNER_AN.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">THE WILDEBEEST IMPLEMENTATION</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/dNJ1kLNhA9dDuGjZIq8OK8l5ROi.jpg" />
+  </programme>
+  <programme start="20261025021800 -0300" stop="20261025024000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">THE BIG BANG THEORY</title>
+    <sub-title lang="pt">BOYFRIEND COMPLEXITY, THE</sub-title>
+    <sub-title lang="en">BOYFRIEND COMPLEXITY, THE</sub-title>
+    <desc lang="pt">Penny pede para Leonard manter a mentira que contou ao pai durante uma visita dele. Enquanto isso, Haward, Raj e Bernadette passam a noite fazendo um projeto de astronomia.</desc>
+  </programme>
+  <programme start="20261025022000 -0400" stop="20261025024300 -0400" channel="WARNER_CL.cl">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">THE WILDEBEEST IMPLEMENTATION</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/dNJ1kLNhA9dDuGjZIq8OK8l5ROi.jpg" />
+  </programme>
+  <programme start="20261025022000 -0400" stop="20261025024300 -0400" channel="WARNER_VE.ve">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">THE WILDEBEEST IMPLEMENTATION</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/dNJ1kLNhA9dDuGjZIq8OK8l5ROi.jpg" />
+  </programme>
+  <programme start="20261025022600 -0600" stop="20261025024900 -0600" channel="WARNER_MX.mx">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">THE WILDEBEEST IMPLEMENTATION</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/dNJ1kLNhA9dDuGjZIq8OK8l5ROi.jpg" />
+  </programme>
+  <programme start="20261025023000 -0500" stop="20261025025300 -0500" channel="WARNER_CO.co">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">THE WILDEBEEST IMPLEMENTATION</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/dNJ1kLNhA9dDuGjZIq8OK8l5ROi.jpg" />
+  </programme>
   <programme start="20261025023100 -0500" stop="20261025025300 -0500" channel="WARNER_AN.co">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">JUSTICE LEAGUE RECOMBINATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261025023400 -0300" stop="20261025025700 -0300" channel="WARNER_AR.ar">
+    <title lang="es">THE BIG BANG THEORY</title>
+    <sub-title lang="en">THE WILDEBEEST IMPLEMENTATION</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/dNJ1kLNhA9dDuGjZIq8OK8l5ROi.jpg" />
   </programme>
   <programme start="20261025023400 -0400" stop="20261025025600 -0400" channel="WARNER_CL.cl">
     <title lang="es">THE BIG BANG THEORY</title>
@@ -6481,6 +6603,18 @@
     <sub-title lang="es">JUSTICE LEAGUE RECOMBINATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
+  <programme start="20261025023600 -0500" stop="20261025025900 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
+  </programme>
+  <programme start="20261025024000 -0300" stop="20261025030100 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">BAD NEWS FROM THE CLINIC?</sub-title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
+    <desc lang="pt">Charlie sai com uma mulher chamada Sherri. Acontece que ela é uma egocêntrica, manipuladora e narcisista; enfim, uma versão feminina de Charlie. Porém, o solteiro insensível não gosta da forma como Sherri o trata. Enquanto isso, Alan tenta estabelecer um pouco de disciplina para Jake para melhorar seus hábitos de estudo.</desc>
+    <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
+  </programme>
   <programme start="20261025024200 -0300" stop="20261025030300 -0300" channel="WARNER_AR.ar">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">JUSTICE LEAGUE RECOMBINATION, THE</sub-title>
@@ -6491,15 +6625,35 @@
     <sub-title lang="es">JUSTICE LEAGUE RECOMBINATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
+  <programme start="20261025024300 -0400" stop="20261025030500 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
+  </programme>
+  <programme start="20261025024300 -0400" stop="20261025030600 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
+  </programme>
   <programme start="20261025024700 -0500" stop="20261025030900 -0500" channel="WARNER_CO.co">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">JUSTICE LEAGUE RECOMBINATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
+  <programme start="20261025024900 -0600" stop="20261025031200 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
+  </programme>
   <programme start="20261025025300 -0500" stop="20261025031600 -0500" channel="WARNER_AN.co">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">BUS PANTS UTILIZATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261025025300 -0500" stop="20261025031600 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
   </programme>
   <programme start="20261025025600 -0400" stop="20261025031900 -0400" channel="WARNER_CL.cl">
     <title lang="es">THE BIG BANG THEORY</title>
@@ -6511,9 +6665,24 @@
     <sub-title lang="es">BUS PANTS UTILIZATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
+  <programme start="20261025025700 -0300" stop="20261025032000 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
+  </programme>
   <programme start="20261025025900 -0300" stop="20261025030600 -0300" channel="WARNER_BR.br">
     <title lang="pt">INSIDE WARNER: CARA-DE-BARRO</title>
     <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261025025900 -0500" stop="20261025032200 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">PRICE OF HEALTHY GUMS IS ETERNAL VIGILANCE, THE</sub-title>
+  </programme>
+  <programme start="20261025030100 -0300" stop="20261025032400 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">PRICE OF HEALTHY GUMS IS ETERNAL VIGILANCE, THE</sub-title>
+    <sub-title lang="en">PRICE OF HEALTHY GUMS IS ETERNAL VIGILANCE, THE</sub-title>
+    <desc lang="pt">Quando Evelyn diz a Jake que Alan roubou um brinquedo quando era criança, Alan nega o fato, como sempre o negou desde que o incidente aconteceu. Ele finalmente admite à Charlie que existe um lado negativo em Alan, o lado diabólico que roubou o brinquedo, porém, o lado bom de Alan não o aceita. Charlie se sente culpado e admite que foi ele quem colocou o brinquedo no bolso de Alan, destruindo o bom relacionamento entre os irmãos, até que Evelyn se coloca no papel de mediadora.</desc>
   </programme>
   <programme start="20261025030300 -0300" stop="20261025032500 -0300" channel="WARNER_AR.ar">
     <title lang="es">THE BIG BANG THEORY</title>
@@ -6525,20 +6694,36 @@
     <sub-title lang="es">BUS PANTS UTILIZATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
+  <programme start="20261025030500 -0400" stop="20261025032800 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">PRICE OF HEALTHY GUMS IS ETERNAL VIGILANCE, THE</sub-title>
+  </programme>
   <programme start="20261025030600 -0300" stop="20261025032900 -0300" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
     <sub-title lang="pt">PLIMPTON STIMULATION, THE</sub-title>
     <desc lang="pt">Leonard e Sheldon disputam a atenção de uma cientista que acaba de chegar de visita.</desc>
+  </programme>
+  <programme start="20261025030600 -0400" stop="20261025032900 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">PRICE OF HEALTHY GUMS IS ETERNAL VIGILANCE, THE</sub-title>
   </programme>
   <programme start="20261025030900 -0500" stop="20261025033200 -0500" channel="WARNER_CO.co">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">BUS PANTS UTILIZATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
+  <programme start="20261025031200 -0600" stop="20261025033500 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">PRICE OF HEALTHY GUMS IS ETERNAL VIGILANCE, THE</sub-title>
+  </programme>
   <programme start="20261025031600 -0500" stop="20261025033800 -0500" channel="WARNER_AN.co">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">LOVE CAR DISPLACEMENT, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261025031600 -0500" stop="20261025033900 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">PRICE OF HEALTHY GUMS IS ETERNAL VIGILANCE, THE</sub-title>
   </programme>
   <programme start="20261025031900 -0400" stop="20261025034200 -0400" channel="WARNER_CL.cl">
     <title lang="es">THE BIG BANG THEORY</title>
@@ -6550,6 +6735,20 @@
     <sub-title lang="es">LOVE CAR DISPLACEMENT, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
+  <programme start="20261025032000 -0300" stop="20261025034300 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">PRICE OF HEALTHY GUMS IS ETERNAL VIGILANCE, THE</sub-title>
+  </programme>
+  <programme start="20261025032200 -0500" stop="20261025034500 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">KOSHER SLAUGHTERHOUSE OUT IN FONTANA, A</sub-title>
+  </programme>
+  <programme start="20261025032400 -0300" stop="20261025034600 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">KOSHER SLAUGHTERHOUSE OUT IN FONTANA, A</sub-title>
+    <sub-title lang="en">KOSHER SLAUGHTERHOUSE OUT IN FONTANA, A</sub-title>
+    <desc lang="pt">Para poder ser um bom exemplo para Jake, que anda faltando com o respeito para com a sua mãe, Charlie e Alan concordam em dar uma festa em homenagem à Evelyn para celebrar suas conquistas como corretora de bens de raízes. Berta sugere que contratem sua irmã Daisy, que tem uma empresa que organiza eventos. Mas Daisy, que acaba de se divorciar, está emocionalmente abalada e a festa acaba sendo muito diferente do que se esperava.</desc>
+  </programme>
   <programme start="20261025032500 -0300" stop="20261025034700 -0300" channel="WARNER_AR.ar">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">LOVE CAR DISPLACEMENT, THE</sub-title>
@@ -6560,20 +6759,36 @@
     <sub-title lang="es">LOVE CAR DISPLACEMENT, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
+  <programme start="20261025032800 -0400" stop="20261025035000 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">KOSHER SLAUGHTERHOUSE OUT IN FONTANA, A</sub-title>
+  </programme>
   <programme start="20261025032900 -0300" stop="20261025035000 -0300" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
     <sub-title lang="pt">STAIRCASE IMPLEMENTATION, THE</sub-title>
     <desc lang="pt">Leonard conta para Penny como começou sua amizade com Sheldon; e ainda descobriremos o que aconteceu no elevador do edifício.</desc>
+  </programme>
+  <programme start="20261025032900 -0400" stop="20261025035200 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">KOSHER SLAUGHTERHOUSE OUT IN FONTANA, A</sub-title>
   </programme>
   <programme start="20261025033200 -0500" stop="20261025035500 -0500" channel="WARNER_CO.co">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">LOVE CAR DISPLACEMENT, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
+  <programme start="20261025033500 -0600" stop="20261025035800 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">KOSHER SLAUGHTERHOUSE OUT IN FONTANA, A</sub-title>
+  </programme>
   <programme start="20261025033800 -0500" stop="20261025040100 -0500" channel="WARNER_AN.co">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">THESPIAN CATALYST, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261025033900 -0500" stop="20261025040200 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">KOSHER SLAUGHTERHOUSE OUT IN FONTANA, A</sub-title>
   </programme>
   <programme start="20261025034200 -0400" stop="20261025040500 -0400" channel="WARNER_CL.cl">
     <title lang="es">THE BIG BANG THEORY</title>
@@ -6585,6 +6800,22 @@
     <sub-title lang="es">THESPIAN CATALYST, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
+  <programme start="20261025034300 -0300" stop="20261025040300 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">KOSHER SLAUGHTERHOUSE OUT IN FONTANA, A</sub-title>
+  </programme>
+  <programme start="20261025034500 -0500" stop="20261025040800 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">FRANKENSTEIN AND THE HORNY VILLAGERS</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/7roIsDGSSGnOGAUZ4THbAvQTlUn.jpg" />
+  </programme>
+  <programme start="20261025034600 -0300" stop="20261025040700 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">FRANKENSTEIN AND THE HORNY VILLAGERS</sub-title>
+    <sub-title lang="en">FRANKENSTEIN AND THE HORNY VILLAGERS</sub-title>
+    <desc lang="pt">As expectativas de Alan para com o seu primeiro encontro com Nancy (KELLEY WEST), uma mulher que ele conheceu enquanto fazia compras, são mais do que satisfeitas quando ela o apresenta a um mundo de sexo que ele nunca sequer imaginou que existisse. Charlie fica feliz por seu irmão estar vivendo o tipo de vida sexual que ele sempre apreciou, mas ao mesmo tempo ele não está muito entusiasmado por ficar totalmente responsável por Jake enquanto Alan tem suas fantasias plenamente satisfeitas. Quando Alan começa a pensar que está amando esta mulher, Charlie percebe que precisa tomar suas providências.</desc>
+    <icon src="https://media.themoviedb.org/t/p/w500/7roIsDGSSGnOGAUZ4THbAvQTlUn.jpg" />
+  </programme>
   <programme start="20261025034700 -0300" stop="20261025041000 -0300" channel="WARNER_AR.ar">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">THESPIAN CATALYST, THE</sub-title>
@@ -6595,20 +6826,45 @@
     <sub-title lang="pt">LUNAR EXCITATION, THE</sub-title>
     <desc lang="pt">No último episódio da terceira temporada, Wolowitz e Koothrappali procuram o par perfeito para Sheldon na internet - e encontram a mulher ideal para ele (a atriz convidada MAYIM BIALIK). Enquanto isso, Penny acha que seu relacionamento com Leonard destruiu suas chances com os caras normais.</desc>
   </programme>
+  <programme start="20261025035000 -0400" stop="20261025041300 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">FRANKENSTEIN AND THE HORNY VILLAGERS</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/7roIsDGSSGnOGAUZ4THbAvQTlUn.jpg" />
+  </programme>
   <programme start="20261025035000 -0600" stop="20261025041300 -0600" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">THESPIAN CATALYST, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261025035200 -0400" stop="20261025041500 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">FRANKENSTEIN AND THE HORNY VILLAGERS</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/7roIsDGSSGnOGAUZ4THbAvQTlUn.jpg" />
   </programme>
   <programme start="20261025035500 -0500" stop="20261025041800 -0500" channel="WARNER_CO.co">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">THESPIAN CATALYST, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
+  <programme start="20261025035800 -0600" stop="20261025042100 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">FRANKENSTEIN AND THE HORNY VILLAGERS</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/7roIsDGSSGnOGAUZ4THbAvQTlUn.jpg" />
+  </programme>
   <programme start="20261025040100 -0500" stop="20261025042200 -0500" channel="WARNER_AN.co">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">BENEFACTOR FACTOR, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261025040200 -0500" stop="20261025042500 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">FRANKENSTEIN AND THE HORNY VILLAGERS</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/7roIsDGSSGnOGAUZ4THbAvQTlUn.jpg" />
+  </programme>
+  <programme start="20261025040300 -0300" stop="20261025042600 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">FRANKENSTEIN AND THE HORNY VILLAGERS</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/7roIsDGSSGnOGAUZ4THbAvQTlUn.jpg" />
   </programme>
   <programme start="20261025040500 -0400" stop="20261025042600 -0400" channel="WARNER_CL.cl">
     <title lang="es">THE BIG BANG THEORY</title>
@@ -6620,6 +6876,18 @@
     <sub-title lang="es">BENEFACTOR FACTOR, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
+  <programme start="20261025040700 -0300" stop="20261025043100 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">YES, MONSIGNOR</sub-title>
+    <sub-title lang="en">YES, MONSIGNOR</sub-title>
+    <desc lang="pt">Charlie encontra Lisa (atriz coadjuvante convidada DENISE RICHARDS), a mulher que ele pensava ser 'a escolhida' até que ela lhe conta que estava comprometida com outra pessoa. Ele fica louco para saber que o casamento dela não deu certo, apesar dele ter pleno conhecimento de que agora há outros obstáculos a vencer em seu possível relacionamento, um bebê (interpretado pela filha de Sheen e Richard na vida real, Sam, em sua primeira apresentação nas telas).</desc>
+    <icon src="https://media.themoviedb.org/t/p/w500/8bn0DYJgxbzYkz19CQJXynitUmy.jpg" />
+  </programme>
+  <programme start="20261025040800 -0500" stop="20261025043200 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">YES, MONSIGNOR</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/8bn0DYJgxbzYkz19CQJXynitUmy.jpg" />
+  </programme>
   <programme start="20261025041000 -0300" stop="20261025043000 -0300" channel="WARNER_AR.ar">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">BENEFACTOR FACTOR, THE</sub-title>
@@ -6630,20 +6898,45 @@
     <sub-title lang="pt">ROBOTIC MANIPULATION, THE</sub-title>
     <desc lang="pt">Howard encontrará um novo uso para o seu braço mecânico. Enquanto isso, Penny é forçada a ir ao primeiro encontro com Sheldon e sua pretendente.</desc>
   </programme>
+  <programme start="20261025041300 -0400" stop="20261025043600 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">YES, MONSIGNOR</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/8bn0DYJgxbzYkz19CQJXynitUmy.jpg" />
+  </programme>
   <programme start="20261025041300 -0600" stop="20261025043500 -0600" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">BENEFACTOR FACTOR, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261025041500 -0400" stop="20261025043900 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">YES, MONSIGNOR</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/8bn0DYJgxbzYkz19CQJXynitUmy.jpg" />
   </programme>
   <programme start="20261025041800 -0500" stop="20261025043900 -0500" channel="WARNER_CO.co">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">BENEFACTOR FACTOR, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
+  <programme start="20261025042100 -0600" stop="20261025044500 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">YES, MONSIGNOR</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/8bn0DYJgxbzYkz19CQJXynitUmy.jpg" />
+  </programme>
   <programme start="20261025042200 -0500" stop="20261025044300 -0500" channel="WARNER_AN.co">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">COHABITATION FORMULATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261025042500 -0500" stop="20261025044900 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">YES, MONSIGNOR</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/8bn0DYJgxbzYkz19CQJXynitUmy.jpg" />
+  </programme>
+  <programme start="20261025042600 -0300" stop="20261025045000 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">YES, MONSIGNOR</sub-title>
+    <icon src="https://media.themoviedb.org/t/p/w500/8bn0DYJgxbzYkz19CQJXynitUmy.jpg" />
   </programme>
   <programme start="20261025042600 -0400" stop="20261025044900 -0400" channel="WARNER_CL.cl">
     <title lang="es">THE BIG BANG THEORY</title>
@@ -6660,6 +6953,16 @@
     <sub-title lang="es">COHABITATION FORMULATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
+  <programme start="20261025043100 -0300" stop="20261025045300 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TWO AND A HALF MEN</title>
+    <sub-title lang="pt">THAT SALMON UNDER MY SWEATER</sub-title>
+    <sub-title lang="en">THAT SALMON UNDER MY SWEATER</sub-title>
+    <desc lang="pt">Charlie escreve uma trilha sonora para um novo desenho animado baseado em uma das revistas em quadrinhos favoritas de Jake, mas Jake odeia a música. Percebendo que Jake conhece mais a respeito dos desenhos que ele, Charlie acaba pedindo algumas dicas para o seu sobrinho. Ao mesmo tempo, Rose convida Alan para um cinema e o surpreende com sua inteligência.</desc>
+  </programme>
+  <programme start="20261025043200 -0500" stop="20261025045500 -0500" channel="WARNER_AN.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">THAT SALMON UNDER MY SWEATER</sub-title>
+  </programme>
   <programme start="20261025043400 -0300" stop="20261025045400 -0300" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
     <sub-title lang="pt">CRUCIFEROUS VEGETABLE AMPLIFICATION, THE</sub-title>
@@ -6669,6 +6972,14 @@
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">COHABITATION FORMULATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
+  </programme>
+  <programme start="20261025043600 -0400" stop="20261025045800 -0400" channel="WARNER_CL.cl">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">THAT SALMON UNDER MY SWEATER</sub-title>
+  </programme>
+  <programme start="20261025043900 -0400" stop="20261025050200 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">THAT SALMON UNDER MY SWEATER</sub-title>
   </programme>
   <programme start="20261025043900 -0500" stop="20261025050100 -0500" channel="WARNER_CO.co">
     <title lang="es">THE BIG BANG THEORY</title>
@@ -6680,6 +6991,10 @@
     <sub-title lang="es">JUST LIKE BUFFALO</sub-title>
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
   </programme>
+  <programme start="20261025044500 -0600" stop="20261025050800 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">THAT SALMON UNDER MY SWEATER</sub-title>
+  </programme>
   <programme start="20261025044900 -0400" stop="20261025051100 -0400" channel="WARNER_CL.cl">
     <title lang="es">TWO AND A HALF MEN</title>
     <sub-title lang="es">JUST LIKE BUFFALO</sub-title>
@@ -6690,30 +7005,73 @@
     <sub-title lang="es">JUST LIKE BUFFALO</sub-title>
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
   </programme>
+  <programme start="20261025044900 -0500" stop="20261025051100 -0500" channel="WARNER_CO.co">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">THAT SALMON UNDER MY SWEATER</sub-title>
+  </programme>
+  <programme start="20261025045000 -0300" stop="20261025051100 -0300" channel="WARNER_AR.ar">
+    <title lang="es">TWO AND A HALF MEN</title>
+    <sub-title lang="en">THAT SALMON UNDER MY SWEATER</sub-title>
+  </programme>
   <programme start="20261025045100 -0300" stop="20261025051200 -0300" channel="WARNER_AR.ar">
     <title lang="es">TWO AND A HALF MEN</title>
     <sub-title lang="es">JUST LIKE BUFFALO</sub-title>
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261025045300 -0300" stop="20261025051700 -0300" channel="WARNER_BR.br">
+    <title lang="pt">MATCHES</title>
+    <desc lang="pt">Um antigo match de Lara retorna e ela tem surpresas desagradáveis com ele. Escovão e Benjamin fazem um double-date com duas artistas de circo.</desc>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
   </programme>
   <programme start="20261025045400 -0300" stop="20261025051700 -0300" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
     <sub-title lang="pt">ZAZZY SUBSTITUTION, THE</sub-title>
     <desc lang="pt">Sheldon tenta buscar uma alternativa para prescindir da companhia humana, preocupando o resto da equipe.</desc>
   </programme>
+  <programme start="20261025045500 -0500" stop="20261025052600 -0500" channel="WARNER_AN.co">
+    <title lang="es">COBRA KAI: SEASON 1</title>
+    <sub-title lang="en">QUIVER</sub-title>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/2XTVHUz1Lj2CI3R3dhNAJIx2phv.jpg" />
+  </programme>
   <programme start="20261025045700 -0600" stop="20261025052000 -0600" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
     <sub-title lang="es">JUST LIKE BUFFALO</sub-title>
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261025045800 -0400" stop="20261025052900 -0400" channel="WARNER_CL.cl">
+    <title lang="es">COBRA KAI: SEASON 1</title>
+    <sub-title lang="en">QUIVER</sub-title>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/2XTVHUz1Lj2CI3R3dhNAJIx2phv.jpg" />
   </programme>
   <programme start="20261025050100 -0500" stop="20261025052400 -0500" channel="WARNER_CO.co">
     <title lang="es">TWO AND A HALF MEN</title>
     <sub-title lang="es">JUST LIKE BUFFALO</sub-title>
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
   </programme>
+  <programme start="20261025050200 -0400" stop="20261025053400 -0400" channel="WARNER_VE.ve">
+    <title lang="es">COBRA KAI: SEASON 1</title>
+    <sub-title lang="en">QUIVER</sub-title>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/2XTVHUz1Lj2CI3R3dhNAJIx2phv.jpg" />
+  </programme>
   <programme start="20261025050500 -0500" stop="20261025052800 -0500" channel="WARNER_AN.co">
     <title lang="es">TWO AND A HALF MEN</title>
     <sub-title lang="es">CAN YOU FEEL MY FINGER?</sub-title>
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
+  </programme>
+  <programme start="20261025050800 -0600" stop="20261025055400 -0600" channel="WARNER_MX.mx">
+    <title lang="es">ALL AMERICAN: SEASON 6</title>
+    <sub-title lang="en">DRAFT DAY</sub-title>
+    <episode-num system="xmltv_ns">5.11.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/gvtcsNAlGnn7w4lkCzOXqoWXXoy.jpg" />
+  </programme>
+  <programme start="20261025051100 -0300" stop="20261025055600 -0300" channel="WARNER_AR.ar">
+    <title lang="es">ALL AMERICAN: SEASON 6</title>
+    <sub-title lang="en">DRAFT DAY</sub-title>
+    <episode-num system="xmltv_ns">5.11.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/gvtcsNAlGnn7w4lkCzOXqoWXXoy.jpg" />
   </programme>
   <programme start="20261025051100 -0400" stop="20261025053500 -0400" channel="WARNER_CL.cl">
     <title lang="es">TWO AND A HALF MEN</title>
@@ -6725,6 +7083,12 @@
     <sub-title lang="es">CAN YOU FEEL MY FINGER?</sub-title>
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
   </programme>
+  <programme start="20261025051100 -0500" stop="20261025055600 -0500" channel="WARNER_CO.co">
+    <title lang="es">ALL AMERICAN: SEASON 6</title>
+    <sub-title lang="en">DRAFT DAY</sub-title>
+    <episode-num system="xmltv_ns">5.11.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/gvtcsNAlGnn7w4lkCzOXqoWXXoy.jpg" />
+  </programme>
   <programme start="20261025051200 -0300" stop="20261025055600 -0300" channel="WARNER_AR.ar">
     <title lang="es">ALL AMERICAN: SEASON 6</title>
     <sub-title lang="es">THE NEXT EPISODE</sub-title>
@@ -6732,12 +7096,13 @@
     <episode-num system="xmltv_ns">5.10.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/eRkhvvDZtguy9DmMYdEzYVcvV5W.jpg" />
   </programme>
-  <programme start="20261025051700 -0300" stop="20261025054000 -0300" channel="WARNER_BR.br">
+  <programme start="20261025051700 -0300" stop="20261025053700 -0300" channel="WARNER_BR.br">
     <title lang="pt">Georgie e Mandy - Seu Primeiro Casamento</title>
-    <sub-title lang="pt">The 6:10 to Lubbock</sub-title>
-    <desc lang="pt">Acompanha Georgie e Mandy conforme eles criam sua jovem família no Texas e navegam os desafios da vida adulta, da paternidade e do casamento.</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/yk5aKbasSlti1jZKbpa7G9Gu49H.jpg" />
+    <sub-title lang="pt">Segredos, Mentiras e Um Monte De Dinheiro</sub-title>
+    <sub-title lang="en">Secrets, Lies and a Chunk of Change</sub-title>
+    <desc lang="pt">Georgie investiga o passado de Mandy ao descobrir que ela tem escondido uma dívida de milhares de dólares.</desc>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/eOKaL7R4iOaDYMt6jZ0pdDOIEIm.jpg" />
   </programme>
   <programme start="20261025052000 -0600" stop="20261025054300 -0600" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
@@ -6749,12 +7114,29 @@
     <sub-title lang="es">CAN YOU FEEL MY FINGER?</sub-title>
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
   </programme>
+  <programme start="20261025052600 -0500" stop="20261025055500 -0500" channel="WARNER_AN.co">
+    <title lang="es">COBRA KAI: SEASON 1</title>
+    <sub-title lang="en">ALL VALLEY</sub-title>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/3HhHvSeCQfRQ4AhipHLZxyqU0LN.jpg" />
+  </programme>
   <programme start="20261025052800 -0500" stop="20261025055400 -0500" channel="WARNER_AN.co">
     <title lang="es">SEARCH PARTY</title>
     <sub-title lang="es">PSYCHOSIS</sub-title>
     <desc lang="es">Una comedia oscura sobre cuatro veinteañeros que se enredan en un ominoso misterio cuando un antiguo conocido de la universidad desaparece repentinamente.</desc>
     <episode-num system="xmltv_ns">1.9.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/mfBDoouhSATQCcm1MVmiW9emAOr.jpg" />
+  </programme>
+  <programme start="20261025052900 -0400" stop="20261025060000 -0400" channel="WARNER_CL.cl">
+    <title lang="es">COBRA KAI: SEASON 1</title>
+    <sub-title lang="en">ALL VALLEY</sub-title>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/3HhHvSeCQfRQ4AhipHLZxyqU0LN.jpg" />
+  </programme>
+  <programme start="20261025053400 -0400" stop="20261025054500 -0400" channel="WARNER_VE.ve">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="en">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.37.</episode-num>
   </programme>
   <programme start="20261025053500 -0400" stop="20261025060000 -0400" channel="WARNER_CL.cl">
     <title lang="es">SEARCH PARTY</title>
@@ -6768,6 +7150,14 @@
     <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
     <episode-num system="xmltv_ns">-1.34.</episode-num>
   </programme>
+  <programme start="20261025053700 -0300" stop="20261025055500 -0300" channel="WARNER_BR.br">
+    <title lang="pt">Georgie e Mandy - Seu Primeiro Casamento</title>
+    <sub-title lang="pt">A Mãe Do Todd</sub-title>
+    <sub-title lang="en">Todd's Mom</sub-title>
+    <desc lang="pt">As coisas ficam desconcertantes quando Georgie e Mandy tentam fazer novos amigos. Enquanto isso, Jim e Audrey ficam competitivos ao jogar com Connor.</desc>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/xwpGN5Ck5loNPCBokf7CpX1xo0z.jpg" />
+  </programme>
   <programme start="20261025054000 -0300" stop="20261025060000 -0300" channel="WARNER_BR.br">
     <title lang="pt">Georgie e Mandy - Seu Primeiro Casamento</title>
     <sub-title lang="pt">Some New York Nonsense</sub-title>
@@ -6778,6 +7168,11 @@
   <programme start="20261025054300 -0600" stop="20261025054600 -0600" channel="WARNER_MX.mx">
     <title lang="es">TNT BUZZ</title>
     <episode-num system="xmltv_ns">14.67.</episode-num>
+  </programme>
+  <programme start="20261025054500 -0400" stop="20261025055300 -0400" channel="WARNER_VE.ve">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="en">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.38.</episode-num>
   </programme>
   <programme start="20261025054600 -0600" stop="20261025060000 -0600" channel="WARNER_MX.mx">
     <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
@@ -6794,19 +7189,47 @@
     <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
     <episode-num system="xmltv_ns">-1.35.</episode-num>
   </programme>
+  <programme start="20261025055300 -0400" stop="20261025055500 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.66.</episode-num>
+  </programme>
   <programme start="20261025055400 -0500" stop="20261025055700 -0500" channel="WARNER_AN.co">
     <title lang="es">TNT BUZZ</title>
     <episode-num system="xmltv_ns">14.72.</episode-num>
   </programme>
+  <programme start="20261025055400 -0600" stop="20261025055700 -0600" channel="WARNER_MX.mx">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.72.</episode-num>
+  </programme>
+  <programme start="20261025055500 -0300" stop="20261025060000 -0300" channel="WARNER_BR.br">
+    <title lang="pt">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.82.</episode-num>
+  </programme>
+  <programme start="20261025055500 -0400" stop="20261025060000 -0400" channel="WARNER_VE.ve">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.67.</episode-num>
+  </programme>
+  <programme start="20261025055500 -0500" stop="20261025055700 -0500" channel="WARNER_AN.co">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.78.</episode-num>
+  </programme>
   <programme start="20261025055600 -0300" stop="20261025060000 -0300" channel="WARNER_AR.ar">
     <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.84.</episode-num>
+    <episode-num system="xmltv_ns">14.86.</episode-num>
   </programme>
   <programme start="20261025055600 -0400" stop="20261025060000 -0400" channel="WARNER_VE.ve">
     <title lang="es">TNT BUZZ</title>
     <episode-num system="xmltv_ns">14.60.</episode-num>
   </programme>
+  <programme start="20261025055600 -0500" stop="20261025060000 -0500" channel="WARNER_CO.co">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.96.</episode-num>
+  </programme>
   <programme start="20261025055700 -0500" stop="20261025060000 -0500" channel="WARNER_AN.co">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.79.</episode-num>
+  </programme>
+  <programme start="20261025055700 -0600" stop="20261025060000 -0600" channel="WARNER_MX.mx">
     <title lang="es">TNT BUZZ</title>
     <episode-num system="xmltv_ns">14.73.</episode-num>
   </programme>
