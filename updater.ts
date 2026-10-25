@@ -27,14 +27,14 @@ const TITLE_ALIASES: Record<string, string> = {
 
 function getTargetDatesToProcess(): string[] {
     const now = new Date();
-    const weekday = now.getDay();
+    const weekday = now.getDay(); // 0: Dom, 1: Lun, 2: Mar, 3: Mié, 4: Jue, 5: Vie, 6: Sáb
     const formatDate = (d: Date) => d.toISOString().split('T')[0];
     
     const dates = [formatDate(now)];
-    if (weekday === 5) {
+    if (weekday === 5) { // Viernes -> Viernes y Sábado
         const sat = new Date(now); sat.setDate(now.getDate() + 1);
         dates.push(formatDate(sat));
-    } else if (weekday === 6) {
+    } else if (weekday === 6) { // Sábado -> Sábado, Domingo y Lunes
         const sun = new Date(now); sun.setDate(now.getDate() + 1);
         const mon = new Date(now); mon.setDate(now.getDate() + 2);
         dates.push(formatDate(sun), formatDate(mon));
