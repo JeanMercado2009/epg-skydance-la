@@ -666,6 +666,7 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
                     "type": "break"
                 })
 
+    # Ordenamiento cronológico puro respetando el ciclo de transmisión (06:00 AM en adelante)
     raw_events = sorted(raw_events, key=lambda x: x["start"])
     new_programmes = []
     total_events = len(raw_events)
