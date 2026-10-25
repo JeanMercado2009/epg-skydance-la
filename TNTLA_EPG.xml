@@ -18,25 +18,10 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
-  <programme start="20261019174100 -0500" stop="20261019201600 -0500" channel="TNT_PAN.co">
-    <title lang="es">GHOSTBUSTERS: EL LEGADO</title>
-    <sub-title lang="es">GHOSTBUSTERS: AFTERLIFE</sub-title>
-    <desc lang="es">Jason Reitman dirige este nuevo capítulo del universo de los Cazafantasmas protagonizado por Carrie Coon y Paul Rudd, y con apariciones de Bill Murray, Dan Aykroyd y Sigourney Weaver en sus papeles originales.</desc>
-  </programme>
-  <programme start="20261019180000 -0600" stop="20261019202100 -0600" channel="TNT_MX.mx">
-    <title lang="es">GHOSTBUSTERS: EL LEGADO</title>
-    <sub-title lang="es">GHOSTBUSTERS: AFTERLIFE</sub-title>
-    <desc lang="es">Jason Reitman dirige este nuevo capítulo del universo de los Cazafantasmas protagonizado por Carrie Coon y Paul Rudd, y con apariciones de Bill Murray, Dan Aykroyd y Sigourney Weaver en sus papeles originales.</desc>
-  </programme>
   <programme start="20261019200900 -0500" stop="20261019220000 -0500" channel="TNT_CO.co">
     <title lang="es">DRÁCULA: LA HISTORIA JAMÁS CONTADA</title>
     <sub-title lang="es">DRACULA UNTOLD</sub-title>
     <desc lang="es">Vlad Tepes es el príncipe de Valaquia y Transilvania y un guerrero muy temido a quien todos llamaban Vlad el Empalador. Cuando un sultán le pide 1.000 niños para entrenar como soldados, él se rehúsa. Como Vlad sabe que la guerra está por llegar, va a una cueva donde vive un vampiro y le pide ayuda. El vampiro le ofrece algo de su sangre, lo cual le dará poderes vampíricos de forma temporánea salvo que beba sangre humana, lo cual lo convertirá en un vampiro para siempre.</desc>
-  </programme>
-  <programme start="20261019201500 -0400" stop="20261019220000 -0400" channel="TNT_CL.cl">
-    <title lang="es">MASTERCHEF CHILE</title>
-    <episode-num system="xmltv_ns">4.10.</episode-num>
-    <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
   </programme>
   <programme start="20261019201600 -0500" stop="20261019220000 -0500" channel="TNT_PAN.co">
     <title lang="es">DRÁCULA: LA HISTORIA JAMÁS CONTADA</title>
@@ -2850,7 +2835,7 @@ profesión.</desc>
   <programme start="20261025003700 -0600" stop="20261025022500 -0600" channel="TNT_MX.mx">
     <title lang="es">SNIPER: LEGACY</title>
     <desc lang="es">Un francotirador (Chad Michael Collins, Sniper: Legacy) decide vengar a su padre, un veterano militar (Tom Berenger, Pelotón) abatido por un traidor de la unidad. Pronto descubre que lo han engañado y que lo están utilizando como carnada. Quinta parte de la saga Blanco Perfecto.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
   <programme start="20261025003800 -0300" stop="20261025024400 -0300" channel="TNT_AR.ar">
     <title lang="es">DÍA DE ENTRENAMIENTO</title>
@@ -2861,27 +2846,27 @@ profesión.</desc>
     <title lang="pt">DESCONHECIDO</title>
     <sub-title lang="pt">Unknown</sub-title>
     <desc lang="pt">Um cientista vai a Berlim com a mulher para participar de uma convenção. Ao sair do aeroporto, ele pega um táxi dirigido por uma jovem imigrante e sofre um acidente que o deixa vários dias em coma. Quando acorda, descobre que foi substituído por um impostor e nem sua mulher parece reconhecê-lo. Cheio de dúvidas sobre a sua identidade, e com lacunas de memória, ele procura a motorista para obter mais informações. Mas percebe que há assassinos atrás dele. Agora, além de salvar a vida, ele tem que descobrir como era, exatamente, a identidade que está tentando recuperar.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/80SrFtAot0MOr6APrOtaTWfyO9S.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/XWRUWw2MfSjcIJxSJGVRZAZvwi.jpg" />
   </programme>
   <programme start="20261025005900 -0500" stop="20261025024100 -0500" channel="TNT_PAN.co">
     <title lang="es">SNIPER: LEGACY</title>
     <desc lang="es">Un francotirador (Chad Michael Collins, Sniper: Legacy) decide vengar a su padre, un veterano militar (Tom Berenger, Pelotón) abatido por un traidor de la unidad. Pronto descubre que lo han engañado y que lo están utilizando como carnada. Quinta parte de la saga Blanco Perfecto.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
   <programme start="20261025010000 -0300" stop="20261025024300 -0300" channel="TNT_AR.ar">
     <title lang="es">SNIPER: LEGACY</title>
     <desc lang="es">Un francotirador (Chad Michael Collins, Sniper: Legacy) decide vengar a su padre, un veterano militar (Tom Berenger, Pelotón) abatido por un traidor de la unidad. Pronto descubre que lo han engañado y que lo están utilizando como carnada. Quinta parte de la saga Blanco Perfecto.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
   <programme start="20261025010700 -0500" stop="20261025024800 -0500" channel="TNT_CO.co">
     <title lang="es">SNIPER: LEGACY</title>
     <desc lang="es">Un francotirador (Chad Michael Collins, Sniper: Legacy) decide vengar a su padre, un veterano militar (Tom Berenger, Pelotón) abatido por un traidor de la unidad. Pronto descubre que lo han engañado y que lo están utilizando como carnada. Quinta parte de la saga Blanco Perfecto.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
   <programme start="20261025011600 -0400" stop="20261025030200 -0400" channel="TNT_CL.cl">
     <title lang="es">SNIPER: LEGACY</title>
     <desc lang="es">Un francotirador (Chad Michael Collins, Sniper: Legacy) decide vengar a su padre, un veterano militar (Tom Berenger, Pelotón) abatido por un traidor de la unidad. Pronto descubre que lo han engañado y que lo están utilizando como carnada. Quinta parte de la saga Blanco Perfecto.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
   <programme start="20261025015100 -0300" stop="20261025034800 -0300" channel="TNT_BR.br">
     <title lang="pt">DIA DE TREINAMENTO</title>
@@ -2908,24 +2893,24 @@ profesión.</desc>
     <title lang="es">SNIPER: FUEGO OCULTO</title>
     <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
     <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
   <programme start="20261025024100 -0500" stop="20261025042500 -0500" channel="TNT_PAN.co">
     <title lang="es">SNIPER: FUEGO OCULTO</title>
     <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
     <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
   <programme start="20261025024300 -0300" stop="20261025041900 -0300" channel="TNT_BR.br">
     <title lang="pt">SNIPER: O LEGADO</title>
     <desc lang="pt">Um franco-atirador (Chad Michael Collins, Sniper: o Legado) decide vingar seu pai, um veterano militar (Tom Berenger, Platoon) abatido por um traidor da unidade. Logo, descobre que foi traído e que está sendo usando como isca. Quinta parte da saga O Atirador.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
   <programme start="20261025024300 -0300" stop="20261025042400 -0300" channel="TNT_AR.ar">
     <title lang="es">SNIPER: FUEGO OCULTO</title>
     <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
     <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
   <programme start="20261025024400 -0300" stop="20261025041400 -0300" channel="TNT_AR.ar">
     <title lang="es">LOS CAZAMUERTOS</title>
@@ -2935,13 +2920,13 @@ profesión.</desc>
     <title lang="es">SNIPER: FUEGO OCULTO</title>
     <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
     <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
   <programme start="20261025030200 -0400" stop="20261025044700 -0400" channel="TNT_CL.cl">
     <title lang="es">SNIPER: FUEGO OCULTO</title>
     <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
     <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
   <programme start="20261025032700 -0500" stop="20261025050600 -0500" channel="TNT_PAN.co">
     <title lang="es">SNIPER: LEGACY</title>
@@ -2965,8 +2950,7 @@ profesión.</desc>
   </programme>
   <programme start="20261025040600 -0600" stop="20261025052400 -0600" channel="TNT_MX.mx">
     <title lang="es">All Souls</title>
-    <desc lang="es">Un joven informante confidencial es enviado a una peligrosa operación encubierta.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/AwCdLynVp0qTpQV8EhWQKXuyEwA.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/AwCdLynVp0qTpQV8EhWQKXuyEwA.jpg" />
   </programme>
   <programme start="20261025041400 -0300" stop="20261025055500 -0300" channel="TNT_AR.ar">
     <title lang="es">SNIPER: LEGACY</title>
@@ -2979,18 +2963,15 @@ profesión.</desc>
   </programme>
   <programme start="20261025042400 -0300" stop="20261025054100 -0300" channel="TNT_AR.ar">
     <title lang="es">All Souls</title>
-    <desc lang="es">Un joven informante confidencial es enviado a una peligrosa operación encubierta.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/AwCdLynVp0qTpQV8EhWQKXuyEwA.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/AwCdLynVp0qTpQV8EhWQKXuyEwA.jpg" />
   </programme>
   <programme start="20261025042500 -0500" stop="20261025054000 -0500" channel="TNT_PAN.co">
     <title lang="es">All Souls</title>
-    <desc lang="es">Un joven informante confidencial es enviado a una peligrosa operación encubierta.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/AwCdLynVp0qTpQV8EhWQKXuyEwA.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/AwCdLynVp0qTpQV8EhWQKXuyEwA.jpg" />
   </programme>
   <programme start="20261025042900 -0500" stop="20261025054300 -0500" channel="TNT_CO.co">
     <title lang="es">All Souls</title>
-    <desc lang="es">Un joven informante confidencial es enviado a una peligrosa operación encubierta.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/AwCdLynVp0qTpQV8EhWQKXuyEwA.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/AwCdLynVp0qTpQV8EhWQKXuyEwA.jpg" />
   </programme>
   <programme start="20261025044700 -0400" stop="20261025052400 -0400" channel="TNT_CL.cl">
     <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
@@ -3046,19 +3027,19 @@ profesión.</desc>
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.35.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
   <programme start="20261025054100 -0300" stop="20261025055600 -0300" channel="TNT_AR.ar">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.39.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
   <programme start="20261025054300 -0500" stop="20261025060000 -0500" channel="TNT_CO.co">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.33.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
   <programme start="20261025054400 -0500" stop="20261025060000 -0500" channel="TNT_PAN.co">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
@@ -3084,7 +3065,7 @@ profesión.</desc>
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.41.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
   <programme start="20261025055500 -0300" stop="20261025055600 -0300" channel="TNT_AR.ar">
     <title lang="es">TNT BUZZ</title>
@@ -3120,7 +3101,7 @@ profesión.</desc>
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.38.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
   <programme start="20261025060000 -0500" stop="20261025063800 -0500" channel="TNT_CO.co">
     <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
@@ -3131,7 +3112,7 @@ profesión.</desc>
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.48.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
   <programme start="20261025060000 -0600" stop="20261025060300 -0600" channel="TNT_MX.mx">
     <title lang="es">TNT BUZZ</title>
@@ -3161,7 +3142,7 @@ profesión.</desc>
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.42.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
   <programme start="20261025061700 -0400" stop="20261025062000 -0400" channel="TNT_CL.cl">
     <title lang="es">TNT BUZZ</title>
@@ -3179,7 +3160,7 @@ profesión.</desc>
     <title lang="es">MASTERCHEF CHILE</title>
     <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
     <episode-num system="xmltv_ns">4.10.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/kgWvYJZuqtCjsLJTeEcPdvwRui3.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/kgWvYJZuqtCjsLJTeEcPdvwRui3.jpg" />
   </programme>
   <programme start="20261025062600 -0500" stop="20261025081200 -0500" channel="TNT_PAN.co">
     <title lang="es">HOTEL TRANSYLVANIA 3: MONSTRUOS DE VACACIONES</title>
@@ -3199,7 +3180,7 @@ profesión.</desc>
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.39.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
   <programme start="20261025065300 -0500" stop="20261025083100 -0500" channel="TNT_CO.co">
     <title lang="es">HOTEL TRANSYLVANIA 3: MONSTRUOS DE VACACIONES</title>
@@ -3231,7 +3212,7 @@ profesión.</desc>
     <title lang="es">MASTERCHEF CHILE</title>
     <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
     <episode-num system="xmltv_ns">4.11.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/kgWvYJZuqtCjsLJTeEcPdvwRui3.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/kgWvYJZuqtCjsLJTeEcPdvwRui3.jpg" />
   </programme>
   <programme start="20261025083100 -0500" stop="20261025105300 -0500" channel="TNT_CO.co">
     <title lang="es">UN SUEÑO POSIBLE</title>
@@ -3248,14 +3229,14 @@ profesión.</desc>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.13.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/mpz7ZA0GzSBqFqN2Se2imAVFi1C.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
   <programme start="20261025095700 -0300" stop="20261025101900 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.14.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/dtH4si024LIjz5XlbGM4w4KrVTR.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
   <programme start="20261025100000 -0600" stop="20261025101000 -0600" channel="TNT_MX.mx">
     <episode-num system="xmltv_ns">0.1.</episode-num>
@@ -3264,7 +3245,7 @@ profesión.</desc>
     <title lang="es">MASTERCHEF CHILE</title>
     <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
     <episode-num system="xmltv_ns">4.12.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/kgWvYJZuqtCjsLJTeEcPdvwRui3.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/kgWvYJZuqtCjsLJTeEcPdvwRui3.jpg" />
   </programme>
   <programme start="20261025101000 -0600" stop="20261025103000 -0600" channel="TNT_MX.mx">
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -3274,7 +3255,7 @@ profesión.</desc>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.15.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/zsSBcVUZpVuHs11OgZ4hr00ALhg.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
   <programme start="20261025103000 -0600" stop="20261025123000 -0600" channel="TNT_MX.mx">
     <episode-num system="xmltv_ns">-1.39.</episode-num>
@@ -3282,58 +3263,58 @@ profesión.</desc>
   <programme start="20261025103800 -0500" stop="20261025121600 -0500" channel="TNT_PAN.co">
     <title lang="es">SHREK</title>
     <desc lang="es">En el pantano alejado donde vive, el ogro verde y solitario Shrek recibe la visita de una horda de personajes de cuentos de hadas que dicen que sus casas son amenazadas por el diabólico Lord Farquaad. Para empeorar las cosas, Shrek está en la misma situación y, acompañado por un burro fiel, pero que no para de hablar, decide hacerle una propuesta al villano: rescatará a la bella princesa Fiona, que fue prometida a Farquaad. Pero, cuando Shrek y el burro logran rescatarla, queda claro que no solo él está enamorado de ella, sino que Fiona también guarda un gran secreto.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/d75zOth3UddHkrOWdMKvXpcgs1F.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/d75zOth3UddHkrOWdMKvXpcgs1F.jpg" />
   </programme>
   <programme start="20261025104100 -0300" stop="20261025110200 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.16.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/uyLzXLCBLWHJoC1qt7e0dQ5M2N0.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
   <programme start="20261025105300 -0500" stop="20261025123100 -0500" channel="TNT_CO.co">
     <title lang="es">SHREK</title>
     <desc lang="es">En el pantano alejado donde vive, el ogro verde y solitario Shrek recibe la visita de una horda de personajes de cuentos de hadas que dicen que sus casas son amenazadas por el diabólico Lord Farquaad. Para empeorar las cosas, Shrek está en la misma situación y, acompañado por un burro fiel, pero que no para de hablar, decide hacerle una propuesta al villano: rescatará a la bella princesa Fiona, que fue prometida a Farquaad. Pero, cuando Shrek y el burro logran rescatarla, queda claro que no solo él está enamorado de ella, sino que Fiona también guarda un gran secreto.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/d75zOth3UddHkrOWdMKvXpcgs1F.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/d75zOth3UddHkrOWdMKvXpcgs1F.jpg" />
   </programme>
   <programme start="20261025110200 -0300" stop="20261025112300 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.9.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/rfsN2muTN4Z0wm7goBWoJQGxyzX.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
   <programme start="20261025110900 -0300" stop="20261025124400 -0300" channel="TNT_AR.ar">
     <title lang="es">SHREK</title>
     <desc lang="es">En el pantano alejado donde vive, el ogro verde y solitario Shrek recibe la visita de una horda de personajes de cuentos de hadas que dicen que sus casas son amenazadas por el diabólico Lord Farquaad. Para empeorar las cosas, Shrek está en la misma situación y, acompañado por un burro fiel, pero que no para de hablar, decide hacerle una propuesta al villano: rescatará a la bella princesa Fiona, que fue prometida a Farquaad. Pero, cuando Shrek y el burro logran rescatarla, queda claro que no solo él está enamorado de ella, sino que Fiona también guarda un gran secreto.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/d75zOth3UddHkrOWdMKvXpcgs1F.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/d75zOth3UddHkrOWdMKvXpcgs1F.jpg" />
   </programme>
   <programme start="20261025112300 -0300" stop="20261025114500 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.10.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/dDHqeqwHajW7WbMmjITnhUEdSG8.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
   <programme start="20261025114500 -0300" stop="20261025120700 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.11.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/fYWNPGrPekEki37MTrV0Oy25VJR.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
   <programme start="20261025115000 -0400" stop="20261025134700 -0400" channel="TNT_CL.cl">
     <title lang="es">MASTERCHEF CHILE</title>
     <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
     <episode-num system="xmltv_ns">4.13.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/kgWvYJZuqtCjsLJTeEcPdvwRui3.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/kgWvYJZuqtCjsLJTeEcPdvwRui3.jpg" />
   </programme>
   <programme start="20261025120700 -0300" stop="20261025122900 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.12.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/4Jqdkr3YO5bTwUuSTpm1dJAAEOq.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
   <programme start="20261025121600 -0500" stop="20261025135400 -0500" channel="TNT_PAN.co">
     <title lang="es">SHREK 2</title>
@@ -3344,7 +3325,7 @@ profesión.</desc>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.13.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/mpz7ZA0GzSBqFqN2Se2imAVFi1C.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
   <programme start="20261025123000 -0600" stop="20261025124500 -0600" channel="TNT_MX.mx">
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -3360,34 +3341,34 @@ profesión.</desc>
   <programme start="20261025124500 -0600" stop="20261025141800 -0600" channel="TNT_MX.mx">
     <title lang="es">SHREK</title>
     <desc lang="es">En el pantano alejado donde vive, el ogro verde y solitario Shrek recibe la visita de una horda de personajes de cuentos de hadas que dicen que sus casas son amenazadas por el diabólico Lord Farquaad. Para empeorar las cosas, Shrek está en la misma situación y, acompañado por un burro fiel, pero que no para de hablar, decide hacerle una propuesta al villano: rescatará a la bella princesa Fiona, que fue prometida a Farquaad. Pero, cuando Shrek y el burro logran rescatarla, queda claro que no solo él está enamorado de ella, sino que Fiona también guarda un gran secreto.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/d75zOth3UddHkrOWdMKvXpcgs1F.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/d75zOth3UddHkrOWdMKvXpcgs1F.jpg" />
   </programme>
   <programme start="20261025125100 -0300" stop="20261025131300 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.14.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/dtH4si024LIjz5XlbGM4w4KrVTR.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
   <programme start="20261025131300 -0300" stop="20261025133400 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.15.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/zsSBcVUZpVuHs11OgZ4hr00ALhg.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
   <programme start="20261025133400 -0300" stop="20261025135500 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.16.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/uyLzXLCBLWHJoC1qt7e0dQ5M2N0.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
   <programme start="20261025134700 -0400" stop="20261025153700 -0400" channel="TNT_CL.cl">
     <title lang="es">MASTERCHEF CHILE</title>
     <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
     <episode-num system="xmltv_ns">4.14.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/kgWvYJZuqtCjsLJTeEcPdvwRui3.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/kgWvYJZuqtCjsLJTeEcPdvwRui3.jpg" />
   </programme>
   <programme start="20261025135400 -0500" stop="20261025153600 -0500" channel="TNT_PAN.co">
     <title lang="es">SHREK TERCERO</title>
@@ -3425,7 +3406,7 @@ profesión.</desc>
   <programme start="20261025155300 -0300" stop="20261025172200 -0300" channel="TNT_BR.br">
     <title lang="pt">SHREK</title>
     <desc lang="pt">Vivendo em um pântano distante, o ogro verde e solitário Shrek recebe a visita de uma horda de personagens dos contos de fadas que afirmam que suas casas estão sendo ameaçadas pelo diabólico Lorde Farquaad. Para piorar, Shrek está na mesma situação e, acompanhado por um burro fiel, mas tagarela, ele decide fazer uma proposta ao vilão: resgatará a bela princesa Fiona, que está prometida para Farquaad. Mas, quando Shrek e o burro conseguem resgatá-la, fica claro que não somente ele está apaixonado por ela como também que Fiona guarda um grande segredo.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/d75zOth3UddHkrOWdMKvXpcgs1F.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/b8l7rnDvzN1shrvDPBWUszaShYj.jpg" />
   </programme>
   <programme start="20261025155500 -0600" stop="20261025173500 -0600" channel="TNT_MX.mx">
     <title lang="es">SHREK TERCERO</title>
@@ -3471,22 +3452,22 @@ profesión.</desc>
   <programme start="20261025194300 -0400" stop="20261025220000 -0400" channel="TNT_CL.cl">
     <title lang="es">DESCONOCIDO</title>
     <desc lang="es">Nada te pertenece tanto como tu identidad. Un científico viaja a Berlín junto a su mujer para participar de una importante convención. Al salir del aeropuerto, sube a un taxi conducido por una joven inmigrante y sufre un violento accidente automovilístico que lo deja varios días en coma. Cuando despierta, advierte que un impostor lo ha remplazado: ni siquiera su mujer parece reconocerlo. Lleno de dudas sobre su identidad, y con lagunas en su memoria a raíz del accidente, busca a la joven conductora del taxi para intentar obtener más información. Hasta que nota que está en peligro y que hay asesinos que vienen por él. Ahora no sólo deberá salvar su vida y recuperar su identidad. También tendrá que descubrir cómo era, exactamente, esa vida que está intentando recuperar.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/nBJgkuTYv2IgKytrw0k3418ctbz.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/nBJgkuTYv2IgKytrw0k3418ctbz.jpg" />
   </programme>
   <programme start="20261025194300 -0500" stop="20261025220000 -0500" channel="TNT_CO.co">
     <title lang="es">DESCONOCIDO</title>
     <desc lang="es">Nada te pertenece tanto como tu identidad. Un científico viaja a Berlín junto a su mujer para participar de una importante convención. Al salir del aeropuerto, sube a un taxi conducido por una joven inmigrante y sufre un violento accidente automovilístico que lo deja varios días en coma. Cuando despierta, advierte que un impostor lo ha remplazado: ni siquiera su mujer parece reconocerlo. Lleno de dudas sobre su identidad, y con lagunas en su memoria a raíz del accidente, busca a la joven conductora del taxi para intentar obtener más información. Hasta que nota que está en peligro y que hay asesinos que vienen por él. Ahora no sólo deberá salvar su vida y recuperar su identidad. También tendrá que descubrir cómo era, exactamente, esa vida que está intentando recuperar.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/nBJgkuTYv2IgKytrw0k3418ctbz.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/nBJgkuTYv2IgKytrw0k3418ctbz.jpg" />
   </programme>
   <programme start="20261025194300 -0500" stop="20261025220000 -0500" channel="TNT_PAN.co">
     <title lang="es">DESCONOCIDO</title>
     <desc lang="es">Nada te pertenece tanto como tu identidad. Un científico viaja a Berlín junto a su mujer para participar de una importante convención. Al salir del aeropuerto, sube a un taxi conducido por una joven inmigrante y sufre un violento accidente automovilístico que lo deja varios días en coma. Cuando despierta, advierte que un impostor lo ha remplazado: ni siquiera su mujer parece reconocerlo. Lleno de dudas sobre su identidad, y con lagunas en su memoria a raíz del accidente, busca a la joven conductora del taxi para intentar obtener más información. Hasta que nota que está en peligro y que hay asesinos que vienen por él. Ahora no sólo deberá salvar su vida y recuperar su identidad. También tendrá que descubrir cómo era, exactamente, esa vida que está intentando recuperar.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/nBJgkuTYv2IgKytrw0k3418ctbz.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/nBJgkuTYv2IgKytrw0k3418ctbz.jpg" />
   </programme>
   <programme start="20261025195300 -0300" stop="20261025220000 -0300" channel="TNT_AR.ar">
     <title lang="es">DESCONOCIDO</title>
     <desc lang="es">Nada te pertenece tanto como tu identidad. Un científico viaja a Berlín junto a su mujer para participar de una importante convención. Al salir del aeropuerto, sube a un taxi conducido por una joven inmigrante y sufre un violento accidente automovilístico que lo deja varios días en coma. Cuando despierta, advierte que un impostor lo ha remplazado: ni siquiera su mujer parece reconocerlo. Lleno de dudas sobre su identidad, y con lagunas en su memoria a raíz del accidente, busca a la joven conductora del taxi para intentar obtener más información. Hasta que nota que está en peligro y que hay asesinos que vienen por él. Ahora no sólo deberá salvar su vida y recuperar su identidad. También tendrá que descubrir cómo era, exactamente, esa vida que está intentando recuperar.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/nBJgkuTYv2IgKytrw0k3418ctbz.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/nBJgkuTYv2IgKytrw0k3418ctbz.jpg" />
   </programme>
   <programme start="20261025202500 -0300" stop="20261025220000 -0300" channel="TNT_BR.br">
     <title lang="pt">SHREK PARA SEMPRE</title>
@@ -3500,55 +3481,56 @@ profesión.</desc>
     <title lang="pt">Duna: Parte Dois</title>
     <sub-title lang="pt">Dune: Part Two</sub-title>
     <desc lang="pt">Denis Villeneuve dirige um elenco estelar liderado por Timothée Chalamet, Zendaya, Rebecca Ferguson e Javier Bardem e embarca na adaptação do próximo capítulo do célebre romance de ficção científica de Frank Herbert, que explora a jornada mítica de Paul Atreides. Ao se juntar a Chani e aos Fremen em uma guerra de vingança contra os conspiradores que destruíram sua família, Paul enfrenta uma terrível escolha entre o amor de sua vida e o destino do universo.</desc>
+    <icon src="https://media.themoviedb.org/t/p/w500/9kyqa103Ih22hT955ZaZdipAOAD.jpg" />
   </programme>
-  <programme start="20261025220000 -0300" stop="20261026010000 -0300" channel="TNT_AR.ar">
+  <programme start="20261025220000 -0300" stop="20261026014600 -0300" channel="TNT_AR.ar">
     <desc lang="es">Denis Villeneuve dirige a un elenco estelar liderado por Timothée Chalamet, Zendaya, Rebecca Ferguson y Javier Bardem y se embarca en la adaptación del siguiente capítulo de la célebre novela de ciencia ficción de Frank Herbert que explora el mítico viaje de Paul Atreides. Mientras se une a Chani y a los Fremen en un camino de venganza contra los conspiradores que destruyeron a su familia, Paul se enfrenta a una terrible elección entre el amor de su vida y el destino del universo.</desc>
   </programme>
   <programme start="20261025220000 -0400" stop="20261026002800 -0400" channel="TNT_CL.cl">
     <desc lang="es">Denis Villeneuve dirige a un elenco estelar liderado por Timothée Chalamet, Zendaya, Rebecca Ferguson y Javier Bardem y se embarca en la adaptación del siguiente capítulo de la célebre novela de ciencia ficción de Frank Herbert que explora el mítico viaje de Paul Atreides. Mientras se une a Chani y a los Fremen en un camino de venganza contra los conspiradores que destruyeron a su familia, Paul se enfrenta a una terrible elección entre el amor de su vida y el destino del universo.</desc>
   </programme>
-  <programme start="20261025220000 -0500" stop="20261026010700 -0500" channel="TNT_CO.co">
+  <programme start="20261025220000 -0500" stop="20261026013900 -0500" channel="TNT_CO.co">
     <desc lang="es">Denis Villeneuve dirige a un elenco estelar liderado por Timothée Chalamet, Zendaya, Rebecca Ferguson y Javier Bardem y se embarca en la adaptación del siguiente capítulo de la célebre novela de ciencia ficción de Frank Herbert que explora el mítico viaje de Paul Atreides. Mientras se une a Chani y a los Fremen en un camino de venganza contra los conspiradores que destruyeron a su familia, Paul se enfrenta a una terrible elección entre el amor de su vida y el destino del universo.</desc>
   </programme>
   <programme start="20261025220000 -0500" stop="20261026001100 -0500" channel="TNT_PAN.co">
     <desc lang="es">Denis Villeneuve dirige a un elenco estelar liderado por Timothée Chalamet, Zendaya, Rebecca Ferguson y Javier Bardem y se embarca en la adaptación del siguiente capítulo de la célebre novela de ciencia ficción de Frank Herbert que explora el mítico viaje de Paul Atreides. Mientras se une a Chani y a los Fremen en un camino de venganza contra los conspiradores que destruyeron a su familia, Paul se enfrenta a una terrible elección entre el amor de su vida y el destino del universo.</desc>
   </programme>
-  <programme start="20261026001100 -0500" stop="20261026005900 -0500" channel="TNT_PAN.co">
+  <programme start="20261026001100 -0500" stop="20261026015500 -0500" channel="TNT_PAN.co">
     <title lang="es">SNIPER: FUEGO OCULTO</title>
     <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
     <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
-  <programme start="20261026001400 -0600" stop="20261026003700 -0600" channel="TNT_MX.mx">
+  <programme start="20261026001400 -0600" stop="20261026020200 -0600" channel="TNT_MX.mx">
     <title lang="es">SNIPER: FUEGO OCULTO</title>
     <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
     <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
   <programme start="20261026001900 -0300" stop="20261026004200 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.19.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/vDl3yBe3kHciJ96RLHBDJsSuQL8.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
-  <programme start="20261026002800 -0400" stop="20261026011600 -0400" channel="TNT_CL.cl">
+  <programme start="20261026002800 -0400" stop="20261026021900 -0400" channel="TNT_CL.cl">
     <title lang="es">SNIPER: FUEGO OCULTO</title>
     <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
     <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
   <programme start="20261026003700 -0600" stop="20261026020200 -0600" channel="TNT_MX.mx">
     <title lang="es">SNIPER: LEGACY</title>
     <desc lang="es">Un francotirador (Chad Michael Collins, Sniper: Legacy) decide vengar a su padre, un veterano militar (Tom Berenger, Pelotón) abatido por un traidor de la unidad. Pronto descubre que lo han engañado y que lo están utilizando como carnada. Quinta parte de la saga Blanco Perfecto.</desc>
     <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
-  <programme start="20261026004200 -0300" stop="20261026005200 -0300" channel="TNT_BR.br">
+  <programme start="20261026004200 -0300" stop="20261026010500 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.20.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/rQPfd11QelonAL333AiL0hbl0np.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
   <programme start="20261026005200 -0300" stop="20261026010500 -0300" channel="TNT_BR.br">
     <title lang="pt">DESCONHECIDO</title>
@@ -3571,7 +3553,7 @@ profesión.</desc>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.21.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/rQPfd11QelonAL333AiL0hbl0np.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
   <programme start="20261026010700 -0500" stop="20261026013900 -0500" channel="TNT_CO.co">
     <title lang="es">SNIPER: LEGACY</title>
@@ -3588,13 +3570,13 @@ profesión.</desc>
     <sub-title lang="pt">WILL IS FROM MARS</sub-title>
     <desc lang="pt">Will e Lisa recebem aconselhamento dos Jefferson.</desc>
     <episode-num system="xmltv_ns">4.16.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/wzxHy7IfVb1At176xVIlFkcSHHq.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/wzxHy7IfVb1At176xVIlFkcSHHq.jpg" />
   </programme>
-  <programme start="20261026013900 -0500" stop="20261026024800 -0500" channel="TNT_CO.co">
+  <programme start="20261026013900 -0500" stop="20261026034700 -0500" channel="TNT_CO.co">
     <title lang="es">EL ÚLTIMO GRAN HÉROE</title>
     <desc lang="es">"Un adolescente fanático de las películas de acción siente que toca el cielo con las manos cuando consigue un ""ticket mágico"" que le permite literalmente entrar dentro de la nueva película de su héroe favorito, Jack Slater (Arnold Schwarzenegger) y compartir sus excitantes aventuras. Sin embargo, cuando los villanos descubren el famoso pase, Jack se verá forzado a salir también de la pantalla para atrapar a los malos y, en el proceso, aprender algo acerca de lo que es ser un héroe sin ficción mediante."</desc>
   </programme>
-  <programme start="20261026014600 -0300" stop="20261026024300 -0300" channel="TNT_AR.ar">
+  <programme start="20261026014600 -0300" stop="20261026035500 -0300" channel="TNT_AR.ar">
     <title lang="es">EL ÚLTIMO GRAN HÉROE</title>
     <desc lang="es">"Un adolescente fanático de las películas de acción siente que toca el cielo con las manos cuando consigue un ""ticket mágico"" que le permite literalmente entrar dentro de la nueva película de su héroe favorito, Jack Slater (Arnold Schwarzenegger) y compartir sus excitantes aventuras. Sin embargo, cuando los villanos descubren el famoso pase, Jack se verá forzado a salir también de la pantalla para atrapar a los malos y, en el proceso, aprender algo acerca de lo que es ser un héroe sin ficción mediante."</desc>
   </programme>
@@ -3603,13 +3585,13 @@ profesión.</desc>
     <sub-title lang="pt">THE WEDDING SHOW (PSYCHE!)</sub-title>
     <desc lang="pt">Conforme o casamento de Will e Lisa se aproxima, eles se irritam com os planos de seus pais e fogem para casar em Las Vegas. Isaac Hayes participa como o pastor cantor.</desc>
     <episode-num system="xmltv_ns">4.17.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/baKpIF2Dbb3rU8cygV4RyIxGATm.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/baKpIF2Dbb3rU8cygV4RyIxGATm.jpg" />
   </programme>
-  <programme start="20261026015500 -0500" stop="20261026024100 -0500" channel="TNT_PAN.co">
+  <programme start="20261026015500 -0500" stop="20261026040500 -0500" channel="TNT_PAN.co">
     <title lang="es">EL ÚLTIMO GRAN HÉROE</title>
     <desc lang="es">"Un adolescente fanático de las películas de acción siente que toca el cielo con las manos cuando consigue un ""ticket mágico"" que le permite literalmente entrar dentro de la nueva película de su héroe favorito, Jack Slater (Arnold Schwarzenegger) y compartir sus excitantes aventuras. Sin embargo, cuando los villanos descubren el famoso pase, Jack se verá forzado a salir también de la pantalla para atrapar a los malos y, en el proceso, aprender algo acerca de lo que es ser un héroe sin ficción mediante."</desc>
   </programme>
-  <programme start="20261026020200 -0600" stop="20261026022500 -0600" channel="TNT_MX.mx">
+  <programme start="20261026020200 -0600" stop="20261026041100 -0600" channel="TNT_MX.mx">
     <title lang="es">EL ÚLTIMO GRAN HÉROE</title>
     <desc lang="es">"Un adolescente fanático de las películas de acción siente que toca el cielo con las manos cuando consigue un ""ticket mágico"" que le permite literalmente entrar dentro de la nueva película de su héroe favorito, Jack Slater (Arnold Schwarzenegger) y compartir sus excitantes aventuras. Sin embargo, cuando los villanos descubren el famoso pase, Jack se verá forzado a salir también de la pantalla para atrapar a los malos y, en el proceso, aprender algo acerca de lo que es ser un héroe sin ficción mediante."</desc>
   </programme>
@@ -3618,9 +3600,9 @@ profesión.</desc>
     <sub-title lang="pt">SLUM LIKE IT... NOT!</sub-title>
     <desc lang="pt">Tio Phil aceita a sugestão de Will e compra um edifício residencial, mas ele logo percebe que se tornou o senhorio de uma favela.</desc>
     <episode-num system="xmltv_ns">4.18.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/nRb4chpAO3yuS8xigh9P0clVkux.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/nRb4chpAO3yuS8xigh9P0clVkux.jpg" />
   </programme>
-  <programme start="20261026021900 -0400" stop="20261026030200 -0400" channel="TNT_CL.cl">
+  <programme start="20261026021900 -0400" stop="20261026043200 -0400" channel="TNT_CL.cl">
     <title lang="es">EL ÚLTIMO GRAN HÉROE</title>
     <desc lang="es">"Un adolescente fanático de las películas de acción siente que toca el cielo con las manos cuando consigue un ""ticket mágico"" que le permite literalmente entrar dentro de la nueva película de su héroe favorito, Jack Slater (Arnold Schwarzenegger) y compartir sus excitantes aventuras. Sin embargo, cuando los villanos descubren el famoso pase, Jack se verá forzado a salir también de la pantalla para atrapar a los malos y, en el proceso, aprender algo acerca de lo que es ser un héroe sin ficción mediante."</desc>
   </programme>
@@ -3630,12 +3612,12 @@ profesión.</desc>
     <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
     <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
-  <programme start="20261026023600 -0300" stop="20261026024300 -0300" channel="TNT_BR.br">
+  <programme start="20261026023600 -0300" stop="20261026025800 -0300" channel="TNT_BR.br">
     <title lang="pt">UM MALUCO NO PEDAÇO</title>
     <sub-title lang="pt">AS THE WILL TURNS</sub-title>
     <desc lang="pt">Will está animado para atuar em uma novela ¿ até que descobre que interpretará um homossexual. Philip acha que está sendo traído por Vivian.</desc>
     <episode-num system="xmltv_ns">4.19.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/5R9gbyYVG6pNYYuz5LoUzgsXqOJ.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/5R9gbyYVG6pNYYuz5LoUzgsXqOJ.jpg" />
   </programme>
   <programme start="20261026024100 -0500" stop="20261026040500 -0500" channel="TNT_PAN.co">
     <title lang="es">SNIPER: FUEGO OCULTO</title>
@@ -3660,11 +3642,11 @@ profesión.</desc>
     <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
     <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
-  <programme start="20261026025800 -0300" stop="20261026041900 -0300" channel="TNT_BR.br">
+  <programme start="20261026025800 -0300" stop="20261026045500 -0300" channel="TNT_BR.br">
     <title lang="pt">HOMEM-ARANHA</title>
     <sub-title lang="pt">Spider-Man</sub-title>
     <desc lang="pt">Peter Parker (Tobby Maguire) é um estudante que passa a ter poderes sobrenaturais e habilidades de aracnídeo depois de ter sido mordido por uma aranha modificada geneticamente. No começo usa seus poderes para ganhar dinheiro, mas depois de uma tragédia familiar decide dedicar sua vida ao combate ao crime. Desse modo, enfrentará o Duende Verde (Willem Dafoe), o vilão que fará que o jovem Parker faça do combate ao crime e da ajuda às pessoas inocentes sua única razão de ser.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/hlWNuJig4PuKYhuouH8Pu0KreiO.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/4wsUPhlFB0kBHlfvpxvFmcBrUm4.jpg" />
   </programme>
   <programme start="20261026030200 -0400" stop="20261026043200 -0400" channel="TNT_CL.cl">
     <title lang="es">SNIPER: FUEGO OCULTO</title>
@@ -3672,17 +3654,17 @@ profesión.</desc>
     <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
     <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
-  <programme start="20261026034700 -0500" stop="20261026042900 -0500" channel="TNT_CO.co">
+  <programme start="20261026034700 -0500" stop="20261026052900 -0500" channel="TNT_CO.co">
     <title lang="es">EN BRAZOS DE UN ASESINO</title>
     <sub-title lang="es">KILLING SARAI</sub-title>
     <desc lang="es">Un asesino implacable se convierte en responsable del destino de una mujer desesperada por escapar de las redes de un narcotraficante que la ha tenido atrapada 9 años.</desc>
   </programme>
-  <programme start="20261026035500 -0300" stop="20261026042400 -0300" channel="TNT_AR.ar">
+  <programme start="20261026035500 -0300" stop="20261026053700 -0300" channel="TNT_AR.ar">
     <title lang="es">EN BRAZOS DE UN ASESINO</title>
     <sub-title lang="es">KILLING SARAI</sub-title>
     <desc lang="es">Un asesino implacable se convierte en responsable del destino de una mujer desesperada por escapar de las redes de un narcotraficante que la ha tenido atrapada 9 años.</desc>
   </programme>
-  <programme start="20261026040500 -0500" stop="20261026042500 -0500" channel="TNT_PAN.co">
+  <programme start="20261026040500 -0500" stop="20261026054900 -0500" channel="TNT_PAN.co">
     <title lang="es">EN BRAZOS DE UN ASESINO</title>
     <sub-title lang="es">KILLING SARAI</sub-title>
     <desc lang="es">Un asesino implacable se convierte en responsable del destino de una mujer desesperada por escapar de las redes de un narcotraficante que la ha tenido atrapada 9 años.</desc>
@@ -3692,7 +3674,7 @@ profesión.</desc>
     <desc lang="es">Un joven informante confidencial es enviado a una peligrosa operación encubierta.</desc>
     <icon src="https://image.tmdb.org/t5/p/w500/AwCdLynVp0qTpQV8EhWQKXuyEwA.jpg" />
   </programme>
-  <programme start="20261026041100 -0600" stop="20261026052400 -0600" channel="TNT_MX.mx">
+  <programme start="20261026041100 -0600" stop="20261026055300 -0600" channel="TNT_MX.mx">
     <title lang="es">EN BRAZOS DE UN ASESINO</title>
     <sub-title lang="es">KILLING SARAI</sub-title>
     <desc lang="es">Un asesino implacable se convierte en responsable del destino de una mujer desesperada por escapar de las redes de un narcotraficante que la ha tenido atrapada 9 años.</desc>
@@ -3717,7 +3699,7 @@ profesión.</desc>
     <desc lang="es">Un joven informante confidencial es enviado a una peligrosa operación encubierta.</desc>
     <icon src="https://image.tmdb.org/t5/p/w500/AwCdLynVp0qTpQV8EhWQKXuyEwA.jpg" />
   </programme>
-  <programme start="20261026043200 -0400" stop="20261026044700 -0400" channel="TNT_CL.cl">
+  <programme start="20261026043200 -0400" stop="20261026050900 -0400" channel="TNT_CL.cl">
     <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
     <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
     <episode-num system="xmltv_ns">-1.16.</episode-num>
@@ -3732,7 +3714,7 @@ profesión.</desc>
     <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
     <episode-num system="xmltv_ns">-1.12.</episode-num>
   </programme>
-  <programme start="20261026050900 -0400" stop="20261026052400 -0400" channel="TNT_CL.cl">
+  <programme start="20261026050900 -0400" stop="20261026054400 -0400" channel="TNT_CL.cl">
     <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
     <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
     <episode-num system="xmltv_ns">-1.9.</episode-num>
@@ -3751,25 +3733,25 @@ profesión.</desc>
     <title lang="pt">HOLLYWOOD ONE ON ONE</title>
     <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.36.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/4zM5VMeqOvncWRne4MaJBd62sjg.jpg" />
   </programme>
   <programme start="20261026052900 -0500" stop="20261026053900 -0500" channel="TNT_CO.co">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.34.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
-  <programme start="20261026053700 -0300" stop="20261026054100 -0300" channel="TNT_AR.ar">
+  <programme start="20261026053700 -0300" stop="20261026054900 -0300" channel="TNT_AR.ar">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.42.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
-  <programme start="20261026053900 -0500" stop="20261026054300 -0500" channel="TNT_CO.co">
+  <programme start="20261026053900 -0500" stop="20261026054800 -0500" channel="TNT_CO.co">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.35.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
   <programme start="20261026054000 -0500" stop="20261026054800 -0500" channel="TNT_PAN.co">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
@@ -3793,19 +3775,13 @@ profesión.</desc>
     <title lang="pt">HOLLYWOOD ONE ON ONE</title>
     <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.39.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/4zM5VMeqOvncWRne4MaJBd62sjg.jpg" />
   </programme>
   <programme start="20261026054400 -0400" stop="20261026055700 -0400" channel="TNT_CL.cl">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.48.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
-  </programme>
-  <programme start="20261026054800 -0500" stop="20261026060000 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-    <episode-num system="xmltv_ns">-1.37.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
   <programme start="20261026054800 -0500" stop="20261026054900 -0500" channel="TNT_PAN.co">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
@@ -3813,17 +3789,23 @@ profesión.</desc>
     <episode-num system="xmltv_ns">-1.41.</episode-num>
     <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
-  <programme start="20261026054900 -0300" stop="20261026055600 -0300" channel="TNT_AR.ar">
+  <programme start="20261026054800 -0500" stop="20261026060000 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.37.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+  </programme>
+  <programme start="20261026054900 -0300" stop="20261026060000 -0300" channel="TNT_AR.ar">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.44.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
-  <programme start="20261026054900 -0500" stop="20261026055700 -0500" channel="TNT_PAN.co">
+  <programme start="20261026054900 -0500" stop="20261026060000 -0500" channel="TNT_PAN.co">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.47.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
   <programme start="20261026055300 -0600" stop="20261026055600 -0600" channel="TNT_MX.mx">
     <title lang="es">TNT BUZZ</title>
@@ -3857,13 +3839,13 @@ profesión.</desc>
     <title lang="pt">HOLLYWOOD ONE ON ONE</title>
     <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.31.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/4zM5VMeqOvncWRne4MaJBd62sjg.jpg" />
   </programme>
   <programme start="20261026060000 -0300" stop="20261026061100 -0300" channel="TNT_AR.ar">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.37.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
   <programme start="20261026060000 -0400" stop="20261026063700 -0400" channel="TNT_CL.cl">
     <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
@@ -3874,37 +3856,37 @@ profesión.</desc>
     <title lang="es">CONTAGIO</title>
     <sub-title lang="es">CONTAGION</sub-title>
     <desc lang="es">El cineasta ganador del Oscar®, Steven Soderbergh (Ocean's Eleven films, Traffic) regresa a las grandes producciones con este thriller de escala global que aborda el brote de una enfermedad letal y sobre la gente que trata de sobrevivir. Mientras la epidemia avanza rápidamente, la comunidad médica mundial se apresura para encontrar la cura y controlar el pánico que se propaga más rápido que el mismo virus. Al mismo tiempo, la gente normal intenta sobrevivir en una sociedad que se comienza a desintegrar.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/6CSPieuzXvp4gcSSPZzuUwBXjaP.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/6CSPieuzXvp4gcSSPZzuUwBXjaP.jpg" />
   </programme>
   <programme start="20261026060000 -0500" stop="20261026060900 -0500" channel="TNT_PAN.co">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.44.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
   <programme start="20261026060000 -0600" stop="20261026061500 -0600" channel="TNT_MX.mx">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.44.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
   <programme start="20261026060900 -0500" stop="20261026080000 -0500" channel="TNT_PAN.co">
     <title lang="es">CONTAGIO</title>
     <sub-title lang="es">CONTAGION</sub-title>
     <desc lang="es">El cineasta ganador del Oscar®, Steven Soderbergh (Ocean's Eleven films, Traffic) regresa a las grandes producciones con este thriller de escala global que aborda el brote de una enfermedad letal y sobre la gente que trata de sobrevivir. Mientras la epidemia avanza rápidamente, la comunidad médica mundial se apresura para encontrar la cura y controlar el pánico que se propaga más rápido que el mismo virus. Al mismo tiempo, la gente normal intenta sobrevivir en una sociedad que se comienza a desintegrar.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/6CSPieuzXvp4gcSSPZzuUwBXjaP.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/6CSPieuzXvp4gcSSPZzuUwBXjaP.jpg" />
   </programme>
   <programme start="20261026061100 -0300" stop="20261026061900 -0300" channel="TNT_AR.ar">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.38.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
   <programme start="20261026061200 -0300" stop="20261026072400 -0300" channel="TNT_BR.br">
     <title lang="pt">A Informante</title>
     <sub-title lang="pt">All Souls</sub-title>
     <desc lang="pt">River, uma jovem mãe flagrada em uma pequena apreensão de drogas, é forçada a trabalhar para a polícia como informante secreta em uma perigosa operação encoberta que pode lhe custar tudo, até mesmo sua filha.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/6MXrbOnL012Dtoy2re8mFPRq74k.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/3RJU0ZUMN8oE7xITh64XUVAD3Tk.jpg" />
   </programme>
   <programme start="20261026061500 -0600" stop="20261026061600 -0600" channel="TNT_MX.mx">
     <title lang="es">TNT BUZZ</title>
@@ -3914,7 +3896,7 @@ profesión.</desc>
     <title lang="es">CONTAGIO</title>
     <sub-title lang="es">CONTAGION</sub-title>
     <desc lang="es">El cineasta ganador del Oscar®, Steven Soderbergh (Ocean's Eleven films, Traffic) regresa a las grandes producciones con este thriller de escala global que aborda el brote de una enfermedad letal y sobre la gente que trata de sobrevivir. Mientras la epidemia avanza rápidamente, la comunidad médica mundial se apresura para encontrar la cura y controlar el pánico que se propaga más rápido que el mismo virus. Al mismo tiempo, la gente normal intenta sobrevivir en una sociedad que se comienza a desintegrar.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/6CSPieuzXvp4gcSSPZzuUwBXjaP.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/6CSPieuzXvp4gcSSPZzuUwBXjaP.jpg" />
   </programme>
   <programme start="20261026061900 -0300" stop="20261026080700 -0300" channel="TNT_AR.ar">
     <title lang="es">DOS INÚTILES EN PATRULLA</title>
@@ -3930,13 +3912,13 @@ profesión.</desc>
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
     <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.42.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jl1An7vDkeOsU54aheKRk3ZGXk6.jpg" />
   </programme>
   <programme start="20261026072400 -0300" stop="20261026091500 -0300" channel="TNT_BR.br">
     <title lang="pt">CONTÁGIO</title>
     <sub-title lang="pt">Contagion</sub-title>
     <desc lang="pt">O cineasta vencedor do Oscar® Steven Soderbergh (saga Onze Homens e um Segredo, Traffic) está de volta às grandes produções com este thriller de ação que gira em torno da ameaça de uma epidemia mortal e das pessoas determinadas a controlá-la. Conforme a epidemia avança de forma rápida, a comunidade médica de todo o mundo se esforça para encontrar uma cura e controlar o pânico que se espalha de forma mais perturbadora do que o próprio vírus. Ao mesmo tempo, pessoas comuns lutam para sobreviver numa sociedade que desmorona.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/6CSPieuzXvp4gcSSPZzuUwBXjaP.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/6CSPieuzXvp4gcSSPZzuUwBXjaP.jpg" />
   </programme>
   <programme start="20261026073100 -0400" stop="20261026073300 -0400" channel="TNT_CL.cl">
     <title lang="es">TNT BUZZ</title>
@@ -3990,7 +3972,7 @@ profesión.</desc>
     <title lang="es">EL FUGITIVO</title>
     <desc lang="es">El doctor Richard Kimble (Harrison Ford)  es un prestigioso cirujano de Chicago con una vida prácticamente perfecta: una bella esposa, una casa de lujo en un elegante barrio de Chicago... Su vida se desmorona el día que su mujer es brutalmente asesinada en manos de un misterioso hombre manco. Kimble es acusado del crimen y, aunque es inocente, sentenciado a pena de muerte. Pero camino de la cárcel logra escapar.  El detective Samuel Gerard (Tommy Lee Jones) es el encargado de cazarlo. Ahora que está en libertad, Kimble sabe que solamente tiene una manera de probar su inocencia: encontrar al verdadero asesino y descubrir por qué lo hizo. Perseguido por Gerard y una cantidad descomunal de policías, inicia la difícil búsqueda.
 Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consagratoria actuación en esta película, basada en la serie de televisión El fugitivo.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/cSvrnCMFX8OWqHSkUwERfKU7mnP.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/cSvrnCMFX8OWqHSkUwERfKU7mnP.jpg" />
   </programme>
   <programme start="20261026095800 -0600" stop="20261026121900 -0600" channel="TNT_MX.mx">
     <title lang="es">EL ÚLTIMO GRAN HÉROE</title>
@@ -4000,108 +3982,109 @@ Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consag
     <title lang="es">EL FUGITIVO</title>
     <desc lang="es">El doctor Richard Kimble (Harrison Ford)  es un prestigioso cirujano de Chicago con una vida prácticamente perfecta: una bella esposa, una casa de lujo en un elegante barrio de Chicago... Su vida se desmorona el día que su mujer es brutalmente asesinada en manos de un misterioso hombre manco. Kimble es acusado del crimen y, aunque es inocente, sentenciado a pena de muerte. Pero camino de la cárcel logra escapar.  El detective Samuel Gerard (Tommy Lee Jones) es el encargado de cazarlo. Ahora que está en libertad, Kimble sabe que solamente tiene una manera de probar su inocencia: encontrar al verdadero asesino y descubrir por qué lo hizo. Perseguido por Gerard y una cantidad descomunal de policías, inicia la difícil búsqueda.
 Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consagratoria actuación en esta película, basada en la serie de televisión El fugitivo.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/cSvrnCMFX8OWqHSkUwERfKU7mnP.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/cSvrnCMFX8OWqHSkUwERfKU7mnP.jpg" />
   </programme>
   <programme start="20261026110800 -0300" stop="20261026113300 -0300" channel="TNT_BR.br">
     <title lang="pt">UM MALUCO NO PEDAÇO</title>
     <sub-title lang="pt">WILL IS FROM MARS</sub-title>
     <desc lang="pt">Will e Lisa recebem aconselhamento dos Jefferson.</desc>
     <episode-num system="xmltv_ns">4.16.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/wzxHy7IfVb1At176xVIlFkcSHHq.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/wzxHy7IfVb1At176xVIlFkcSHHq.jpg" />
   </programme>
   <programme start="20261026113300 -0300" stop="20261026115800 -0300" channel="TNT_BR.br">
     <title lang="pt">UM MALUCO NO PEDAÇO</title>
     <sub-title lang="pt">THE WEDDING SHOW (PSYCHE!)</sub-title>
     <desc lang="pt">Conforme o casamento de Will e Lisa se aproxima, eles se irritam com os planos de seus pais e fogem para casar em Las Vegas. Isaac Hayes participa como o pastor cantor.</desc>
     <episode-num system="xmltv_ns">4.17.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/baKpIF2Dbb3rU8cygV4RyIxGATm.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/baKpIF2Dbb3rU8cygV4RyIxGATm.jpg" />
   </programme>
   <programme start="20261026115600 -0500" stop="20261026142100 -0500" channel="TNT_CO.co">
     <title lang="es">EL FUGITIVO</title>
     <desc lang="es">El doctor Richard Kimble (Harrison Ford)  es un prestigioso cirujano de Chicago con una vida prácticamente perfecta: una bella esposa, una casa de lujo en un elegante barrio de Chicago... Su vida se desmorona el día que su mujer es brutalmente asesinada en manos de un misterioso hombre manco. Kimble es acusado del crimen y, aunque es inocente, sentenciado a pena de muerte. Pero camino de la cárcel logra escapar.  El detective Samuel Gerard (Tommy Lee Jones) es el encargado de cazarlo. Ahora que está en libertad, Kimble sabe que solamente tiene una manera de probar su inocencia: encontrar al verdadero asesino y descubrir por qué lo hizo. Perseguido por Gerard y una cantidad descomunal de policías, inicia la difícil búsqueda.
 Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consagratoria actuación en esta película, basada en la serie de televisión El fugitivo.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/cSvrnCMFX8OWqHSkUwERfKU7mnP.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/cSvrnCMFX8OWqHSkUwERfKU7mnP.jpg" />
   </programme>
   <programme start="20261026115800 -0300" stop="20261026122100 -0300" channel="TNT_BR.br">
     <title lang="pt">UM MALUCO NO PEDAÇO</title>
     <sub-title lang="pt">SLUM LIKE IT... NOT!</sub-title>
     <desc lang="pt">Tio Phil aceita a sugestão de Will e compra um edifício residencial, mas ele logo percebe que se tornou o senhorio de uma favela.</desc>
     <episode-num system="xmltv_ns">4.18.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/nRb4chpAO3yuS8xigh9P0clVkux.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/nRb4chpAO3yuS8xigh9P0clVkux.jpg" />
   </programme>
   <programme start="20261026121200 -0500" stop="20261026144200 -0500" channel="TNT_PAN.co">
     <title lang="es">EL FUGITIVO</title>
     <desc lang="es">El doctor Richard Kimble (Harrison Ford)  es un prestigioso cirujano de Chicago con una vida prácticamente perfecta: una bella esposa, una casa de lujo en un elegante barrio de Chicago... Su vida se desmorona el día que su mujer es brutalmente asesinada en manos de un misterioso hombre manco. Kimble es acusado del crimen y, aunque es inocente, sentenciado a pena de muerte. Pero camino de la cárcel logra escapar.  El detective Samuel Gerard (Tommy Lee Jones) es el encargado de cazarlo. Ahora que está en libertad, Kimble sabe que solamente tiene una manera de probar su inocencia: encontrar al verdadero asesino y descubrir por qué lo hizo. Perseguido por Gerard y una cantidad descomunal de policías, inicia la difícil búsqueda.
 Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consagratoria actuación en esta película, basada en la serie de televisión El fugitivo.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/cSvrnCMFX8OWqHSkUwERfKU7mnP.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/cSvrnCMFX8OWqHSkUwERfKU7mnP.jpg" />
   </programme>
   <programme start="20261026121900 -0600" stop="20261026144300 -0600" channel="TNT_MX.mx">
     <title lang="es">EL FUGITIVO</title>
     <desc lang="es">El doctor Richard Kimble (Harrison Ford)  es un prestigioso cirujano de Chicago con una vida prácticamente perfecta: una bella esposa, una casa de lujo en un elegante barrio de Chicago... Su vida se desmorona el día que su mujer es brutalmente asesinada en manos de un misterioso hombre manco. Kimble es acusado del crimen y, aunque es inocente, sentenciado a pena de muerte. Pero camino de la cárcel logra escapar.  El detective Samuel Gerard (Tommy Lee Jones) es el encargado de cazarlo. Ahora que está en libertad, Kimble sabe que solamente tiene una manera de probar su inocencia: encontrar al verdadero asesino y descubrir por qué lo hizo. Perseguido por Gerard y una cantidad descomunal de policías, inicia la difícil búsqueda.
 Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consagratoria actuación en esta película, basada en la serie de televisión El fugitivo.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/cSvrnCMFX8OWqHSkUwERfKU7mnP.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/cSvrnCMFX8OWqHSkUwERfKU7mnP.jpg" />
   </programme>
   <programme start="20261026122100 -0300" stop="20261026124500 -0300" channel="TNT_BR.br">
     <title lang="pt">UM MALUCO NO PEDAÇO</title>
     <sub-title lang="pt">AS THE WILL TURNS</sub-title>
     <desc lang="pt">Will está animado para atuar em uma novela ¿ até que descobre que interpretará um homossexual. Philip acha que está sendo traído por Vivian.</desc>
     <episode-num system="xmltv_ns">4.19.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/5R9gbyYVG6pNYYuz5LoUzgsXqOJ.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/5R9gbyYVG6pNYYuz5LoUzgsXqOJ.jpg" />
   </programme>
   <programme start="20261026122700 -0400" stop="20261026143200 -0400" channel="TNT_CL.cl">
     <title lang="es">DESCONOCIDO</title>
     <desc lang="es">Nada te pertenece tanto como tu identidad. Un científico viaja a Berlín junto a su mujer para participar de una importante convención. Al salir del aeropuerto, sube a un taxi conducido por una joven inmigrante y sufre un violento accidente automovilístico que lo deja varios días en coma. Cuando despierta, advierte que un impostor lo ha remplazado: ni siquiera su mujer parece reconocerlo. Lleno de dudas sobre su identidad, y con lagunas en su memoria a raíz del accidente, busca a la joven conductora del taxi para intentar obtener más información. Hasta que nota que está en peligro y que hay asesinos que vienen por él. Ahora no sólo deberá salvar su vida y recuperar su identidad. También tendrá que descubrir cómo era, exactamente, esa vida que está intentando recuperar.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/nBJgkuTYv2IgKytrw0k3418ctbz.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/nBJgkuTYv2IgKytrw0k3418ctbz.jpg" />
   </programme>
   <programme start="20261026124500 -0300" stop="20261026130700 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.17.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/pmF4fEhifVvfCZyjEWvgEOCyjTW.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
   <programme start="20261026125200 -0300" stop="20261026145400 -0300" channel="TNT_AR.ar">
     <title lang="es">DESCONOCIDO</title>
     <desc lang="es">Nada te pertenece tanto como tu identidad. Un científico viaja a Berlín junto a su mujer para participar de una importante convención. Al salir del aeropuerto, sube a un taxi conducido por una joven inmigrante y sufre un violento accidente automovilístico que lo deja varios días en coma. Cuando despierta, advierte que un impostor lo ha remplazado: ni siquiera su mujer parece reconocerlo. Lleno de dudas sobre su identidad, y con lagunas en su memoria a raíz del accidente, busca a la joven conductora del taxi para intentar obtener más información. Hasta que nota que está en peligro y que hay asesinos que vienen por él. Ahora no sólo deberá salvar su vida y recuperar su identidad. También tendrá que descubrir cómo era, exactamente, esa vida que está intentando recuperar.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/nBJgkuTYv2IgKytrw0k3418ctbz.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/nBJgkuTYv2IgKytrw0k3418ctbz.jpg" />
   </programme>
   <programme start="20261026130700 -0300" stop="20261026132900 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.18.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/7z86rfxWLOsEpQAaSRk5JmCSfZ1.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
   <programme start="20261026132900 -0300" stop="20261026135000 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.19.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/vDl3yBe3kHciJ96RLHBDJsSuQL8.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
   <programme start="20261026135000 -0300" stop="20261026141000 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.20.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/rQPfd11QelonAL333AiL0hbl0np.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
   <programme start="20261026141000 -0300" stop="20261026143200 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.21.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/rQPfd11QelonAL333AiL0hbl0np.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
   <programme start="20261026142100 -0500" stop="20261026162500 -0500" channel="TNT_CO.co">
     <title lang="es">DESCONOCIDO</title>
     <desc lang="es">Nada te pertenece tanto como tu identidad. Un científico viaja a Berlín junto a su mujer para participar de una importante convención. Al salir del aeropuerto, sube a un taxi conducido por una joven inmigrante y sufre un violento accidente automovilístico que lo deja varios días en coma. Cuando despierta, advierte que un impostor lo ha remplazado: ni siquiera su mujer parece reconocerlo. Lleno de dudas sobre su identidad, y con lagunas en su memoria a raíz del accidente, busca a la joven conductora del taxi para intentar obtener más información. Hasta que nota que está en peligro y que hay asesinos que vienen por él. Ahora no sólo deberá salvar su vida y recuperar su identidad. También tendrá que descubrir cómo era, exactamente, esa vida que está intentando recuperar.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/nBJgkuTYv2IgKytrw0k3418ctbz.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/nBJgkuTYv2IgKytrw0k3418ctbz.jpg" />
   </programme>
   <programme start="20261026143200 -0300" stop="20261026172000 -0300" channel="TNT_BR.br">
     <title lang="pt">Duna: Parte Dois</title>
     <sub-title lang="pt">Dune: Part Two</sub-title>
     <desc lang="pt">Denis Villeneuve dirige um elenco estelar liderado por Timothée Chalamet, Zendaya, Rebecca Ferguson e Javier Bardem e embarca na adaptação do próximo capítulo do célebre romance de ficção científica de Frank Herbert, que explora a jornada mítica de Paul Atreides. Ao se juntar a Chani e aos Fremen em uma guerra de vingança contra os conspiradores que destruíram sua família, Paul enfrenta uma terrível escolha entre o amor de sua vida e o destino do universo.</desc>
+    <icon src="https://media.themoviedb.org/t/p/w500/9kyqa103Ih22hT955ZaZdipAOAD.jpg" />
   </programme>
   <programme start="20261026143200 -0400" stop="20261026173700 -0400" channel="TNT_CL.cl">
     <desc lang="es">Denis Villeneuve dirige a un elenco estelar liderado por Timothée Chalamet, Zendaya, Rebecca Ferguson y Javier Bardem y se embarca en la adaptación del siguiente capítulo de la célebre novela de ciencia ficción de Frank Herbert que explora el mítico viaje de Paul Atreides. Mientras se une a Chani y a los Fremen en un camino de venganza contra los conspiradores que destruyeron a su familia, Paul se enfrenta a una terrible elección entre el amor de su vida y el destino del universo.</desc>
@@ -4109,12 +4092,12 @@ Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consag
   <programme start="20261026144200 -0500" stop="20261026164500 -0500" channel="TNT_PAN.co">
     <title lang="es">DESCONOCIDO</title>
     <desc lang="es">Nada te pertenece tanto como tu identidad. Un científico viaja a Berlín junto a su mujer para participar de una importante convención. Al salir del aeropuerto, sube a un taxi conducido por una joven inmigrante y sufre un violento accidente automovilístico que lo deja varios días en coma. Cuando despierta, advierte que un impostor lo ha remplazado: ni siquiera su mujer parece reconocerlo. Lleno de dudas sobre su identidad, y con lagunas en su memoria a raíz del accidente, busca a la joven conductora del taxi para intentar obtener más información. Hasta que nota que está en peligro y que hay asesinos que vienen por él. Ahora no sólo deberá salvar su vida y recuperar su identidad. También tendrá que descubrir cómo era, exactamente, esa vida que está intentando recuperar.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/nBJgkuTYv2IgKytrw0k3418ctbz.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/nBJgkuTYv2IgKytrw0k3418ctbz.jpg" />
   </programme>
   <programme start="20261026144300 -0600" stop="20261026164400 -0600" channel="TNT_MX.mx">
     <title lang="es">DESCONOCIDO</title>
     <desc lang="es">Nada te pertenece tanto como tu identidad. Un científico viaja a Berlín junto a su mujer para participar de una importante convención. Al salir del aeropuerto, sube a un taxi conducido por una joven inmigrante y sufre un violento accidente automovilístico que lo deja varios días en coma. Cuando despierta, advierte que un impostor lo ha remplazado: ni siquiera su mujer parece reconocerlo. Lleno de dudas sobre su identidad, y con lagunas en su memoria a raíz del accidente, busca a la joven conductora del taxi para intentar obtener más información. Hasta que nota que está en peligro y que hay asesinos que vienen por él. Ahora no sólo deberá salvar su vida y recuperar su identidad. También tendrá que descubrir cómo era, exactamente, esa vida que está intentando recuperar.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/nBJgkuTYv2IgKytrw0k3418ctbz.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/nBJgkuTYv2IgKytrw0k3418ctbz.jpg" />
   </programme>
   <programme start="20261026145400 -0300" stop="20261026175500 -0300" channel="TNT_AR.ar">
     <desc lang="es">Denis Villeneuve dirige a un elenco estelar liderado por Timothée Chalamet, Zendaya, Rebecca Ferguson y Javier Bardem y se embarca en la adaptación del siguiente capítulo de la célebre novela de ciencia ficción de Frank Herbert que explora el mítico viaje de Paul Atreides. Mientras se une a Chani y a los Fremen en un camino de venganza contra los conspiradores que destruyeron a su familia, Paul se enfrenta a una terrible elección entre el amor de su vida y el destino del universo.</desc>
@@ -4132,12 +4115,12 @@ Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consag
     <title lang="pt">DESCONHECIDO</title>
     <sub-title lang="pt">Unknown</sub-title>
     <desc lang="pt">Um cientista vai a Berlim com a mulher para participar de uma convenção. Ao sair do aeroporto, ele pega um táxi dirigido por uma jovem imigrante e sofre um acidente que o deixa vários dias em coma. Quando acorda, descobre que foi substituído por um impostor e nem sua mulher parece reconhecê-lo. Cheio de dúvidas sobre a sua identidade, e com lacunas de memória, ele procura a motorista para obter mais informações. Mas percebe que há assassinos atrás dele. Agora, além de salvar a vida, ele tem que descobrir como era, exatamente, a identidade que está tentando recuperar.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/80SrFtAot0MOr6APrOtaTWfyO9S.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/XWRUWw2MfSjcIJxSJGVRZAZvwi.jpg" />
   </programme>
   <programme start="20261026173700 -0400" stop="20261026200000 -0400" channel="TNT_CL.cl">
     <title lang="es">EL HOMBRE ARAÑA</title>
     <desc lang="es">Peter Parker (Tobby Maguire) es un estudiante que obtiene poderes sobrenaturales y habilidades arácnidas después de haber sido mordido por una araña genéticamente alterada. Al principio utiliza sus poderes para ganar dinero, pero luego de una tragedia familiar decide dedicar su vida a combatir el crimen. Así, se enfrentará al Duende Verde (Willem Dafoe), el villano que hará que el joven Parker haga de combatir el crimen y ayudar a personas inocentes, su única razón de ser.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/kC4oznOkJmGk3Bvijd2HT54QqvK.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/kC4oznOkJmGk3Bvijd2HT54QqvK.jpg" />
   </programme>
   <programme start="20261026175500 -0300" stop="20261026181000 -0300" channel="TNT_AR.ar">
     <episode-num system="xmltv_ns">-1.21.</episode-num>
@@ -4145,7 +4128,7 @@ Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consag
   <programme start="20261026181000 -0300" stop="20261026203100 -0300" channel="TNT_AR.ar">
     <title lang="es">EL HOMBRE ARAÑA</title>
     <desc lang="es">Peter Parker (Tobby Maguire) es un estudiante que obtiene poderes sobrenaturales y habilidades arácnidas después de haber sido mordido por una araña genéticamente alterada. Al principio utiliza sus poderes para ganar dinero, pero luego de una tragedia familiar decide dedicar su vida a combatir el crimen. Así, se enfrentará al Duende Verde (Willem Dafoe), el villano que hará que el joven Parker haga de combatir el crimen y ayudar a personas inocentes, su única razón de ser.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/kC4oznOkJmGk3Bvijd2HT54QqvK.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/kC4oznOkJmGk3Bvijd2HT54QqvK.jpg" />
   </programme>
   <programme start="20261026192000 -0300" stop="20261026211100 -0300" channel="TNT_BR.br">
     <title lang="pt">O ATIRADOR FANTASMA</title>
@@ -4155,36 +4138,36 @@ Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consag
   <programme start="20261026193800 -0500" stop="20261026220000 -0500" channel="TNT_CO.co">
     <title lang="es">EL HOMBRE ARAÑA</title>
     <desc lang="es">Peter Parker (Tobby Maguire) es un estudiante que obtiene poderes sobrenaturales y habilidades arácnidas después de haber sido mordido por una araña genéticamente alterada. Al principio utiliza sus poderes para ganar dinero, pero luego de una tragedia familiar decide dedicar su vida a combatir el crimen. Así, se enfrentará al Duende Verde (Willem Dafoe), el villano que hará que el joven Parker haga de combatir el crimen y ayudar a personas inocentes, su única razón de ser.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/kC4oznOkJmGk3Bvijd2HT54QqvK.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/kC4oznOkJmGk3Bvijd2HT54QqvK.jpg" />
   </programme>
   <programme start="20261026194500 -0500" stop="20261026220000 -0500" channel="TNT_PAN.co">
     <title lang="es">EL HOMBRE ARAÑA</title>
     <desc lang="es">Peter Parker (Tobby Maguire) es un estudiante que obtiene poderes sobrenaturales y habilidades arácnidas después de haber sido mordido por una araña genéticamente alterada. Al principio utiliza sus poderes para ganar dinero, pero luego de una tragedia familiar decide dedicar su vida a combatir el crimen. Así, se enfrentará al Duende Verde (Willem Dafoe), el villano que hará que el joven Parker haga de combatir el crimen y ayudar a personas inocentes, su única razón de ser.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/kC4oznOkJmGk3Bvijd2HT54QqvK.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/kC4oznOkJmGk3Bvijd2HT54QqvK.jpg" />
   </programme>
   <programme start="20261026194500 -0600" stop="20261026220000 -0600" channel="TNT_MX.mx">
     <title lang="es">EL HOMBRE ARAÑA</title>
     <desc lang="es">Peter Parker (Tobby Maguire) es un estudiante que obtiene poderes sobrenaturales y habilidades arácnidas después de haber sido mordido por una araña genéticamente alterada. Al principio utiliza sus poderes para ganar dinero, pero luego de una tragedia familiar decide dedicar su vida a combatir el crimen. Así, se enfrentará al Duende Verde (Willem Dafoe), el villano que hará que el joven Parker haga de combatir el crimen y ayudar a personas inocentes, su única razón de ser.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/kC4oznOkJmGk3Bvijd2HT54QqvK.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/kC4oznOkJmGk3Bvijd2HT54QqvK.jpg" />
   </programme>
   <programme start="20261026200000 -0400" stop="20261026220000 -0400" channel="TNT_CL.cl">
     <title lang="es">MASTERCHEF CHILE</title>
     <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
     <episode-num system="xmltv_ns">4.15.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/kgWvYJZuqtCjsLJTeEcPdvwRui3.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/kgWvYJZuqtCjsLJTeEcPdvwRui3.jpg" />
   </programme>
   <programme start="20261026203100 -0300" stop="20261026220300 -0300" channel="TNT_AR.ar">
     <title lang="es">MASTERCHEF CELEBRITY ARGENTINA</title>
     <desc lang="es">¡Se encienden las hornallas! Bajo la conducción de Wanda Nara, llega la nueva temporada de esta intensa competencia de sabores, donde distintas celebridades despliegan su talento culinario ante un exigente jurado de chefs. Damián Betular, Maru Botana y Germán Martitegui serán los encargados de evaluar cada plato y definir quiénes tienen lo necesario para seguir en competencia y quienes deberán que entregar su delantal.</desc>
     <episode-num system="xmltv_ns">-1.17.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/4k9JWfJe4RQ8fHA7Ep4qf6r0Isz.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/4k9JWfJe4RQ8fHA7Ep4qf6r0Isz.jpg" />
   </programme>
   <programme start="20261026211100 -0300" stop="20261026233000 -0300" channel="TNT_BR.br">
     <title lang="pt">DIA DE TREINAMENTO</title>
     <sub-title lang="pt">Training Day</sub-title>
     <desc lang="pt">Denzel Washington é Alonzo Harris, um oficial veterano do departamento de narcóticos encarregado de treinar Jake Hoyt, um agente novato da polícia de Los Angeles, interpretado por Ethan Hawke. Harris concordou em dar uma chance a Hoyt em sua equipe com um treinamento de um dia, durante o qual Hoyt deverá provar seus méritos. Conforme o dia passa, no entanto, se torna cada vez mais claro para o novato que seu experiente mentor atravessou a linha entre o certo e o errado de forma alarmante, ameaçando seus próprios códigos de moral e justiça.</desc>
   </programme>
-  <programme start="20261026220000 -0400" stop="20261027060000 -0400" channel="TNT_CL.cl">
+  <programme start="20261026220000 -0400" stop="20261026223000 -0400" channel="TNT_CL.cl">
     <title lang="es">DÍA DE ENTRENAMIENTO</title>
     <sub-title lang="es">TRAINING DAY</sub-title>
     <desc lang="es">Denzel Washington es Alonzo Harris, un oficial veterano del departamento de narcóticos encargado de entrenar a Jake Hoyt, un agente novato de la Policía de Los Ángeles, interpretado por Ethan Hawke. Harris estuvo de acuerdo en darle una oportunidad a Hoyt en su equipo con un entrenamiento de un día, durante el cual Hoyt deberá probar sus méritos. Sin embargo, a medida que pasa el día, se hace cada vez más claro para el novato que su experimentado mentor cruzó la línea entre lo correcto y lo equivocado de manera alarmante, amenazando sus propios códigos de moral y justicia.</desc>
@@ -4194,12 +4177,12 @@ Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consag
     <sub-title lang="es">THE TRIP</sub-title>
     <desc lang="es">Después de 11 años de trabajo continuo, Alex Peinado decide pasar unas vacaciones inolvidables junto a su familia. Así que emprende un viaje en carro rumbo a Cartagena, junto a su esposa, sus dos hijos adolescentes, su perro Káiser y hasta su insufrible suegra. Pero el viaje no es su única motivación,  Alex oculta un plan que le exige llegar a su destino puntualmente. Sin embargo el recorrido se convertirá en la más increíble aventura que, aunque pondrá en riesgo su llegada a la Costa, le dará a su familia la más extraordinaria lección de vida.</desc>
   </programme>
-  <programme start="20261026220000 -0500" stop="20261027060000 -0500" channel="TNT_PAN.co">
+  <programme start="20261026220000 -0500" stop="20261026223000 -0500" channel="TNT_PAN.co">
     <title lang="es">DÍA DE ENTRENAMIENTO</title>
     <sub-title lang="es">TRAINING DAY</sub-title>
     <desc lang="es">Denzel Washington es Alonzo Harris, un oficial veterano del departamento de narcóticos encargado de entrenar a Jake Hoyt, un agente novato de la Policía de Los Ángeles, interpretado por Ethan Hawke. Harris estuvo de acuerdo en darle una oportunidad a Hoyt en su equipo con un entrenamiento de un día, durante el cual Hoyt deberá probar sus méritos. Sin embargo, a medida que pasa el día, se hace cada vez más claro para el novato que su experimentado mentor cruzó la línea entre lo correcto y lo equivocado de manera alarmante, amenazando sus propios códigos de moral y justicia.</desc>
   </programme>
-  <programme start="20261026220000 -0600" stop="20261027060000 -0600" channel="TNT_MX.mx">
+  <programme start="20261026220000 -0600" stop="20261026223000 -0600" channel="TNT_MX.mx">
     <title lang="es">DÍA DE ENTRENAMIENTO</title>
     <sub-title lang="es">TRAINING DAY</sub-title>
     <desc lang="es">Denzel Washington es Alonzo Harris, un oficial veterano del departamento de narcóticos encargado de entrenar a Jake Hoyt, un agente novato de la Policía de Los Ángeles, interpretado por Ethan Hawke. Harris estuvo de acuerdo en darle una oportunidad a Hoyt en su equipo con un entrenamiento de un día, durante el cual Hoyt deberá probar sus méritos. Sin embargo, a medida que pasa el día, se hace cada vez más claro para el novato que su experimentado mentor cruzó la línea entre lo correcto y lo equivocado de manera alarmante, amenazando sus propios códigos de moral y justicia.</desc>
@@ -4207,32 +4190,31 @@ Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consag
   <programme start="20261026220300 -0300" stop="20261026235700 -0300" channel="TNT_AR.ar">
     <title lang="es">LOS PARANOICOS</title>
     <sub-title lang="es">THE PARANOIDS</sub-title>
-    <desc lang="es">"Los paranoicos" cuenta la historia de Gauna, un joven que escribe pero nunca tuvo el coraje de enseñar su obra. Un hombre que en la intimidad expone una personalidad que parece censurar en su escasa vida social. La aparición de un viejo amigo, Manuel, que llega desde España embriagado por el suceso de una serie televisiva cuyo protagonista tiene un nombre que remite a él, provoca el enfrentamiento de Gauna con aquello que desea -aunque sea la novia de su amigo- y la reafirmación de sus principios.</desc>
   </programme>
   <programme start="20261026233000 -0300" stop="20261026235400 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.17.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/pmF4fEhifVvfCZyjEWvgEOCyjTW.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
-  <programme start="20261026235100 -0500" stop="20261027060000 -0500" channel="TNT_CO.co">
+  <programme start="20261026235100 -0500" stop="20261027002100 -0500" channel="TNT_CO.co">
     <title lang="es">SNIPER: FUEGO OCULTO</title>
     <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
     <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
-  <programme start="20261026235400 -0300" stop="20261027060000 -0300" channel="TNT_BR.br">
+  <programme start="20261026235400 -0300" stop="20261027002400 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.18.</episode-num>
-    <icon src="https://image.tmdb.org/t5/p/w500/7z86rfxWLOsEpQAaSRk5JmCSfZ1.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
-  <programme start="20261026235700 -0300" stop="20261027060000 -0300" channel="TNT_AR.ar">
+  <programme start="20261026235700 -0300" stop="20261027002700 -0300" channel="TNT_AR.ar">
     <title lang="es">SNIPER: FUEGO OCULTO</title>
     <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
     <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
-    <icon src="https://image.tmdb.org/t5/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/3I2zJkHQpu8t9c44u8UBSLDum4O.jpg" />
   </programme>
 </tv>
