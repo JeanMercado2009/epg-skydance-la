@@ -92,15 +92,15 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", ep_title_
 
     lower_title = series_title.lower()
     if "submarine jim" in lower_title or "el submarino de jim" in lower_title:
-        img = "https://image.tmdb.org/t/p/w500/cHN9UE0cjsDByMWk0FgaPEkHNeJ.jpg"
+        img = "https://media.themoviedb.org/t/p/w500/cHN9UE0cjsDByMWk0FgaPEkHNeJ.jpg"
         tmdb_cache[cache_key] = img
         return img
     if "aquaman: rage of atlantis" in lower_title or "lego dc" in lower_title:
-        img = "https://image.tmdb.org/t/p/w500/8BqoJXMhrV9KfKmodPtyi67VgBG.jpg"
+        img = "https://media.themoviedb.org/t/p/w500/8BqoJXMhrV9KfKmodPtyi67VgBG.jpg"
         tmdb_cache[cache_key] = img
         return img
     if "spider-man" in lower_title and "un nuevo universo" in lower_title:
-        img = "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+        img = "https://media.themoviedb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
         tmdb_cache[cache_key] = img
         return img
 
@@ -160,7 +160,7 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", ep_title_
                                 if still_path:
                                     if not still_path.startswith('/'):
                                         still_path = '/' + still_path
-                                    found_still = f"https://image.tmdb.org/t/p/w500{still_path}"
+                                    found_still = f"https://media.themoviedb.org/t/p/w500{still_path}"
                                     break
                     if found_still:
                         break
@@ -173,7 +173,7 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", ep_title_
             if res_search.status_code == 200 and res_search.json().get("results"):
                 poster_path = res_search.json()["results"][0].get("poster_path")
                 if poster_path:
-                    img_url = f"https://image.tmdb.org/t/p/w500{poster_path}"
+                    img_url = f"https://media.themoviedb.org/t/p/w500{poster_path}"
                     tmdb_cache[cache_key] = img_url
                     return img_url
     except Exception:
