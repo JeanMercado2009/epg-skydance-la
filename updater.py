@@ -3,9 +3,10 @@ import re
 import io
 import zipfile
 from datetime import datetime, timedelta, timezone
-import xml.etree.ElementTree as ET
+import xml.et.ElementTree as ET
 import pandas as pd
 import requests
+import unicodedata
 
 # -------------------------------------------------------------
 # CONFIGURACIÓN GENERAL Y CANALES
@@ -16,6 +17,7 @@ RETENTION_DAYS_FUTURE = 15
 AUTH_URL = "https://epg.tapkit.warnermedia.com/api/security/oauth/token"
 BASE_DAILY_URL = "https://epg.tapkit.warnermedia.com/api/daily/shows?feedId={feed_id}&format=xls"
 LOCAL_BREAKS_URL = "https://epg.tapkit.warnermedia.com/api/epg/tapkitLocalBreaks/downloadfile"
+MONTHLY_FILES_URL = "https://epg.tapkit.warnermedia.com/api/epg/tapkitFrontEnd/networksepg/downloadfiles"
 
 TMDB_API_KEY = os.environ.get("TMDB_API_KEY", "").strip()
 TMDB_TOKEN = os.environ.get("TMDB_TOKEN", "").strip()
@@ -29,17 +31,67 @@ http_session.headers.update({
 
 tmdb_cache = {}
 
-def fetch_tmdb_still(series_title, season_str, ep_str):
+TITLE_ALIASES = {
+    "equipo monstruo": "monster squad",
+    "el malentendido": "the misunderstandings",
+    "el origen parte 1": "the origins 1",
+    "el origen parte 2": "the origins 2",
+    "kabums pt 2": "kabooms (2)",
+    "kabúms pt 2": "kabooms (2)",
+    "kabums pt 1": "kabooms (1)",
+    "kabúms pt 1": "kabooms (1)",
+    "standards & practices": "s&p",
+    "arcoiris de la dimension de cristal": "crystals have power",
+    "el cruce": "crossover",
+    "la panza de la bestia": "belly of the beast"
+}
+
+def normalize_title(text):
+    if not text:
+        return ""
+    clean_raw = text.lower().strip()
+    if clean_raw in TITLE_ALIASES:
+        text = TITLE_ALIASES[clean_raw]
+    
+    text = re.sub(r'\\(.*?\\)', '', text)
+    nfkd = unicodedata.normalize('NFKD', text)
+    no_accent = "".join([c for c in nfkd if not unicodedata.combining(c)])
+    clean = no_accent.lower().strip()
+    
+    clean = re.sub(r'\\b(?:pt\\.?|part\\.?)\\s*(\\d+)', r'(\\1)', clean)
+    clean = re.sub(r'\\bs\\b', '', clean)
+    clean = re.sub(r'[^a-z0-9&]', '', clean)
+    return clean
+
+def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", ep_title_es="", lang="es"):
     if not series_title:
         return ""
-    clean_title = re.sub(r'[:\-].*', '', series_title).strip()
-    cache_key = f"{clean_title}|{season_str}|{ep_str}"
+    
+    raw_target = ep_title_en if ep_title_en and ep_title_en.lower() != "nan" else ep_title_es
+    lookup_target = TITLE_ALIASES.get(raw_target.lower().strip(), raw_target)
+    
+    cache_key = f"{series_title}|{season_str}|{ep_str}|{lookup_target}|{lang}"
     if cache_key in tmdb_cache:
         return tmdb_cache[cache_key]
+
+    lower_title = series_title.lower()
+    if "submarine jim" in lower_title or "el submarino de jim" in lower_title:
+        img = "https://image.tmdb.org/t/p/w500/cHN9UE0cjsDByMWk0FgaPEkHNeJ.jpg"
+        tmdb_cache[cache_key] = img
+        return img
+    if "aquaman: rage of atlantis" in lower_title or "lego dc" in lower_title:
+        img = "https://image.tmdb.org/t/p/w500/8BqoJXMhrV9KfKmodPtyi67VgBG.jpg"
+        tmdb_cache[cache_key] = img
+        return img
+    if "spider-man" in lower_title and "un nuevo universo" in lower_title:
+        img = "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+        tmdb_cache[cache_key] = img
+        return img
 
     if not TMDB_TOKEN and not TMDB_API_KEY:
         return ""
 
+    tmdb_lang = "pt-BR" if lang == "pt" else "es-ES"
     headers = {"accept": "application/json"}
     if TMDB_TOKEN:
         headers["Authorization"] = f"Bearer {TMDB_TOKEN}"
@@ -48,29 +100,67 @@ def fetch_tmdb_still(series_title, season_str, ep_str):
 
     try:
         url_tv = "https://api.themoviedb.org/3/search/tv"
-        res = http_session.get(url_tv, headers=headers, params={"query": clean_title, "language": "es-ES"}, timeout=4)
-        if res.status_code == 200 and res.json().get("results"):
-            tv_id = res.json()["results"][0]["id"]
-            if season_str and ep_str and str(season_str).replace('.', '', 1).isdigit() and str(ep_str).replace('.', '', 1).isdigit():
+        search_queries = [series_title]
+        clean_title = re.sub(r'[:\\-].*', '', series_title).strip()
+        if clean_title and clean_title.lower() != series_title.lower():
+            search_queries.append(clean_title)
+
+        tv_id = None
+        number_of_seasons = 10 
+        for query in search_queries:
+            res = http_session.get(url_tv, headers=headers, params={"query": query, "language": tmdb_lang}, timeout=4)
+            if res.status_code == 200 and res.json().get("results"):
+                show_data = res.json()["results"][0]
+                tv_id = show_data["id"]
+                detail_res = http_session.get(f"https://api.themoviedb.org/3/tv/{tv_id}", headers=headers, timeout=4)
+                if detail_res.status_code == 200:
+                    number_of_seasons = detail_res.json().get("number_of_seasons", 10)
+                break
+
+        if tv_id:
+            s_num = None
+            if season_str and str(season_str).replace('.', '', 1).isdigit():
                 s_num = int(float(season_str))
-                e_num = int(float(ep_str))
-                ep_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_num}/episode/{e_num}"
-                ep_res = http_session.get(ep_url, headers=headers, params={"language": "es-ES"}, timeout=4)
-                if ep_res.status_code == 200:
-                    still_path = ep_res.json().get("still_path")
-                    if still_path:
-                        if not still_path.startswith('/'):
-                            still_path = '/' + still_path
-                        img_url = f"https://image.tmdb.org/t5/p/w500{still_path}"
-                        tmdb_cache[cache_key] = img_url
-                        return img_url
-            poster_path = res.json()["results"][0].get("poster_path")
-            if poster_path:
-                if not poster_path.startswith('/'):
-                    poster_path = '/' + poster_path
-                img_url = f"https://image.tmdb.org/t5/p/w500{poster_path}"
-                tmdb_cache[cache_key] = img_url
-                return img_url
+
+            norm_target = normalize_title(lookup_target)
+            if norm_target:
+                seasons_to_check = []
+                if s_num is not None:
+                    seasons_to_check.append(s_num)
+                for s in range(1, number_of_seasons + 1):
+                    if s not in seasons_to_check:
+                        seasons_to_check.append(s)
+                seasons_to_check.append(0)
+
+                found_still = ""
+                for s_check in seasons_to_check:
+                    season_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_check}"
+                    season_res = http_session.get(season_url, headers=headers, params={"language": "en-US"}, timeout=4)
+                    if season_res.status_code == 200:
+                        for ep in season_res.json().get("episodes", []):
+                            ep_name_raw = ep.get("name", "")
+                            if normalize_title(ep_name_raw) == norm_target or norm_target in normalize_title(ep_name_raw):
+                                still_path = ep.get("still_path")
+                                if still_path:
+                                    if not still_path.startswith('/'):
+                                        still_path = '/' + still_path
+                                    found_still = f"https://image.tmdb.org/t/p/w500{still_path}"
+                                    break
+                    if found_still:
+                        break
+
+                if found_still:
+                    tmdb_cache[cache_key] = found_still
+                    return found_still
+            
+            # Fallback a poster general si no hay still por episodio
+            res_search = http_session.get(url_tv, headers=headers, params={"query": clean_title, "language": tmdb_lang}, timeout=4)
+            if res_search.status_code == 200 and res_search.json().get("results"):
+                poster_path = res_search.json()["results"][0].get("poster_path")
+                if poster_path:
+                    img_url = f"https://image.tmdb.org/t/p/w500{poster_path}"
+                    tmdb_cache[cache_key] = img_url
+                    return img_url
     except Exception:
         pass
 
@@ -78,7 +168,6 @@ def fetch_tmdb_still(series_title, season_str, ep_str):
     return ""
 
 def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"):
-    """Descarga y procesa los reportes de pausas comerciales (Cue Tone Reports) de Tapkit"""
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {token}",
@@ -100,8 +189,8 @@ def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"
                     start_raw = str(row.get("Start Time") or row.get("START_TIME") or "").strip()
                     end_raw = str(row.get("End Time") or row.get("END_TIME") or "").strip()
                     
-                    s_match = re.search(r"(\d{2}):(\d{2}):(\d{2})", start_raw)
-                    e_match = re.search(r"(\d{2}):(\d{2}):(\d{2})", end_raw)
+                    s_match = re.search(r"(\\d{2}):(\\d{2}):(\\d{2})", start_raw)
+                    e_match = re.search(r"(\\d{2}):(\\d{2}):(\\d{2})", end_raw)
                     
                     if s_match and e_match:
                         sh, sm, ss = map(int, s_match.groups())
@@ -119,8 +208,7 @@ def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"
                             "stop": end_dt,
                             "title": "Pausa Comercial",
                             "desc": "Espacio publicitario y promos de la señal.",
-                            "category": "Comercial",
-                            "type": "break"
+                            "category": "Comercial"
                         })
         except Exception:
             pass
@@ -156,13 +244,62 @@ NETWORKS_CONFIG = {
         "referer": "https://epg.tapkit.warnermedia.com/epg/networks/warner",
         "type": "daily",
         "feeds": [
-            {"feed_id": "WARNERLA_CO", "channel_id": "WARNER_CO.co", "channel_name": "Warner Channel Colombia", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
-            {"feed_id": "WARNERLA_MX", "channel_id": "WARNER_MX.mx", "channel_name": "Warner Channel México", "lang": "es", "tz": timezone(timedelta(hours=-6)), "tz_str": "-0600"},
-            {"feed_id": "WARNERLA_AR", "channel_id": "WARNER_AR.ar", "channel_name": "Warner Channel Argentina", "lang": "es", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"},
-            {"feed_id": "WARNERLA_CH", "channel_id": "WARNER_CL.cl", "channel_name": "Warner Channel Chile", "lang": "es", "tz": timezone(timedelta(hours=-4)), "tz_str": "-0400"},
-            {"feed_id": "WARNERLA_VE", "channel_id": "WARNER_VE.ve", "channel_name": "Warner Channel Venezuela", "lang": "es", "tz": timezone(timedelta(hours=-4)), "tz_str": "-0400"},
-            {"feed_id": "WARNERLA_AN", "channel_id": "WARNER_AN.co", "channel_name": "Warner Channel Andes", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
-            {"feed_id": "WARNERLA_BH", "channel_id": "WARNER_BR.br", "channel_name": "Warner Channel Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"}
+            {
+                "feed_id": "WARNERLA_CO",
+                "channel_id": "WARNER_CO.co",
+                "channel_name": "Warner Channel Colombia",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-5)),
+                "tz_str": "-0500"
+            },
+            {
+                "feed_id": "WARNERLA_MX",
+                "channel_id": "WARNER_MX.mx",
+                "channel_name": "Warner Channel México",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-6)),
+                "tz_str": "-0600"
+            },
+            {
+                "feed_id": "WARNERLA_AR",
+                "channel_id": "WARNER_AR.ar",
+                "channel_name": "Warner Channel Argentina",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-3)),
+                "tz_str": "-0300"
+            },
+            {
+                "feed_id": "WARNERLA_CH",
+                "channel_id": "WARNER_CL.cl",
+                "channel_name": "Warner Channel Chile",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-4)),
+                "tz_str": "-0400"
+            },
+            {
+                "feed_id": "WARNERLA_VE",
+                "channel_id": "WARNER_VE.ve",
+                "channel_name": "Warner Channel Venezuela",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-4)),
+                "tz_str": "-0400"
+            },
+            {
+                "feed_id": "WARNERLA_AN",
+                "channel_id": "WARNER_AN.co",
+                "channel_name": "Warner Channel Andes",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-5)),
+                "tz_str": "-0500"
+            },
+            {
+                "feed_id": "WARNERLA_BH",
+                "channel_id": "WARNER_BR.br",
+                "channel_name": "Warner Channel Brasil",
+                "lang": "pt",
+                "tz": timezone(timedelta(hours=-3)),
+                "tz_str": "-0300"
+            }
         ]
     },
     "TNTLA_EPG.xml": {
@@ -170,12 +307,54 @@ NETWORKS_CONFIG = {
         "referer": "https://epg.tapkit.warnermedia.com/epg/networks/14",
         "type": "daily",
         "feeds": [
-            {"feed_id": "TNTLA_MX", "channel_id": "TNT_MX.mx", "channel_name": "TNT México", "lang": "es", "tz": timezone(timedelta(hours=-6)), "tz_str": "-0600"},
-            {"feed_id": "TNTLA_CO", "channel_id": "TNT_CO.co", "channel_name": "TNT Colombia", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
-            {"feed_id": "TNTLA_PAN", "channel_id": "TNT_PAN.co", "channel_name": "TNT Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
-            {"feed_id": "TNTLA_BR", "channel_id": "TNT_BR.br", "channel_name": "TNT Brasil HD", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"},
-            {"feed_id": "TNTLA_AR", "channel_id": "TNT_AR.ar", "channel_name": "TNT Argentina", "lang": "es", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"},
-            {"feed_id": "TNTLA_CL", "channel_id": "TNT_CL.cl", "channel_name": "TNT Chile", "lang": "es", "tz": timezone(timedelta(hours=-4)), "tz_str": "-0400"}
+            {
+                "feed_id": "TNTLA_MX",
+                "channel_id": "TNT_MX.mx",
+                "channel_name": "TNT México",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-6)),
+                "tz_str": "-0600"
+            },
+            {
+                "feed_id": "TNTLA_CO",
+                "channel_id": "TNT_CO.co",
+                "channel_name": "TNT Colombia",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-5)),
+                "tz_str": "-0500"
+            },
+            {
+                "feed_id": "TNTLA_PAN",
+                "channel_id": "TNT_PAN.co",
+                "channel_name": "TNT Panregional",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-5)),
+                "tz_str": "-0500"
+            },
+            {
+                "feed_id": "TNTLA_BR",
+                "channel_id": "TNT_BR.br",
+                "channel_name": "TNT Brasil HD",
+                "lang": "pt",
+                "tz": timezone(timedelta(hours=-3)),
+                "tz_str": "-0300"
+            },
+            {
+                "feed_id": "TNTLA_AR",
+                "channel_id": "TNT_AR.ar",
+                "channel_name": "TNT Argentina",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-3)),
+                "tz_str": "-0300"
+            },
+            {
+                "feed_id": "TNTLA_CL",
+                "channel_id": "TNT_CL.cl",
+                "channel_name": "TNT Chile",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-4)),
+                "tz_str": "-0400"
+            }
         ]
     },
     "DKLA_EPG.xml": {
@@ -183,9 +362,30 @@ NETWORKS_CONFIG = {
         "referer": "https://epg.tapkit.warnermedia.com/epg/networks/2",
         "type": "discovery_kids",
         "feeds": [
-            {"feed_key": "Latin", "channel_id": "DKLA_PAN.co", "channel_name": "Discovery Kids Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
-            {"feed_key": "Mexico", "channel_id": "DKLA_MX.mx", "channel_name": "Discovery Kids México", "lang": "es", "tz": timezone(timedelta(hours=-6)), "tz_str": "-0600"},
-            {"feed_key": "Brazil", "channel_id": "DKLA_BR.br", "channel_name": "Discovery Kids Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"}
+            {
+                "feed_key": "Latin",
+                "channel_id": "DKLA_PAN.co",
+                "channel_name": "Discovery Kids Panregional",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-5)),
+                "tz_str": "-0500"
+            },
+            {
+                "feed_key": "Mexico",
+                "channel_id": "DKLA_MX.mx",
+                "channel_name": "Discovery Kids México",
+                "lang": "es",
+                "tz": timezone(timedelta(hours=-6)),
+                "tz_str": "-0600"
+            },
+            {
+                "feed_key": "Brazil",
+                "channel_id": "DKLA_BR.br",
+                "channel_name": "Discovery Kids Brasil",
+                "lang": "pt",
+                "tz": timezone(timedelta(hours=-3)),
+                "tz_str": "-0300"
+            }
         ]
     }
 }
@@ -229,7 +429,7 @@ def standardize_date_str(date_val):
     if not date_val or pd.isna(date_val):
         return ""
     d_str = str(date_val).strip().split()[0]
-    match = re.search(r"(\d{4})[-/](\d{1,2})[-/](\d{1,2})|(\d{1,2})[-/](\d{1,2})[-/](\d{4})", d_str)
+    match = re.search(r"(\\d{4})[-/](\\d{1,2})[-/](\\d{1,2})|(\\d{1,2})[-/](\\d{1,2})[-/](\\d{4})", d_str)
     if match:
         groups = match.groups()
         if groups[0]:
@@ -242,7 +442,6 @@ def standardize_date_str(date_val):
 def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_type="PAN"):
     months = get_target_months()
     combined_dict = {}
-    url = "https://epg.tapkit.warnermedia.com/api/epg/tapkitFrontEnd/networksepg/downloadfiles"
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {token}",
@@ -261,7 +460,7 @@ def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_t
             path = f"network-files/{network}/{year}/{month_str}/grids/{lang}/{filename}"
             payload = [{"name": filename, "path": path}]
             try:
-                res = http_session.post(url, json=payload, headers=headers, timeout=20)
+                res = http_session.post(MONTHLY_FILES_URL, json=payload, headers=headers, timeout=20)
                 if res.status_code != 200:
                     continue
 
@@ -319,14 +518,13 @@ def download_discovery_kids_feed(token, feed_key):
 
     filename = f"FULL_DLA_Discovery_Kids_{feed_key}_{year_short}{start_m:02d}01_{year_short}{end_m:02d}{last_day}.xlsx"
     path = f"network-files/DISCKIDS/EPAK/FULL/{filename}"
-    url = "https://epg.tapkit.warnermedia.com/api/epg/tapkitFrontEnd/networksepg/downloadfiles"
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {token}",
         "Origin": "https://epg.tapkit.warnermedia.com",
         "Referer": "https://epg.tapkit.warnermedia.com/epg/networks/2"
     }
-    res = http_session.post(url, json=[{"name": filename, "path": path}], headers=headers, timeout=30)
+    res = http_session.post(MONTHLY_FILES_URL, json=[{"name": filename, "path": path}], headers=headers, timeout=30)
     res.raise_for_status()
 
     content_bytes = io.BytesIO(res.content)
@@ -343,7 +541,7 @@ def fetch_tmdb_synopsis(title):
     if TMDB_TOKEN: headers["Authorization"] = f"Bearer {TMDB_TOKEN}"
     elif TMDB_API_KEY: headers["Authorization"] = f"Bearer {TMDB_API_KEY}"
 
-    clean = re.sub(r'[:\-].*', '', title).strip()
+    clean = re.sub(r'[:\\-].*', '', title).strip()
     for q in [clean, title]:
         if not q: continue
         try:
@@ -381,8 +579,8 @@ def sanitize_and_parse_xml(file_path, generator_name):
 
 def parse_xmltv_date(date_str, tz_info):
     if not date_str: return None
-    clean = re.sub(r"[^\d\s\+\-]", "", str(date_str).strip())
-    m = re.match(r"^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})", clean)
+    clean = re.sub(r"[^\\d\\s\\+\\-]", "", str(date_str).strip())
+    m = re.match(r"^(\\d{4})(\\d{2})(\\d{2})(\\d{2})(\\d{2})(\\d{2})", clean)
     if not m: return None
     y, mo, d, h, mi, s = map(int, m.groups())
     return datetime(y, mo, d, min(h, 23), min(mi, 59), min(s, 59), tzinfo=tz_info)
@@ -434,30 +632,20 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
     col_is_new = find_column(cols, ["Is Premiere", "New Episode", "Premiere", "Estreno", "Title Classification", "Y/N"])
 
     first_date_raw = str(df.iloc[0].get(col_date, "")).strip()
-    match_init = re.search(r"(\d{1,2})[-/](\d{1,2})[-/](\d{4})", first_date_raw)
+    match_init = re.search(r"(\\d{1,2})[-/](\\d{1,2})[-/](\\d{4})", first_date_raw)
     if not match_init: return
 
     d0, m0, y0 = map(int, match_init.groups())
     cycle_start = datetime(y0, m0, d0, 6, 0, 0, tzinfo=tz)
-    
-    # 🧠 Lógica inteligente de días (Viernes a Lunes abarca el fin de semana, Lun-Jue solo 24h)
-    dia_semana = cycle_start.weekday()
-    if dia_semana == 4:     # Viernes -> Cubre Viernes, Sábado, Domingo y Lunes (4 días)
-        cycle_end = cycle_start + timedelta(days=4)
-    elif dia_semana == 5:   # Sábado -> Cubre Sábado, Domingo y Lunes (3 días)
-        cycle_end = cycle_start + timedelta(days=3)
-    elif dia_semana == 6:   # Domingo -> Cubre Domingo y Lunes (2 días)
-        cycle_end = cycle_start + timedelta(days=2)
-    else:                   # Lunes a Jueves (0, 1, 2, 3) -> Solo 24 horas (1 día)
-        cycle_end = cycle_start + timedelta(days=1)
+    cycle_end = cycle_start + timedelta(days=1)
 
     raw_events = []
     for _, row in df.iterrows():
         date_raw = str(row.get(col_date, "")).strip()
         time_raw = str(row.get(col_time, "")).strip()
-        date_match = re.search(r"(\d{1,2})[-/](\d{1,2})[-/](\d{4})", date_raw)
-        time_match = re.search(r"(\d{1,2}):(\d{2})", time_raw)
-        if not time_match and date_match: time_match = re.search(r"(\d{1,2}):(\d{2})", date_raw)
+        date_match = re.search(r"(\\d{1,2})[-/](\\d{1,2})[-/](\\d{4})", date_raw)
+        time_match = re.search(r"(\\d{1,2}):(\\d{2})", time_raw)
+        if not time_match and date_match: time_match = re.search(r"(\\d{1,2}):(\\d{2})", date_raw)
         if not date_match or not time_match: continue
 
         d, m, y = map(int, date_match.groups())
@@ -516,7 +704,15 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
         if not desc_es and title_val and "Cine Cartoon" not in title_val:
             desc_es = fetch_tmdb_synopsis(title_val)
 
-        icon_url = fetch_tmdb_still(title_val, season_val, ep_num_val) if title_val and "Cine Cartoon" not in title_val else ""
+        query_ep_en = sub_en if sub_en and sub_en.lower() != "nan" else ""
+        query_ep_es = sub_es if sub_es and sub_es.lower() != "nan" else ""
+        
+        icon_url = fetch_tmdb_still(
+            title_val, season_val, ep_num_val,
+            ep_title_en=query_ep_en,
+            ep_title_es=query_ep_es,
+            lang=lang
+        ) if title_val and "Cine Cartoon" not in title_val else ""
 
         if col_is_new and pd.notna(row.get(col_is_new)) and str(row.get(col_is_new)).strip().upper() == "Y":
             if sub_es and sub_es.lower() != "nan": sub_es = f"{sub_es} (NUEVO EPISODIO)"
@@ -535,7 +731,6 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
             "type": "show"
         })
 
-    # Inyectar Localbreaks (Pausas Comerciales) si es de Cartoon Network
     if token and "CNLA" in feed_cfg.get("feed_id", ""):
         date_str_fmt = f"{y0}{m0:02d}{d0:02d}"
         local_breaks = download_and_parse_local_breaks(token, date_str_fmt, tz)
@@ -615,6 +810,7 @@ def main():
             for feed_cfg in net_config["feeds"]:
                 try:
                     df_grid = download_discovery_kids_feed(token, feed_cfg["feed_key"])
+                    # Discovery kids process si aplica
                 except Exception as e:
                     print(f"[ERROR] Discovery Kids {feed_cfg['feed_key']}: {e}")
 
