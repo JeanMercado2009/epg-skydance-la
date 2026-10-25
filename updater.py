@@ -78,6 +78,9 @@ SPECIAL_EPISODE_OVERRIDES = {
     }
 }
 
+# ---------------------------------------------
+# CONFIGURACIÓN COMPLETA DE REDES Y CANALES
+# ---------------------------------------------
 NETWORKS_CONFIG = {
     "CNLA_EPG.xml": {
         "generator_name": "Guia de Programacion Cartoon Network MultiFeed",
@@ -238,7 +241,7 @@ NETWORKS_CONFIG = {
 }
 
 def get_target_dates_to_process():
-    # Solo el día corriente (24 horas) para máxima compatibilidad con OTT Navigator
+    # Ventana estricta de 24 horas (día corriente) para máxima compatibilidad
     now = datetime.now()
     return [now.strftime("%Y-%m-%d")]
 
@@ -470,7 +473,7 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
     col_time = find_column(cols, ["Program Start Time", "Title Start Time", "Start Time", "Hora"]) or df.columns[1]
     col_title = find_column(cols, ["Program Name", "Title Name", "Title", "Programa"]) or df.columns[2]
     
-    # Columnas corregidas para recuperar títulos en español e inglés
+    # Recuperación correcta de títulos en español e inglés
     col_ep_name = find_column(cols, ["Episode Title(ESPA)", "Episode Title (ESPA)", "Episode Title(PORT)", "Episode Name English", "Episode Name", "Sub-title"])
     col_ep_name_en = find_column(cols, ["Episode Name English", "Original Episode Title", "Episode Title(INGL)"])
     col_ep_num = find_column(cols, ["Episode", "Episode Number", "Episodio"])
@@ -571,7 +574,7 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None, 
         if start_key in existing_progs_map: root.remove(existing_progs_map[start_key])
         root.append(np)
 
-    print(f"[{channel_id}] Eventos procesados (24h con títulos en español): {len(new_programmes)}")
+    print(f"[{channel_id}] Eventos procesados correctamente: {len(new_programmes)}")
 
 def main():
     token = login_and_get_token()
@@ -599,7 +602,7 @@ def main():
 
         ET.indent(root, space="  ", level=0)
         ET.ElementTree(root).write(xml_filename, encoding="utf-8", xml_declaration=True)
-        print(f"[OK] {xml_filename} guardado correctamente.")
+        print(f"[OK] {xml_filename} guardado con todos los canales.")
 
 if __name__ == "__main__":
     main()
