@@ -39,7 +39,7 @@ TITLE_ALIASES = {
 
 def get_target_dates_to_process():
     now = datetime.now()
-    weekday = now.weekday() # 4: Viernes, 5: Sábado
+    weekday = now.weekday() # 0: Lun, 1: Mar, 2: Mié, 3: Jue, 4: Vie, 5: Sáb, 6: Dom
     dates_to_fetch = [now.strftime("%Y-%m-%d")]
 
     if weekday == 4: # Viernes -> Viernes y Sábado
@@ -197,16 +197,12 @@ def download_and_load_monthly_rows(token, target_dates, network="CNLA", lang="SP
                         for z_name in z.namelist():
                             if z_name.endswith((".xlsx", ".xls")):
                                 with z.open(z_name) as f:
-                                    try: df_grid = pd.read_excel(f)
+                                    try: df_grid = pd.read_excel(f, header=1)
                                     except: df_grid = pd.read_html(f)[0]
                 else:
-                    try: df_grid = pd.read_excel(content_bytes)
+                    try: df_grid = pd.read_excel(content_bytes, header=1)
                     except: df_grid = pd.read_html(content_bytes)[0]
                 if df_grid is not None:
-                    if not any("Program Name" in str(col) or "Schedule Date" in str(col) for col in df_grid.columns):
-                        if len(df_grid) > 0 and any("Program Name" in str(val) for val in df_grid.iloc[0].values):
-                            df_grid.columns = df_grid.iloc[0]
-                            df_grid = df_grid[1:].reset_index(drop=True)
                     for _, row in df_grid.iterrows():
                         all_rows.append(row)
             except Exception: pass
@@ -245,16 +241,16 @@ def process_single_day_feed(root, feed_cfg, monthly_rows, target_date_str):
 
     raw_events = []
     for row in monthly_rows:
-        date_raw = str(row.get("Schedule Date") or row.get("Date") or "").strip()
-        time_raw = str(row.get("Program Start Time") or "").strip()[:5]
+        date_raw = standardize_date_str(row.get("Schedule Date") or row.get("Date"))
+        time_raw = str(row.get("Title Start Time") or "").strip()[:5]
         
-        date_match = re.search(r"(\d{4})[-/](\d{1,2})[-/](\d{1,2})|(\d{1,2})[-/](\d{1,2})[-/](\d{4})", date_raw)
         time_match = re.search(r"(\d{1,2}):(\d{2})", time_raw)
-        if not date_match or not time_match: continue
+        if not date_raw or not time_match: continue
 
-        groups = date_match.groups()
-        if groups[0]: y, m, d = int(groups[0]), int(groups[1]), int(groups[2])
-        else: d, m, y = int(groups[3]), int(groups[4]), int(groups[5])
+        try:
+            parts = date_raw.split("-")
+            y, m, d = int(parts[0]), int(parts[1]), int(parts[2])
+        except: continue
 
         hh, mm = map(int, time_match.groups())
         event_dt = datetime(y, m, d, hh, mm, 0, tzinfo=tz)
@@ -265,15 +261,15 @@ def process_single_day_feed(root, feed_cfg, monthly_rows, target_date_str):
         if event_dt < cycle_start or event_dt >= cycle_end:
             continue
 
-        prog_name_val = str(row.get("Program Name") or row.get("Title Name") or "").strip()
+        prog_name_val = str(row.get("Title Name") or "").strip()
         if prog_name_val.upper() == "LOS COLORADO": prog_name_val = "El Chapulín Y Los Colorado"
 
-        press_title_val = str(row.get("Press Title (ESPA)") or row.get("Original Title") or "").strip()
-        ep_name_es = str(row.get("Episode Title(ESPA)") or row.get("Episode Title (ESPA)") or row.get("Episode Title(PORT)") or "").strip()
-        ep_name_en = str(row.get("Original Episode Title") or row.get("Episode Title(INGL)") or "").strip()
+        press_title_val = str(row.get("Press Title (ESPA)") or "").strip()
+        ep_name_es = str(row.get("Episode Name") or "").strip()
+        ep_name_en = str(row.get("Episode Name English") or "").strip()
         season_val = str(row.get("Season") or "").strip()
         ep_num_val = str(row.get("Episode") or "").strip()
-        desc_es = str(row.get("Episode Sinopsis Prensa(ESPA)") or row.get("Episode Sinopsis Prensa(PORT)") or row.get("Program Sinopsis Prensa(ESPA)") or "").strip()
+        desc_es = str(row.get("Episode Synopsis") or "").strip()
 
         if prog_name_val.lower() == "cine cartoon":
             movie_title = press_title_val or ep_name_es
@@ -282,6 +278,9 @@ def process_single_day_feed(root, feed_cfg, monthly_rows, target_date_str):
             desc_es = "Cartoon Network trae los clásicos del cine a la pantalla de TV."
         else:
             title_val = prog_name_val
+
+        if ep_name_es.lower() == title_val.lower() or ep_name_es.lower() == "nan":
+            ep_name_es = ""
 
         xmltv_season_ep = ""
         try:
@@ -305,7 +304,7 @@ def process_single_day_feed(root, feed_cfg, monthly_rows, target_date_str):
             "start": event_dt,
             "title": title_val if title_val.lower() != "nan" else "",
             "sub_title_es": ep_name_es if ep_name_es.lower() != "nan" else "",
-            "sub_title_en": ep_name_en if ep_name_en.lower() != "nan" else "",
+            "sub_title_en": query_ep_en,
             "episode_num": xmltv_season_ep,
             "desc_es": desc_es if desc_es.lower() != "nan" else "",
             "icon": icon_url
@@ -337,7 +336,7 @@ def process_single_day_feed(root, feed_cfg, monthly_rows, target_date_str):
 def main():
     token = login_and_get_token()
     target_dates = get_target_dates_to_process()
-    print(f"[INFO] Fechas objetivo con ventana de transmisión: {target_dates}")
+    print(f"[INFO] Fechas objetivo estrictas: {target_dates}")
 
     feed_type_map = {"CNLA_PAN": "PAN", "CNLA_BR": "BR"}
 
@@ -357,7 +356,7 @@ def main():
 
         ET.indent(root, space="  ", level=0)
         ET.ElementTree(root).write(xml_filename, encoding="utf-8", xml_declaration=True)
-        print(f"[OK] {xml_filename} generado limpiamente sin cruces de días.")
+        print(f"[OK] {xml_filename} generado correctamente.")
 
 if __name__ == "__main__":
     main()
