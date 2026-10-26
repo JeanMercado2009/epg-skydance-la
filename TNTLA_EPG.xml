@@ -18,505 +18,10 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
-  <programme start="20261019220000 -0500" stop="20261020000600 -0500" channel="TNT_CO.co">
-    <title lang="es">LA SEMILLA DEL SILENCIO</title>
-    <desc lang="es">María del Rosario Durán, una abogada de derechos humanos que investiga la participación de un militar de alto rango en la desaparición de un grupo de jóvenes civiles, es misteriosamente asesinada. El detective Jorge Salcedo que estuvo trabajando con ella en el caso, se da a la tarea de descubrir quién está detrás de este crimen, a riesgo de convertirse en la próxima víctima.</desc>
-  </programme>
-  <programme start="20261019220000 -0600" stop="20261019235700 -0600" channel="TNT_MX.mx">
-    <title lang="es">VENGANZA DESPIADADA</title>
-    <desc lang="es">En 1992, en su Bogotá natal, Cataleya presencia el asesinato de sus padres a manos de un narcotraficante llamado Don Luis Sandoval. Luego, ella viaja a Chicago y se va a vivir con su tío Emilio, quien la entrena en el arte de matar. Quince años después, Cataleya, quien ahora tiene 24 años, es una asesina a sueldo, pero su verdadero objetivo es encontrar a Don Luis, quien ahora forma parte del programa de protección de testigos de EE.UU., y vengarse.</desc>
-  </programme>
-  <programme start="20261019235000 -0300" stop="20261020021500 -0300" channel="TNT_AR.ar">
-    <title lang="es">EL AURA</title>
-    <desc lang="es">Esteban Espinosa (Ricardo Darín) es un hombre honrado, aunque taciturno y hosco. Es un taxidermista que, aislado en su taller, dedica el tiempo a dar apariencia de vida a la materia muerta. Pero, detrás de sus ojos fríos, arde un deseo oculto, una extraña obsesión en un hombre honrado: durante los últimos años, una y otra vez, ha imaginado y planeado los golpes más perfectos y brillantes, fruto de una inteligencia que, según él, lo diferencia de los demás. Lo que ocurre fuera de su taller: la lucha de tontos contra tontos, policías y ladrones no tiene nada que ver con él</desc>
-  </programme>
-  <programme start="20261019235700 -0600" stop="20261020013900 -0600" channel="TNT_MX.mx">
-    <title lang="es">La Huérfana: El Origen</title>
-    <sub-title lang="es">Orphan: First Kill</sub-title>
-    <desc lang="es">Julia Stiles e Isabelle Fuhrman estelarizan esta precuela del filme de 2009 que cuenta la historia de origen de "Esther", quien, tras huir de un hospital psiquiátrico estonio, se hace pasar por la hija perdida de una pareja norteamericana.</desc>
-  </programme>
-  <programme start="20261020000200 -0500" stop="20261020015500 -0500" channel="TNT_PAN.co">
-    <title lang="es">DIARIO DE MI VAGINA</title>
-    <sub-title lang="es">FITTING IN</sub-title>
-    <desc lang="es">En esta "tragicomédia" de superación personal, a Lindy, de 16 años, le diagnostican inesperadamente una enfermedad reproductiva que pone patas arriba todas sus ideas sobre el sexo, la feminidad y las relaciones.</desc>
-  </programme>
-  <programme start="20261020000600 -0500" stop="20261020015700 -0500" channel="TNT_CO.co">
-    <title lang="es">DIARIO DE MI VAGINA</title>
-    <sub-title lang="es">FITTING IN</sub-title>
-    <desc lang="es">En esta "tragicomédia" de superación personal, a Lindy, de 16 años, le diagnostican inesperadamente una enfermedad reproductiva que pone patas arriba todas sus ideas sobre el sexo, la feminidad y las relaciones.</desc>
-  </programme>
-  <programme start="20261020001200 -0400" stop="20261020020500 -0400" channel="TNT_CL.cl">
-    <title lang="es">DIARIO DE MI VAGINA</title>
-    <sub-title lang="es">FITTING IN</sub-title>
-    <desc lang="es">En esta "tragicomédia" de superación personal, a Lindy, de 16 años, le diagnostican inesperadamente una enfermedad reproductiva que pone patas arriba todas sus ideas sobre el sexo, la feminidad y las relaciones.</desc>
-  </programme>
-  <programme start="20261020013900 -0600" stop="20261020033000 -0600" channel="TNT_MX.mx">
-    <title lang="es">OPERACIÓN ENCUBIERTA</title>
-    <sub-title lang="es">LINE WALKER</sub-title>
-    <desc lang="es">Debido a la destrucción de un archivo informático, las identidades de un numeroso grupo de policías infiltrados desaparece de las bases de datos policiales. Uno de ellos puede estar infiltrado en una peligrosa organización mafiosa.</desc>
-  </programme>
-  <programme start="20261020015500 -0500" stop="20261020033200 -0500" channel="TNT_PAN.co">
-    <title lang="es">La Huérfana: El Origen</title>
-    <sub-title lang="es">Orphan: First Kill</sub-title>
-    <desc lang="es">Julia Stiles e Isabelle Fuhrman estelarizan esta precuela del filme de 2009 que cuenta la historia de origen de "Esther", quien, tras huir de un hospital psiquiátrico estonio, se hace pasar por la hija perdida de una pareja norteamericana.</desc>
-  </programme>
-  <programme start="20261020015600 -0300" stop="20261020021900 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">THE OL' BALL AND CHAIN</sub-title>
-    <episode-num system="xmltv_ns">3.19.</episode-num>
-    <desc lang="pt">No dia do casamento de Jazz, sua noiva dá em cima de Will.</desc>
-  </programme>
-  <programme start="20261020015700 -0500" stop="20261020033400 -0500" channel="TNT_CO.co">
-    <title lang="es">La Huérfana: El Origen</title>
-    <sub-title lang="es">Orphan: First Kill</sub-title>
-    <desc lang="es">Julia Stiles e Isabelle Fuhrman estelarizan esta precuela del filme de 2009 que cuenta la historia de origen de "Esther", quien, tras huir de un hospital psiquiátrico estonio, se hace pasar por la hija perdida de una pareja norteamericana.</desc>
-  </programme>
-  <programme start="20261020020500 -0400" stop="20261020034400 -0400" channel="TNT_CL.cl">
-    <title lang="es">La Huérfana: El Origen</title>
-    <sub-title lang="es">Orphan: First Kill</sub-title>
-    <desc lang="es">Julia Stiles e Isabelle Fuhrman estelarizan esta precuela del filme de 2009 que cuenta la historia de origen de "Esther", quien, tras huir de un hospital psiquiátrico estonio, se hace pasar por la hija perdida de una pareja norteamericana.</desc>
-  </programme>
-  <programme start="20261020021500 -0300" stop="20261020035200 -0300" channel="TNT_AR.ar">
-    <title lang="es">La Huérfana: El Origen</title>
-    <sub-title lang="es">Orphan: First Kill</sub-title>
-    <desc lang="es">Julia Stiles e Isabelle Fuhrman estelarizan esta precuela del filme de 2009 que cuenta la historia de origen de "Esther", quien, tras huir de un hospital psiquiátrico estonio, se hace pasar por la hija perdida de una pareja norteamericana.</desc>
-  </programme>
-  <programme start="20261020021900 -0300" stop="20261020024100 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">THE HARDER THEY FALL</sub-title>
-    <episode-num system="xmltv_ns">3.20.</episode-num>
-    <desc lang="pt">Will e o insuportável pai de sua nova namorada ficam presos em uma floresta na montanha após uma pane e um salto de paraquedas.</desc>
-  </programme>
-  <programme start="20261020024100 -0300" stop="20261020030400 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">M IS FOR THE MANY THINGS SHE GAVE ME</sub-title>
-    <episode-num system="xmltv_ns">3.21.</episode-num>
-    <desc lang="pt">Uma ex-namorada que Philip teve na faculdade faz uma visita à família Banks e seduz Will.</desc>
-  </programme>
-  <programme start="20261020030400 -0300" stop="20261020042900 -0300" channel="TNT_BR.br">
-    <title lang="pt">DRÁCULA: A HISTÓRIA NUNCA CONTADA</title>
-    <sub-title lang="pt">Dracula Untold</sub-title>
-    <desc lang="pt">O reino da Transilvânia sempre teve uma relação tensa com os turcos. Para evitar que sua população fosse massacrada, o rei local aceitou entregar aos turcos centenas de crianças. Entre elas estava seu próprio filho, Vlad Tepes, que aprendeu com os rivais a arte de guerrear. Logo Vlad ganhou fama pela ferocidade nas batalhas e também por empalar os derrotados. De volta à Transilvânia, governa em paz por 10 anos. Só que o rei inimigo Mehmed decide voltar ao país, mas seus batedores que exploravam o local são mortos e a culpa cai sobre Vlad. Agora, o império exige que mais 1000 crianças sejam entregues. Vlad se recusa, afinal os inimigos querem levar seu próprio filho e, com isso, inicia uma nova guerra. Para vencê-la, recorre a um ser das trevas que vive na região. Após beber o sangue dele, Vlad se torna um vampiro com poderes sobre humanos: Drácula.</desc>
-  </programme>
-  <programme start="20261020033000 -0600" stop="20261020051400 -0600" channel="TNT_MX.mx">
-    <title lang="es">DIARIO DE MI VAGINA</title>
-    <sub-title lang="es">FITTING IN</sub-title>
-    <desc lang="es">En esta "tragicomédia" de superación personal, a Lindy, de 16 años, le diagnostican inesperadamente una enfermedad reproductiva que pone patas arriba todas sus ideas sobre el sexo, la feminidad y las relaciones.</desc>
-  </programme>
-  <programme start="20261020033200 -0500" stop="20261020052400 -0500" channel="TNT_PAN.co">
-    <title lang="es">OPERACIÓN ENCUBIERTA</title>
-    <sub-title lang="es">LINE WALKER</sub-title>
-    <desc lang="es">Debido a la destrucción de un archivo informático, las identidades de un numeroso grupo de policías infiltrados desaparece de las bases de datos policiales. Uno de ellos puede estar infiltrado en una peligrosa organización mafiosa.</desc>
-  </programme>
-  <programme start="20261020033400 -0500" stop="20261020052200 -0500" channel="TNT_CO.co">
-    <title lang="es">OPERACIÓN ENCUBIERTA</title>
-    <sub-title lang="es">LINE WALKER</sub-title>
-    <desc lang="es">Debido a la destrucción de un archivo informático, las identidades de un numeroso grupo de policías infiltrados desaparece de las bases de datos policiales. Uno de ellos puede estar infiltrado en una peligrosa organización mafiosa.</desc>
-  </programme>
-  <programme start="20261020034400 -0400" stop="20261020053200 -0400" channel="TNT_CL.cl">
-    <title lang="es">OPERACIÓN ENCUBIERTA</title>
-    <sub-title lang="es">LINE WALKER</sub-title>
-    <desc lang="es">Debido a la destrucción de un archivo informático, las identidades de un numeroso grupo de policías infiltrados desaparece de las bases de datos policiales. Uno de ellos puede estar infiltrado en una peligrosa organización mafiosa.</desc>
-  </programme>
-  <programme start="20261020035200 -0300" stop="20261020054100 -0300" channel="TNT_AR.ar">
-    <title lang="es">OPERACIÓN ENCUBIERTA</title>
-    <sub-title lang="es">LINE WALKER</sub-title>
-    <desc lang="es">Debido a la destrucción de un archivo informático, las identidades de un numeroso grupo de policías infiltrados desaparece de las bases de datos policiales. Uno de ellos puede estar infiltrado en una peligrosa organización mafiosa.</desc>
-  </programme>
-  <programme start="20261020042900 -0300" stop="20261020050300 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-    <episode-num system="xmltv_ns">-1.10.</episode-num>
-  </programme>
-  <programme start="20261020050300 -0300" stop="20261020053800 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-    <episode-num system="xmltv_ns">-1.11.</episode-num>
-  </programme>
-  <programme start="20261020051400 -0600" stop="20261020055100 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <episode-num system="xmltv_ns">-1.11.</episode-num>
-  </programme>
-  <programme start="20261020052200 -0500" stop="20261020060000 -0500" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <episode-num system="xmltv_ns">-1.13.</episode-num>
-  </programme>
-  <programme start="20261020052400 -0500" stop="20261020060000 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <episode-num system="xmltv_ns">-1.15.</episode-num>
-  </programme>
-  <programme start="20261020053200 -0400" stop="20261020054500 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.30.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261020053800 -0300" stop="20261020054700 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.44.</episode-num>
-    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261020054100 -0300" stop="20261020055100 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.40.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261020054500 -0400" stop="20261020055700 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.31.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261020054700 -0300" stop="20261020060000 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.43.</episode-num>
-    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261020055100 -0300" stop="20261020060000 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.38.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261020055100 -0600" stop="20261020060000 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.38.</episode-num>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-  </programme>
-  <programme start="20261020055700 -0400" stop="20261020060000 -0400" channel="TNT_CL.cl">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.55.</episode-num>
-  </programme>
-  <programme start="20261020060000 -0300" stop="20261020075200 -0300" channel="TNT_AR.ar">
-    <title lang="es">EL JUEGO DEL CRIMEN</title>
-    <sub-title lang="es">BANK JOB</sub-title>
-    <desc lang="es">En 1971, Terry (Jason Statham) es reclutado para robar un banco en Londres. El objetivo es recuperar fotografías comprometedoras de la realeza escondidas en una bóveda, desencadenando eventos que sacan a la luz secretos peligrosos.</desc>
-  </programme>
-  <programme start="20261020060000 -0300" stop="20261020063600 -0300" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-    <episode-num system="xmltv_ns">-1.10.</episode-num>
-  </programme>
-  <programme start="20261020060000 -0400" stop="20261020063700 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <episode-num system="xmltv_ns">-1.13.</episode-num>
-  </programme>
-  <programme start="20261020060000 -0500" stop="20261020073200 -0500" channel="TNT_CO.co">
-    <title lang="es">EL ESPANTA TIBURONES</title>
-    <desc lang="es">Oscar es un pez pequeño, pero ambicioso, que sueña con ser alguien en la vida. Cuando un ancla accidentalmente mata al hijo de un jefe de la mafia de los tiburones y Oscar es visto en la escena del crimen, ve que esa es la oportunidad perfecta para seguir adelante con sus planes. Con la esperanza de congraciarse con los enemigos del gánster, el falsario bocón posa de asesino, pero pronto descubre que ese es un juego peligroso en un mundo en que los peces grandes normalmente se devoran a los pequeños.</desc>
-  </programme>
-  <programme start="20261020060000 -0500" stop="20261020060100 -0500" channel="TNT_PAN.co">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.93.</episode-num>
-  </programme>
-  <programme start="20261020060000 -0600" stop="20261020063800 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <episode-num system="xmltv_ns">-1.12.</episode-num>
-  </programme>
-  <programme start="20261020060100 -0500" stop="20261020061000 -0500" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-    <episode-num system="xmltv_ns">-1.47.</episode-num>
-  </programme>
-  <programme start="20261020061000 -0500" stop="20261020082500 -0500" channel="TNT_PAN.co">
-    <title lang="es">KARATE KID</title>
-    <desc lang="es">Un adolescente que es atacado por otros jóvenes,  logra con la ayuda de un viejo experto en artes marciales, convertirse en un excelente Karateca que le permite participar en el campeonato de su ciudad y enfrentar a quienes eran sus enemigos.</desc>
-  </programme>
-  <programme start="20261020063600 -0300" stop="20261020081100 -0300" channel="TNT_BR.br">
-    <title lang="pt">O ESPANTA TUBARÕES</title>
-    <sub-title lang="pt">Shark Tale</sub-title>
-    <desc lang="pt">Oscar é um peixe pequeno, porém ambicioso, que sonha ser alguém na vida. Quando uma âncora acidentalmente mata o filho de um chefão da máfia dos tubarões e Oscar é flagrado na cena do crime, ele vê essa como a oportunidade perfeita para seguir em frente com seus planos. Na esperança de cair nas graças dos inimigos do gângster, o vigarista tagarela posa como o assassino, mas logo descobre que esse é um jogo perigoso em um mundo em que os peixes grandes normalmente devoram os pequenos.</desc>
-  </programme>
-  <programme start="20261020063700 -0400" stop="20261020071200 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <episode-num system="xmltv_ns">-1.14.</episode-num>
-  </programme>
-  <programme start="20261020063800 -0600" stop="20261020065200 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-    <episode-num system="xmltv_ns">-1.33.</episode-num>
-  </programme>
-  <programme start="20261020065200 -0600" stop="20261020071100 -0600" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-    <episode-num system="xmltv_ns">-1.36.</episode-num>
-  </programme>
-  <programme start="20261020071100 -0600" stop="20261020092900 -0600" channel="TNT_MX.mx">
-    <title lang="es">KARATE KID</title>
-    <desc lang="es">Un adolescente que es atacado por otros jóvenes,  logra con la ayuda de un viejo experto en artes marciales, convertirse en un excelente Karateca que le permite participar en el campeonato de su ciudad y enfrentar a quienes eran sus enemigos.</desc>
-  </programme>
-  <programme start="20261020071200 -0400" stop="20261020072600 -0400" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-    <episode-num system="xmltv_ns">-1.45.</episode-num>
-  </programme>
-  <programme start="20261020072600 -0400" stop="20261020072700 -0400" channel="TNT_CL.cl">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.85.</episode-num>
-  </programme>
-  <programme start="20261020072700 -0400" stop="20261020093300 -0400" channel="TNT_CL.cl">
-    <title lang="es">KARATE KID 2</title>
-    <desc lang="es">Muchos años atrás, Kesuke Miyagi vivía en Okinawa y estaba enamorado de Yukie. Pero ella estaba obligada a casarse con Sato, mejor amigo de Miyagi y el hombre más rico del pueblo. Al enterarse de esto, Sato lo retó a duelo, pero Miyagi prefirió huir del país. En el presente, Miyagi recibe una carta donde se le informa que su padre está a punto de morir, y emprende un viaje hacia su pueblo natal junto a su alumno Daniel-San. Allí se reencuentra con su pasado y se entera de que Sato todavía quiere pelear con él.</desc>
-  </programme>
-  <programme start="20261020073200 -0500" stop="20261020095200 -0500" channel="TNT_CO.co">
-    <title lang="es">KARATE KID</title>
-    <desc lang="es">Un adolescente que es atacado por otros jóvenes,  logra con la ayuda de un viejo experto en artes marciales, convertirse en un excelente Karateca que le permite participar en el campeonato de su ciudad y enfrentar a quienes eran sus enemigos.</desc>
-  </programme>
-  <programme start="20261020075200 -0300" stop="20261020075500 -0300" channel="TNT_AR.ar">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.66.</episode-num>
-  </programme>
-  <programme start="20261020075500 -0300" stop="20261020080000 -0300" channel="TNT_AR.ar">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.68.</episode-num>
-  </programme>
-  <programme start="20261020080000 -0300" stop="20261020100800 -0300" channel="TNT_AR.ar">
-    <title lang="es">KARATE KID 2</title>
-    <desc lang="es">Muchos años atrás, Kesuke Miyagi vivía en Okinawa y estaba enamorado de Yukie. Pero ella estaba obligada a casarse con Sato, mejor amigo de Miyagi y el hombre más rico del pueblo. Al enterarse de esto, Sato lo retó a duelo, pero Miyagi prefirió huir del país. En el presente, Miyagi recibe una carta donde se le informa que su padre está a punto de morir, y emprende un viaje hacia su pueblo natal junto a su alumno Daniel-San. Allí se reencuentra con su pasado y se entera de que Sato todavía quiere pelear con él.</desc>
-  </programme>
-  <programme start="20261020081100 -0300" stop="20261020094000 -0300" channel="TNT_BR.br">
-    <title lang="pt">DRÁCULA: A HISTÓRIA NUNCA CONTADA</title>
-    <sub-title lang="pt">Dracula Untold</sub-title>
-    <desc lang="pt">O reino da Transilvânia sempre teve uma relação tensa com os turcos. Para evitar que sua população fosse massacrada, o rei local aceitou entregar aos turcos centenas de crianças. Entre elas estava seu próprio filho, Vlad Tepes, que aprendeu com os rivais a arte de guerrear. Logo Vlad ganhou fama pela ferocidade nas batalhas e também por empalar os derrotados. De volta à Transilvânia, governa em paz por 10 anos. Só que o rei inimigo Mehmed decide voltar ao país, mas seus batedores que exploravam o local são mortos e a culpa cai sobre Vlad. Agora, o império exige que mais 1000 crianças sejam entregues. Vlad se recusa, afinal os inimigos querem levar seu próprio filho e, com isso, inicia uma nova guerra. Para vencê-la, recorre a um ser das trevas que vive na região. Após beber o sangue dele, Vlad se torna um vampiro com poderes sobre humanos: Drácula.</desc>
-  </programme>
-  <programme start="20261020082500 -0500" stop="20261020103300 -0500" channel="TNT_PAN.co">
-    <title lang="es">KARATE KID 2</title>
-    <desc lang="es">Muchos años atrás, Kesuke Miyagi vivía en Okinawa y estaba enamorado de Yukie. Pero ella estaba obligada a casarse con Sato, mejor amigo de Miyagi y el hombre más rico del pueblo. Al enterarse de esto, Sato lo retó a duelo, pero Miyagi prefirió huir del país. En el presente, Miyagi recibe una carta donde se le informa que su padre está a punto de morir, y emprende un viaje hacia su pueblo natal junto a su alumno Daniel-San. Allí se reencuentra con su pasado y se entera de que Sato todavía quiere pelear con él.</desc>
-  </programme>
-  <programme start="20261020092900 -0600" stop="20261020104500 -0600" channel="TNT_MX.mx">
-    <title lang="es">UEFA CHAMPIONS LEAGUE</title>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261020093300 -0400" stop="20261020120100 -0400" channel="TNT_CL.cl">
-    <title lang="es">LOS FEDERALES</title>
-    <desc lang="es">El agente Federal Samuel Gerard es un hombre determinado e incansable. Y cuando Mark Roberts, acusado de matar a dos hombres en Nueva York, escapa de un accidente aéreo al ser escoltado para ir a prisión, Gerard inicia una cacería implacable en busca del fugitivo.</desc>
-  </programme>
-  <programme start="20261020094000 -0300" stop="20261020100800 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">FOR SALE BY OWNER</sub-title>
-    <desc lang="pt">Um cliente rico e misterioso oferece US$ 1 milhão para comprar a casa da família Banks.</desc>
-    <episode-num system="xmltv_ns">3.24.</episode-num>
-  </programme>
-  <programme start="20261020095200 -0500" stop="20261020115600 -0500" channel="TNT_CO.co">
-    <title lang="es">KARATE KID 2</title>
-    <desc lang="es">Muchos años atrás, Kesuke Miyagi vivía en Okinawa y estaba enamorado de Yukie. Pero ella estaba obligada a casarse con Sato, mejor amigo de Miyagi y el hombre más rico del pueblo. Al enterarse de esto, Sato lo retó a duelo, pero Miyagi prefirió huir del país. En el presente, Miyagi recibe una carta donde se le informa que su padre está a punto de morir, y emprende un viaje hacia su pueblo natal junto a su alumno Daniel-San. Allí se reencuentra con su pasado y se entera de que Sato todavía quiere pelear con él.</desc>
-  </programme>
-  <programme start="20261020100800 -0300" stop="20261020123100 -0300" channel="TNT_AR.ar">
-    <title lang="es">LOS FEDERALES</title>
-    <desc lang="es">El agente Federal Samuel Gerard es un hombre determinado e incansable. Y cuando Mark Roberts, acusado de matar a dos hombres en Nueva York, escapa de un accidente aéreo al ser escoltado para ir a prisión, Gerard inicia una cacería implacable en busca del fugitivo.</desc>
-  </programme>
-  <programme start="20261020100800 -0300" stop="20261020103200 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">THE PHILADELPHIA STORY</sub-title>
-    <desc lang="pt">Will e toda a família Banks passam as férias na Filadélfia. Lá, eles descobrem um segredo sobre a reputação de Will no bairro.</desc>
-    <episode-num system="xmltv_ns">3.25.</episode-num>
-  </programme>
-  <programme start="20261020103200 -0300" stop="20261020105600 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <episode-num system="xmltv_ns">3.11.</episode-num>
-  </programme>
-  <programme start="20261020103300 -0500" stop="20261020125700 -0500" channel="TNT_PAN.co">
-    <title lang="es">LOS FEDERALES</title>
-    <desc lang="es">El agente Federal Samuel Gerard es un hombre determinado e incansable. Y cuando Mark Roberts, acusado de matar a dos hombres en Nueva York, escapa de un accidente aéreo al ser escoltado para ir a prisión, Gerard inicia una cacería implacable en busca del fugitivo.</desc>
-  </programme>
-  <programme start="20261020104500 -0600" stop="20261020124500 -0600" channel="TNT_MX.mx">
-    <title lang="es">PROGRAMACIÓN</title>
-    <title lang="es" />
-    <episode-num system="xmltv_ns">-1.37.</episode-num>
-  </programme>
-  <programme start="20261020105600 -0300" stop="20261020112000 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Chris e Greg percebem que precisarão arranjar identidades falsas para conseguir entrar no show dos Fat Boys. Rochelle planeja uma festa surpresa para Julius. Drew compra um par de óculos com visão de raio-x pelo correio.</desc>
-    <episode-num system="xmltv_ns">3.12.</episode-num>
-  </programme>
-  <programme start="20261020112000 -0300" stop="20261020114200 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Chris decide se preparar para o seu teste PSAT, mas quando Rochelle obriga a família a comparecer a um evento social, Chris fica sem tempo para estudar e recorre à compra de um cartão-resposta do teste. Julius ganha uma televisão em um sorteio.</desc>
-    <episode-num system="xmltv_ns">3.13.</episode-num>
-  </programme>
-  <programme start="20261020114200 -0300" stop="20261020120600 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">O treinador Thurman sugere que Chris aprenda a lutar boxe para se defender. Julius chama a atenção de uma bela mulher na vizinhança, que passa a fazer danças sensuais para ele da janela do quarto dela, sem saber Drew e seus amigos que estão assistindo. Julius acredita que Rochelle está tendo um caso.</desc>
-    <episode-num system="xmltv_ns">3.14.</episode-num>
-  </programme>
-  <programme start="20261020115600 -0500" stop="20261020141600 -0500" channel="TNT_CO.co">
-    <title lang="es">LOS FEDERALES</title>
-    <desc lang="es">El agente Federal Samuel Gerard es un hombre determinado e incansable. Y cuando Mark Roberts, acusado de matar a dos hombres en Nueva York, escapa de un accidente aéreo al ser escoltado para ir a prisión, Gerard inicia una cacería implacable en busca del fugitivo.</desc>
-  </programme>
-  <programme start="20261020120100 -0400" stop="20261020142300 -0400" channel="TNT_CL.cl">
-    <title lang="es">GHOSTBUSTERS: EL LEGADO</title>
-    <sub-title lang="es">GHOSTBUSTERS: AFTERLIFE</sub-title>
-    <desc lang="es">Jason Reitman dirige este nuevo capítulo del universo de los Cazafantasmas protagonizado por Carrie Coon y Paul Rudd, y con apariciones de Bill Murray, Dan Aykroyd y Sigourney Weaver en sus papeles originales.</desc>
-  </programme>
-  <programme start="20261020120600 -0300" stop="20261020123000 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Chris concorda em guardar um pouco de maconha para um criminoso em fuga, mas tem dificuldade de encontrar um esconderijo apropriado que não traga problemas. Vanessa insiste para que Rochelle aprenda a mexer no novo sistema de computadores do salão de beleza.</desc>
-    <episode-num system="xmltv_ns">3.15.</episode-num>
-  </programme>
-  <programme start="20261020123000 -0300" stop="20261020134500 -0300" channel="TNT_BR.br">
-    <title lang="pt">PRÉ-JOGO UEFA CHAMPIONS LEAGUE 2026/27</title>
-    <desc lang="pt">A melhor cobertura dos jogos da UEFA CHAMPIONS LEAGUE e o melhor futebol do mundo, na programação da TNT Brasil.</desc>
-    <episode-num system="xmltv_ns">-1.0.</episode-num>
-  </programme>
-  <programme start="20261020123100 -0300" stop="20261020145200 -0300" channel="TNT_AR.ar">
-    <title lang="es">GHOSTBUSTERS: EL LEGADO</title>
-    <sub-title lang="es">GHOSTBUSTERS: AFTERLIFE</sub-title>
-    <desc lang="es">Jason Reitman dirige este nuevo capítulo del universo de los Cazafantasmas protagonizado por Carrie Coon y Paul Rudd, y con apariciones de Bill Murray, Dan Aykroyd y Sigourney Weaver en sus papeles originales.</desc>
-  </programme>
-  <programme start="20261020124500 -0600" stop="20261020130000 -0600" channel="TNT_MX.mx">
-    <title lang="es">PROGRAMACIÓN</title>
-    <title lang="es" />
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261020125700 -0500" stop="20261020152800 -0500" channel="TNT_PAN.co">
-    <title lang="es">GHOSTBUSTERS: EL LEGADO</title>
-    <sub-title lang="es">GHOSTBUSTERS: AFTERLIFE</sub-title>
-    <desc lang="es">Jason Reitman dirige este nuevo capítulo del universo de los Cazafantasmas protagonizado por Carrie Coon y Paul Rudd, y con apariciones de Bill Murray, Dan Aykroyd y Sigourney Weaver en sus papeles originales.</desc>
-  </programme>
-  <programme start="20261020130000 -0600" stop="20261020150000 -0600" channel="TNT_MX.mx">
-    <title lang="es">PROGRAMACIÓN</title>
-    <title lang="es" />
-    <episode-num system="xmltv_ns">-1.42.</episode-num>
-  </programme>
-  <programme start="20261020134500 -0300" stop="20261020160000 -0300" channel="TNT_BR.br">
-    <title lang="es">PROGRAMACIÓN</title>
-    <title lang="pt" />
-    <episode-num system="xmltv_ns">-1.37.</episode-num>
-  </programme>
-  <programme start="20261020141600 -0500" stop="20261020163600 -0500" channel="TNT_CO.co">
-    <title lang="es">GHOSTBUSTERS: EL LEGADO</title>
-    <sub-title lang="es">GHOSTBUSTERS: AFTERLIFE</sub-title>
-    <desc lang="es">Jason Reitman dirige este nuevo capítulo del universo de los Cazafantasmas protagonizado por Carrie Coon y Paul Rudd, y con apariciones de Bill Murray, Dan Aykroyd y Sigourney Weaver en sus papeles originales.</desc>
-  </programme>
-  <programme start="20261020142300 -0400" stop="20261020162300 -0400" channel="TNT_CL.cl">
-    <title lang="es">VENGANZA DESPIADADA</title>
-    <desc lang="es">En 1992, en su Bogotá natal, Cataleya presencia el asesinato de sus padres a manos de un narcotraficante llamado Don Luis Sandoval. Luego, ella viaja a Chicago y se va a vivir con su tío Emilio, quien la entrena en el arte de matar. Quince años después, Cataleya, quien ahora tiene 24 años, es una asesina a sueldo, pero su verdadero objetivo es encontrar a Don Luis, quien ahora forma parte del programa de protección de testigos de EE.UU., y vengarse.</desc>
-  </programme>
-  <programme start="20261020145200 -0300" stop="20261020165000 -0300" channel="TNT_AR.ar">
-    <title lang="es">VENGANZA DESPIADADA</title>
-    <desc lang="es">En 1992, en su Bogotá natal, Cataleya presencia el asesinato de sus padres a manos de un narcotraficante llamado Don Luis Sandoval. Luego, ella viaja a Chicago y se va a vivir con su tío Emilio, quien la entrena en el arte de matar. Quince años después, Cataleya, quien ahora tiene 24 años, es una asesina a sueldo, pero su verdadero objetivo es encontrar a Don Luis, quien ahora forma parte del programa de protección de testigos de EE.UU., y vengarse.</desc>
-  </programme>
-  <programme start="20261020150000 -0600" stop="20261020154500 -0600" channel="TNT_MX.mx">
-    <title lang="es">PROGRAMACIÓN</title>
-    <title lang="es" />
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-  </programme>
-  <programme start="20261020152800 -0500" stop="20261020173400 -0500" channel="TNT_PAN.co">
-    <title lang="es">VENGANZA DESPIADADA</title>
-    <desc lang="es">En 1992, en su Bogotá natal, Cataleya presencia el asesinato de sus padres a manos de un narcotraficante llamado Don Luis Sandoval. Luego, ella viaja a Chicago y se va a vivir con su tío Emilio, quien la entrena en el arte de matar. Quince años después, Cataleya, quien ahora tiene 24 años, es una asesina a sueldo, pero su verdadero objetivo es encontrar a Don Luis, quien ahora forma parte del programa de protección de testigos de EE.UU., y vengarse.</desc>
-  </programme>
-  <programme start="20261020154500 -0600" stop="20261020164500 -0600" channel="TNT_MX.mx">
-    <title lang="es">PROGRAMACIÓN</title>
-    <title lang="es" />
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-  </programme>
-  <programme start="20261020160000 -0300" stop="20261020180000 -0300" channel="TNT_BR.br">
-    <title lang="es">PROGRAMACIÓN</title>
-    <title lang="pt" />
-    <episode-num system="xmltv_ns">-1.42.</episode-num>
-  </programme>
-  <programme start="20261020162300 -0400" stop="20261020180300 -0400" channel="TNT_CL.cl">
-    <title lang="es">DRÁCULA: LA HISTORIA JAMÁS CONTADA</title>
-    <sub-title lang="es">DRACULA UNTOLD</sub-title>
-    <desc lang="es">Vlad Tepes es el príncipe de Valaquia y Transilvania y un guerrero muy temido a quien todos llamaban Vlad el Empalador. Cuando un sultán le pide 1.000 niños para entrenar como soldados, él se rehúsa. Como Vlad sabe que la guerra está por llegar, va a una cueva donde vive un vampiro y le pide ayuda. El vampiro le ofrece algo de su sangre, lo cual le dará poderes vampíricos de forma temporánea salvo que beba sangre humana, lo cual lo convertirá en un vampiro para siempre.</desc>
-  </programme>
-  <programme start="20261020163600 -0500" stop="20261020183900 -0500" channel="TNT_CO.co">
-    <title lang="es">VENGANZA DESPIADADA</title>
-    <desc lang="es">En 1992, en su Bogotá natal, Cataleya presencia el asesinato de sus padres a manos de un narcotraficante llamado Don Luis Sandoval. Luego, ella viaja a Chicago y se va a vivir con su tío Emilio, quien la entrena en el arte de matar. Quince años después, Cataleya, quien ahora tiene 24 años, es una asesina a sueldo, pero su verdadero objetivo es encontrar a Don Luis, quien ahora forma parte del programa de protección de testigos de EE.UU., y vengarse.</desc>
-  </programme>
-  <programme start="20261020164500 -0600" stop="20261020184300 -0600" channel="TNT_MX.mx">
-    <title lang="es">VENGANZA DESPIADADA</title>
-    <desc lang="es">En 1992, en su Bogotá natal, Cataleya presencia el asesinato de sus padres a manos de un narcotraficante llamado Don Luis Sandoval. Luego, ella viaja a Chicago y se va a vivir con su tío Emilio, quien la entrena en el arte de matar. Quince años después, Cataleya, quien ahora tiene 24 años, es una asesina a sueldo, pero su verdadero objetivo es encontrar a Don Luis, quien ahora forma parte del programa de protección de testigos de EE.UU., y vengarse.</desc>
-  </programme>
-  <programme start="20261020165000 -0300" stop="20261020183700 -0300" channel="TNT_AR.ar">
-    <title lang="es">DRÁCULA: LA HISTORIA JAMÁS CONTADA</title>
-    <sub-title lang="es">DRACULA UNTOLD</sub-title>
-    <desc lang="es">Vlad Tepes es el príncipe de Valaquia y Transilvania y un guerrero muy temido a quien todos llamaban Vlad el Empalador. Cuando un sultán le pide 1.000 niños para entrenar como soldados, él se rehúsa. Como Vlad sabe que la guerra está por llegar, va a una cueva donde vive un vampiro y le pide ayuda. El vampiro le ofrece algo de su sangre, lo cual le dará poderes vampíricos de forma temporánea salvo que beba sangre humana, lo cual lo convertirá en un vampiro para siempre.</desc>
-  </programme>
-  <programme start="20261020173400 -0500" stop="20261020192100 -0500" channel="TNT_PAN.co">
-    <title lang="es">DRÁCULA: LA HISTORIA JAMÁS CONTADA</title>
-    <sub-title lang="es">DRACULA UNTOLD</sub-title>
-    <desc lang="es">Vlad Tepes es el príncipe de Valaquia y Transilvania y un guerrero muy temido a quien todos llamaban Vlad el Empalador. Cuando un sultán le pide 1.000 niños para entrenar como soldados, él se rehúsa. Como Vlad sabe que la guerra está por llegar, va a una cueva donde vive un vampiro y le pide ayuda. El vampiro le ofrece algo de su sangre, lo cual le dará poderes vampíricos de forma temporánea salvo que beba sangre humana, lo cual lo convertirá en un vampiro para siempre.</desc>
-  </programme>
-  <programme start="20261020180000 -0300" stop="20261020190000 -0300" channel="TNT_BR.br">
-    <title lang="pt">PÓS-JOGO UEFA CHAMPIONS LEAGUE 2026/27</title>
-    <desc lang="pt">A melhor cobertura dos jogos da UEFA CHAMPIONS LEAGUE e o melhor futebol do mundo, na programação da TNT Brasil.</desc>
-    <episode-num system="xmltv_ns">-1.0.</episode-num>
-  </programme>
-  <programme start="20261020180300 -0400" stop="20261020204500 -0400" channel="TNT_CL.cl">
-    <title lang="es">EL PLAN PERFECTO</title>
-    <desc lang="es">Cuando una sucursal de un banco de Wall Street es tomada por asalto, dos entrenados negociadores, los detectives Keith Frazier (Denzel Washington) y Bill Mitchell (Chiwetel Ejiofor), deben lidiar con el líder del grupo (Clive Owen). A pesar del gigante operativo, algunos hechos no encajan para Frazier, como la extraña visita de una mujer (Jodie Foster), que pide hablar con el jefe de la banda, y el desmedido interés del presidente del consejo del banco por el desarrollo de la situación.</desc>
-  </programme>
-  <programme start="20261020183700 -0300" stop="20261020210000 -0300" channel="TNT_AR.ar">
-    <title lang="es">EL PLAN PERFECTO</title>
-    <desc lang="es">Cuando una sucursal de un banco de Wall Street es tomada por asalto, dos entrenados negociadores, los detectives Keith Frazier (Denzel Washington) y Bill Mitchell (Chiwetel Ejiofor), deben lidiar con el líder del grupo (Clive Owen). A pesar del gigante operativo, algunos hechos no encajan para Frazier, como la extraña visita de una mujer (Jodie Foster), que pide hablar con el jefe de la banda, y el desmedido interés del presidente del consejo del banco por el desarrollo de la situación.</desc>
-  </programme>
-  <programme start="20261020183900 -0500" stop="20261020203000 -0500" channel="TNT_CO.co">
-    <title lang="es">DRÁCULA: LA HISTORIA JAMÁS CONTADA</title>
-    <sub-title lang="es">DRACULA UNTOLD</sub-title>
-    <desc lang="es">Vlad Tepes es el príncipe de Valaquia y Transilvania y un guerrero muy temido a quien todos llamaban Vlad el Empalador. Cuando un sultán le pide 1.000 niños para entrenar como soldados, él se rehúsa. Como Vlad sabe que la guerra está por llegar, va a una cueva donde vive un vampiro y le pide ayuda. El vampiro le ofrece algo de su sangre, lo cual le dará poderes vampíricos de forma temporánea salvo que beba sangre humana, lo cual lo convertirá en un vampiro para siempre.</desc>
-  </programme>
-  <programme start="20261020184300 -0600" stop="20261020202100 -0600" channel="TNT_MX.mx">
-    <title lang="es">DRÁCULA: LA HISTORIA JAMÁS CONTADA</title>
-    <sub-title lang="es">DRACULA UNTOLD</sub-title>
-    <desc lang="es">Vlad Tepes es el príncipe de Valaquia y Transilvania y un guerrero muy temido a quien todos llamaban Vlad el Empalador. Cuando un sultán le pide 1.000 niños para entrenar como soldados, él se rehúsa. Como Vlad sabe que la guerra está por llegar, va a una cueva donde vive un vampiro y le pide ayuda. El vampiro le ofrece algo de su sangre, lo cual le dará poderes vampíricos de forma temporánea salvo que beba sangre humana, lo cual lo convertirá en un vampiro para siempre.</desc>
-  </programme>
-  <programme start="20261020190000 -0300" stop="20261020195800 -0300" channel="TNT_BR.br">
-    <title lang="pt">CONVOCADOS</title>
-    <desc lang="pt">Comandado por Taynah Espinoza, o Convocados reúne o elenco da TNT Sports em uma cobertura jornalística de alto nível que vai ao ar  após cada rodada da UEFA Champions League. O programa analisa os principais lances, as decisões táticas e os desdobramentos dos grandes confrontos europeus, além de entrevistas com os  personagens que escreveram a história de um dia de Champions.</desc>
-    <episode-num system="xmltv_ns">-1.5.</episode-num>
-  </programme>
-  <programme start="20261020192100 -0500" stop="20261020220000 -0500" channel="TNT_PAN.co">
-    <title lang="es">EL PLAN PERFECTO</title>
-    <desc lang="es">Cuando una sucursal de un banco de Wall Street es tomada por asalto, dos entrenados negociadores, los detectives Keith Frazier (Denzel Washington) y Bill Mitchell (Chiwetel Ejiofor), deben lidiar con el líder del grupo (Clive Owen). A pesar del gigante operativo, algunos hechos no encajan para Frazier, como la extraña visita de una mujer (Jodie Foster), que pide hablar con el jefe de la banda, y el desmedido interés del presidente del consejo del banco por el desarrollo de la situación.</desc>
-  </programme>
-  <programme start="20261020195800 -0300" stop="20261020231300 -0300" channel="TNT_BR.br">
-    <title lang="pt">O SENHOR DOS ANÉIS: A SOCIEDADE DO ANEL</title>
-    <sub-title lang="pt">The Lord of the Rings: The Fellowship of the Ring</sub-title>
-    <desc lang="pt">Tudo começa quando Frodo recebe um anel de seu tio Bilbo (Ian Holm), e o mago Gandalf (Ian McKellen) descobre que se trata do "Anel Único". Esse poderoso anel foi criado por Sauron, o Senhor do Escuro (Sala Baker), e permite escravizar toda a Terra Média mobilizando as forças escuras. Para destruir o anel, Frodo deverá levá-lo até uma longínqua montanha localizada em Mordor, a zona controlada pelo amo do mal. Afortunadamente, o acompanhará uma comunidade integrada pelos hobbits Sam (Sean Astin), Merry (Dominic Monaghan) e Pippin (Billy Boyd), além de Gandalf, os guerreiros humanos Aragorn (Viggo Mortensen) e Boromir (Sean Bean), e o Elfo Legolas (Orlando Bloom). Juntos deverão enfrentar perigosos obstáculos em um temido mundo de mistério e escuridão.</desc>
-  </programme>
-  <programme start="20261020202100 -0600" stop="20261020224600 -0600" channel="TNT_MX.mx">
-    <title lang="es">EL PLAN PERFECTO</title>
-    <desc lang="es">Cuando una sucursal de un banco de Wall Street es tomada por asalto, dos entrenados negociadores, los detectives Keith Frazier (Denzel Washington) y Bill Mitchell (Chiwetel Ejiofor), deben lidiar con el líder del grupo (Clive Owen). A pesar del gigante operativo, algunos hechos no encajan para Frazier, como la extraña visita de una mujer (Jodie Foster), que pide hablar con el jefe de la banda, y el desmedido interés del presidente del consejo del banco por el desarrollo de la situación.</desc>
-  </programme>
-  <programme start="20261020203000 -0500" stop="20261020230000 -0500" channel="TNT_CO.co">
-    <title lang="es">PROGRAMACIÓN</title>
-    <title lang="es" />
-    <episode-num system="xmltv_ns">66.2.</episode-num>
-  </programme>
-  <programme start="20261020204500 -0400" stop="20261020223000 -0400" channel="TNT_CL.cl">
-    <title lang="es">MASTERCHEF CHILE</title>
-    <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
-    <episode-num system="xmltv_ns">4.11.</episode-num>
-  </programme>
-  <programme start="20261020210000 -0300" stop="20261020223000 -0300" channel="TNT_AR.ar">
-    <title lang="es">MASTERCHEF CELEBRITY ARGENTINA</title>
-    <desc lang="es">¡Se encienden las hornallas! Bajo la conducción de Wanda Nara, llega la nueva temporada de esta intensa competencia de sabores, donde distintas celebridades despliegan su talento culinario ante un exigente jurado de chefs. Damián Betular, Maru Botana y Germán Martitegui serán los encargados de evaluar cada plato y definir quiénes tienen lo necesario para seguir en competencia y quienes deberán que entregar su delantal.</desc>
-    <episode-num system="xmltv_ns">-1.14.</episode-num>
-  </programme>
   <programme start="20261020220000 -0500" stop="20261021011700 -0500" channel="TNT_PAN.co">
     <title lang="es">EL SEÑOR DE LOS ANILLOS: LA COMUNIDAD DEL ANILLO</title>
     <sub-title lang="es">THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING</sub-title>
     <desc lang="es">En la mítica Tierra Media, un mundo fantástico y misterioso habitado por hombres, hobbits, magos, elfos, enanos y trolls, vive Frodo Bolsón (Elijah Wood), un tímido hobbit que deberá cumplir una difícil misión para salvar el destino de su tierra. Todo comienza cuando Frodo recibe un anillo de su tío Bilbo (Ian Holm) y el mago Gandalf (Ian McKellen) descubre que se trata del Anillo Unico. Ese poderoso anillo fue concebido por Sauron, el Señor Oscuro de Mordor (Sala Baker), y permite esclavizar a toda la Tierra Media movilizando las fuerzas oscuras. Para destruir el anillo Frodo deberá llevarlo hasta una lejana montaña ubicada en Mordor, la zona controlada por el amo del mal. Afortunadamente, lo acompañará una comunidad integrada por los hobbits Sam (Sean Astin), Merry (Dominic Monaghan) y Pippin (Billy Boyd), además de Gandalf, los guerreros humanos Aragorn (Viggo Mortensen) y Boromir (Sean Bean), y el Elfo Legolas (Orlando Bloom). Juntos deberán enfrentar peligrosos obstáculos en un temible mundo de misterio y oscuridad. Esta espectacular adaptación de la trilogía épica de J.R.R. Tolkien fue dirigida por Peter Jackson.</desc>
-  </programme>
-  <programme start="20261020223000 -0300" stop="20261021005900 -0300" channel="TNT_AR.ar">
-    <title lang="es">PROGRAMACIÓN</title>
-    <title lang="es" />
-    <episode-num system="xmltv_ns">66.2.</episode-num>
-  </programme>
-  <programme start="20261020223000 -0400" stop="20261021005900 -0400" channel="TNT_CL.cl">
-    <title lang="es">PROGRAMACIÓN</title>
-    <title lang="es" />
-    <episode-num system="xmltv_ns">66.2.</episode-num>
   </programme>
   <programme start="20261020224600 -0600" stop="20261021015700 -0600" channel="TNT_MX.mx">
     <title lang="es">EL SEÑOR DE LOS ANILLOS: LA COMUNIDAD DEL ANILLO</title>
@@ -527,36 +32,6 @@
     <title lang="es">EL SEÑOR DE LOS ANILLOS: LA COMUNIDAD DEL ANILLO</title>
     <sub-title lang="es">THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING</sub-title>
     <desc lang="es">En la mítica Tierra Media, un mundo fantástico y misterioso habitado por hombres, hobbits, magos, elfos, enanos y trolls, vive Frodo Bolsón (Elijah Wood), un tímido hobbit que deberá cumplir una difícil misión para salvar el destino de su tierra. Todo comienza cuando Frodo recibe un anillo de su tío Bilbo (Ian Holm) y el mago Gandalf (Ian McKellen) descubre que se trata del Anillo Unico. Ese poderoso anillo fue concebido por Sauron, el Señor Oscuro de Mordor (Sala Baker), y permite esclavizar a toda la Tierra Media movilizando las fuerzas oscuras. Para destruir el anillo Frodo deberá llevarlo hasta una lejana montaña ubicada en Mordor, la zona controlada por el amo del mal. Afortunadamente, lo acompañará una comunidad integrada por los hobbits Sam (Sean Astin), Merry (Dominic Monaghan) y Pippin (Billy Boyd), además de Gandalf, los guerreros humanos Aragorn (Viggo Mortensen) y Boromir (Sean Bean), y el Elfo Legolas (Orlando Bloom). Juntos deberán enfrentar peligrosos obstáculos en un temible mundo de misterio y oscuridad. Esta espectacular adaptación de la trilogía épica de J.R.R. Tolkien fue dirigida por Peter Jackson.</desc>
-  </programme>
-  <programme start="20261020231300 -0300" stop="20261020233900 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <episode-num system="xmltv_ns">3.11.</episode-num>
-  </programme>
-  <programme start="20261020233900 -0300" stop="20261021000400 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Chris e Greg percebem que precisarão arranjar identidades falsas para conseguir entrar no show dos Fat Boys. Rochelle planeja uma festa surpresa para Julius. Drew compra um par de óculos com visão de raio-x pelo correio.</desc>
-    <episode-num system="xmltv_ns">3.12.</episode-num>
-  </programme>
-  <programme start="20261021000400 -0300" stop="20261021002900 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Chris decide se preparar para o seu teste PSAT, mas quando Rochelle obriga a família a comparecer a um evento social, Chris fica sem tempo para estudar e recorre à compra de um cartão-resposta do teste. Julius ganha uma televisão em um sorteio.</desc>
-    <episode-num system="xmltv_ns">3.13.</episode-num>
-  </programme>
-  <programme start="20261021002900 -0300" stop="20261021005500 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">O treinador Thurman sugere que Chris aprenda a lutar boxe para se defender. Julius chama a atenção de uma bela mulher na vizinhança, que passa a fazer danças sensuais para ele da janela do quarto dela, sem saber Drew e seus amigos que estão assistindo. Julius acredita que Rochelle está tendo um caso.</desc>
-    <episode-num system="xmltv_ns">3.14.</episode-num>
-  </programme>
-  <programme start="20261021005500 -0300" stop="20261021011800 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Chris concorda em guardar um pouco de maconha para um criminoso em fuga, mas tem dificuldade de encontrar um esconderijo apropriado que não traga problemas. Vanessa insiste para que Rochelle aprenda a mexer no novo sistema de computadores do salão de beleza.</desc>
-    <episode-num system="xmltv_ns">3.15.</episode-num>
   </programme>
   <programme start="20261021005900 -0300" stop="20261021035800 -0300" channel="TNT_AR.ar">
     <title lang="es">EL SEÑOR DE LOS ANILLOS: LA COMUNIDAD DEL ANILLO</title>
@@ -572,18 +47,6 @@
     <title lang="es">TAL PARA CUAL</title>
     <sub-title lang="es">STRAIGHT UP</sub-title>
     <desc lang="es">Todd y Rory son almas gemelas intelectuales. Quizá él sea gay. Puede que a ella no le importe. Una historia de amor sin la emoción del sexo.</desc>
-  </programme>
-  <programme start="20261021011800 -0300" stop="20261021014200 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">MOTHER'S DAY</sub-title>
-    <desc lang="pt">Jazz e sua esposa não conseguem engravidar, então o casal pede que Will seja o "pai" da criança.</desc>
-    <episode-num system="xmltv_ns">3.22.</episode-num>
-  </programme>
-  <programme start="20261021014200 -0300" stop="20261021020700 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">PAPA'S GOT A BRAND NEW EXCUSE</sub-title>
-    <desc lang="pt">Will encontra seu pai (BEN VEREEN), mas Philip e Vivian não o perdoam por ele ter abandonado Will e a esposa 14 anos antes.</desc>
-    <episode-num system="xmltv_ns">3.23.</episode-num>
   </programme>
   <programme start="20261021015700 -0600" stop="20261021034400 -0600" channel="TNT_MX.mx">
     <title lang="es">DÍAS DE IRA</title>
@@ -3656,13 +3119,15 @@ profesión.</desc>
     <title lang="es">TNT BUZZ</title>
     <episode-num system="xmltv_ns">14.85.</episode-num>
   </programme>
-  <programme start="20261026060000 -0300" stop="20261026061100 -0300" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <episode-num system="xmltv_ns">-1.37.</episode-num>
-  </programme>
   <programme start="20261026060000 -0300" stop="20261026061200 -0300" channel="TNT_BR.br">
     <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.31.</episode-num>
+  </programme>
+  <programme start="20261026060000 -0300" stop="20261026061100 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.37.</episode-num>
   </programme>
   <programme start="20261026060000 -0400" stop="20261026063700 -0400" channel="TNT_CL.cl">
     <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
@@ -3672,26 +3137,32 @@ profesión.</desc>
   <programme start="20261026060000 -0500" stop="20261026074200 -0500" channel="TNT_CO.co">
     <title lang="es">CONTAGIO</title>
     <sub-title lang="es">CONTAGION</sub-title>
+    <desc lang="es">El cineasta ganador del Oscar®, Steven Soderbergh (Ocean's Eleven films, Traffic) regresa a las grandes producciones con este thriller de escala global que aborda el brote de una enfermedad letal y sobre la gente que trata de sobrevivir. Mientras la epidemia avanza rápidamente, la comunidad médica mundial se apresura para encontrar la cura y controlar el pánico que se propaga más rápido que el mismo virus. Al mismo tiempo, la gente normal intenta sobrevivir en una sociedad que se comienza a desintegrar.</desc>
   </programme>
   <programme start="20261026060000 -0500" stop="20261026060900 -0500" channel="TNT_PAN.co">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.44.</episode-num>
   </programme>
   <programme start="20261026060000 -0600" stop="20261026061500 -0600" channel="TNT_MX.mx">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.44.</episode-num>
   </programme>
   <programme start="20261026060900 -0500" stop="20261026080000 -0500" channel="TNT_PAN.co">
     <title lang="es">CONTAGIO</title>
     <sub-title lang="es">CONTAGION</sub-title>
+    <desc lang="es">El cineasta ganador del Oscar®, Steven Soderbergh (Ocean's Eleven films, Traffic) regresa a las grandes producciones con este thriller de escala global que aborda el brote de una enfermedad letal y sobre la gente que trata de sobrevivir. Mientras la epidemia avanza rápidamente, la comunidad médica mundial se apresura para encontrar la cura y controlar el pánico que se propaga más rápido que el mismo virus. Al mismo tiempo, la gente normal intenta sobrevivir en una sociedad que se comienza a desintegrar.</desc>
   </programme>
   <programme start="20261026061100 -0300" stop="20261026061900 -0300" channel="TNT_AR.ar">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.38.</episode-num>
   </programme>
   <programme start="20261026061200 -0300" stop="20261026072400 -0300" channel="TNT_BR.br">
     <title lang="pt">A Informante</title>
     <sub-title lang="pt">All Souls</sub-title>
+    <desc lang="pt">River, uma jovem mãe flagrada em uma pequena apreensão de drogas, é forçada a trabalhar para a polícia como informante secreta em uma perigosa operação encoberta que pode lhe custar tudo, até mesmo sua filha.</desc>
   </programme>
   <programme start="20261026061500 -0600" stop="20261026061600 -0600" channel="TNT_MX.mx">
     <title lang="es">TNT BUZZ</title>
@@ -3700,10 +3171,12 @@ profesión.</desc>
   <programme start="20261026061600 -0600" stop="20261026080400 -0600" channel="TNT_MX.mx">
     <title lang="es">CONTAGIO</title>
     <sub-title lang="es">CONTAGION</sub-title>
+    <desc lang="es">El cineasta ganador del Oscar®, Steven Soderbergh (Ocean's Eleven films, Traffic) regresa a las grandes producciones con este thriller de escala global que aborda el brote de una enfermedad letal y sobre la gente que trata de sobrevivir. Mientras la epidemia avanza rápidamente, la comunidad médica mundial se apresura para encontrar la cura y controlar el pánico que se propaga más rápido que el mismo virus. Al mismo tiempo, la gente normal intenta sobrevivir en una sociedad que se comienza a desintegrar.</desc>
   </programme>
   <programme start="20261026061900 -0300" stop="20261026080700 -0300" channel="TNT_AR.ar">
     <title lang="es">DOS INÚTILES EN PATRULLA</title>
     <sub-title lang="es">COP OUT</sub-title>
+    <desc lang="es">Pese a que son compañeros desde hace nueve años, los detectives Jimmy (Bruce Willis) y Paul (Tracy Morgan) todavía se pelean como perro y gato ¿especialmente cuando las actitudes imprevisibles de Paul les valieron una suspensión no remunerada. Con los bolsillos vacíos, Jimmy decide vender una rara carta de beisbol que posee para pagar los gastos de la boda de su hija. Lamentablemente, la tienda del coleccionista es robada por dos rateritos de cuarta y el detective se queda sin su carta. Sin opción, Paul y Jimmy terminan volviendo a las calles a buscar la carta y el cartel de drogas relacionado con el atraco. Todo a su ritmo y sin el más mínimo apoyo ¿excepto el uno del otro.</desc>
   </programme>
   <programme start="20261026063700 -0400" stop="20261026071400 -0400" channel="TNT_CL.cl">
     <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
@@ -3712,11 +3185,13 @@ profesión.</desc>
   </programme>
   <programme start="20261026071400 -0400" stop="20261026073100 -0400" channel="TNT_CL.cl">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
     <episode-num system="xmltv_ns">-1.42.</episode-num>
   </programme>
   <programme start="20261026072400 -0300" stop="20261026091500 -0300" channel="TNT_BR.br">
     <title lang="pt">CONTÁGIO</title>
     <sub-title lang="pt">Contagion</sub-title>
+    <desc lang="pt">O cineasta vencedor do Oscar® Steven Soderbergh (saga Onze Homens e um Segredo, Traffic) está de volta às grandes produções com este thriller de ação que gira em torno da ameaça de uma epidemia mortal e das pessoas determinadas a controlá-la. Conforme a epidemia avança de forma rápida, a comunidade médica de todo o mundo se esforça para encontrar uma cura e controlar o pânico que se espalha de forma mais perturbadora do que o próprio vírus. Ao mesmo tempo, pessoas comuns lutam para sobreviver numa sociedade que desmorona.</desc>
   </programme>
   <programme start="20261026073100 -0400" stop="20261026073300 -0400" channel="TNT_CL.cl">
     <title lang="es">TNT BUZZ</title>
@@ -3732,31 +3207,39 @@ profesión.</desc>
   </programme>
   <programme start="20261026073800 -0400" stop="20261026095700 -0400" channel="TNT_CL.cl">
     <title lang="es">EL ÚLTIMO GRAN HÉROE</title>
+    <desc lang="es">"Un adolescente fanático de las películas de acción siente que toca el cielo con las manos cuando consigue un ""ticket mágico"" que le permite literalmente entrar dentro de la nueva película de su héroe favorito, Jack Slater (Arnold Schwarzenegger) y compartir sus excitantes aventuras. Sin embargo, cuando los villanos descubren el famoso pase, Jack se verá forzado a salir también de la pantalla para atrapar a los malos y, en el proceso, aprender algo acerca de lo que es ser un héroe sin ficción mediante."</desc>
   </programme>
   <programme start="20261026074200 -0500" stop="20261026093100 -0500" channel="TNT_CO.co">
     <title lang="es">DOS INÚTILES EN PATRULLA</title>
     <sub-title lang="es">COP OUT</sub-title>
+    <desc lang="es">Pese a que son compañeros desde hace nueve años, los detectives Jimmy (Bruce Willis) y Paul (Tracy Morgan) todavía se pelean como perro y gato ¿especialmente cuando las actitudes imprevisibles de Paul les valieron una suspensión no remunerada. Con los bolsillos vacíos, Jimmy decide vender una rara carta de beisbol que posee para pagar los gastos de la boda de su hija. Lamentablemente, la tienda del coleccionista es robada por dos rateritos de cuarta y el detective se queda sin su carta. Sin opción, Paul y Jimmy terminan volviendo a las calles a buscar la carta y el cartel de drogas relacionado con el atraco. Todo a su ritmo y sin el más mínimo apoyo ¿excepto el uno del otro.</desc>
   </programme>
   <programme start="20261026080000 -0500" stop="20261026095300 -0500" channel="TNT_PAN.co">
     <title lang="es">DOS INÚTILES EN PATRULLA</title>
     <sub-title lang="es">COP OUT</sub-title>
+    <desc lang="es">Pese a que son compañeros desde hace nueve años, los detectives Jimmy (Bruce Willis) y Paul (Tracy Morgan) todavía se pelean como perro y gato ¿especialmente cuando las actitudes imprevisibles de Paul les valieron una suspensión no remunerada. Con los bolsillos vacíos, Jimmy decide vender una rara carta de beisbol que posee para pagar los gastos de la boda de su hija. Lamentablemente, la tienda del coleccionista es robada por dos rateritos de cuarta y el detective se queda sin su carta. Sin opción, Paul y Jimmy terminan volviendo a las calles a buscar la carta y el cartel de drogas relacionado con el atraco. Todo a su ritmo y sin el más mínimo apoyo ¿excepto el uno del otro.</desc>
   </programme>
   <programme start="20261026080400 -0600" stop="20261026095800 -0600" channel="TNT_MX.mx">
     <title lang="es">DOS INÚTILES EN PATRULLA</title>
     <sub-title lang="es">COP OUT</sub-title>
+    <desc lang="es">Pese a que son compañeros desde hace nueve años, los detectives Jimmy (Bruce Willis) y Paul (Tracy Morgan) todavía se pelean como perro y gato ¿especialmente cuando las actitudes imprevisibles de Paul les valieron una suspensión no remunerada. Con los bolsillos vacíos, Jimmy decide vender una rara carta de beisbol que posee para pagar los gastos de la boda de su hija. Lamentablemente, la tienda del coleccionista es robada por dos rateritos de cuarta y el detective se queda sin su carta. Sin opción, Paul y Jimmy terminan volviendo a las calles a buscar la carta y el cartel de drogas relacionado con el atraco. Todo a su ritmo y sin el más mínimo apoyo ¿excepto el uno del otro.</desc>
   </programme>
   <programme start="20261026080700 -0300" stop="20261026102600 -0300" channel="TNT_AR.ar">
     <title lang="es">EL ÚLTIMO GRAN HÉROE</title>
+    <desc lang="es">"Un adolescente fanático de las películas de acción siente que toca el cielo con las manos cuando consigue un ""ticket mágico"" que le permite literalmente entrar dentro de la nueva película de su héroe favorito, Jack Slater (Arnold Schwarzenegger) y compartir sus excitantes aventuras. Sin embargo, cuando los villanos descubren el famoso pase, Jack se verá forzado a salir también de la pantalla para atrapar a los malos y, en el proceso, aprender algo acerca de lo que es ser un héroe sin ficción mediante."</desc>
   </programme>
   <programme start="20261026091500 -0300" stop="20261026110800 -0300" channel="TNT_BR.br">
     <title lang="pt">TIRAS EM APUROS</title>
     <sub-title lang="pt">Cop Out</sub-title>
+    <desc lang="pt">Apesar de serem parceiros há nove anos, os detetives Jimmy (Bruce Willis) e Paul (Tracy Morgan) ainda brigam como cão e gato - especialmente quando as atitudes imprevisíveis de Paul lhes rende uma suspensão não remunerada. Já apertado, Jimmy decide vender uma rara carta de beisebol que possui para pagar as despesas do casamento da filha. Infelizmente, a loja do colecionador é roubada por dois ladrõezinhos de quinta e o detetive fica sem sua carta. Sem outra escolha, Paul e Jimmy acabam voltando às ruas, à procura da carta e do cartel de drogas ligado ao seu roubo; tudo no seu ritmo e sem o menor apoio - exceto um do outro.</desc>
   </programme>
   <programme start="20261026093100 -0500" stop="20261026115600 -0500" channel="TNT_CO.co">
     <title lang="es">EL ÚLTIMO GRAN HÉROE</title>
+    <desc lang="es">"Un adolescente fanático de las películas de acción siente que toca el cielo con las manos cuando consigue un ""ticket mágico"" que le permite literalmente entrar dentro de la nueva película de su héroe favorito, Jack Slater (Arnold Schwarzenegger) y compartir sus excitantes aventuras. Sin embargo, cuando los villanos descubren el famoso pase, Jack se verá forzado a salir también de la pantalla para atrapar a los malos y, en el proceso, aprender algo acerca de lo que es ser un héroe sin ficción mediante."</desc>
   </programme>
   <programme start="20261026095300 -0500" stop="20261026121200 -0500" channel="TNT_PAN.co">
     <title lang="es">EL ÚLTIMO GRAN HÉROE</title>
+    <desc lang="es">"Un adolescente fanático de las películas de acción siente que toca el cielo con las manos cuando consigue un ""ticket mágico"" que le permite literalmente entrar dentro de la nueva película de su héroe favorito, Jack Slater (Arnold Schwarzenegger) y compartir sus excitantes aventuras. Sin embargo, cuando los villanos descubren el famoso pase, Jack se verá forzado a salir también de la pantalla para atrapar a los malos y, en el proceso, aprender algo acerca de lo que es ser un héroe sin ficción mediante."</desc>
   </programme>
   <programme start="20261026095700 -0400" stop="20261026122700 -0400" channel="TNT_CL.cl">
     <title lang="es">EL FUGITIVO</title>
@@ -3765,6 +3248,7 @@ Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consag
   </programme>
   <programme start="20261026095800 -0600" stop="20261026121900 -0600" channel="TNT_MX.mx">
     <title lang="es">EL ÚLTIMO GRAN HÉROE</title>
+    <desc lang="es">"Un adolescente fanático de las películas de acción siente que toca el cielo con las manos cuando consigue un ""ticket mágico"" que le permite literalmente entrar dentro de la nueva película de su héroe favorito, Jack Slater (Arnold Schwarzenegger) y compartir sus excitantes aventuras. Sin embargo, cuando los villanos descubren el famoso pase, Jack se verá forzado a salir también de la pantalla para atrapar a los malos y, en el proceso, aprender algo acerca de lo que es ser un héroe sin ficción mediante."</desc>
   </programme>
   <programme start="20261026102600 -0300" stop="20261026125200 -0300" channel="TNT_AR.ar">
     <title lang="es">EL FUGITIVO</title>
@@ -3816,62 +3300,83 @@ Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consag
   </programme>
   <programme start="20261026122700 -0400" stop="20261026143200 -0400" channel="TNT_CL.cl">
     <title lang="es">DESCONOCIDO</title>
+    <desc lang="es">Nada te pertenece tanto como tu identidad. Un científico viaja a Berlín junto a su mujer para participar de una importante convención. Al salir del aeropuerto, sube a un taxi conducido por una joven inmigrante y sufre un violento accidente automovilístico que lo deja varios días en coma. Cuando despierta, advierte que un impostor lo ha remplazado: ni siquiera su mujer parece reconocerlo. Lleno de dudas sobre su identidad, y con lagunas en su memoria a raíz del accidente, busca a la joven conductora del taxi para intentar obtener más información. Hasta que nota que está en peligro y que hay asesinos que vienen por él. Ahora no sólo deberá salvar su vida y recuperar su identidad. También tendrá que descubrir cómo era, exactamente, esa vida que está intentando recuperar.</desc>
   </programme>
   <programme start="20261026124500 -0300" stop="20261026130700 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.17.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/9IOSybeaoTpHPuzDYLw4UvfMMy8.jpg" />
   </programme>
   <programme start="20261026125200 -0300" stop="20261026145400 -0300" channel="TNT_AR.ar">
     <title lang="es">DESCONOCIDO</title>
+    <desc lang="es">Nada te pertenece tanto como tu identidad. Un científico viaja a Berlín junto a su mujer para participar de una importante convención. Al salir del aeropuerto, sube a un taxi conducido por una joven inmigrante y sufre un violento accidente automovilístico que lo deja varios días en coma. Cuando despierta, advierte que un impostor lo ha remplazado: ni siquiera su mujer parece reconocerlo. Lleno de dudas sobre su identidad, y con lagunas en su memoria a raíz del accidente, busca a la joven conductora del taxi para intentar obtener más información. Hasta que nota que está en peligro y que hay asesinos que vienen por él. Ahora no sólo deberá salvar su vida y recuperar su identidad. También tendrá que descubrir cómo era, exactamente, esa vida que está intentando recuperar.</desc>
   </programme>
   <programme start="20261026130700 -0300" stop="20261026132900 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.18.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/epZiJugxJeE4HwZ8B94KFVTI4tR.jpg" />
   </programme>
   <programme start="20261026132900 -0300" stop="20261026135000 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.19.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/hT2NltnLskCoXe0tM5hvu4ajsin.jpg" />
   </programme>
   <programme start="20261026135000 -0300" stop="20261026141000 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.20.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/3eK2PUkJRqxGis7ieMAeKS7MRfa.jpg" />
   </programme>
   <programme start="20261026141000 -0300" stop="20261026143200 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.21.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/vC7xVrSRshNq3AqYUe3bSqPxeTW.jpg" />
   </programme>
   <programme start="20261026142100 -0500" stop="20261026162500 -0500" channel="TNT_CO.co">
     <title lang="es">DESCONOCIDO</title>
+    <desc lang="es">Nada te pertenece tanto como tu identidad. Un científico viaja a Berlín junto a su mujer para participar de una importante convención. Al salir del aeropuerto, sube a un taxi conducido por una joven inmigrante y sufre un violento accidente automovilístico que lo deja varios días en coma. Cuando despierta, advierte que un impostor lo ha remplazado: ni siquiera su mujer parece reconocerlo. Lleno de dudas sobre su identidad, y con lagunas en su memoria a raíz del accidente, busca a la joven conductora del taxi para intentar obtener más información. Hasta que nota que está en peligro y que hay asesinos que vienen por él. Ahora no sólo deberá salvar su vida y recuperar su identidad. También tendrá que descubrir cómo era, exactamente, esa vida que está intentando recuperar.</desc>
   </programme>
   <programme start="20261026143200 -0300" stop="20261026172000 -0300" channel="TNT_BR.br">
     <title lang="pt">Duna: Parte Dois</title>
     <sub-title lang="pt">Dune: Part Two</sub-title>
+    <desc lang="pt">Denis Villeneuve dirige um elenco estelar liderado por Timothée Chalamet, Zendaya, Rebecca Ferguson e Javier Bardem e embarca na adaptação do próximo capítulo do célebre romance de ficção científica de Frank Herbert, que explora a jornada mítica de Paul Atreides. Ao se juntar a Chani e aos Fremen em uma guerra de vingança contra os conspiradores que destruíram sua família, Paul enfrenta uma terrível escolha entre o amor de sua vida e o destino do universo.</desc>
   </programme>
-  <programme start="20261026143200 -0400" stop="20261026173700 -0400" channel="TNT_CL.cl" />
+  <programme start="20261026143200 -0400" stop="20261026173700 -0400" channel="TNT_CL.cl">
+    <desc lang="es">Denis Villeneuve dirige a un elenco estelar liderado por Timothée Chalamet, Zendaya, Rebecca Ferguson y Javier Bardem y se embarca en la adaptación del siguiente capítulo de la célebre novela de ciencia ficción de Frank Herbert que explora el mítico viaje de Paul Atreides. Mientras se une a Chani y a los Fremen en un camino de venganza contra los conspiradores que destruyeron a su familia, Paul se enfrenta a una terrible elección entre el amor de su vida y el destino del universo.</desc>
+  </programme>
   <programme start="20261026144200 -0500" stop="20261026164500 -0500" channel="TNT_PAN.co">
     <title lang="es">DESCONOCIDO</title>
+    <desc lang="es">Nada te pertenece tanto como tu identidad. Un científico viaja a Berlín junto a su mujer para participar de una importante convención. Al salir del aeropuerto, sube a un taxi conducido por una joven inmigrante y sufre un violento accidente automovilístico que lo deja varios días en coma. Cuando despierta, advierte que un impostor lo ha remplazado: ni siquiera su mujer parece reconocerlo. Lleno de dudas sobre su identidad, y con lagunas en su memoria a raíz del accidente, busca a la joven conductora del taxi para intentar obtener más información. Hasta que nota que está en peligro y que hay asesinos que vienen por él. Ahora no sólo deberá salvar su vida y recuperar su identidad. También tendrá que descubrir cómo era, exactamente, esa vida que está intentando recuperar.</desc>
   </programme>
   <programme start="20261026144300 -0600" stop="20261026164400 -0600" channel="TNT_MX.mx">
     <title lang="es">DESCONOCIDO</title>
+    <desc lang="es">Nada te pertenece tanto como tu identidad. Un científico viaja a Berlín junto a su mujer para participar de una importante convención. Al salir del aeropuerto, sube a un taxi conducido por una joven inmigrante y sufre un violento accidente automovilístico que lo deja varios días en coma. Cuando despierta, advierte que un impostor lo ha remplazado: ni siquiera su mujer parece reconocerlo. Lleno de dudas sobre su identidad, y con lagunas en su memoria a raíz del accidente, busca a la joven conductora del taxi para intentar obtener más información. Hasta que nota que está en peligro y que hay asesinos que vienen por él. Ahora no sólo deberá salvar su vida y recuperar su identidad. También tendrá que descubrir cómo era, exactamente, esa vida que está intentando recuperar.</desc>
   </programme>
-  <programme start="20261026145400 -0300" stop="20261026175500 -0300" channel="TNT_AR.ar" />
-  <programme start="20261026162500 -0500" stop="20261026193800 -0500" channel="TNT_CO.co" />
-  <programme start="20261026164400 -0600" stop="20261026194500 -0600" channel="TNT_MX.mx" />
-  <programme start="20261026164500 -0500" stop="20261026194500 -0500" channel="TNT_PAN.co" />
+  <programme start="20261026145400 -0300" stop="20261026175500 -0300" channel="TNT_AR.ar">
+    <desc lang="es">Denis Villeneuve dirige a un elenco estelar liderado por Timothée Chalamet, Zendaya, Rebecca Ferguson y Javier Bardem y se embarca en la adaptación del siguiente capítulo de la célebre novela de ciencia ficción de Frank Herbert que explora el mítico viaje de Paul Atreides. Mientras se une a Chani y a los Fremen en un camino de venganza contra los conspiradores que destruyeron a su familia, Paul se enfrenta a una terrible elección entre el amor de su vida y el destino del universo.</desc>
+  </programme>
+  <programme start="20261026162500 -0500" stop="20261026193800 -0500" channel="TNT_CO.co">
+    <desc lang="es">Denis Villeneuve dirige a un elenco estelar liderado por Timothée Chalamet, Zendaya, Rebecca Ferguson y Javier Bardem y se embarca en la adaptación del siguiente capítulo de la célebre novela de ciencia ficción de Frank Herbert que explora el mítico viaje de Paul Atreides. Mientras se une a Chani y a los Fremen en un camino de venganza contra los conspiradores que destruyeron a su familia, Paul se enfrenta a una terrible elección entre el amor de su vida y el destino del universo.</desc>
+  </programme>
+  <programme start="20261026164400 -0600" stop="20261026194500 -0600" channel="TNT_MX.mx">
+    <desc lang="es">Denis Villeneuve dirige a un elenco estelar liderado por Timothée Chalamet, Zendaya, Rebecca Ferguson y Javier Bardem y se embarca en la adaptación del siguiente capítulo de la célebre novela de ciencia ficción de Frank Herbert que explora el mítico viaje de Paul Atreides. Mientras se une a Chani y a los Fremen en un camino de venganza contra los conspiradores que destruyeron a su familia, Paul se enfrenta a una terrible elección entre el amor de su vida y el destino del universo.</desc>
+  </programme>
+  <programme start="20261026164500 -0500" stop="20261026194500 -0500" channel="TNT_PAN.co">
+    <desc lang="es">Denis Villeneuve dirige a un elenco estelar liderado por Timothée Chalamet, Zendaya, Rebecca Ferguson y Javier Bardem y se embarca en la adaptación del siguiente capítulo de la célebre novela de ciencia ficción de Frank Herbert que explora el mítico viaje de Paul Atreides. Mientras se une a Chani y a los Fremen en un camino de venganza contra los conspiradores que destruyeron a su familia, Paul se enfrenta a una terrible elección entre el amor de su vida y el destino del universo.</desc>
+  </programme>
   <programme start="20261026172000 -0300" stop="20261026192000 -0300" channel="TNT_BR.br">
     <title lang="pt">DESCONHECIDO</title>
     <sub-title lang="pt">Unknown</sub-title>
-    <icon src="https://media.themoviedb.org/t/p/w500/XWRUWw2MfSjcIJxSJGVRZAZvwi.jpg" />
+    <desc lang="pt">Um cientista vai a Berlim com a mulher para participar de uma convenção. Ao sair do aeroporto, ele pega um táxi dirigido por uma jovem imigrante e sofre um acidente que o deixa vários dias em coma. Quando acorda, descobre que foi substituído por um impostor e nem sua mulher parece reconhecê-lo. Cheio de dúvidas sobre a sua identidade, e com lacunas de memória, ele procura a motorista para obter mais informações. Mas percebe que há assassinos atrás dele. Agora, além de salvar a vida, ele tem que descobrir como era, exatamente, a identidade que está tentando recuperar.</desc>
   </programme>
   <programme start="20261026173700 -0400" stop="20261026200000 -0400" channel="TNT_CL.cl">
     <title lang="es">EL HOMBRE ARAÑA</title>
@@ -3887,6 +3392,7 @@ Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consag
   <programme start="20261026192000 -0300" stop="20261026211100 -0300" channel="TNT_BR.br">
     <title lang="pt">O ATIRADOR FANTASMA</title>
     <sub-title lang="pt">SNIPER: GHOST SHOOTER</sub-title>
+    <desc lang="pt">Brandon Beckett e Richard Mileer são dois jovens atiradores de elite que estão combatendo extremistas no Oriente Médio. Eles então recebem de seu superior a ordem de garantir a segurança de um gasoduto que se estende da República da Geórgia até a Europa Ocidental das mãos de tenebrosos terroristas árabes que pretendem fazer um perigoso ataque. Durante a guerra, um dos atiradores acaba sendo morto pelas mãos de um terrorista islâmico fantasma, que sabe exatamente onde a dupla está localizada. Com a fatalidade, as tensões aumentam já que o sobrevivente passa a desconfiar de que há infiltrados na missão. Assim, ele precisa correr contra o tempo para impedir uma catástrofe e descobrir quem violou a segurança.</desc>
   </programme>
   <programme start="20261026193800 -0500" stop="20261026220000 -0500" channel="TNT_CO.co">
     <title lang="es">EL HOMBRE ARAÑA</title>
@@ -3902,55 +3408,67 @@ Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consag
   </programme>
   <programme start="20261026200000 -0400" stop="20261026220000 -0400" channel="TNT_CL.cl">
     <title lang="es">MASTERCHEF CHILE</title>
+    <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
     <episode-num system="xmltv_ns">4.15.</episode-num>
   </programme>
   <programme start="20261026203100 -0300" stop="20261026220300 -0300" channel="TNT_AR.ar">
     <title lang="es">MASTERCHEF CELEBRITY ARGENTINA</title>
+    <desc lang="es">¡Se encienden las hornallas! Bajo la conducción de Wanda Nara, llega la nueva temporada de esta intensa competencia de sabores, donde distintas celebridades despliegan su talento culinario ante un exigente jurado de chefs. Damián Betular, Maru Botana y Germán Martitegui serán los encargados de evaluar cada plato y definir quiénes tienen lo necesario para seguir en competencia y quienes deberán que entregar su delantal.</desc>
     <episode-num system="xmltv_ns">-1.17.</episode-num>
   </programme>
   <programme start="20261026211100 -0300" stop="20261026233000 -0300" channel="TNT_BR.br">
     <title lang="pt">DIA DE TREINAMENTO</title>
     <sub-title lang="pt">Training Day</sub-title>
+    <desc lang="pt">Denzel Washington é Alonzo Harris, um oficial veterano do departamento de narcóticos encarregado de treinar Jake Hoyt, um agente novato da polícia de Los Angeles, interpretado por Ethan Hawke. Harris concordou em dar uma chance a Hoyt em sua equipe com um treinamento de um dia, durante o qual Hoyt deverá provar seus méritos. Conforme o dia passa, no entanto, se torna cada vez mais claro para o novato que seu experiente mentor atravessou a linha entre o certo e o errado de forma alarmante, ameaçando seus próprios códigos de moral e justiça.</desc>
   </programme>
-  <programme start="20261026220000 -0400" stop="20261026223000 -0400" channel="TNT_CL.cl">
+  <programme start="20261026220000 -0400" stop="20261027002800 -0400" channel="TNT_CL.cl">
     <title lang="es">DÍA DE ENTRENAMIENTO</title>
     <sub-title lang="es">TRAINING DAY</sub-title>
+    <desc lang="es">Denzel Washington es Alonzo Harris, un oficial veterano del departamento de narcóticos encargado de entrenar a Jake Hoyt, un agente novato de la Policía de Los Ángeles, interpretado por Ethan Hawke. Harris estuvo de acuerdo en darle una oportunidad a Hoyt en su equipo con un entrenamiento de un día, durante el cual Hoyt deberá probar sus méritos. Sin embargo, a medida que pasa el día, se hace cada vez más claro para el novato que su experimentado mentor cruzó la línea entre lo correcto y lo equivocado de manera alarmante, amenazando sus propios códigos de moral y justicia.</desc>
   </programme>
   <programme start="20261026220000 -0500" stop="20261026235100 -0500" channel="TNT_CO.co">
     <title lang="es">EL PASEO</title>
     <sub-title lang="es">THE TRIP</sub-title>
+    <desc lang="es">Después de 11 años de trabajo continuo, Alex Peinado decide pasar unas vacaciones inolvidables junto a su familia. Así que emprende un viaje en carro rumbo a Cartagena, junto a su esposa, sus dos hijos adolescentes, su perro Káiser y hasta su insufrible suegra. Pero el viaje no es su única motivación,  Alex oculta un plan que le exige llegar a su destino puntualmente. Sin embargo el recorrido se convertirá en la más increíble aventura que, aunque pondrá en riesgo su llegada a la Costa, le dará a su familia la más extraordinaria lección de vida.</desc>
   </programme>
-  <programme start="20261026220000 -0500" stop="20261026223000 -0500" channel="TNT_PAN.co">
+  <programme start="20261026220000 -0500" stop="20261027001100 -0500" channel="TNT_PAN.co">
     <title lang="es">DÍA DE ENTRENAMIENTO</title>
     <sub-title lang="es">TRAINING DAY</sub-title>
+    <desc lang="es">Denzel Washington es Alonzo Harris, un oficial veterano del departamento de narcóticos encargado de entrenar a Jake Hoyt, un agente novato de la Policía de Los Ángeles, interpretado por Ethan Hawke. Harris estuvo de acuerdo en darle una oportunidad a Hoyt en su equipo con un entrenamiento de un día, durante el cual Hoyt deberá probar sus méritos. Sin embargo, a medida que pasa el día, se hace cada vez más claro para el novato que su experimentado mentor cruzó la línea entre lo correcto y lo equivocado de manera alarmante, amenazando sus propios códigos de moral y justicia.</desc>
   </programme>
-  <programme start="20261026220000 -0600" stop="20261026223000 -0600" channel="TNT_MX.mx">
+  <programme start="20261026220000 -0600" stop="20261027001400 -0600" channel="TNT_MX.mx">
     <title lang="es">DÍA DE ENTRENAMIENTO</title>
     <sub-title lang="es">TRAINING DAY</sub-title>
+    <desc lang="es">Denzel Washington es Alonzo Harris, un oficial veterano del departamento de narcóticos encargado de entrenar a Jake Hoyt, un agente novato de la Policía de Los Ángeles, interpretado por Ethan Hawke. Harris estuvo de acuerdo en darle una oportunidad a Hoyt en su equipo con un entrenamiento de un día, durante el cual Hoyt deberá probar sus méritos. Sin embargo, a medida que pasa el día, se hace cada vez más claro para el novato que su experimentado mentor cruzó la línea entre lo correcto y lo equivocado de manera alarmante, amenazando sus propios códigos de moral y justicia.</desc>
   </programme>
   <programme start="20261026220300 -0300" stop="20261026235700 -0300" channel="TNT_AR.ar">
     <title lang="es">LOS PARANOICOS</title>
     <sub-title lang="es">THE PARANOIDS</sub-title>
+    <desc lang="es">"Los paranoicos" cuenta la historia de Gauna, un joven que escribe pero nunca tuvo el coraje de enseñar su obra. Un hombre que en la intimidad expone una personalidad que parece censurar en su escasa vida social. La aparición de un viejo amigo, Manuel, que llega desde España embriagado por el suceso de una serie televisiva cuyo protagonista tiene un nombre que remite a él, provoca el enfrentamiento de Gauna con aquello que desea -aunque sea la novia de su amigo- y la reafirmación de sus principios.</desc>
   </programme>
   <programme start="20261026233000 -0300" stop="20261026235400 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.17.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/9IOSybeaoTpHPuzDYLw4UvfMMy8.jpg" />
   </programme>
-  <programme start="20261026235100 -0500" stop="20261027002100 -0500" channel="TNT_CO.co">
+  <programme start="20261026235100 -0500" stop="20261027013900 -0500" channel="TNT_CO.co">
     <title lang="es">SNIPER: FUEGO OCULTO</title>
     <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
+    <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
   </programme>
-  <programme start="20261026235400 -0300" stop="20261027002400 -0300" channel="TNT_BR.br">
+  <programme start="20261026235400 -0300" stop="20261027001900 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <episode-num system="xmltv_ns">0.18.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/epZiJugxJeE4HwZ8B94KFVTI4tR.jpg" />
   </programme>
-  <programme start="20261026235700 -0300" stop="20261027002700 -0300" channel="TNT_AR.ar">
+  <programme start="20261026235700 -0300" stop="20261027014600 -0300" channel="TNT_AR.ar">
     <title lang="es">SNIPER: FUEGO OCULTO</title>
     <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
+    <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
   </programme>
   <programme start="20261027000000 -0300" stop="20261027023000 -0300" channel="TNT_AR.ar">
     <episode-num system="xmltv_ns">66.5.</episode-num>
@@ -3962,11 +3480,33 @@ Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consag
     <title lang="es">TODO EN TODAS PARTES AL MISMO TIEMPO</title>
     <sub-title lang="es">EVERYTHING EVERYWHERE ALL AT ONCE</sub-title>
   </programme>
+  <programme start="20261027001100 -0500" stop="20261027015500 -0500" channel="TNT_PAN.co">
+    <title lang="es">SNIPER: FUEGO OCULTO</title>
+    <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
+    <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
+  </programme>
+  <programme start="20261027001400 -0600" stop="20261027020200 -0600" channel="TNT_MX.mx">
+    <title lang="es">SNIPER: FUEGO OCULTO</title>
+    <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
+    <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
+  </programme>
   <programme start="20261027001600 -0300" stop="20261027003900 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
+  </programme>
+  <programme start="20261027001900 -0300" stop="20261027004200 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/hT2NltnLskCoXe0tM5hvu4ajsin.jpg" />
+  </programme>
+  <programme start="20261027002800 -0400" stop="20261027021900 -0400" channel="TNT_CL.cl">
+    <title lang="es">SNIPER: FUEGO OCULTO</title>
+    <sub-title lang="es">SNIPER: GHOST SHOOTER</sub-title>
+    <desc lang="es">El Coronel les ordena a los francotiradores de elite Brandon Beckett y Richard Miller proteger un oleoducto georgiano de terroristas árabes. Luego de la muerte de varios francotiradores en manos del terrorista islámico Racshan Gazakov, quien sabe exactamente dónde se esconden en todo momento, las tensiones suben y se teme que haya habido una fuga de información.</desc>
   </programme>
   <programme start="20261027003000 -0500" stop="20261027022000 -0500" channel="TNT_CO.co">
     <title lang="es">Titanes del Pacífico: La Insurrección</title>
@@ -3978,11 +3518,25 @@ Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consag
     <episode-num system="xmltv_ns">1.3.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
   </programme>
+  <programme start="20261027004200 -0300" stop="20261027010500 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/3eK2PUkJRqxGis7ieMAeKS7MRfa.jpg" />
+  </programme>
   <programme start="20261027010300 -0300" stop="20261027012600 -0300" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
     <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/jJh6ANYMM33QIpCIan5qjA6J7Fh.jpg" />
+  </programme>
+  <programme start="20261027010500 -0300" stop="20261027012700 -0300" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/vC7xVrSRshNq3AqYUe3bSqPxeTW.jpg" />
   </programme>
   <programme start="20261027012600 -0300" stop="20261027015100 -0300" channel="TNT_BR.br">
     <title lang="pt">UM MALUCO NO PEDAÇO</title>
@@ -3991,6 +3545,21 @@ Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consag
     <episode-num system="xmltv_ns">4.20.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/b3YdN7an7SjhE6WtVf7gDtcsSvt.jpg" />
   </programme>
+  <programme start="20261027012700 -0300" stop="20261027015200 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">WILL IS FROM MARS</sub-title>
+    <desc lang="pt">Will e Lisa recebem aconselhamento dos Jefferson.</desc>
+    <episode-num system="xmltv_ns">4.16.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/wzxHy7IfVb1At176xVIlFkcSHHq.jpg" />
+  </programme>
+  <programme start="20261027013900 -0500" stop="20261027034700 -0500" channel="TNT_CO.co">
+    <title lang="es">EL ÚLTIMO GRAN HÉROE</title>
+    <desc lang="es">"Un adolescente fanático de las películas de acción siente que toca el cielo con las manos cuando consigue un ""ticket mágico"" que le permite literalmente entrar dentro de la nueva película de su héroe favorito, Jack Slater (Arnold Schwarzenegger) y compartir sus excitantes aventuras. Sin embargo, cuando los villanos descubren el famoso pase, Jack se verá forzado a salir también de la pantalla para atrapar a los malos y, en el proceso, aprender algo acerca de lo que es ser un héroe sin ficción mediante."</desc>
+  </programme>
+  <programme start="20261027014600 -0300" stop="20261027035500 -0300" channel="TNT_AR.ar">
+    <title lang="es">EL ÚLTIMO GRAN HÉROE</title>
+    <desc lang="es">"Un adolescente fanático de las películas de acción siente que toca el cielo con las manos cuando consigue un ""ticket mágico"" que le permite literalmente entrar dentro de la nueva película de su héroe favorito, Jack Slater (Arnold Schwarzenegger) y compartir sus excitantes aventuras. Sin embargo, cuando los villanos descubren el famoso pase, Jack se verá forzado a salir también de la pantalla para atrapar a los malos y, en el proceso, aprender algo acerca de lo que es ser un héroe sin ficción mediante."</desc>
+  </programme>
   <programme start="20261027015100 -0300" stop="20261027021200 -0300" channel="TNT_BR.br">
     <title lang="pt">UM MALUCO NO PEDAÇO</title>
     <sub-title lang="pt">TO THINE OWN SELF BE BLUE...AND GOLD</sub-title>
@@ -3998,12 +3567,38 @@ Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consag
     <episode-num system="xmltv_ns">4.21.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/97m2w0fqMJzSZkrqOMLUR5P3U9c.jpg" />
   </programme>
+  <programme start="20261027015200 -0300" stop="20261027021500 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">THE WEDDING SHOW (PSYCHE!)</sub-title>
+    <desc lang="pt">Conforme o casamento de Will e Lisa se aproxima, eles se irritam com os planos de seus pais e fogem para casar em Las Vegas. Isaac Hayes participa como o pastor cantor.</desc>
+    <episode-num system="xmltv_ns">4.17.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/baKpIF2Dbb3rU8cygV4RyIxGATm.jpg" />
+  </programme>
+  <programme start="20261027015500 -0500" stop="20261027040500 -0500" channel="TNT_PAN.co">
+    <title lang="es">EL ÚLTIMO GRAN HÉROE</title>
+    <desc lang="es">"Un adolescente fanático de las películas de acción siente que toca el cielo con las manos cuando consigue un ""ticket mágico"" que le permite literalmente entrar dentro de la nueva película de su héroe favorito, Jack Slater (Arnold Schwarzenegger) y compartir sus excitantes aventuras. Sin embargo, cuando los villanos descubren el famoso pase, Jack se verá forzado a salir también de la pantalla para atrapar a los malos y, en el proceso, aprender algo acerca de lo que es ser un héroe sin ficción mediante."</desc>
+  </programme>
+  <programme start="20261027020200 -0600" stop="20261027041100 -0600" channel="TNT_MX.mx">
+    <title lang="es">EL ÚLTIMO GRAN HÉROE</title>
+    <desc lang="es">"Un adolescente fanático de las películas de acción siente que toca el cielo con las manos cuando consigue un ""ticket mágico"" que le permite literalmente entrar dentro de la nueva película de su héroe favorito, Jack Slater (Arnold Schwarzenegger) y compartir sus excitantes aventuras. Sin embargo, cuando los villanos descubren el famoso pase, Jack se verá forzado a salir también de la pantalla para atrapar a los malos y, en el proceso, aprender algo acerca de lo que es ser un héroe sin ficción mediante."</desc>
+  </programme>
   <programme start="20261027021200 -0300" stop="20261027023500 -0300" channel="TNT_BR.br">
     <title lang="pt">UM MALUCO NO PEDAÇO</title>
     <sub-title lang="pt">COLD FEET, HOT BODY</sub-title>
     <desc lang="pt">Will é perseguido por uma linda mulher ¿ que é amiga de Lisa. Ashley fica preocupada porque seu namorado é muito tapado.</desc>
     <episode-num system="xmltv_ns">4.22.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/1IHARIa9jTEt4CgF0kHCNT5Aqsw.jpg" />
+  </programme>
+  <programme start="20261027021500 -0300" stop="20261027023600 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">SLUM LIKE IT... NOT!</sub-title>
+    <desc lang="pt">Tio Phil aceita a sugestão de Will e compra um edifício residencial, mas ele logo percebe que se tornou o senhorio de uma favela.</desc>
+    <episode-num system="xmltv_ns">4.18.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/nRb4chpAO3yuS8xigh9P0clVkux.jpg" />
+  </programme>
+  <programme start="20261027021900 -0400" stop="20261027043200 -0400" channel="TNT_CL.cl">
+    <title lang="es">EL ÚLTIMO GRAN HÉROE</title>
+    <desc lang="es">"Un adolescente fanático de las películas de acción siente que toca el cielo con las manos cuando consigue un ""ticket mágico"" que le permite literalmente entrar dentro de la nueva película de su héroe favorito, Jack Slater (Arnold Schwarzenegger) y compartir sus excitantes aventuras. Sin embargo, cuando los villanos descubren el famoso pase, Jack se verá forzado a salir también de la pantalla para atrapar a los malos y, en el proceso, aprender algo acerca de lo que es ser un héroe sin ficción mediante."</desc>
   </programme>
   <programme start="20261027022000 -0500" stop="20261027041000 -0500" channel="TNT_CO.co" />
   <programme start="20261027022000 -0600" stop="20261027041100 -0600" channel="TNT_MX.mx" />
@@ -4019,18 +3614,46 @@ Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consag
     <episode-num system="xmltv_ns">4.23.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/1sjyw0yMcfGJYwhAs1dG3lCJ7hz.jpg" />
   </programme>
+  <programme start="20261027023600 -0300" stop="20261027025800 -0300" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">AS THE WILL TURNS</sub-title>
+    <desc lang="pt">Will está animado para atuar em uma novela ¿ até que descobre que interpretará um homossexual. Philip acha que está sendo traído por Vivian.</desc>
+    <episode-num system="xmltv_ns">4.19.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/5R9gbyYVG6pNYYuz5LoUzgsXqOJ.jpg" />
+  </programme>
   <programme start="20261027023700 -0500" stop="20261027043100 -0500" channel="TNT_PAN.co" />
   <programme start="20261027025700 -0300" stop="20261027065200 -0300" channel="TNT_BR.br">
     <title lang="pt">Tudo em Todo o Lugar ao Mesmo Tempo</title>
     <sub-title lang="pt">Everything Everywhere All at Once</sub-title>
   </programme>
+  <programme start="20261027025800 -0300" stop="20261027045500 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOMEM-ARANHA</title>
+    <sub-title lang="pt">Spider-Man</sub-title>
+    <desc lang="pt">Peter Parker (Tobby Maguire) é um estudante que passa a ter poderes sobrenaturais e habilidades de aracnídeo depois de ter sido mordido por uma aranha modificada geneticamente. No começo usa seus poderes para ganhar dinheiro, mas depois de uma tragédia familiar decide dedicar sua vida ao combate ao crime. Desse modo, enfrentará o Duende Verde (Willem Dafoe), o vilão que fará que o jovem Parker faça do combate ao crime e da ajuda às pessoas inocentes sua única razão de ser.</desc>
+  </programme>
+  <programme start="20261027034700 -0500" stop="20261027052900 -0500" channel="TNT_CO.co">
+    <title lang="es">EN BRAZOS DE UN ASESINO</title>
+    <sub-title lang="es">KILLING SARAI</sub-title>
+    <desc lang="es">Un asesino implacable se convierte en responsable del destino de una mujer desesperada por escapar de las redes de un narcotraficante que la ha tenido atrapada 9 años.</desc>
+  </programme>
+  <programme start="20261027035500 -0300" stop="20261027053700 -0300" channel="TNT_AR.ar">
+    <title lang="es">EN BRAZOS DE UN ASESINO</title>
+    <sub-title lang="es">KILLING SARAI</sub-title>
+    <desc lang="es">Un asesino implacable se convierte en responsable del destino de una mujer desesperada por escapar de las redes de un narcotraficante que la ha tenido atrapada 9 años.</desc>
+  </programme>
+  <programme start="20261027040500 -0500" stop="20261027054900 -0500" channel="TNT_PAN.co">
+    <title lang="es">EN BRAZOS DE UN ASESINO</title>
+    <sub-title lang="es">KILLING SARAI</sub-title>
+    <desc lang="es">Un asesino implacable se convierte en responsable del destino de una mujer desesperada por escapar de las redes de un narcotraficante que la ha tenido atrapada 9 años.</desc>
+  </programme>
   <programme start="20261027041000 -0500" stop="20261027060000 -0500" channel="TNT_CO.co">
     <title lang="es">LA CHICA DEL CASILLERO</title>
     <sub-title lang="es">COIN LOCKER GIRL</sub-title>
   </programme>
-  <programme start="20261027041100 -0600" stop="20261027060000 -0600" channel="TNT_MX.mx">
-    <title lang="es">LA CHICA DEL CASILLERO</title>
-    <sub-title lang="es">COIN LOCKER GIRL</sub-title>
+  <programme start="20261027041100 -0600" stop="20261027055300 -0600" channel="TNT_MX.mx">
+    <title lang="es">EN BRAZOS DE UN ASESINO</title>
+    <sub-title lang="es">KILLING SARAI</sub-title>
+    <desc lang="es">Un asesino implacable se convierte en responsable del destino de una mujer desesperada por escapar de las redes de un narcotraficante que la ha tenido atrapada 9 años.</desc>
   </programme>
   <programme start="20261027041500 -0300" stop="20261027060000 -0300" channel="TNT_AR.ar" />
   <programme start="20261027042100 -0400" stop="20261027060000 -0400" channel="TNT_CL.cl">
@@ -4040,6 +3663,82 @@ Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consag
   <programme start="20261027043100 -0500" stop="20261027060000 -0500" channel="TNT_PAN.co">
     <title lang="es">LA CHICA DEL CASILLERO</title>
     <sub-title lang="es">COIN LOCKER GIRL</sub-title>
+  </programme>
+  <programme start="20261027043200 -0400" stop="20261027050900 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.16.</episode-num>
+  </programme>
+  <programme start="20261027045500 -0300" stop="20261027052900 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.12.</episode-num>
+  </programme>
+  <programme start="20261027050900 -0400" stop="20261027054400 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <episode-num system="xmltv_ns">-1.9.</episode-num>
+  </programme>
+  <programme start="20261027052900 -0300" stop="20261027054400 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.36.</episode-num>
+  </programme>
+  <programme start="20261027052900 -0500" stop="20261027053900 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.34.</episode-num>
+  </programme>
+  <programme start="20261027053700 -0300" stop="20261027054900 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.42.</episode-num>
+  </programme>
+  <programme start="20261027053900 -0500" stop="20261027054800 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.35.</episode-num>
+  </programme>
+  <programme start="20261027054400 -0300" stop="20261027060000 -0300" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.39.</episode-num>
+  </programme>
+  <programme start="20261027054400 -0400" stop="20261027055700 -0400" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.48.</episode-num>
+  </programme>
+  <programme start="20261027054800 -0500" stop="20261027060000 -0500" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.37.</episode-num>
+  </programme>
+  <programme start="20261027054900 -0300" stop="20261027060000 -0300" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.44.</episode-num>
+  </programme>
+  <programme start="20261027054900 -0500" stop="20261027060000 -0500" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <episode-num system="xmltv_ns">-1.47.</episode-num>
+  </programme>
+  <programme start="20261027055300 -0600" stop="20261027055600 -0600" channel="TNT_MX.mx">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.86.</episode-num>
+  </programme>
+  <programme start="20261027055600 -0600" stop="20261027055700 -0600" channel="TNT_MX.mx">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.87.</episode-num>
+  </programme>
+  <programme start="20261027055700 -0400" stop="20261027060000 -0400" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.89.</episode-num>
+  </programme>
+  <programme start="20261027055700 -0600" stop="20261027060000 -0600" channel="TNT_MX.mx">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.85.</episode-num>
   </programme>
   <programme start="20261027060000 -0300" stop="20261027071500 -0300" channel="TNT_AR.ar">
     <title lang="es">MISFITS</title>

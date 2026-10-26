@@ -2976,6 +2976,15 @@
     <episode-num system="xmltv_ns">0.43.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/9Tvatm14FAPPwgtmAgfYZE0OrnO.jpg" />
   </programme>
+  <programme start="20261026034800 -0300" stop="20261026040000 -0300" channel="CNLA_BR.br">
+    <title lang="pt">STEVEN UNIVERSO</title>
+    <sub-title lang="pt">REGENERADA</sub-title>
+    <sub-title lang="en">REFORMED</sub-title>
+    <desc lang="pt">Steven, Ametista e Garnet saem à caça de um monstro que está apavorando o Templo.</desc>
+    <date>2014</date>
+    <episode-num system="xmltv_ns">1.56.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/nJ9W4cfU7wmhdWji4knPUd2ALaR.jpg" />
+  </programme>
   <programme start="20261026034900 -0500" stop="20261026040000 -0500" channel="CNLA_PAN.co">
     <title lang="es">STEVEN UNIVERSE</title>
     <sub-title lang="es">EL ATAQUE DE LAS CANICAS</sub-title>
@@ -3174,7 +3183,6 @@
     <desc lang="pt">Os Bebês Urso participam de um torneio mexicano de luta.</desc>
     <date>2018</date>
     <episode-num system="xmltv_ns">3.118.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/yWoh819qsM5zJtf5ngnIKCLxHBw.jpg" />
   </programme>
   <programme start="20261026060000 -0500" stop="20261026061100 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
@@ -3219,7 +3227,7 @@
     <desc lang="es">El deseo de Gumball y Darwin se hace realidad cuando de repente se convierten en hombres.</desc>
     <date>2011</date>
     <episode-num system="xmltv_ns">0.10.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w227_and_h127_face/bPYEVojv8LxHWccta8EYjBKkOs2.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/i09CGpnjROMAdSyJ0U9joCTuU3T.jpg" />
   </programme>
   <programme start="20261026063500 -0300" stop="20261026064700 -0300" channel="CNLA_BR.br">
     <title lang="pt">URSOS SEM CURSO</title>
@@ -3228,7 +3236,6 @@
     <desc lang="pt">Os ursos participam de um teste para serem os próximos mascotes do seu cereal favorito. Eles se envolvem tanto no processo que a competitividade começa a falar mais alto.</desc>
     <date>2016</date>
     <episode-num system="xmltv_ns">1.44.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/8wKNGFgf4Oh9hqGYAQO7JUdZ7Eb.jpg" />
   </programme>
   <programme start="20261026063700 -0500" stop="20261026065100 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
@@ -3261,7 +3268,6 @@
     <sub-title lang="pt">ATAQUE DOS PIOLHOS MUTANTES</sub-title>
     <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
     <episode-num system="xmltv_ns">0.109.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/tkoGsiIFHfE5iRJZ4oWhNxco7E5.jpg" />
   </programme>
   <programme start="20261026070200 -0500" stop="20261026071300 -0500" channel="CNLA_PAN.co">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
@@ -3276,7 +3282,6 @@
     <sub-title lang="pt">CANETA DE 250 CORES</sub-title>
     <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
     <episode-num system="xmltv_ns">0.113.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/tkoGsiIFHfE5iRJZ4oWhNxco7E5.jpg" />
   </programme>
   <programme start="20261026071300 -0500" stop="20261026072600 -0500" channel="CNLA_PAN.co">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
@@ -3291,7 +3296,6 @@
     <sub-title lang="pt">ROSTO DA EXPRESSIVIDADE MÁXIMA</sub-title>
     <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
     <episode-num system="xmltv_ns">0.108.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/tkoGsiIFHfE5iRJZ4oWhNxco7E5.jpg" />
   </programme>
   <programme start="20261026072600 -0500" stop="20261026073600 -0500" channel="CNLA_PAN.co">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
@@ -3307,7 +3311,6 @@
     <sub-title lang="pt">JORNADA MATINAL IMPLACÁVEL</sub-title>
     <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
     <episode-num system="xmltv_ns">0.111.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/tkoGsiIFHfE5iRJZ4oWhNxco7E5.jpg" />
   </programme>
   <programme start="20261026073600 -0500" stop="20261026075000 -0500" channel="CNLA_PAN.co">
     <title lang="es">Escandalositos</title>
@@ -3322,7 +3325,6 @@
     <sub-title lang="pt">ATERRORIZANTE VIDA ADULTA</sub-title>
     <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
     <episode-num system="xmltv_ns">0.112.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/tkoGsiIFHfE5iRJZ4oWhNxco7E5.jpg" />
   </programme>
   <programme start="20261026075000 -0500" stop="20261026080100 -0500" channel="CNLA_PAN.co">
     <title lang="es">Escandalositos</title>
@@ -3337,7 +3339,6 @@
     <sub-title lang="pt">NATUREZA TOTALMENTE SELVAGEM</sub-title>
     <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
     <episode-num system="xmltv_ns">0.110.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/tkoGsiIFHfE5iRJZ4oWhNxco7E5.jpg" />
   </programme>
   <programme start="20261026080100 -0500" stop="20261026081500 -0500" channel="CNLA_PAN.co">
     <title lang="es">Hora de aventura: Misiones secundarias</title>
@@ -3385,7 +3386,6 @@
     <desc lang="pt">Os Titãs fazem uma festa de Halloween e convidam a Liga da Justiça. Mas a poção criada por Robin provoca alguns efeitos colaterais.</desc>
     <date>2019</date>
     <episode-num system="xmltv_ns">5.262.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/mz5doVaPeqxNBKRXD4XJrC1Q3JX.jpg" />
   </programme>
   <programme start="20261026083700 -0500" stop="20261026085100 -0500" channel="CNLA_PAN.co">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
@@ -3393,7 +3393,7 @@
     <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, ¿pero qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
     <date>2025</date>
     <episode-num system="xmltv_ns">8.525.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w227_and_h127_face/cYaFjCrm2D0s59UlDrJSZHr4oiY.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/cYaFjCrm2D0s59UlDrJSZHr4oiY.jpg" />
   </programme>
   <programme start="20261026084000 -0300" stop="20261026085100 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
@@ -3401,7 +3401,7 @@
     <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões?</desc>
     <date>2025</date>
     <episode-num system="xmltv_ns">8.525.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w227_and_h127_face/cYaFjCrm2D0s59UlDrJSZHr4oiY.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/cYaFjCrm2D0s59UlDrJSZHr4oiY.jpg" />
   </programme>
   <programme start="20261026085100 -0300" stop="20261026085300 -0300" channel="CNLA_BR.br">
     <sub-title lang="pt">Happy Halloween</sub-title>
@@ -3411,7 +3411,6 @@
     <title lang="es">Tom and Jerry Gokko: Friendship &amp; Outdoors</title>
     <sub-title lang="es">Happy Halloween</sub-title>
     <episode-num system="xmltv_ns">1.3.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/5lFGaimlHuPVFX4Dqj5FRCwGdaG.jpg" />
   </programme>
   <programme start="20261026085200 -0500" stop="20261026090300 -0500" channel="CNLA_PAN.co">
     <title lang="es">ESCANDALOSOS</title>
@@ -3739,7 +3738,6 @@
     <sub-title lang="pt">EM BUSCA DO EDSON PERDIDO</sub-title>
     <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
     <episode-num system="xmltv_ns">3.178.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/tkoGsiIFHfE5iRJZ4oWhNxco7E5.jpg" />
   </programme>
   <programme start="20261026132400 -0500" stop="20261026133900 -0500" channel="CNLA_PAN.co">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
@@ -3814,7 +3812,7 @@
     <desc lang="pt">Os Titãs ficam animados ao assistir a versão cinematográfica de seu programa favorito, "Bebês vs. Cães", até que a explicação do filme torna assisti-lo superchato. Para salvar a produção, os Titãs entram nela e cortam o papo furado com muita ação.</desc>
     <date>2018</date>
     <episode-num system="xmltv_ns">4.210.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/7YAFoSGn6gBhZFzuWhHaGa3jJOi.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/gf1wgl3eDXyQa4j1lqONmRS0DPI.jpg" />
   </programme>
   <programme start="20261026141400 -0500" stop="20261026142500 -0500" channel="CNLA_PAN.co">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
@@ -3823,7 +3821,6 @@
     <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, ¿pero qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
     <date>2020</date>
     <episode-num system="xmltv_ns">5.285.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg" />
   </programme>
   <programme start="20261026142500 -0500" stop="20261026143700 -0500" channel="CNLA_PAN.co">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
@@ -3841,7 +3838,6 @@
     <desc lang="pt">Inspirados na produção "Bebês vs. Cães", os Titãs decidem produzir um grande filme em Hollywood.</desc>
     <date>2018</date>
     <episode-num system="xmltv_ns">4.211.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/7YAFoSGn6gBhZFzuWhHaGa3jJOi.jpg" />
   </programme>
   <programme start="20261026143700 -0300" stop="20261026145000 -0300" channel="CNLA_BR.br">
     <title lang="pt">HORA DE AVENTURA</title>
@@ -3859,7 +3855,6 @@
     <desc lang="es">Cuando su plan de secuestro se ve frustrado por millonésima vez, el Rey Helado decide que ya ha tenido suficiente.</desc>
     <date>2013</date>
     <episode-num system="xmltv_ns">4.63.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/mBI2RCuFRmLZFupMRdsFyYG8zFA.jpg" />
   </programme>
   <programme start="20261026145000 -0300" stop="20261026150100 -0300" channel="CNLA_BR.br">
     <title lang="pt">HORA DE AVENTURA</title>
@@ -3877,7 +3872,7 @@
     <desc lang="es">Cuando un hombre mágico lo transforma en pie, Finn aúna fuerzas con una banda de inadaptados para resolver el problema.</desc>
     <date>2010</date>
     <episode-num system="xmltv_ns">0.8.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/mBI2RCuFRmLZFupMRdsFyYG8zFA.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/aYqNOQOColF5b0T68qhA7ZdvOnv.jpg" />
   </programme>
   <programme start="20261026150100 -0300" stop="20261026151300 -0300" channel="CNLA_BR.br">
     <title lang="pt">CLARÊNCIO, O OTIMISTA</title>
@@ -3903,7 +3898,6 @@
     <desc lang="pt">Durante uma excursão da escola ao Museu de História Natural de Aberdale, Clarêncio e Sumo dão uma espiada em tudo, riem das exposições e até surrupiam um dente de tiranossauro rex.</desc>
     <date>2016</date>
     <episode-num system="xmltv_ns">2.81.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/6CcaOPC5qSJ7BOO1orFsw0NxdKc.jpg" />
   </programme>
   <programme start="20261026152500 -0300" stop="20261026153700 -0300" channel="CNLA_BR.br">
     <title lang="pt">CLARÊNCIO, O OTIMISTA</title>
@@ -3919,7 +3913,6 @@
     <sub-title lang="es">Bianca's Crazy Day</sub-title>
     <date>2025</date>
     <episode-num system="xmltv_ns">0.5.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/cHN9UE0cjsDByMWk0FgaPEkHNeJ.jpg" />
   </programme>
   <programme start="20261026153700 -0300" stop="20261026154900 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
@@ -3935,7 +3928,6 @@
     <sub-title lang="es">How to Shop</sub-title>
     <date>2025</date>
     <episode-num system="xmltv_ns">0.2.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/cHN9UE0cjsDByMWk0FgaPEkHNeJ.jpg" />
   </programme>
   <programme start="20261026154900 -0300" stop="20261026160000 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
@@ -3950,7 +3942,6 @@
     <sub-title lang="es">USS Mean Shark</sub-title>
     <date>2025</date>
     <episode-num system="xmltv_ns">0.13.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/cHN9UE0cjsDByMWk0FgaPEkHNeJ.jpg" />
   </programme>
   <programme start="20261026160000 -0300" stop="20261026161200 -0300" channel="CNLA_BR.br">
     <sub-title lang="pt">Love Bugs</sub-title>
@@ -3989,7 +3980,7 @@
     <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, ¿pero qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
     <date>2025</date>
     <episode-num system="xmltv_ns">8.525.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w227_and_h127_face/cYaFjCrm2D0s59UlDrJSZHr4oiY.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/cYaFjCrm2D0s59UlDrJSZHr4oiY.jpg" />
   </programme>
   <programme start="20261026163500 -0300" stop="20261026164700 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
@@ -3997,14 +3988,13 @@
     <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões?</desc>
     <date>2025</date>
     <episode-num system="xmltv_ns">8.525.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w227_and_h127_face/cYaFjCrm2D0s59UlDrJSZHr4oiY.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/cYaFjCrm2D0s59UlDrJSZHr4oiY.jpg" />
   </programme>
   <programme start="20261026164400 -0500" stop="20261026165600 -0500" channel="CNLA_PAN.co">
     <title lang="es">SUMMER MEMORIES - SEASON 1</title>
     <sub-title lang="es">Bummer Memories</sub-title>
     <date>2022</date>
     <episode-num system="xmltv_ns">0.29.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/2fgI2kioW38AF2IlOkQkhd0OGKP.jpg" />
   </programme>
   <programme start="20261026164700 -0300" stop="20261026165800 -0300" channel="CNLA_BR.br">
     <sub-title lang="pt">THE GUT</sub-title>
@@ -4015,7 +4005,6 @@
     <title lang="es">Tom and Jerry Gokko: Friendship &amp; Outdoors</title>
     <sub-title lang="es">Happy Halloween</sub-title>
     <episode-num system="xmltv_ns">1.3.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/5lFGaimlHuPVFX4Dqj5FRCwGdaG.jpg" />
   </programme>
   <programme start="20261026165700 -0500" stop="20261026170900 -0500" channel="CNLA_PAN.co">
     <title lang="es">El Maravillosamente Extraño Mundo de Gumball</title>
@@ -4062,7 +4051,6 @@
     <sub-title lang="pt">DANUZA VAI À LUTA</sub-title>
     <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
     <episode-num system="xmltv_ns">3.179.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/tkoGsiIFHfE5iRJZ4oWhNxco7E5.jpg" />
   </programme>
   <programme start="20261026173500 -0500" stop="20261026174900 -0500" channel="CNLA_PAN.co">
     <title lang="es">UN SHOW MÁS</title>
@@ -4078,7 +4066,6 @@
     <sub-title lang="pt">APENAS FELINO</sub-title>
     <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
     <episode-num system="xmltv_ns">3.180.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/tkoGsiIFHfE5iRJZ4oWhNxco7E5.jpg" />
   </programme>
   <programme start="20261026174900 -0500" stop="20261026180000 -0500" channel="CNLA_PAN.co">
     <title lang="es">UN SHOW MÁS</title>
@@ -4094,7 +4081,6 @@
     <sub-title lang="pt">O MAIOR VIDEOCLIPE DE TODOS OS TEMPOS</sub-title>
     <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
     <episode-num system="xmltv_ns">3.181.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/tkoGsiIFHfE5iRJZ4oWhNxco7E5.jpg" />
   </programme>
   <programme start="20261026180000 -0500" stop="20261026181200 -0500" channel="CNLA_PAN.co">
     <title lang="es">El increíble mundo de gumball</title>
@@ -4148,7 +4134,6 @@
     <desc lang="es">A Finn le dan miedo las enfermeras payaso que quieren curarle el pie, entonces busca las lágrimas mágicas de los cíclopes.</desc>
     <date>2012</date>
     <episode-num system="xmltv_ns">2.37.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/mBI2RCuFRmLZFupMRdsFyYG8zFA.jpg" />
   </programme>
   <programme start="20261026184500 -0300" stop="20261026185700 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
@@ -4165,7 +4150,6 @@
     <desc lang="es">Durante una fiesta de pijamas en Dulce Reino, se desata el pánico cuando desaparecen Finn y la Dulce Princesa.</desc>
     <date>2014</date>
     <episode-num system="xmltv_ns">5.91.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/mBI2RCuFRmLZFupMRdsFyYG8zFA.jpg" />
   </programme>
   <programme start="20261026185700 -0300" stop="20261026190800 -0300" channel="CNLA_BR.br">
     <title lang="pt">CLARÊNCIO, O OTIMISTA</title>
@@ -4286,7 +4270,7 @@
     <sub-title lang="es">Boo!-lldozing</sub-title>
     <desc lang="es">Villanos es la historia de Black Hat Org., dirigida por Black Hat (cuyo nombre es un sinonimo de villano, una referencia a los vaqueros malvados con sombrero negro de las películas occidentales) y su equipo de tres ayudantes menos villanos. Black Hat está tratando de vender varios inventos malvados creados por el Dr. Flug y está desesperado por lograr sus aspiraciones malvadas. Sin embargo, las cosas suelen terminar mal para él, ya que las brillantes innovaciones tienden a tener pequeños y a menudo cómicos defectos.</desc>
     <episode-num system="xmltv_ns">0.1.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/9Mf4cr11OP8VT2Baej2sn24aOyd.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/qRVIwhJMkrshdHHzO4HGdsiiR88.jpg" />
   </programme>
   <programme start="20261026205600 -0300" stop="20261026211000 -0300" channel="CNLA_BR.br">
     <sub-title lang="pt">LA VVV</sub-title>
@@ -4301,7 +4285,7 @@
     <desc lang="es">Villanos es la historia de Black Hat Org., dirigida por Black Hat (cuyo nombre es un sinonimo de villano, una referencia a los vaqueros malvados con sombrero negro de las películas occidentales) y su equipo de tres ayudantes menos villanos. Black Hat está tratando de vender varios inventos malvados creados por el Dr. Flug y está desesperado por lograr sus aspiraciones malvadas. Sin embargo, las cosas suelen terminar mal para él, ya que las brillantes innovaciones tienden a tener pequeños y a menudo cómicos defectos.</desc>
     <date>2021</date>
     <episode-num system="xmltv_ns">0.2.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/9Mf4cr11OP8VT2Baej2sn24aOyd.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/1NRoDQS6yTquWbSq8h7hOOWyiNX.jpg" />
   </programme>
   <programme start="20261026211000 -0300" stop="20261026212100 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
@@ -4364,7 +4348,6 @@
     <desc lang="es">Los Titanes visitan el Salón de la Justicia para usar la piscina, pero luego deciden darle un vistazo al interior del edificio.</desc>
     <date>2016</date>
     <episode-num system="xmltv_ns">2.122.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg" />
   </programme>
   <programme start="20261026215300 -0300" stop="20261026220500 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
@@ -4382,7 +4365,6 @@
     <desc lang="es">Los Titanes deben salvar a los miembros de la Liga de la Justicia de las garras del súper villano Darkseid.</desc>
     <date>2015</date>
     <episode-num system="xmltv_ns">2.121.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg" />
   </programme>
   <programme start="20261026220500 -0300" stop="20261026221700 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
@@ -4390,7 +4372,7 @@
     <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões?</desc>
     <date>2025</date>
     <episode-num system="xmltv_ns">8.525.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w227_and_h127_face/cYaFjCrm2D0s59UlDrJSZHr4oiY.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/cYaFjCrm2D0s59UlDrJSZHr4oiY.jpg" />
   </programme>
   <programme start="20261026221100 -0500" stop="20261026222500 -0500" channel="CNLA_PAN.co">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
@@ -4398,7 +4380,7 @@
     <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, ¿pero qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
     <date>2025</date>
     <episode-num system="xmltv_ns">8.525.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w227_and_h127_face/cYaFjCrm2D0s59UlDrJSZHr4oiY.jpg" />
+    <icon src="https://media.themoviedb.org/t/p/w500/cYaFjCrm2D0s59UlDrJSZHr4oiY.jpg" />
   </programme>
   <programme start="20261026221700 -0300" stop="20261026221800 -0300" channel="CNLA_BR.br">
     <sub-title lang="pt">Happy Halloween</sub-title>
@@ -4413,7 +4395,6 @@
     <title lang="es">Tom and Jerry Gokko: Friendship &amp; Outdoors</title>
     <sub-title lang="es">Happy Halloween</sub-title>
     <episode-num system="xmltv_ns">1.3.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/5lFGaimlHuPVFX4Dqj5FRCwGdaG.jpg" />
   </programme>
   <programme start="20261026222600 -0500" stop="20261026224000 -0500" channel="CNLA_PAN.co">
     <title lang="es">HORA DE AVENTURA</title>
@@ -4422,7 +4403,6 @@
     <desc lang="es">Dulce Princesa debe reunir fuerzas cuando un gigantesco ataque golpea Dulce Reino.</desc>
     <date>2014</date>
     <episode-num system="xmltv_ns">5.83.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/mBI2RCuFRmLZFupMRdsFyYG8zFA.jpg" />
   </programme>
   <programme start="20261026222900 -0300" stop="20261026224100 -0300" channel="CNLA_BR.br">
     <title lang="pt">APENAS UM SHOW</title>
@@ -4440,7 +4420,6 @@
     <desc lang="es">Hartos de cuidar al Rey Helado mientras se reconstruye el Reino Helado, Finn y Jake llaman a un viejo amigo para que pase el rato con su molesto huésped: Abracadaniel. Pero cuando, por accidente, el Rey Helado y su nuevo mejor amigo liberan al demonio Kee-Oth, Finn y Jake deben limpiar el desastre que dejan a su paso.</desc>
     <date>2014</date>
     <episode-num system="xmltv_ns">4.72.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/mBI2RCuFRmLZFupMRdsFyYG8zFA.jpg" />
   </programme>
   <programme start="20261026224100 -0300" stop="20261026225300 -0300" channel="CNLA_BR.br">
     <title lang="pt">APENAS UM SHOW</title>
@@ -4467,7 +4446,6 @@
     <desc lang="es">Kee-Oth, el Demonio de Sangre, secuestró a Jake, lo llevó de regreso a su dimensión y lo lanzó en un pozo. Si Finn quiere rescatar a su amigo, necesitará la ayuda de Arco Iris... y una cinta de video que revelará cómo abrir el portal hacia la dimensión desquiciada de Kee-Oth.</desc>
     <date>2014</date>
     <episode-num system="xmltv_ns">4.72.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/mBI2RCuFRmLZFupMRdsFyYG8zFA.jpg" />
   </programme>
   <programme start="20261026230400 -0300" stop="20261026231700 -0300" channel="CNLA_BR.br">
     <title lang="pt">STEVEN UNIVERSO</title>
@@ -4539,7 +4517,7 @@
     <episode-num system="xmltv_ns">5.162.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/gSQHu18DTkimegNzhN5hO6op4V8.jpg" />
   </programme>
-  <programme start="20261026235200 -0300" stop="20261027002200 -0300" channel="CNLA_BR.br">
+  <programme start="20261026235200 -0300" stop="20261027000300 -0300" channel="CNLA_BR.br">
     <title lang="pt">CLARÊNCIO, O OTIMISTA</title>
     <sub-title lang="pt">SIGUE A LA CERDA</sub-title>
     <sub-title lang="en">HOOFIN' IT</sub-title>
@@ -4548,14 +4526,14 @@
     <episode-num system="xmltv_ns">0.39.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/g0yJlVcLU9vPbpPzRL8ifLnulk7.jpg" />
   </programme>
-    <programme start="20261026235600 -0500" stop="20261027000700 -0500" channel="CNLA_PAN.co">
+  <programme start="20261026235600 -0500" stop="20261027000700 -0500" channel="CNLA_PAN.co">
     <title lang="es">ESCANDALOSOS</title>
-    <sub-title lang="es">MÁS DEL CANAL DE TODOS</sub-title>
-    <sub-title lang="en">MORE EVERYONE'S TUBE</sub-title>
-    <desc lang="es">A través de otra sesión de navegación por Internet, vemos más videos subidos por los Osos y sus amigos.</desc>
+    <sub-title lang="es">VIAJE CON OSOS</sub-title>
+    <sub-title lang="en">BEAR LIFT</sub-title>
+    <desc lang="es">Para ayudar a recaudar dinero para salvar la tienda de Darrell, los Osos se apilan y ofrecen servicio de taxi a través de una aplicación para compartir vehículo.</desc>
     <date>2017</date>
-    <episode-num system="xmltv_ns">3.83.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/tP07j1b04v7iYPRrYTvGXRULCdv.jpg" />
+    <episode-num system="xmltv_ns">2.91.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/ua5WooXzxkc3Xe1noiQrnThE7Kd.jpg" />
   </programme>
   <programme start="20261027000300 -0300" stop="20261027001500 -0300" channel="CNLA_BR.br">
     <title lang="pt">URSOS SEM CURSO</title>
@@ -4625,7 +4603,6 @@
     <desc lang="es">Los Osos hacen una audición para convertirse en las próximas mascotas de su cereal favorito. Quedan tan inmersos en el proceso que su competitividad termina derrotándolos.</desc>
     <date>2016</date>
     <episode-num system="xmltv_ns">1.44.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/8wKNGFgf4Oh9hqGYAQO7JUdZ7Eb.jpg" />
   </programme>
   <programme start="20261027005100 -0300" stop="20261027010300 -0300" channel="CNLA_BR.br">
     <title lang="pt">URSOS SEM CURSO</title>
@@ -4736,7 +4713,7 @@
   </programme>
   <programme start="20261027020400 -0300" stop="20261027021600 -0300" channel="CNLA_BR.br">
     <title lang="pt">O INCRÍVEL MUNDO DE GUMBALL</title>
-    <sub-title lang="pt">O AMOR</sub-title>
+    <sub-title lang="pt">EL AMOR</sub-title>
     <sub-title lang="en">THE LOVE</sub-title>
     <desc lang="pt">Os moradores de Elmore buscam o significado do amor.</desc>
     <date>2014</date>
@@ -4833,7 +4810,7 @@
     <episode-num system="xmltv_ns">3.105.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/rcPIf42Pwkg8D6FQ7YzBJsGggWK.jpg" />
   </programme>
-  <programme start="20261026034800 -0300" stop="20261026040000 -0300" channel="CNLA_BR.br">
+  <programme start="20261027034800 -0300" stop="20261027040000 -0300" channel="CNLA_BR.br">
     <title lang="pt">STEVEN UNIVERSO</title>
     <sub-title lang="pt">REGENERADA</sub-title>
     <sub-title lang="en">REFORMED</sub-title>
@@ -4949,7 +4926,6 @@
     <desc lang="es">Mientras los Titanes están en el campamento de verano para super héroes, necesitan añadir otro miembro al equipo para ganar la gran carrera de canoas.</desc>
     <date>2018</date>
     <episode-num system="xmltv_ns">4.247.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/20IhqWuDEhEPEmcJMz7a8fkBbxO.jpg" />
   </programme>
   <programme start="20261027050200 -0300" stop="20261027051400 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
@@ -4958,7 +4934,6 @@
     <desc lang="pt">Num acampamento de verão para super-heróis, os Titãs deverão adicionar um membro à equipe, se quiserem vencer a grande competição de canoas.</desc>
     <date>2018</date>
     <episode-num system="xmltv_ns">4.247.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/20IhqWuDEhEPEmcJMz7a8fkBbxO.jpg" />
   </programme>
   <programme start="20261027051100 -0500" stop="20261027052400 -0500" channel="CNLA_PAN.co">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
@@ -4967,7 +4942,6 @@
     <desc lang="es">Los Titanes aconsejan a Robin para guiarlo a través de su romance de campamento con Chica Maravilla.</desc>
     <date>2018</date>
     <episode-num system="xmltv_ns">4.248.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/uM63Tn9shXjbLOfPhbNoeF5E6Lc.jpg" />
   </programme>
   <programme start="20261027051400 -0300" stop="20261027052500 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
@@ -4976,7 +4950,6 @@
     <desc lang="pt">Os Titãs aconselham Robin e tentam ajudá-lo em seu romance com a Garota-Maravilha.</desc>
     <date>2018</date>
     <episode-num system="xmltv_ns">4.248.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/uM63Tn9shXjbLOfPhbNoeF5E6Lc.jpg" />
   </programme>
   <programme start="20261027052400 -0500" stop="20261027053500 -0500" channel="CNLA_PAN.co">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
@@ -4985,7 +4958,6 @@
     <desc lang="es">Robin les dice a los otros Titanes que dejen de ser adolescentes imprudentes o el Aterrador Atrapador los atrapará.</desc>
     <date>2019</date>
     <episode-num system="xmltv_ns">4.249.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/89yRqvThlpsQzZfe4c1JmrHLKMi.jpg" />
   </programme>
   <programme start="20261027052500 -0300" stop="20261027053700 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
@@ -4994,7 +4966,6 @@
     <desc lang="pt">Robin aconselha os Titãs a serem menos negligentes. Caso contrário, eles serão pegos por um vilão.</desc>
     <date>2019</date>
     <episode-num system="xmltv_ns">4.249.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/89yRqvThlpsQzZfe4c1JmrHLKMi.jpg" />
   </programme>
   <programme start="20261027053500 -0500" stop="20261027054800 -0500" channel="CNLA_PAN.co">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
@@ -5003,7 +4974,6 @@
     <desc lang="es">Los Titanes montan un espectáculo, pero Robin les advierte que la actuación debe ser aburrida o despertarán a los lobos.</desc>
     <date>2019</date>
     <episode-num system="xmltv_ns">4.250.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/2joX4wPnDfKVKNiUmOpbNPINa9F.jpg" />
   </programme>
   <programme start="20261027053700 -0300" stop="20261027054800 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
@@ -5012,16 +4982,14 @@
     <desc lang="pt">Os Titãs preparam um show, mas Robin os alerta de que a performance deverá ser entediante. Caso contrário, eles acordarão os lobos.</desc>
     <date>2019</date>
     <episode-num system="xmltv_ns">4.250.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/2joX4wPnDfKVKNiUmOpbNPINa9F.jpg" />
   </programme>
-  <programme start="20261027054800 -0300" stop="20261026060000 -0300" channel="CNLA_BR.br">
+  <programme start="20261027054800 -0300" stop="20261027060000 -0300" channel="CNLA_BR.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
     <sub-title lang="pt">LO QUE APRENDIMOS EN EL CAMPAMENTO</sub-title>
     <sub-title lang="en">WHAT WE LEARNED AT CAMP (SUPER SUMMER HERO CAMP 5)</sub-title>
     <desc lang="pt">Após não receberem medalhas de participação, os Titãs deverão mostrar o que aprenderam no acampamento.</desc>
     <date>2019</date>
     <episode-num system="xmltv_ns">4.251.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/tLbrAmLakBrpUwUgAnxDSqXlUv4.jpg" />
   </programme>
   <programme start="20261027054800 -0500" stop="20261027060000 -0500" channel="CNLA_PAN.co">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
@@ -5030,6 +4998,5 @@
     <desc lang="es">Después de no recibir sus medallas de participación, los Titanes deben demostrar lo que aprendieron en el campamento.</desc>
     <date>2019</date>
     <episode-num system="xmltv_ns">4.251.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/tLbrAmLakBrpUwUgAnxDSqXlUv4.jpg" />
   </programme>
 </tv>
