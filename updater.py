@@ -191,7 +191,7 @@ NETWORKS_CONFIG = {
         {"feed_id": "DKLA_MX", "channel_id": "DKLA_MX.mx", "channel_name": "Discovery Kids Mexico", "lang": "es", "tz": timezone(timedelta(hours=-6))},
         {"feed_id": "DKLA_BR", "channel_id": "DKLA_BR.br", "channel_name": "Discovery Kids Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3))}
     ]
-}
+},
     "WARNERLA_EPG.xml": {
         "generator_name": "Guia de Programacion Warner Channel MultiFeed",
         "referer": "https://epg.tapkit.warnermedia.com/epg/networks/warner",
