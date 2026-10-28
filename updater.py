@@ -13,6 +13,7 @@ RETENTION_DAYS_FUTURE = 15
 
 AUTH_URL = "https://epg.tapkit.warnermedia.com/api/security/oauth/token"
 BASE_DAILY_URL = "https://epg.tapkit.warnermedia.com/api/daily/shows?feedId={feed_id}&format=xls"
+DOWNLOAD_FILE_URL = "https://epg.tapkit.warnermedia.com/api/domain/users/register/downloaded/file"
 LOCAL_BREAKS_URL = "https://epg.tapkit.warnermedia.com/api/epg/tapkitLocalBreaks/downloadfile"
 
 TMDB_API_KEY = os.environ.get("TMDB_API_KEY", "").strip()
@@ -170,7 +171,7 @@ def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"
     return breaks_events
 
 # -------------------------------------------------------------
-# CONFIGURACIÓN COMPLETA DE TODAS TUS REDES Y CANALES ORIGINALES
+# CONFIGURACIÓN COMPLETA DE TODAS TUS REDES Y CANALES
 # -------------------------------------------------------------
 NETWORKS_CONFIG = {
     "CNLA_EPG.xml": {
@@ -183,7 +184,7 @@ NETWORKS_CONFIG = {
         ]
     },
     "CTOOLA_EPG.xml": {
-        "generator_name": "Guia de Programacion Cartoonito Latinoamérica",
+        "generator_name": "Guia de Programacion Cartoonito MultiFeed",
         "referer": "https://epg.tapkit.warnermedia.com/epg/networks/1",
         "type": "daily",
         "feeds": [
@@ -192,15 +193,15 @@ NETWORKS_CONFIG = {
             {"feed_id": "CTOOLA_BR", "channel_id": "CTOO_BR.br", "channel_name": "Cartoonito Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"},
         ]
     },
-"DKLA_EPG.xml": {
+    "DKLA_EPG.xml": {
         "generator_name": "Guia de Programacion Discovery Kids MultiFeed",
         "referer": "https://epg.tapkit.warnermedia.com/epg/networks/47",
         "type": "daily",
         "feeds": [
-            {"feed_id": "DKLA_PAN", "channel_id": "DKLA_PAN.co", "channel_name": "Discovery Kids Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
-            {"feed_id": "DKLA_CAR", "channel_id": "DKLA_CAR.co", "channel_name": "Discovery Kids Caribe", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
-            {"feed_id": "DKLA_MX", "channel_id": "DKLA_MX.mx", "channel_name": "Discovery Kids Mexico", "lang": "es", "tz": timezone(timedelta(hours=-6)), "tz_str": "-0600"},
-            {"feed_id": "DKLA_BR", "channel_id": "DKLA_BR.br", "channel_name": "Discovery Kids Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"}
+            {"feed_id": "DKLA_PAN", "file_id": "10587908", "channel_id": "DKLA_PAN.co", "channel_name": "Discovery Kids Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
+            {"feed_id": "DKLA_CAR", "file_id": "10587948", "channel_id": "DKLA_CAR.co", "channel_name": "Discovery Kids Caribe", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
+            {"feed_id": "DKLA_MX", "file_id": "10587962", "channel_id": "DKLA_MX.mx", "channel_name": "Discovery Kids Mexico", "lang": "es", "tz": timezone(timedelta(hours=-6)), "tz_str": "-0600"},
+            {"feed_id": "DKLA_BR", "file_id": "10587870", "channel_id": "DKLA_BR.br", "channel_name": "Discovery Kids Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"}
         ]
     },
     "WARNERLA_EPG.xml": {
@@ -230,7 +231,7 @@ NETWORKS_CONFIG = {
             {"feed_id": "TNTLA_CL", "channel_id": "TNT_CL.cl", "channel_name": "TNT Chile", "lang": "es", "tz": timezone(timedelta(hours=-4)), "tz_str": "-0400"}
         ]
     },
-"TNT_SPORTS.xml": {
+    "TNT_SPORTS.xml": {
         "generator_name": "Guia de Programacion TNT Sports MultiFeed",
         "referer": "https://epg.tapkit.warnermedia.com/epg/networks/24",
         "type": "daily",
@@ -242,7 +243,7 @@ NETWORKS_CONFIG = {
         ]
     },
     "TOONCAST_EPG.xml": {
-        "generator_name": "Guia de Programacion Tooncast Latinoamérica",
+        "generator_name": "Guia de Programacion Tooncast MultiFeed",
         "referer": "https://epg.tapkit.warnermedia.com/epg/networks/15",
         "type": "daily",
         "feeds": [
@@ -353,16 +354,32 @@ def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_t
                 pass
     return combined_dict
 
-def download_feed_xls(token, feed_id, referer_url):
-    url = BASE_DAILY_URL.format(feed_id=feed_id)
-    res = http_session.get(url, headers={
+def download_feed_xls(token, feed_cfg, referer_url):
+    feed_id = feed_cfg["feed_id"]
+    file_id = feed_cfg.get("file_id")
+    xls_path = f"{feed_id}_latest.xls"
+
+    headers = {
         "Authorization": f"Bearer {token}",
         "Referer": referer_url,
         "Accept-Language": "es"
-    }, timeout=30)
+    }
+
+    if file_id:
+        current_date_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S.%f")[:-3]
+        files = {
+            'user-token': (None, token),
+            'file-id': (None, str(file_id)),
+            'downloaded-date': (None, current_date_str)
+        }
+        res = http_session.post(DOWNLOAD_FILE_URL, headers=headers, files=files, timeout=30)
+    else:
+        url = BASE_DAILY_URL.format(feed_id=feed_id)
+        res = http_session.get(url, headers=headers, timeout=30)
+
     res.raise_for_status()
-    xls_path = f"{feed_id}_latest.xls"
-    with open(xls_path, "wb") as f: f.write(res.content)
+    with open(xls_path, "wb") as f:
+        f.write(res.content)
     return xls_path
 
 def sanitize_and_parse_xml(file_path, generator_name):
@@ -611,7 +628,7 @@ def main():
         if net_type == "daily":
             for feed_cfg in net_config["feeds"]:
                 try:
-                    xls_path = download_feed_xls(token, feed_cfg["feed_id"], net_config["referer"])
+                    xls_path = download_feed_xls(token, feed_cfg, net_config["referer"])
                     use_meta = cn_monthly_meta if "CNLA" in xml_filename else None
                     process_daily_feed(root, feed_cfg, xls_path, monthly_meta=use_meta, token=token)
                 except Exception as e:
