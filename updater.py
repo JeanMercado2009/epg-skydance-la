@@ -7,8 +7,6 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 import requests
 import unicodedata
-import lxml
-import openpyxl
 
 RETENTION_DAYS_PAST = 5
 RETENTION_DAYS_FUTURE = 15
@@ -173,7 +171,7 @@ def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"
     return breaks_events
 
 # -------------------------------------------------------------
-# CONFIGURACIÓN COMPLETA DE TODAS TUS REDES Y CANALES
+# CONFIGURACIÓN COMPLETA DE TODAS LAS REDES Y CANALES
 # -------------------------------------------------------------
 NETWORKS_CONFIG = {
     "CNLA_EPG.xml": {
@@ -467,6 +465,8 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
     col_desc = find_column(cols, ["Program Sinopsis Prensa(ESPA)", "Program Sinopsis Prensa(PORT)", "Title Synopsis", "Synopsis", "Description"])
     col_ep_desc = find_column(cols, ["Episode Sinopsis Prensa(ESPA)", "Episode Sinopsis Prensa(PORT)", "Episode Synopsis"])
     col_is_new = find_column(cols, ["Is Premiere", "New Episode", "Premiere", "Estreno", "Title Classification", "Y/N"])
+    col_length = find_column(cols, ["Length", "Duración", "Duration"])
+    col_genre = find_column(cols, ["Genre", "Género"])
 
     first_date_raw = str(df.iloc[0].get(col_date, "")).strip()
     match_init = re.search(r"(\d{1,2})[-/](\d{1,2})[-/](\d{4})", first_date_raw)
@@ -490,6 +490,19 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
         event_dt = datetime(y, m, d, hh, mm, 0, tzinfo=tz)
         if (d == d0 and m == m0 and y == y0) and hh < 6: event_dt += timedelta(days=1)
         if event_dt >= cycle_end: break
+
+        length_raw = str(row.get(col_length, "")).strip() if col_length and pd.notna(row.get(col_length)) else ""
+        stop_calculated = None
+        if length_raw:
+            try:
+                l_parts = length_raw.split(':')
+                if len(l_parts) == 3:
+                    lh, lm, ls = map(int, [float(x) for x in l_parts])
+                    stop_calculated = event_dt + timedelta(hours=lh, minutes=lm, seconds=ls)
+            except Exception:
+                pass
+
+        genre_raw = str(row.get(col_genre, "")).strip() if col_genre and pd.notna(row.get(col_genre)) else ""
 
         prog_name_val = str(row.get(col_title, "")).strip() if pd.notna(row.get(col_title)) else ""
         if prog_name_val.strip().upper() == "LOS COLORADO": prog_name_val = "El Chapulín Y Los Colorado"
@@ -549,6 +562,8 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
 
         raw_events.append({
             "start": event_dt,
+            "stop_calculated": stop_calculated,
+            "genre": genre_raw,
             "title": title_val if title_val.lower() != "nan" else "",
             "sub_title_es": sub_es if sub_es.lower() != "nan" and sub_es.lower() != title_val.lower() else "",
             "sub_title_en": sub_en if sub_en.lower() != "nan" and sub_en.lower() != sub_es.lower() else "",
@@ -580,11 +595,28 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
     for i in range(total_events):
         ev = raw_events[i]
         start_dt = ev["start"]
-        stop_dt = ev.get("stop") or (raw_events[i + 1]["start"] if i + 1 < total_events else cycle_end)
+        
+        default_next_stop = raw_events[i + 1]["start"] if i + 1 < total_events else cycle_end
+        stop_dt = ev.get("stop") or ev.get("stop_calculated") or default_next_stop
+
+        start_fmt = format_xmltv_date(start_dt, tz_str)
+        stop_fmt = format_xmltv_date(stop_dt, tz_str)
+
+        start_utc_dt = start_dt.astimezone(timezone.utc)
+        stop_utc_dt = stop_dt.astimezone(timezone.utc)
+        start_utc_fmt = format_xmltv_date(start_utc_dt, "+0000")
+        stop_utc_fmt = format_xmltv_date(stop_utc_dt, "+0000")
 
         prog = ET.Element("programme", {
-            "start": format_xmltv_date(start_dt, tz_str),
-            "stop": format_xmltv_date(stop_dt, tz_str),
+            "start": start_fmt,
+            "stop": stop_fmt,
+            "air_time_start": start_fmt,
+            "air_time_end": stop_fmt,
+            "start_utc": start_utc_fmt,
+            "stop_utc": stop_utc_fmt,
+            "air_time_start_utc": start_utc_fmt,
+            "air_time_end_utc": stop_utc_fmt,
+            "is_live": "false",
             "channel": channel_id
         })
 
@@ -599,6 +631,12 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
             if ev["desc_es"]: ET.SubElement(prog, "desc", {"lang": lang}).text = ev["desc_es"]
             if ev["desc_en"]: ET.SubElement(prog, "desc", {"lang": "en"}).text = ev["desc_en"]
             if ev["year"]: ET.SubElement(prog, "date").text = ev["year"]
+            
+            if ev.get("genre"):
+                genres = [g.strip() for g in ev["genre"].split(',') if g.strip()]
+                for genre_item in genres:
+                    ET.SubElement(prog, "category", {"lang": lang}).text = genre_item
+
             if ev["episode_num"]: ET.SubElement(prog, "episode-num", {"system": "xmltv_ns"}).text = ev["episode_num"]
             if ev["icon"]: ET.SubElement(prog, "icon", {"src": ev["icon"]})
 
