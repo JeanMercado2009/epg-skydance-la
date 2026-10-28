@@ -239,6 +239,15 @@ NETWORKS_CONFIG = {
             {"feed_id": "CDFB_CL", "channel_id": "CDFB_CL.cl", "channel_name": "TNT Sports 3 (Chile)", "lang": "es", "tz": timezone(timedelta(hours=-4))},
             {"feed_id": "CDFP_CL", "channel_id": "CDFP_CL.cl", "channel_name": "TNT Sports 2 (Chile)", "lang": "es", "tz": timezone(timedelta(hours=-4))}
         ]
+    },
+    "TOONCAST_EPG.xml": {
+        "generator_name": "Guia de Programacion Tooncast Latinoamérica",
+        "referer": "https://epg.tapkit.warnermedia.com/epg/networks/15",
+        "type": "daily",
+        "feeds": [
+            {"feed_id": "TOONLA_PAN", "channel_id": "TOONLA_PAN.co", "channel_name": "Tooncast Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5))},
+            {"feed_id": "TOONLA_BR", "channel_id": "TOONLA_BR.br", "channel_name": "Tooncast Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3))}
+        ]
     }
 }
 
