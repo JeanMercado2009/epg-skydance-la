@@ -183,7 +183,7 @@ NETWORKS_CONFIG = {
         ]
     },
     "DKLA_EPG.xml": {
-    "generator_name": "Guia de Programacion Discovery Kids MultiFeed",
+    "generator_name": "Guia de Programacion Discovery Kids Latinoamérica",
     "referer": "https://epg.tapkit.warnermedia.com/epg/networks/5",
     "type": "daily",
     "feeds": [
