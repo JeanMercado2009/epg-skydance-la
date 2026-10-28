@@ -187,9 +187,9 @@ NETWORKS_CONFIG = {
         "referer": "https://epg.tapkit.warnermedia.com/epg/networks/1",
         "type": "daily",
         "feeds": [
-            {"feed_id": "CTOOLA_PAN", "channel_id": "CTOO_PAN.co", "channel_name": "Cartoonito Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5))},
-            {"feed_id": "CTOOLA_TVEGO", "channel_id": "CTOO_PANTVEGO.co", "channel_name": "Cartoonito Panregional TVEGO", "lang": "es", "tz": timezone(timedelta(hours=-5))},
-            {"feed_id": "CTOOLA_BR", "channel_id": "CTOO_BR.br", "channel_name": "Cartoonito Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3))}
+            {"feed_id": "CTOOLA_PAN", "channel_id": "CTOO_PAN.co", "channel_name": "Cartoonito Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
+            {"feed_id": "CTOOLA_TVEGO", "channel_id": "CTOO_PANTVEGO.co", "channel_name": "Cartoonito Panregional TVEGO", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
+            {"feed_id": "CTOOLA_BR", "channel_id": "CTOO_BR.br", "channel_name": "Cartoonito Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"},
         ]
     },
     "DKLA_EPG.xml": {
@@ -229,15 +229,15 @@ NETWORKS_CONFIG = {
             {"feed_id": "TNTLA_CL", "channel_id": "TNT_CL.cl", "channel_name": "TNT Chile", "lang": "es", "tz": timezone(timedelta(hours=-4)), "tz_str": "-0400"}
         ]
     },
-    "TNT_SPORTS.xml": {
-        "generator_name": "Guia de Programacion TNT Sports Latinoamérica",
+"TNT_SPORTS.xml": {
+        "generator_name": "Guia de Programacion TNT Sports MultiFeed",
         "referer": "https://epg.tapkit.warnermedia.com/epg/networks/24",
         "type": "daily",
         "feeds": [
-            {"feed_id": "TNTSPO_AR", "channel_id": "TNTSPO_AR.ar", "channel_name": "TNT Sports Argentina", "lang": "es", "tz": timezone(timedelta(hours=-3))},
-            {"feed_id": "CDFH_CL", "channel_id": "CDFH_CL.cl", "channel_name": "TNT Sports HD (Chile)", "lang": "es", "tz": timezone(timedelta(hours=-4))},
-            {"feed_id": "CDFB_CL", "channel_id": "CDFB_CL.cl", "channel_name": "TNT Sports 3 (Chile)", "lang": "es", "tz": timezone(timedelta(hours=-4))},
-            {"feed_id": "CDFP_CL", "channel_id": "CDFP_CL.cl", "channel_name": "TNT Sports 2 (Chile)", "lang": "es", "tz": timezone(timedelta(hours=-4))}
+            {"feed_id": "TNTSPO_AR", "channel_id": "TNTSPO_AR.ar", "channel_name": "TNT Sports Argentina", "lang": "es", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"},
+            {"feed_id": "CDFH_CL", "channel_id": "CDFH_CL.cl", "channel_name": "TNT Sports HD Chile", "lang": "es", "tz": timezone(timedelta(hours=0)), "tz_str": "+00:00"},
+            {"feed_id": "CDFB_CL", "channel_id": "CDFB_CL.cl", "channel_name": "TNT Sports 3 Chile", "lang": "es", "tz": timezone(timedelta(hours=0)), "tz_str": "+00:00"},
+            {"feed_id": "CDFP_CL", "channel_id": "CDFP_CL.cl", "channel_name": "TNT Sports 2 Chile", "lang": "es", "tz": timezone(timedelta(hours=0)), "tz_str": "+00:00"}
         ]
     },
     "TOONCAST_EPG.xml": {
@@ -245,8 +245,8 @@ NETWORKS_CONFIG = {
         "referer": "https://epg.tapkit.warnermedia.com/epg/networks/15",
         "type": "daily",
         "feeds": [
-            {"feed_id": "TOONLA_PAN", "channel_id": "TOONLA_PAN.co", "channel_name": "Tooncast Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5))},
-            {"feed_id": "TOONLA_BR", "channel_id": "TOONLA_BR.br", "channel_name": "Tooncast Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3))}
+            {"feed_id": "TOONLA_PAN", "channel_id": "TOONLA_PAN.co", "channel_name": "Tooncast Panregional", "lang": "es", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"},
+            {"feed_id": "TOONLA_BR", "channel_id": "TOONLA_BR.br", "channel_name": "Tooncast Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"}
         ]
     }
 }
