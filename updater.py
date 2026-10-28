@@ -7,6 +7,8 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 import requests
 import unicodedata
+import lxml
+import openpyxl
 
 RETENTION_DAYS_PAST = 5
 RETENTION_DAYS_FUTURE = 15
@@ -147,31 +149,36 @@ def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"
         try:
             res = http_session.post(LOCAL_BREAKS_URL, json=payload, headers=headers, timeout=10)
             if res.status_code == 200 and len(res.content) > 0:
-                df_break = pd.read_csv(io.BytesIO(res.content))
+                # Lectura correcta del CSV de Motron usando punto y coma (sep=';')
+                df_break = pd.read_csv(io.BytesIO(res.content), sep=';')
+                in_time = None
                 for _, row in df_break.iterrows():
-                    start_raw = str(row.get("Start Time") or row.get("START_TIME") or "").strip()
-                    end_raw = str(row.get("End Time") or row.get("END_TIME") or "").strip()
-                    s_match = re.search(r"(\d{2}):(\d{2}):(\d{2})", start_raw)
-                    e_match = re.search(r"(\d{2}):(\d{2}):(\d{2})", end_raw)
-                    if s_match and e_match:
-                        sh, sm, ss = map(int, s_match.groups())
-                        eh, em, es = map(int, e_match.groups())
-                        y, m, d = int(date_str[:4]), int(date_str[4:6]), int(date_str[6:])
-                        start_dt = datetime(y, m, d, sh, sm, ss, tzinfo=tz_info)
-                        end_dt = datetime(y, m, d, eh, em, es, tzinfo=tz_info)
-                        if end_dt <= start_dt:
-                            end_dt += timedelta(days=1)
-                        breaks_events.append({
-                            "start": start_dt, "stop": end_dt,
-                            "title": "Pausa Comercial", "desc": "Espacio publicitario y promos de la señal.",
-                            "category": "Comercial", "type": "break"
-                        })
+                    type_val = str(row.get("Type") or "").strip().upper()
+                    date_offset = str(row.get("Log Date + Offset") or "").strip()
+                    
+                    if "IN" in type_val:
+                        m = re.search(r"(\d{4})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2}):(\d{2})", date_offset)
+                        if m:
+                            y, mo, d, h, mi, s = map(int, m.groups())
+                            in_time = datetime(y, mo, d, h, mi, s, tzinfo=tz_info)
+                    elif "OUT" in type_val and in_time:
+                        m = re.search(r"(\d{4})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2}):(\d{2})", date_offset)
+                        if m:
+                            y, mo, d, h, mi, s = map(int, m.groups())
+                            out_time = datetime(y, mo, d, h, mi, s, tzinfo=tz_info)
+                            if out_time > in_time:
+                                breaks_events.append({
+                                    "start": in_time, "stop": out_time,
+                                    "title": "Pausa Comercial", "desc": "Espacio publicitario y promos de la señal.",
+                                    "category": "Comercial", "type": "break"
+                                })
+                            in_time = None
         except Exception:
             pass
     return breaks_events
 
 # -------------------------------------------------------------
-# CONFIGURACIÓN COMPLETA DE TODAS LAS REDES Y CANALES
+# CONFIGURACIÓN COMPLETA DE TODAS TUS REDES Y CANALES
 # -------------------------------------------------------------
 NETWORKS_CONFIG = {
     "CNLA_EPG.xml": {
@@ -465,8 +472,8 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
     col_desc = find_column(cols, ["Program Sinopsis Prensa(ESPA)", "Program Sinopsis Prensa(PORT)", "Title Synopsis", "Synopsis", "Description"])
     col_ep_desc = find_column(cols, ["Episode Sinopsis Prensa(ESPA)", "Episode Sinopsis Prensa(PORT)", "Episode Synopsis"])
     col_is_new = find_column(cols, ["Is Premiere", "New Episode", "Premiere", "Estreno", "Title Classification", "Y/N"])
-    col_length = find_column(cols, ["Length", "Duración", "Duration"])
     col_genre = find_column(cols, ["Genre", "Género"])
+    col_length = find_column(cols, ["Length", "Duración"])
 
     first_date_raw = str(df.iloc[0].get(col_date, "")).strip()
     match_init = re.search(r"(\d{1,2})[-/](\d{1,2})[-/](\d{4})", first_date_raw)
@@ -491,19 +498,6 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
         if (d == d0 and m == m0 and y == y0) and hh < 6: event_dt += timedelta(days=1)
         if event_dt >= cycle_end: break
 
-        length_raw = str(row.get(col_length, "")).strip() if col_length and pd.notna(row.get(col_length)) else ""
-        stop_calculated = None
-        if length_raw:
-            try:
-                l_parts = length_raw.split(':')
-                if len(l_parts) == 3:
-                    lh, lm, ls = map(int, [float(x) for x in l_parts])
-                    stop_calculated = event_dt + timedelta(hours=lh, minutes=lm, seconds=ls)
-            except Exception:
-                pass
-
-        genre_raw = str(row.get(col_genre, "")).strip() if col_genre and pd.notna(row.get(col_genre)) else ""
-
         prog_name_val = str(row.get(col_title, "")).strip() if pd.notna(row.get(col_title)) else ""
         if prog_name_val.strip().upper() == "LOS COLORADO": prog_name_val = "El Chapulín Y Los Colorado"
 
@@ -511,6 +505,19 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
         ep_name_val = str(row.get(col_ep_name, "")).strip() if col_ep_name and pd.notna(row.get(col_ep_name)) else ""
         ep_name_en_val = str(row.get(col_ep_name_en, "")).strip() if col_ep_name_en and pd.notna(row.get(col_ep_name_en)) else ""
         year_val = str(row.get(col_year, "")).strip() if col_year and pd.notna(row.get(col_year)) else ""
+        genre_val = str(row.get(col_genre, "")).strip() if col_genre and pd.notna(row.get(col_genre)) else ""
+        length_val = str(row.get(col_length, "")).strip() if col_length and pd.notna(row.get(col_length)) else ""
+
+        # Cálculo dinámico del stop usando la columna Length si está disponible
+        stop_dt = None
+        if length_val:
+            try:
+                parts = length_val.split(':')
+                if len(parts) == 3:
+                    h, m, s = map(int, [float(p) for p in parts])
+                    stop_dt = event_dt + timedelta(hours=h, minutes=m, seconds=s)
+            except:
+                pass
 
         desc_es, desc_en = "", ""
         if prog_name_val.lower() == "cine cartoon":
@@ -562,8 +569,7 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
 
         raw_events.append({
             "start": event_dt,
-            "stop_calculated": stop_calculated,
-            "genre": genre_raw,
+            "stop": stop_dt,
             "title": title_val if title_val.lower() != "nan" else "",
             "sub_title_es": sub_es if sub_es.lower() != "nan" and sub_es.lower() != title_val.lower() else "",
             "sub_title_en": sub_en if sub_en.lower() != "nan" and sub_en.lower() != sub_es.lower() else "",
@@ -571,6 +577,7 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
             "desc_es": desc_es if desc_es.lower() != "nan" else "",
             "desc_en": desc_en if desc_en.lower() != "nan" else "",
             "year": year_val.split('.')[0] if year_val and year_val.replace('.', '', 1).isdigit() else "",
+            "genre": genre_val if genre_val.lower() != "nan" else "",
             "icon": icon_url,
             "type": "show"
         })
@@ -595,27 +602,23 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
     for i in range(total_events):
         ev = raw_events[i]
         start_dt = ev["start"]
-        
-        default_next_stop = raw_events[i + 1]["start"] if i + 1 < total_events else cycle_end
-        stop_dt = ev.get("stop") or ev.get("stop_calculated") or default_next_stop
+        stop_dt = ev.get("stop") or (raw_events[i + 1]["start"] if i + 1 < total_events else cycle_end)
 
-        start_fmt = format_xmltv_date(start_dt, tz_str)
-        stop_fmt = format_xmltv_date(stop_dt, tz_str)
-
-        start_utc_dt = start_dt.astimezone(timezone.utc)
-        stop_utc_dt = stop_dt.astimezone(timezone.utc)
-        start_utc_fmt = format_xmltv_date(start_utc_dt, "+0000")
-        stop_utc_fmt = format_xmltv_date(stop_utc_dt, "+0000")
+        # Formatos XMLTV y UTC avanzados
+        start_str = format_xmltv_date(start_dt, tz_str)
+        stop_str = format_xmltv_date(stop_dt, tz_str)
+        start_utc_str = format_xmltv_date(start_dt.astimezone(timezone.utc), "+0000")
+        stop_utc_str = format_xmltv_date(stop_dt.astimezone(timezone.utc), "+0000")
 
         prog = ET.Element("programme", {
-            "start": start_fmt,
-            "stop": stop_fmt,
-            "air_time_start": start_fmt,
-            "air_time_end": stop_fmt,
-            "start_utc": start_utc_fmt,
-            "stop_utc": stop_utc_fmt,
-            "air_time_start_utc": start_utc_fmt,
-            "air_time_end_utc": stop_utc_fmt,
+            "start": start_str,
+            "stop": stop_str,
+            "air_time_start": start_str,
+            "air_time_end": stop_str,
+            "start_utc": start_utc_str,
+            "stop_utc": stop_utc_str,
+            "air_time_start_utc": start_utc_str,
+            "air_time_end_utc": stop_utc_str,
             "is_live": "false",
             "channel": channel_id
         })
@@ -631,12 +634,9 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
             if ev["desc_es"]: ET.SubElement(prog, "desc", {"lang": lang}).text = ev["desc_es"]
             if ev["desc_en"]: ET.SubElement(prog, "desc", {"lang": "en"}).text = ev["desc_en"]
             if ev["year"]: ET.SubElement(prog, "date").text = ev["year"]
-            
-            if ev.get("genre"):
-                genres = [g.strip() for g in ev["genre"].split(',') if g.strip()]
-                for genre_item in genres:
-                    ET.SubElement(prog, "category", {"lang": lang}).text = genre_item
-
+            if ev["genre"]:
+                for g in ev["genre"].split(','):
+                    ET.SubElement(prog, "category", {"lang": lang}).text = g.strip()
             if ev["episode_num"]: ET.SubElement(prog, "episode-num", {"system": "xmltv_ns"}).text = ev["episode_num"]
             if ev["icon"]: ET.SubElement(prog, "icon", {"src": ev["icon"]})
 
