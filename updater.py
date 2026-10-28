@@ -192,16 +192,17 @@ NETWORKS_CONFIG = {
             {"feed_id": "CTOOLA_BR", "channel_id": "CTOO_BR.br", "channel_name": "Cartoonito Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"},
         ]
     },
-    "DKLA_EPG.xml": {
-    "generator_name": "Guia de Programacion Discovery Kids Latinoamérica",
-    "referer": "https://epg.tapkit.warnermedia.com/epg/networks/47",
-    "type": "daily",
-    "feeds": [
-        {"feed_id": "DKLA_PAN", "channel_id": "DKLA_PAN.co", "channel_name": "Discovery Kids Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5))},
-        {"feed_id": "DKLA_MX", "channel_id": "DKLA_MX.mx", "channel_name": "Discovery Kids Mexico", "lang": "es", "tz": timezone(timedelta(hours=-6))},
-        {"feed_id": "DKLA_BR", "channel_id": "DKLA_BR.br", "channel_name": "Discovery Kids Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3))}
-    ]
-},
+"DKLA_EPG.xml": {
+        "generator_name": "Guia de Programacion Discovery Kids MultiFeed",
+        "referer": "https://epg.tapkit.warnermedia.com/epg/networks/47",
+        "type": "daily",
+        "feeds": [
+            {"feed_id": "DKLA_PAN", "channel_id": "DKLA_PAN.co", "channel_name": "Discovery Kids Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
+            {"feed_id": "DKLA_CAR", "channel_id": "DKLA_CAR.co", "channel_name": "Discovery Kids Caribe", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
+            {"feed_id": "DKLA_MX", "channel_id": "DKLA_MX.mx", "channel_name": "Discovery Kids Mexico", "lang": "es", "tz": timezone(timedelta(hours=-6)), "tz_str": "-0600"},
+            {"feed_id": "DKLA_BR", "channel_id": "DKLA_BR.br", "channel_name": "Discovery Kids Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"}
+        ]
+    },
     "WARNERLA_EPG.xml": {
         "generator_name": "Guia de Programacion Warner Channel MultiFeed",
         "referer": "https://epg.tapkit.warnermedia.com/epg/networks/warner",
