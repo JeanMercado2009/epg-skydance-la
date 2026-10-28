@@ -7,7 +7,6 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 import requests
 import unicodedata
-import lxml
 import openpyxl
 
 RETENTION_DAYS_PAST = 5
@@ -149,7 +148,6 @@ def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"
         try:
             res = http_session.post(LOCAL_BREAKS_URL, json=payload, headers=headers, timeout=10)
             if res.status_code == 200 and len(res.content) > 0:
-                # Lectura correcta del CSV de Motron usando punto y coma (sep=';')
                 df_break = pd.read_csv(io.BytesIO(res.content), sep=';')
                 in_time = None
                 for _, row in df_break.iterrows():
