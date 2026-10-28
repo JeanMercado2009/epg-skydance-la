@@ -6,262 +6,354 @@
   <channel id="TOONLA_BR.br">
     <display-name>Tooncast Brasil</display-name>
   </channel>
-  <programme start="20261028060000 -0300" stop="20261028062500 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028060000 -0300" stop="20261028062500 -0300" air_time_start="20261028060000 -0300" air_time_end="20261028062500 -0300" start_utc="20261028090000 +0000" stop_utc="20261028092500 +0000" air_time_start_utc="20261028090000 +0000" air_time_end_utc="20261028092500 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MANSIÓN FOSTER PARA AMIGOS IMAGINARIOS</title>
     <sub-title lang="es">SQUEEZE THE DAY</sub-title>
     <desc lang="es">Mac y Bloo se quedan solos en la casa Foster y intentan pasar el mejor día de sus vidas.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Infantil</category>
     <episode-num system="xmltv_ns">3.41.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/lrQ0eiVE12sySgpioD3URGdfs0A.jpg" />
   </programme>
-  <programme start="20261028060000 -0300" stop="20261028062500 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028060000 -0300" stop="20261028062500 -0300" air_time_start="20261028060000 -0300" air_time_end="20261028062500 -0300" start_utc="20261028090000 +0000" stop_utc="20261028092500 +0000" air_time_start_utc="20261028090000 +0000" air_time_end_utc="20261028092500 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS</title>
     <sub-title lang="pt">SQUEEZE THE DAY</sub-title>
     <desc lang="pt">Mac e Blu ficam sozinhos na Mansão e dizem que terão o melhor dia de suas vidas.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Comédia</category>
+    <category lang="pt">Infantil</category>
     <episode-num system="xmltv_ns">3.41.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/lrQ0eiVE12sySgpioD3URGdfs0A.jpg" />
   </programme>
-  <programme start="20261028062500 -0300" stop="20261028064900 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028062500 -0300" stop="20261028064900 -0300" air_time_start="20261028062500 -0300" air_time_end="20261028064900 -0300" start_utc="20261028092500 +0000" stop_utc="20261028094900 +0000" air_time_start_utc="20261028092500 +0000" air_time_end_utc="20261028094900 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MANSIÓN FOSTER PARA AMIGOS IMAGINARIOS</title>
     <sub-title lang="es">BLOOOO</sub-title>
     <desc lang="es">Después de ver una película de terror en una noche oscura de tormenta, Wildo y Eduardo están convencidos de que hay un fantasma en la casa. Ellos no saben que en realidad, es sólo Blu que está blanco como un fantasma y con muchos mocos a causa de un resfrío.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Infantil</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/fhrXAIab0SHhZwTjS6C2CLtuHwQ.jpg" />
   </programme>
-  <programme start="20261028062500 -0300" stop="20261028064900 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028062500 -0300" stop="20261028064900 -0300" air_time_start="20261028062500 -0300" air_time_end="20261028064900 -0300" start_utc="20261028092500 +0000" stop_utc="20261028094900 +0000" air_time_start_utc="20261028092500 +0000" air_time_end_utc="20261028094900 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS</title>
     <sub-title lang="pt">BLOOOO</sub-title>
     <desc lang="pt">Após assistir a um filme de terror em uma noite escura e chuvosa, nada tira da cabeça de Minguado e Eduardo que há um fantasma na Mansão. O que eles não sabem é que o fantasma é, na verdade, Blu que ficou todo branco e disfarçado de muco por causa de uma gripe.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Comédia</category>
+    <category lang="pt">Infantil</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/fhrXAIab0SHhZwTjS6C2CLtuHwQ.jpg" />
   </programme>
-  <programme start="20261028064900 -0300" stop="20261028065900 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028064900 -0300" stop="20261028065900 -0300" air_time_start="20261028064900 -0300" air_time_end="20261028065900 -0300" start_utc="20261028094900 +0000" stop_utc="20261028095900 +0000" air_time_start_utc="20261028094900 +0000" air_time_end_utc="20261028095900 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">EL CAMPAMENTO DE LAZLO</title>
     <sub-title lang="es">MARSHMALLOW JONES</sub-title>
     <desc lang="es">Raj se vuelve loco por los malvaviscos y la tarea de Lazlo y Rino consiste en ayudarlo a superar su vicio por esos deliciosos y empalagosos placeres.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/xtbN2YBcmqxd8gRQXs7ddU8LfMO.jpg" />
   </programme>
-  <programme start="20261028064900 -0300" stop="20261028065900 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028064900 -0300" stop="20261028065900 -0300" air_time_start="20261028064900 -0300" air_time_end="20261028065900 -0300" start_utc="20261028094900 +0000" stop_utc="20261028095900 +0000" air_time_start_utc="20261028094900 +0000" air_time_end_utc="20261028095900 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
     <sub-title lang="pt">MARSHMALLOW JONES</sub-title>
     <desc lang="pt">Raj fica doido por marshmallow e é hora de Lazlo e Clam tentarem ajudá-lo a sacudir esses dentes cheios de doce para as gostosuras!</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/xtbN2YBcmqxd8gRQXs7ddU8LfMO.jpg" />
   </programme>
-  <programme start="20261028065900 -0300" stop="20261028071000 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028065900 -0300" stop="20261028071000 -0300" air_time_start="20261028065900 -0300" air_time_end="20261028071000 -0300" start_utc="20261028095900 +0000" stop_utc="20261028101000 +0000" air_time_start_utc="20261028095900 +0000" air_time_end_utc="20261028101000 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">EL CAMPAMENTO DE LAZLO</title>
     <sub-title lang="es">PENNY FOR YOUR DUNG</sub-title>
     <desc lang="es">¿Dónde esta la moneda favorita de los escarabajos? Chip y Skip gastan una fortuna para encontrarla y destruyen el campamento en el proceso.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">4.55.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/m8Ww4qGZufvZW6YMZcbfnpoCtXD.jpg" />
   </programme>
-  <programme start="20261028065900 -0300" stop="20261028071000 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028065900 -0300" stop="20261028071000 -0300" air_time_start="20261028065900 -0300" air_time_end="20261028071000 -0300" start_utc="20261028095900 +0000" stop_utc="20261028101000 +0000" air_time_start_utc="20261028095900 +0000" air_time_end_utc="20261028101000 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
     <sub-title lang="pt">PENNY FOR YOUR DUNG</sub-title>
     <desc lang="pt">Cadê o centavo favorito dos Dung Beetles? Chip e Skip gastam uma fortuna para encontrá-lo e destroem o acampamento no processo.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">4.55.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/m8Ww4qGZufvZW6YMZcbfnpoCtXD.jpg" />
   </programme>
-  <programme start="20261028071000 -0300" stop="20261028072100 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028071000 -0300" stop="20261028072100 -0300" air_time_start="20261028071000 -0300" air_time_end="20261028072100 -0300" start_utc="20261028101000 +0000" stop_utc="20261028102100 +0000" air_time_start_utc="20261028101000 +0000" air_time_end_utc="20261028102100 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">EL CAMPAMENTO DE LAZLO</title>
     <sub-title lang="es">HAROLD AND RAJ</sub-title>
     <desc lang="es">Harold se esfuerza para  impresionar a su nuevo mejor amigo: Raj.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">3.44.</episode-num>
   </programme>
-  <programme start="20261028071000 -0300" stop="20261028072100 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028071000 -0300" stop="20261028072100 -0300" air_time_start="20261028071000 -0300" air_time_end="20261028072100 -0300" start_utc="20261028101000 +0000" stop_utc="20261028102100 +0000" air_time_start_utc="20261028101000 +0000" air_time_end_utc="20261028102100 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
     <sub-title lang="pt">HAROLD AND RAJ</sub-title>
     <desc lang="pt">Haroldo vai um pouco longe demais ao tentar impressionar seu novo melhor amigo, Raj.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">3.44.</episode-num>
   </programme>
-  <programme start="20261028072100 -0300" stop="20261028073300 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028072100 -0300" stop="20261028073300 -0300" air_time_start="20261028072100 -0300" air_time_end="20261028073300 -0300" start_utc="20261028102100 +0000" stop_utc="20261028103300 +0000" air_time_start_utc="20261028102100 +0000" air_time_end_utc="20261028103300 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">EL CAMPAMENTO DE LAZLO</title>
     <sub-title lang="es">TOUR WARS</sub-title>
     <desc lang="es">Edward y los Jelly Beans compiten por el negocio de las visitas al Campamento Riñón.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">3.47.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/A1fzIMEP4QAF38brKEdxS5yJbIz.jpg" />
   </programme>
-  <programme start="20261028072100 -0300" stop="20261028073300 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028072100 -0300" stop="20261028073300 -0300" air_time_start="20261028072100 -0300" air_time_end="20261028073300 -0300" start_utc="20261028102100 +0000" stop_utc="20261028103300 +0000" air_time_start_utc="20261028102100 +0000" air_time_end_utc="20261028103300 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
     <sub-title lang="pt">TOUR WARS</sub-title>
     <desc lang="pt">Lazlo organiza um tour pelo Acampamento Rim. O único problema é que Eduardo acha tudo uma porcaria!</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">3.47.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/A1fzIMEP4QAF38brKEdxS5yJbIz.jpg" />
   </programme>
-  <programme start="20261028073300 -0300" stop="20261028074400 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028073300 -0300" stop="20261028074400 -0300" air_time_start="20261028073300 -0300" air_time_end="20261028074400 -0300" start_utc="20261028103300 +0000" stop_utc="20261028104400 +0000" air_time_start_utc="20261028103300 +0000" air_time_end_utc="20261028104400 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">EL CAMPAMENTO DE LAZLO</title>
     <sub-title lang="es">LOOGIE LLAMA</sub-title>
     <desc lang="es">Los Bean Scouts se sienten horrible porque no tienen caballos, pero eso cambia cuando Lazlo trae a una llama que escupe y les recuerda a todos que no hay nada de malo en ser inadaptados.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/7YH0dpOAS4YactEZnh4kApgGidJ.jpg" />
   </programme>
-  <programme start="20261028073300 -0300" stop="20261028074400 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028073300 -0300" stop="20261028074400 -0300" air_time_start="20261028073300 -0300" air_time_end="20261028074400 -0300" start_utc="20261028103300 +0000" stop_utc="20261028104400 +0000" air_time_start_utc="20261028103300 +0000" air_time_end_utc="20261028104400 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
     <sub-title lang="pt">LOOGIE LLAMA</sub-title>
     <desc lang="pt">Os Escoteiros Bean ficam deprimidos porque não possuem cavalos, mas tudo muda de cenário quando Lazlo pede a ajuda de uma lhama que parece um cavalo que os lembra que está tudo bem em ser uma farsa.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/7YH0dpOAS4YactEZnh4kApgGidJ.jpg" />
   </programme>
-  <programme start="20261028074400 -0300" stop="20261028075700 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028074400 -0300" stop="20261028075700 -0300" air_time_start="20261028074400 -0300" air_time_end="20261028075700 -0300" start_utc="20261028104400 +0000" stop_utc="20261028105700 +0000" air_time_start_utc="20261028104400 +0000" air_time_end_utc="20261028105700 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">EL CAMPAMENTO DE LAZLO</title>
     <sub-title lang="es">PARENT'S DAY</sub-title>
     <desc lang="es">Cuando los Jelly descubren que los padres del Profesor Lumpus no vinieron a visitarlo, ellos tratarán de hacer lo correcto.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">1.15.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/rmzNYJRj3X05DmesRn8HHCDfJs6.jpg" />
   </programme>
-  <programme start="20261028074400 -0300" stop="20261028075700 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028074400 -0300" stop="20261028075700 -0300" air_time_start="20261028074400 -0300" air_time_end="20261028075700 -0300" start_utc="20261028104400 +0000" stop_utc="20261028105700 +0000" air_time_start_utc="20261028104400 +0000" air_time_end_utc="20261028105700 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
     <sub-title lang="pt">PARENT'S DAY</sub-title>
     <desc lang="pt">Quando as Jellies descobrem que os pais de Lumpus não vieram visitá-lo no acampamento, elas tentam dar um jeito na situação.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">1.15.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/rmzNYJRj3X05DmesRn8HHCDfJs6.jpg" />
   </programme>
-  <programme start="20261028075700 -0300" stop="20261028080800 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028075700 -0300" stop="20261028080800 -0300" air_time_start="20261028075700 -0300" air_time_end="20261028080800 -0300" start_utc="20261028105700 +0000" stop_utc="20261028110800 +0000" air_time_start_utc="20261028105700 +0000" air_time_end_utc="20261028110800 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
     <sub-title lang="es">JAKE'S DAY OFF</sub-title>
     <desc lang="es">Jake decide tomarse el día libre de la escuela, pero hace algo típico de el: se pasa todo el día en la escuela, disfrutando de las instalaciones sin que se interpongan las molestas clases y convence a Adam para que se una a él.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">1.20.</episode-num>
   </programme>
-  <programme start="20261028075700 -0300" stop="20261028080800 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028075700 -0300" stop="20261028080800 -0300" air_time_start="20261028075700 -0300" air_time_end="20261028080800 -0300" start_utc="20261028105700 +0000" stop_utc="20261028110800 +0000" air_time_start_utc="20261028105700 +0000" air_time_end_utc="20261028110800 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
     <sub-title lang="pt">JAKE'S DAY OFF</sub-title>
     <desc lang="pt">Jake decide tirar um dia de folga da escola. Mas, ao seu estilo, prefere ficar na própria escola, aproveitando o que o lugar tem de melhor sem ter que assistir às aulas. E ainda tenta convencer Adão a acompanhá-lo.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">1.20.</episode-num>
   </programme>
-  <programme start="20261028080800 -0300" stop="20261028081900 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028080800 -0300" stop="20261028081900 -0300" air_time_start="20261028080800 -0300" air_time_end="20261028081900 -0300" start_utc="20261028110800 +0000" stop_utc="20261028111900 +0000" air_time_start_utc="20261028110800 +0000" air_time_end_utc="20261028111900 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
     <sub-title lang="es">MEET THE SPIDERMONKEYS</sub-title>
     <desc lang="es">Adam conoce a los padres de Jake y pasa el día con ellos en el zoológico.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">3.39.</episode-num>
   </programme>
-  <programme start="20261028080800 -0300" stop="20261028081900 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028080800 -0300" stop="20261028081900 -0300" air_time_start="20261028080800 -0300" air_time_end="20261028081900 -0300" start_utc="20261028110800 +0000" stop_utc="20261028111900 +0000" air_time_start_utc="20261028110800 +0000" air_time_end_utc="20261028111900 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
     <sub-title lang="pt">MEET THE SPIDERMONKEYS</sub-title>
     <desc lang="pt">Adão conhece os pais de Jake e passa o dia brincando com os macacos em seu habitat no zoológico.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">3.39.</episode-num>
   </programme>
-  <programme start="20261028081900 -0300" stop="20261028083200 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028081900 -0300" stop="20261028083200 -0300" air_time_start="20261028081900 -0300" air_time_end="20261028083200 -0300" start_utc="20261028111900 +0000" stop_utc="20261028113200 +0000" air_time_start_utc="20261028111900 +0000" air_time_end_utc="20261028113200 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
     <sub-title lang="es">AN INCONVENIENT GOOF</sub-title>
     <desc lang="es">Cuando el Ala Polar de la escuela comienza a derretirse, Adam se lo atribuye al calentamiento global. Pero sus advertencias no son escuchadas, ya que los estudiantes y los profesores utilizan los pasillos inundados para organizar una gigantesca fiesta de piscina.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">2.38.</episode-num>
   </programme>
-  <programme start="20261028081900 -0300" stop="20261028083200 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028081900 -0300" stop="20261028083200 -0300" air_time_start="20261028081900 -0300" air_time_end="20261028083200 -0300" start_utc="20261028111900 +0000" stop_utc="20261028113200 +0000" air_time_start_utc="20261028111900 +0000" air_time_end_utc="20261028113200 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
     <sub-title lang="pt">AN INCONVENIENT GOOF</sub-title>
     <desc lang="pt">Quando a Asa Polar da Escola Charles Darwin começa a derreter durante uma onda de calor, Adão culpa o aquecimento global. Mas ninguém dá ouvidos aos seus terríveis avisos e os outros estudantes e professores aproveitam a inundação nos corredores para fazer uma grande festa da piscina. No final, todo mundo aprende uma lição valiosa sobre conservação e a importância do cabelo permanente.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">2.38.</episode-num>
   </programme>
-  <programme start="20261028083200 -0300" stop="20261028084300 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028083200 -0300" stop="20261028084300 -0300" air_time_start="20261028083200 -0300" air_time_end="20261028084300 -0300" start_utc="20261028113200 +0000" stop_utc="20261028114300 +0000" air_time_start_utc="20261028113200 +0000" air_time_end_utc="20261028114300 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
     <sub-title lang="es">MAGIC FISH</sub-title>
     <desc lang="es">Adam rescata a un pez atascado y éste le otorga un "deseo mágico de pez". Adam no le hace caso pensando que es una tontería pero pronto descubre que sus amigos animales no piensan lo mismo y quieren que Adam use su deseo para ellos.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">1.18.</episode-num>
   </programme>
-  <programme start="20261028083200 -0300" stop="20261028084300 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028083200 -0300" stop="20261028084300 -0300" air_time_start="20261028083200 -0300" air_time_end="20261028084300 -0300" start_utc="20261028113200 +0000" stop_utc="20261028114300 +0000" air_time_start_utc="20261028113200 +0000" air_time_end_utc="20261028114300 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
     <sub-title lang="pt">MAGIC FISH</sub-title>
     <desc lang="pt">Adão resgata um peixe encalhado e ganha um pedido mágico. Mas ele dispensa a oferta. Depois, acaba descobrindo que seus amigos animais pensam diferente e querem que o desejo seja usado em benefício a eles mesmos.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">1.18.</episode-num>
   </programme>
-  <programme start="20261028084300 -0300" stop="20261028085700 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028084300 -0300" stop="20261028085700 -0300" air_time_start="20261028084300 -0300" air_time_end="20261028085700 -0300" start_utc="20261028114300 +0000" stop_utc="20261028115700 +0000" air_time_start_utc="20261028114300 +0000" air_time_end_utc="20261028115700 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
     <sub-title lang="es">THE PRINCE AND THE POOPER</sub-title>
     <desc lang="es">Jake cambia de lugares con Saucy, su malcriado primo. Mientras que Jake vive en la mansión de una estrella de rock, Adam debe lidiar con el molesto Saucy.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">2.31.</episode-num>
   </programme>
-  <programme start="20261028084300 -0300" stop="20261028085700 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028084300 -0300" stop="20261028085700 -0300" air_time_start="20261028084300 -0300" air_time_end="20261028085700 -0300" start_utc="20261028114300 +0000" stop_utc="20261028115700 +0000" air_time_start_utc="20261028114300 +0000" air_time_end_utc="20261028115700 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
     <sub-title lang="pt">THE PRINCE AND THE POOPER</sub-title>
     <desc lang="pt">Jake troca de lugar com sua prima mimada, Saucy, e vive a vida em um palácio de popstar. Enquanto isso, Adão precisa aguentar a irritante Saucy.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">2.31.</episode-num>
   </programme>
-  <programme start="20261028085700 -0300" stop="20261028090400 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028085700 -0300" stop="20261028090400 -0300" air_time_start="20261028085700 -0300" air_time_end="20261028090400 -0300" start_utc="20261028115700 +0000" stop_utc="20261028120400 +0000" air_time_start_utc="20261028115700 +0000" air_time_end_utc="20261028120400 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
     <sub-title lang="es">IKKAKUJUU</sub-title>
     <desc lang="es">Ami trata de convencer a sus amigos de que ha visto un unicornio.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">1.22.</episode-num>
   </programme>
-  <programme start="20261028085700 -0300" stop="20261028090400 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028085700 -0300" stop="20261028090400 -0300" air_time_start="20261028085700 -0300" air_time_end="20261028090400 -0300" start_utc="20261028115700 +0000" stop_utc="20261028120400 +0000" air_time_start_utc="20261028115700 +0000" air_time_end_utc="20261028120400 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
     <sub-title lang="pt">IKKAKUJUU</sub-title>
     <desc lang="pt">Ami tenta convencer seus amigos de que ela viu um unicórnio.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">1.22.</episode-num>
   </programme>
-  <programme start="20261028090400 -0300" stop="20261028091000 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028090400 -0300" stop="20261028091000 -0300" air_time_start="20261028090400 -0300" air_time_end="20261028091000 -0300" start_utc="20261028120400 +0000" stop_utc="20261028121000 +0000" air_time_start_utc="20261028120400 +0000" air_time_end_utc="20261028121000 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
     <sub-title lang="es">OLDIE AMI YUMI</sub-title>
     <desc lang="es">Ami y Yumi, ahora como ancianas, son obligadas a ir a un asilo para estrellas de rock, donde la diversión no está permitida.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">2.32.</episode-num>
   </programme>
-  <programme start="20261028090400 -0300" stop="20261028091000 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028090400 -0300" stop="20261028091000 -0300" air_time_start="20261028090400 -0300" air_time_end="20261028091000 -0300" start_utc="20261028120400 +0000" stop_utc="20261028121000 +0000" air_time_start_utc="20261028120400 +0000" air_time_end_utc="20261028121000 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
     <sub-title lang="pt">OLDIE AMI YUMI</sub-title>
     <desc lang="pt">Ami e Yumi agora são velhas, portanto eles são enviadas a uma casa de roqueiros onde nenhum permitido é divertimento.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">2.32.</episode-num>
   </programme>
-  <programme start="20261028091000 -0300" stop="20261028091700 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028091000 -0300" stop="20261028091700 -0300" air_time_start="20261028091000 -0300" air_time_end="20261028091700 -0300" start_utc="20261028121000 +0000" stop_utc="20261028121700 +0000" air_time_start_utc="20261028121000 +0000" air_time_end_utc="20261028121700 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
     <sub-title lang="es">AMI GOES BAD</sub-title>
     <desc lang="es">Ami compra las baquetas de batería de su baterista favorito, el chico-malo CrazyStixx y comienzan a ocurrir cosas extrañas. El estilo de Ami al tocar la batería se vuelve más salvaje y descontrolado pero no es el único... sino que a ella también le pasa lo mismo.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/5YmMnkQ1Uw6Bvvm0aLSRZy0SzgT.jpg" />
   </programme>
-  <programme start="20261028091000 -0300" stop="20261028091700 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028091000 -0300" stop="20261028091700 -0300" air_time_start="20261028091000 -0300" air_time_end="20261028091700 -0300" start_utc="20261028121000 +0000" stop_utc="20261028121700 +0000" air_time_start_utc="20261028121000 +0000" air_time_end_utc="20261028121700 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
     <sub-title lang="pt">AMI GOES BAD</sub-title>
     <desc lang="pt">Quando Ami compra suas baquetas de seu predileto, falecido e amado baterista bad boy, CrazyStixx, coisas estranhas começam acontecer. Não só o estilo de tocar bateria de Ami fica mais selvagem e fora de controle, mas também a própria Ami.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/5YmMnkQ1Uw6Bvvm0aLSRZy0SzgT.jpg" />
   </programme>
-  <programme start="20261028091700 -0300" stop="20261028092400 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028091700 -0300" stop="20261028092400 -0300" air_time_start="20261028091700 -0300" air_time_end="20261028092400 -0300" start_utc="20261028121700 +0000" stop_utc="20261028122400 +0000" air_time_start_utc="20261028121700 +0000" air_time_end_utc="20261028122400 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
     <sub-title lang="es">GRAVE MISTAKE, A</sub-title>
     <desc lang="es">Los Chupatalento reclutan a unos zombies para que los ayuden a promover un show.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">2.31.</episode-num>
   </programme>
-  <programme start="20261028091700 -0300" stop="20261028092400 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028091700 -0300" stop="20261028092400 -0300" air_time_start="20261028091700 -0300" air_time_end="20261028092400 -0300" start_utc="20261028121700 +0000" stop_utc="20261028122400 +0000" air_time_start_utc="20261028121700 +0000" air_time_end_utc="20261028122400 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
     <sub-title lang="pt">GRAVE MISTAKE, A</sub-title>
     <desc lang="pt">Os Sugadores de Talento recrutam zumbis para ajudá-los a promover um show.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">2.31.</episode-num>
   </programme>
-  <programme start="20261028092400 -0300" stop="20261028093300 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028092400 -0300" stop="20261028093300 -0300" air_time_start="20261028092400 -0300" air_time_end="20261028093300 -0300" start_utc="20261028122400 +0000" stop_utc="20261028123300 +0000" air_time_start_utc="20261028122400 +0000" air_time_end_utc="20261028123300 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
     <sub-title lang="es">IN THE CARDS</sub-title>
     <desc lang="es">Ami y Yumi se enamoran de Chad, el encantador y súper-genial jugador número uno del popular juego de cartas japonés Stu-Pi-Doh. Con el fin de ganarse el afecto de Chad, las chicas se meten en el juego y se desencadena una ridícula competencia.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/p8Zkv4ud6ecRmxQZYJwVDsN4QTB.jpg" />
   </programme>
-  <programme start="20261028092400 -0300" stop="20261028093300 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028092400 -0300" stop="20261028093300 -0300" air_time_start="20261028092400 -0300" air_time_end="20261028093300 -0300" start_utc="20261028122400 +0000" stop_utc="20261028123300 +0000" air_time_start_utc="20261028122400 +0000" air_time_end_utc="20261028123300 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
     <sub-title lang="pt">IN THE CARDS</sub-title>
     <desc lang="pt">Ami e Yumi se apaixonam por Chad, o jogador dos sonhos de toda menina e superlegal do popular jogo japonês de cartas de combate Stu-Pi-Doh. Para que Chad se renda aos mimos das garotas, elas entram no jogo e uma competição muito ridícula começa entre as duas.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/p8Zkv4ud6ecRmxQZYJwVDsN4QTB.jpg" />
   </programme>
-  <programme start="20261028093300 -0300" stop="20261028094300 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028093300 -0300" stop="20261028094300 -0300" air_time_start="20261028093300 -0300" air_time_end="20261028094300 -0300" start_utc="20261028123300 +0000" stop_utc="20261028124300 +0000" air_time_start_utc="20261028123300 +0000" air_time_end_utc="20261028124300 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Mike, Lu y Og</title>
     <sub-title lang="es">Alfred Lord of the Jungle</sub-title>
     <desc lang="es">El típico documentalista norteamericano llega a la isla.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">1.21.</episode-num>
   </programme>
-  <programme start="20261028093300 -0300" stop="20261028094300 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028093300 -0300" stop="20261028094300 -0300" air_time_start="20261028093300 -0300" air_time_end="20261028094300 -0300" start_utc="20261028123300 +0000" stop_utc="20261028124300 +0000" air_time_start_utc="20261028123300 +0000" air_time_end_utc="20261028124300 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MIKE, LU E OG</title>
     <sub-title lang="pt">Alfred Lord of the Jungle</sub-title>
     <desc lang="pt">Um famoso antropólogo descobre que os moradores da ilha não são ferozes.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">1.21.</episode-num>
   </programme>
-  <programme start="20261028094300 -0300" stop="20261028095700 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028094300 -0300" stop="20261028095700 -0300" air_time_start="20261028094300 -0300" air_time_end="20261028095700 -0300" start_utc="20261028124300 +0000" stop_utc="20261028125700 +0000" air_time_start_utc="20261028124300 +0000" air_time_end_utc="20261028125700 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Mike, Lu y Og</title>
     <sub-title lang="es">Repeat After Me</sub-title>
     <desc lang="es">Skipper, el pájaro de Wendell, mete en muchos problemas a Mike.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">1.14.</episode-num>
   </programme>
-  <programme start="20261028094300 -0300" stop="20261028095700 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028094300 -0300" stop="20261028095700 -0300" air_time_start="20261028094300 -0300" air_time_end="20261028095700 -0300" start_utc="20261028124300 +0000" stop_utc="20261028125700 +0000" air_time_start_utc="20261028124300 +0000" air_time_end_utc="20261028125700 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MIKE, LU E OG</title>
     <sub-title lang="pt">Repeat After Me</sub-title>
     <desc lang="pt">Mike descobre que papagaios não conseguem guardar segredo.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">1.14.</episode-num>
   </programme>
   <programme start="20261028095700 -0300" stop="20261028095700 -0300" channel="TOONLA_PAN.co">
@@ -278,17 +370,19 @@
     <episode-num system="xmltv_ns">0.13.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/qOJwRJGNb6pggUDpRityChvCuSy.jpg" />
   </programme>
-  <programme start="20261028095700 -0300" stop="20261028095700 -0300" channel="TOONLA_PAN.co">
+  <programme start="20261028095700 -0300" stop="20261028095700 -0300" air_time_start="20261028095700 -0300" air_time_end="20261028095700 -0300" start_utc="20261028125700 +0000" stop_utc="20261028125700 +0000" air_time_start_utc="20261028125700 +0000" air_time_end_utc="20261028125700 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
     <sub-title lang="es">BUDDY'S 594 USES FOR BREAD</sub-title>
     <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
+    <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.13.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/qOJwRJGNb6pggUDpRityChvCuSy.jpg" />
   </programme>
-  <programme start="20261028095700 -0300" stop="20261028095700 -0300" channel="TOONLA_BR.br">
+  <programme start="20261028095700 -0300" stop="20261028095700 -0300" air_time_start="20261028095700 -0300" air_time_end="20261028095700 -0300" start_utc="20261028125700 +0000" stop_utc="20261028125700 +0000" air_time_start_utc="20261028125700 +0000" air_time_end_utc="20261028125700 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
     <sub-title lang="pt">BUDDY'S 594 USES FOR BREAD</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
+    <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.13.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/qOJwRJGNb6pggUDpRityChvCuSy.jpg" />
   </programme>
