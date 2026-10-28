@@ -183,13 +183,15 @@ NETWORKS_CONFIG = {
         ]
     },
     "DKLA_EPG.xml": {
-        "generator_name": "Guia de Programacion Discovery Kids MultiFeed",
-        "referer": "https://epg.tapkit.warnermedia.com/epg/networks/5",
-        "type": "daily",
-        "feeds": [
-            {"feed_id": "DKLA_PAN", "channel_id": "DKLA_PAN.co", "channel_name": "Discovery Kids Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"}
-        ]
-    },
+    "generator_name": "Guia de Programacion Discovery Kids MultiFeed",
+    "referer": "https://epg.tapkit.warnermedia.com/epg/networks/5",
+    "type": "daily",
+    "feeds": [
+        {"feed_id": "DKLA_PAN", "channel_id": "DKLA_PAN.co", "channel_name": "Discovery Kids Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5))},
+        {"feed_id": "DKLA_MX", "channel_id": "DKLA_MX.mx", "channel_name": "Discovery Kids Mexico", "lang": "es", "tz": timezone(timedelta(hours=-6))},
+        {"feed_id": "DKLA_BR", "channel_id": "DKLA_BR.br", "channel_name": "Discovery Kids Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3))}
+    ]
+}
     "WARNERLA_EPG.xml": {
         "generator_name": "Guia de Programacion Warner Channel MultiFeed",
         "referer": "https://epg.tapkit.warnermedia.com/epg/networks/warner",
