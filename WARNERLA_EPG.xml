@@ -21,11 +21,6 @@
   <channel id="WARNER_MX.mx">
     <display-name>Warner Channel México</display-name>
   </channel>
-  <programme start="20261022201000 -0600" stop="20261022215200 -0600" channel="WARNER_MX.mx">
-    <title lang="es">Drácula: La Historia Jamás Contada</title>
-    <sub-title lang="es">Dracula Untold</sub-title>
-    <desc lang="es">Como el príncipe Vlad Tepes sabe que la guerra está por llegar, va a una cueva donde vive un vampiro y le pide ayuda. Este le ofrece algo de su sangre, lo cual le dará poderes vampíricos de forma temporánea. Salvo que beba sangre humana.</desc>
-  </programme>
   <programme start="20261022215200 -0600" stop="20261022220000 -0600" channel="WARNER_MX.mx">
     <title lang="es">INSIDE WARNER: CLAYFACE</title>
     <episode-num system="xmltv_ns">-1.0.</episode-num>
