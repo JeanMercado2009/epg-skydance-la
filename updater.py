@@ -182,6 +182,16 @@ NETWORKS_CONFIG = {
             {"feed_id": "CNLA_BR", "channel_id": "CNLA_BR.br", "channel_name": "Cartoon Network Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"}
         ]
     },
+    "CTOOLA_EPG.xml": {
+        "generator_name": "Guia de Programacion Cartoonito Latinoamérica",
+        "referer": "https://epg.tapkit.warnermedia.com/epg/networks/1",
+        "type": "daily",
+        "feeds": [
+            {"feed_id": "CTOOLA_PAN", "channel_id": "CTOO_PAN.co", "channel_name": "Cartoonito Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5))},
+            {"feed_id": "CTOOLA_TVEGO", "channel_id": "CTOO_PANTVEGO.co", "channel_name": "Cartoonito Panregional TVEGO", "lang": "es", "tz": timezone(timedelta(hours=-5))},
+            {"feed_id": "CTOOLA_BR", "channel_id": "CTOO_BR.br", "channel_name": "Cartoonito Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3))}
+        ]
+    },
     "DKLA_EPG.xml": {
     "generator_name": "Guia de Programacion Discovery Kids Latinoamérica",
     "referer": "https://epg.tapkit.warnermedia.com/epg/networks/47",
