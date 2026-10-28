@@ -7,6 +7,8 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 import requests
 import unicodedata
+import lxml
+import openpyxl
 
 RETENTION_DAYS_PAST = 5
 RETENTION_DAYS_FUTURE = 15
