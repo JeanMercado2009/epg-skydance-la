@@ -184,7 +184,7 @@ NETWORKS_CONFIG = {
     },
     "DKLA_EPG.xml": {
     "generator_name": "Guia de Programacion Discovery Kids Latinoamérica",
-    "referer": "https://epg.tapkit.warnermedia.com/epg/networks/5",
+    "referer": "https://epg.tapkit.warnermedia.com/epg/networks/47",
     "type": "daily",
     "feeds": [
         {"feed_id": "DKLA_PAN", "channel_id": "DKLA_PAN.co", "channel_name": "Discovery Kids Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5))},
