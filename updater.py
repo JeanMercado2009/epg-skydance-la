@@ -235,9 +235,9 @@ NETWORKS_CONFIG = {
         "type": "daily",
         "feeds": [
             {"feed_id": "TNTSPO_AR", "channel_id": "TNTSPO_AR.ar", "channel_name": "TNT Sports Argentina", "lang": "es", "tz": timezone(timedelta(hours=-3))},
-            {"feed_id": "CDFH_CL", "channel_id": "CDFH_CL.cl", "channel_name": "TNT Sports HD Chile", "lang": "es", "tz": timezone(timedelta(hours=-4))},
-            {"feed_id": "CDFB_CL", "channel_id": "CDFB_CL.cl", "channel_name": "TNT Sports 3 Chile", "lang": "es", "tz": timezone(timedelta(hours=-4))},
-            {"feed_id": "CDFP_CL", "channel_id": "CDFP_CL.cl", "channel_name": "TNT Sports 2 Chile", "lang": "es", "tz": timezone(timedelta(hours=-4))}
+            {"feed_id": "CDFH_CL", "channel_id": "CDFH_CL.cl", "channel_name": "TNT Sports HD (Chile)", "lang": "es", "tz": timezone(timedelta(hours=-4))},
+            {"feed_id": "CDFB_CL", "channel_id": "CDFB_CL.cl", "channel_name": "TNT Sports 3 (Chile)", "lang": "es", "tz": timezone(timedelta(hours=-4))},
+            {"feed_id": "CDFP_CL", "channel_id": "CDFP_CL.cl", "channel_name": "TNT Sports 2 (Chile)", "lang": "es", "tz": timezone(timedelta(hours=-4))}
         ]
     }
 }
