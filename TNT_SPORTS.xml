@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding='utf-8'?>
+<tv generator-info-name="Guia de Programacion TNT Sports Latinoamérica">
+  <channel id="TNTSPO_AR.ar">
+    <display-name>TNT Sports Argentina</display-name>
+  </channel>
+  <channel id="CDFH_CL.cl">
+    <display-name>TNT Sports HD (Chile)</display-name>
+  </channel>
+  <channel id="CDFB_CL.cl">
+    <display-name>TNT Sports 3 (Chile)</display-name>
+  </channel>
+  <channel id="CDFP_CL.cl">
+    <display-name>TNT Sports 2 (Chile)</display-name>
+  </channel>
+</tv>
