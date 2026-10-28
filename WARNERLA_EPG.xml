@@ -21,86 +21,17 @@
   <channel id="WARNER_MX.mx">
     <display-name>Warner Channel México</display-name>
   </channel>
-  <programme start="20261022215200 -0600" stop="20261022220000 -0600" channel="WARNER_MX.mx">
-    <title lang="es">INSIDE WARNER: CLAYFACE</title>
-    <episode-num system="xmltv_ns">-1.0.</episode-num>
-  </programme>
-  <programme start="20261022215900 -0400" stop="20261023001400 -0400" channel="WARNER_VE.ve">
-    <title lang="es">El Libro de los Secretos</title>
-    <sub-title lang="es">The Book of Eli</sub-title>
-    <desc lang="es">En un futuro apocalíptico y desolado, un hombre solitario (Denzel Washington) protege un libro sagrado que podría ser la salvación de la humanidad. Sus habilidades para luchar y su oculto tesoro llaman la atención de un mafioso (Gary Oldman) y de su sensual hija (Mila Kunis, El cisne negro).</desc>
-  </programme>
-  <programme start="20261022220000 -0400" stop="20261023000900 -0400" channel="WARNER_CL.cl">
-    <title lang="es">El Libro de los Secretos</title>
-    <sub-title lang="es">The Book of Eli</sub-title>
-    <desc lang="es">En un futuro apocalíptico y desolado, un hombre solitario (Denzel Washington) protege un libro sagrado que podría ser la salvación de la humanidad. Sus habilidades para luchar y su oculto tesoro llaman la atención de un mafioso (Gary Oldman) y de su sensual hija (Mila Kunis, El cisne negro).</desc>
-  </programme>
-  <programme start="20261022220000 -0500" stop="20261023000500 -0500" channel="WARNER_AN.co">
-    <title lang="es">El Libro de los Secretos</title>
-    <sub-title lang="es">The Book of Eli</sub-title>
-    <desc lang="es">En un futuro apocalíptico y desolado, un hombre solitario (Denzel Washington) protege un libro sagrado que podría ser la salvación de la humanidad. Sus habilidades para luchar y su oculto tesoro llaman la atención de un mafioso (Gary Oldman) y de su sensual hija (Mila Kunis, El cisne negro).</desc>
-  </programme>
-  <programme start="20261022220000 -0500" stop="20261023001600 -0500" channel="WARNER_CO.co">
-    <title lang="es">El Libro de los Secretos</title>
-    <sub-title lang="es">The Book of Eli</sub-title>
-    <desc lang="es">En un futuro apocalíptico y desolado, un hombre solitario (Denzel Washington) protege un libro sagrado que podría ser la salvación de la humanidad. Sus habilidades para luchar y su oculto tesoro llaman la atención de un mafioso (Gary Oldman) y de su sensual hija (Mila Kunis, El cisne negro).</desc>
-  </programme>
   <programme start="20261022220000 -0600" stop="20261023000900 -0600" channel="WARNER_MX.mx">
     <title lang="es">El Libro de los Secretos</title>
     <sub-title lang="es">The Book of Eli</sub-title>
     <desc lang="es">En un futuro apocalíptico y desolado, un hombre solitario (Denzel Washington) protege un libro sagrado que podría ser la salvación de la humanidad. Sus habilidades para luchar y su oculto tesoro llaman la atención de un mafioso (Gary Oldman) y de su sensual hija (Mila Kunis, El cisne negro).</desc>
-  </programme>
-  <programme start="20261023000500 -0500" stop="20261023002700 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">STAIRCASE IMPLEMENTATION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
-  <programme start="20261023000900 -0400" stop="20261023003200 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">STAIRCASE IMPLEMENTATION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
   <programme start="20261023000900 -0600" stop="20261023003300 -0600" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">STAIRCASE IMPLEMENTATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
-  <programme start="20261023001400 -0400" stop="20261023003700 -0400" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">STAIRCASE IMPLEMENTATION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
-  <programme start="20261023001600 -0500" stop="20261023004100 -0500" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">STAIRCASE IMPLEMENTATION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
-  <programme start="20261023002700 -0500" stop="20261023004900 -0500" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">LUNAR EXCITATION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
-  <programme start="20261023003200 -0300" stop="20261023005500 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">LUNAR EXCITATION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
-  <programme start="20261023003200 -0400" stop="20261023005600 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">LUNAR EXCITATION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
   <programme start="20261023003300 -0600" stop="20261023005700 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">LUNAR EXCITATION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
-  <programme start="20261023003700 -0300" stop="20261023005900 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">ALAN HARPER, FRONTIER CHIROPRACTOR</sub-title>
-    <desc lang="pt">Charlie e Jake convencem Alan de que ele precisa mudar sua aparência, quando dizem que Judith está vivendo sua vida desde o rompimento, ela mudou o cabelo e está com um novo companheiro. Alan percebe que eles tem razão, ainda mais porque seu próprio filho lhe diz que está preocupado com ele. Quando Charlie leva Alan às compras, os irmãos não conseguem entrar num acordo quanto ao estilo que fica melhor em Alan. Enquanto isso, a presunçosa Evelyn está na casa de Charlie para passar a tarde com seu neto Jake.</desc>
-  </programme>
-  <programme start="20261023003700 -0400" stop="20261023005900 -0400" channel="WARNER_VE.ve">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">LUNAR EXCITATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
@@ -115,27 +46,7 @@
     <sub-title lang="es">ROBOTIC MANIPULATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
-  <programme start="20261023005500 -0300" stop="20261023011800 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">ROBOTIC MANIPULATION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
-  <programme start="20261023005600 -0400" stop="20261023011900 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">ROBOTIC MANIPULATION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
   <programme start="20261023005700 -0600" stop="20261023012000 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">ROBOTIC MANIPULATION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
-  <programme start="20261023005900 -0300" stop="20261023012100 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">CAMEL FILTERS AND PHEREMONES</sub-title>
-    <desc lang="pt">Quando a empregada de Charlie, Berta (atriz coadjuvante convidada CONCHATA FERRELL), traz consigo sua rebelde filha de 16 anos, Prudence (MEGAN FOX), para a casa de Charlie, Jake desenvolve por ela uma paixão infantil. Charlie e Alan tentam restringir seu interesse o mínimo possível também. Enquanto isso, o sonho de Rose torna-se realidade quando Charlie finge que ela é sua namorada, com a finalidade de afastar Prudence. E Judith teme que o estilo de vida dos rapazes seja inaceitável para Jake.</desc>
-  </programme>
-  <programme start="20261023005900 -0400" stop="20261023012200 -0400" channel="WARNER_VE.ve">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">ROBOTIC MANIPULATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
@@ -150,27 +61,7 @@
     <sub-title lang="es">CRUCIFEROUS VEGETABLE AMPLIFICATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
-  <programme start="20261023011800 -0300" stop="20261023014100 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">CRUCIFEROUS VEGETABLE AMPLIFICATION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
-  <programme start="20261023011900 -0400" stop="20261023014200 -0400" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">CRUCIFEROUS VEGETABLE AMPLIFICATION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
   <programme start="20261023012000 -0600" stop="20261023014300 -0600" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">CRUCIFEROUS VEGETABLE AMPLIFICATION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
-  <programme start="20261023012100 -0300" stop="20261023014400 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">SARAH LIKE PUNY ALAN</sub-title>
-    <desc lang="pt">Alan se preocupa porque Charlie pode ser contagiado pela gripe de Jake; entretanto, quem fica doente é Alan. Jake livra-se do mal e Charlie está muito bem. Desesperado para conseguir um encontro com uma garota muito sexy, Charlie oferece que Alan acompanhe a irmã dela, fazendo um encontro a quatro. Charlie tenta acelerar a recuperação de Alan, mas quando Charlie fica doente e Alan descobre que a irmã dela é muito atraente, os papéis se invertem. Alan se opõe quando Charlie mostra vantagem tendo o mesmo tipo de humor que seu sobrinho de 10 anos.</desc>
-  </programme>
-  <programme start="20261023012200 -0400" stop="20261023014500 -0400" channel="WARNER_VE.ve">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">CRUCIFEROUS VEGETABLE AMPLIFICATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
@@ -185,11 +76,6 @@
     <sub-title lang="es">ZAZZY SUBSTITUTION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
   </programme>
-  <programme start="20261023014100 -0300" stop="20261023020500 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">ZAZZY SUBSTITUTION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
   <programme start="20261023014200 -0400" stop="20261023020600 -0400" channel="WARNER_CL.cl">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">ZAZZY SUBSTITUTION, THE</sub-title>
@@ -199,11 +85,6 @@
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">ZAZZY SUBSTITUTION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
-  <programme start="20261023014400 -0300" stop="20261023020500 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">I CAN'T AFFORD HYENAS</sub-title>
-    <desc lang="pt">Quando Charlie descobre que está sem crédito e que suas contas não estão pagas, ele também descobre que seu contador Stan (RICHARD LEWIS) é completamente ineficiente. Seguindo o conselho de Alan, Charlie tenta reduzir seus hábitos mais caros, mas ele tem um pouco de dificuldade para abrir mão de seus luxos. Depois de ter pensado em pedir algum dinheiro emprestadoo à Evelyn, Charlie sente que a situação ficaria insustentável, então aceita ajuda de uma fonte incomum. Enquanto isso, Charlie ensina Jake alguns truques para apostar em jogos de azar, para tristeza de Alan.</desc>
   </programme>
   <programme start="20261023014500 -0400" stop="20261023020800 -0400" channel="WARNER_VE.ve">
     <title lang="es">THE BIG BANG THEORY</title>
@@ -219,16 +100,6 @@
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">HOT TROLL DEVIATION, THE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
-  <programme start="20261023020500 -0300" stop="20261023022600 -0300" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">HOT TROLL DEVIATION, THE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-  </programme>
-  <programme start="20261023020500 -0300" stop="20261023022700 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">ROUND ONE TO THE HOT CRAZY CHICK</sub-title>
-    <desc lang="pt">Charlie e Alan conhecem Frankie (atriz coadjuvante convidada JENNA ELFMAN - 'Dharma &amp; Greg,' 'Looney Tunes: Back in Action'), uma mulher sexy mas aparentemente louca. Eles a conhecem quando ela está batendo em um carro com um bastão de beisebol. Apesar dos conselhos de Alan, Charlie se apaixona por ela. Depois deles terem escapado rapidamente da garagem onde Alan acidentalmente fazer disparar o sistema de alarme do carro amassado, Charlie traz Frankie para sua casa em Malibu. Alan, sempre cuidadoso, reconsidera quando ela o cumprimenta por ele ser quiroprático. Mas os dois irmãos, ambos competindo por sua atenção, são mantidos à distância por causa de um segredo que ela está guardando.Primeira Parte de um Episódio Duplo que se conclui com 'That Was Saliva, Alan.'</desc>
   </programme>
   <programme start="20261023020600 -0400" stop="20261023022700 -0400" channel="WARNER_CL.cl">
     <title lang="es">THE BIG BANG THEORY</title>
@@ -254,16 +125,6 @@
     <title lang="es">TWO AND A HALF MEN</title>
     <sub-title lang="es">ALAN HARPER, FRONTIER CHIROPRACTOR</sub-title>
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-  </programme>
-  <programme start="20261023022600 -0300" stop="20261023024800 -0300" channel="WARNER_AR.ar">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">ALAN HARPER, FRONTIER CHIROPRACTOR</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-  </programme>
-  <programme start="20261023022700 -0300" stop="20261023024900 -0300" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">THAT WAS SALIVA, ALAN</sub-title>
-    <desc lang="pt">Frankie (atriz coadjuvante convidada JENNA ELFMAN), a linda e intrigante garota a qual Charlie e Alan trouxeram para casa depois de encontrá-la batendo com um bastão de beisebol no carro de seu terapeuta, explica porque ela ficar escondida com sua filha de 8 anos, Joanie (atriz coadjuvante convidada JULIETTE GOGLIA). Os dois irmãos estão interessados em Frankie, e ela está apaixonada por um deles. E Joanie gosta de Jake, que não está nem um pouco interessado nela.(Segunda Parte de um Episódio Duplo que começa com 'Round One to the Hot Crazy Chick.')</desc>
   </programme>
   <programme start="20261023022700 -0400" stop="20261023024900 -0400" channel="WARNER_CL.cl">
     <title lang="es">TWO AND A HALF MEN</title>

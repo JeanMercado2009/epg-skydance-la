@@ -18,21 +18,6 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
-  <programme start="20261022180900 -0600" stop="20261022220000 -0600" channel="TNT_MX.mx">
-    <title lang="es">EL SEÑOR DE LOS ANILLOS: EL RETORNO DEL REY</title>
-    <sub-title lang="es">THE LORD OF THE RINGS: THE RETURN OF THE KING</sub-title>
-    <desc lang="es">Se define el destino de la Tierra Media y parece que hay esperanzas: en Gondor, el último reducto de los hombres, Aragorn puede ocupar el trono¿ si es que todo sale bien. Porque las fuerzas de Sauron preparan su último ataque. Y la batalla definirá el destino de todos. Mientras tanto, Frodo y Sam continúan su camino hacia Mordor¿ El desenlace de la gran saga de Peter Jackson, creada por el genio J.R.R. Tolkien, tiene dos historias principales: por un lado, la destrucción del Anillo; por otro, la guerra final entre el Mal y el Bien. También se resolverán el destino del Gollum y el amor de Aragorn entra la princesa elfa Arwen y la humana Eowyn. No quedarán cabos sueltos, ni en el amor ni en la guerra. Esta tercera parte es la más épica, con sobredosis de tensión, sobre todo en los campos de batalla de Pelennor.</desc>
-  </programme>
-  <programme start="20261022220000 -0300" stop="20261023013700 -0300" channel="TNT_AR.ar">
-    <title lang="es">EL SEÑOR DE LOS ANILLOS: EL RETORNO DEL REY</title>
-    <sub-title lang="es">THE LORD OF THE RINGS: THE RETURN OF THE KING</sub-title>
-    <desc lang="es">Se define el destino de la Tierra Media y parece que hay esperanzas: en Gondor, el último reducto de los hombres, Aragorn puede ocupar el trono¿ si es que todo sale bien. Porque las fuerzas de Sauron preparan su último ataque. Y la batalla definirá el destino de todos. Mientras tanto, Frodo y Sam continúan su camino hacia Mordor¿ El desenlace de la gran saga de Peter Jackson, creada por el genio J.R.R. Tolkien, tiene dos historias principales: por un lado, la destrucción del Anillo; por otro, la guerra final entre el Mal y el Bien. También se resolverán el destino del Gollum y el amor de Aragorn entra la princesa elfa Arwen y la humana Eowyn. No quedarán cabos sueltos, ni en el amor ni en la guerra. Esta tercera parte es la más épica, con sobredosis de tensión, sobre todo en los campos de batalla de Pelennor.</desc>
-  </programme>
-  <programme start="20261022220000 -0400" stop="20261023020100 -0400" channel="TNT_CL.cl">
-    <title lang="es">EL SEÑOR DE LOS ANILLOS: EL RETORNO DEL REY</title>
-    <sub-title lang="es">THE LORD OF THE RINGS: THE RETURN OF THE KING</sub-title>
-    <desc lang="es">Se define el destino de la Tierra Media y parece que hay esperanzas: en Gondor, el último reducto de los hombres, Aragorn puede ocupar el trono¿ si es que todo sale bien. Porque las fuerzas de Sauron preparan su último ataque. Y la batalla definirá el destino de todos. Mientras tanto, Frodo y Sam continúan su camino hacia Mordor¿ El desenlace de la gran saga de Peter Jackson, creada por el genio J.R.R. Tolkien, tiene dos historias principales: por un lado, la destrucción del Anillo; por otro, la guerra final entre el Mal y el Bien. También se resolverán el destino del Gollum y el amor de Aragorn entra la princesa elfa Arwen y la humana Eowyn. No quedarán cabos sueltos, ni en el amor ni en la guerra. Esta tercera parte es la más épica, con sobredosis de tensión, sobre todo en los campos de batalla de Pelennor.</desc>
-  </programme>
   <programme start="20261022220000 -0500" stop="20261023014800 -0500" channel="TNT_CO.co">
     <title lang="es">EL SEÑOR DE LOS ANILLOS: EL RETORNO DEL REY</title>
     <sub-title lang="es">THE LORD OF THE RINGS: THE RETURN OF THE KING</sub-title>
@@ -43,35 +28,13 @@
     <sub-title lang="es">THE LORD OF THE RINGS: THE RETURN OF THE KING</sub-title>
     <desc lang="es">Se define el destino de la Tierra Media y parece que hay esperanzas: en Gondor, el último reducto de los hombres, Aragorn puede ocupar el trono¿ si es que todo sale bien. Porque las fuerzas de Sauron preparan su último ataque. Y la batalla definirá el destino de todos. Mientras tanto, Frodo y Sam continúan su camino hacia Mordor¿ El desenlace de la gran saga de Peter Jackson, creada por el genio J.R.R. Tolkien, tiene dos historias principales: por un lado, la destrucción del Anillo; por otro, la guerra final entre el Mal y el Bien. También se resolverán el destino del Gollum y el amor de Aragorn entra la princesa elfa Arwen y la humana Eowyn. No quedarán cabos sueltos, ni en el amor ni en la guerra. Esta tercera parte es la más épica, con sobredosis de tensión, sobre todo en los campos de batalla de Pelennor.</desc>
   </programme>
-  <programme start="20261022220000 -0600" stop="20261023000200 -0600" channel="TNT_MX.mx">
-    <title lang="es">EL CAMINO DE REGRESO</title>
-    <sub-title lang="es">THE WAY BACK</sub-title>
-    <desc lang="es">El ganador del Óscar® Ben Affleck interpreta a Jack Cunningham, un hombre que abandonó la oportunidad de ir a la universidad y hacer una carrera en baloncesto por razones desconocidas. Adicto al alcohol, Jack vive una vida sin sentido. Pero cuando lo llaman para entrenar al equipo escolar para el que jugó tiempo atrás, tendrá la oportunidad de ajustar cuentas con sus demonios.</desc>
-  </programme>
   <programme start="20261023000200 -0600" stop="20261023014700 -0600" channel="TNT_MX.mx">
     <title lang="es">GANAR O MORIR</title>
     <desc lang="es">Van Damme interpreta a un prófugo que huye de las autoridades y arriesga su libertad, al ayudar a una guapa viuda que es asediada por un empresario despiadado de bienes raíces que quiere sus propiedades. Jean-claude Van Damme y Rosanna Arquette.</desc>
   </programme>
-  <programme start="20261023004800 -0300" stop="20261023011300 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-  </programme>
-  <programme start="20261023011300 -0300" stop="20261023013700 -0300" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-  </programme>
   <programme start="20261023013700 -0300" stop="20261023031300 -0300" channel="TNT_AR.ar">
     <title lang="es">GANAR O MORIR</title>
     <desc lang="es">Van Damme interpreta a un prófugo que huye de las autoridades y arriesga su libertad, al ayudar a una guapa viuda que es asediada por un empresario despiadado de bienes raíces que quiere sus propiedades. Jean-claude Van Damme y Rosanna Arquette.</desc>
-  </programme>
-  <programme start="20261023013700 -0300" stop="20261023021200 -0300" channel="TNT_BR.br">
-    <title lang="pt">LIGA ESPETACULAR</title>
-    <desc lang="pt">O Liga Espetacular reúne num só lugar todos os motivos que fazem da Liga dos Campeões o melhor torneio de clubes do mundo. Nas semanas de rodada, todos os melhores momentos, os golaços, os ângulos que ainda ninguém viu estão no cardápio do programa. Além disso, as equipes do Esporte Interativo, espalhadas pela Europa, trazem reportagens especiais, entrevistas exclusivas e todos os passos dos brasileiros que brilham no Velho Continente.</desc>
-    <episode-num system="xmltv_ns">.436.</episode-num>
   </programme>
   <programme start="20261023014300 -0500" stop="20261023032100 -0500" channel="TNT_PAN.co">
     <title lang="es">GANAR O MORIR</title>
@@ -89,18 +52,6 @@
   <programme start="20261023020100 -0400" stop="20261023034000 -0400" channel="TNT_CL.cl">
     <title lang="es">GANAR O MORIR</title>
     <desc lang="es">Van Damme interpreta a un prófugo que huye de las autoridades y arriesga su libertad, al ayudar a una guapa viuda que es asediada por un empresario despiadado de bienes raíces que quiere sus propiedades. Jean-claude Van Damme y Rosanna Arquette.</desc>
-  </programme>
-  <programme start="20261023021200 -0300" stop="20261023023400 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">FRESH PRINCE, THE MOVIE</sub-title>
-    <desc lang="pt">Will testemunha um assassinato e, ao lado da família Banks, é obrigado a se esconder no Alabama.</desc>
-    <episode-num system="xmltv_ns">4.4.</episode-num>
-  </programme>
-  <programme start="20261023023400 -0300" stop="20261023025500 -0300" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">WILL'S MISERY</sub-title>
-    <desc lang="pt">O encontro dos sonhos de Will com uma garota que faz parte de uma irmandade se transforma em pesadelo.</desc>
-    <episode-num system="xmltv_ns">4.5.</episode-num>
   </programme>
   <programme start="20261023025500 -0300" stop="20261023031800 -0300" channel="TNT_BR.br">
     <title lang="pt">UM MALUCO NO PEDAÇO</title>
