@@ -159,18 +159,18 @@ def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"
                         if m:
                             y, mo, d, h, mi, s = map(int, m.groups())
                             in_time = datetime(y, mo, d, h, mi, s, tzinfo=tz_info)
-                   elif "OUT" in type_val and in_time:
-    m = re.search(r"(\d{4})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2}):(\d{2})", date_offset)
-    if m:
-        y, mo, d, h, mi, s = map(int, m.groups())
-        out_time = datetime(y, mo, d, h, mi, s, tzinfo=tz_info)
-        if out_time > in_time:
-            breaks_events.append({
-                "start": in_time, "stop": out_time,
-                "title": "Pausa Comercial", "desc": "Espacio Publicitario de Cartoon Network.",
-                "category": "Comercial", "type": "break"
-            })
-        in_time = None
+                    elif "OUT" in type_val and in_time:
+                        m = re.search(r"(\d{4})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2}):(\d{2})", date_offset)
+                        if m:
+                            y, mo, d, h, mi, s = map(int, m.groups())
+                            out_time = datetime(y, mo, d, h, mi, s, tzinfo=tz_info)
+                            if out_time > in_time:
+                                breaks_events.append({
+                                    "start": in_time, "stop": out_time,
+                                    "title": "Pausa Comercial", "desc": "Espacio publicitario de Cartoon Network.",
+                                    "category": "Comercial", "type": "break"
+                                })
+                            in_time = None
         except Exception:
             pass
     return breaks_events
