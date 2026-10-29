@@ -2060,14 +2060,6 @@
     <episode-num system="xmltv_ns">0.12.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/5kbSArrPAuEaFUCUJW7fMSDZjdn.jpg" />
   </programme>
-  <programme start="20261029101000 -0300" stop="20261029101600 -0300" air_time_start="20261029101000 -0300" air_time_end="20261029101600 -0300" start_utc="20261029131000 +0000" stop_utc="20261029131600 +0000" air_time_start_utc="20261029131000 +0000" air_time_end_utc="20261029131600 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">IT WAS MANY SHEARS AGO</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/qAhH2BzgBJYdO4QA2NUoI1sautI.jpg" />
-  </programme>
   <programme start="20261029101000 -0300" stop="20261029101000 -0300" air_time_start="20261029101000 -0300" air_time_end="20261029101000 -0300" start_utc="20261029131000 +0000" stop_utc="20261029131000 +0000" air_time_start_utc="20261029131000 +0000" air_time_end_utc="20261029131000 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
     <sub-title lang="pt">ABOUT EVERYTHING</sub-title>
@@ -2076,13 +2068,21 @@
     <episode-num system="xmltv_ns">0.12.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/5kbSArrPAuEaFUCUJW7fMSDZjdn.jpg" />
   </programme>
-  <programme start="20261029101000 -0300" stop="20261029101600 -0300" air_time_start="20261029101000 -0300" air_time_end="20261029101600 -0300" start_utc="20261029131000 +0000" stop_utc="20261029131600 +0000" air_time_start_utc="20261029131000 +0000" air_time_end_utc="20261029131600 +0000" is_live="false" channel="TOONLA_BR.br">
+  <programme start="20261029101000 -0300" stop="20261029101000 -0300" air_time_start="20261029101000 -0300" air_time_end="20261029101000 -0300" start_utc="20261029131000 +0000" stop_utc="20261029131000 +0000" air_time_start_utc="20261029131000 +0000" air_time_end_utc="20261029131000 +0000" is_live="false" channel="TOONLA_PAN.co">
+    <title lang="es">Sheep en la gran ciudad</title>
+    <sub-title lang="es">ABOUT EVERYTHING</sub-title>
+    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/5kbSArrPAuEaFUCUJW7fMSDZjdn.jpg" />
+  </programme>
+  <programme start="20261029101000 -0300" stop="20261029101000 -0300" air_time_start="20261029101000 -0300" air_time_end="20261029101000 -0300" start_utc="20261029131000 +0000" stop_utc="20261029131000 +0000" air_time_start_utc="20261029131000 +0000" air_time_end_utc="20261029131000 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">IT WAS MANY SHEARS AGO</sub-title>
+    <sub-title lang="pt">ABOUT EVERYTHING</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/qAhH2BzgBJYdO4QA2NUoI1sautI.jpg" />
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/5kbSArrPAuEaFUCUJW7fMSDZjdn.jpg" />
   </programme>
   <programme start="20261029101600 -0300" stop="20261029102300 -0300" air_time_start="20261029101600 -0300" air_time_end="20261029102300 -0300" start_utc="20261029131600 +0000" stop_utc="20261029132300 +0000" air_time_start_utc="20261029131600 +0000" air_time_end_utc="20261029132300 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
