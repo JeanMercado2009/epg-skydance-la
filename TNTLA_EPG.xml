@@ -18,691 +18,7 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
-  <programme start="20261031003800 -0500" stop="20261031023400 -0500" air_time_start="20261031003800 -0500" air_time_end="20261031023400 -0500" start_utc="20261031053800 +0000" stop_utc="20261031073400 +0000" air_time_start_utc="20261031053800 +0000" air_time_end_utc="20261031073400 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">EL LIBRO DE LOS SECRETOS</title>
-    <desc lang="es">En un futuro no muy distante, luego de que una guerra aniquile a la mayor parte de la sociedad civilizada, algunos seres humanos sobreviven en un ambiente hostil donde la ley ya no existe. Eli, un guerrero que camina por un país desolado, busca cumplir con su destino: rescatar a la humanidad que se encuentra al borde de la destrucción.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-  </programme>
-  <programme start="20261031004200 -0500" stop="20261031023800 -0500" air_time_start="20261031004200 -0500" air_time_end="20261031023800 -0500" start_utc="20261031054200 +0000" stop_utc="20261031073800 +0000" air_time_start_utc="20261031054200 +0000" air_time_end_utc="20261031073800 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">EL LIBRO DE LOS SECRETOS</title>
-    <desc lang="es">En un futuro no muy distante, luego de que una guerra aniquile a la mayor parte de la sociedad civilizada, algunos seres humanos sobreviven en un ambiente hostil donde la ley ya no existe. Eli, un guerrero que camina por un país desolado, busca cumplir con su destino: rescatar a la humanidad que se encuentra al borde de la destrucción.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-  </programme>
-  <programme start="20261031004500 -0600" stop="20261031024100 -0600" air_time_start="20261031004500 -0600" air_time_end="20261031024100 -0600" start_utc="20261031064500 +0000" stop_utc="20261031084100 +0000" air_time_start_utc="20261031064500 +0000" air_time_end_utc="20261031084100 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">EL LIBRO DE LOS SECRETOS</title>
-    <desc lang="es">En un futuro no muy distante, luego de que una guerra aniquile a la mayor parte de la sociedad civilizada, algunos seres humanos sobreviven en un ambiente hostil donde la ley ya no existe. Eli, un guerrero que camina por un país desolado, busca cumplir con su destino: rescatar a la humanidad que se encuentra al borde de la destrucción.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-  </programme>
-  <programme start="20261031023400 -0500" stop="20261031043700 -0500" air_time_start="20261031023400 -0500" air_time_end="20261031043700 -0500" start_utc="20261031073400 +0000" stop_utc="20261031093700 +0000" air_time_start_utc="20261031073400 +0000" air_time_end_utc="20261031093700 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">EL JUSTICIERO 2</title>
-    <sub-title lang="es">THE EQUALIZER 2</sub-title>
-    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261031023800 -0300" stop="20261031043900 -0300" air_time_start="20261031023800 -0300" air_time_end="20261031043900 -0300" start_utc="20261031053800 +0000" stop_utc="20261031073900 +0000" air_time_start_utc="20261031053800 +0000" air_time_end_utc="20261031073900 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">EL JUSTICIERO 2</title>
-    <sub-title lang="es">THE EQUALIZER 2</sub-title>
-    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261031023800 -0500" stop="20261031043800 -0500" air_time_start="20261031023800 -0500" air_time_end="20261031043800 -0500" start_utc="20261031073800 +0000" stop_utc="20261031093800 +0000" air_time_start_utc="20261031073800 +0000" air_time_end_utc="20261031093800 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">EL JUSTICIERO 2</title>
-    <sub-title lang="es">THE EQUALIZER 2</sub-title>
-    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261031024100 -0600" stop="20261031044300 -0600" air_time_start="20261031024100 -0600" air_time_end="20261031044300 -0600" start_utc="20261031084100 +0000" stop_utc="20261031104300 +0000" air_time_start_utc="20261031084100 +0000" air_time_end_utc="20261031104300 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">EL JUSTICIERO 2</title>
-    <sub-title lang="es">THE EQUALIZER 2</sub-title>
-    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261031024900 -0300" stop="20261031043900 -0300" air_time_start="20261031024900 -0300" air_time_end="20261031043900 -0300" start_utc="20261031054900 +0000" stop_utc="20261031073900 +0000" air_time_start_utc="20261031054900 +0000" air_time_end_utc="20261031073900 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">O LIVRO DE ELI</title>
-    <sub-title lang="pt">The Book of Eli</sub-title>
-    <desc lang="pt">En um futuro apocalíptico e devastado, um homem solitário protege um livro sagrado que poderia ser a salvação da humanidade. Suas habilidades para a luta e seu tesouro oculto chamam a atenção de um mafioso e de sua sensual filha.</desc>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Aventura</category>
-  </programme>
-  <programme start="20261031025900 -0400" stop="20261031050500 -0400" air_time_start="20261031025900 -0400" air_time_end="20261031050500 -0400" start_utc="20261031065900 +0000" stop_utc="20261031090500 +0000" air_time_start_utc="20261031065900 +0000" air_time_end_utc="20261031090500 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">EL JUSTICIERO 2</title>
-    <sub-title lang="es">THE EQUALIZER 2</sub-title>
-    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261031043700 -0500" stop="20261031051100 -0500" air_time_start="20261031043700 -0500" air_time_end="20261031051100 -0500" start_utc="20261031093700 +0000" stop_utc="20261031101100 +0000" air_time_start_utc="20261031093700 +0000" air_time_end_utc="20261031101100 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.15.</episode-num>
-  </programme>
-  <programme start="20261031043800 -0500" stop="20261031060000 -0500" air_time_start="20261031043800 -0500" air_time_end="20261031060000 -0500" start_utc="20261031093800 +0000" stop_utc="20261031110000 +0000" air_time_start_utc="20261031093800 +0000" air_time_end_utc="20261031110000 +0000" is_live="false" channel="TNT_CO.co">
-    <category lang="es">Suspenso</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261031043900 -0300" stop="20261031060000 -0300" air_time_start="20261031043900 -0300" air_time_end="20261031060000 -0300" start_utc="20261031073900 +0000" stop_utc="20261031090000 +0000" air_time_start_utc="20261031073900 +0000" air_time_end_utc="20261031090000 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">Um Estranho no Bosque</title>
-    <sub-title lang="pt">Stranger in the Woods</sub-title>
-    <desc lang="pt">Os amigos de Olivia a convidam para alguns dias de descanso numa cabana na floresta para ajudá-la a superar o luto pela morte de seu noivo e um atentado contra a própria vida, mas neste lugar nada nem ninguém é o que parece.</desc>
-    <category lang="pt">Suspense</category>
-    <category lang="pt">Terror</category>
-  </programme>
-  <programme start="20261031043900 -0300" stop="20261031051300 -0300" air_time_start="20261031043900 -0300" air_time_end="20261031051300 -0300" start_utc="20261031073900 +0000" stop_utc="20261031081300 +0000" air_time_start_utc="20261031073900 +0000" air_time_end_utc="20261031081300 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.14.</episode-num>
-  </programme>
-  <programme start="20261031044300 -0600" stop="20261031051800 -0600" air_time_start="20261031044300 -0600" air_time_end="20261031051800 -0600" start_utc="20261031104300 +0000" stop_utc="20261031111800 +0000" air_time_start_utc="20261031104300 +0000" air_time_end_utc="20261031111800 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.13.</episode-num>
-  </programme>
-  <programme start="20261031050500 -0400" stop="20261031054200 -0400" air_time_start="20261031050500 -0400" air_time_end="20261031054200 -0400" start_utc="20261031090500 +0000" stop_utc="20261031094200 +0000" air_time_start_utc="20261031090500 +0000" air_time_end_utc="20261031094200 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.13.</episode-num>
-  </programme>
-  <programme start="20261031051100 -0500" stop="20261031054900 -0500" air_time_start="20261031051100 -0500" air_time_end="20261031054900 -0500" start_utc="20261031101100 +0000" stop_utc="20261031104900 +0000" air_time_start_utc="20261031101100 +0000" air_time_end_utc="20261031104900 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.16.</episode-num>
-  </programme>
-  <programme start="20261031051300 -0300" stop="20261031055000 -0300" air_time_start="20261031051300 -0300" air_time_end="20261031055000 -0300" start_utc="20261031081300 +0000" stop_utc="20261031085000 +0000" air_time_start_utc="20261031081300 +0000" air_time_end_utc="20261031085000 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.15.</episode-num>
-  </programme>
-  <programme start="20261031051800 -0600" stop="20261031055600 -0600" air_time_start="20261031051800 -0600" air_time_end="20261031055600 -0600" start_utc="20261031111800 +0000" stop_utc="20261031115600 +0000" air_time_start_utc="20261031111800 +0000" air_time_end_utc="20261031115600 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.14.</episode-num>
-  </programme>
-  <programme start="20261031054200 -0400" stop="20261031055400 -0400" air_time_start="20261031054200 -0400" air_time_end="20261031055400 -0400" start_utc="20261031094200 +0000" stop_utc="20261031095400 +0000" air_time_start_utc="20261031094200 +0000" air_time_end_utc="20261031095400 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.45.</episode-num>
-  </programme>
-  <programme start="20261031054900 -0500" stop="20261031060000 -0500" air_time_start="20261031054900 -0500" air_time_end="20261031060000 -0500" start_utc="20261031104900 +0000" stop_utc="20261031110000 +0000" air_time_start_utc="20261031104900 +0000" air_time_end_utc="20261031110000 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.44.</episode-num>
-  </programme>
-  <programme start="20261031055000 -0300" stop="20261031055200 -0300" air_time_start="20261031055000 -0300" air_time_end="20261031055200 -0300" start_utc="20261031085000 +0000" stop_utc="20261031085200 +0000" air_time_start_utc="20261031085000 +0000" air_time_end_utc="20261031085200 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.85.</episode-num>
-  </programme>
-  <programme start="20261031055200 -0300" stop="20261031055500 -0300" air_time_start="20261031055200 -0300" air_time_end="20261031055500 -0300" start_utc="20261031085200 +0000" stop_utc="20261031085500 +0000" air_time_start_utc="20261031085200 +0000" air_time_end_utc="20261031085500 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.86.</episode-num>
-  </programme>
-  <programme start="20261031055400 -0400" stop="20261031055700 -0400" air_time_start="20261031055400 -0400" air_time_end="20261031055700 -0400" start_utc="20261031095400 +0000" stop_utc="20261031095700 +0000" air_time_start_utc="20261031095400 +0000" air_time_end_utc="20261031095700 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.90.</episode-num>
-  </programme>
-  <programme start="20261031055500 -0300" stop="20261031060000 -0300" air_time_start="20261031055500 -0300" air_time_end="20261031060000 -0300" start_utc="20261031085500 +0000" stop_utc="20261031090000 +0000" air_time_start_utc="20261031085500 +0000" air_time_end_utc="20261031090000 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.88.</episode-num>
-  </programme>
-  <programme start="20261031055600 -0600" stop="20261031060000 -0600" air_time_start="20261031055600 -0600" air_time_end="20261031060000 -0600" start_utc="20261031115600 +0000" stop_utc="20261031120000 +0000" air_time_start_utc="20261031115600 +0000" air_time_end_utc="20261031120000 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.90.</episode-num>
-  </programme>
-  <programme start="20261031055700 -0400" stop="20261031060000 -0400" air_time_start="20261031055700 -0400" air_time_end="20261031060000 -0400" start_utc="20261031095700 +0000" stop_utc="20261031100000 +0000" air_time_start_utc="20261031095700 +0000" air_time_end_utc="20261031100000 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.83.</episode-num>
-  </programme>
-  <programme start="20261031060000 -0300" stop="20261031063900 -0300" air_time_start="20261031060000 -0300" air_time_end="20261031063900 -0300" start_utc="20261031090000 +0000" stop_utc="20261031093900 +0000" air_time_start_utc="20261031090000 +0000" air_time_end_utc="20261031093900 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="pt">Variedades</category>
-    <episode-num system="xmltv_ns">-1.13.</episode-num>
-  </programme>
-  <programme start="20261031060000 -0300" stop="20261031060100 -0300" air_time_start="20261031060000 -0300" air_time_end="20261031060100 -0300" start_utc="20261031090000 +0000" stop_utc="20261031090100 +0000" air_time_start_utc="20261031090000 +0000" air_time_end_utc="20261031090100 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.85.</episode-num>
-  </programme>
-  <programme start="20261031060000 -0400" stop="20261031063600 -0400" air_time_start="20261031060000 -0400" air_time_end="20261031063600 -0400" start_utc="20261031100000 +0000" stop_utc="20261031103600 +0000" air_time_start_utc="20261031100000 +0000" air_time_end_utc="20261031103600 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.14.</episode-num>
-  </programme>
-  <programme start="20261031060000 -0500" stop="20261031060200 -0500" air_time_start="20261031060000 -0500" air_time_end="20261031060200 -0500" start_utc="20261031110000 +0000" stop_utc="20261031110200 +0000" air_time_start_utc="20261031110000 +0000" air_time_end_utc="20261031110200 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.90.</episode-num>
-  </programme>
-  <programme start="20261031060000 -0500" stop="20261031061300 -0500" air_time_start="20261031060000 -0500" air_time_end="20261031061300 -0500" start_utc="20261031110000 +0000" stop_utc="20261031111300 +0000" air_time_start_utc="20261031110000 +0000" air_time_end_utc="20261031111300 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.51.</episode-num>
-  </programme>
-  <programme start="20261031060000 -0600" stop="20261031061700 -0600" air_time_start="20261031060000 -0600" air_time_end="20261031061700 -0600" start_utc="20261031120000 +0000" stop_utc="20261031121700 +0000" air_time_start_utc="20261031120000 +0000" air_time_end_utc="20261031121700 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.45.</episode-num>
-  </programme>
-  <programme start="20261031060100 -0300" stop="20261031060300 -0300" air_time_start="20261031060100 -0300" air_time_end="20261031060300 -0300" start_utc="20261031090100 +0000" stop_utc="20261031090300 +0000" air_time_start_utc="20261031090100 +0000" air_time_end_utc="20261031090300 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.87.</episode-num>
-  </programme>
-  <programme start="20261031060200 -0500" stop="20261031073000 -0500" air_time_start="20261031060200 -0500" air_time_end="20261031073000 -0500" start_utc="20261031110200 +0000" stop_utc="20261031123000 +0000" air_time_start_utc="20261031110200 +0000" air_time_end_utc="20261031123000 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">HANCOCK</title>
-    <desc lang="es">Hancock es un superhéroe sarcástico, insatisfecho e incomprendido que ha perdido popularidad. Cuando acepta de mala gana un cambio de imagen radical propuesto por el publicista Ray Embrey, su vida y reputación renacen de las cenizas y todo parece estar bien nuevamente, hasta que conoce a una mujer con poderes similares a los suyos que tiene la llave a su pasado secreto.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Fantasía</category>
-  </programme>
-  <programme start="20261031060300 -0300" stop="20261031061400 -0300" air_time_start="20261031060300 -0300" air_time_end="20261031061400 -0300" start_utc="20261031090300 +0000" stop_utc="20261031091400 +0000" air_time_start_utc="20261031090300 +0000" air_time_end_utc="20261031091400 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.43.</episode-num>
-  </programme>
-  <programme start="20261031061300 -0500" stop="20261031074300 -0500" air_time_start="20261031061300 -0500" air_time_end="20261031074300 -0500" start_utc="20261031111300 +0000" stop_utc="20261031124300 +0000" air_time_start_utc="20261031111300 +0000" air_time_end_utc="20261031124300 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">HANCOCK</title>
-    <desc lang="es">Hancock es un superhéroe sarcástico, insatisfecho e incomprendido que ha perdido popularidad. Cuando acepta de mala gana un cambio de imagen radical propuesto por el publicista Ray Embrey, su vida y reputación renacen de las cenizas y todo parece estar bien nuevamente, hasta que conoce a una mujer con poderes similares a los suyos que tiene la llave a su pasado secreto.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Fantasía</category>
-  </programme>
-  <programme start="20261031061400 -0300" stop="20261031074900 -0300" air_time_start="20261031061400 -0300" air_time_end="20261031074900 -0300" start_utc="20261031091400 +0000" stop_utc="20261031104900 +0000" air_time_start_utc="20261031091400 +0000" air_time_end_utc="20261031104900 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">APARIENCIAS</title>
-    <desc lang="es">Carmelo, un hombre tímido y reprimido, conoce a Verónica en el trabajo y se da cuenta de inmediato de que es el amor de su vida. Mientras ella está de viaje, él decide superar sus miedos y decirle lo que siente apenas ella baje del avión. Pero Verónica no vuelve sola: en el aeropuerto, Carmelo conoce a Federico, su futuro esposo. A partir de una serie de sucesos confusos, Verónica tiene la impresión de que Carmelo es gay, y él, en lugar de decirle la verdad, decide seguirle el juego para acercarse más a ella. Pero, a medida que su relación con Verónica se vuelve más cercana, a Carmelo le resulta cada vez más difícil fingir.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261031061700 -0600" stop="20261031062000 -0600" air_time_start="20261031061700 -0600" air_time_end="20261031062000 -0600" start_utc="20261031121700 +0000" stop_utc="20261031122000 +0000" air_time_start_utc="20261031121700 +0000" air_time_end_utc="20261031122000 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.90.</episode-num>
-  </programme>
-  <programme start="20261031062000 -0600" stop="20261031063000 -0600" air_time_start="20261031062000 -0600" air_time_end="20261031063000 -0600" start_utc="20261031122000 +0000" stop_utc="20261031123000 +0000" air_time_start_utc="20261031122000 +0000" air_time_end_utc="20261031123000 +0000" is_live="false" channel="TNT_MX.mx">
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261031063000 -0600" stop="20261031083000 -0600" air_time_start="20261031063000 -0600" air_time_end="20261031083000 -0600" start_utc="20261031123000 +0000" stop_utc="20261031143000 +0000" air_time_start_utc="20261031123000 +0000" air_time_end_utc="20261031143000 +0000" is_live="false" channel="TNT_MX.mx">
-    <episode-num system="xmltv_ns">-1.40.</episode-num>
-  </programme>
-  <programme start="20261031063600 -0400" stop="20261031064800 -0400" air_time_start="20261031063600 -0400" air_time_end="20261031064800 -0400" start_utc="20261031103600 +0000" stop_utc="20261031104800 +0000" air_time_start_utc="20261031103600 +0000" air_time_end_utc="20261031104800 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.45.</episode-num>
-  </programme>
-  <programme start="20261031063900 -0300" stop="20261031071600 -0300" air_time_start="20261031063900 -0300" air_time_end="20261031071600 -0300" start_utc="20261031093900 +0000" stop_utc="20261031101600 +0000" air_time_start_utc="20261031093900 +0000" air_time_end_utc="20261031101600 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="pt">Variedades</category>
-    <episode-num system="xmltv_ns">-1.14.</episode-num>
-  </programme>
-  <programme start="20261031064800 -0400" stop="20261031070200 -0400" air_time_start="20261031064800 -0400" air_time_end="20261031070200 -0400" start_utc="20261031104800 +0000" stop_utc="20261031110200 +0000" air_time_start_utc="20261031104800 +0000" air_time_end_utc="20261031110200 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.46.</episode-num>
-  </programme>
-  <programme start="20261031070200 -0400" stop="20261031070500 -0400" air_time_start="20261031070200 -0400" air_time_end="20261031070500 -0400" start_utc="20261031110200 +0000" stop_utc="20261031110500 +0000" air_time_start_utc="20261031110200 +0000" air_time_end_utc="20261031110500 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.84.</episode-num>
-  </programme>
-  <programme start="20261031070500 -0400" stop="20261031070700 -0400" air_time_start="20261031070500 -0400" air_time_end="20261031070700 -0400" start_utc="20261031110500 +0000" stop_utc="20261031110700 +0000" air_time_start_utc="20261031110500 +0000" air_time_end_utc="20261031110700 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.86.</episode-num>
-  </programme>
-  <programme start="20261031070700 -0400" stop="20261031071000 -0400" air_time_start="20261031070700 -0400" air_time_end="20261031071000 -0400" start_utc="20261031110700 +0000" stop_utc="20261031111000 +0000" air_time_start_utc="20261031110700 +0000" air_time_end_utc="20261031111000 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.88.</episode-num>
-  </programme>
-  <programme start="20261031071000 -0400" stop="20261031094300 -0400" air_time_start="20261031071000 -0400" air_time_end="20261031094300 -0400" start_utc="20261031111000 +0000" stop_utc="20261031134300 +0000" air_time_start_utc="20261031111000 +0000" air_time_end_utc="20261031134300 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">EL SORPRENDENTE HOMBRE ARAÑA 2: LA VENGANZA DE ELECTRO</title>
-    <desc lang="es">En el año 2000, Richard Parker, un científico de la compañía OsCorp, y su mujer Mary son asesinados. Catorce años después, Peter, el hijo de ambos, sigue queriendo averiguar la verdad. Mientras tanto, Harry Osborne, amigo de la infancia de Peter, regresa a Manhattan para ver a su padre, el CEO de OsCorp, quien está a punto de morir de una enfermedad hereditaria. Max Dillon, ingeniero eléctrico de OsCorp, cae en un tanque de anguilas eléctricas manipuladas genéticamente y se convierte en Electro.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261031071600 -0300" stop="20261031073200 -0300" air_time_start="20261031071600 -0300" air_time_end="20261031073200 -0300" start_utc="20261031101600 +0000" stop_utc="20261031103200 +0000" air_time_start_utc="20261031101600 +0000" air_time_end_utc="20261031103200 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-    <category lang="pt">Talk Show</category>
-    <category lang="pt">Notícias De Entretenimento</category>
-    <episode-num system="xmltv_ns">-1.39.</episode-num>
-  </programme>
-  <programme start="20261031073000 -0500" stop="20261031095500 -0500" air_time_start="20261031073000 -0500" air_time_end="20261031095500 -0500" start_utc="20261031123000 +0000" stop_utc="20261031145500 +0000" air_time_start_utc="20261031123000 +0000" air_time_end_utc="20261031145500 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">EL SORPRENDENTE HOMBRE ARAÑA 2: LA VENGANZA DE ELECTRO</title>
-    <desc lang="es">En el año 2000, Richard Parker, un científico de la compañía OsCorp, y su mujer Mary son asesinados. Catorce años después, Peter, el hijo de ambos, sigue queriendo averiguar la verdad. Mientras tanto, Harry Osborne, amigo de la infancia de Peter, regresa a Manhattan para ver a su padre, el CEO de OsCorp, quien está a punto de morir de una enfermedad hereditaria. Max Dillon, ingeniero eléctrico de OsCorp, cae en un tanque de anguilas eléctricas manipuladas genéticamente y se convierte en Electro.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261031073200 -0300" stop="20261031074100 -0300" air_time_start="20261031073200 -0300" air_time_end="20261031074100 -0300" start_utc="20261031103200 +0000" stop_utc="20261031104100 +0000" air_time_start_utc="20261031103200 +0000" air_time_end_utc="20261031104100 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-    <category lang="pt">Talk Show</category>
-    <category lang="pt">Notícias De Entretenimento</category>
-    <episode-num system="xmltv_ns">-1.41.</episode-num>
-  </programme>
-  <programme start="20261031074100 -0300" stop="20261031074200 -0300" air_time_start="20261031074100 -0300" air_time_end="20261031074200 -0300" start_utc="20261031104100 +0000" stop_utc="20261031104200 +0000" air_time_start_utc="20261031104100 +0000" air_time_end_utc="20261031104200 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.85.</episode-num>
-  </programme>
-  <programme start="20261031074200 -0300" stop="20261031074600 -0300" air_time_start="20261031074200 -0300" air_time_end="20261031074600 -0300" start_utc="20261031104200 +0000" stop_utc="20261031104600 +0000" air_time_start_utc="20261031104200 +0000" air_time_end_utc="20261031104600 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.86.</episode-num>
-  </programme>
-  <programme start="20261031074300 -0500" stop="20261031101400 -0500" air_time_start="20261031074300 -0500" air_time_end="20261031101400 -0500" start_utc="20261031124300 +0000" stop_utc="20261031151400 +0000" air_time_start_utc="20261031124300 +0000" air_time_end_utc="20261031151400 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">EL SORPRENDENTE HOMBRE ARAÑA 2: LA VENGANZA DE ELECTRO</title>
-    <desc lang="es">En el año 2000, Richard Parker, un científico de la compañía OsCorp, y su mujer Mary son asesinados. Catorce años después, Peter, el hijo de ambos, sigue queriendo averiguar la verdad. Mientras tanto, Harry Osborne, amigo de la infancia de Peter, regresa a Manhattan para ver a su padre, el CEO de OsCorp, quien está a punto de morir de una enfermedad hereditaria. Max Dillon, ingeniero eléctrico de OsCorp, cae en un tanque de anguilas eléctricas manipuladas genéticamente y se convierte en Electro.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261031074600 -0300" stop="20261031081700 -0300" air_time_start="20261031074600 -0300" air_time_end="20261031081700 -0300" start_utc="20261031104600 +0000" stop_utc="20261031111700 +0000" air_time_start_utc="20261031104600 +0000" air_time_end_utc="20261031111700 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">DE OLHO NA LIGA</title>
-    <desc lang="pt">O De Olho na Liga é um resumo do que aconteceu de mais importante na semana na Liga dos Campeões da Europa. São 30 minutos de revista eletrônica semanal que leva até você os bastidores dos grandes jogos, os personagens mais marcantes das partidas, a festa das torcidas e as histórias por trás dos momentos inesquecíveis da competição de clubes mais importante do mundo.</desc>
-    <category lang="pt">Esporte</category>
-    <episode-num system="xmltv_ns">.404.</episode-num>
-  </programme>
-  <programme start="20261031074900 -0300" stop="20261031101000 -0300" air_time_start="20261031074900 -0300" air_time_end="20261031101000 -0300" start_utc="20261031104900 +0000" stop_utc="20261031131000 +0000" air_time_start_utc="20261031104900 +0000" air_time_end_utc="20261031131000 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">SPIDER-MAN: LEJOS DE CASA</title>
-    <sub-title lang="es">SPIDER-MAN: FAR FROM HOME</sub-title>
-    <desc lang="es">En este filme protagonizado por Jake Gyllenhaal y Tom Holland, el mundo ha cambiado para siempre y Peter Parker carga con el legado de Tony Stark. En un intento de escapar a sus heroicas responsabilidades, Peter decide unirse a sus amigos en unas vacaciones por Europa, pero sus planes se vienen abajo cuando acepta a regañadientes ayudar a Nick Fury a salvar el mundo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-  </programme>
-  <programme start="20261031081700 -0300" stop="20261031084400 -0300" air_time_start="20261031081700 -0300" air_time_end="20261031084400 -0300" start_utc="20261031111700 +0000" stop_utc="20261031114400 +0000" air_time_start_utc="20261031111700 +0000" air_time_end_utc="20261031114400 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">BOXING HELENA</sub-title>
-    <desc lang="pt">A família inteira se matricula em uma academia e Will é derrotado por uma lutadora de boxe excepcional.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">5.11.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/xyNvZmlSQTiV9p66wG7vyXXfjBT.jpg" />
-  </programme>
-  <programme start="20261031083000 -0600" stop="20261031084000 -0600" air_time_start="20261031083000 -0600" air_time_end="20261031084000 -0600" start_utc="20261031143000 +0000" stop_utc="20261031144000 +0000" air_time_start_utc="20261031143000 +0000" air_time_end_utc="20261031144000 +0000" is_live="false" channel="TNT_MX.mx">
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261031084000 -0600" stop="20261031090000 -0600" air_time_start="20261031084000 -0600" air_time_end="20261031090000 -0600" start_utc="20261031144000 +0000" stop_utc="20261031150000 +0000" air_time_start_utc="20261031144000 +0000" air_time_end_utc="20261031150000 +0000" is_live="false" channel="TNT_MX.mx">
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-  </programme>
-  <programme start="20261031084400 -0300" stop="20261031091000 -0300" air_time_start="20261031084400 -0300" air_time_end="20261031091000 -0300" start_utc="20261031114400 +0000" stop_utc="20261031121000 +0000" air_time_start_utc="20261031114400 +0000" air_time_end_utc="20261031121000 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">I, CLOWNIUS</sub-title>
-    <desc lang="pt">Phil, Will e Carlton acabam reféns de um palhaço</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">5.12.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/khwpWantnjamGMLQA3aqGbE1Rkm.jpg" />
-  </programme>
-  <programme start="20261031090000 -0600" stop="20261031110000 -0600" air_time_start="20261031090000 -0600" air_time_end="20261031110000 -0600" start_utc="20261031150000 +0000" stop_utc="20261031170000 +0000" air_time_start_utc="20261031150000 +0000" air_time_end_utc="20261031170000 +0000" is_live="false" channel="TNT_MX.mx">
-    <episode-num system="xmltv_ns">-1.41.</episode-num>
-  </programme>
-  <programme start="20261031091000 -0300" stop="20261031093500 -0300" air_time_start="20261031091000 -0300" air_time_end="20261031093500 -0300" start_utc="20261031121000 +0000" stop_utc="20261031123500 +0000" air_time_start_utc="20261031121000 +0000" air_time_end_utc="20261031123500 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">BREAKING UP IS HARD TO DO, PART ONE</sub-title>
-    <desc lang="pt">Ashley tem a chance de virar modelo, mas Will e Carlton estragam tudo. A promissora carreira política de Phil tem um efeito inesperado sobre Vivian.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">5.13.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/eXisbvUBciQ1U9gWAwjWyHb2psP.jpg" />
-  </programme>
-  <programme start="20261031093500 -0300" stop="20261031100200 -0300" air_time_start="20261031093500 -0300" air_time_end="20261031100200 -0300" start_utc="20261031123500 +0000" stop_utc="20261031130200 +0000" air_time_start_utc="20261031123500 +0000" air_time_end_utc="20261031130200 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">BREAKING UP IS HARD TO DO, PART TWO</sub-title>
-    <desc lang="pt">Will, Carlton, Ashley e Hilary tomam medidas drásticas para fazer Phil e Vivian se reconciliarem.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">5.14.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/eX6rT7XpG7jnmEjCZt61Hz4XdQm.jpg" />
-  </programme>
-  <programme start="20261031094300 -0400" stop="20261031121300 -0400" air_time_start="20261031094300 -0400" air_time_end="20261031121300 -0400" start_utc="20261031134300 +0000" stop_utc="20261031161300 +0000" air_time_start_utc="20261031134300 +0000" air_time_end_utc="20261031161300 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">SPIDER-MAN: LEJOS DE CASA</title>
-    <sub-title lang="es">SPIDER-MAN: FAR FROM HOME</sub-title>
-    <desc lang="es">En este filme protagonizado por Jake Gyllenhaal y Tom Holland, el mundo ha cambiado para siempre y Peter Parker carga con el legado de Tony Stark. En un intento de escapar a sus heroicas responsabilidades, Peter decide unirse a sus amigos en unas vacaciones por Europa, pero sus planes se vienen abajo cuando acepta a regañadientes ayudar a Nick Fury a salvar el mundo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-  </programme>
-  <programme start="20261031095500 -0500" stop="20261031122700 -0500" air_time_start="20261031095500 -0500" air_time_end="20261031122700 -0500" start_utc="20261031145500 +0000" stop_utc="20261031172700 +0000" air_time_start_utc="20261031145500 +0000" air_time_end_utc="20261031172700 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">SPIDER-MAN: LEJOS DE CASA</title>
-    <sub-title lang="es">SPIDER-MAN: FAR FROM HOME</sub-title>
-    <desc lang="es">En este filme protagonizado por Jake Gyllenhaal y Tom Holland, el mundo ha cambiado para siempre y Peter Parker carga con el legado de Tony Stark. En un intento de escapar a sus heroicas responsabilidades, Peter decide unirse a sus amigos en unas vacaciones por Europa, pero sus planes se vienen abajo cuando acepta a regañadientes ayudar a Nick Fury a salvar el mundo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-  </programme>
-  <programme start="20261031100200 -0300" stop="20261031102700 -0300" air_time_start="20261031100200 -0300" air_time_end="20261031102700 -0300" start_utc="20261031130200 +0000" stop_utc="20261031132700 +0000" air_time_start_utc="20261031130200 +0000" air_time_end_utc="20261031132700 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.20.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/xzZKtdxklCtUJk73iIzYYYK9JyH.jpg" />
-  </programme>
-  <programme start="20261031101000 -0300" stop="20261031125000 -0300" air_time_start="20261031101000 -0300" air_time_end="20261031125000 -0300" start_utc="20261031131000 +0000" stop_utc="20261031155000 +0000" air_time_start_utc="20261031131000 +0000" air_time_end_utc="20261031155000 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">SPIDER-MAN: SIN CAMINO A CASA</title>
-    <sub-title lang="es">SPIDER-MAN: NO WAY HOME</sub-title>
-    <desc lang="es">Tom Holland y Benedict Cumberbatch protagonizan esta aventura de Spider-Man, que debe enfrentarse simultáneamente a sus mayores villanos.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261031101400 -0500" stop="20261031124200 -0500" air_time_start="20261031101400 -0500" air_time_end="20261031124200 -0500" start_utc="20261031151400 +0000" stop_utc="20261031174200 +0000" air_time_start_utc="20261031151400 +0000" air_time_end_utc="20261031174200 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">SPIDER-MAN: LEJOS DE CASA</title>
-    <sub-title lang="es">SPIDER-MAN: FAR FROM HOME</sub-title>
-    <desc lang="es">En este filme protagonizado por Jake Gyllenhaal y Tom Holland, el mundo ha cambiado para siempre y Peter Parker carga con el legado de Tony Stark. En un intento de escapar a sus heroicas responsabilidades, Peter decide unirse a sus amigos en unas vacaciones por Europa, pero sus planes se vienen abajo cuando acepta a regañadientes ayudar a Nick Fury a salvar el mundo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-  </programme>
-  <programme start="20261031102700 -0300" stop="20261031105200 -0300" air_time_start="20261031102700 -0300" air_time_end="20261031105200 -0300" start_utc="20261031132700 +0000" stop_utc="20261031135200 +0000" air_time_start_utc="20261031132700 +0000" air_time_end_utc="20261031135200 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.21.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/x9RKoYF9B7n0lrAPZ5R1z7bLLCV.jpg" />
-  </programme>
-  <programme start="20261031105200 -0300" stop="20261031111700 -0300" air_time_start="20261031105200 -0300" air_time_end="20261031111700 -0300" start_utc="20261031135200 +0000" stop_utc="20261031141700 +0000" air_time_start_utc="20261031135200 +0000" air_time_end_utc="20261031141700 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/fhEKgiUmrBJY4NOH53yJciYwiHK.jpg" />
-  </programme>
-  <programme start="20261031110000 -0600" stop="20261031111000 -0600" air_time_start="20261031110000 -0600" air_time_end="20261031111000 -0600" start_utc="20261031170000 +0000" stop_utc="20261031171000 +0000" air_time_start_utc="20261031170000 +0000" air_time_end_utc="20261031171000 +0000" is_live="false" channel="TNT_MX.mx">
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-  </programme>
-  <programme start="20261031111000 -0600" stop="20261031113000 -0600" air_time_start="20261031111000 -0600" air_time_end="20261031113000 -0600" start_utc="20261031171000 +0000" stop_utc="20261031173000 +0000" air_time_start_utc="20261031171000 +0000" air_time_end_utc="20261031173000 +0000" is_live="false" channel="TNT_MX.mx">
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-  </programme>
-  <programme start="20261031111700 -0300" stop="20261031114200 -0300" air_time_start="20261031111700 -0300" air_time_end="20261031114200 -0300" start_utc="20261031141700 +0000" stop_utc="20261031144200 +0000" air_time_start_utc="20261031141700 +0000" air_time_end_utc="20261031144200 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/oFUd9z4U959lbogZElzO5wtSPB7.jpg" />
-  </programme>
-  <programme start="20261031113000 -0600" stop="20261031133000 -0600" air_time_start="20261031113000 -0600" air_time_end="20261031133000 -0600" start_utc="20261031173000 +0000" stop_utc="20261031193000 +0000" air_time_start_utc="20261031173000 +0000" air_time_end_utc="20261031193000 +0000" is_live="false" channel="TNT_MX.mx">
-    <episode-num system="xmltv_ns">-1.43.</episode-num>
-  </programme>
-  <programme start="20261031114200 -0300" stop="20261031141100 -0300" air_time_start="20261031114200 -0300" air_time_end="20261031141100 -0300" start_utc="20261031144200 +0000" stop_utc="20261031171100 +0000" air_time_start_utc="20261031144200 +0000" air_time_end_utc="20261031171100 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">Homem-Aranha: Longe de Casa</title>
-    <sub-title lang="pt">Spider-Man: Far from Home</sub-title>
-    <desc lang="pt">Neste episódio do MCU estrelado por Jake Gyllenhaal e Tom Holland, o mundo mudou para sempre e Peter Parker carrega o legado de Tony Stark. Numa tentativa de escapar às suas responsabilidades de herói, Peter decide acompanhar seus amigos em umas férias pela Europa, mas seus planos desmoronam quando ele relutantemente aceita ajudar Nick Fury a salvar o mundo.</desc>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Aventura</category>
-  </programme>
-  <programme start="20261031121300 -0400" stop="20261031145700 -0400" air_time_start="20261031121300 -0400" air_time_end="20261031145700 -0400" start_utc="20261031161300 +0000" stop_utc="20261031185700 +0000" air_time_start_utc="20261031161300 +0000" air_time_end_utc="20261031185700 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">SPIDER-MAN: SIN CAMINO A CASA</title>
-    <sub-title lang="es">SPIDER-MAN: NO WAY HOME</sub-title>
-    <desc lang="es">Tom Holland y Benedict Cumberbatch protagonizan esta aventura de Spider-Man, que debe enfrentarse simultáneamente a sus mayores villanos.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261031122700 -0500" stop="20261031150200 -0500" air_time_start="20261031122700 -0500" air_time_end="20261031150200 -0500" start_utc="20261031172700 +0000" stop_utc="20261031200200 +0000" air_time_start_utc="20261031172700 +0000" air_time_end_utc="20261031200200 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">SPIDER-MAN: SIN CAMINO A CASA</title>
-    <sub-title lang="es">SPIDER-MAN: NO WAY HOME</sub-title>
-    <desc lang="es">Tom Holland y Benedict Cumberbatch protagonizan esta aventura de Spider-Man, que debe enfrentarse simultáneamente a sus mayores villanos.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261031124200 -0500" stop="20261031152000 -0500" air_time_start="20261031124200 -0500" air_time_end="20261031152000 -0500" start_utc="20261031174200 +0000" stop_utc="20261031202000 +0000" air_time_start_utc="20261031174200 +0000" air_time_end_utc="20261031202000 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">SPIDER-MAN: SIN CAMINO A CASA</title>
-    <sub-title lang="es">SPIDER-MAN: NO WAY HOME</sub-title>
-    <desc lang="es">Tom Holland y Benedict Cumberbatch protagonizan esta aventura de Spider-Man, que debe enfrentarse simultáneamente a sus mayores villanos.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261031125000 -0300" stop="20261031144300 -0300" air_time_start="20261031125000 -0300" air_time_end="20261031144300 -0300" start_utc="20261031155000 +0000" stop_utc="20261031174300 +0000" air_time_start_utc="20261031155000 +0000" air_time_end_utc="20261031174300 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">EL FUTBOL O YO</title>
-    <sub-title lang="es">MY LOVE OR MY PASSION</sub-title>
-    <desc lang="es">Pedro es un adicto total al fútbol, una pasión que está arruinando su vida matrimonial al punto que Verónica, su mujer, comienza a ver insostenible el que su marido dedique la mayor parte de su tiempo al fútbol y nada a la pareja. Cuando Pedro es despedido del trabajo por ver un partido de fútbol durante el horario laboral, el asunto adquiere tintes de tragedia. Verónica da un ultimátum a su marido: si Pedro quiere volver con ella, deberá elegir entre los dos y rehabilitarse de su adicción.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familiar</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261031133000 -0600" stop="20261031134500 -0600" air_time_start="20261031133000 -0600" air_time_end="20261031134500 -0600" start_utc="20261031193000 +0000" stop_utc="20261031194500 +0000" air_time_start_utc="20261031193000 +0000" air_time_end_utc="20261031194500 +0000" is_live="false" channel="TNT_MX.mx">
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-  </programme>
-  <programme start="20261031134500 -0600" stop="20261031143000 -0600" air_time_start="20261031134500 -0600" air_time_end="20261031143000 -0600" start_utc="20261031194500 +0000" stop_utc="20261031203000 +0000" air_time_start_utc="20261031194500 +0000" air_time_end_utc="20261031203000 +0000" is_live="false" channel="TNT_MX.mx">
-    <episode-num system="xmltv_ns">-1.8.</episode-num>
-  </programme>
-  <programme start="20261031141100 -0300" stop="20261031165100 -0300" air_time_start="20261031141100 -0300" air_time_end="20261031165100 -0300" start_utc="20261031171100 +0000" stop_utc="20261031195100 +0000" air_time_start_utc="20261031171100 +0000" air_time_end_utc="20261031195100 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">Homem-Aranha: Sem Volta para Casa</title>
-    <sub-title lang="pt">Spider-Man: No Way Home</sub-title>
-    <desc lang="pt">Tom Holland, Zendaya e Benedict Cumberbatch estrelam esta aventura do  Homem-Aranha, que desta vez enfrenta seus maiores vilões ao mesmo tempo após o Dr. Estranho sem querer abrir uma fenda para o Multiverso ao tentar ajudá-lo.</desc>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Ficção Científica</category>
-  </programme>
-  <programme start="20261031143000 -0600" stop="20261031165500 -0600" air_time_start="20261031143000 -0600" air_time_end="20261031165500 -0600" start_utc="20261031203000 +0000" stop_utc="20261031225500 +0000" air_time_start_utc="20261031203000 +0000" air_time_end_utc="20261031225500 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">SPIDER-MAN: LEJOS DE CASA</title>
-    <sub-title lang="es">SPIDER-MAN: FAR FROM HOME</sub-title>
-    <desc lang="es">En este filme protagonizado por Jake Gyllenhaal y Tom Holland, el mundo ha cambiado para siempre y Peter Parker carga con el legado de Tony Stark. En un intento de escapar a sus heroicas responsabilidades, Peter decide unirse a sus amigos en unas vacaciones por Europa, pero sus planes se vienen abajo cuando acepta a regañadientes ayudar a Nick Fury a salvar el mundo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-  </programme>
-  <programme start="20261031144300 -0300" stop="20261031164300 -0300" air_time_start="20261031144300 -0300" air_time_end="20261031164300 -0300" start_utc="20261031174300 +0000" stop_utc="20261031194300 +0000" air_time_start_utc="20261031174300 +0000" air_time_end_utc="20261031194300 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">ME CASE CON UN BOLUDO</title>
-    <desc lang="es">Fabián Brando y Florencia Córmik son actores. Durante un rodaje inician un romance que termina en casamiento, pero en la luna de miel ella se da cuenta de que se casó con un idiota. Cuando Fabián se entera, idea un plan con la ayuda de su guionista.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261031145700 -0400" stop="20261031170200 -0400" air_time_start="20261031145700 -0400" air_time_end="20261031170200 -0400" start_utc="20261031185700 +0000" stop_utc="20261031210200 +0000" air_time_start_utc="20261031185700 +0000" air_time_end_utc="20261031210200 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">MISS SIMPATÍA</title>
-    <sub-title lang="es">MISS CONGENIALITY</sub-title>
-    <desc lang="es">En esta divertida comedia, Sandra Bullock interpreta a Gracie Hart, una desalineada y agresiva agente del FBI que debe enfrentar la difícil misión de convertirse en una elegante modelo para infiltrarse como participante en el concurso de belleza Miss Estados Unidos.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261031150200 -0500" stop="20261031171200 -0500" air_time_start="20261031150200 -0500" air_time_end="20261031171200 -0500" start_utc="20261031200200 +0000" stop_utc="20261031221200 +0000" air_time_start_utc="20261031200200 +0000" air_time_end_utc="20261031221200 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">MISS SIMPATÍA</title>
-    <sub-title lang="es">MISS CONGENIALITY</sub-title>
-    <desc lang="es">En esta divertida comedia, Sandra Bullock interpreta a Gracie Hart, una desalineada y agresiva agente del FBI que debe enfrentar la difícil misión de convertirse en una elegante modelo para infiltrarse como participante en el concurso de belleza Miss Estados Unidos.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261031152000 -0500" stop="20261031172200 -0500" air_time_start="20261031152000 -0500" air_time_end="20261031172200 -0500" start_utc="20261031202000 +0000" stop_utc="20261031222200 +0000" air_time_start_utc="20261031202000 +0000" air_time_end_utc="20261031222200 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">MISS SIMPATÍA</title>
-    <sub-title lang="es">MISS CONGENIALITY</sub-title>
-    <desc lang="es">En esta divertida comedia, Sandra Bullock interpreta a Gracie Hart, una desalineada y agresiva agente del FBI que debe enfrentar la difícil misión de convertirse en una elegante modelo para infiltrarse como participante en el concurso de belleza Miss Estados Unidos.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261031164300 -0300" stop="20261031184800 -0300" air_time_start="20261031164300 -0300" air_time_end="20261031184800 -0300" start_utc="20261031194300 +0000" stop_utc="20261031214800 +0000" air_time_start_utc="20261031194300 +0000" air_time_end_utc="20261031214800 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">IGUALITA A MÍ</title>
-    <sub-title lang="es">JUST LIKE ME</sub-title>
-    <desc lang="es">Adrián Suar interpreta a Fredy, un cuarentón que lleva la arquetípica vida de un playboy: es soltero, no tiene trabajo fijo, ama la vida nocturna y siempre liga con veinteañeras en la discoteca. Pero su estilo de vida de casanova da un vuelco cuando conoce a Aylín (Florencia Bertotti), quien lo lleva a enfrentar la dura realidad no una, sino dos veces, cuando se entera de que, primero, ella es su hija, y segundo, de que está a punto de ser abuelo.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261031165100 -0300" stop="20261031193700 -0300" air_time_start="20261031165100 -0300" air_time_end="20261031193700 -0300" start_utc="20261031195100 +0000" stop_utc="20261031223700 +0000" air_time_start_utc="20261031195100 +0000" air_time_end_utc="20261031223700 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">2012</title>
-    <desc lang="pt">Nunca antes na história uma data foi tão significante para tantas culturas, religiões, cientistas e governos. 2012 é uma aventura épica sobre um cataclismo global que traz o fim do mundo e conta a heróica luta dos sobreviventes.</desc>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Ficção Científica</category>
-  </programme>
-  <programme start="20261031165500 -0600" stop="20261031194000 -0600" air_time_start="20261031165500 -0600" air_time_end="20261031194000 -0600" start_utc="20261031225500 +0000" stop_utc="20261101014000 +0000" air_time_start_utc="20261031225500 +0000" air_time_end_utc="20261101014000 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">SPIDER-MAN: SIN CAMINO A CASA</title>
-    <sub-title lang="es">SPIDER-MAN: NO WAY HOME</sub-title>
-    <desc lang="es">Tom Holland y Benedict Cumberbatch protagonizan esta aventura de Spider-Man, que debe enfrentarse simultáneamente a sus mayores villanos.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261031170200 -0400" stop="20261031184600 -0400" air_time_start="20261031170200 -0400" air_time_end="20261031184600 -0400" start_utc="20261031210200 +0000" stop_utc="20261031224600 +0000" air_time_start_utc="20261031210200 +0000" air_time_end_utc="20261031224600 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">HOMBRES DE NEGRO</title>
-    <desc lang="es">Un policía neoyorkino es entrenado para integrarse a las fuerzas de un equipo super-secreto que mantiene vigilados a miles de extraterrestres con apariencia de humanos, que están poblando la tierra con el fin de integrar un plan de destrucción. Estos policías secretos tienen la misión de identificar y capturar a estos seres antes de que la tierra sea destruída.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261031171200 -0500" stop="20261031190100 -0500" air_time_start="20261031171200 -0500" air_time_end="20261031190100 -0500" start_utc="20261031221200 +0000" stop_utc="20261101000100 +0000" air_time_start_utc="20261031221200 +0000" air_time_end_utc="20261101000100 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">HOMBRES DE NEGRO</title>
-    <desc lang="es">Un policía neoyorkino es entrenado para integrarse a las fuerzas de un equipo super-secreto que mantiene vigilados a miles de extraterrestres con apariencia de humanos, que están poblando la tierra con el fin de integrar un plan de destrucción. Estos policías secretos tienen la misión de identificar y capturar a estos seres antes de que la tierra sea destruída.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261031172200 -0500" stop="20261031190500 -0500" air_time_start="20261031172200 -0500" air_time_end="20261031190500 -0500" start_utc="20261031222200 +0000" stop_utc="20261101000500 +0000" air_time_start_utc="20261031222200 +0000" air_time_end_utc="20261101000500 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">HOMBRES DE NEGRO</title>
-    <desc lang="es">Un policía neoyorkino es entrenado para integrarse a las fuerzas de un equipo super-secreto que mantiene vigilados a miles de extraterrestres con apariencia de humanos, que están poblando la tierra con el fin de integrar un plan de destrucción. Estos policías secretos tienen la misión de identificar y capturar a estos seres antes de que la tierra sea destruída.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261031184600 -0400" stop="20261031220000 -0400" air_time_start="20261031184600 -0400" air_time_end="20261031220000 -0400" start_utc="20261031224600 +0000" stop_utc="20261101020000 +0000" air_time_start_utc="20261031224600 +0000" air_time_end_utc="20261101020000 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">2012</title>
-    <desc lang="es">Siglos atrás, los mayas predijeron el fin del mundo para el año 2012. En base a sólidas pruebas que confirman la veracidad de la predicción, los líderes de todo el mundo se alían para construir arcas de supervivencia con capacidad para salvar sólo a un selecto grupo de humanos y animales. Cuando  Jackson Curtis, un escritor fracasado que trabaja como chofer de limosinas, se entera de la existencia de estas arcas, intentará hacer todo lo posible para que su familia pueda embarcar en una de ellas mientras el mundo se desmorona a su alrededor.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261031184800 -0300" stop="20261031204600 -0300" air_time_start="20261031184800 -0300" air_time_end="20261031204600 -0300" start_utc="20261031214800 +0000" stop_utc="20261031234600 +0000" air_time_start_utc="20261031214800 +0000" air_time_end_utc="20261031234600 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">PERMITIDOS</title>
-    <sub-title lang="es">THAT'S NOT CHEATING</sub-title>
-    <desc lang="es">Lali Espósito y Martín Piroyansky protagonizan esta comedia romántica como Camila y Mateo, una pareja que ha estado junta por ocho años que, durante una charla con amigos, deciden quiénes serían sus respectivos "permitidos", una celebridad casi imposible de conocer con quien podrían tener una aventura sin que se considere infidelidad. El problema es que Camila lo dijo en broma, pero cuando Mateo conoce en persona a su "permitida", se toma la decisión muy en serio y su relación con Camila termina siendo puesta a prueba.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261031190100 -0500" stop="20261031220000 -0500" air_time_start="20261031190100 -0500" air_time_end="20261031220000 -0500" start_utc="20261101000100 +0000" stop_utc="20261101030000 +0000" air_time_start_utc="20261101000100 +0000" air_time_end_utc="20261101030000 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">2012</title>
-    <desc lang="es">Siglos atrás, los mayas predijeron el fin del mundo para el año 2012. En base a sólidas pruebas que confirman la veracidad de la predicción, los líderes de todo el mundo se alían para construir arcas de supervivencia con capacidad para salvar sólo a un selecto grupo de humanos y animales. Cuando  Jackson Curtis, un escritor fracasado que trabaja como chofer de limosinas, se entera de la existencia de estas arcas, intentará hacer todo lo posible para que su familia pueda embarcar en una de ellas mientras el mundo se desmorona a su alrededor.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261031190500 -0500" stop="20261031220000 -0500" air_time_start="20261031190500 -0500" air_time_end="20261031220000 -0500" start_utc="20261101000500 +0000" stop_utc="20261101030000 +0000" air_time_start_utc="20261101000500 +0000" air_time_end_utc="20261101030000 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">2012</title>
-    <desc lang="es">Siglos atrás, los mayas predijeron el fin del mundo para el año 2012. En base a sólidas pruebas que confirman la veracidad de la predicción, los líderes de todo el mundo se alían para construir arcas de supervivencia con capacidad para salvar sólo a un selecto grupo de humanos y animales. Cuando  Jackson Curtis, un escritor fracasado que trabaja como chofer de limosinas, se entera de la existencia de estas arcas, intentará hacer todo lo posible para que su familia pueda embarcar en una de ellas mientras el mundo se desmorona a su alrededor.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261031193700 -0300" stop="20261031215700 -0300" air_time_start="20261031193700 -0300" air_time_end="20261031215700 -0300" start_utc="20261031223700 +0000" stop_utc="20261101005700 +0000" air_time_start_utc="20261031223700 +0000" air_time_end_utc="20261101005700 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">O PROTETOR 2</title>
-    <sub-title lang="pt">THE EQUALIZER 2</sub-title>
-    <desc lang="pt">O Protetor 2 conta a história de Robert McCall (Denzel Washington), um homem que agora trabalha como motorista e ajuda as pessoas que enfrentam dificuldades decorrentes de injustiças, em Massachusetts, Estados Unidos. Quando sua amiga Susan Plummer (Melissa Leo) é morta durante a investigação de um assassinato na Bélgica, ele decide sair do anonimato e encontrar seu antigo parceiro, Dave (Pedro Pascal), no intuito de encontrar pistas sobre o autor do crime.</desc>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Crime</category>
-    <category lang="pt">Suspense</category>
-  </programme>
-  <programme start="20261031194000 -0600" stop="20261031223500 -0600" air_time_start="20261031194000 -0600" air_time_end="20261031223500 -0600" start_utc="20261101014000 +0000" stop_utc="20261101043500 +0000" air_time_start_utc="20261101014000 +0000" air_time_end_utc="20261101043500 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">2012</title>
-    <desc lang="es">Siglos atrás, los mayas predijeron el fin del mundo para el año 2012. En base a sólidas pruebas que confirman la veracidad de la predicción, los líderes de todo el mundo se alían para construir arcas de supervivencia con capacidad para salvar sólo a un selecto grupo de humanos y animales. Cuando  Jackson Curtis, un escritor fracasado que trabaja como chofer de limosinas, se entera de la existencia de estas arcas, intentará hacer todo lo posible para que su familia pueda embarcar en una de ellas mientras el mundo se desmorona a su alrededor.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261031204600 -0300" stop="20261031220000 -0300" air_time_start="20261031204600 -0300" air_time_end="20261031220000 -0300" start_utc="20261031234600 +0000" stop_utc="20261101010000 +0000" air_time_start_utc="20261031234600 +0000" air_time_end_utc="20261101010000 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">MASTERCHEF JUNIOR</title>
-    <desc lang="es">MasterChef Junior regresa con una nueva edición conducida por Verónica Lozano. Doce chicos y chicas de entre 8 y 13 años pondrán a prueba su talento culinario en una competencia llena de desafíos, creatividad y aprendizaje, bajo la mirada del jurado integrado por Germán Martitegui, Maru Botana e Ian Lucas.</desc>
-    <episode-num system="xmltv_ns">-1.2.</episode-num>
-  </programme>
-  <programme start="20261031215700 -0300" stop="20261031235400 -0300" air_time_start="20261031215700 -0300" air_time_end="20261031235400 -0300" start_utc="20261101005700 +0000" stop_utc="20261101025400 +0000" air_time_start_utc="20261101005700 +0000" air_time_end_utc="20261101025400 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">O LIVRO DE ELI</title>
-    <sub-title lang="pt">The Book of Eli</sub-title>
-    <desc lang="pt">En um futuro apocalíptico e devastado, um homem solitário protege um livro sagrado que poderia ser a salvação da humanidade. Suas habilidades para a luta e seu tesouro oculto chamam a atenção de um mafioso e de sua sensual filha.</desc>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Aventura</category>
-  </programme>
-  <programme start="20261031220000 -0300" stop="20261101000500 -0300" air_time_start="20261031220000 -0300" air_time_end="20261101000500 -0300" start_utc="20261101010000 +0000" stop_utc="20261101030500 +0000" air_time_start_utc="20261101010000 +0000" air_time_end_utc="20261101030500 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">EL LIBRO DE LOS SECRETOS</title>
-    <desc lang="es">En un futuro no muy distante, luego de que una guerra aniquile a la mayor parte de la sociedad civilizada, algunos seres humanos sobreviven en un ambiente hostil donde la ley ya no existe. Eli, un guerrero que camina por un país desolado, busca cumplir con su destino: rescatar a la humanidad que se encuentra al borde de la destrucción.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-  </programme>
-  <programme start="20261031220000 -0400" stop="20261101002000 -0400" air_time_start="20261031220000 -0400" air_time_end="20261101002000 -0400" start_utc="20261101020000 +0000" stop_utc="20261101042000 +0000" air_time_start_utc="20261101020000 +0000" air_time_end_utc="20261101042000 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">EL LIBRO DE LOS SECRETOS</title>
-    <desc lang="es">En un futuro no muy distante, luego de que una guerra aniquile a la mayor parte de la sociedad civilizada, algunos seres humanos sobreviven en un ambiente hostil donde la ley ya no existe. Eli, un guerrero que camina por un país desolado, busca cumplir con su destino: rescatar a la humanidad que se encuentra al borde de la destrucción.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-  </programme>
-  <programme start="20261031220000 -0500" stop="20261101001400 -0500" air_time_start="20261031220000 -0500" air_time_end="20261101001400 -0500" start_utc="20261101030000 +0000" stop_utc="20261101051400 +0000" air_time_start_utc="20261101030000 +0000" air_time_end_utc="20261101051400 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">EL LIBRO DE LOS SECRETOS</title>
-    <desc lang="es">En un futuro no muy distante, luego de que una guerra aniquile a la mayor parte de la sociedad civilizada, algunos seres humanos sobreviven en un ambiente hostil donde la ley ya no existe. Eli, un guerrero que camina por un país desolado, busca cumplir con su destino: rescatar a la humanidad que se encuentra al borde de la destrucción.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-  </programme>
-  <programme start="20261031220000 -0500" stop="20261101000500 -0500" air_time_start="20261031220000 -0500" air_time_end="20261101000500 -0500" start_utc="20261101030000 +0000" stop_utc="20261101050500 +0000" air_time_start_utc="20261101030000 +0000" air_time_end_utc="20261101050500 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">EL LIBRO DE LOS SECRETOS</title>
-    <desc lang="es">En un futuro no muy distante, luego de que una guerra aniquile a la mayor parte de la sociedad civilizada, algunos seres humanos sobreviven en un ambiente hostil donde la ley ya no existe. Eli, un guerrero que camina por un país desolado, busca cumplir con su destino: rescatar a la humanidad que se encuentra al borde de la destrucción.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-  </programme>
-  <programme start="20261031223500 -0600" stop="20261101004300 -0600" air_time_start="20261031223500 -0600" air_time_end="20261101004300 -0600" start_utc="20261101043500 +0000" stop_utc="20261101064300 +0000" air_time_start_utc="20261101043500 +0000" air_time_end_utc="20261101064300 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">EL LIBRO DE LOS SECRETOS</title>
-    <desc lang="es">En un futuro no muy distante, luego de que una guerra aniquile a la mayor parte de la sociedad civilizada, algunos seres humanos sobreviven en un ambiente hostil donde la ley ya no existe. Eli, un guerrero que camina por un país desolado, busca cumplir con su destino: rescatar a la humanidad que se encuentra al borde de la destrucción.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-  </programme>
-  <programme start="20261031235400 -0300" stop="20261101013400 -0300" air_time_start="20261031235400 -0300" air_time_end="20261101013400 -0300" start_utc="20261101025400 +0000" stop_utc="20261101043400 +0000" air_time_start_utc="20261101025400 +0000" air_time_end_utc="20261101043400 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">HOMENS DE PRETO</title>
-    <sub-title lang="pt">Men in Black</sub-title>
-    <desc lang="pt">Dois policiais de Nova York trabalham num projeto futurista supersecreto do governo, envolvendo a captura e deportação de seres espaciais não autorizados a ficar na terra. Em sua nova missão, eles enfrentam alienígenas que querem dominar o mundo.</desc>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Ficção Científica</category>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20261101000500 -0300" stop="20261101021600 -0300" air_time_start="20261101000500 -0300" air_time_end="20261101021600 -0300" start_utc="20261101030500 +0000" stop_utc="20261101051600 +0000" air_time_start_utc="20261101030500 +0000" air_time_end_utc="20261101051600 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">EL JUSTICIERO 2</title>
-    <sub-title lang="es">THE EQUALIZER 2</sub-title>
-    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261101000500 -0500" stop="20261101020800 -0500" air_time_start="20261101000500 -0500" air_time_end="20261101020800 -0500" start_utc="20261101050500 +0000" stop_utc="20261101070800 +0000" air_time_start_utc="20261101050500 +0000" air_time_end_utc="20261101070800 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">EL JUSTICIERO 2</title>
-    <sub-title lang="es">THE EQUALIZER 2</sub-title>
-    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Suspenso</category>
-  </programme>
   <programme start="20261101001400 -0500" stop="20261101022100 -0500" air_time_start="20261101001400 -0500" air_time_end="20261101022100 -0500" start_utc="20261101051400 +0000" stop_utc="20261101072100 +0000" air_time_start_utc="20261101051400 +0000" air_time_end_utc="20261101072100 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">EL JUSTICIERO 2</title>
-    <sub-title lang="es">THE EQUALIZER 2</sub-title>
-    <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261101002000 -0400" stop="20261101023400 -0400" air_time_start="20261101002000 -0400" air_time_end="20261101023400 -0400" start_utc="20261101042000 +0000" stop_utc="20261101063400 +0000" air_time_start_utc="20261101042000 +0000" air_time_end_utc="20261101063400 +0000" is_live="false" channel="TNT_CL.cl">
     <title lang="es">EL JUSTICIERO 2</title>
     <sub-title lang="es">THE EQUALIZER 2</sub-title>
     <desc lang="es">El ex Marine y espía de la Agencia de Inteligencia de la Defensa Robert McCall vive hoy en un complejo de departamentos en Massachusetts. Trabaja como chofer y ayuda a los menos afortunados con la ayuda de su amiga Susan Plummer. Cuando Susan es asesinada, McCall sale en busca de venganza, y deberá enfrentarse a un grupo de asesinos profesionales bien entrenados que no pararán hasta destruirlo.</desc>
@@ -717,15 +33,6 @@
     <category lang="es">Acción</category>
     <category lang="es">Crimen</category>
     <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261101013400 -0300" stop="20261101034400 -0300" air_time_start="20261101013400 -0300" air_time_end="20261101034400 -0300" start_utc="20261101043400 +0000" stop_utc="20261101064400 +0000" air_time_start_utc="20261101043400 +0000" air_time_end_utc="20261101064400 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">O FUGITIVO</title>
-    <sub-title lang="pt">The Fugitive</sub-title>
-    <desc lang="pt">Repleto de ação e suspense, este drama foi indicado para vários Oscars®. Harrison Ford interpreta o Dr. Richard Kimble, acusado de assassinar sua esposa. Após um incrível acidente envolvendo um trem e o ônibus que o transferia para prisão, ele consegue fugir. Agora, Kimble está decidido a encontrar o verdadeiro assassino, um professional ardiloso. Atrás de cada passo do fugitivo está o xerife Sam Gerard, interpretado por Tommy Lee Jones, que ganhou um Oscar® pelo papel.</desc>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Crime</category>
-    <category lang="pt">Policial</category>
-    <category lang="pt">Suspense</category>
   </programme>
   <programme start="20261101020800 -0500" stop="20261101042800 -0500" air_time_start="20261101020800 -0500" air_time_end="20261101042800 -0500" start_utc="20261101070800 +0000" stop_utc="20261101092800 +0000" air_time_start_utc="20261101070800 +0000" air_time_end_utc="20261101092800 +0000" is_live="false" channel="TNT_PAN.co">
     <title lang="es">EL FUGITIVO</title>
@@ -4801,5 +4108,815 @@ Tommy Lee Jones recibió un Premio Óscar a Mejor actor de Reparto por su consag
     <category lang="pt">Talk Show</category>
     <category lang="pt">Notícias De Entretenimento</category>
     <episode-num system="xmltv_ns">-1.47.</episode-num>
+  </programme>
+  <programme start="20261106060000 -0300" stop="20261106061200 -0300" air_time_start="20261106060000 -0300" air_time_end="20261106061200 -0300" start_utc="20261106090000 +0000" stop_utc="20261106091200 +0000" air_time_start_utc="20261106090000 +0000" air_time_end_utc="20261106091200 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="pt">Talk Show</category>
+    <category lang="pt">Notícias De Entretenimento</category>
+    <episode-num system="xmltv_ns">-1.45.</episode-num>
+  </programme>
+  <programme start="20261106060000 -0300" stop="20261106063700 -0300" air_time_start="20261106060000 -0300" air_time_end="20261106063700 -0300" start_utc="20261106090000 +0000" stop_utc="20261106093700 +0000" air_time_start_utc="20261106090000 +0000" air_time_end_utc="20261106093700 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.15.</episode-num>
+  </programme>
+  <programme start="20261106060000 -0400" stop="20261106063800 -0400" air_time_start="20261106060000 -0400" air_time_end="20261106063800 -0400" start_utc="20261106100000 +0000" stop_utc="20261106103800 +0000" air_time_start_utc="20261106100000 +0000" air_time_end_utc="20261106103800 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.17.</episode-num>
+  </programme>
+  <programme start="20261106060000 -0500" stop="20261106063700 -0500" air_time_start="20261106060000 -0500" air_time_end="20261106063700 -0500" start_utc="20261106110000 +0000" stop_utc="20261106113700 +0000" air_time_start_utc="20261106110000 +0000" air_time_end_utc="20261106113700 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.12.</episode-num>
+  </programme>
+  <programme start="20261106060000 -0500" stop="20261106063900 -0500" air_time_start="20261106060000 -0500" air_time_end="20261106063900 -0500" start_utc="20261106110000 +0000" stop_utc="20261106113900 +0000" air_time_start_utc="20261106110000 +0000" air_time_end_utc="20261106113900 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.11.</episode-num>
+  </programme>
+  <programme start="20261106060000 -0600" stop="20261106061200 -0600" air_time_start="20261106060000 -0600" air_time_end="20261106061200 -0600" start_utc="20261106120000 +0000" stop_utc="20261106121200 +0000" air_time_start_utc="20261106120000 +0000" air_time_end_utc="20261106121200 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.47.</episode-num>
+  </programme>
+  <programme start="20261106061200 -0300" stop="20261106062400 -0300" air_time_start="20261106061200 -0300" air_time_end="20261106062400 -0300" start_utc="20261106091200 +0000" stop_utc="20261106092400 +0000" air_time_start_utc="20261106091200 +0000" air_time_end_utc="20261106092400 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="pt">Talk Show</category>
+    <category lang="pt">Notícias De Entretenimento</category>
+    <episode-num system="xmltv_ns">-1.46.</episode-num>
+  </programme>
+  <programme start="20261106061200 -0600" stop="20261106061300 -0600" air_time_start="20261106061200 -0600" air_time_end="20261106061300 -0600" start_utc="20261106121200 +0000" stop_utc="20261106121300 +0000" air_time_start_utc="20261106121200 +0000" air_time_end_utc="20261106121300 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.85.</episode-num>
+  </programme>
+  <programme start="20261106061300 -0600" stop="20261106080100 -0600" air_time_start="20261106061300 -0600" air_time_end="20261106080100 -0600" start_utc="20261106121300 +0000" stop_utc="20261106140100 +0000" air_time_start_utc="20261106121300 +0000" air_time_end_utc="20261106140100 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">UNA PÉRDIDA ACEPTABLE</title>
+    <desc lang="es">Libby Lamm es una antigua asesora de seguridad nacional que, mientras trabajaba con Rachel Burke, una veterana política implacable y de voluntad firme, firmó una polémica acción militar que supuestamente iba a poner fin a la guerra contra el terrorismo. El problema: miles murieron bajo falsas pretensiones. Perseguida por su pasado, Libby se propone decir la verdad, arriesgando la traición y su propia vida, para exponer un encubrimiento que se extiende hasta los niveles más altos del gobierno.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261106062400 -0300" stop="20261106065900 -0300" air_time_start="20261106062400 -0300" air_time_end="20261106065900 -0300" start_utc="20261106092400 +0000" stop_utc="20261106095900 +0000" air_time_start_utc="20261106092400 +0000" air_time_end_utc="20261106095900 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="pt">Variedades</category>
+    <episode-num system="xmltv_ns">-1.13.</episode-num>
+  </programme>
+  <programme start="20261106063700 -0300" stop="20261106064700 -0300" air_time_start="20261106063700 -0300" air_time_end="20261106064700 -0300" start_utc="20261106093700 +0000" stop_utc="20261106094700 +0000" air_time_start_utc="20261106093700 +0000" air_time_end_utc="20261106094700 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.40.</episode-num>
+  </programme>
+  <programme start="20261106063700 -0500" stop="20261106064800 -0500" air_time_start="20261106063700 -0500" air_time_end="20261106064800 -0500" start_utc="20261106113700 +0000" stop_utc="20261106114800 +0000" air_time_start_utc="20261106113700 +0000" air_time_end_utc="20261106114800 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.43.</episode-num>
+  </programme>
+  <programme start="20261106063800 -0400" stop="20261106071700 -0400" air_time_start="20261106063800 -0400" air_time_end="20261106071700 -0400" start_utc="20261106103800 +0000" stop_utc="20261106111700 +0000" air_time_start_utc="20261106103800 +0000" air_time_end_utc="20261106111700 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.18.</episode-num>
+  </programme>
+  <programme start="20261106063900 -0500" stop="20261106072100 -0500" air_time_start="20261106063900 -0500" air_time_end="20261106072100 -0500" start_utc="20261106113900 +0000" stop_utc="20261106122100 +0000" air_time_start_utc="20261106113900 +0000" air_time_end_utc="20261106122100 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.12.</episode-num>
+  </programme>
+  <programme start="20261106064700 -0300" stop="20261106065100 -0300" air_time_start="20261106064700 -0300" air_time_end="20261106065100 -0300" start_utc="20261106094700 +0000" stop_utc="20261106095100 +0000" air_time_start_utc="20261106094700 +0000" air_time_end_utc="20261106095100 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.91.</episode-num>
+  </programme>
+  <programme start="20261106064800 -0500" stop="20261106065800 -0500" air_time_start="20261106064800 -0500" air_time_end="20261106065800 -0500" start_utc="20261106114800 +0000" stop_utc="20261106115800 +0000" air_time_start_utc="20261106114800 +0000" air_time_end_utc="20261106115800 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.44.</episode-num>
+  </programme>
+  <programme start="20261106065100 -0300" stop="20261106084000 -0300" air_time_start="20261106065100 -0300" air_time_end="20261106084000 -0300" start_utc="20261106095100 +0000" stop_utc="20261106114000 +0000" air_time_start_utc="20261106095100 +0000" air_time_end_utc="20261106114000 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">DE LA CUNA A LA TUMBA</title>
+    <desc lang="es">"Juntos son dinamita, para la pantalla grande y también para la taquilla. El astro de las artes marciales Jet Li y el polémico rapero DMX protagonizan este film que costó 25 millones de dólares y que sólo en la cartelera norteamericana recaudó 35. Dirigida por el polaco Andrzej Bartkowiak -reconocido director de fotografía y montajista de films como ""Un día de furia"" y ""Máxima velocidad""-, la película acompaña el recorrido contrarreloj de un ladrón (DMX) que debe rescatar a su hija, secuestrada por un gángster. Para lograrlo se une a un agente del gobierno taiwanés (Li), que está en busca de unos diamantes robados. "</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20261106065800 -0500" stop="20261106070600 -0500" air_time_start="20261106065800 -0500" air_time_end="20261106070600 -0500" start_utc="20261106115800 +0000" stop_utc="20261106120600 +0000" air_time_start_utc="20261106115800 +0000" air_time_end_utc="20261106120600 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.47.</episode-num>
+  </programme>
+  <programme start="20261106065900 -0300" stop="20261106085500 -0300" air_time_start="20261106065900 -0300" air_time_end="20261106085500 -0300" start_utc="20261106095900 +0000" stop_utc="20261106115500 +0000" air_time_start_utc="20261106095900 +0000" air_time_end_utc="20261106115500 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">MISS SIMPATIA 2: ARMADA E PODEROSA</title>
+    <sub-title lang="pt">Miss Congeniality 2: Armed and Fabulous</sub-title>
+    <desc lang="pt">Gracie Hart (Sandra Bullock) está até tentando voltar a sua rotina policial após ter sido a estrela de um concurso de beleza. Mas o FBI quer porque quer tirar vantagem de sua fama para gerar publicidade ao bureau. Até que dois amigos que Gracie havia conhecido durante suas aventuras pelo mundo da beleza são seqüestrados. Ao lado de uma policial durona que não vai com a sua cara, ela fará de tudo para recuperar seu prestígio junto aos colegas.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Comédia</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20261106070600 -0500" stop="20261106073200 -0500" air_time_start="20261106070600 -0500" air_time_end="20261106073200 -0500" start_utc="20261106120600 +0000" stop_utc="20261106123200 +0000" air_time_start_utc="20261106120600 +0000" air_time_end_utc="20261106123200 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">YO SOY BETTY LA FEA</title>
+    <desc lang="es">Beatriz Pinzón, una brillante economista, tiene el defecto de ser muy fea y está resignada a envejecer al lado de sus padres porque ha perdido toda esperanza con los hombres. Pero la fealdad no le impide a Betty soñar y, desde que empezó a trabajar en Eco Moda, imagina lo que sería vivir una historia de amor con Armando, el presidente de la compañía. Pero para él no existe como mujer, Betty es su consejera y cómplice ya que lo encubre ante su novia. No obstante, la vida le dará a Betty la oportunidad que estaba esperando y gracias a su inteligencia demostrará a todos que es una mujer digna de ser amada por cualquier hombre.</desc>
+    <category lang="es">Comedia</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Romance</category>
+    <episode-num system="xmltv_ns">-1.4.</episode-num>
+  </programme>
+  <programme start="20261106071700 -0400" stop="20261106090700 -0400" air_time_start="20261106071700 -0400" air_time_end="20261106090700 -0400" start_utc="20261106111700 +0000" stop_utc="20261106130700 +0000" air_time_start_utc="20261106111700 +0000" air_time_end_utc="20261106130700 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">DE LA CUNA A LA TUMBA</title>
+    <desc lang="es">"Juntos son dinamita, para la pantalla grande y también para la taquilla. El astro de las artes marciales Jet Li y el polémico rapero DMX protagonizan este film que costó 25 millones de dólares y que sólo en la cartelera norteamericana recaudó 35. Dirigida por el polaco Andrzej Bartkowiak -reconocido director de fotografía y montajista de films como ""Un día de furia"" y ""Máxima velocidad""-, la película acompaña el recorrido contrarreloj de un ladrón (DMX) que debe rescatar a su hija, secuestrada por un gángster. Para lograrlo se une a un agente del gobierno taiwanés (Li), que está en busca de unos diamantes robados. "</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20261106072100 -0500" stop="20261106072300 -0500" air_time_start="20261106072100 -0500" air_time_end="20261106072300 -0500" start_utc="20261106122100 +0000" stop_utc="20261106122300 +0000" air_time_start_utc="20261106122100 +0000" air_time_end_utc="20261106122300 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.108.</episode-num>
+  </programme>
+  <programme start="20261106072300 -0500" stop="20261106072500 -0500" air_time_start="20261106072300 -0500" air_time_end="20261106072500 -0500" start_utc="20261106122300 +0000" stop_utc="20261106122500 +0000" air_time_start_utc="20261106122300 +0000" air_time_end_utc="20261106122500 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.109.</episode-num>
+  </programme>
+  <programme start="20261106072500 -0500" stop="20261106091500 -0500" air_time_start="20261106072500 -0500" air_time_end="20261106091500 -0500" start_utc="20261106122500 +0000" stop_utc="20261106141500 +0000" air_time_start_utc="20261106122500 +0000" air_time_end_utc="20261106141500 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">DE LA CUNA A LA TUMBA</title>
+    <desc lang="es">"Juntos son dinamita, para la pantalla grande y también para la taquilla. El astro de las artes marciales Jet Li y el polémico rapero DMX protagonizan este film que costó 25 millones de dólares y que sólo en la cartelera norteamericana recaudó 35. Dirigida por el polaco Andrzej Bartkowiak -reconocido director de fotografía y montajista de films como ""Un día de furia"" y ""Máxima velocidad""-, la película acompaña el recorrido contrarreloj de un ladrón (DMX) que debe rescatar a su hija, secuestrada por un gángster. Para lograrlo se une a un agente del gobierno taiwanés (Li), que está en busca de unos diamantes robados. "</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20261106073200 -0500" stop="20261106091500 -0500" air_time_start="20261106073200 -0500" air_time_end="20261106091500 -0500" start_utc="20261106123200 +0000" stop_utc="20261106141500 +0000" air_time_start_utc="20261106123200 +0000" air_time_end_utc="20261106141500 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">EL PASEO 4</title>
+    <desc lang="es">Este año, la familia Rubio va a Miami. Playa, brisa y mar con paseo de olla incluido. Así es el estilo de esta pintoresca familia que por casualidades del destino tiene la oportunidad de viajar a Miami. Por fin pasarán vacaciones en otro lugar diferente a su querido Sasaima. Pronto Miami recibirá a estos entusiastas turistas llenos de patriotismo que deslumbrados por la magia de la ciudad del sol intentarán dejar muy en alto el nombre de la patria.</desc>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20261106080100 -0600" stop="20261106094900 -0600" air_time_start="20261106080100 -0600" air_time_end="20261106094900 -0600" start_utc="20261106140100 +0000" stop_utc="20261106154900 +0000" air_time_start_utc="20261106140100 +0000" air_time_end_utc="20261106154900 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">DE LA CUNA A LA TUMBA</title>
+    <desc lang="es">"Juntos son dinamita, para la pantalla grande y también para la taquilla. El astro de las artes marciales Jet Li y el polémico rapero DMX protagonizan este film que costó 25 millones de dólares y que sólo en la cartelera norteamericana recaudó 35. Dirigida por el polaco Andrzej Bartkowiak -reconocido director de fotografía y montajista de films como ""Un día de furia"" y ""Máxima velocidad""-, la película acompaña el recorrido contrarreloj de un ladrón (DMX) que debe rescatar a su hija, secuestrada por un gángster. Para lograrlo se une a un agente del gobierno taiwanés (Li), que está en busca de unos diamantes robados. "</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20261106084000 -0300" stop="20261106104000 -0300" air_time_start="20261106084000 -0300" air_time_end="20261106104000 -0300" start_utc="20261106114000 +0000" stop_utc="20261106134000 +0000" air_time_start_utc="20261106114000 +0000" air_time_end_utc="20261106134000 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">EL CAZADOR Y LA REINA DEL HIELO</title>
+    <sub-title lang="es">THE HUNTSMAN: WINTER'S WAR</sub-title>
+    <desc lang="es">Destrozada por la traición de su malvada hermana Ravenna, Freya viaja a un reino en el norte para formar un ejército de cazadores que la protejan. Freya, quien tiene el don de convertir a sus enemigos en hielo, les enseña a sus jóvenes soldados a no enamorarse jamás. Cuando Eric y la guerrera Sara rompen esta regla, Freya, furiosa, hará lo que sea para detenerlos. Mientras la guerra entre hermanas se intensifica, Eric y Sara intentarán sobrevivir.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261106085500 -0300" stop="20261106104700 -0300" air_time_start="20261106085500 -0300" air_time_end="20261106104700 -0300" start_utc="20261106115500 +0000" stop_utc="20261106134700 +0000" air_time_start_utc="20261106115500 +0000" air_time_end_utc="20261106134700 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">O CAÇADOR E A RAINHA DE GELO</title>
+    <sub-title lang="pt">The Huntsman: Winter's War</sub-title>
+    <desc lang="pt">Anos antes dos acontecimentos de "A Branca de Neve e o Caçador", a Rainha Ravenna era governante de outro reino e ao seu lado sempre estava sua bondosa irmã Freya. Freya engravida e dá à luz a uma menina. Quando descobre que a criança se tornará a mais bela de todas no futuro, Ravenna mata a bebê, despertando um poder nunca visto na irmã. Passado muito tempo e dotada de poderes capazes de congelar seus inimigos, Freya torna-se a Rainha do Gelo e conquista inúmeros reinos com seu exército, que foi ensinado a nunca se apaixonar. Dois dos mais talentosos integrantes do exército, Erik e Sara, se apaixonam e Freya fará de tudo para impedir que fiquem juntos. Paralelo a isso, o espelho mágico de Ravenna é dado como desaparecido e será necessário impedir que ele caia nas mãos da nova rainha.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Fantasia</category>
+  </programme>
+  <programme start="20261106090700 -0400" stop="20261106111000 -0400" air_time_start="20261106090700 -0400" air_time_end="20261106111000 -0400" start_utc="20261106130700 +0000" stop_utc="20261106151000 +0000" air_time_start_utc="20261106130700 +0000" air_time_end_utc="20261106151000 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">EL CAZADOR Y LA REINA DEL HIELO</title>
+    <sub-title lang="es">THE HUNTSMAN: WINTER'S WAR</sub-title>
+    <desc lang="es">Destrozada por la traición de su malvada hermana Ravenna, Freya viaja a un reino en el norte para formar un ejército de cazadores que la protejan. Freya, quien tiene el don de convertir a sus enemigos en hielo, les enseña a sus jóvenes soldados a no enamorarse jamás. Cuando Eric y la guerrera Sara rompen esta regla, Freya, furiosa, hará lo que sea para detenerlos. Mientras la guerra entre hermanas se intensifica, Eric y Sara intentarán sobrevivir.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261106091500 -0500" stop="20261106111600 -0500" air_time_start="20261106091500 -0500" air_time_end="20261106111600 -0500" start_utc="20261106141500 +0000" stop_utc="20261106161600 +0000" air_time_start_utc="20261106141500 +0000" air_time_end_utc="20261106161600 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">EL CAZADOR Y LA REINA DEL HIELO</title>
+    <sub-title lang="es">THE HUNTSMAN: WINTER'S WAR</sub-title>
+    <desc lang="es">Destrozada por la traición de su malvada hermana Ravenna, Freya viaja a un reino en el norte para formar un ejército de cazadores que la protejan. Freya, quien tiene el don de convertir a sus enemigos en hielo, les enseña a sus jóvenes soldados a no enamorarse jamás. Cuando Eric y la guerrera Sara rompen esta regla, Freya, furiosa, hará lo que sea para detenerlos. Mientras la guerra entre hermanas se intensifica, Eric y Sara intentarán sobrevivir.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261106091500 -0500" stop="20261106111400 -0500" air_time_start="20261106091500 -0500" air_time_end="20261106111400 -0500" start_utc="20261106141500 +0000" stop_utc="20261106161400 +0000" air_time_start_utc="20261106141500 +0000" air_time_end_utc="20261106161400 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">EL CAZADOR Y LA REINA DEL HIELO</title>
+    <sub-title lang="es">THE HUNTSMAN: WINTER'S WAR</sub-title>
+    <desc lang="es">Destrozada por la traición de su malvada hermana Ravenna, Freya viaja a un reino en el norte para formar un ejército de cazadores que la protejan. Freya, quien tiene el don de convertir a sus enemigos en hielo, les enseña a sus jóvenes soldados a no enamorarse jamás. Cuando Eric y la guerrera Sara rompen esta regla, Freya, furiosa, hará lo que sea para detenerlos. Mientras la guerra entre hermanas se intensifica, Eric y Sara intentarán sobrevivir.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261106094900 -0600" stop="20261106114300 -0600" air_time_start="20261106094900 -0600" air_time_end="20261106114300 -0600" start_utc="20261106154900 +0000" stop_utc="20261106174300 +0000" air_time_start_utc="20261106154900 +0000" air_time_end_utc="20261106174300 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">EL CAZADOR Y LA REINA DEL HIELO</title>
+    <sub-title lang="es">THE HUNTSMAN: WINTER'S WAR</sub-title>
+    <desc lang="es">Destrozada por la traición de su malvada hermana Ravenna, Freya viaja a un reino en el norte para formar un ejército de cazadores que la protejan. Freya, quien tiene el don de convertir a sus enemigos en hielo, les enseña a sus jóvenes soldados a no enamorarse jamás. Cuando Eric y la guerrera Sara rompen esta regla, Freya, furiosa, hará lo que sea para detenerlos. Mientras la guerra entre hermanas se intensifica, Eric y Sara intentarán sobrevivir.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261106104000 -0300" stop="20261106124900 -0300" air_time_start="20261106104000 -0300" air_time_end="20261106124900 -0300" start_utc="20261106134000 +0000" stop_utc="20261106154900 +0000" air_time_start_utc="20261106134000 +0000" air_time_end_utc="20261106154900 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">MISS SIMPATÍA 2: ARMADA Y FABULOSA</title>
+    <sub-title lang="es">MISS CONGENIALITY 2: ARMED &amp; FABULOUS</sub-title>
+    <desc lang="es">Luego de frustrar un atentado al concurso de belleza de Miss Estados Unidos, Gracie Hart, una integrante del FBI, adquiere tal fama en los medios que se ve impedida de participar en nuevos operativos como agente encubierto. Para continuar en el Departamento, deberá aceptar la propuesta de su jefe y ser la nueva relacionista pública del FBI. Secuela de la exitosa comedia policial Miss Simpatía, protagonizada y producida por Sandra Bullock.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20261106104700 -0300" stop="20261106111300 -0300" air_time_start="20261106104700 -0300" air_time_end="20261106111300 -0300" start_utc="20261106134700 +0000" stop_utc="20261106141300 +0000" air_time_start_utc="20261106134700 +0000" air_time_end_utc="20261106141300 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">SOMEDAY YOUR PRINCE WILL BE IN EFFECT (PART I)</sub-title>
+    <desc lang="pt">Will e Carlton tentam encontrar um par para a festa de Halloween. Participação especial de Bo Jackson, astro do futebol e beisebol, e do lendário Quincy Jones, lenda da música, no papel deles mesmos.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/wgBXcnt8hCtDTYETda64eGKhPxn.jpg" />
+  </programme>
+  <programme start="20261106111000 -0400" stop="20261106131800 -0400" air_time_start="20261106111000 -0400" air_time_end="20261106131800 -0400" start_utc="20261106151000 +0000" stop_utc="20261106171800 +0000" air_time_start_utc="20261106151000 +0000" air_time_end_utc="20261106171800 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">MISS SIMPATÍA 2: ARMADA Y FABULOSA</title>
+    <sub-title lang="es">MISS CONGENIALITY 2: ARMED &amp; FABULOUS</sub-title>
+    <desc lang="es">Luego de frustrar un atentado al concurso de belleza de Miss Estados Unidos, Gracie Hart, una integrante del FBI, adquiere tal fama en los medios que se ve impedida de participar en nuevos operativos como agente encubierto. Para continuar en el Departamento, deberá aceptar la propuesta de su jefe y ser la nueva relacionista pública del FBI. Secuela de la exitosa comedia policial Miss Simpatía, protagonizada y producida por Sandra Bullock.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20261106111300 -0300" stop="20261106113800 -0300" air_time_start="20261106111300 -0300" air_time_end="20261106113800 -0300" start_utc="20261106141300 +0000" stop_utc="20261106143800 +0000" air_time_start_utc="20261106141300 +0000" air_time_end_utc="20261106143800 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">SOMEDAY YOUR PRINCE WILL BE IN EFFECT (PART II)</sub-title>
+    <desc lang="pt">Will e Carlton tentam encontrar um par para a festa de Halloween. Participação especial de Bo Jackson, astro do futebol e beisebol, e do lendário Quincy Jones, lenda da música, no papel deles mesmos.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/aHL7AS1SFDkKFRMCWEc1XraBxeO.jpg" />
+  </programme>
+  <programme start="20261106111400 -0500" stop="20261106132200 -0500" air_time_start="20261106111400 -0500" air_time_end="20261106132200 -0500" start_utc="20261106161400 +0000" stop_utc="20261106182200 +0000" air_time_start_utc="20261106161400 +0000" air_time_end_utc="20261106182200 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">MISS SIMPATÍA 2: ARMADA Y FABULOSA</title>
+    <sub-title lang="es">MISS CONGENIALITY 2: ARMED &amp; FABULOUS</sub-title>
+    <desc lang="es">Luego de frustrar un atentado al concurso de belleza de Miss Estados Unidos, Gracie Hart, una integrante del FBI, adquiere tal fama en los medios que se ve impedida de participar en nuevos operativos como agente encubierto. Para continuar en el Departamento, deberá aceptar la propuesta de su jefe y ser la nueva relacionista pública del FBI. Secuela de la exitosa comedia policial Miss Simpatía, protagonizada y producida por Sandra Bullock.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20261106111600 -0500" stop="20261106131900 -0500" air_time_start="20261106111600 -0500" air_time_end="20261106131900 -0500" start_utc="20261106161600 +0000" stop_utc="20261106181900 +0000" air_time_start_utc="20261106161600 +0000" air_time_end_utc="20261106181900 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">MISS SIMPATÍA 2: ARMADA Y FABULOSA</title>
+    <sub-title lang="es">MISS CONGENIALITY 2: ARMED &amp; FABULOUS</sub-title>
+    <desc lang="es">Luego de frustrar un atentado al concurso de belleza de Miss Estados Unidos, Gracie Hart, una integrante del FBI, adquiere tal fama en los medios que se ve impedida de participar en nuevos operativos como agente encubierto. Para continuar en el Departamento, deberá aceptar la propuesta de su jefe y ser la nueva relacionista pública del FBI. Secuela de la exitosa comedia policial Miss Simpatía, protagonizada y producida por Sandra Bullock.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20261106113800 -0300" stop="20261106120400 -0300" air_time_start="20261106113800 -0300" air_time_end="20261106120400 -0300" start_utc="20261106143800 +0000" stop_utc="20261106150400 +0000" air_time_start_utc="20261106143800 +0000" air_time_end_utc="20261106150400 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">KISS MY BUTLER</sub-title>
+    <desc lang="pt">Will se apaixona pela pessoa que Geoffrey vai conhecer em um encontro às cegas e tenta impressioná-la.  Mas, para sua surpresa, Geoffrey ofusca Will. Supermodel convidada NAOMI CAMPBELL.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/a41BCHSYHCUPNv1o4bE5MyWPD7b.jpg" />
+  </programme>
+  <programme start="20261106114300 -0600" stop="20261106135000 -0600" air_time_start="20261106114300 -0600" air_time_end="20261106135000 -0600" start_utc="20261106174300 +0000" stop_utc="20261106195000 +0000" air_time_start_utc="20261106174300 +0000" air_time_end_utc="20261106195000 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">MISS SIMPATÍA 2: ARMADA Y FABULOSA</title>
+    <sub-title lang="es">MISS CONGENIALITY 2: ARMED &amp; FABULOUS</sub-title>
+    <desc lang="es">Luego de frustrar un atentado al concurso de belleza de Miss Estados Unidos, Gracie Hart, una integrante del FBI, adquiere tal fama en los medios que se ve impedida de participar en nuevos operativos como agente encubierto. Para continuar en el Departamento, deberá aceptar la propuesta de su jefe y ser la nueva relacionista pública del FBI. Secuela de la exitosa comedia policial Miss Simpatía, protagonizada y producida por Sandra Bullock.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20261106120400 -0300" stop="20261106123000 -0300" air_time_start="20261106120400 -0300" air_time_end="20261106123000 -0300" start_utc="20261106150400 +0000" stop_utc="20261106153000 +0000" air_time_start_utc="20261106150400 +0000" air_time_end_utc="20261106153000 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">COURTING DISASTER</sub-title>
+    <desc lang="pt">Quando Will se torna o astro da equipe de basquete da escola de Carlton, o sucesso sobe à sua cabeça.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/bdqVeAw8RcMRL0kVUqJ6geiysQS.jpg" />
+  </programme>
+  <programme start="20261106123000 -0300" stop="20261106125200 -0300" air_time_start="20261106123000 -0300" air_time_end="20261106125200 -0300" start_utc="20261106153000 +0000" stop_utc="20261106155200 +0000" air_time_start_utc="20261106153000 +0000" air_time_end_utc="20261106155200 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">3.4.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/cwYY3x6DuMC0TR5yMJVXwIcXxpX.jpg" />
+  </programme>
+  <programme start="20261106124900 -0300" stop="20261106145800 -0300" air_time_start="20261106124900 -0300" air_time_end="20261106145800 -0300" start_utc="20261106154900 +0000" stop_utc="20261106175800 +0000" air_time_start_utc="20261106154900 +0000" air_time_end_utc="20261106175800 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">BARBIE</title>
+    <desc lang="es">En una magistral exploración a la feminidad y el existencialismo, Greta Gerwig presenta en la gran pantalla a la muñeca más icónica de la historia.</desc>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261106125200 -0300" stop="20261106131500 -0300" air_time_start="20261106125200 -0300" air_time_end="20261106131500 -0300" start_utc="20261106155200 +0000" stop_utc="20261106161500 +0000" air_time_start_utc="20261106155200 +0000" air_time_end_utc="20261106161500 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/3U9MPWMzNwEB8OtBRYFfznm2TPa.jpg" />
+  </programme>
+  <programme start="20261106131500 -0300" stop="20261106133700 -0300" air_time_start="20261106131500 -0300" air_time_end="20261106133700 -0300" start_utc="20261106161500 +0000" stop_utc="20261106163700 +0000" air_time_start_utc="20261106161500 +0000" air_time_end_utc="20261106163700 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">3.6.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/rRYr80NYcOqjNUXocxQFSjqSStp.jpg" />
+  </programme>
+  <programme start="20261106131800 -0400" stop="20261106153100 -0400" air_time_start="20261106131800 -0400" air_time_end="20261106153100 -0400" start_utc="20261106171800 +0000" stop_utc="20261106193100 +0000" air_time_start_utc="20261106171800 +0000" air_time_end_utc="20261106193100 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">BARBIE</title>
+    <desc lang="es">En una magistral exploración a la feminidad y el existencialismo, Greta Gerwig presenta en la gran pantalla a la muñeca más icónica de la historia.</desc>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261106131900 -0500" stop="20261106152800 -0500" air_time_start="20261106131900 -0500" air_time_end="20261106152800 -0500" start_utc="20261106181900 +0000" stop_utc="20261106202800 +0000" air_time_start_utc="20261106181900 +0000" air_time_end_utc="20261106202800 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">BARBIE</title>
+    <desc lang="es">En una magistral exploración a la feminidad y el existencialismo, Greta Gerwig presenta en la gran pantalla a la muñeca más icónica de la historia.</desc>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261106132200 -0500" stop="20261106153000 -0500" air_time_start="20261106132200 -0500" air_time_end="20261106153000 -0500" start_utc="20261106182200 +0000" stop_utc="20261106203000 +0000" air_time_start_utc="20261106182200 +0000" air_time_end_utc="20261106203000 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">BARBIE</title>
+    <desc lang="es">En una magistral exploración a la feminidad y el existencialismo, Greta Gerwig presenta en la gran pantalla a la muñeca más icónica de la historia.</desc>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261106133700 -0300" stop="20261106135900 -0300" air_time_start="20261106133700 -0300" air_time_end="20261106135900 -0300" start_utc="20261106163700 +0000" stop_utc="20261106165900 +0000" air_time_start_utc="20261106163700 +0000" air_time_end_utc="20261106165900 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">3.7.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/cWLOLFtOjLmIwSlBKkgYkmgUVpK.jpg" />
+  </programme>
+  <programme start="20261106135000 -0600" stop="20261106140000 -0600" air_time_start="20261106135000 -0600" air_time_end="20261106140000 -0600" start_utc="20261106195000 +0000" stop_utc="20261106200000 +0000" air_time_start_utc="20261106195000 +0000" air_time_end_utc="20261106200000 +0000" is_live="false" channel="TNT_MX.mx">
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20261106135900 -0300" stop="20261106142200 -0300" air_time_start="20261106135900 -0300" air_time_end="20261106142200 -0300" start_utc="20261106165900 +0000" stop_utc="20261106172200 +0000" air_time_start_utc="20261106165900 +0000" air_time_end_utc="20261106172200 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">3.8.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/jIelGdPyL8yd8EVJAzWC4HGThNL.jpg" />
+  </programme>
+  <programme start="20261106140000 -0600" stop="20261106160000 -0600" air_time_start="20261106140000 -0600" air_time_end="20261106160000 -0600" start_utc="20261106200000 +0000" stop_utc="20261106220000 +0000" air_time_start_utc="20261106200000 +0000" air_time_end_utc="20261106220000 +0000" is_live="false" channel="TNT_MX.mx">
+    <episode-num system="xmltv_ns">-1.45.</episode-num>
+  </programme>
+  <programme start="20261106142200 -0300" stop="20261106155500 -0300" air_time_start="20261106142200 -0300" air_time_end="20261106155500 -0300" start_utc="20261106172200 +0000" stop_utc="20261106185500 +0000" air_time_start_utc="20261106172200 +0000" air_time_end_utc="20261106185500 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">CADA UM TEM A GÊMEA QUE MERECE</title>
+    <sub-title lang="pt">Jack and Jill</sub-title>
+    <desc lang="pt">O calmo publicitário Jack mora em Los Angeles com sua esposa Erin. Um dia, ele recebe a nada agradável visita de sua irmã gêmea Jill, uma grosseira moradora do Bronx, em Nova York. Inicialmente, ela passaria apenas o Dia de Ação de Graças com a família de seu irmão, mas, para a infelicidade de Jack, Jill acaba ficando muito mais tempo do que o esperado. Conforme os dias seguem, a situação fica insuportável. Para se livrar da irmã irritante e estabanada, ele resolve ajudá-la a arranjar um namorado. Só que ninguém poderia imaginar que o ator Al Pacino fosse cair de amores pela garota. O interesse de Pacino pela irmã faz Jack unir o útil ao agradável ao tentar convencer o ator a fazer um comercial da Dunkin' Donuts.</desc>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20261106145800 -0300" stop="20261106164300 -0300" air_time_start="20261106145800 -0300" air_time_end="20261106164300 -0300" start_utc="20261106175800 +0000" stop_utc="20261106194300 +0000" air_time_start_utc="20261106175800 +0000" air_time_end_utc="20261106194300 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">JACK Y JILL</title>
+    <sub-title lang="es">JACK AND JILL</sub-title>
+    <desc lang="es">Jack Sadelstein tiene todo en la vida: una hermosa mujer, dos hijos encantadores, una enorme casa en Los Ángeles y un trabajo exitoso como ejecutivo de publicidad. Pero se acerca el día de Acción de Gracias, el cual Jack detesta porque implica la visita de su hermana Jill, con quien no se lleva nada bien. En el medio de todo esto, Dunkin¿ Donuts, su cliente más importante, le pide que convenza a Al Pacino de protagonizar una publicidad.</desc>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20261106152800 -0500" stop="20261106171600 -0500" air_time_start="20261106152800 -0500" air_time_end="20261106171600 -0500" start_utc="20261106202800 +0000" stop_utc="20261106221600 +0000" air_time_start_utc="20261106202800 +0000" air_time_end_utc="20261106221600 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">JACK Y JILL</title>
+    <sub-title lang="es">JACK AND JILL</sub-title>
+    <desc lang="es">Jack Sadelstein tiene todo en la vida: una hermosa mujer, dos hijos encantadores, una enorme casa en Los Ángeles y un trabajo exitoso como ejecutivo de publicidad. Pero se acerca el día de Acción de Gracias, el cual Jack detesta porque implica la visita de su hermana Jill, con quien no se lleva nada bien. En el medio de todo esto, Dunkin¿ Donuts, su cliente más importante, le pide que convenza a Al Pacino de protagonizar una publicidad.</desc>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20261106153000 -0500" stop="20261106171500 -0500" air_time_start="20261106153000 -0500" air_time_end="20261106171500 -0500" start_utc="20261106203000 +0000" stop_utc="20261106221500 +0000" air_time_start_utc="20261106203000 +0000" air_time_end_utc="20261106221500 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">JACK Y JILL</title>
+    <sub-title lang="es">JACK AND JILL</sub-title>
+    <desc lang="es">Jack Sadelstein tiene todo en la vida: una hermosa mujer, dos hijos encantadores, una enorme casa en Los Ángeles y un trabajo exitoso como ejecutivo de publicidad. Pero se acerca el día de Acción de Gracias, el cual Jack detesta porque implica la visita de su hermana Jill, con quien no se lleva nada bien. En el medio de todo esto, Dunkin¿ Donuts, su cliente más importante, le pide que convenza a Al Pacino de protagonizar una publicidad.</desc>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20261106153100 -0400" stop="20261106172000 -0400" air_time_start="20261106153100 -0400" air_time_end="20261106172000 -0400" start_utc="20261106193100 +0000" stop_utc="20261106212000 +0000" air_time_start_utc="20261106193100 +0000" air_time_end_utc="20261106212000 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">JACK Y JILL</title>
+    <sub-title lang="es">JACK AND JILL</sub-title>
+    <desc lang="es">Jack Sadelstein tiene todo en la vida: una hermosa mujer, dos hijos encantadores, una enorme casa en Los Ángeles y un trabajo exitoso como ejecutivo de publicidad. Pero se acerca el día de Acción de Gracias, el cual Jack detesta porque implica la visita de su hermana Jill, con quien no se lleva nada bien. En el medio de todo esto, Dunkin¿ Donuts, su cliente más importante, le pide que convenza a Al Pacino de protagonizar una publicidad.</desc>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20261106155500 -0300" stop="20261106172800 -0300" air_time_start="20261106155500 -0300" air_time_end="20261106172800 -0300" start_utc="20261106185500 +0000" stop_utc="20261106202800 +0000" air_time_start_utc="20261106185500 +0000" air_time_end_utc="20261106202800 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">PREMONIÇÃO 5</title>
+    <sub-title lang="pt">Final Destination 5</sub-title>
+    <desc lang="pt">A Morte volta para outra aventura selvagem em "Premonição 5". Com os produtores originais da saga a bordo, o texto do aclamado roteirista de A Hora do Pesadelo [2010] e do esperado remake A Coisa ... e o protegido de Jim "Rei do Mundo" Cameron, Steven Quale, atrás das câmeras (assim como em Avatar e Titanic), esta última viagem alucinante quase alcança o faturamento de 200 milhões de dólares da quarta produção. Ao lado de um elenco que inclui Nick D'Agosto, de Heroes; Emma Bell, de The Walking Dead; Arlen Escarpeta, de Sexta-Feira 13; David Koechner, de The Office, e Tony Todd, de Candyman (um aluno original da série "Premonição"), a Morte certamente terá um dia produtivo com sequencias angustiantes em 3D, incluindo o colapso de uma ponte suspensa, uma cirurgia ocular mal-sucedida e outras formas de perigo!</desc>
+    <category lang="pt">Terror</category>
+  </programme>
+  <programme start="20261106160000 -0600" stop="20261106160500 -0600" air_time_start="20261106160000 -0600" air_time_end="20261106160500 -0600" start_utc="20261106220000 +0000" stop_utc="20261106220500 +0000" air_time_start_utc="20261106220000 +0000" air_time_end_utc="20261106220500 +0000" is_live="false" channel="TNT_MX.mx">
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20261106160500 -0600" stop="20261106174600 -0600" air_time_start="20261106160500 -0600" air_time_end="20261106174600 -0600" start_utc="20261106220500 +0000" stop_utc="20261106234600 +0000" air_time_start_utc="20261106220500 +0000" air_time_end_utc="20261106234600 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">JACK Y JILL</title>
+    <sub-title lang="es">JACK AND JILL</sub-title>
+    <desc lang="es">Jack Sadelstein tiene todo en la vida: una hermosa mujer, dos hijos encantadores, una enorme casa en Los Ángeles y un trabajo exitoso como ejecutivo de publicidad. Pero se acerca el día de Acción de Gracias, el cual Jack detesta porque implica la visita de su hermana Jill, con quien no se lleva nada bien. En el medio de todo esto, Dunkin¿ Donuts, su cliente más importante, le pide que convenza a Al Pacino de protagonizar una publicidad.</desc>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20261106164300 -0300" stop="20261106182700 -0300" air_time_start="20261106164300 -0300" air_time_end="20261106182700 -0300" start_utc="20261106194300 +0000" stop_utc="20261106212700 +0000" air_time_start_utc="20261106194300 +0000" air_time_end_utc="20261106212700 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">SEPTIMO</title>
+    <desc lang="es">Lo que inicia como un juego entre un padre y sus hijos se transforma en un misterio escalofriante en este thriller estelarizado por Ricardo Darín y Belén Rueda en el que dos niños desaparecen sin explicación en las escaleras de un edificio.</desc>
+    <category lang="es">Crimen</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261106171500 -0500" stop="20261106194900 -0500" air_time_start="20261106171500 -0500" air_time_end="20261106194900 -0500" start_utc="20261106221500 +0000" stop_utc="20261107004900 +0000" air_time_start_utc="20261106221500 +0000" air_time_end_utc="20261107004900 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">¡SHAZAM!</title>
+    <desc lang="es">El mayor sueño de todo niño  y no tan niño  es tener superpoderes. El universo cinematográfico de DC nos presenta a Billy Batson, un  joven huérfano que, gracias a un misterioso hechicero, se convierte en superhéroe al decir "¡Shazam!" En un cuerpo adulto y con corazón de niño, Billy deberá aprender a usar sus nuevos poderes para combatir las fuerzas del mal.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20261106171600 -0500" stop="20261106194100 -0500" air_time_start="20261106171600 -0500" air_time_end="20261106194100 -0500" start_utc="20261106221600 +0000" stop_utc="20261107004100 +0000" air_time_start_utc="20261106221600 +0000" air_time_end_utc="20261107004100 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">¡SHAZAM!</title>
+    <desc lang="es">El mayor sueño de todo niño  y no tan niño  es tener superpoderes. El universo cinematográfico de DC nos presenta a Billy Batson, un  joven huérfano que, gracias a un misterioso hechicero, se convierte en superhéroe al decir "¡Shazam!" En un cuerpo adulto y con corazón de niño, Billy deberá aprender a usar sus nuevos poderes para combatir las fuerzas del mal.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20261106172000 -0400" stop="20261106200800 -0400" air_time_start="20261106172000 -0400" air_time_end="20261106200800 -0400" start_utc="20261106212000 +0000" stop_utc="20261107000800 +0000" air_time_start_utc="20261106212000 +0000" air_time_end_utc="20261107000800 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">¡SHAZAM!</title>
+    <desc lang="es">El mayor sueño de todo niño  y no tan niño  es tener superpoderes. El universo cinematográfico de DC nos presenta a Billy Batson, un  joven huérfano que, gracias a un misterioso hechicero, se convierte en superhéroe al decir "¡Shazam!" En un cuerpo adulto y con corazón de niño, Billy deberá aprender a usar sus nuevos poderes para combatir las fuerzas del mal.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20261106172800 -0300" stop="20261106192400 -0300" air_time_start="20261106172800 -0300" air_time_end="20261106192400 -0300" start_utc="20261106202800 +0000" stop_utc="20261106222400 +0000" air_time_start_utc="20261106202800 +0000" air_time_end_utc="20261106222400 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">BARBIE</title>
+    <desc lang="pt">Em uma exploração magistral da feminilidade e do existencialismo, Greta Gerwig traz para a tela grande a boneca mais icônica da história.</desc>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Comédia</category>
+    <category lang="pt">Fantasia</category>
+  </programme>
+  <programme start="20261106174600 -0600" stop="20261106200700 -0600" air_time_start="20261106174600 -0600" air_time_end="20261106200700 -0600" start_utc="20261106234600 +0000" stop_utc="20261107020700 +0000" air_time_start_utc="20261106234600 +0000" air_time_end_utc="20261107020700 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">¡SHAZAM!</title>
+    <desc lang="es">El mayor sueño de todo niño  y no tan niño  es tener superpoderes. El universo cinematográfico de DC nos presenta a Billy Batson, un  joven huérfano que, gracias a un misterioso hechicero, se convierte en superhéroe al decir "¡Shazam!" En un cuerpo adulto y con corazón de niño, Billy deberá aprender a usar sus nuevos poderes para combatir las fuerzas del mal.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20261106182700 -0300" stop="20261106203400 -0300" air_time_start="20261106182700 -0300" air_time_end="20261106203400 -0300" start_utc="20261106212700 +0000" stop_utc="20261106233400 +0000" air_time_start_utc="20261106212700 +0000" air_time_end_utc="20261106233400 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">Linterna Verde</title>
+    <desc lang="es">GREEN LANTERN es protagonizada por Ryan Reynolds (X-Men Origins: Wolverine) en el papel principal, bajo la dirección de Martin Campbell (Casino Royale). En un universo tan vasto como misterioso, una pequeña pero poderosa fuerza ha existido por siglos. Protectores de la paz y la justicia, son llamados los Green Lantern Corps. Una hermandad de guerreros que han jurado mantener el orden intergaláctico, cada Green Lantern porta un anillo que le da sus súper poderes. Pero cuando un enemigo llamado Parallax intenta destruir el balance del poder en el universo, su destino y el destino de la Tierra, quedan en manos del nuevo recluta, el primer humano en ser seleccionado: Hal Jordan. Hal es un soberbio pero muy capaz piloto de pruebas, pero los Green Lantern sienten muy poco respeto por los humanos, quienes nunca han abrazado el poder infinito del anillo anteriormente. Pero Hal es claramente la pieza que le faltaba al rompecabezas, y con determinación y voluntad, tiene algo que ningún miembro de los Corps tiene: humanidad. Con el apoyo de su piloto compañera y amor de la infancia, Carol Ferris (Blake Lively), si Hal logra dominar rápidamente sus nuevos poderes y encuentra el valor para vencer sus propios temores, podría probar que no sólo es la llave que puede vencer a Parallax... sino que se convertirá en el mejor Green Lantern de todos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261106192400 -0300" stop="20261106195500 -0300" air_time_start="20261106192400 -0300" air_time_end="20261106195500 -0300" start_utc="20261106222400 +0000" stop_utc="20261106225500 +0000" air_time_start_utc="20261106222400 +0000" air_time_end_utc="20261106225500 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">GALERA FC: SEASON 2</title>
+    <desc lang="pt">O Brasil inteiro está na expectativa para reestreia de Elton Jr. pelo Vasco. Mas, minutos antes da bola rolar, uma liminar do poderoso Ouromov o impede de entrar em campo, transformando a festa em caos. Nos camarotes, revelações e intrigas pegam fogo, enquanto nos estúdios do Boa Tarde Futebol os comentaristas levantam a dúvida: qual será o futuro do craque? Pressionado pela família, com a obra da escolinha parada e acuado nos tribunais, Elton promete reconquistar a glória sem se curvar a inimigos. Para sua sorte, uma figura inusitada surge e pode ser sua salvação… ou o início de uma queda maior ainda.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+  </programme>
+  <programme start="20261106194100 -0500" stop="20261106220000 -0500" air_time_start="20261106194100 -0500" air_time_end="20261106220000 -0500" start_utc="20261107004100 +0000" stop_utc="20261107030000 +0000" air_time_start_utc="20261107004100 +0000" air_time_end_utc="20261107030000 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">Linterna Verde</title>
+    <desc lang="es">GREEN LANTERN es protagonizada por Ryan Reynolds (X-Men Origins: Wolverine) en el papel principal, bajo la dirección de Martin Campbell (Casino Royale). En un universo tan vasto como misterioso, una pequeña pero poderosa fuerza ha existido por siglos. Protectores de la paz y la justicia, son llamados los Green Lantern Corps. Una hermandad de guerreros que han jurado mantener el orden intergaláctico, cada Green Lantern porta un anillo que le da sus súper poderes. Pero cuando un enemigo llamado Parallax intenta destruir el balance del poder en el universo, su destino y el destino de la Tierra, quedan en manos del nuevo recluta, el primer humano en ser seleccionado: Hal Jordan. Hal es un soberbio pero muy capaz piloto de pruebas, pero los Green Lantern sienten muy poco respeto por los humanos, quienes nunca han abrazado el poder infinito del anillo anteriormente. Pero Hal es claramente la pieza que le faltaba al rompecabezas, y con determinación y voluntad, tiene algo que ningún miembro de los Corps tiene: humanidad. Con el apoyo de su piloto compañera y amor de la infancia, Carol Ferris (Blake Lively), si Hal logra dominar rápidamente sus nuevos poderes y encuentra el valor para vencer sus propios temores, podría probar que no sólo es la llave que puede vencer a Parallax... sino que se convertirá en el mejor Green Lantern de todos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261106194900 -0500" stop="20261106220000 -0500" air_time_start="20261106194900 -0500" air_time_end="20261106220000 -0500" start_utc="20261107004900 +0000" stop_utc="20261107030000 +0000" air_time_start_utc="20261107004900 +0000" air_time_end_utc="20261107030000 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">Linterna Verde</title>
+    <desc lang="es">GREEN LANTERN es protagonizada por Ryan Reynolds (X-Men Origins: Wolverine) en el papel principal, bajo la dirección de Martin Campbell (Casino Royale). En un universo tan vasto como misterioso, una pequeña pero poderosa fuerza ha existido por siglos. Protectores de la paz y la justicia, son llamados los Green Lantern Corps. Una hermandad de guerreros que han jurado mantener el orden intergaláctico, cada Green Lantern porta un anillo que le da sus súper poderes. Pero cuando un enemigo llamado Parallax intenta destruir el balance del poder en el universo, su destino y el destino de la Tierra, quedan en manos del nuevo recluta, el primer humano en ser seleccionado: Hal Jordan. Hal es un soberbio pero muy capaz piloto de pruebas, pero los Green Lantern sienten muy poco respeto por los humanos, quienes nunca han abrazado el poder infinito del anillo anteriormente. Pero Hal es claramente la pieza que le faltaba al rompecabezas, y con determinación y voluntad, tiene algo que ningún miembro de los Corps tiene: humanidad. Con el apoyo de su piloto compañera y amor de la infancia, Carol Ferris (Blake Lively), si Hal logra dominar rápidamente sus nuevos poderes y encuentra el valor para vencer sus propios temores, podría probar que no sólo es la llave que puede vencer a Parallax... sino que se convertirá en el mejor Green Lantern de todos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261106195500 -0300" stop="20261106202800 -0300" air_time_start="20261106195500 -0300" air_time_end="20261106202800 -0300" start_utc="20261106225500 +0000" stop_utc="20261106232800 +0000" air_time_start_utc="20261106225500 +0000" air_time_end_utc="20261106232800 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">GALERA FC: SEASON 2</title>
+    <desc lang="pt">Endividado e com cada vez menos recursos, Elton surpreende a família ao anunciar o lançamento da marca “Futebol é Amor” com um jogo beneficente entre “Amigos do Elton” e “Amigos do Ton Ton”.  Agustín aparece para organizar o evento, conquista a confiança de Idalice, mas desperta o ciúme de Julio Lobo. Sara Jane se prepara para cantar no show do intervalo e Carolina recebe uma proposta repentina que promete deslanchar sua carreira. Empolgados, Idalice e Elton apostam tudo no evento de lançamento que corre o risco de não ocorrer por falta da presença dos jogadores convidados.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+  </programme>
+  <programme start="20261106200700 -0600" stop="20261106221400 -0600" air_time_start="20261106200700 -0600" air_time_end="20261106221400 -0600" start_utc="20261107020700 +0000" stop_utc="20261107041400 +0000" air_time_start_utc="20261107020700 +0000" air_time_end_utc="20261107041400 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">Linterna Verde</title>
+    <desc lang="es">GREEN LANTERN es protagonizada por Ryan Reynolds (X-Men Origins: Wolverine) en el papel principal, bajo la dirección de Martin Campbell (Casino Royale). En un universo tan vasto como misterioso, una pequeña pero poderosa fuerza ha existido por siglos. Protectores de la paz y la justicia, son llamados los Green Lantern Corps. Una hermandad de guerreros que han jurado mantener el orden intergaláctico, cada Green Lantern porta un anillo que le da sus súper poderes. Pero cuando un enemigo llamado Parallax intenta destruir el balance del poder en el universo, su destino y el destino de la Tierra, quedan en manos del nuevo recluta, el primer humano en ser seleccionado: Hal Jordan. Hal es un soberbio pero muy capaz piloto de pruebas, pero los Green Lantern sienten muy poco respeto por los humanos, quienes nunca han abrazado el poder infinito del anillo anteriormente. Pero Hal es claramente la pieza que le faltaba al rompecabezas, y con determinación y voluntad, tiene algo que ningún miembro de los Corps tiene: humanidad. Con el apoyo de su piloto compañera y amor de la infancia, Carol Ferris (Blake Lively), si Hal logra dominar rápidamente sus nuevos poderes y encuentra el valor para vencer sus propios temores, podría probar que no sólo es la llave que puede vencer a Parallax... sino que se convertirá en el mejor Green Lantern de todos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261106200800 -0400" stop="20261106220000 -0400" air_time_start="20261106200800 -0400" air_time_end="20261106220000 -0400" start_utc="20261107000800 +0000" stop_utc="20261107020000 +0000" air_time_start_utc="20261107000800 +0000" air_time_end_utc="20261107020000 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">MASTERCHEF CHILE</title>
+    <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">4.23.</episode-num>
+  </programme>
+  <programme start="20261106202800 -0300" stop="20261106204100 -0300" air_time_start="20261106202800 -0300" air_time_end="20261106204100 -0300" start_utc="20261106232800 +0000" stop_utc="20261106234100 +0000" air_time_start_utc="20261106232800 +0000" air_time_end_utc="20261106234100 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">BUZUM</title>
+    <sub-title lang="pt">EMPATA-TRÂNSITO</sub-title>
+    <desc lang="pt">O Buzum fica preso num engarrafamento monstruoso. Aline conhece Cadu num aplicativo de encontros, e os dois iniciam uma troca de mensagens. De repente, Cadu entra no Buzum, mas ela não quer ser vista de jeito nenhum no estado em que está, sem maquiagem e com roupa de ficar em casa. Aline tenta manter a conversa fluindo no app (e só no app) enquanto os passageiros fazem de tudo para passar o tempo.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20261106203400 -0300" stop="20261106220000 -0300" air_time_start="20261106203400 -0300" air_time_end="20261106220000 -0300" start_utc="20261106233400 +0000" stop_utc="20261107010000 +0000" air_time_start_utc="20261106233400 +0000" air_time_end_utc="20261107010000 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">MASTERCHEF CELEBRITY ARGENTINA</title>
+    <desc lang="es">¡Se encienden las hornallas! Bajo la conducción de Wanda Nara, llega la nueva temporada de esta intensa competencia de sabores, donde distintas celebridades despliegan su talento culinario ante un exigente jurado de chefs. Damián Betular, Maru Botana y Germán Martitegui serán los encargados de evaluar cada plato y definir quiénes tienen lo necesario para seguir en competencia y quienes deberán que entregar su delantal.</desc>
+    <episode-num system="xmltv_ns">-1.25.</episode-num>
+  </programme>
+  <programme start="20261106204100 -0300" stop="20261106213100 -0300" air_time_start="20261106204100 -0300" air_time_end="20261106213100 -0300" start_utc="20261106234100 +0000" stop_utc="20261107003100 +0000" air_time_start_utc="20261106234100 +0000" air_time_end_utc="20261107003100 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">OPERAÇÃO TRANSPLANTE</title>
+    <desc lang="pt">Uma complexa cirurgia que pode mudar o destino de um jovem com cirrose e um paciente com quadro grave de diabetes precisa de um transplante duplo.</desc>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/d67poZnmGOPMj4bAqOBr2fMHgFs.jpg" />
+  </programme>
+  <programme start="20261106213100 -0300" stop="20261106233000 -0300" air_time_start="20261106213100 -0300" air_time_end="20261106233000 -0300" start_utc="20261107003100 +0000" stop_utc="20261107023000 +0000" air_time_start_utc="20261107003100 +0000" air_time_end_utc="20261107023000 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">Deus É Brasileiro</title>
+    <desc lang="pt">Antônio Fagundes e Wagner Moura estrelam esta comédia metafísica em que Deus (Fagundes), cansado dos muitos erros cometidos pela humanidade, decide procurar um santo para ocupar temporariamente Seu lugar no Céu enquanto Ele tira férias. Para isso, escolheu o Brasil, por ser um país de muita fé e com muitos devotos. Mas em vez de um santo, Deus conhece Tacoa, um ladrão astuto e mesquinho que vê nesse encontro inesperado uma oportunidade de resolver todos os seus problemas.</desc>
+    <category lang="pt">Comédia</category>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Fantasia</category>
+  </programme>
+  <programme start="20261106220000 -0300" stop="20261106234400 -0300" air_time_start="20261106220000 -0300" air_time_end="20261106234400 -0300" start_utc="20261107010000 +0000" stop_utc="20261107024400 +0000" air_time_start_utc="20261107010000 +0000" air_time_end_utc="20261107024400 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">DESTINO FINAL 5</title>
+    <sub-title lang="es">FINAL DESTINATION 5</sub-title>
+    <desc lang="es">Sam Lawton va camino a un retiro empresarial junto a sus colegas. Mientras el autobús cruza un puente, Sam tiene la premonición de que este caerá y todos morirán salvo por Molly, su ex novia. Cuando vuelve en sí, entra en pánico y convence a varios de escapar. El puente finalmente cae, pero los sobrevivientes no estarán a salvo: la muerte vendrá a buscarlos uno por uno, ya que, como les comunica un hombre misterioso, no le gusta nada que se burlen de ella.</desc>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261106220000 -0400" stop="20261106235800 -0400" air_time_start="20261106220000 -0400" air_time_end="20261106235800 -0400" start_utc="20261107020000 +0000" stop_utc="20261107035800 +0000" air_time_start_utc="20261107020000 +0000" air_time_end_utc="20261107035800 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">DESTINO FINAL 5</title>
+    <sub-title lang="es">FINAL DESTINATION 5</sub-title>
+    <desc lang="es">Sam Lawton va camino a un retiro empresarial junto a sus colegas. Mientras el autobús cruza un puente, Sam tiene la premonición de que este caerá y todos morirán salvo por Molly, su ex novia. Cuando vuelve en sí, entra en pánico y convence a varios de escapar. El puente finalmente cae, pero los sobrevivientes no estarán a salvo: la muerte vendrá a buscarlos uno por uno, ya que, como les comunica un hombre misterioso, no le gusta nada que se burlen de ella.</desc>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261106220000 -0500" stop="20261106234700 -0500" air_time_start="20261106220000 -0500" air_time_end="20261106234700 -0500" start_utc="20261107030000 +0000" stop_utc="20261107044700 +0000" air_time_start_utc="20261107030000 +0000" air_time_end_utc="20261107044700 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">DESTINO FINAL 5</title>
+    <sub-title lang="es">FINAL DESTINATION 5</sub-title>
+    <desc lang="es">Sam Lawton va camino a un retiro empresarial junto a sus colegas. Mientras el autobús cruza un puente, Sam tiene la premonición de que este caerá y todos morirán salvo por Molly, su ex novia. Cuando vuelve en sí, entra en pánico y convence a varios de escapar. El puente finalmente cae, pero los sobrevivientes no estarán a salvo: la muerte vendrá a buscarlos uno por uno, ya que, como les comunica un hombre misterioso, no le gusta nada que se burlen de ella.</desc>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261106220000 -0500" stop="20261106234500 -0500" air_time_start="20261106220000 -0500" air_time_end="20261106234500 -0500" start_utc="20261107030000 +0000" stop_utc="20261107044500 +0000" air_time_start_utc="20261107030000 +0000" air_time_end_utc="20261107044500 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">DESTINO FINAL 5</title>
+    <sub-title lang="es">FINAL DESTINATION 5</sub-title>
+    <desc lang="es">Sam Lawton va camino a un retiro empresarial junto a sus colegas. Mientras el autobús cruza un puente, Sam tiene la premonición de que este caerá y todos morirán salvo por Molly, su ex novia. Cuando vuelve en sí, entra en pánico y convence a varios de escapar. El puente finalmente cae, pero los sobrevivientes no estarán a salvo: la muerte vendrá a buscarlos uno por uno, ya que, como les comunica un hombre misterioso, no le gusta nada que se burlen de ella.</desc>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261106221400 -0600" stop="20261107000100 -0600" air_time_start="20261106221400 -0600" air_time_end="20261107000100 -0600" start_utc="20261107041400 +0000" stop_utc="20261107060100 +0000" air_time_start_utc="20261107041400 +0000" air_time_end_utc="20261107060100 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">DESTINO FINAL 5</title>
+    <sub-title lang="es">FINAL DESTINATION 5</sub-title>
+    <desc lang="es">Sam Lawton va camino a un retiro empresarial junto a sus colegas. Mientras el autobús cruza un puente, Sam tiene la premonición de que este caerá y todos morirán salvo por Molly, su ex novia. Cuando vuelve en sí, entra en pánico y convence a varios de escapar. El puente finalmente cae, pero los sobrevivientes no estarán a salvo: la muerte vendrá a buscarlos uno por uno, ya que, como les comunica un hombre misterioso, no le gusta nada que se burlen de ella.</desc>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261106233000 -0300" stop="20261106235100 -0300" air_time_start="20261106233000 -0300" air_time_end="20261106235100 -0300" start_utc="20261107023000 +0000" stop_utc="20261107025100 +0000" air_time_start_utc="20261107023000 +0000" air_time_end_utc="20261107025100 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">3.4.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/cwYY3x6DuMC0TR5yMJVXwIcXxpX.jpg" />
+  </programme>
+  <programme start="20261106234400 -0300" stop="20261107014000 -0300" air_time_start="20261106234400 -0300" air_time_end="20261107014000 -0300" start_utc="20261107024400 +0000" stop_utc="20261107044000 +0000" air_time_start_utc="20261107024400 +0000" air_time_end_utc="20261107044000 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">La Momia</title>
+    <sub-title lang="es">The Mummy (2017)</sub-title>
+    <desc lang="es">Tom Cruise encabeza esta nueva versión de la legendaria franquicia de La Momia como un soldado que accidentalmente desentierra la antigua tumba de una malévola princesa egipcia, desatando todo su milenario horror en una Londres moderna.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261106234500 -0500" stop="20261107013600 -0500" air_time_start="20261106234500 -0500" air_time_end="20261107013600 -0500" start_utc="20261107044500 +0000" stop_utc="20261107063600 +0000" air_time_start_utc="20261107044500 +0000" air_time_end_utc="20261107063600 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">La Momia</title>
+    <sub-title lang="es">The Mummy (2017)</sub-title>
+    <desc lang="es">Tom Cruise encabeza esta nueva versión de la legendaria franquicia de La Momia como un soldado que accidentalmente desentierra la antigua tumba de una malévola princesa egipcia, desatando todo su milenario horror en una Londres moderna.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261106234700 -0500" stop="20261107014100 -0500" air_time_start="20261106234700 -0500" air_time_end="20261107014100 -0500" start_utc="20261107044700 +0000" stop_utc="20261107064100 +0000" air_time_start_utc="20261107044700 +0000" air_time_end_utc="20261107064100 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">La Momia</title>
+    <sub-title lang="es">The Mummy (2017)</sub-title>
+    <desc lang="es">Tom Cruise encabeza esta nueva versión de la legendaria franquicia de La Momia como un soldado que accidentalmente desentierra la antigua tumba de una malévola princesa egipcia, desatando todo su milenario horror en una Londres moderna.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261106235100 -0300" stop="20261107001300 -0300" air_time_start="20261106235100 -0300" air_time_end="20261107001300 -0300" start_utc="20261107025100 +0000" stop_utc="20261107031300 +0000" air_time_start_utc="20261107025100 +0000" air_time_end_utc="20261107031300 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/3U9MPWMzNwEB8OtBRYFfznm2TPa.jpg" />
+  </programme>
+  <programme start="20261106235800 -0400" stop="20261107015500 -0400" air_time_start="20261106235800 -0400" air_time_end="20261107015500 -0400" start_utc="20261107035800 +0000" stop_utc="20261107055500 +0000" air_time_start_utc="20261107035800 +0000" air_time_end_utc="20261107055500 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">La Momia</title>
+    <sub-title lang="es">The Mummy (2017)</sub-title>
+    <desc lang="es">Tom Cruise encabeza esta nueva versión de la legendaria franquicia de La Momia como un soldado que accidentalmente desentierra la antigua tumba de una malévola princesa egipcia, desatando todo su milenario horror en una Londres moderna.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261107000100 -0600" stop="20261107014800 -0600" air_time_start="20261107000100 -0600" air_time_end="20261107014800 -0600" start_utc="20261107060100 +0000" stop_utc="20261107074800 +0000" air_time_start_utc="20261107060100 +0000" air_time_end_utc="20261107074800 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">La Momia</title>
+    <sub-title lang="es">The Mummy (2017)</sub-title>
+    <desc lang="es">Tom Cruise encabeza esta nueva versión de la legendaria franquicia de La Momia como un soldado que accidentalmente desentierra la antigua tumba de una malévola princesa egipcia, desatando todo su milenario horror en una Londres moderna.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261107001300 -0300" stop="20261107003600 -0300" air_time_start="20261107001300 -0300" air_time_end="20261107003600 -0300" start_utc="20261107031300 +0000" stop_utc="20261107033600 +0000" air_time_start_utc="20261107031300 +0000" air_time_end_utc="20261107033600 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">3.6.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/rRYr80NYcOqjNUXocxQFSjqSStp.jpg" />
+  </programme>
+  <programme start="20261107003600 -0300" stop="20261107005800 -0300" air_time_start="20261107003600 -0300" air_time_end="20261107005800 -0300" start_utc="20261107033600 +0000" stop_utc="20261107035800 +0000" air_time_start_utc="20261107033600 +0000" air_time_end_utc="20261107035800 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">3.7.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/cWLOLFtOjLmIwSlBKkgYkmgUVpK.jpg" />
+  </programme>
+  <programme start="20261107005800 -0300" stop="20261107012000 -0300" air_time_start="20261107005800 -0300" air_time_end="20261107012000 -0300" start_utc="20261107035800 +0000" stop_utc="20261107042000 +0000" air_time_start_utc="20261107035800 +0000" air_time_end_utc="20261107042000 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">3.8.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/jIelGdPyL8yd8EVJAzWC4HGThNL.jpg" />
+  </programme>
+  <programme start="20261107012000 -0300" stop="20261107014600 -0300" air_time_start="20261107012000 -0300" air_time_end="20261107014600 -0300" start_utc="20261107042000 +0000" stop_utc="20261107044600 +0000" air_time_start_utc="20261107042000 +0000" air_time_end_utc="20261107044600 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">SOMEDAY YOUR PRINCE WILL BE IN EFFECT (PART I)</sub-title>
+    <desc lang="pt">Will e Carlton tentam encontrar um par para a festa de Halloween. Participação especial de Bo Jackson, astro do futebol e beisebol, e do lendário Quincy Jones, lenda da música, no papel deles mesmos.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/wgBXcnt8hCtDTYETda64eGKhPxn.jpg" />
+  </programme>
+  <programme start="20261107013600 -0500" stop="20261107033800 -0500" air_time_start="20261107013600 -0500" air_time_end="20261107033800 -0500" start_utc="20261107063600 +0000" stop_utc="20261107083800 +0000" air_time_start_utc="20261107063600 +0000" air_time_end_utc="20261107083800 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">CINCUENTA SOMBRAS MÁS OSCURAS</title>
+    <sub-title lang="es">FIFTY SHADES DARKER</sub-title>
+    <desc lang="es">Un apenado Christian intenta ser más flexible y recuperar el amor de Ana mientras oscuras figuras de su pasado amenazan la felicidad de la pareja.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Romance</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261107014000 -0300" stop="20261107034000 -0300" air_time_start="20261107014000 -0300" air_time_end="20261107034000 -0300" start_utc="20261107044000 +0000" stop_utc="20261107064000 +0000" air_time_start_utc="20261107044000 +0000" air_time_end_utc="20261107064000 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">CINCUENTA SOMBRAS MÁS OSCURAS</title>
+    <sub-title lang="es">FIFTY SHADES DARKER</sub-title>
+    <desc lang="es">Un apenado Christian intenta ser más flexible y recuperar el amor de Ana mientras oscuras figuras de su pasado amenazan la felicidad de la pareja.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Romance</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261107014100 -0500" stop="20261107034000 -0500" air_time_start="20261107014100 -0500" air_time_end="20261107034000 -0500" start_utc="20261107064100 +0000" stop_utc="20261107084000 +0000" air_time_start_utc="20261107064100 +0000" air_time_end_utc="20261107084000 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">CINCUENTA SOMBRAS MÁS OSCURAS</title>
+    <sub-title lang="es">FIFTY SHADES DARKER</sub-title>
+    <desc lang="es">Un apenado Christian intenta ser más flexible y recuperar el amor de Ana mientras oscuras figuras de su pasado amenazan la felicidad de la pareja.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Romance</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261107014600 -0300" stop="20261107021000 -0300" air_time_start="20261107014600 -0300" air_time_end="20261107021000 -0300" start_utc="20261107044600 +0000" stop_utc="20261107051000 +0000" air_time_start_utc="20261107044600 +0000" air_time_end_utc="20261107051000 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">SOMEDAY YOUR PRINCE WILL BE IN EFFECT (PART II)</sub-title>
+    <desc lang="pt">Will e Carlton tentam encontrar um par para a festa de Halloween. Participação especial de Bo Jackson, astro do futebol e beisebol, e do lendário Quincy Jones, lenda da música, no papel deles mesmos.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/aHL7AS1SFDkKFRMCWEc1XraBxeO.jpg" />
+  </programme>
+  <programme start="20261107014800 -0600" stop="20261107034700 -0600" air_time_start="20261107014800 -0600" air_time_end="20261107034700 -0600" start_utc="20261107074800 +0000" stop_utc="20261107094700 +0000" air_time_start_utc="20261107074800 +0000" air_time_end_utc="20261107094700 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">CINCUENTA SOMBRAS MÁS OSCURAS</title>
+    <sub-title lang="es">FIFTY SHADES DARKER</sub-title>
+    <desc lang="es">Un apenado Christian intenta ser más flexible y recuperar el amor de Ana mientras oscuras figuras de su pasado amenazan la felicidad de la pareja.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Romance</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261107015500 -0400" stop="20261107040100 -0400" air_time_start="20261107015500 -0400" air_time_end="20261107040100 -0400" start_utc="20261107055500 +0000" stop_utc="20261107080100 +0000" air_time_start_utc="20261107055500 +0000" air_time_end_utc="20261107080100 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">CINCUENTA SOMBRAS MÁS OSCURAS</title>
+    <sub-title lang="es">FIFTY SHADES DARKER</sub-title>
+    <desc lang="es">Un apenado Christian intenta ser más flexible y recuperar el amor de Ana mientras oscuras figuras de su pasado amenazan la felicidad de la pareja.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Romance</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261107021000 -0300" stop="20261107023400 -0300" air_time_start="20261107021000 -0300" air_time_end="20261107023400 -0300" start_utc="20261107051000 +0000" stop_utc="20261107053400 +0000" air_time_start_utc="20261107051000 +0000" air_time_end_utc="20261107053400 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">KISS MY BUTLER</sub-title>
+    <desc lang="pt">Will se apaixona pela pessoa que Geoffrey vai conhecer em um encontro às cegas e tenta impressioná-la.  Mas, para sua surpresa, Geoffrey ofusca Will. Supermodel convidada NAOMI CAMPBELL.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/a41BCHSYHCUPNv1o4bE5MyWPD7b.jpg" />
+  </programme>
+  <programme start="20261107023400 -0300" stop="20261107025800 -0300" air_time_start="20261107023400 -0300" air_time_end="20261107025800 -0300" start_utc="20261107053400 +0000" stop_utc="20261107055800 +0000" air_time_start_utc="20261107053400 +0000" air_time_end_utc="20261107055800 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">COURTING DISASTER</sub-title>
+    <desc lang="pt">Quando Will se torna o astro da equipe de basquete da escola de Carlton, o sucesso sobe à sua cabeça.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/bdqVeAw8RcMRL0kVUqJ6geiysQS.jpg" />
+  </programme>
+  <programme start="20261107025800 -0300" stop="20261107050500 -0300" air_time_start="20261107025800 -0300" air_time_end="20261107050500 -0300" start_utc="20261107055800 +0000" stop_utc="20261107080500 +0000" air_time_start_utc="20261107055800 +0000" air_time_end_utc="20261107080500 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">O PROTETOR</title>
+    <sub-title lang="pt">The Equalizer</sub-title>
+    <desc lang="pt">Robert McCall é um ex-agente secreto que abandona seu emprego na CIA após prometer isso à esposa em seu leito de morte. Morando em Boston, Massachusetts, ele está decidido a levar uma vida pacata e tranquila e arruma em uma loja de ferragens. Sem conseguir dormir, ele passa as noites lendo O Velho e o Mar em um restaurante noturno e é lá que ele conhece Teri, uma prostituta adolescente que está nas mãos de gângsteres russos ultraviolentos. Quando ela é hospitalizada após levar uma surra brutal de seu cafetão, Robert decide usar suas habilidades para ajudar a garota e enfrentar os mafiosos para resgatá-la. Ele, que acreditava ter superado o passado, passa a ser inspirado a continuar usando seu conhecimento para ajudar pessoas necessitadas.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Crime</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20261107033800 -0500" stop="20261107055100 -0500" air_time_start="20261107033800 -0500" air_time_end="20261107055100 -0500" start_utc="20261107083800 +0000" stop_utc="20261107105100 +0000" air_time_start_utc="20261107083800 +0000" air_time_end_utc="20261107105100 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">INFRAMUNDO</title>
+    <sub-title lang="es">UNDERWORLD</sub-title>
+    <desc lang="es">Una vampiresa descubre el plan de los licántropos para raptar a un humano y generar una raza híbrida que defina la guerra entre vampiros y hombres-lobo. Comienzo de la saga Inframundo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261107034000 -0300" stop="20261107054800 -0300" air_time_start="20261107034000 -0300" air_time_end="20261107054800 -0300" start_utc="20261107064000 +0000" stop_utc="20261107084800 +0000" air_time_start_utc="20261107064000 +0000" air_time_end_utc="20261107084800 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">INFRAMUNDO</title>
+    <sub-title lang="es">UNDERWORLD</sub-title>
+    <desc lang="es">Una vampiresa descubre el plan de los licántropos para raptar a un humano y generar una raza híbrida que defina la guerra entre vampiros y hombres-lobo. Comienzo de la saga Inframundo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261107034000 -0500" stop="20261107055000 -0500" air_time_start="20261107034000 -0500" air_time_end="20261107055000 -0500" start_utc="20261107084000 +0000" stop_utc="20261107105000 +0000" air_time_start_utc="20261107084000 +0000" air_time_end_utc="20261107105000 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">INFRAMUNDO</title>
+    <sub-title lang="es">UNDERWORLD</sub-title>
+    <desc lang="es">Una vampiresa descubre el plan de los licántropos para raptar a un humano y generar una raza híbrida que defina la guerra entre vampiros y hombres-lobo. Comienzo de la saga Inframundo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261107034700 -0600" stop="20261107060000 -0600" air_time_start="20261107034700 -0600" air_time_end="20261107060000 -0600" start_utc="20261107094700 +0000" stop_utc="20261107120000 +0000" air_time_start_utc="20261107094700 +0000" air_time_end_utc="20261107120000 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">INFRAMUNDO</title>
+    <sub-title lang="es">UNDERWORLD</sub-title>
+    <desc lang="es">Una vampiresa descubre el plan de los licántropos para raptar a un humano y generar una raza híbrida que defina la guerra entre vampiros y hombres-lobo. Comienzo de la saga Inframundo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261107040100 -0400" stop="20261107043900 -0400" air_time_start="20261107040100 -0400" air_time_end="20261107043900 -0400" start_utc="20261107080100 +0000" stop_utc="20261107083900 +0000" air_time_start_utc="20261107080100 +0000" air_time_end_utc="20261107083900 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.9.</episode-num>
+  </programme>
+  <programme start="20261107043900 -0400" stop="20261107051800 -0400" air_time_start="20261107043900 -0400" air_time_end="20261107051800 -0400" start_utc="20261107083900 +0000" stop_utc="20261107091800 +0000" air_time_start_utc="20261107083900 +0000" air_time_end_utc="20261107091800 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.10.</episode-num>
+  </programme>
+  <programme start="20261107050500 -0300" stop="20261107054000 -0300" air_time_start="20261107050500 -0300" air_time_end="20261107054000 -0300" start_utc="20261107080500 +0000" stop_utc="20261107084000 +0000" air_time_start_utc="20261107080500 +0000" air_time_end_utc="20261107084000 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="pt">Variedades</category>
+    <episode-num system="xmltv_ns">-1.15.</episode-num>
+  </programme>
+  <programme start="20261107051800 -0400" stop="20261107055500 -0400" air_time_start="20261107051800 -0400" air_time_end="20261107055500 -0400" start_utc="20261107091800 +0000" stop_utc="20261107095500 +0000" air_time_start_utc="20261107091800 +0000" air_time_end_utc="20261107095500 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.11.</episode-num>
+  </programme>
+  <programme start="20261107054000 -0300" stop="20261107054800 -0300" air_time_start="20261107054000 -0300" air_time_end="20261107054800 -0300" start_utc="20261107084000 +0000" stop_utc="20261107084800 +0000" air_time_start_utc="20261107084000 +0000" air_time_end_utc="20261107084800 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="pt">Talk Show</category>
+    <category lang="pt">Notícias De Entretenimento</category>
+    <episode-num system="xmltv_ns">-1.47.</episode-num>
+  </programme>
+  <programme start="20261107054800 -0300" stop="20261107060000 -0300" air_time_start="20261107054800 -0300" air_time_end="20261107060000 -0300" start_utc="20261107084800 +0000" stop_utc="20261107090000 +0000" air_time_start_utc="20261107084800 +0000" air_time_end_utc="20261107090000 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="pt">Talk Show</category>
+    <category lang="pt">Notícias De Entretenimento</category>
+    <episode-num system="xmltv_ns">-1.49.</episode-num>
+  </programme>
+  <programme start="20261107054800 -0300" stop="20261107055600 -0300" air_time_start="20261107054800 -0300" air_time_end="20261107055600 -0300" start_utc="20261107084800 +0000" stop_utc="20261107085600 +0000" air_time_start_utc="20261107084800 +0000" air_time_end_utc="20261107085600 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.41.</episode-num>
+  </programme>
+  <programme start="20261107055000 -0500" stop="20261107060000 -0500" air_time_start="20261107055000 -0500" air_time_end="20261107060000 -0500" start_utc="20261107105000 +0000" stop_utc="20261107110000 +0000" air_time_start_utc="20261107105000 +0000" air_time_end_utc="20261107110000 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.47.</episode-num>
+  </programme>
+  <programme start="20261107055100 -0500" stop="20261107060000 -0500" air_time_start="20261107055100 -0500" air_time_end="20261107060000 -0500" start_utc="20261107105100 +0000" stop_utc="20261107110000 +0000" air_time_start_utc="20261107105100 +0000" air_time_end_utc="20261107110000 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.47.</episode-num>
+  </programme>
+  <programme start="20261107055500 -0400" stop="20261107055700 -0400" air_time_start="20261107055500 -0400" air_time_end="20261107055700 -0400" start_utc="20261107095500 +0000" stop_utc="20261107095700 +0000" air_time_start_utc="20261107095500 +0000" air_time_end_utc="20261107095700 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.84.</episode-num>
+  </programme>
+  <programme start="20261107055600 -0300" stop="20261107060000 -0300" air_time_start="20261107055600 -0300" air_time_end="20261107060000 -0300" start_utc="20261107085600 +0000" stop_utc="20261107090000 +0000" air_time_start_utc="20261107085600 +0000" air_time_end_utc="20261107090000 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.102.</episode-num>
+  </programme>
+  <programme start="20261107055700 -0400" stop="20261107060000 -0400" air_time_start="20261107055700 -0400" air_time_end="20261107060000 -0400" start_utc="20261107095700 +0000" stop_utc="20261107100000 +0000" air_time_start_utc="20261107095700 +0000" air_time_end_utc="20261107100000 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+    <episode-num system="xmltv_ns">14.85.</episode-num>
   </programme>
 </tv>
