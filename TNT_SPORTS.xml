@@ -12,120 +12,6 @@
   <channel id="CDFP_CL.cl">
     <display-name>TNT Sports 2 (Chile)</display-name>
   </channel>
-  <programme start="20261106034600 -0300" stop="20261106053400 -0300" air_time_start="20261106034600 -0300" air_time_end="20261106053400 -0300" start_utc="20261106064600 +0000" stop_utc="20261106083400 +0000" air_time_start_utc="20261106064600 +0000" air_time_end_utc="20261106083400 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <episode-num system="xmltv_ns">14.14.</episode-num>
-  </programme>
-  <programme start="20261106053400 -0300" stop="20261106054600 -0300" air_time_start="20261106053400 -0300" air_time_end="20261106054600 -0300" start_utc="20261106083400 +0000" stop_utc="20261106084600 +0000" air_time_start_utc="20261106083400 +0000" air_time_end_utc="20261106084600 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <title lang="es">WORLD CUP UNSEEN</title>
-    <episode-num system="xmltv_ns">-1.4.</episode-num>
-  </programme>
-  <programme start="20261106054600 -0300" stop="20261106060000 -0300" air_time_start="20261106054600 -0300" air_time_end="20261106060000 -0300" start_utc="20261106084600 +0000" stop_utc="20261106090000 +0000" air_time_start_utc="20261106084600 +0000" air_time_end_utc="20261106090000 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <title lang="es">WORLD CUP UNSEEN</title>
-    <episode-num system="xmltv_ns">-1.5.</episode-num>
-  </programme>
-  <programme start="20261106060000 +00:00" stop="20261106072900 +00:00" air_time_start="20261106060000 +00:00" air_time_end="20261106072900 +00:00" start_utc="20261106060000 +0000" stop_utc="20261106072900 +0000" air_time_start_utc="20261106060000 +0000" air_time_end_utc="20261106072900 +0000" is_live="false" channel="CDFB_CL.cl">
-    <episode-num system="xmltv_ns">-1.403.</episode-num>
-  </programme>
-  <programme start="20261106060000 -0300" stop="20261106061400 -0300" air_time_start="20261106060000 -0300" air_time_end="20261106061400 -0300" start_utc="20261106090000 +0000" stop_utc="20261106091400 +0000" air_time_start_utc="20261106090000 +0000" air_time_end_utc="20261106091400 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <episode-num system="xmltv_ns">-1.6.</episode-num>
-  </programme>
-  <programme start="20261106060200 +00:00" stop="20261106072900 +00:00" air_time_start="20261106060200 +00:00" air_time_end="20261106072900 +00:00" start_utc="20261106060200 +0000" stop_utc="20261106072900 +0000" air_time_start_utc="20261106060200 +0000" air_time_end_utc="20261106072900 +0000" is_live="false" channel="CDFH_CL.cl">
-    <episode-num system="xmltv_ns">-1.1832.</episode-num>
-  </programme>
-  <programme start="20261106061400 -0300" stop="20261106075700 -0300" air_time_start="20261106061400 -0300" air_time_end="20261106075700 -0300" start_utc="20261106091400 +0000" stop_utc="20261106105700 +0000" air_time_start_utc="20261106091400 +0000" air_time_end_utc="20261106105700 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <episode-num system="xmltv_ns">15.1.</episode-num>
-  </programme>
-  <programme start="20261106072900 +00:00" stop="20261106085900 +00:00" air_time_start="20261106072900 +00:00" air_time_end="20261106085900 +00:00" start_utc="20261106072900 +0000" stop_utc="20261106085900 +0000" air_time_start_utc="20261106072900 +0000" air_time_end_utc="20261106085900 +0000" is_live="false" channel="CDFH_CL.cl">
-    <episode-num system="xmltv_ns">-1.403.</episode-num>
-  </programme>
-  <programme start="20261106072900 +00:00" stop="20261106083000 +00:00" air_time_start="20261106072900 +00:00" air_time_end="20261106083000 +00:00" start_utc="20261106072900 +0000" stop_utc="20261106083000 +0000" air_time_start_utc="20261106072900 +0000" air_time_end_utc="20261106083000 +0000" is_live="false" channel="CDFB_CL.cl">
-    <episode-num system="xmltv_ns">-1.672.</episode-num>
-  </programme>
-  <programme start="20261106075700 -0300" stop="20261106100200 -0300" air_time_start="20261106075700 -0300" air_time_end="20261106100200 -0300" start_utc="20261106105700 +0000" stop_utc="20261106130200 +0000" air_time_start_utc="20261106105700 +0000" air_time_end_utc="20261106130200 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <episode-num system="xmltv_ns">14.8.</episode-num>
-  </programme>
-  <programme start="20261106083000 +00:00" stop="20261106100000 +00:00" air_time_start="20261106083000 +00:00" air_time_end="20261106100000 +00:00" start_utc="20261106083000 +0000" stop_utc="20261106100000 +0000" air_time_start_utc="20261106083000 +0000" air_time_end_utc="20261106100000 +0000" is_live="false" channel="CDFB_CL.cl">
-    <episode-num system="xmltv_ns">-1.402.</episode-num>
-  </programme>
-  <programme start="20261106085900 +00:00" stop="20261106095900 +00:00" air_time_start="20261106085900 +00:00" air_time_end="20261106095900 +00:00" start_utc="20261106085900 +0000" stop_utc="20261106095900 +0000" air_time_start_utc="20261106085900 +0000" air_time_end_utc="20261106095900 +0000" is_live="false" channel="CDFH_CL.cl">
-    <episode-num system="xmltv_ns">-1.672.</episode-num>
-  </programme>
-  <programme start="20261106095900 +00:00" stop="20261106120200 +00:00" air_time_start="20261106095900 +00:00" air_time_end="20261106120200 +00:00" start_utc="20261106095900 +0000" stop_utc="20261106120200 +0000" air_time_start_utc="20261106095900 +0000" air_time_end_utc="20261106120200 +0000" is_live="false" channel="CDFH_CL.cl">
-    <episode-num system="xmltv_ns">25.6.</episode-num>
-  </programme>
-  <programme start="20261106100000 +00:00" stop="20261106120000 +00:00" air_time_start="20261106100000 +00:00" air_time_end="20261106120000 +00:00" start_utc="20261106100000 +0000" stop_utc="20261106120000 +0000" air_time_start_utc="20261106100000 +0000" air_time_end_utc="20261106120000 +0000" is_live="false" channel="CDFB_CL.cl">
-    <episode-num system="xmltv_ns">9.2.</episode-num>
-  </programme>
-  <programme start="20261106100200 -0300" stop="20261106120000 -0300" air_time_start="20261106100200 -0300" air_time_end="20261106120000 -0300" start_utc="20261106130200 +0000" stop_utc="20261106150000 +0000" air_time_start_utc="20261106130200 +0000" air_time_end_utc="20261106150000 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <episode-num system="xmltv_ns">15.0.</episode-num>
-  </programme>
-  <programme start="20261106120000 +00:00" stop="20261106140000 +00:00" air_time_start="20261106120000 +00:00" air_time_end="20261106140000 +00:00" start_utc="20261106120000 +0000" stop_utc="20261106140000 +0000" air_time_start_utc="20261106120000 +0000" air_time_end_utc="20261106140000 +0000" is_live="false" channel="CDFB_CL.cl">
-    <episode-num system="xmltv_ns">-1.1934.</episode-num>
-  </programme>
-  <programme start="20261106120000 -0300" stop="20261106140000 -0300" air_time_start="20261106120000 -0300" air_time_end="20261106140000 -0300" start_utc="20261106150000 +0000" stop_utc="20261106170000 +0000" air_time_start_utc="20261106150000 +0000" air_time_end_utc="20261106170000 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <episode-num system="xmltv_ns">-1.0.</episode-num>
-  </programme>
-  <programme start="20261106120200 +00:00" stop="20261106133000 +00:00" air_time_start="20261106120200 +00:00" air_time_end="20261106133000 +00:00" start_utc="20261106120200 +0000" stop_utc="20261106133000 +0000" air_time_start_utc="20261106120200 +0000" air_time_end_utc="20261106133000 +0000" is_live="false" channel="CDFH_CL.cl">
-    <episode-num system="xmltv_ns">-1.402.</episode-num>
-  </programme>
-  <programme start="20261106133000 +00:00" stop="20261106153000 +00:00" air_time_start="20261106133000 +00:00" air_time_end="20261106153000 +00:00" start_utc="20261106133000 +0000" stop_utc="20261106153000 +0000" air_time_start_utc="20261106133000 +0000" air_time_end_utc="20261106153000 +0000" is_live="false" channel="CDFH_CL.cl">
-    <episode-num system="xmltv_ns">9.2.</episode-num>
-  </programme>
-  <programme start="20261106140000 +00:00" stop="20261106153000 +00:00" air_time_start="20261106140000 +00:00" air_time_end="20261106153000 +00:00" start_utc="20261106140000 +0000" stop_utc="20261106153000 +0000" air_time_start_utc="20261106140000 +0000" air_time_end_utc="20261106153000 +0000" is_live="false" channel="CDFB_CL.cl">
-    <episode-num system="xmltv_ns">-1.0.</episode-num>
-  </programme>
-  <programme start="20261106140000 -0300" stop="20261106150000 -0300" air_time_start="20261106140000 -0300" air_time_end="20261106150000 -0300" start_utc="20261106170000 +0000" stop_utc="20261106180000 +0000" air_time_start_utc="20261106170000 +0000" air_time_end_utc="20261106180000 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <episode-num system="xmltv_ns">-1.0.</episode-num>
-  </programme>
-  <programme start="20261106150000 -0300" stop="20261106170000 -0300" air_time_start="20261106150000 -0300" air_time_end="20261106170000 -0300" start_utc="20261106180000 +0000" stop_utc="20261106200000 +0000" air_time_start_utc="20261106180000 +0000" air_time_end_utc="20261106200000 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <episode-num system="xmltv_ns">15.1.</episode-num>
-  </programme>
-  <programme start="20261106153000 +00:00" stop="20261106173000 +00:00" air_time_start="20261106153000 +00:00" air_time_end="20261106173000 +00:00" start_utc="20261106153000 +0000" stop_utc="20261106173000 +0000" air_time_start_utc="20261106153000 +0000" air_time_end_utc="20261106173000 +0000" is_live="false" channel="CDFH_CL.cl">
-    <episode-num system="xmltv_ns">-1.1934.</episode-num>
-  </programme>
-  <programme start="20261106153000 +00:00" stop="20261106170000 +00:00" air_time_start="20261106153000 +00:00" air_time_end="20261106170000 +00:00" start_utc="20261106153000 +0000" stop_utc="20261106170000 +0000" air_time_start_utc="20261106153000 +0000" air_time_end_utc="20261106170000 +0000" is_live="false" channel="CDFB_CL.cl">
-    <desc lang="es">DESCRIPCION</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261106170000 +00:00" stop="20261106180000 +00:00" air_time_start="20261106170000 +00:00" air_time_end="20261106180000 +00:00" start_utc="20261106170000 +0000" stop_utc="20261106180000 +0000" air_time_start_utc="20261106170000 +0000" air_time_end_utc="20261106180000 +0000" is_live="false" channel="CDFB_CL.cl">
-    <episode-num system="xmltv_ns">-1.0.</episode-num>
-  </programme>
-  <programme start="20261106170000 -0300" stop="20261106184500 -0300" air_time_start="20261106170000 -0300" air_time_end="20261106184500 -0300" start_utc="20261106200000 +0000" stop_utc="20261106214500 +0000" air_time_start_utc="20261106200000 +0000" air_time_end_utc="20261106214500 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <episode-num system="xmltv_ns">-1.0.</episode-num>
-  </programme>
-  <programme start="20261106173000 +00:00" stop="20261106190000 +00:00" air_time_start="20261106173000 +00:00" air_time_end="20261106190000 +00:00" start_utc="20261106173000 +0000" stop_utc="20261106190000 +0000" air_time_start_utc="20261106173000 +0000" air_time_end_utc="20261106190000 +0000" is_live="false" channel="CDFH_CL.cl">
-    <episode-num system="xmltv_ns">-1.404.</episode-num>
-  </programme>
-  <programme start="20261106180000 +00:00" stop="20261106193000 +00:00" air_time_start="20261106180000 +00:00" air_time_end="20261106193000 +00:00" start_utc="20261106180000 +0000" stop_utc="20261106193000 +0000" air_time_start_utc="20261106180000 +0000" air_time_end_utc="20261106193000 +0000" is_live="false" channel="CDFB_CL.cl">
-    <episode-num system="xmltv_ns">-1.0.</episode-num>
-  </programme>
-  <programme start="20261106184500 -0300" stop="20261106190100 -0300" air_time_start="20261106184500 -0300" air_time_end="20261106190100 -0300" start_utc="20261106214500 +0000" stop_utc="20261106220100 +0000" air_time_start_utc="20261106214500 +0000" air_time_end_utc="20261106220100 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <episode-num system="xmltv_ns">-1.0.</episode-num>
-  </programme>
-  <programme start="20261106190000 +00:00" stop="20261106200000 +00:00" air_time_start="20261106190000 +00:00" air_time_end="20261106200000 +00:00" start_utc="20261106190000 +0000" stop_utc="20261106200000 +0000" air_time_start_utc="20261106190000 +0000" air_time_end_utc="20261106200000 +0000" is_live="false" channel="CDFH_CL.cl">
-    <episode-num system="xmltv_ns">-1.673.</episode-num>
-  </programme>
-  <programme start="20261106190100 -0300" stop="20261106211500 -0300" air_time_start="20261106190100 -0300" air_time_end="20261106211500 -0300" start_utc="20261106220100 +0000" stop_utc="20261107001500 +0000" air_time_start_utc="20261106220100 +0000" air_time_end_utc="20261107001500 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <episode-num system="xmltv_ns">15.2.</episode-num>
-  </programme>
-  <programme start="20261106193000 +00:00" stop="20261106213600 +00:00" air_time_start="20261106193000 +00:00" air_time_end="20261106213600 +00:00" start_utc="20261106193000 +0000" stop_utc="20261106213600 +0000" air_time_start_utc="20261106193000 +0000" air_time_end_utc="20261106213600 +0000" is_live="false" channel="CDFB_CL.cl">
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-  </programme>
-  <programme start="20261106200000 +00:00" stop="20261106213000 +00:00" air_time_start="20261106200000 +00:00" air_time_end="20261106213000 +00:00" start_utc="20261106200000 +0000" stop_utc="20261106213000 +0000" air_time_start_utc="20261106200000 +0000" air_time_end_utc="20261106213000 +0000" is_live="false" channel="CDFH_CL.cl">
-    <episode-num system="xmltv_ns">-1.403.</episode-num>
-  </programme>
-  <programme start="20261106211500 -0300" stop="20261106213000 -0300" air_time_start="20261106211500 -0300" air_time_end="20261106213000 -0300" start_utc="20261107001500 +0000" stop_utc="20261107003000 +0000" air_time_start_utc="20261107001500 +0000" air_time_end_utc="20261107003000 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <episode-num system="xmltv_ns">-1.0.</episode-num>
-  </programme>
-  <programme start="20261106213000 +00:00" stop="20261106231900 +00:00" air_time_start="20261106213000 +00:00" air_time_end="20261106231900 +00:00" start_utc="20261106213000 +0000" stop_utc="20261106231900 +0000" air_time_start_utc="20261106213000 +0000" air_time_end_utc="20261106231900 +0000" is_live="false" channel="CDFH_CL.cl">
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-  </programme>
-  <programme start="20261106213000 -0300" stop="20261106214600 -0300" air_time_start="20261106213000 -0300" air_time_end="20261106214600 -0300" start_utc="20261107003000 +0000" stop_utc="20261107004600 +0000" air_time_start_utc="20261107003000 +0000" air_time_end_utc="20261107004600 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <episode-num system="xmltv_ns">-1.0.</episode-num>
-  </programme>
-  <programme start="20261106213600 +00:00" stop="20261106233400 +00:00" air_time_start="20261106213600 +00:00" air_time_end="20261106233400 +00:00" start_utc="20261106213600 +0000" stop_utc="20261106233400 +0000" air_time_start_utc="20261106213600 +0000" air_time_end_utc="20261106233400 +0000" is_live="false" channel="CDFB_CL.cl">
-    <episode-num system="xmltv_ns">9.2.</episode-num>
-  </programme>
   <programme start="20261106214600 -0300" stop="20261107000000 -0300" air_time_start="20261106214600 -0300" air_time_end="20261107000000 -0300" start_utc="20261107004600 +0000" stop_utc="20261107030000 +0000" air_time_start_utc="20261107004600 +0000" air_time_end_utc="20261107030000 +0000" is_live="false" channel="TNTSPO_AR.ar">
     <episode-num system="xmltv_ns">15.3.</episode-num>
   </programme>
@@ -1086,5 +972,178 @@
   <programme start="20261112054700 -0300" stop="20261112060000 -0300" air_time_start="20261112054700 -0300" air_time_end="20261112060000 -0300" start_utc="20261112084700 +0000" stop_utc="20261112090000 +0000" air_time_start_utc="20261112084700 +0000" air_time_end_utc="20261112090000 +0000" is_live="false" channel="TNTSPO_AR.ar">
     <title lang="es">WORLD CUP UNSEEN</title>
     <episode-num system="xmltv_ns">-1.15.</episode-num>
+  </programme>
+  <programme start="20261112060000 +00:00" stop="20261112073000 +00:00" air_time_start="20261112060000 +00:00" air_time_end="20261112073000 +00:00" start_utc="20261112060000 +0000" stop_utc="20261112073000 +0000" air_time_start_utc="20261112060000 +0000" air_time_end_utc="20261112073000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">-1.407.</episode-num>
+  </programme>
+  <programme start="20261112060000 -0300" stop="20261112062800 -0300" air_time_start="20261112060000 -0300" air_time_end="20261112062800 -0300" start_utc="20261112090000 +0000" stop_utc="20261112092800 +0000" air_time_start_utc="20261112090000 +0000" air_time_end_utc="20261112092800 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <title lang="es">TNT GOL FEM</title>
+    <episode-num system="xmltv_ns">7.7.</episode-num>
+  </programme>
+  <programme start="20261112060300 +00:00" stop="20261112073000 +00:00" air_time_start="20261112060300 +00:00" air_time_end="20261112073000 +00:00" start_utc="20261112060300 +0000" stop_utc="20261112073000 +0000" air_time_start_utc="20261112060300 +0000" air_time_end_utc="20261112073000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <episode-num system="xmltv_ns">-1.1836.</episode-num>
+  </programme>
+  <programme start="20261112062800 -0300" stop="20261112082200 -0300" air_time_start="20261112062800 -0300" air_time_end="20261112082200 -0300" start_utc="20261112092800 +0000" stop_utc="20261112112200 +0000" air_time_start_utc="20261112092800 +0000" air_time_end_utc="20261112112200 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <episode-num system="xmltv_ns">15.10.</episode-num>
+  </programme>
+  <programme start="20261112073000 +00:00" stop="20261112090000 +00:00" air_time_start="20261112073000 +00:00" air_time_end="20261112090000 +00:00" start_utc="20261112073000 +0000" stop_utc="20261112090000 +0000" air_time_start_utc="20261112073000 +0000" air_time_end_utc="20261112090000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <episode-num system="xmltv_ns">-1.407.</episode-num>
+  </programme>
+  <programme start="20261112073000 +00:00" stop="20261112074000 +00:00" air_time_start="20261112073000 +00:00" air_time_end="20261112074000 +00:00" start_utc="20261112073000 +0000" stop_utc="20261112074000 +0000" air_time_start_utc="20261112073000 +0000" air_time_end_utc="20261112074000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">-1.4.</episode-num>
+  </programme>
+  <programme start="20261112074000 +00:00" stop="20261112075600 +00:00" air_time_start="20261112074000 +00:00" air_time_end="20261112075600 +00:00" start_utc="20261112074000 +0000" stop_utc="20261112075600 +0000" air_time_start_utc="20261112074000 +0000" air_time_end_utc="20261112075600 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">-1.5.</episode-num>
+  </programme>
+  <programme start="20261112075600 +00:00" stop="20261112080300 +00:00" air_time_start="20261112075600 +00:00" air_time_end="20261112080300 +00:00" start_utc="20261112075600 +0000" stop_utc="20261112080300 +0000" air_time_start_utc="20261112075600 +0000" air_time_end_utc="20261112080300 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">-1.6.</episode-num>
+  </programme>
+  <programme start="20261112080300 +00:00" stop="20261112081100 +00:00" air_time_start="20261112080300 +00:00" air_time_end="20261112081100 +00:00" start_utc="20261112080300 +0000" stop_utc="20261112081100 +0000" air_time_start_utc="20261112080300 +0000" air_time_end_utc="20261112081100 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">-1.7.</episode-num>
+  </programme>
+  <programme start="20261112081100 +00:00" stop="20261112094000 +00:00" air_time_start="20261112081100 +00:00" air_time_end="20261112094000 +00:00" start_utc="20261112081100 +0000" stop_utc="20261112094000 +0000" air_time_start_utc="20261112081100 +0000" air_time_end_utc="20261112094000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">-1.406.</episode-num>
+  </programme>
+  <programme start="20261112082200 -0300" stop="20261112100900 -0300" air_time_start="20261112082200 -0300" air_time_end="20261112100900 -0300" start_utc="20261112112200 +0000" stop_utc="20261112130900 +0000" air_time_start_utc="20261112112200 +0000" air_time_end_utc="20261112130900 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <episode-num system="xmltv_ns">15.11.</episode-num>
+  </programme>
+  <programme start="20261112090000 +00:00" stop="20261112091200 +00:00" air_time_start="20261112090000 +00:00" air_time_end="20261112091200 +00:00" start_utc="20261112090000 +0000" stop_utc="20261112091200 +0000" air_time_start_utc="20261112090000 +0000" air_time_end_utc="20261112091200 +0000" is_live="false" channel="CDFH_CL.cl">
+    <episode-num system="xmltv_ns">-1.7.</episode-num>
+  </programme>
+  <programme start="20261112091200 +00:00" stop="20261112092800 +00:00" air_time_start="20261112091200 +00:00" air_time_end="20261112092800 +00:00" start_utc="20261112091200 +0000" stop_utc="20261112092800 +0000" air_time_start_utc="20261112091200 +0000" air_time_end_utc="20261112092800 +0000" is_live="false" channel="CDFH_CL.cl">
+    <episode-num system="xmltv_ns">-1.1.</episode-num>
+  </programme>
+  <programme start="20261112092800 +00:00" stop="20261112094000 +00:00" air_time_start="20261112092800 +00:00" air_time_end="20261112094000 +00:00" start_utc="20261112092800 +0000" stop_utc="20261112094000 +0000" air_time_start_utc="20261112092800 +0000" air_time_end_utc="20261112094000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <episode-num system="xmltv_ns">-1.6.</episode-num>
+  </programme>
+  <programme start="20261112094000 +00:00" stop="20261112114000 +00:00" air_time_start="20261112094000 +00:00" air_time_end="20261112114000 +00:00" start_utc="20261112094000 +0000" stop_utc="20261112114000 +0000" air_time_start_utc="20261112094000 +0000" air_time_end_utc="20261112114000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <episode-num system="xmltv_ns">26.1.</episode-num>
+  </programme>
+  <programme start="20261112094000 +00:00" stop="20261112114000 +00:00" air_time_start="20261112094000 +00:00" air_time_end="20261112114000 +00:00" start_utc="20261112094000 +0000" stop_utc="20261112114000 +0000" air_time_start_utc="20261112094000 +0000" air_time_end_utc="20261112114000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">26.6.</episode-num>
+  </programme>
+  <programme start="20261112100900 -0300" stop="20261112120000 -0300" air_time_start="20261112100900 -0300" air_time_end="20261112120000 -0300" start_utc="20261112130900 +0000" stop_utc="20261112150000 +0000" air_time_start_utc="20261112130900 +0000" air_time_end_utc="20261112150000 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <episode-num system="xmltv_ns">15.5.</episode-num>
+  </programme>
+  <programme start="20261112114000 +00:00" stop="20261112131000 +00:00" air_time_start="20261112114000 +00:00" air_time_end="20261112131000 +00:00" start_utc="20261112114000 +0000" stop_utc="20261112131000 +0000" air_time_start_utc="20261112114000 +0000" air_time_end_utc="20261112131000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <episode-num system="xmltv_ns">-1.406.</episode-num>
+  </programme>
+  <programme start="20261112114000 +00:00" stop="20261112133000 +00:00" air_time_start="20261112114000 +00:00" air_time_end="20261112133000 +00:00" start_utc="20261112114000 +0000" stop_utc="20261112133000 +0000" air_time_start_utc="20261112114000 +0000" air_time_end_utc="20261112133000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">-1.1938.</episode-num>
+  </programme>
+  <programme start="20261112120000 -0300" stop="20261112140000 -0300" air_time_start="20261112120000 -0300" air_time_end="20261112140000 -0300" start_utc="20261112150000 +0000" stop_utc="20261112170000 +0000" air_time_start_utc="20261112150000 +0000" air_time_end_utc="20261112170000 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261112131000 +00:00" stop="20261112151000 +00:00" air_time_start="20261112131000 +00:00" air_time_end="20261112151000 +00:00" start_utc="20261112131000 +0000" stop_utc="20261112151000 +0000" air_time_start_utc="20261112131000 +0000" air_time_end_utc="20261112151000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <episode-num system="xmltv_ns">26.6.</episode-num>
+  </programme>
+  <programme start="20261112133000 +00:00" stop="20261112140000 +00:00" air_time_start="20261112133000 +00:00" air_time_end="20261112140000 +00:00" start_utc="20261112133000 +0000" stop_utc="20261112140000 +0000" air_time_start_utc="20261112133000 +0000" air_time_end_utc="20261112140000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">-1.75.</episode-num>
+  </programme>
+  <programme start="20261112140000 +00:00" stop="20261112153000 +00:00" air_time_start="20261112140000 +00:00" air_time_end="20261112153000 +00:00" start_utc="20261112140000 +0000" stop_utc="20261112153000 +0000" air_time_start_utc="20261112140000 +0000" air_time_end_utc="20261112153000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261112140000 -0300" stop="20261112144500 -0300" air_time_start="20261112140000 -0300" air_time_end="20261112144500 -0300" start_utc="20261112170000 +0000" stop_utc="20261112174500 +0000" air_time_start_utc="20261112170000 +0000" air_time_end_utc="20261112174500 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261112144500 -0300" stop="20261112170000 -0300" air_time_start="20261112144500 -0300" air_time_end="20261112170000 -0300" start_utc="20261112174500 +0000" stop_utc="20261112200000 +0000" air_time_start_utc="20261112174500 +0000" air_time_end_utc="20261112200000 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <episode-num system="xmltv_ns">16.1.</episode-num>
+  </programme>
+  <programme start="20261112151000 +00:00" stop="20261112154000 +00:00" air_time_start="20261112151000 +00:00" air_time_end="20261112154000 +00:00" start_utc="20261112151000 +0000" stop_utc="20261112154000 +0000" air_time_start_utc="20261112151000 +0000" air_time_end_utc="20261112154000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <episode-num system="xmltv_ns">-1.75.</episode-num>
+  </programme>
+  <programme start="20261112153000 +00:00" stop="20261112170000 +00:00" air_time_start="20261112153000 +00:00" air_time_end="20261112170000 +00:00" start_utc="20261112153000 +0000" stop_utc="20261112170000 +0000" air_time_start_utc="20261112153000 +0000" air_time_end_utc="20261112170000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <desc lang="es">DESCRIPCION</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20261112154000 +00:00" stop="20261112173000 +00:00" air_time_start="20261112154000 +00:00" air_time_end="20261112173000 +00:00" start_utc="20261112154000 +0000" stop_utc="20261112173000 +0000" air_time_start_utc="20261112154000 +0000" air_time_end_utc="20261112173000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <episode-num system="xmltv_ns">-1.1938.</episode-num>
+  </programme>
+  <programme start="20261112170000 +00:00" stop="20261112180000 +00:00" air_time_start="20261112170000 +00:00" air_time_end="20261112180000 +00:00" start_utc="20261112170000 +0000" stop_utc="20261112180000 +0000" air_time_start_utc="20261112170000 +0000" air_time_end_utc="20261112180000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261112170000 -0300" stop="20261112190000 -0300" air_time_start="20261112170000 -0300" air_time_end="20261112190000 -0300" start_utc="20261112200000 +0000" stop_utc="20261112220000 +0000" air_time_start_utc="20261112200000 +0000" air_time_end_utc="20261112220000 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261112173000 +00:00" stop="20261112190000 +00:00" air_time_start="20261112173000 +00:00" air_time_end="20261112190000 +00:00" start_utc="20261112173000 +0000" stop_utc="20261112190000 +0000" air_time_start_utc="20261112173000 +0000" air_time_end_utc="20261112190000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <episode-num system="xmltv_ns">-1.408.</episode-num>
+  </programme>
+  <programme start="20261112180000 +00:00" stop="20261112193000 +00:00" air_time_start="20261112180000 +00:00" air_time_end="20261112193000 +00:00" start_utc="20261112180000 +0000" stop_utc="20261112193000 +0000" air_time_start_utc="20261112180000 +0000" air_time_end_utc="20261112193000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">-1.0.</episode-num>
+  </programme>
+  <programme start="20261112190000 +00:00" stop="20261112200000 +00:00" air_time_start="20261112190000 +00:00" air_time_end="20261112200000 +00:00" start_utc="20261112190000 +0000" stop_utc="20261112200000 +0000" air_time_start_utc="20261112190000 +0000" air_time_end_utc="20261112200000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <episode-num system="xmltv_ns">-1.677.</episode-num>
+  </programme>
+  <programme start="20261112190000 -0300" stop="20261112210000 -0300" air_time_start="20261112190000 -0300" air_time_end="20261112210000 -0300" start_utc="20261112220000 +0000" stop_utc="20261113000000 +0000" air_time_start_utc="20261112220000 +0000" air_time_end_utc="20261113000000 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20261112193000 +00:00" stop="20261112213000 +00:00" air_time_start="20261112193000 +00:00" air_time_end="20261112213000 +00:00" start_utc="20261112193000 +0000" stop_utc="20261112213000 +0000" air_time_start_utc="20261112193000 +0000" air_time_end_utc="20261112213000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+  </programme>
+  <programme start="20261112200000 +00:00" stop="20261112213000 +00:00" air_time_start="20261112200000 +00:00" air_time_end="20261112213000 +00:00" start_utc="20261112200000 +0000" stop_utc="20261112213000 +0000" air_time_start_utc="20261112200000 +0000" air_time_end_utc="20261112213000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <episode-num system="xmltv_ns">-1.407.</episode-num>
+  </programme>
+  <programme start="20261112210000 -0300" stop="20261112230000 -0300" air_time_start="20261112210000 -0300" air_time_end="20261112230000 -0300" start_utc="20261113000000 +0000" stop_utc="20261113020000 +0000" air_time_start_utc="20261113000000 +0000" air_time_end_utc="20261113020000 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <episode-num system="xmltv_ns">15.9.</episode-num>
+  </programme>
+  <programme start="20261112213000 +00:00" stop="20261112233000 +00:00" air_time_start="20261112213000 +00:00" air_time_end="20261112233000 +00:00" start_utc="20261112213000 +0000" stop_utc="20261112233000 +0000" air_time_start_utc="20261112213000 +0000" air_time_end_utc="20261112233000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <episode-num system="xmltv_ns">-1.1939.</episode-num>
+  </programme>
+  <programme start="20261112213000 +00:00" stop="20261112233000 +00:00" air_time_start="20261112213000 +00:00" air_time_end="20261112233000 +00:00" start_utc="20261112213000 +0000" stop_utc="20261112233000 +0000" air_time_start_utc="20261112213000 +0000" air_time_end_utc="20261112233000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">26.7.</episode-num>
+  </programme>
+  <programme start="20261112230000 -0300" stop="20261113000000 -0300" air_time_start="20261112230000 -0300" air_time_end="20261113000000 -0300" start_utc="20261113020000 +0000" stop_utc="20261113030000 +0000" air_time_start_utc="20261113020000 +0000" air_time_end_utc="20261113030000 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <title lang="es">TNT DATA SPORTS - EDICIÓN NOCHE</title>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20261112233000 +00:00" stop="20261113013000 +00:00" air_time_start="20261112233000 +00:00" air_time_end="20261113013000 +00:00" start_utc="20261112233000 +0000" stop_utc="20261113013000 +0000" air_time_start_utc="20261112233000 +0000" air_time_end_utc="20261113013000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <episode-num system="xmltv_ns">26.7.</episode-num>
+  </programme>
+  <programme start="20261112233000 +00:00" stop="20261113013000 +00:00" air_time_start="20261112233000 +00:00" air_time_end="20261113013000 +00:00" start_utc="20261112233000 +0000" stop_utc="20261113013000 +0000" air_time_start_utc="20261112233000 +0000" air_time_end_utc="20261113013000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">-1.1939.</episode-num>
+  </programme>
+  <programme start="20261113000000 -0300" stop="20261113015600 -0300" air_time_start="20261113000000 -0300" air_time_end="20261113015600 -0300" start_utc="20261113030000 +0000" stop_utc="20261113045600 +0000" air_time_start_utc="20261113030000 +0000" air_time_end_utc="20261113045600 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <episode-num system="xmltv_ns">15.2.</episode-num>
+  </programme>
+  <programme start="20261113013000 +00:00" stop="20261113033000 +00:00" air_time_start="20261113013000 +00:00" air_time_end="20261113033000 +00:00" start_utc="20261113013000 +0000" stop_utc="20261113033000 +0000" air_time_start_utc="20261113013000 +0000" air_time_end_utc="20261113033000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <episode-num system="xmltv_ns">-1.1939.</episode-num>
+  </programme>
+  <programme start="20261113013000 +00:00" stop="20261113030000 +00:00" air_time_start="20261113013000 +00:00" air_time_end="20261113030000 +00:00" start_utc="20261113013000 +0000" stop_utc="20261113030000 +0000" air_time_start_utc="20261113013000 +0000" air_time_end_utc="20261113030000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">-1.407.</episode-num>
+  </programme>
+  <programme start="20261113015600 -0300" stop="20261113034200 -0300" air_time_start="20261113015600 -0300" air_time_end="20261113034200 -0300" start_utc="20261113045600 +0000" stop_utc="20261113064200 +0000" air_time_start_utc="20261113045600 +0000" air_time_end_utc="20261113064200 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <episode-num system="xmltv_ns">15.11.</episode-num>
+  </programme>
+  <programme start="20261113030000 +00:00" stop="20261113035500 +00:00" air_time_start="20261113030000 +00:00" air_time_end="20261113035500 +00:00" start_utc="20261113030000 +0000" stop_utc="20261113035500 +0000" air_time_start_utc="20261113030000 +0000" air_time_end_utc="20261113035500 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">-1.677.</episode-num>
+  </programme>
+  <programme start="20261113033000 +00:00" stop="20261113050000 +00:00" air_time_start="20261113033000 +00:00" air_time_end="20261113050000 +00:00" start_utc="20261113033000 +0000" stop_utc="20261113050000 +0000" air_time_start_utc="20261113033000 +0000" air_time_end_utc="20261113050000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <episode-num system="xmltv_ns">-1.408.</episode-num>
+  </programme>
+  <programme start="20261113034200 -0300" stop="20261113052900 -0300" air_time_start="20261113034200 -0300" air_time_end="20261113052900 -0300" start_utc="20261113064200 +0000" stop_utc="20261113082900 +0000" air_time_start_utc="20261113064200 +0000" air_time_end_utc="20261113082900 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <episode-num system="xmltv_ns">15.3.</episode-num>
+  </programme>
+  <programme start="20261113035500 +00:00" stop="20261113040600 +00:00" air_time_start="20261113035500 +00:00" air_time_end="20261113040600 +00:00" start_utc="20261113035500 +0000" stop_utc="20261113040600 +0000" air_time_start_utc="20261113035500 +0000" air_time_end_utc="20261113040600 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">-1.4.</episode-num>
+  </programme>
+  <programme start="20261113040600 +00:00" stop="20261113042200 +00:00" air_time_start="20261113040600 +00:00" air_time_end="20261113042200 +00:00" start_utc="20261113040600 +0000" stop_utc="20261113042200 +0000" air_time_start_utc="20261113040600 +0000" air_time_end_utc="20261113042200 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">-1.5.</episode-num>
+  </programme>
+  <programme start="20261113042200 +00:00" stop="20261113043000 +00:00" air_time_start="20261113042200 +00:00" air_time_end="20261113043000 +00:00" start_utc="20261113042200 +0000" stop_utc="20261113043000 +0000" air_time_start_utc="20261113042200 +0000" air_time_end_utc="20261113043000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">-1.7.</episode-num>
+  </programme>
+  <programme start="20261113043000 +00:00" stop="20261113060000 +00:00" air_time_start="20261113043000 +00:00" air_time_end="20261113060000 +00:00" start_utc="20261113043000 +0000" stop_utc="20261113060000 +0000" air_time_start_utc="20261113043000 +0000" air_time_end_utc="20261113060000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <episode-num system="xmltv_ns">-1.1837.</episode-num>
+  </programme>
+  <programme start="20261113050000 +00:00" stop="20261113060000 +00:00" air_time_start="20261113050000 +00:00" air_time_end="20261113060000 +00:00" start_utc="20261113050000 +0000" stop_utc="20261113060000 +0000" air_time_start_utc="20261113050000 +0000" air_time_end_utc="20261113060000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <episode-num system="xmltv_ns">-1.677.</episode-num>
+  </programme>
+  <programme start="20261113052900 -0300" stop="20261113054300 -0300" air_time_start="20261113052900 -0300" air_time_end="20261113054300 -0300" start_utc="20261113082900 +0000" stop_utc="20261113084300 +0000" air_time_start_utc="20261113082900 +0000" air_time_end_utc="20261113084300 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <title lang="es">WORLD CUP UNSEEN</title>
+    <episode-num system="xmltv_ns">-1.16.</episode-num>
+  </programme>
+  <programme start="20261113054300 -0300" stop="20261113060000 -0300" air_time_start="20261113054300 -0300" air_time_end="20261113060000 -0300" start_utc="20261113084300 +0000" stop_utc="20261113090000 +0000" air_time_start_utc="20261113084300 +0000" air_time_end_utc="20261113090000 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <title lang="es">WORLD CUP UNSEEN</title>
+    <episode-num system="xmltv_ns">-1.17.</episode-num>
   </programme>
 </tv>
