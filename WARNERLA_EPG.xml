@@ -21,402 +21,12 @@
   <channel id="WARNER_MX.mx">
     <display-name>Warner Channel México</display-name>
   </channel>
-  <programme start="20261106180500 -0500" stop="20261106200200 -0500" air_time_start="20261106180500 -0500" air_time_end="20261106200200 -0500" start_utc="20261106230500 +0000" stop_utc="20261107010200 +0000" air_time_start_utc="20261106230500 +0000" air_time_end_utc="20261107010200 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">Plan de Escape: El Rescate</title>
-    <sub-title lang="es">Escape Plan: The Extractors</sub-title>
-    <desc lang="es">Ryan Breslin y su equipo de expertos deben rescatar a la hija de un magnate y a la novia de Breslin de una cárcel impenetrable.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-  </programme>
-  <programme start="20261106182500 -0600" stop="20261106201000 -0600" air_time_start="20261106182500 -0600" air_time_end="20261106201000 -0600" start_utc="20261107002500 +0000" stop_utc="20261107021000 +0000" air_time_start_utc="20261107002500 +0000" air_time_end_utc="20261107021000 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">Plan de Escape: El Rescate</title>
-    <sub-title lang="es">Escape Plan: The Extractors</sub-title>
-    <desc lang="es">Ryan Breslin y su equipo de expertos deben rescatar a la hija de un magnate y a la novia de Breslin de una cárcel impenetrable.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-  </programme>
-  <programme start="20261106182900 -0500" stop="20261106201600 -0500" air_time_start="20261106182900 -0500" air_time_end="20261106201600 -0500" start_utc="20261106232900 +0000" stop_utc="20261107011600 +0000" air_time_start_utc="20261106232900 +0000" air_time_end_utc="20261107011600 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">Plan de Escape: El Rescate</title>
-    <sub-title lang="es">Escape Plan: The Extractors</sub-title>
-    <desc lang="es">Ryan Breslin y su equipo de expertos deben rescatar a la hija de un magnate y a la novia de Breslin de una cárcel impenetrable.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-  </programme>
-  <programme start="20261106200200 -0500" stop="20261106200600 -0500" air_time_start="20261106200200 -0500" air_time_end="20261106200600 -0500" start_utc="20261107010200 +0000" stop_utc="20261107010600 +0000" air_time_start_utc="20261107010200 +0000" air_time_end_utc="20261107010600 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">INSIDE WARNER: CAT IN THE HAT</title>
-    <episode-num system="xmltv_ns">-1.0.</episode-num>
-  </programme>
-  <programme start="20261106200600 -0500" stop="20261106220000 -0500" air_time_start="20261106200600 -0500" air_time_end="20261106220000 -0500" start_utc="20261107010600 +0000" stop_utc="20261107030000 +0000" air_time_start_utc="20261107010600 +0000" air_time_end_utc="20261107030000 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">¿Qué Pasó Ayer? Parte 2</title>
-    <sub-title lang="es">The Hangover Part 2</sub-title>
-    <desc lang="es">Doug, Phil y Alan viajan a la exótica Tailandia para la boda de Stu. Esta vez deciden hacer una tranquila despedida de soltero, pero despertarán sin recuerdos en un apartamento en Bangkok. ¿Podrán llegar a tiempo a la boda?</desc>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261106201000 -0600" stop="20261106201400 -0600" air_time_start="20261106201000 -0600" air_time_end="20261106201400 -0600" start_utc="20261107021000 +0000" stop_utc="20261107021400 +0000" air_time_start_utc="20261107021000 +0000" air_time_end_utc="20261107021400 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">INSIDE WARNER: CAT IN THE HAT</title>
-    <episode-num system="xmltv_ns">-1.0.</episode-num>
-  </programme>
-  <programme start="20261106201400 -0600" stop="20261106220000 -0600" air_time_start="20261106201400 -0600" air_time_end="20261106220000 -0600" start_utc="20261107021400 +0000" stop_utc="20261107040000 +0000" air_time_start_utc="20261107021400 +0000" air_time_end_utc="20261107040000 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">¿Qué Pasó Ayer? Parte 2</title>
-    <sub-title lang="es">The Hangover Part 2</sub-title>
-    <desc lang="es">Doug, Phil y Alan viajan a la exótica Tailandia para la boda de Stu. Esta vez deciden hacer una tranquila despedida de soltero, pero despertarán sin recuerdos en un apartamento en Bangkok. ¿Podrán llegar a tiempo a la boda?</desc>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261106201600 -0500" stop="20261106202000 -0500" air_time_start="20261106201600 -0500" air_time_end="20261106202000 -0500" start_utc="20261107011600 +0000" stop_utc="20261107012000 +0000" air_time_start_utc="20261107011600 +0000" air_time_end_utc="20261107012000 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">INSIDE WARNER: CAT IN THE HAT</title>
-    <episode-num system="xmltv_ns">-1.0.</episode-num>
-  </programme>
-  <programme start="20261106201700 -0400" stop="20261106220000 -0400" air_time_start="20261106201700 -0400" air_time_end="20261106220000 -0400" start_utc="20261107001700 +0000" stop_utc="20261107020000 +0000" air_time_start_utc="20261107001700 +0000" air_time_end_utc="20261107020000 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">¿Qué Pasó Ayer? Parte 2</title>
-    <sub-title lang="es">The Hangover Part 2</sub-title>
-    <desc lang="es">Doug, Phil y Alan viajan a la exótica Tailandia para la boda de Stu. Esta vez deciden hacer una tranquila despedida de soltero, pero despertarán sin recuerdos en un apartamento en Bangkok. ¿Podrán llegar a tiempo a la boda?</desc>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261106202000 -0500" stop="20261106220000 -0500" air_time_start="20261106202000 -0500" air_time_end="20261106220000 -0500" start_utc="20261107012000 +0000" stop_utc="20261107030000 +0000" air_time_start_utc="20261107012000 +0000" air_time_end_utc="20261107030000 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">¿Qué Pasó Ayer? Parte 2</title>
-    <sub-title lang="es">The Hangover Part 2</sub-title>
-    <desc lang="es">Doug, Phil y Alan viajan a la exótica Tailandia para la boda de Stu. Esta vez deciden hacer una tranquila despedida de soltero, pero despertarán sin recuerdos en un apartamento en Bangkok. ¿Podrán llegar a tiempo a la boda?</desc>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261106202100 -0400" stop="20261106220000 -0400" air_time_start="20261106202100 -0400" air_time_end="20261106220000 -0400" start_utc="20261107002100 +0000" stop_utc="20261107020000 +0000" air_time_start_utc="20261107002100 +0000" air_time_end_utc="20261107020000 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">¿Qué Pasó Ayer? Parte 2</title>
-    <sub-title lang="es">The Hangover Part 2</sub-title>
-    <desc lang="es">Doug, Phil y Alan viajan a la exótica Tailandia para la boda de Stu. Esta vez deciden hacer una tranquila despedida de soltero, pero despertarán sin recuerdos en un apartamento en Bangkok. ¿Podrán llegar a tiempo a la boda?</desc>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261106214700 -0300" stop="20261106220600 -0300" air_time_start="20261106214700 -0300" air_time_end="20261106220600 -0300" start_utc="20261107004700 +0000" stop_utc="20261107010600 +0000" air_time_start_utc="20261107004700 +0000" air_time_end_utc="20261107010600 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE ANYTHING CAN HAPPEN RECURRENCE</sub-title>
-    <desc lang="pt">Quando Sheldon tenta ser espontâneo na "Quinta em que tudo pode acontecer", acaba causando um atrito inesperado entre Penny, Amy e Bernadette.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/gqjU1LjuTzWmQqLp3XCjQ4zhyUX.jpg" />
-  </programme>
-  <programme start="20261106220000 -0300" stop="20261106235400 -0300" air_time_start="20261106220000 -0300" air_time_end="20261106235400 -0300" start_utc="20261107010000 +0000" stop_utc="20261107025400 +0000" air_time_start_utc="20261107010000 +0000" air_time_end_utc="20261107025400 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">Soy Leyenda</title>
-    <sub-title lang="es">I Am Legend</sub-title>
-    <desc lang="es">Último sobreviviente humano de una epidemia provocada por un terrible virus de laboratorio que debería curar el cáncer tres años antes, el científico militar Robert Neville (Will Smith) envía religiosamente mensajes de radio todos los días con la esperanza de encontrar otra criatura de su especie. Pero no está totalmente sólo. Además de la compañía de su perro, está cercado de víctimas mutantes de la plaga, que observan cada paso suyo. Tal vez su única salida sea intentar revertir los efectos del virus utilizando su propia sangre inmune. Pero está en desventaja... y su tiempo se agota.</desc>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261106220000 -0400" stop="20261106235100 -0400" air_time_start="20261106220000 -0400" air_time_end="20261106235100 -0400" start_utc="20261107020000 +0000" stop_utc="20261107035100 +0000" air_time_start_utc="20261107020000 +0000" air_time_end_utc="20261107035100 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">Soy Leyenda</title>
-    <sub-title lang="es">I Am Legend</sub-title>
-    <desc lang="es">Último sobreviviente humano de una epidemia provocada por un terrible virus de laboratorio que debería curar el cáncer tres años antes, el científico militar Robert Neville (Will Smith) envía religiosamente mensajes de radio todos los días con la esperanza de encontrar otra criatura de su especie. Pero no está totalmente sólo. Además de la compañía de su perro, está cercado de víctimas mutantes de la plaga, que observan cada paso suyo. Tal vez su única salida sea intentar revertir los efectos del virus utilizando su propia sangre inmune. Pero está en desventaja... y su tiempo se agota.</desc>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261106220000 -0400" stop="20261106234500 -0400" air_time_start="20261106220000 -0400" air_time_end="20261106234500 -0400" start_utc="20261107020000 +0000" stop_utc="20261107034500 +0000" air_time_start_utc="20261107020000 +0000" air_time_end_utc="20261107034500 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">Soy Leyenda</title>
-    <sub-title lang="es">I Am Legend</sub-title>
-    <desc lang="es">Último sobreviviente humano de una epidemia provocada por un terrible virus de laboratorio que debería curar el cáncer tres años antes, el científico militar Robert Neville (Will Smith) envía religiosamente mensajes de radio todos los días con la esperanza de encontrar otra criatura de su especie. Pero no está totalmente sólo. Además de la compañía de su perro, está cercado de víctimas mutantes de la plaga, que observan cada paso suyo. Tal vez su única salida sea intentar revertir los efectos del virus utilizando su propia sangre inmune. Pero está en desventaja... y su tiempo se agota.</desc>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261106220000 -0500" stop="20261106235900 -0500" air_time_start="20261106220000 -0500" air_time_end="20261106235900 -0500" start_utc="20261107030000 +0000" stop_utc="20261107045900 +0000" air_time_start_utc="20261107030000 +0000" air_time_end_utc="20261107045900 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">Soy Leyenda</title>
-    <sub-title lang="es">I Am Legend</sub-title>
-    <desc lang="es">Último sobreviviente humano de una epidemia provocada por un terrible virus de laboratorio que debería curar el cáncer tres años antes, el científico militar Robert Neville (Will Smith) envía religiosamente mensajes de radio todos los días con la esperanza de encontrar otra criatura de su especie. Pero no está totalmente sólo. Además de la compañía de su perro, está cercado de víctimas mutantes de la plaga, que observan cada paso suyo. Tal vez su única salida sea intentar revertir los efectos del virus utilizando su propia sangre inmune. Pero está en desventaja... y su tiempo se agota.</desc>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261106220000 -0500" stop="20261106235000 -0500" air_time_start="20261106220000 -0500" air_time_end="20261106235000 -0500" start_utc="20261107030000 +0000" stop_utc="20261107045000 +0000" air_time_start_utc="20261107030000 +0000" air_time_end_utc="20261107045000 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">Soy Leyenda</title>
-    <sub-title lang="es">I Am Legend</sub-title>
-    <desc lang="es">Último sobreviviente humano de una epidemia provocada por un terrible virus de laboratorio que debería curar el cáncer tres años antes, el científico militar Robert Neville (Will Smith) envía religiosamente mensajes de radio todos los días con la esperanza de encontrar otra criatura de su especie. Pero no está totalmente sólo. Además de la compañía de su perro, está cercado de víctimas mutantes de la plaga, que observan cada paso suyo. Tal vez su única salida sea intentar revertir los efectos del virus utilizando su propia sangre inmune. Pero está en desventaja... y su tiempo se agota.</desc>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261106220000 -0600" stop="20261106235400 -0600" air_time_start="20261106220000 -0600" air_time_end="20261106235400 -0600" start_utc="20261107040000 +0000" stop_utc="20261107055400 +0000" air_time_start_utc="20261107040000 +0000" air_time_end_utc="20261107055400 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">Soy Leyenda</title>
-    <sub-title lang="es">I Am Legend</sub-title>
-    <desc lang="es">Último sobreviviente humano de una epidemia provocada por un terrible virus de laboratorio que debería curar el cáncer tres años antes, el científico militar Robert Neville (Will Smith) envía religiosamente mensajes de radio todos los días con la esperanza de encontrar otra criatura de su especie. Pero no está totalmente sólo. Además de la compañía de su perro, está cercado de víctimas mutantes de la plaga, que observan cada paso suyo. Tal vez su única salida sea intentar revertir los efectos del virus utilizando su propia sangre inmune. Pero está en desventaja... y su tiempo se agota.</desc>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261106220600 -0300" stop="20261106223000 -0300" air_time_start="20261106220600 -0300" air_time_end="20261106223000 -0300" start_utc="20261107010600 +0000" stop_utc="20261107013000 +0000" air_time_start_utc="20261107010600 +0000" air_time_end_utc="20261107013000 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE PROTON TRANSMOGRIFICATION</sub-title>
-    <desc lang="pt">Professor Proton está de volta no "Dia de Star Wars" para orientar Sheldon. Enquanto isso, Leonard transforma um marco em seu relacionamento em uma competição com Penny.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/mTOX0QJ4S4XJZRTLgNv7ph1H2Cl.jpg" />
-  </programme>
-  <programme start="20261106223000 -0300" stop="20261107001000 -0300" air_time_start="20261106223000 -0300" air_time_end="20261107001000 -0300" start_utc="20261107013000 +0000" stop_utc="20261107031000 +0000" air_time_start_utc="20261107013000 +0000" air_time_end_utc="20261107031000 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">Eu Sou a Lenda</title>
-    <sub-title lang="pt">I Am Legend</sub-title>
-    <desc lang="pt">O último sobrevivente humano de uma epidemia provocada por um terrível vírus de laboratório que deveria curar o câncer três anos antes, o cientista militar Robert Neville (Will Smith) envia religiosamente mensagens de rádio todos os dias na esperança de encontrar outra criatura da sua espécie. Mas ele não está totalmente sozinho. Além da companhia de seu cão, está cercado de vítimas mutantes da praga, que observam cada passo seu. Talvez sua única saída seja tentar reverter os efeitos do vírus utilizando seu próprio sangue imune. Mas ele está em desvantagem... e seu tempo está se esgotando.</desc>
-    <category lang="pt">Ficção Científica</category>
-    <category lang="pt">Drama</category>
-    <category lang="pt">Suspense</category>
-  </programme>
-  <programme start="20261106234500 -0400" stop="20261107000700 -0400" air_time_start="20261106234500 -0400" air_time_end="20261107000700 -0400" start_utc="20261107034500 +0000" stop_utc="20261107040700 +0000" air_time_start_utc="20261107034500 +0000" air_time_end_utc="20261107040700 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE FRIENDSHIP TURBULENCE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/A7ciWxOm5ysb5xI8gspY4Q96OJH.jpg" />
-  </programme>
-  <programme start="20261106235000 -0500" stop="20261107001100 -0500" air_time_start="20261106235000 -0500" air_time_end="20261107001100 -0500" start_utc="20261107045000 +0000" stop_utc="20261107051100 +0000" air_time_start_utc="20261107045000 +0000" air_time_end_utc="20261107051100 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE FRIENDSHIP TURBULENCE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/A7ciWxOm5ysb5xI8gspY4Q96OJH.jpg" />
-  </programme>
-  <programme start="20261106235100 -0400" stop="20261107001300 -0400" air_time_start="20261106235100 -0400" air_time_end="20261107001300 -0400" start_utc="20261107035100 +0000" stop_utc="20261107041300 +0000" air_time_start_utc="20261107035100 +0000" air_time_end_utc="20261107041300 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE FRIENDSHIP TURBULENCE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/A7ciWxOm5ysb5xI8gspY4Q96OJH.jpg" />
-  </programme>
-  <programme start="20261106235400 -0300" stop="20261107001700 -0300" air_time_start="20261106235400 -0300" air_time_end="20261107001700 -0300" start_utc="20261107025400 +0000" stop_utc="20261107031700 +0000" air_time_start_utc="20261107025400 +0000" air_time_end_utc="20261107031700 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE FRIENDSHIP TURBULENCE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/A7ciWxOm5ysb5xI8gspY4Q96OJH.jpg" />
-  </programme>
-  <programme start="20261106235400 -0600" stop="20261107001700 -0600" air_time_start="20261106235400 -0600" air_time_end="20261107001700 -0600" start_utc="20261107055400 +0000" stop_utc="20261107061700 +0000" air_time_start_utc="20261107055400 +0000" air_time_end_utc="20261107061700 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE FRIENDSHIP TURBULENCE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/A7ciWxOm5ysb5xI8gspY4Q96OJH.jpg" />
-  </programme>
-  <programme start="20261106235900 -0500" stop="20261107002400 -0500" air_time_start="20261106235900 -0500" air_time_end="20261107002400 -0500" start_utc="20261107045900 +0000" stop_utc="20261107052400 +0000" air_time_start_utc="20261107045900 +0000" air_time_end_utc="20261107052400 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE FRIENDSHIP TURBULENCE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/A7ciWxOm5ysb5xI8gspY4Q96OJH.jpg" />
-  </programme>
-  <programme start="20261107000700 -0400" stop="20261107003100 -0400" air_time_start="20261107000700 -0400" air_time_end="20261107003100 -0400" start_utc="20261107040700 +0000" stop_utc="20261107043100 +0000" air_time_start_utc="20261107040700 +0000" air_time_end_utc="20261107043100 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE MOMMY OBSERVATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/xOlmMD8mkSYcZjGDibQ0sglYLl4.jpg" />
-  </programme>
-  <programme start="20261107001000 -0300" stop="20261107003400 -0300" air_time_start="20261107001000 -0300" air_time_end="20261107003400 -0300" start_utc="20261107031000 +0000" stop_utc="20261107033400 +0000" air_time_start_utc="20261107031000 +0000" air_time_end_utc="20261107033400 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">PUTTING SWIM FINS ON A CAT</sub-title>
-    <desc lang="pt">Charlie precisa encontrar urgente uma maneira criativa para entreter o filho de 4 anos da sua namorada (Ming Wen). Enquanto isso, Alan se transforma em um Coelhinho-da-Índia tamanho natural.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/b7LJcie8Rvv1mDYmJJbvo87PEM9.jpg" />
-  </programme>
-  <programme start="20261107001100 -0500" stop="20261107003400 -0500" air_time_start="20261107001100 -0500" air_time_end="20261107003400 -0500" start_utc="20261107051100 +0000" stop_utc="20261107053400 +0000" air_time_start_utc="20261107051100 +0000" air_time_end_utc="20261107053400 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE MOMMY OBSERVATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/xOlmMD8mkSYcZjGDibQ0sglYLl4.jpg" />
-  </programme>
-  <programme start="20261107001300 -0400" stop="20261107003700 -0400" air_time_start="20261107001300 -0400" air_time_end="20261107003700 -0400" start_utc="20261107041300 +0000" stop_utc="20261107043700 +0000" air_time_start_utc="20261107041300 +0000" air_time_end_utc="20261107043700 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE MOMMY OBSERVATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/xOlmMD8mkSYcZjGDibQ0sglYLl4.jpg" />
-  </programme>
-  <programme start="20261107001700 -0300" stop="20261107004200 -0300" air_time_start="20261107001700 -0300" air_time_end="20261107004200 -0300" start_utc="20261107031700 +0000" stop_utc="20261107034200 +0000" air_time_start_utc="20261107031700 +0000" air_time_end_utc="20261107034200 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE MOMMY OBSERVATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/xOlmMD8mkSYcZjGDibQ0sglYLl4.jpg" />
-  </programme>
-  <programme start="20261107001700 -0600" stop="20261107004100 -0600" air_time_start="20261107001700 -0600" air_time_end="20261107004100 -0600" start_utc="20261107061700 +0000" stop_utc="20261107064100 +0000" air_time_start_utc="20261107061700 +0000" air_time_end_utc="20261107064100 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE MOMMY OBSERVATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/xOlmMD8mkSYcZjGDibQ0sglYLl4.jpg" />
-  </programme>
-  <programme start="20261107002400 -0500" stop="20261107005100 -0500" air_time_start="20261107002400 -0500" air_time_end="20261107005100 -0500" start_utc="20261107052400 +0000" stop_utc="20261107055100 +0000" air_time_start_utc="20261107052400 +0000" air_time_end_utc="20261107055100 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE MOMMY OBSERVATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/xOlmMD8mkSYcZjGDibQ0sglYLl4.jpg" />
-  </programme>
-  <programme start="20261107003100 -0400" stop="20261107005200 -0400" air_time_start="20261107003100 -0400" air_time_end="20261107005200 -0400" start_utc="20261107043100 +0000" stop_utc="20261107045200 +0000" air_time_start_utc="20261107043100 +0000" air_time_end_utc="20261107045200 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE INDECISION AMALGAMATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/xQ2Sa0JlkjR7QMnxGZkNQxjz8PI.jpg" />
-  </programme>
-  <programme start="20261107003400 -0300" stop="20261107005700 -0300" air_time_start="20261107003400 -0300" air_time_end="20261107005700 -0300" start_utc="20261107033400 +0000" stop_utc="20261107035700 +0000" air_time_start_utc="20261107033400 +0000" air_time_end_utc="20261107035700 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">HELP DADDY FIND HIS TOENAIL</sub-title>
-    <desc lang="pt">Linda (Ming Wen), a namorada de Charlie, tem vergonha de que alguém a veja em público com ele. Por outro lado, muito apesar das proibições de seu pai, Jake foge da sua casa para assistir a um concerto.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/xJV3TstZQmcqtfQIsiljCnZMb5G.jpg" />
-  </programme>
-  <programme start="20261107003400 -0500" stop="20261107005600 -0500" air_time_start="20261107003400 -0500" air_time_end="20261107005600 -0500" start_utc="20261107053400 +0000" stop_utc="20261107055600 +0000" air_time_start_utc="20261107053400 +0000" air_time_end_utc="20261107055600 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE INDECISION AMALGAMATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/xQ2Sa0JlkjR7QMnxGZkNQxjz8PI.jpg" />
-  </programme>
-  <programme start="20261107003700 -0400" stop="20261107005900 -0400" air_time_start="20261107003700 -0400" air_time_end="20261107005900 -0400" start_utc="20261107043700 +0000" stop_utc="20261107045900 +0000" air_time_start_utc="20261107043700 +0000" air_time_end_utc="20261107045900 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE INDECISION AMALGAMATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/xQ2Sa0JlkjR7QMnxGZkNQxjz8PI.jpg" />
-  </programme>
-  <programme start="20261107004100 -0600" stop="20261107010200 -0600" air_time_start="20261107004100 -0600" air_time_end="20261107010200 -0600" start_utc="20261107064100 +0000" stop_utc="20261107070200 +0000" air_time_start_utc="20261107064100 +0000" air_time_end_utc="20261107070200 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE INDECISION AMALGAMATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/xQ2Sa0JlkjR7QMnxGZkNQxjz8PI.jpg" />
-  </programme>
-  <programme start="20261107004200 -0300" stop="20261107010400 -0300" air_time_start="20261107004200 -0300" air_time_end="20261107010400 -0300" start_utc="20261107034200 +0000" stop_utc="20261107040400 +0000" air_time_start_utc="20261107034200 +0000" air_time_end_utc="20261107040400 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE INDECISION AMALGAMATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/xQ2Sa0JlkjR7QMnxGZkNQxjz8PI.jpg" />
-  </programme>
-  <programme start="20261107005100 -0500" stop="20261107011500 -0500" air_time_start="20261107005100 -0500" air_time_end="20261107011500 -0500" start_utc="20261107055100 +0000" stop_utc="20261107061500 +0000" air_time_start_utc="20261107055100 +0000" air_time_end_utc="20261107061500 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE INDECISION AMALGAMATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/xQ2Sa0JlkjR7QMnxGZkNQxjz8PI.jpg" />
-  </programme>
-  <programme start="20261107005200 -0400" stop="20261107011500 -0400" air_time_start="20261107005200 -0400" air_time_end="20261107011500 -0400" start_utc="20261107045200 +0000" stop_utc="20261107051500 +0000" air_time_start_utc="20261107045200 +0000" air_time_end_utc="20261107051500 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE RELATIONSHIP DIREMPTION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/wufZnQDjcK86JqSAcnR1Xowv2KU.jpg" />
-  </programme>
-  <programme start="20261107005600 -0500" stop="20261107011900 -0500" air_time_start="20261107005600 -0500" air_time_end="20261107011900 -0500" start_utc="20261107055600 +0000" stop_utc="20261107061900 +0000" air_time_start_utc="20261107055600 +0000" air_time_end_utc="20261107061900 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE RELATIONSHIP DIREMPTION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/wufZnQDjcK86JqSAcnR1Xowv2KU.jpg" />
-  </programme>
-  <programme start="20261107005700 -0300" stop="20261107011900 -0300" air_time_start="20261107005700 -0300" air_time_end="20261107011900 -0300" start_utc="20261107035700 +0000" stop_utc="20261107041900 +0000" air_time_start_utc="20261107035700 +0000" air_time_end_utc="20261107041900 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">OUR LEATHER GEAR IS IN THE GUEST ROOM</sub-title>
-    <desc lang="pt">Charlie e Alan discutem a respeito de qual é a posição de Alan dentro da casa, por isso Alan e Jake precisam se mudar apressadamente para a casa de Evelyn. O ator Robert Wagner aparece neste capítulo como Teddy, o namorado de Evelyn.</desc>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20261107005900 -0400" stop="20261107012200 -0400" air_time_start="20261107005900 -0400" air_time_end="20261107012200 -0400" start_utc="20261107045900 +0000" stop_utc="20261107052200 +0000" air_time_start_utc="20261107045900 +0000" air_time_end_utc="20261107052200 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE RELATIONSHIP DIREMPTION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/wufZnQDjcK86JqSAcnR1Xowv2KU.jpg" />
-  </programme>
-  <programme start="20261107010200 -0600" stop="20261107012500 -0600" air_time_start="20261107010200 -0600" air_time_end="20261107012500 -0600" start_utc="20261107070200 +0000" stop_utc="20261107072500 +0000" air_time_start_utc="20261107070200 +0000" air_time_end_utc="20261107072500 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE RELATIONSHIP DIREMPTION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/wufZnQDjcK86JqSAcnR1Xowv2KU.jpg" />
-  </programme>
-  <programme start="20261107010400 -0300" stop="20261107012900 -0300" air_time_start="20261107010400 -0300" air_time_end="20261107012900 -0300" start_utc="20261107040400 +0000" stop_utc="20261107042900 +0000" air_time_start_utc="20261107040400 +0000" air_time_end_utc="20261107042900 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE RELATIONSHIP DIREMPTION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/wufZnQDjcK86JqSAcnR1Xowv2KU.jpg" />
-  </programme>
-  <programme start="20261107011500 -0400" stop="20261107013500 -0400" air_time_start="20261107011500 -0400" air_time_end="20261107013500 -0400" start_utc="20261107051500 +0000" stop_utc="20261107053500 +0000" air_time_start_utc="20261107051500 +0000" air_time_end_utc="20261107053500 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE ANYTHING CAN HAPPEN RECURRENCE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/gqjU1LjuTzWmQqLp3XCjQ4zhyUX.jpg" />
-  </programme>
-  <programme start="20261107011500 -0500" stop="20261107013900 -0500" air_time_start="20261107011500 -0500" air_time_end="20261107013900 -0500" start_utc="20261107061500 +0000" stop_utc="20261107063900 +0000" air_time_start_utc="20261107061500 +0000" air_time_end_utc="20261107063900 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE RELATIONSHIP DIREMPTION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/wufZnQDjcK86JqSAcnR1Xowv2KU.jpg" />
-  </programme>
-  <programme start="20261107011900 -0300" stop="20261107014000 -0300" air_time_start="20261107011900 -0300" air_time_end="20261107014000 -0300" start_utc="20261107041900 +0000" stop_utc="20261107044000 +0000" air_time_start_utc="20261107041900 +0000" air_time_end_utc="20261107044000 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">IS THERE A MRS. WAFFLES?</sub-title>
-    <desc lang="pt">Charlie alcança o sucesso como cantor de músicas infantis, o que faz com que Alan se sinta bastante pobre. O ator convidado Richard Kind ('Spin City') aparece neste episódio no papel de Artie, um alto executivo da gravadora em que Charlie trabalha.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/skrfdswGIsDIwL18nMhVk0koAuq.jpg" />
-  </programme>
-  <programme start="20261107011900 -0500" stop="20261107013900 -0500" air_time_start="20261107011900 -0500" air_time_end="20261107013900 -0500" start_utc="20261107061900 +0000" stop_utc="20261107063900 +0000" air_time_start_utc="20261107061900 +0000" air_time_end_utc="20261107063900 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE ANYTHING CAN HAPPEN RECURRENCE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/gqjU1LjuTzWmQqLp3XCjQ4zhyUX.jpg" />
-  </programme>
-  <programme start="20261107012200 -0400" stop="20261107014400 -0400" air_time_start="20261107012200 -0400" air_time_end="20261107014400 -0400" start_utc="20261107052200 +0000" stop_utc="20261107054400 +0000" air_time_start_utc="20261107052200 +0000" air_time_end_utc="20261107054400 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE ANYTHING CAN HAPPEN RECURRENCE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/gqjU1LjuTzWmQqLp3XCjQ4zhyUX.jpg" />
-  </programme>
   <programme start="20261107012500 -0600" stop="20261107014600 -0600" air_time_start="20261107012500 -0600" air_time_end="20261107014600 -0600" start_utc="20261107072500 +0000" stop_utc="20261107074600 +0000" air_time_start_utc="20261107072500 +0000" air_time_end_utc="20261107074600 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">THE ANYTHING CAN HAPPEN RECURRENCE</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/gqjU1LjuTzWmQqLp3XCjQ4zhyUX.jpg" />
-  </programme>
-  <programme start="20261107012900 -0300" stop="20261107015200 -0300" air_time_start="20261107012900 -0300" air_time_end="20261107015200 -0300" start_utc="20261107042900 +0000" stop_utc="20261107045200 +0000" air_time_start_utc="20261107042900 +0000" air_time_end_utc="20261107045200 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE ANYTHING CAN HAPPEN RECURRENCE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/gqjU1LjuTzWmQqLp3XCjQ4zhyUX.jpg" />
-  </programme>
-  <programme start="20261107013500 -0400" stop="20261107015800 -0400" air_time_start="20261107013500 -0400" air_time_end="20261107015800 -0400" start_utc="20261107053500 +0000" stop_utc="20261107055800 +0000" air_time_start_utc="20261107053500 +0000" air_time_end_utc="20261107055800 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE PROTON TRANSMOGRIFICATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/mTOX0QJ4S4XJZRTLgNv7ph1H2Cl.jpg" />
-  </programme>
-  <programme start="20261107013900 -0500" stop="20261107020200 -0500" air_time_start="20261107013900 -0500" air_time_end="20261107020200 -0500" start_utc="20261107063900 +0000" stop_utc="20261107070200 +0000" air_time_start_utc="20261107063900 +0000" air_time_end_utc="20261107070200 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE ANYTHING CAN HAPPEN RECURRENCE</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/gqjU1LjuTzWmQqLp3XCjQ4zhyUX.jpg" />
-  </programme>
-  <programme start="20261107013900 -0500" stop="20261107020300 -0500" air_time_start="20261107013900 -0500" air_time_end="20261107020300 -0500" start_utc="20261107063900 +0000" stop_utc="20261107070300 +0000" air_time_start_utc="20261107063900 +0000" air_time_end_utc="20261107070300 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE PROTON TRANSMOGRIFICATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/mTOX0QJ4S4XJZRTLgNv7ph1H2Cl.jpg" />
-  </programme>
-  <programme start="20261107014000 -0300" stop="20261107020100 -0300" air_time_start="20261107014000 -0300" air_time_end="20261107020100 -0300" start_utc="20261107044000 +0000" stop_utc="20261107050100 +0000" air_time_start_utc="20261107044000 +0000" air_time_end_utc="20261107050100 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">TIGHT'S GOOD</sub-title>
-    <desc lang="pt">Charlie luta contra a atração que sente por Courtney (Atriz convidada Jenny McCarthy - 'Todo Mundo em Pânico 3', 'Dirty Love' 'Dando o Troco'), a filha de Teddy, depois de Evelyn e Teddy (ator recorrente Robert Wagner - 'Casal 20', 'Austin Powers: O Agente Bond Cama') anunciarem que estão noivos; muito em breve Courtney será sua meia-irmã.</desc>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20261107014400 -0400" stop="20261107020800 -0400" air_time_start="20261107014400 -0400" air_time_end="20261107020800 -0400" start_utc="20261107054400 +0000" stop_utc="20261107060800 +0000" air_time_start_utc="20261107054400 +0000" air_time_end_utc="20261107060800 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE PROTON TRANSMOGRIFICATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/mTOX0QJ4S4XJZRTLgNv7ph1H2Cl.jpg" />
   </programme>
   <programme start="20261107014600 -0600" stop="20261107020900 -0600" air_time_start="20261107014600 -0600" air_time_end="20261107020900 -0600" start_utc="20261107074600 +0000" stop_utc="20261107080900 +0000" air_time_start_utc="20261107074600 +0000" air_time_end_utc="20261107080900 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
@@ -425,75 +35,12 @@
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/mTOX0QJ4S4XJZRTLgNv7ph1H2Cl.jpg" />
   </programme>
-  <programme start="20261107015200 -0300" stop="20261107021500 -0300" air_time_start="20261107015200 -0300" air_time_end="20261107021500 -0300" start_utc="20261107045200 +0000" stop_utc="20261107051500 +0000" air_time_start_utc="20261107045200 +0000" air_time_end_utc="20261107051500 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE PROTON TRANSMOGRIFICATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/mTOX0QJ4S4XJZRTLgNv7ph1H2Cl.jpg" />
-  </programme>
-  <programme start="20261107015800 -0400" stop="20261107022200 -0400" air_time_start="20261107015800 -0400" air_time_end="20261107022200 -0400" start_utc="20261107055800 +0000" stop_utc="20261107062200 +0000" air_time_start_utc="20261107055800 +0000" air_time_end_utc="20261107062200 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">PUTTING SWIM FINS ON A CAT</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/b7LJcie8Rvv1mDYmJJbvo87PEM9.jpg" />
-  </programme>
-  <programme start="20261107020100 -0300" stop="20261107022400 -0300" air_time_start="20261107020100 -0300" air_time_end="20261107022400 -0300" start_utc="20261107050100 +0000" stop_utc="20261107052400 +0000" air_time_start_utc="20261107050100 +0000" air_time_end_utc="20261107052400 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">KINDA LIKE NECROPHILIA</sub-title>
-    <desc lang="pt">Enquanto tenta consolar Jake por sua dor-de-cotovelo, Alan descobre que quem roubou sua namorada na escola foi Charlie. Agora Alan se vingará utilizando-se de um conselho que Charlie deu a Jake.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/PSknSoGZ63r6XjQuhOredDvlYf.jpg" />
-  </programme>
-  <programme start="20261107020200 -0500" stop="20261107022400 -0500" air_time_start="20261107020200 -0500" air_time_end="20261107022400 -0500" start_utc="20261107070200 +0000" stop_utc="20261107072400 +0000" air_time_start_utc="20261107070200 +0000" air_time_end_utc="20261107072400 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE PROTON TRANSMOGRIFICATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/mTOX0QJ4S4XJZRTLgNv7ph1H2Cl.jpg" />
-  </programme>
-  <programme start="20261107020300 -0500" stop="20261107022600 -0500" air_time_start="20261107020300 -0500" air_time_end="20261107022600 -0500" start_utc="20261107070300 +0000" stop_utc="20261107072600 +0000" air_time_start_utc="20261107070300 +0000" air_time_end_utc="20261107072600 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">PUTTING SWIM FINS ON A CAT</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/b7LJcie8Rvv1mDYmJJbvo87PEM9.jpg" />
-  </programme>
-  <programme start="20261107020800 -0400" stop="20261107023100 -0400" air_time_start="20261107020800 -0400" air_time_end="20261107023100 -0400" start_utc="20261107060800 +0000" stop_utc="20261107063100 +0000" air_time_start_utc="20261107060800 +0000" air_time_end_utc="20261107063100 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">PUTTING SWIM FINS ON A CAT</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/b7LJcie8Rvv1mDYmJJbvo87PEM9.jpg" />
-  </programme>
   <programme start="20261107020900 -0600" stop="20261107023300 -0600" air_time_start="20261107020900 -0600" air_time_end="20261107023300 -0600" start_utc="20261107080900 +0000" stop_utc="20261107083300 +0000" air_time_start_utc="20261107080900 +0000" air_time_end_utc="20261107083300 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
     <sub-title lang="es">PUTTING SWIM FINS ON A CAT</sub-title>
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/b7LJcie8Rvv1mDYmJJbvo87PEM9.jpg" />
-  </programme>
-  <programme start="20261107021500 -0300" stop="20261107023800 -0300" air_time_start="20261107021500 -0300" air_time_end="20261107023800 -0300" start_utc="20261107051500 +0000" stop_utc="20261107053800 +0000" air_time_start_utc="20261107051500 +0000" air_time_end_utc="20261107053800 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">PUTTING SWIM FINS ON A CAT</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/b7LJcie8Rvv1mDYmJJbvo87PEM9.jpg" />
-  </programme>
-  <programme start="20261107022200 -0400" stop="20261107024400 -0400" air_time_start="20261107022200 -0400" air_time_end="20261107024400 -0400" start_utc="20261107062200 +0000" stop_utc="20261107064400 +0000" air_time_start_utc="20261107062200 +0000" air_time_end_utc="20261107064400 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">HELP DADDY FIND HIS TOENAIL</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/xJV3TstZQmcqtfQIsiljCnZMb5G.jpg" />
-  </programme>
-  <programme start="20261107022400 -0300" stop="20261107024400 -0300" air_time_start="20261107022400 -0300" air_time_end="20261107024400 -0300" start_utc="20261107052400 +0000" stop_utc="20261107054400 +0000" air_time_start_utc="20261107052400 +0000" air_time_end_utc="20261107054400 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE FRIENDSHIP TURBULENCE</sub-title>
-    <desc lang="pt">Howard convida Sheldon para ir a Houston com ele em uma tentativa de estreitar os laços. Enquanto isso, Penny recebe um papel embaraçoso e Raj pede a Amy para ajudá-lo com uma menina.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/A7ciWxOm5ysb5xI8gspY4Q96OJH.jpg" />
   </programme>
   <programme start="20261107022400 -0500" stop="20261107024800 -0500" air_time_start="20261107022400 -0500" air_time_end="20261107024800 -0500" start_utc="20261107072400 +0000" stop_utc="20261107074800 +0000" air_time_start_utc="20261107072400 +0000" air_time_end_utc="20261107074800 +0000" is_live="false" channel="WARNER_CO.co">
     <title lang="es">TWO AND A HALF MEN</title>
@@ -509,39 +56,12 @@
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/xJV3TstZQmcqtfQIsiljCnZMb5G.jpg" />
   </programme>
-  <programme start="20261107023100 -0400" stop="20261107025400 -0400" air_time_start="20261107023100 -0400" air_time_end="20261107025400 -0400" start_utc="20261107063100 +0000" stop_utc="20261107065400 +0000" air_time_start_utc="20261107063100 +0000" air_time_end_utc="20261107065400 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">HELP DADDY FIND HIS TOENAIL</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/xJV3TstZQmcqtfQIsiljCnZMb5G.jpg" />
-  </programme>
   <programme start="20261107023300 -0600" stop="20261107025500 -0600" air_time_start="20261107023300 -0600" air_time_end="20261107025500 -0600" start_utc="20261107083300 +0000" stop_utc="20261107085500 +0000" air_time_start_utc="20261107083300 +0000" air_time_end_utc="20261107085500 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
     <sub-title lang="es">HELP DADDY FIND HIS TOENAIL</sub-title>
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/xJV3TstZQmcqtfQIsiljCnZMb5G.jpg" />
-  </programme>
-  <programme start="20261107023800 -0300" stop="20261107030100 -0300" air_time_start="20261107023800 -0300" air_time_end="20261107030100 -0300" start_utc="20261107053800 +0000" stop_utc="20261107060100 +0000" air_time_start_utc="20261107053800 +0000" air_time_end_utc="20261107060100 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">HELP DADDY FIND HIS TOENAIL</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/xJV3TstZQmcqtfQIsiljCnZMb5G.jpg" />
-  </programme>
-  <programme start="20261107024400 -0300" stop="20261107030400 -0300" air_time_start="20261107024400 -0300" air_time_end="20261107030400 -0300" start_utc="20261107054400 +0000" stop_utc="20261107060400 +0000" air_time_start_utc="20261107054400 +0000" air_time_end_utc="20261107060400 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE MOMMY OBSERVATION</sub-title>
-    <desc lang="pt">Sheldon fica surpreso ao visitar sua mãe em Houston. Enquanto isso, a festa "Mistério do Assassinato" de Raj provoca tensão entre a gangue.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/xOlmMD8mkSYcZjGDibQ0sglYLl4.jpg" />
-  </programme>
-  <programme start="20261107024400 -0400" stop="20261107030700 -0400" air_time_start="20261107024400 -0400" air_time_end="20261107030700 -0400" start_utc="20261107064400 +0000" stop_utc="20261107070700 +0000" air_time_start_utc="20261107064400 +0000" air_time_end_utc="20261107070700 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">OUR LEATHER GEAR IS IN THE GUEST ROOM</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-    <category lang="es">Comedia</category>
   </programme>
   <programme start="20261107024800 -0500" stop="20261107031100 -0500" air_time_start="20261107024800 -0500" air_time_end="20261107031100 -0500" start_utc="20261107074800 +0000" stop_utc="20261107081100 +0000" air_time_start_utc="20261107074800 +0000" air_time_end_utc="20261107081100 +0000" is_live="false" channel="WARNER_CO.co">
     <title lang="es">TWO AND A HALF MEN</title>
@@ -556,37 +76,11 @@
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20261107025400 -0400" stop="20261107031700 -0400" air_time_start="20261107025400 -0400" air_time_end="20261107031700 -0400" start_utc="20261107065400 +0000" stop_utc="20261107071700 +0000" air_time_start_utc="20261107065400 +0000" air_time_end_utc="20261107071700 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">OUR LEATHER GEAR IS IN THE GUEST ROOM</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-    <category lang="es">Comedia</category>
-  </programme>
   <programme start="20261107025500 -0600" stop="20261107031800 -0600" air_time_start="20261107025500 -0600" air_time_end="20261107031800 -0600" start_utc="20261107085500 +0000" stop_utc="20261107091800 +0000" air_time_start_utc="20261107085500 +0000" air_time_end_utc="20261107091800 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
     <sub-title lang="es">OUR LEATHER GEAR IS IN THE GUEST ROOM</sub-title>
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
     <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261107030100 -0300" stop="20261107032300 -0300" air_time_start="20261107030100 -0300" air_time_end="20261107032300 -0300" start_utc="20261107060100 +0000" stop_utc="20261107062300 +0000" air_time_start_utc="20261107060100 +0000" air_time_end_utc="20261107062300 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">OUR LEATHER GEAR IS IN THE GUEST ROOM</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261107030400 -0300" stop="20261107032500 -0300" air_time_start="20261107030400 -0300" air_time_end="20261107032500 -0300" start_utc="20261107060400 +0000" stop_utc="20261107062500 +0000" air_time_start_utc="20261107060400 +0000" air_time_end_utc="20261107062500 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE INDECISION AMALGAMATION</sub-title>
-    <desc lang="pt">Enquanto Penny e Raj encaram difíceis decisões de vida, Amy ajuda Sheldon na missão ainda mais complexa de escolher um novo videogame.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/xQ2Sa0JlkjR7QMnxGZkNQxjz8PI.jpg" />
-  </programme>
-  <programme start="20261107030700 -0400" stop="20261107032800 -0400" air_time_start="20261107030700 -0400" air_time_end="20261107032800 -0400" start_utc="20261107070700 +0000" stop_utc="20261107072800 +0000" air_time_start_utc="20261107070700 +0000" air_time_end_utc="20261107072800 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">IS THERE A MRS. WAFFLES?</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/skrfdswGIsDIwL18nMhVk0koAuq.jpg" />
   </programme>
   <programme start="20261107031100 -0500" stop="20261107033300 -0500" air_time_start="20261107031100 -0500" air_time_end="20261107033300 -0500" start_utc="20261107081100 +0000" stop_utc="20261107083300 +0000" air_time_start_utc="20261107081100 +0000" air_time_end_utc="20261107083300 +0000" is_live="false" channel="WARNER_CO.co">
     <title lang="es">TWO AND A HALF MEN</title>
@@ -614,20 +108,6 @@
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/skrfdswGIsDIwL18nMhVk0koAuq.jpg" />
-  </programme>
-  <programme start="20261107032300 -0300" stop="20261107034500 -0300" air_time_start="20261107032300 -0300" air_time_end="20261107034500 -0300" start_utc="20261107062300 +0000" stop_utc="20261107064500 +0000" air_time_start_utc="20261107062300 +0000" air_time_end_utc="20261107064500 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">IS THERE A MRS. WAFFLES?</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/skrfdswGIsDIwL18nMhVk0koAuq.jpg" />
-  </programme>
-  <programme start="20261107032500 -0300" stop="20261107034700 -0300" air_time_start="20261107032500 -0300" air_time_end="20261107034700 -0300" start_utc="20261107062500 +0000" stop_utc="20261107064700 +0000" air_time_start_utc="20261107062500 +0000" air_time_end_utc="20261107064700 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE RELATIONSHIP DIREMPTION</sub-title>
-    <desc lang="pt">Penny ajuda Sheldon a se recuperar quando ele "rompe" com a Teoria das Cordas. Enquanto isso, Howard e Bernadette saem com Raj e Emily.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/wufZnQDjcK86JqSAcnR1Xowv2KU.jpg" />
   </programme>
   <programme start="20261107032800 -0400" stop="20261107035100 -0400" air_time_start="20261107032800 -0400" air_time_end="20261107035100 -0400" start_utc="20261107072800 +0000" stop_utc="20261107075100 +0000" air_time_start_utc="20261107072800 +0000" air_time_end_utc="20261107075100 +0000" is_live="false" channel="WARNER_VE.ve">
     <title lang="es">TWO AND A HALF MEN</title>
@@ -660,19 +140,6 @@
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20261107034500 -0300" stop="20261107040700 -0300" air_time_start="20261107034500 -0300" air_time_end="20261107040700 -0300" start_utc="20261107064500 +0000" stop_utc="20261107070700 +0000" air_time_start_utc="20261107064500 +0000" air_time_end_utc="20261107070700 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">TIGHT'S GOOD</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261107034700 -0300" stop="20261107040500 -0300" air_time_start="20261107034700 -0300" air_time_end="20261107040500 -0300" start_utc="20261107064700 +0000" stop_utc="20261107070500 +0000" air_time_start_utc="20261107064700 +0000" air_time_end_utc="20261107070500 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE ANYTHING CAN HAPPEN RECURRENCE</sub-title>
-    <desc lang="pt">Quando Sheldon tenta ser espontâneo na "Quinta em que tudo pode acontecer", acaba causando um atrito inesperado entre Penny, Amy e Bernadette.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/gqjU1LjuTzWmQqLp3XCjQ4zhyUX.jpg" />
-  </programme>
   <programme start="20261107035100 -0400" stop="20261107041400 -0400" air_time_start="20261107035100 -0400" air_time_end="20261107041400 -0400" start_utc="20261107075100 +0000" stop_utc="20261107081400 +0000" air_time_start_utc="20261107075100 +0000" air_time_end_utc="20261107081400 +0000" is_live="false" channel="WARNER_VE.ve">
     <title lang="es">TWO AND A HALF MEN</title>
     <sub-title lang="es">KINDA LIKE NECROPHILIA</sub-title>
@@ -701,20 +168,6 @@
     <icon src="https://media.themoviedb.org/t/p/w500/PSknSoGZ63r6XjQuhOredDvlYf.jpg" />
   </programme>
   <programme start="20261107040200 -0600" stop="20261107042500 -0600" air_time_start="20261107040200 -0600" air_time_end="20261107042500 -0600" start_utc="20261107100200 +0000" stop_utc="20261107102500 +0000" air_time_start_utc="20261107100200 +0000" air_time_end_utc="20261107102500 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">KINDA LIKE NECROPHILIA</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/PSknSoGZ63r6XjQuhOredDvlYf.jpg" />
-  </programme>
-  <programme start="20261107040500 -0300" stop="20261107042700 -0300" air_time_start="20261107040500 -0300" air_time_end="20261107042700 -0300" start_utc="20261107070500 +0000" stop_utc="20261107072700 +0000" air_time_start_utc="20261107070500 +0000" air_time_end_utc="20261107072700 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE PROTON TRANSMOGRIFICATION</sub-title>
-    <desc lang="pt">Professor Proton está de volta no "Dia de Star Wars" para orientar Sheldon. Enquanto isso, Leonard transforma um marco em seu relacionamento em uma competição com Penny.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/mTOX0QJ4S4XJZRTLgNv7ph1H2Cl.jpg" />
-  </programme>
-  <programme start="20261107040700 -0300" stop="20261107043100 -0300" air_time_start="20261107040700 -0300" air_time_end="20261107043100 -0300" start_utc="20261107070700 +0000" stop_utc="20261107073100 +0000" air_time_start_utc="20261107070700 +0000" air_time_end_utc="20261107073100 +0000" is_live="false" channel="WARNER_AR.ar">
     <title lang="es">TWO AND A HALF MEN</title>
     <sub-title lang="es">KINDA LIKE NECROPHILIA</sub-title>
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
