@@ -273,20 +273,9 @@ NETWORKS_CONFIG = {
             {"feed_id": "CTOOLA_BR", "channel_id": "CTOO_BR.br", "channel_name": "Cartoonito Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"},
         ]
     },
-    "DKLA_EPG.xml": {
-        "generator_name": "Guia de Programacion Discovery Kids MultiFeed",
-        "referer": "https://epg.tapkit.warnermedia.com/epg/networks/47",
-        "type": "daily",
-        "feeds": [
-            {"feed_id": "DKLA_PAN", "file_id": "10587908", "channel_id": "DKLA_PAN.co", "channel_name": "Discovery Kids Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
-            {"feed_id": "DKLA_CAR", "file_id": "10587948", "channel_id": "DKLA_CAR.co", "channel_name": "Discovery Kids Caribe", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
-            {"feed_id": "DKLA_MX", "file_id": "10587962", "channel_id": "DKLA_MX.mx", "channel_name": "Discovery Kids Mexico", "lang": "es", "tz": timezone(timedelta(hours=-6)), "tz_str": "-0600"},
-            {"feed_id": "DKLA_BR", "file_id": "10587870", "channel_id": "DKLA_BR.br", "channel_name": "Discovery Kids Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"}
-        ]
-    },
     "WARNERLA_EPG.xml": {
         "generator_name": "Guia de Programacion Warner Channel MultiFeed",
-        "referer": "https://epg.tapkit.warnermedia.com/epg/networks/warner",
+        "referer": "https://epg.tapkit.warnermedia.com/api/networks/warner",
         "type": "daily",
         "feeds": [
             {"feed_id": "WARNERLA_CO", "channel_id": "WARNER_CO.co", "channel_name": "Warner Channel Colombia", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
@@ -313,7 +302,7 @@ NETWORKS_CONFIG = {
     },
     "TNT_SPORTS.xml": {
         "generator_name": "Guia de Programacion TNT Sports MultiFeed",
-        "referer": "https://epg.tapkit.warnermedia.com/epg/networks/24",
+        "referer": "https://epg.tapkit.warnermedia.com/api/networks/24",
         "type": "daily",
         "feeds": [
             {"feed_id": "TNTSPO_AR", "channel_id": "TNTSPO_AR.ar", "channel_name": "TNT Sports Argentina", "lang": "es", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"},
@@ -324,7 +313,7 @@ NETWORKS_CONFIG = {
     },
     "TOONCAST_EPG.xml": {
         "generator_name": "Guia de Programacion Tooncast MultiFeed",
-        "referer": "https://epg.tapkit.warnermedia.com/epg/networks/15",
+        "referer": "https://epg.tapkit.warnermedia.com/api/networks/15",
         "type": "daily",
         "feeds": [
             {"feed_id": "TOONLA_PAN", "channel_id": "TOONLA_PAN.co", "channel_name": "Tooncast Panregional", "lang": "es", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"},
@@ -630,7 +619,6 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
                 if not desc_es and matched_info["desc"]: desc_es = matched_info["desc"]
                 if matched_info["year"]: year_val = matched_info["year"]
 
-        # Si Tapkit no trae traducción o sinopsis en español, recurrimos a TMDB en español latino
         if (not sub_es or sub_es.lower() == sub_en.lower() or not desc_es) and title_val and "Cine Cartoon" not in title_val:
             tmdb_details = fetch_tmdb_episode_details(title_val, season_val, ep_num_val, ep_title_en=sub_en, lang="es")
             if tmdb_details:
