@@ -11,7 +11,8 @@ RETENTION_DAYS_PAST = 5
 RETENTION_DAYS_FUTURE = 15
 
 AUTH_URL = "https://epg.tapkit.warnermedia.com/api/security/oauth/token"
-GET_EPAK_FILES_URL = "https://epg.tapkit.warnermedia.com/api/domain/networkgrids/getepakfiles?networkId=47&format=csv"
+GET_EPAK_CSV_URL = "https://epg.tapkit.warnermedia.com/api/domain/networkgrids/getepakfiles?networkId=47&format=csv"
+GET_EPAK_XLSX_URL = "https://epg.tapkit.warnermedia.com/api/domain/networkgrids/getepakfiles?networkId=47&format=xlsx"
 DOWNLOAD_FILE_URL = "https://epg.tapkit.warnermedia.com/api/epg/tapkitFrontEnd/networksepg/downloadfiles"
 REGISTER_DOWNLOAD_URL = "https://epg.tapkit.warnermedia.com/api/domain/users/register/downloaded/file"
 
@@ -159,17 +160,20 @@ def fetch_epak_files(token, referer_url):
         "Referer": referer_url,
         "Accept": "application/json, text/plain, */*"
     }
-    try:
-        res = http_session.get(GET_EPAK_FILES_URL, headers=headers, timeout=20)
-        if res.status_code == 200:
-            return res.json()
-    except Exception as e:
-        print(f"[WARN] No se pudo obtener la lista EPAK: {e}")
-    return []
+    all_files = []
+    for url in [GET_EPAK_CSV_URL, GET_EPAK_XLSX_URL]:
+        try:
+            res = http_session.get(url, headers=headers, timeout=20)
+            if res.status_code == 200:
+                data = res.json()
+                if isinstance(data, list):
+                    all_files.extend(data)
+        except Exception as e:
+            print(f"[WARN] No se pudo consultar EPAK desde {url}: {e}")
+    return all_files
 
 def download_feed_xls(token, feed_cfg, referer_url, epak_files):
     feed_id = feed_cfg["feed_id"]
-    csv_path = f"{feed_id}_latest.csv"
     
     region_map = {
         "DKLA_PAN": "Latin",
@@ -192,10 +196,11 @@ def download_feed_xls(token, feed_cfg, referer_url, epak_files):
             break
             
     if not target_name:
-        target_name = f"FULL_DLA_Discovery_Kids_{region}_261101_261231.csv"
+        target_name = f"FULL_DLA_Discovery_Kids_{region}_261101_261231.xlsx"
         target_path = f"network-files/DISCKIDS/EPAK/FULL/{target_name}"
 
-    # Paso 1: Petición de descarga de archivos
+    local_file_path = f"{feed_id}_latest_{target_name.split('.')[-1]}"
+
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {token}",
@@ -208,10 +213,9 @@ def download_feed_xls(token, feed_cfg, referer_url, epak_files):
     res = http_session.post(DOWNLOAD_FILE_URL, json=payload, headers=headers, timeout=30)
     res.raise_for_status()
     
-    with open(csv_path, "wb") as f:
+    with open(local_file_path, "wb") as f:
         f.write(res.content)
 
-    # Paso 2: Registro de descarga en la plataforma
     current_date_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S.835")
     form_data = {
         "user-token": token,
@@ -227,7 +231,7 @@ def download_feed_xls(token, feed_cfg, referer_url, epak_files):
     except Exception:
         pass
 
-    return csv_path
+    return local_file_path
 
 def sanitize_and_parse_xml(file_path, generator_name):
     if not os.path.exists(file_path): 
@@ -252,12 +256,16 @@ def format_xmltv_date(dt, tz_str):
 
 def load_schedule_dataframe(file_path):
     try:
-        return pd.read_csv(file_path, sep='\t', encoding='utf-8')
-    except Exception:
-        try:
-            return pd.read_csv(file_path, sep=',', encoding='utf-8')
-        except Exception:
-            return pd.read_excel(file_path)
+        if file_path.endswith('.csv'):
+            try:
+                return pd.read_csv(file_path, sep='\t', encoding='utf-8')
+            except:
+                return pd.read_csv(file_path, sep=',', encoding='utf-8')
+        else:
+            return pd.read_excel(file_path, sheet_name=0)
+    except Exception as e:
+        print(f"[ERROR] No se pudo leer el archivo {file_path}: {e}")
+        raise e
 
 def process_daily_feed(root, feed_cfg, file_path):
     channel_id = feed_cfg["channel_id"]
@@ -420,8 +428,8 @@ def main():
 
         for feed_cfg in net_config["feeds"]:
             try:
-                csv_path = download_feed_xls(token, feed_cfg, net_config["referer"], epak_files)
-                process_daily_feed(root, feed_cfg, csv_path)
+                file_path = download_feed_xls(token, feed_cfg, net_config["referer"], epak_files)
+                process_daily_feed(root, feed_cfg, file_path)
             except Exception as e:
                 print(f"[ERROR] Feed Discovery {feed_cfg['feed_id']}: {e}")
 
