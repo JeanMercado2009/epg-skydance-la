@@ -6,938 +6,6 @@
   <channel id="TOONLA_BR.br">
     <display-name>Tooncast Brasil</display-name>
   </channel>
-  <programme start="20261113044000 -0300" stop="20261113050200 -0300" air_time_start="20261113044000 -0300" air_time_end="20261113050200 -0300" start_utc="20261113074000 +0000" stop_utc="20261113080200 +0000" air_time_start_utc="20261113074000 +0000" air_time_end_utc="20261113080200 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <sub-title lang="es">TERROR OF HAMMERHAND, THE</sub-title>
-    <desc lang="es">Snarf libera a un unicornio de una tribu vikinga mecanizada que deambula en busca de comida.</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-  </programme>
-  <programme start="20261113044000 -0300" stop="20261113050200 -0300" air_time_start="20261113044000 -0300" air_time_end="20261113050200 -0300" start_utc="20261113074000 +0000" stop_utc="20261113080200 +0000" air_time_start_utc="20261113074000 +0000" air_time_end_utc="20261113080200 +0000" is_live="false" channel="TOONLA_BR.br">
-    <sub-title lang="pt">TERROR OF HAMMERHAND, THE</sub-title>
-    <desc lang="pt">Snarf liberta um unicórnio das garras de guerreiros Viking mecanizados que estão caçando comida.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-  </programme>
-  <programme start="20261113050200 -0300" stop="20261113052400 -0300" air_time_start="20261113050200 -0300" air_time_end="20261113052400 -0300" start_utc="20261113080200 +0000" stop_utc="20261113082400 +0000" air_time_start_utc="20261113080200 +0000" air_time_end_utc="20261113082400 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <sub-title lang="es">TIME CAPSULE, THE</sub-title>
-    <desc lang="es">Los Felinos Cósmicos deciden que es hora de buscar su cápsula del tiempo en Thundera, donde desapareció luego del choque.</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.14.</episode-num>
-  </programme>
-  <programme start="20261113050200 -0300" stop="20261113052400 -0300" air_time_start="20261113050200 -0300" air_time_end="20261113052400 -0300" start_utc="20261113080200 +0000" stop_utc="20261113082400 +0000" air_time_start_utc="20261113080200 +0000" air_time_end_utc="20261113082400 +0000" is_live="false" channel="TOONLA_BR.br">
-    <sub-title lang="pt">TIME CAPSULE, THE</sub-title>
-    <desc lang="pt">Os ThunderCats decidem que é hora de procurar sua cápsula do tempo de Thundera, que desapareceu desde o acidente.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">.14.</episode-num>
-  </programme>
-  <programme start="20261113052400 -0300" stop="20261113053500 -0300" air_time_start="20261113052400 -0300" air_time_end="20261113053500 -0300" start_utc="20261113082400 +0000" stop_utc="20261113083500 +0000" air_time_start_utc="20261113082400 +0000" air_time_end_utc="20261113083500 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Hermano de Jorel</title>
-    <sub-title lang="es">Meme TV</sub-title>
-    <desc lang="es">¡El Hermano de Jorel se sumerge de lleno en la preadolescencia! Después de enfrentar los primeros obstáculos de la vida, nuestro querido Hermano de Jorel ahora es un pez fuera del agua, ansioso por nuevas amistades y aventuras.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Fantasía</category>
-    <episode-num system="xmltv_ns">4.220.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/hRX4bkc6TyFxdoCxcTTVyyIvBBB.jpg" />
-  </programme>
-  <programme start="20261113052400 -0300" stop="20261113053500 -0300" air_time_start="20261113052400 -0300" air_time_end="20261113053500 -0300" start_utc="20261113082400 +0000" stop_utc="20261113083500 +0000" air_time_start_utc="20261113082400 +0000" air_time_end_utc="20261113083500 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">IRMÃO DO JOREL</title>
-    <sub-title lang="pt">Meme TV</sub-title>
-    <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <category lang="pt">Fantasia</category>
-    <episode-num system="xmltv_ns">4.220.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/hRX4bkc6TyFxdoCxcTTVyyIvBBB.jpg" />
-  </programme>
-  <programme start="20261113053500 -0300" stop="20261113054700 -0300" air_time_start="20261113053500 -0300" air_time_end="20261113054700 -0300" start_utc="20261113083500 +0000" stop_utc="20261113084700 +0000" air_time_start_utc="20261113083500 +0000" air_time_end_utc="20261113084700 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Hermano de Jorel</title>
-    <sub-title lang="es">Jorelovers Forever</sub-title>
-    <desc lang="es">¡El Hermano de Jorel se sumerge de lleno en la preadolescencia! Después de enfrentar los primeros obstáculos de la vida, nuestro querido Hermano de Jorel ahora es un pez fuera del agua, ansioso por nuevas amistades y aventuras.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Fantasía</category>
-    <episode-num system="xmltv_ns">4.221.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/bHtVtJqaBo6tpCdUsGRJl2avVlw.jpg" />
-  </programme>
-  <programme start="20261113053500 -0300" stop="20261113054700 -0300" air_time_start="20261113053500 -0300" air_time_end="20261113054700 -0300" start_utc="20261113083500 +0000" stop_utc="20261113084700 +0000" air_time_start_utc="20261113083500 +0000" air_time_end_utc="20261113084700 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">IRMÃO DO JOREL</title>
-    <sub-title lang="pt">Jorelovers Forever</sub-title>
-    <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <category lang="pt">Fantasia</category>
-    <episode-num system="xmltv_ns">4.221.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/bHtVtJqaBo6tpCdUsGRJl2avVlw.jpg" />
-  </programme>
-  <programme start="20261113054700 -0300" stop="20261113060000 -0300" air_time_start="20261113054700 -0300" air_time_end="20261113060000 -0300" start_utc="20261113084700 +0000" stop_utc="20261113090000 +0000" air_time_start_utc="20261113084700 +0000" air_time_end_utc="20261113090000 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Hermano de Jorel</title>
-    <sub-title lang="es">Monumental Bariloche</sub-title>
-    <desc lang="es">¡El Hermano de Jorel se sumerge de lleno en la preadolescencia! Después de enfrentar los primeros obstáculos de la vida, nuestro querido Hermano de Jorel ahora es un pez fuera del agua, ansioso por nuevas amistades y aventuras.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Fantasía</category>
-    <episode-num system="xmltv_ns">4.222.</episode-num>
-  </programme>
-  <programme start="20261113054700 -0300" stop="20261113060000 -0300" air_time_start="20261113054700 -0300" air_time_end="20261113060000 -0300" start_utc="20261113084700 +0000" stop_utc="20261113090000 +0000" air_time_start_utc="20261113084700 +0000" air_time_end_utc="20261113090000 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">IRMÃO DO JOREL</title>
-    <sub-title lang="pt">Monumental Bariloche</sub-title>
-    <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <category lang="pt">Fantasia</category>
-    <episode-num system="xmltv_ns">4.222.</episode-num>
-  </programme>
-  <programme start="20261113060000 -0300" stop="20261113062500 -0300" air_time_start="20261113060000 -0300" air_time_end="20261113062500 -0300" start_utc="20261113090000 +0000" stop_utc="20261113092500 +0000" air_time_start_utc="20261113090000 +0000" air_time_end_utc="20261113092500 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">MANSIÓN FOSTER PARA AMIGOS IMAGINARIOS</title>
-    <sub-title lang="es">READ'EM AND WEEP</sub-title>
-    <desc lang="es">Varios amigos imaginarios recientemente adoptados empiezan a describir la vida fuera de la casa de un modo bastante sombrío en una serie de cartas que envían a la mansión.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Infantil</category>
-    <episode-num system="xmltv_ns">5.72.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/a5ocGTmyb2yBL3JWDd2cTFOnN2g.jpg" />
-  </programme>
-  <programme start="20261113060000 -0300" stop="20261113062500 -0300" air_time_start="20261113060000 -0300" air_time_end="20261113062500 -0300" start_utc="20261113090000 +0000" stop_utc="20261113092500 +0000" air_time_start_utc="20261113090000 +0000" air_time_end_utc="20261113092500 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS</title>
-    <sub-title lang="pt">READ'EM AND WEEP</sub-title>
-    <desc lang="pt">Uma série de amigos imaginários recém-adotados começa a pintar uma imagem menos do que colorida da vida fora da casa, por meio de uma série de cartas enviadas à mansão.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Comédia</category>
-    <category lang="pt">Infantil</category>
-    <episode-num system="xmltv_ns">5.72.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/a5ocGTmyb2yBL3JWDd2cTFOnN2g.jpg" />
-  </programme>
-  <programme start="20261113062500 -0300" stop="20261113065000 -0300" air_time_start="20261113062500 -0300" air_time_end="20261113065000 -0300" start_utc="20261113092500 +0000" stop_utc="20261113095000 +0000" air_time_start_utc="20261113092500 +0000" air_time_end_utc="20261113095000 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">MANSIÓN FOSTER PARA AMIGOS IMAGINARIOS</title>
-    <sub-title lang="es">BAD DARE DAY</sub-title>
-    <desc lang="es">Lo que comienza como un reto inocente se convierte en una competencia que involucra a todos los habitantes de la mansión, en la que los amigos rivalizan por el título de Campeón del Reto.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Infantil</category>
-    <episode-num system="xmltv_ns">5.71.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/isqkKk0vPIt4hTYRogUHsaUUq8G.jpg" />
-  </programme>
-  <programme start="20261113062500 -0300" stop="20261113065000 -0300" air_time_start="20261113062500 -0300" air_time_end="20261113065000 -0300" start_utc="20261113092500 +0000" stop_utc="20261113095000 +0000" air_time_start_utc="20261113092500 +0000" air_time_end_utc="20261113095000 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS</title>
-    <sub-title lang="pt">BAD DARE DAY</sub-title>
-    <desc lang="pt">O que começa como uma aposta inocente se transforma em uma competição dentro da casa que põe os amigos um contra o outro para ganhar o título de Campeão dos Desafios!</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Comédia</category>
-    <category lang="pt">Infantil</category>
-    <episode-num system="xmltv_ns">5.71.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/isqkKk0vPIt4hTYRogUHsaUUq8G.jpg" />
-  </programme>
-  <programme start="20261113065000 -0300" stop="20261113070100 -0300" air_time_start="20261113065000 -0300" air_time_end="20261113070100 -0300" start_utc="20261113095000 +0000" stop_utc="20261113100100 +0000" air_time_start_utc="20261113095000 +0000" air_time_end_utc="20261113100100 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">TREE HUGGER</sub-title>
-    <desc lang="es">Lumpus quiere derribar un ejemplar poco común de Morera Migratoria para terminar su barco y esto hace que los scouts de la Cabaña Jelly ideen un plan para detenerlo.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/t0SEvXWqH7hjq147w9cpB8WuUTF.jpg" />
-  </programme>
-  <programme start="20261113065000 -0300" stop="20261113070100 -0300" air_time_start="20261113065000 -0300" air_time_end="20261113070100 -0300" start_utc="20261113095000 +0000" stop_utc="20261113100100 +0000" air_time_start_utc="20261113095000 +0000" air_time_end_utc="20261113100100 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">TREE HUGGER</sub-title>
-    <desc lang="pt">Lumpus quer derrubar uma "Amoreira de Migração" muito rara para terminar a construção de seu barco obrigando os escoteiros do Alojamento Jelly a bolar um plano para impedi-lo.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/t0SEvXWqH7hjq147w9cpB8WuUTF.jpg" />
-  </programme>
-  <programme start="20261113070100 -0300" stop="20261113071200 -0300" air_time_start="20261113070100 -0300" air_time_end="20261113071200 -0300" start_utc="20261113100100 +0000" stop_utc="20261113101200 +0000" air_time_start_utc="20261113100100 +0000" air_time_end_utc="20261113101200 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">OVER COOKED BEANS</sub-title>
-    <desc lang="es">En el día más caluroso del año, un acondicionador de aire cae desde el cielo en Campamento Riñon y saca a relucir los peor de los acampantes.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">1.17.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/yCRPjR7z1OpOpqQWyk9paJ7jd1H.jpg" />
-  </programme>
-  <programme start="20261113070100 -0300" stop="20261113071200 -0300" air_time_start="20261113070100 -0300" air_time_end="20261113071200 -0300" start_utc="20261113100100 +0000" stop_utc="20261113101200 +0000" air_time_start_utc="20261113100100 +0000" air_time_end_utc="20261113101200 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">OVER COOKED BEANS</sub-title>
-    <desc lang="pt">No dia mais quente do ano, um ar-condicionado cai do céu e provoca um verdadeiro caos no Acampamento Rim.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.17.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/yCRPjR7z1OpOpqQWyk9paJ7jd1H.jpg" />
-  </programme>
-  <programme start="20261113071200 -0300" stop="20261113072300 -0300" air_time_start="20261113071200 -0300" air_time_end="20261113072300 -0300" start_utc="20261113101200 +0000" stop_utc="20261113102300 +0000" air_time_start_utc="20261113101200 +0000" air_time_end_utc="20261113102300 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">CAMP KIDNEY STINKS</sub-title>
-    <desc lang="es">Lazlo quiere que todo el mundo deje de ducharse y se vuelva apestoso, pero las manías de Samson detienen su sucio plan.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/pzXbz3QYVB2zAcLgSR30THgjxT9.jpg" />
-  </programme>
-  <programme start="20261113071200 -0300" stop="20261113072300 -0300" air_time_start="20261113071200 -0300" air_time_end="20261113072300 -0300" start_utc="20261113101200 +0000" stop_utc="20261113102300 +0000" air_time_start_utc="20261113101200 +0000" air_time_end_utc="20261113102300 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">CAMP KIDNEY STINKS</sub-title>
-    <desc lang="pt">Lumpus "come até explodir" no restaurante da cidade e luta para voltar lá porque esqueceu os Jelly Beans para trás!</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/pzXbz3QYVB2zAcLgSR30THgjxT9.jpg" />
-  </programme>
-  <programme start="20261113072300 -0300" stop="20261113073600 -0300" air_time_start="20261113072300 -0300" air_time_end="20261113073600 -0300" start_utc="20261113102300 +0000" stop_utc="20261113103600 +0000" air_time_start_utc="20261113102300 +0000" air_time_end_utc="20261113103600 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">SNOW BEANS</sub-title>
-    <desc lang="es">Los Exploradores y las Ardillas Exploradoras van a esquiar. Lazlo y Lumpus descubren que la montaña no es lo suficientemente grande para ambos.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">1.21.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/ctDY0mqx1X3BjlaspBoI4RjrYAL.jpg" />
-  </programme>
-  <programme start="20261113072300 -0300" stop="20261113073600 -0300" air_time_start="20261113072300 -0300" air_time_end="20261113073600 -0300" start_utc="20261113102300 +0000" stop_utc="20261113103600 +0000" air_time_start_utc="20261113102300 +0000" air_time_end_utc="20261113103600 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">SNOW BEANS</sub-title>
-    <desc lang="pt">Os escoteiros Bean e os escoteiros Squirrel vão esquiar e Lazlo e Lumpus descobrem que a montanha não é grande o suficiente para ambos.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.21.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/ctDY0mqx1X3BjlaspBoI4RjrYAL.jpg" />
-  </programme>
-  <programme start="20261113073600 -0300" stop="20261113074700 -0300" air_time_start="20261113073600 -0300" air_time_end="20261113074700 -0300" start_utc="20261113103600 +0000" stop_utc="20261113104700 +0000" air_time_start_utc="20261113103600 +0000" air_time_end_utc="20261113104700 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">SWEET DREAMS BABY</sub-title>
-    <desc lang="es">Lumpus es forzado a invitar a los Jellies a un pijama party, pero él no dormirá ni un poco.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">2.31.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/dUUiWxKYSQ7SKatoaZtuiTEPTUA.jpg" />
-  </programme>
-  <programme start="20261113073600 -0300" stop="20261113074700 -0300" air_time_start="20261113073600 -0300" air_time_end="20261113074700 -0300" start_utc="20261113103600 +0000" stop_utc="20261113104700 +0000" air_time_start_utc="20261113103600 +0000" air_time_end_utc="20261113104700 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">SWEET DREAMS BABY</sub-title>
-    <desc lang="pt">Lumpus é obrigado a convidar os escoteiros para dormir com ele e acaba não conseguindo pegar no sono!</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">2.31.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/dUUiWxKYSQ7SKatoaZtuiTEPTUA.jpg" />
-  </programme>
-  <programme start="20261113074700 -0300" stop="20261113080000 -0300" air_time_start="20261113074700 -0300" air_time_end="20261113080000 -0300" start_utc="20261113104700 +0000" stop_utc="20261113110000 +0000" air_time_start_utc="20261113104700 +0000" air_time_end_utc="20261113110000 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">O BROTHER, WHO ART THOU</sub-title>
-    <desc lang="es">Edward descubre que tener a sus hermanos como consejeros en el campamento está arruinando su estilo.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">4.58.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/8ECngxKYjpD1buXD7CUi0n0fRbE.jpg" />
-  </programme>
-  <programme start="20261113074700 -0300" stop="20261113080000 -0300" air_time_start="20261113074700 -0300" air_time_end="20261113080000 -0300" start_utc="20261113104700 +0000" stop_utc="20261113110000 +0000" air_time_start_utc="20261113104700 +0000" air_time_end_utc="20261113110000 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">O BROTHER, WHO ART THOU</sub-title>
-    <desc lang="pt">Eduardo descobre que ter seus irmãos mais velhos como os novos conselheiros do acampamento está acabando com seu estilo.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">4.58.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/8ECngxKYjpD1buXD7CUi0n0fRbE.jpg" />
-  </programme>
-  <programme start="20261113080000 -0300" stop="20261113081100 -0300" air_time_start="20261113080000 -0300" air_time_end="20261113081100 -0300" start_utc="20261113110000 +0000" stop_utc="20261113111100 +0000" air_time_start_utc="20261113110000 +0000" air_time_end_utc="20261113111100 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">HUMAN BEHAVIOR</sub-title>
-    <desc lang="es">Después de estudiar todas las noches para los exámenes finales durante dos semanas consecutivas, Adam se vuelve salvaje. Jake está feliz ya que siempre quiso entrenar a un niño salvaje para que compita en una competencia anual.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">3.47.</episode-num>
-  </programme>
-  <programme start="20261113080000 -0300" stop="20261113081100 -0300" air_time_start="20261113080000 -0300" air_time_end="20261113081100 -0300" start_utc="20261113110000 +0000" stop_utc="20261113111100 +0000" air_time_start_utc="20261113110000 +0000" air_time_end_utc="20261113111100 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">HUMAN BEHAVIOR</sub-title>
-    <desc lang="pt">Depois de estudar durante duas semanas consecutivas para os exames finais, Adão começa a atuar selvagemmente. Jake é cheio de alegria, esperando realizar finalmente o seu sonho de ter um amigo selvagem e o treina para a Competição Nacional de Meninos Selvagem.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">3.47.</episode-num>
-  </programme>
-  <programme start="20261113081100 -0300" stop="20261113082200 -0300" air_time_start="20261113081100 -0300" air_time_end="20261113082200 -0300" start_utc="20261113111100 +0000" stop_utc="20261113112200 +0000" air_time_start_utc="20261113111100 +0000" air_time_end_utc="20261113112200 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">CHEER PRESSURE</sub-title>
-    <desc lang="es">Después de que una animadora se lastima, el Jungle Squad de la escuela Charles Darwin contrata a Adam para hacer la presentación con ellas en las finales de animadoras.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">1.14.</episode-num>
-  </programme>
-  <programme start="20261113081100 -0300" stop="20261113082200 -0300" air_time_start="20261113081100 -0300" air_time_end="20261113082200 -0300" start_utc="20261113111100 +0000" stop_utc="20261113112200 +0000" air_time_start_utc="20261113111100 +0000" air_time_end_utc="20261113112200 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">CHEER PRESSURE</sub-title>
-    <desc lang="pt">Depois que uma chefe de torcida se machuca, a equipe recruta um relutante Adão para assumir seu lugar nas finais de uma competição.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.14.</episode-num>
-  </programme>
-  <programme start="20261113082200 -0300" stop="20261113083500 -0300" air_time_start="20261113082200 -0300" air_time_end="20261113083500 -0300" start_utc="20261113112200 +0000" stop_utc="20261113113500 +0000" air_time_start_utc="20261113112200 +0000" air_time_end_utc="20261113113500 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">HYGIENE HIJINKS</sub-title>
-    <desc lang="es">Tiburowsky finalmente se deshace de sus frenos y debido a su vanidad, se convierte en otra clase de bravucón.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">3.45.</episode-num>
-  </programme>
-  <programme start="20261113082200 -0300" stop="20261113083500 -0300" air_time_start="20261113082200 -0300" air_time_end="20261113083500 -0300" start_utc="20261113112200 +0000" stop_utc="20261113113500 +0000" air_time_start_utc="20261113112200 +0000" air_time_end_utc="20261113113500 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">HYGIENE HIJINKS</sub-title>
-    <desc lang="pt">Tubarowski finalmente tira o aparelho dos dentes e, por causa da sua vaidade extrema, se torna um tipo diferente de valentão.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">3.45.</episode-num>
-  </programme>
-  <programme start="20261113083500 -0300" stop="20261113084600 -0300" air_time_start="20261113083500 -0300" air_time_end="20261113084600 -0300" start_utc="20261113113500 +0000" stop_utc="20261113114600 +0000" air_time_start_utc="20261113113500 +0000" air_time_end_utc="20261113114600 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">A MID SEMESTER LIFE'S DREAM</sub-title>
-    <desc lang="es">La Srta. Camaleón confiesa que su carrera como actriz se detuvo debido a su miedo escénico, así que Adam, Jake y la pandilla tratan de ayudarla.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">3.42.</episode-num>
-  </programme>
-  <programme start="20261113083500 -0300" stop="20261113084600 -0300" air_time_start="20261113083500 -0300" air_time_end="20261113084600 -0300" start_utc="20261113113500 +0000" stop_utc="20261113114600 +0000" air_time_start_utc="20261113113500 +0000" air_time_end_utc="20261113114600 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">A MID SEMESTER LIFE'S DREAM</sub-title>
-    <desc lang="pt">A Senhorita Camaleoa confessa que sua carreira de atriz está parada por causa de seu medo terrível do palco, então Adão Leão, Jake, Wilson e a turma tentam ajudá-la.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">3.42.</episode-num>
-  </programme>
-  <programme start="20261113084600 -0300" stop="20261113090000 -0300" air_time_start="20261113084600 -0300" air_time_end="20261113090000 -0300" start_utc="20261113114600 +0000" stop_utc="20261113120000 +0000" air_time_start_utc="20261113114600 +0000" air_time_end_utc="20261113120000 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">AN INCONVENIENT GOOF</sub-title>
-    <desc lang="es">Cuando el Ala Polar de la escuela comienza a derretirse, Adam se lo atribuye al calentamiento global. Pero sus advertencias no son escuchadas, ya que los estudiantes y los profesores utilizan los pasillos inundados para organizar una gigantesca fiesta de piscina.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">2.38.</episode-num>
-  </programme>
-  <programme start="20261113084600 -0300" stop="20261113090000 -0300" air_time_start="20261113084600 -0300" air_time_end="20261113090000 -0300" start_utc="20261113114600 +0000" stop_utc="20261113120000 +0000" air_time_start_utc="20261113114600 +0000" air_time_end_utc="20261113120000 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">AN INCONVENIENT GOOF</sub-title>
-    <desc lang="pt">Quando a Asa Polar da Escola Charles Darwin começa a derreter durante uma onda de calor, Adão culpa o aquecimento global. Mas ninguém dá ouvidos aos seus terríveis avisos e os outros estudantes e professores aproveitam a inundação nos corredores para fazer uma grande festa da piscina. No final, todo mundo aprende uma lição valiosa sobre conservação e a importância do cabelo permanente.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">2.38.</episode-num>
-  </programme>
-  <programme start="20261113090000 -0300" stop="20261113090600 -0300" air_time_start="20261113090000 -0300" air_time_end="20261113090600 -0300" start_utc="20261113120000 +0000" stop_utc="20261113120600 +0000" air_time_start_utc="20261113120000 +0000" air_time_end_utc="20261113120600 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">SUPER ZERO</sub-title>
-    <desc lang="es">Ami y Yumi reciben la visita de un viejo amigo que cree que es un superhéroe.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">1.22.</episode-num>
-  </programme>
-  <programme start="20261113090000 -0300" stop="20261113090600 -0300" air_time_start="20261113090000 -0300" air_time_end="20261113090600 -0300" start_utc="20261113120000 +0000" stop_utc="20261113120600 +0000" air_time_start_utc="20261113120000 +0000" air_time_end_utc="20261113120600 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">SUPER ZERO</sub-title>
-    <desc lang="pt">O amigo doido da Ami, Acha, que pensa que é um superherói, vem visitá-la.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.22.</episode-num>
-  </programme>
-  <programme start="20261113090600 -0300" stop="20261113091300 -0300" air_time_start="20261113090600 -0300" air_time_end="20261113091300 -0300" start_utc="20261113120600 +0000" stop_utc="20261113121300 +0000" air_time_start_utc="20261113120600 +0000" air_time_end_utc="20261113121300 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">ODDYGUARD, THE</sub-title>
-    <desc lang="es">Un nuevo guardaespaldas protege a las chicas¿ ¡demasiado!</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">1.15.</episode-num>
-  </programme>
-  <programme start="20261113090600 -0300" stop="20261113091300 -0300" air_time_start="20261113090600 -0300" air_time_end="20261113091300 -0300" start_utc="20261113120600 +0000" stop_utc="20261113121300 +0000" air_time_start_utc="20261113120600 +0000" air_time_end_utc="20261113121300 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">ODDYGUARD, THE</sub-title>
-    <desc lang="pt">Um guarda-costas novo sufoca Ami e Yumi com sua atenciosa proteção.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.15.</episode-num>
-  </programme>
-  <programme start="20261113091300 -0300" stop="20261113092000 -0300" air_time_start="20261113091300 -0300" air_time_end="20261113092000 -0300" start_utc="20261113121300 +0000" stop_utc="20261113122000 +0000" air_time_start_utc="20261113121300 +0000" air_time_end_utc="20261113122000 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">SONG SUNG BAD</sub-title>
-    <desc lang="es">Las chicas, sin darse cuenta, alientan a Kaz a convertirse en cantante.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">1.15.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/a11QCsLDc2pa9IWOp3FVQZ8bhxB.jpg" />
-  </programme>
-  <programme start="20261113091300 -0300" stop="20261113092000 -0300" air_time_start="20261113091300 -0300" air_time_end="20261113092000 -0300" start_utc="20261113121300 +0000" stop_utc="20261113122000 +0000" air_time_start_utc="20261113121300 +0000" air_time_end_utc="20261113122000 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">SONG SUNG BAD</sub-title>
-    <desc lang="pt">Sem querer, as garotas encorajam as tentativas confusas de Kaz de se tornar um compositor.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.15.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/a11QCsLDc2pa9IWOp3FVQZ8bhxB.jpg" />
-  </programme>
-  <programme start="20261113092000 -0300" stop="20261113092700 -0300" air_time_start="20261113092000 -0300" air_time_end="20261113092700 -0300" start_utc="20261113122000 +0000" stop_utc="20261113122700 +0000" air_time_start_utc="20261113122000 +0000" air_time_end_utc="20261113122700 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">RIDE STUFF, THE</sub-title>
-    <desc lang="es">Las chicas y Kaz intentan entrar a escondidas a una atracción de un parque de diversiones.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">1.19.</episode-num>
-  </programme>
-  <programme start="20261113092000 -0300" stop="20261113092700 -0300" air_time_start="20261113092000 -0300" air_time_end="20261113092700 -0300" start_utc="20261113122000 +0000" stop_utc="20261113122700 +0000" air_time_start_utc="20261113122000 +0000" air_time_end_utc="20261113122700 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">RIDE STUFF, THE</sub-title>
-    <desc lang="pt">As garotas e Kaz tentam entrar escondido em um brinquedo do parque de diversões porque eles são muito baixinhos para poder andar no brinquedo.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.19.</episode-num>
-  </programme>
-  <programme start="20261113092700 -0300" stop="20261113093600 -0300" air_time_start="20261113092700 -0300" air_time_end="20261113093600 -0300" start_utc="20261113122700 +0000" stop_utc="20261113123600 +0000" air_time_start_utc="20261113122700 +0000" air_time_end_utc="20261113123600 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">MEAN MACHINE</sub-title>
-    <desc lang="es">Las chicas y Kaz se encuentran con un excéntrico inventor que les muestra su última creación: una máquina de música todo-en-uno. Al principio, las chicas la adoran hasta que les roba a sus admiradores. En un esfuerzo por recuperar su sitio en la cima del mundo musical, las chicas desafían a la máquina a una batalla entre bandas.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/trBzTgebwK4X5dpxeJiAdgmLNgf.jpg" />
-  </programme>
-  <programme start="20261113092700 -0300" stop="20261113093600 -0300" air_time_start="20261113092700 -0300" air_time_end="20261113093600 -0300" start_utc="20261113122700 +0000" stop_utc="20261113123600 +0000" air_time_start_utc="20261113122700 +0000" air_time_end_utc="20261113123600 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">MEAN MACHINE</sub-title>
-    <desc lang="pt">As garotas e Kaz se encontram com um inventor excêntrico que os apresenta sua última criação: uma máquina de música tudo em um. No começo, as garotas adoram, mas ela rouba seus fãs. Tentando chegar novamente ao topo das paradas musicais mundiais, as meninas desafiam a máquina para uma batalha de bandas.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/trBzTgebwK4X5dpxeJiAdgmLNgf.jpg" />
-  </programme>
-  <programme start="20261113093600 -0300" stop="20261113094600 -0300" air_time_start="20261113093600 -0300" air_time_end="20261113094600 -0300" start_utc="20261113123600 +0000" stop_utc="20261113124600 +0000" air_time_start_utc="20261113123600 +0000" air_time_end_utc="20261113124600 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Mike, Lu y Og</title>
-    <sub-title lang="es">Giant Steps</sub-title>
-    <desc lang="es">Mike y Lancelot deben juntar objetos difíciles de encontrar.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">1.17.</episode-num>
-  </programme>
-  <programme start="20261113093600 -0300" stop="20261113094600 -0300" air_time_start="20261113093600 -0300" air_time_end="20261113094600 -0300" start_utc="20261113123600 +0000" stop_utc="20261113124600 +0000" air_time_start_utc="20261113123600 +0000" air_time_end_utc="20261113124600 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">MIKE, LU E OG</title>
-    <sub-title lang="pt">Giant Steps</sub-title>
-    <desc lang="pt">Mike e Lancelot arriscam suas vidas para vencer um gigante.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.17.</episode-num>
-  </programme>
-  <programme start="20261113094600 -0300" stop="20261113100000 -0300" air_time_start="20261113094600 -0300" air_time_end="20261113100000 -0300" start_utc="20261113124600 +0000" stop_utc="20261113130000 +0000" air_time_start_utc="20261113124600 +0000" air_time_end_utc="20261113130000 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Mike, Lu y Og</title>
-    <sub-title lang="es">Crowded House</sub-title>
-    <desc lang="es">El trío atrae a turistas</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-  </programme>
-  <programme start="20261113094600 -0300" stop="20261113100000 -0300" air_time_start="20261113094600 -0300" air_time_end="20261113100000 -0300" start_utc="20261113124600 +0000" stop_utc="20261113130000 +0000" air_time_start_utc="20261113124600 +0000" air_time_end_utc="20261113130000 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">MIKE, LU E OG</title>
-    <sub-title lang="pt">Crowded House</sub-title>
-    <desc lang="pt">Og tenta ajudar Mike, que desapareceu na cidade grande.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-  </programme>
-  <programme start="20261113100000 -0300" stop="20261113100100 -0300" air_time_start="20261113100000 -0300" air_time_end="20261113100100 -0300" start_utc="20261113130000 +0000" stop_utc="20261113130100 +0000" air_time_start_utc="20261113130000 +0000" air_time_end_utc="20261113130100 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">HOW THEY GOT THEIR NAMES, FARMER JOHN</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/nLSl1jMgoH55ukGXdkelroS33Em.jpg" />
-  </programme>
-  <programme start="20261113100000 -0300" stop="20261113100100 -0300" air_time_start="20261113100000 -0300" air_time_end="20261113100100 -0300" start_utc="20261113130000 +0000" stop_utc="20261113130100 +0000" air_time_start_utc="20261113130000 +0000" air_time_end_utc="20261113130100 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">HOW THEY GOT THEIR NAMES, FARMER JOHN</sub-title>
-    <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/nLSl1jMgoH55ukGXdkelroS33Em.jpg" />
-  </programme>
-  <programme start="20261113100100 -0300" stop="20261113100300 -0300" air_time_start="20261113100100 -0300" air_time_end="20261113100300 -0300" start_utc="20261113130100 +0000" stop_utc="20261113130300 +0000" air_time_start_utc="20261113130100 +0000" air_time_end_utc="20261113130300 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">RESCUING A WOMAN ON THE RR TRACKS</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/5kbSArrPAuEaFUCUJW7fMSDZjdn.jpg" />
-  </programme>
-  <programme start="20261113100100 -0300" stop="20261113100300 -0300" air_time_start="20261113100100 -0300" air_time_end="20261113100300 -0300" start_utc="20261113130100 +0000" stop_utc="20261113130300 +0000" air_time_start_utc="20261113130100 +0000" air_time_end_utc="20261113130300 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">RESCUING A WOMAN ON THE RR TRACKS</sub-title>
-    <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/5kbSArrPAuEaFUCUJW7fMSDZjdn.jpg" />
-  </programme>
-  <programme start="20261113100300 -0300" stop="20261113101000 -0300" air_time_start="20261113100300 -0300" air_time_end="20261113101000 -0300" start_utc="20261113130300 +0000" stop_utc="20261113131000 +0000" air_time_start_utc="20261113130300 +0000" air_time_end_utc="20261113131000 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">CAN'T STOP THE BLEAT</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-  </programme>
-  <programme start="20261113100300 -0300" stop="20261113101000 -0300" air_time_start="20261113100300 -0300" air_time_end="20261113101000 -0300" start_utc="20261113130300 +0000" stop_utc="20261113131000 +0000" air_time_start_utc="20261113130300 +0000" air_time_end_utc="20261113131000 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">CAN'T STOP THE BLEAT</sub-title>
-    <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-  </programme>
-  <programme start="20261113101000 -0300" stop="20261113101600 -0300" air_time_start="20261113101000 -0300" air_time_end="20261113101600 -0300" start_utc="20261113131000 +0000" stop_utc="20261113131600 +0000" air_time_start_utc="20261113131000 +0000" air_time_end_utc="20261113131600 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">BEAUTY AND THE BLEATS</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/jN7aztbdO2ayKTUPuYXGtSUhVv2.jpg" />
-  </programme>
-  <programme start="20261113101000 -0300" stop="20261113101600 -0300" air_time_start="20261113101000 -0300" air_time_end="20261113101600 -0300" start_utc="20261113131000 +0000" stop_utc="20261113131600 +0000" air_time_start_utc="20261113131000 +0000" air_time_end_utc="20261113131600 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">BEAUTY AND THE BLEATS</sub-title>
-    <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/jN7aztbdO2ayKTUPuYXGtSUhVv2.jpg" />
-  </programme>
-  <programme start="20261113101600 -0300" stop="20261113101700 -0300" air_time_start="20261113101600 -0300" air_time_end="20261113101700 -0300" start_utc="20261113131600 +0000" stop_utc="20261113131700 +0000" air_time_start_utc="20261113131600 +0000" air_time_end_utc="20261113131700 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">ASK LADY RICHINGTON</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/2ReNcaRskhHJW0jANRT4vb9nppx.jpg" />
-  </programme>
-  <programme start="20261113101600 -0300" stop="20261113101700 -0300" air_time_start="20261113101600 -0300" air_time_end="20261113101700 -0300" start_utc="20261113131600 +0000" stop_utc="20261113131700 +0000" air_time_start_utc="20261113131600 +0000" air_time_end_utc="20261113131700 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">ASK LADY RICHINGTON</sub-title>
-    <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/2ReNcaRskhHJW0jANRT4vb9nppx.jpg" />
-  </programme>
-  <programme start="20261113101700 -0300" stop="20261113101800 -0300" air_time_start="20261113101700 -0300" air_time_end="20261113101800 -0300" start_utc="20261113131700 +0000" stop_utc="20261113131800 +0000" air_time_start_utc="20261113131700 +0000" air_time_end_utc="20261113131800 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">YELLOW GRAPEFRUIT</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-  </programme>
-  <programme start="20261113101700 -0300" stop="20261113101800 -0300" air_time_start="20261113101700 -0300" air_time_end="20261113101800 -0300" start_utc="20261113131700 +0000" stop_utc="20261113131800 +0000" air_time_start_utc="20261113131700 +0000" air_time_end_utc="20261113131800 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">YELLOW GRAPEFRUIT</sub-title>
-    <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-  </programme>
-  <programme start="20261113101800 -0300" stop="20261113102100 -0300" air_time_start="20261113101800 -0300" air_time_end="20261113102100 -0300" start_utc="20261113131800 +0000" stop_utc="20261113132100 +0000" air_time_start_utc="20261113131800 +0000" air_time_end_utc="20261113132100 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">WOOL METAL JACKET!</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-  </programme>
-  <programme start="20261113101800 -0300" stop="20261113102100 -0300" air_time_start="20261113101800 -0300" air_time_end="20261113102100 -0300" start_utc="20261113131800 +0000" stop_utc="20261113132100 +0000" air_time_start_utc="20261113131800 +0000" air_time_end_utc="20261113132100 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">WOOL METAL JACKET!</sub-title>
-    <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-  </programme>
-  <programme start="20261113102100 -0300" stop="20261113102200 -0300" air_time_start="20261113102100 -0300" air_time_end="20261113102200 -0300" start_utc="20261113132100 +0000" stop_utc="20261113132200 +0000" air_time_start_utc="20261113132100 +0000" air_time_end_utc="20261113132200 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">ISN'T IT A SMALL WORLD</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-  </programme>
-  <programme start="20261113102100 -0300" stop="20261113102200 -0300" air_time_start="20261113102100 -0300" air_time_end="20261113102200 -0300" start_utc="20261113132100 +0000" stop_utc="20261113132200 +0000" air_time_start_utc="20261113132100 +0000" air_time_end_utc="20261113132200 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">ISN'T IT A SMALL WORLD</sub-title>
-    <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-  </programme>
-  <programme start="20261113102200 -0300" stop="20261113102300 -0300" air_time_start="20261113102200 -0300" air_time_end="20261113102300 -0300" start_utc="20261113132200 +0000" stop_utc="20261113132300 +0000" air_time_start_utc="20261113132200 +0000" air_time_end_utc="20261113132300 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">CUTE-ICLES</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-  </programme>
-  <programme start="20261113102200 -0300" stop="20261113102300 -0300" air_time_start="20261113102200 -0300" air_time_end="20261113102300 -0300" start_utc="20261113132200 +0000" stop_utc="20261113132300 +0000" air_time_start_utc="20261113132200 +0000" air_time_end_utc="20261113132300 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">CUTE-ICLES</sub-title>
-    <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-  </programme>
-  <programme start="20261113102300 -0300" stop="20261113102400 -0300" air_time_start="20261113102300 -0300" air_time_end="20261113102400 -0300" start_utc="20261113132300 +0000" stop_utc="20261113132400 +0000" air_time_start_utc="20261113132300 +0000" air_time_end_utc="20261113132400 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">VOTE FOR BUDDY COMMERCIAL</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/cmX1fwcuzn66d5AmnyBNPmXvhEs.jpg" />
-  </programme>
-  <programme start="20261113102300 -0300" stop="20261113102400 -0300" air_time_start="20261113102300 -0300" air_time_end="20261113102400 -0300" start_utc="20261113132300 +0000" stop_utc="20261113132400 +0000" air_time_start_utc="20261113132300 +0000" air_time_end_utc="20261113132400 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">VOTE FOR BUDDY COMMERCIAL</sub-title>
-    <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/cmX1fwcuzn66d5AmnyBNPmXvhEs.jpg" />
-  </programme>
-  <programme start="20261113102400 -0300" stop="20261113102400 -0300" air_time_start="20261113102400 -0300" air_time_end="20261113102400 -0300" start_utc="20261113132400 +0000" stop_utc="20261113132400 +0000" air_time_start_utc="20261113132400 +0000" air_time_end_utc="20261113132400 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">OXYMORON'S BEEF JERKY FLAVORED CEREAL</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-  </programme>
-  <programme start="20261113102400 -0300" stop="20261113102600 -0300" air_time_start="20261113102400 -0300" air_time_end="20261113102600 -0300" start_utc="20261113132400 +0000" stop_utc="20261113132600 +0000" air_time_start_utc="20261113132400 +0000" air_time_end_utc="20261113132600 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">GENERAL SPECIFIC TALKING</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/vm9SsQZ2J37tx0EfANeaJMU0FSN.jpg" />
-  </programme>
-  <programme start="20261113102400 -0300" stop="20261113102400 -0300" air_time_start="20261113102400 -0300" air_time_end="20261113102400 -0300" start_utc="20261113132400 +0000" stop_utc="20261113132400 +0000" air_time_start_utc="20261113132400 +0000" air_time_end_utc="20261113132400 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">OXYMORON'S BEEF JERKY FLAVORED CEREAL</sub-title>
-    <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-  </programme>
-  <programme start="20261113102400 -0300" stop="20261113102600 -0300" air_time_start="20261113102400 -0300" air_time_end="20261113102600 -0300" start_utc="20261113132400 +0000" stop_utc="20261113132600 +0000" air_time_start_utc="20261113132400 +0000" air_time_end_utc="20261113132600 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">GENERAL SPECIFIC TALKING</sub-title>
-    <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/vm9SsQZ2J37tx0EfANeaJMU0FSN.jpg" />
-  </programme>
-  <programme start="20261113102600 -0300" stop="20261113102800 -0300" air_time_start="20261113102600 -0300" air_time_end="20261113102800 -0300" start_utc="20261113132600 +0000" stop_utc="20261113132800 +0000" air_time_start_utc="20261113132600 +0000" air_time_end_utc="20261113132800 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">SUPERMODEL SANDRA AND OXYMORON SHAMPOO</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/5kbSArrPAuEaFUCUJW7fMSDZjdn.jpg" />
-  </programme>
-  <programme start="20261113102600 -0300" stop="20261113102800 -0300" air_time_start="20261113102600 -0300" air_time_end="20261113102800 -0300" start_utc="20261113132600 +0000" stop_utc="20261113132800 +0000" air_time_start_utc="20261113132600 +0000" air_time_end_utc="20261113132800 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">SUPERMODEL SANDRA AND OXYMORON SHAMPOO</sub-title>
-    <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/5kbSArrPAuEaFUCUJW7fMSDZjdn.jpg" />
-  </programme>
-  <programme start="20261113102800 -0300" stop="20261113102900 -0300" air_time_start="20261113102800 -0300" air_time_end="20261113102900 -0300" start_utc="20261113132800 +0000" stop_utc="20261113132900 +0000" air_time_start_utc="20261113132800 +0000" air_time_end_utc="20261113132900 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">OXMORON DOG FOOD</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/oFDhy6z5q66rZNZCmvkmLa6qBo.jpg" />
-  </programme>
-  <programme start="20261113102800 -0300" stop="20261113102900 -0300" air_time_start="20261113102800 -0300" air_time_end="20261113102900 -0300" start_utc="20261113132800 +0000" stop_utc="20261113132900 +0000" air_time_start_utc="20261113132800 +0000" air_time_end_utc="20261113132900 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">OXMORON DOG FOOD</sub-title>
-    <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/oFDhy6z5q66rZNZCmvkmLa6qBo.jpg" />
-  </programme>
-  <programme start="20261113102900 -0300" stop="20261113103000 -0300" air_time_start="20261113102900 -0300" air_time_end="20261113103000 -0300" start_utc="20261113132900 +0000" stop_utc="20261113133000 +0000" air_time_start_utc="20261113132900 +0000" air_time_end_utc="20261113133000 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">DINKY THE SUPEREST TURTLE IN THE UNIVERSE</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.23.</episode-num>
-  </programme>
-  <programme start="20261113102900 -0300" stop="20261113103000 -0300" air_time_start="20261113102900 -0300" air_time_end="20261113103000 -0300" start_utc="20261113132900 +0000" stop_utc="20261113133000 +0000" air_time_start_utc="20261113132900 +0000" air_time_end_utc="20261113133000 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">DINKY THE SUPEREST TURTLE IN THE UNIVERSE</sub-title>
-    <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.23.</episode-num>
-  </programme>
-  <programme start="20261113103000 -0300" stop="20261113103200 -0300" air_time_start="20261113103000 -0300" air_time_end="20261113103200 -0300" start_utc="20261113133000 +0000" stop_utc="20261113133200 +0000" air_time_start_utc="20261113133000 +0000" air_time_end_utc="20261113133200 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">HEAD OVER HEELS IN LOVE</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.24.</episode-num>
-  </programme>
-  <programme start="20261113103000 -0300" stop="20261113103200 -0300" air_time_start="20261113103000 -0300" air_time_end="20261113103200 -0300" start_utc="20261113133000 +0000" stop_utc="20261113133200 +0000" air_time_start_utc="20261113133000 +0000" air_time_end_utc="20261113133200 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">HEAD OVER HEELS IN LOVE</sub-title>
-    <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.24.</episode-num>
-  </programme>
-  <programme start="20261113103200 -0300" stop="20261113104300 -0300" air_time_start="20261113103200 -0300" air_time_end="20261113104300 -0300" start_utc="20261113133200 +0000" stop_utc="20261113134300 +0000" air_time_start_utc="20261113133200 +0000" air_time_end_utc="20261113134300 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Escuadrón del tiempo</title>
-    <sub-title lang="es">Nutorious</sub-title>
-    <desc lang="es">El célebre inventor de los cien usos del cacahuate se encuentra en problemas. Su malvado hermano Todd busca aplastar su éxito inventando los cien usos maléficos del cacahuate. El Escuadrón del Tiempo debe derrotar al desquiciado villano y salvar de la ruina a su gentil hermano.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">-1.9.</episode-num>
-  </programme>
-  <programme start="20261113103200 -0300" stop="20261113104300 -0300" air_time_start="20261113103200 -0300" air_time_end="20261113104300 -0300" start_utc="20261113133200 +0000" stop_utc="20261113134300 +0000" air_time_start_utc="20261113133200 +0000" air_time_end_utc="20261113134300 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">ESQUADRÃO DO TEMPO</title>
-    <sub-title lang="pt">Nutorious</sub-title>
-    <desc lang="pt">O famoso inventor de cem usos para o amendoim está em apuros. Seu maligno irmão Todd, está tentando esmagar seu sucesso tentando inventar cem usos malignos para o amendoim. O Esquadrão do Tempo precisa derrotar o vilão louco e salvar seu bondoso irmão da ruína.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">-1.9.</episode-num>
-  </programme>
-  <programme start="20261113104300 -0300" stop="20261113105600 -0300" air_time_start="20261113104300 -0300" air_time_end="20261113105600 -0300" start_utc="20261113134300 +0000" stop_utc="20261113135600 +0000" air_time_start_utc="20261113134300 +0000" air_time_end_utc="20261113135600 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Escuadrón del tiempo</title>
-    <sub-title lang="es">Ludwig von Bone-Crusher</sub-title>
-    <desc lang="es">El gran compositor ha descubierto que la lucha libre es más popular que la música. Belardo promete vencerlo en el cuadrilátero y enviarlo de regreso a su vocación histórica. Beethoven vence a Belardo pero, con la ayuda de Otto, el compositor toma conciencia de que en la música se encuentra su verdadera vocación.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">-1.7.</episode-num>
-  </programme>
-  <programme start="20261113104300 -0300" stop="20261113105600 -0300" air_time_start="20261113104300 -0300" air_time_end="20261113105600 -0300" start_utc="20261113134300 +0000" stop_utc="20261113135600 +0000" air_time_start_utc="20261113134300 +0000" air_time_end_utc="20261113135600 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">ESQUADRÃO DO TEMPO</title>
-    <sub-title lang="pt">Ludwig von Bone-Crusher</sub-title>
-    <desc lang="pt">O grande compositor considera que a luta-livre é mais popular do que tocar música. Abelardo promete vencê-lo no ringue mandando-o de volta ao seu chamado histórico. Beethoven vence o Abelardo, mas com a ajuda do Otto o compositor percebe que seu destino repousa na música.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">-1.7.</episode-num>
-  </programme>
-  <programme start="20261113105600 -0300" stop="20261113110700 -0300" air_time_start="20261113105600 -0300" air_time_end="20261113110700 -0300" start_utc="20261113135600 +0000" stop_utc="20261113140700 +0000" air_time_start_utc="20261113135600 +0000" air_time_end_utc="20261113140700 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">LAS MARAVILLOSAS DESVENTURAS DE FLAPJACK</title>
-    <sub-title lang="es">WHAT'S EATIN' YA, CAP' M?</sub-title>
-    <desc lang="es">Las termitas plagan al Capitán Nudillos.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <episode-num system="xmltv_ns">1.37.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/8pSeWrWQLt52qgn1ORKRoY97yMa.jpg" />
-  </programme>
-  <programme start="20261113105600 -0300" stop="20261113110700 -0300" air_time_start="20261113105600 -0300" air_time_end="20261113110700 -0300" start_utc="20261113135600 +0000" stop_utc="20261113140700 +0000" air_time_start_utc="20261113135600 +0000" air_time_end_utc="20261113140700 +0000" is_live="false" channel="TOONLA_BR.br">
-    <sub-title lang="pt">WHAT'S EATIN' YA, CAP' M?</sub-title>
-    <desc lang="pt">Falange fica infestado de cupins.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <episode-num system="xmltv_ns">1.37.</episode-num>
-  </programme>
-  <programme start="20261113110700 -0300" stop="20261113111700 -0300" air_time_start="20261113110700 -0300" air_time_end="20261113111700 -0300" start_utc="20261113140700 +0000" stop_utc="20261113141700 +0000" air_time_start_utc="20261113140700 +0000" air_time_end_utc="20261113141700 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">LAS MARAVILLOSAS DESVENTURAS DE FLAPJACK</title>
-    <sub-title lang="es">I'M SO PROUD OF ME</sub-title>
-    <desc lang="es">La foto de Flapjack aparece en el periódico, pero no está contento con lo ve.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/aIg2lcw5fOui74WMU5x5jPcJiUQ.jpg" />
-  </programme>
-  <programme start="20261113110700 -0300" stop="20261113111700 -0300" air_time_start="20261113110700 -0300" air_time_end="20261113111700 -0300" start_utc="20261113140700 +0000" stop_utc="20261113141700 +0000" air_time_start_utc="20261113140700 +0000" air_time_end_utc="20261113141700 +0000" is_live="false" channel="TOONLA_BR.br">
-    <sub-title lang="pt">I'M SO PROUD OF ME</sub-title>
-    <desc lang="pt">Uma foto de Flapjack é publicada no jornal, mas ele não fica feliz com o que vê.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
-  </programme>
-  <programme start="20261113111700 -0300" stop="20261113113000 -0300" air_time_start="20261113111700 -0300" air_time_end="20261113113000 -0300" start_utc="20261113141700 +0000" stop_utc="20261113143000 +0000" air_time_start_utc="20261113141700 +0000" air_time_end_utc="20261113143000 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">LAS MARAVILLOSAS DESVENTURAS DE FLAPJACK</title>
-    <sub-title lang="es">MAYOR MAY NOT</sub-title>
-    <desc lang="es">El Capitán Nudillos es el nuevo alcalde de Bahía Tormentosa.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <episode-num system="xmltv_ns">2.40.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/1X20h3nqYSDpdmNr47dY9BzdzVC.jpg" />
-  </programme>
-  <programme start="20261113111700 -0300" stop="20261113113000 -0300" air_time_start="20261113111700 -0300" air_time_end="20261113113000 -0300" start_utc="20261113141700 +0000" stop_utc="20261113143000 +0000" air_time_start_utc="20261113141700 +0000" air_time_end_utc="20261113143000 +0000" is_live="false" channel="TOONLA_BR.br">
-    <sub-title lang="pt">MAYOR MAY NOT</sub-title>
-    <desc lang="pt">Falange é o novo prefeito de Porto Tempestade.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <episode-num system="xmltv_ns">2.40.</episode-num>
-  </programme>
-  <programme start="20261113113000 -0300" stop="20261113114000 -0300" air_time_start="20261113113000 -0300" air_time_end="20261113114000 -0300" start_utc="20261113143000 +0000" stop_utc="20261113144000 +0000" air_time_start_utc="20261113143000 +0000" air_time_end_utc="20261113144000 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">LOS PEQUEÑOS LOONEY TUNES</title>
-    <sub-title lang="es">YOURS, MINE...AND MINE, MINE!</sub-title>
-    <desc lang="es">¡Aquí vienen! Son los Looney Tunes en versión pequeños preescolares, y están listos para aprender y hacerlos reír. En esta serie, verán algunas caras muy conocidas, como a Bugs Bunny, Lola Bunny, Pato Lucas, Taz y Silvestre, y muchos más. Los Pequeños Looney Tunes son muy curiosos y quieren aprender todo lo que les enseña su anciana abuelita. ¡Prepárense para las carcajadas!</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">0.28.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/8PRSzEibqE4TabJ03Y9vsfaVYTK.jpg" />
-  </programme>
-  <programme start="20261113113000 -0300" stop="20261113114000 -0300" air_time_start="20261113113000 -0300" air_time_end="20261113114000 -0300" start_utc="20261113143000 +0000" stop_utc="20261113144000 +0000" air_time_start_utc="20261113143000 +0000" air_time_end_utc="20261113144000 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">BABY LOONEY TUNES</title>
-    <sub-title lang="pt">YOURS, MINE...AND MINE, MINE!</sub-title>
-    <desc lang="pt">Aí vêm eles, os pequeninos Looney Tunes. Eles estão prontos para aprender e ainda farão você rir muito. Nesta série, você verá personagens famosos como Pernalonga, Lola, Patolino, Taz, Frajola e muitos outros. Os Baby Looney Tunes são muito curiosos e têm muito a aprender com a Vovó. Prepare-se para dar altas gargalhadas!</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.28.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/8PRSzEibqE4TabJ03Y9vsfaVYTK.jpg" />
-  </programme>
-  <programme start="20261113114000 -0300" stop="20261113115100 -0300" air_time_start="20261113114000 -0300" air_time_end="20261113115100 -0300" start_utc="20261113144000 +0000" stop_utc="20261113145100 +0000" air_time_start_utc="20261113144000 +0000" air_time_end_utc="20261113145100 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">LOS PEQUEÑOS LOONEY TUNES</title>
-    <sub-title lang="es">BLAST OFF BUGS</sub-title>
-    <desc lang="es">¡Aquí vienen! Son los Looney Tunes en versión pequeños preescolares, y están listos para aprender y hacerlos reír. En esta serie, verán algunas caras muy conocidas, como a Bugs Bunny, Lola Bunny, Pato Lucas, Taz y Silvestre, y muchos más. Los Pequeños Looney Tunes son muy curiosos y quieren aprender todo lo que les enseña su anciana abuelita. ¡Prepárense para las carcajadas!</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">1.44.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/jOhdREIKcakz8BVQdvQVTeYZrQe.jpg" />
-  </programme>
-  <programme start="20261113114000 -0300" stop="20261113115100 -0300" air_time_start="20261113114000 -0300" air_time_end="20261113115100 -0300" start_utc="20261113144000 +0000" stop_utc="20261113145100 +0000" air_time_start_utc="20261113144000 +0000" air_time_end_utc="20261113145100 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">BABY LOONEY TUNES</title>
-    <sub-title lang="pt">BLAST OFF BUGS</sub-title>
-    <desc lang="pt">Aí vêm eles, os pequeninos Looney Tunes. Eles estão prontos para aprender e ainda farão você rir muito. Nesta série, você verá personagens famosos como Pernalonga, Lola, Patolino, Taz, Frajola e muitos outros. Os Baby Looney Tunes são muito curiosos e têm muito a aprender com a Vovó. Prepare-se para dar altas gargalhadas!</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.44.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/jOhdREIKcakz8BVQdvQVTeYZrQe.jpg" />
-  </programme>
-  <programme start="20261113115100 -0300" stop="20261113120200 -0300" air_time_start="20261113115100 -0300" air_time_end="20261113120200 -0300" start_utc="20261113145100 +0000" stop_utc="20261113150200 +0000" air_time_start_utc="20261113145100 +0000" air_time_end_utc="20261113150200 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">LOS PEQUEÑOS LOONEY TUNES</title>
-    <sub-title lang="es">TIME OUT!</sub-title>
-    <desc lang="es">¡Aquí vienen! Son los Looney Tunes en versión pequeños preescolares, y están listos para aprender y hacerlos reír. En esta serie, verán algunas caras muy conocidas, como a Bugs Bunny, Lola Bunny, Pato Lucas, Taz y Silvestre, y muchos más. Los Pequeños Looney Tunes son muy curiosos y quieren aprender todo lo que les enseña su anciana abuelita. ¡Prepárense para las carcajadas!</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">0.35.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/xSeYppIM1pS4u2wjXIZcZIZW0o.jpg" />
-  </programme>
-  <programme start="20261113115100 -0300" stop="20261113120200 -0300" air_time_start="20261113115100 -0300" air_time_end="20261113120200 -0300" start_utc="20261113145100 +0000" stop_utc="20261113150200 +0000" air_time_start_utc="20261113145100 +0000" air_time_end_utc="20261113150200 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">BABY LOONEY TUNES</title>
-    <sub-title lang="pt">TIME OUT!</sub-title>
-    <desc lang="pt">Aí vêm eles, os pequeninos Looney Tunes. Eles estão prontos para aprender e ainda farão você rir muito. Nesta série, você verá personagens famosos como Pernalonga, Lola, Patolino, Taz, Frajola e muitos outros. Os Baby Looney Tunes são muito curiosos e têm muito a aprender com a Vovó. Prepare-se para dar altas gargalhadas!</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.35.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/xSeYppIM1pS4u2wjXIZcZIZW0o.jpg" />
-  </programme>
-  <programme start="20261113120200 -0300" stop="20261113121200 -0300" air_time_start="20261113120200 -0300" air_time_end="20261113121200 -0300" start_utc="20261113150200 +0000" stop_utc="20261113151200 +0000" air_time_start_utc="20261113150200 +0000" air_time_end_utc="20261113151200 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">LOS PEQUEÑOS LOONEY TUNES</title>
-    <sub-title lang="es">BEND IT LIKE PETUNIA</sub-title>
-    <desc lang="es">¡Aquí vienen! Son los Looney Tunes en versión pequeños preescolares, y están listos para aprender y hacerlos reír. En esta serie, verán algunas caras muy conocidas, como a Bugs Bunny, Lola Bunny, Pato Lucas, Taz y Silvestre, y muchos más. Los Pequeños Looney Tunes son muy curiosos y quieren aprender todo lo que les enseña su anciana abuelita. ¡Prepárense para las carcajadas!</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">1.48.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/6i8VvtpoXnB1PZVeyWfufQSvaoo.jpg" />
-  </programme>
-  <programme start="20261113120200 -0300" stop="20261113121200 -0300" air_time_start="20261113120200 -0300" air_time_end="20261113121200 -0300" start_utc="20261113150200 +0000" stop_utc="20261113151200 +0000" air_time_start_utc="20261113150200 +0000" air_time_end_utc="20261113151200 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">BABY LOONEY TUNES</title>
-    <sub-title lang="pt">BEND IT LIKE PETUNIA</sub-title>
-    <desc lang="pt">Aí vêm eles, os pequeninos Looney Tunes. Eles estão prontos para aprender e ainda farão você rir muito. Nesta série, você verá personagens famosos como Pernalonga, Lola, Patolino, Taz, Frajola e muitos outros. Os Baby Looney Tunes são muito curiosos e têm muito a aprender com a Vovó. Prepare-se para dar altas gargalhadas!</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.48.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/6i8VvtpoXnB1PZVeyWfufQSvaoo.jpg" />
-  </programme>
-  <programme start="20261113121200 -0300" stop="20261113122200 -0300" air_time_start="20261113121200 -0300" air_time_end="20261113122200 -0300" start_utc="20261113151200 +0000" stop_utc="20261113152200 +0000" air_time_start_utc="20261113151200 +0000" air_time_end_utc="20261113152200 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">LOS PEQUEÑOS LOONEY TUNES</title>
-    <sub-title lang="es">SHADOW OF A DOUBT</sub-title>
-    <desc lang="es">¡Aquí vienen! Son los Looney Tunes en versión pequeños preescolares, y están listos para aprender y hacerlos reír. En esta serie, verán algunas caras muy conocidas, como a Bugs Bunny, Lola Bunny, Pato Lucas, Taz y Silvestre, y muchos más. Los Pequeños Looney Tunes son muy curiosos y quieren aprender todo lo que les enseña su anciana abuelita. ¡Prepárense para las carcajadas!</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/q9sUBBrzT3aR0Z5UGyK670LrJCS.jpg" />
-  </programme>
-  <programme start="20261113121200 -0300" stop="20261113122200 -0300" air_time_start="20261113121200 -0300" air_time_end="20261113122200 -0300" start_utc="20261113151200 +0000" stop_utc="20261113152200 +0000" air_time_start_utc="20261113151200 +0000" air_time_end_utc="20261113152200 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">BABY LOONEY TUNES</title>
-    <sub-title lang="pt">SHADOW OF A DOUBT</sub-title>
-    <desc lang="pt">Aí vêm eles, os pequeninos Looney Tunes. Eles estão prontos para aprender e ainda farão você rir muito. Nesta série, você verá personagens famosos como Pernalonga, Lola, Patolino, Taz, Frajola e muitos outros. Os Baby Looney Tunes são muito curiosos e têm muito a aprender com a Vovó. Prepare-se para dar altas gargalhadas!</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/q9sUBBrzT3aR0Z5UGyK670LrJCS.jpg" />
-  </programme>
-  <programme start="20261113122200 -0300" stop="20261113123300 -0300" air_time_start="20261113122200 -0300" air_time_end="20261113123300 -0300" start_utc="20261113152200 +0000" stop_utc="20261113153300 +0000" air_time_start_utc="20261113152200 +0000" air_time_end_utc="20261113153300 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">LOS PEQUEÑOS LOONEY TUNES</title>
-    <sub-title lang="es">SYLVESTER THE PESTER</sub-title>
-    <desc lang="es">¡Aquí vienen! Son los Looney Tunes en versión pequeños preescolares, y están listos para aprender y hacerlos reír. En esta serie, verán algunas caras muy conocidas, como a Bugs Bunny, Lola Bunny, Pato Lucas, Taz y Silvestre, y muchos más. Los Pequeños Looney Tunes son muy curiosos y quieren aprender todo lo que les enseña su anciana abuelita. ¡Prepárense para las carcajadas!</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/qem9o7Hwt7qM1Pl7IkiUZcNdD0U.jpg" />
-  </programme>
-  <programme start="20261113122200 -0300" stop="20261113123300 -0300" air_time_start="20261113122200 -0300" air_time_end="20261113123300 -0300" start_utc="20261113152200 +0000" stop_utc="20261113153300 +0000" air_time_start_utc="20261113152200 +0000" air_time_end_utc="20261113153300 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">BABY LOONEY TUNES</title>
-    <sub-title lang="pt">SYLVESTER THE PESTER</sub-title>
-    <desc lang="pt">Aí vêm eles, os pequeninos Looney Tunes. Eles estão prontos para aprender e ainda farão você rir muito. Nesta série, você verá personagens famosos como Pernalonga, Lola, Patolino, Taz, Frajola e muitos outros. Os Baby Looney Tunes são muito curiosos e têm muito a aprender com a Vovó. Prepare-se para dar altas gargalhadas!</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/qem9o7Hwt7qM1Pl7IkiUZcNdD0U.jpg" />
-  </programme>
-  <programme start="20261113123300 -0300" stop="20261113125600 -0300" air_time_start="20261113123300 -0300" air_time_end="20261113125600 -0300" start_utc="20261113153300 +0000" stop_utc="20261113155600 +0000" air_time_start_utc="20261113153300 +0000" air_time_end_utc="20261113155600 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">SCOOBY-DOO ¿DÓNDE ESTÁS?</title>
-    <sub-title lang="es">SCOOBY DOO AND A MUMMY, TOO</sub-title>
-    <desc lang="es">Unos profesores de arqueología le muestran a la pandilla la última adquisición de su universidad: la momia de Ankha, un antiguo faraón egipcio que echó un maleficio sobre aquel que profanara su tumba.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">0.6911.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/vjSW34VmvfmciZ4dkuWWqDLuOWC.jpg" />
-  </programme>
-  <programme start="20261113123300 -0300" stop="20261113125600 -0300" air_time_start="20261113123300 -0300" air_time_end="20261113125600 -0300" start_utc="20261113153300 +0000" stop_utc="20261113155600 +0000" air_time_start_utc="20261113153300 +0000" air_time_end_utc="20261113155600 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SCOOBY-DOO: CADÊ VOCÊ?</title>
-    <sub-title lang="pt">SCOOBY DOO AND A MUMMY, TOO</sub-title>
-    <desc lang="pt">Os professores de arqueologia de uma universidade mostram sua mais nova aquisição: a múmia de Ankha, um líder egípcio ancestral que jogou uma maldição sobre qualquer pessoa que violasse sua tumba.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.6911.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/vjSW34VmvfmciZ4dkuWWqDLuOWC.jpg" />
-  </programme>
-  <programme start="20261113125600 -0300" stop="20261113131900 -0300" air_time_start="20261113125600 -0300" air_time_end="20261113131900 -0300" start_utc="20261113155600 +0000" stop_utc="20261113161900 +0000" air_time_start_utc="20261113155600 +0000" air_time_end_utc="20261113161900 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">SCOOBY-DOO ¿DÓNDE ESTÁS?</title>
-    <sub-title lang="es">Nowhere To Hyde</sub-title>
-    <desc lang="es">Al volver a casa de la tienda de malteadas, los chicos ven al "fantasma de Mr. Hyde", un conocido ladrón de joyas, entrando en una casa tenebrosa. La casa resulta ser del  Dr. Jekyll, que teme estar convirtiéndose en el fantasma de Mr. Hyde. El grupo comienza a buscar pistas en la casa, pero el fantasma los acecha a cada paso.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">1.7000.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/5i9ICf81kzbUqobX9VziVpZrAs5.jpg" />
-  </programme>
-  <programme start="20261113125600 -0300" stop="20261113131900 -0300" air_time_start="20261113125600 -0300" air_time_end="20261113131900 -0300" start_utc="20261113155600 +0000" stop_utc="20261113161900 +0000" air_time_start_utc="20261113155600 +0000" air_time_end_utc="20261113161900 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SCOOBY-DOO: CADÊ VOCÊ?</title>
-    <sub-title lang="pt">Nowhere To Hyde</sub-title>
-    <desc lang="pt">A caminho de casa, a gangue vê "O Fantasma de Mr. Hyde" - um famoso ladrão de jóias - entrando em uma casa assombrada. Depois descobre que lá vive Dr. Jekyll (bisneto do personagem original), que teme estar se transformando no fantasma de Mr. Hyde. A gangue começa a investigar a casa para encontrar provas e vê na empregada uma suspeita. Mas o fantasma não deixa o grupo em paz.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.7000.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/5i9ICf81kzbUqobX9VziVpZrAs5.jpg" />
-  </programme>
-  <programme start="20261113131900 -0300" stop="20261113134000 -0300" air_time_start="20261113131900 -0300" air_time_end="20261113134000 -0300" start_utc="20261113161900 +0000" stop_utc="20261113164000 +0000" air_time_start_utc="20261113161900 +0000" air_time_end_utc="20261113164000 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">SCOOBY-DOO! MISTERIOS S.A.</title>
-    <sub-title lang="es">REVENGE OF THE MAN CRAB</sub-title>
-    <desc lang="es">Durante un torneo de vóley en la playa de Gruta de Cristal, un monstruoso cangrejo gigante ataca a todos los presentes.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/vprx4TSNGT4Xm3CAbU3zPKC5lVX.jpg" />
-  </programme>
-  <programme start="20261113131900 -0300" stop="20261113134000 -0300" air_time_start="20261113131900 -0300" air_time_end="20261113134000 -0300" start_utc="20261113161900 +0000" stop_utc="20261113164000 +0000" air_time_start_utc="20261113161900 +0000" air_time_end_utc="20261113164000 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SCOOBY-DOO! MISTÉRIO S/A</title>
-    <sub-title lang="pt">REVENGE OF THE MAN CRAB</sub-title>
-    <desc lang="pt">Durante uma competição de vôlei na praia de Crystal Cove, um carangueijo gigante ataca os presentes.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/vprx4TSNGT4Xm3CAbU3zPKC5lVX.jpg" />
-  </programme>
-  <programme start="20261113134000 -0300" stop="20261113140400 -0300" air_time_start="20261113134000 -0300" air_time_end="20261113140400 -0300" start_utc="20261113164000 +0000" stop_utc="20261113170400 +0000" air_time_start_utc="20261113164000 +0000" air_time_end_utc="20261113170400 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">SCOOBY-DOO! MISTERIOS S.A.</title>
-    <sub-title lang="es">SCOOBY-DOO! MYSTERY INCORPORATED</sub-title>
-    <desc lang="es">Nuestros héroes siguen el rastro de Pericles y sus secuaces a través de cavernas subterráneas.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">1.50.</episode-num>
-  </programme>
-  <programme start="20261113134000 -0300" stop="20261113140400 -0300" air_time_start="20261113134000 -0300" air_time_end="20261113140400 -0300" start_utc="20261113164000 +0000" stop_utc="20261113170400 +0000" air_time_start_utc="20261113164000 +0000" air_time_end_utc="20261113170400 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">SCOOBY-DOO! MISTÉRIO S/A</title>
-    <sub-title lang="pt">SCOOBY-DOO! MYSTERY INCORPORATED</sub-title>
-    <desc lang="pt">Viajando pelas cavernas subterrâneas, nossos heróis perseguem Pericles e companhia.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.50.</episode-num>
-  </programme>
   <programme start="20261113140400 -0300" stop="20261113142900 -0300" air_time_start="20261113140400 -0300" air_time_end="20261113142900 -0300" start_utc="20261113170400 +0000" stop_utc="20261113172900 +0000" air_time_start_utc="20261113170400 +0000" air_time_end_utc="20261113172900 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">DON GATO Y SU PANDILLA</title>
     <sub-title lang="es">THE CON MEN</sub-title>
@@ -10462,7 +9530,8 @@
   </programme>
   <programme start="20261118060000 -0300" stop="20261118062500 -0300" air_time_start="20261118060000 -0300" air_time_end="20261118062500 -0300" start_utc="20261118090000 +0000" stop_utc="20261118092500 +0000" air_time_start_utc="20261118090000 +0000" air_time_end_utc="20261118092500 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MANSIÓN FOSTER PARA AMIGOS IMAGINARIOS</title>
-    <sub-title lang="es">BERRY SCARY</sub-title>
+    <sub-title lang="es">Episodio 12</sub-title>
+    <sub-title lang="en">BERRY SCARY</sub-title>
     <desc lang="es">Berry es la nueva Amiga Imaginaria de la casa y se ha enamorado perdidamente de Blo. Ahora, cualquier cosa que la aleje de Blu debe ser eliminada... incluso si se trata de su mejor amigo.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Aventuras</category>
@@ -10473,7 +9542,8 @@
   </programme>
   <programme start="20261118060000 -0300" stop="20261118062500 -0300" air_time_start="20261118060000 -0300" air_time_end="20261118062500 -0300" start_utc="20261118090000 +0000" stop_utc="20261118092500 +0000" air_time_start_utc="20261118090000 +0000" air_time_end_utc="20261118092500 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS</title>
-    <sub-title lang="pt">BERRY SCARY</sub-title>
+    <sub-title lang="pt">Episodio 12</sub-title>
+    <sub-title lang="en">BERRY SCARY</sub-title>
     <desc lang="pt">Berry é a nova Amiga Imaginária da Mansão. E ela não tira os olhos de Blu. Agora, tudo o que a faz ficar longe de Blu deve ser retirado, mesmo se for seu melhor amigo, Mac.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Aventura</category>
@@ -10506,7 +9576,8 @@
   </programme>
   <programme start="20261118065000 -0300" stop="20261118070100 -0300" air_time_start="20261118065000 -0300" air_time_end="20261118070100 -0300" start_utc="20261118095000 +0000" stop_utc="20261118100100 +0000" air_time_start_utc="20261118095000 +0000" air_time_end_utc="20261118100100 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">CAMPERS ALL PULL PANTS</sub-title>
+    <sub-title lang="es">Episodio 13</sub-title>
+    <sub-title lang="en">CAMPERS ALL PULL PANTS</sub-title>
     <desc lang="es">¡Alguien está dejando sin pantalones a todos los acampantes y Lazlo está aterrado pensando que él puede ser el siguiente!</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -10515,7 +9586,8 @@
   </programme>
   <programme start="20261118065000 -0300" stop="20261118070100 -0300" air_time_start="20261118065000 -0300" air_time_end="20261118070100 -0300" start_utc="20261118095000 +0000" stop_utc="20261118100100 +0000" air_time_start_utc="20261118095000 +0000" air_time_end_utc="20261118100100 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">CAMPERS ALL PULL PANTS</sub-title>
+    <sub-title lang="pt">Episodio 13</sub-title>
+    <sub-title lang="en">CAMPERS ALL PULL PANTS</sub-title>
     <desc lang="pt">Alguém está assustando todos os acampantes e Lazlo fica aterrorizado por saber que pode ser o próximo!</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -10524,7 +9596,8 @@
   </programme>
   <programme start="20261118070100 -0300" stop="20261118071200 -0300" air_time_start="20261118070100 -0300" air_time_end="20261118071200 -0300" start_utc="20261118100100 +0000" stop_utc="20261118101200 +0000" air_time_start_utc="20261118100100 +0000" air_time_end_utc="20261118101200 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">PARASITIC PAL</sub-title>
+    <sub-title lang="es">Episodio 1</sub-title>
+    <sub-title lang="en">PARASITIC PAL</sub-title>
     <desc lang="es">Lazlo se hace de un nuevo mejor amigo y no es otro explorador, ¡sino una sanguijuela que se encuentra viviendo en su cabeza!</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -10533,7 +9606,8 @@
   </programme>
   <programme start="20261118070100 -0300" stop="20261118071200 -0300" air_time_start="20261118070100 -0300" air_time_end="20261118071200 -0300" start_utc="20261118100100 +0000" stop_utc="20261118101200 +0000" air_time_start_utc="20261118100100 +0000" air_time_end_utc="20261118101200 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">PARASITIC PAL</sub-title>
+    <sub-title lang="pt">Episodio 1</sub-title>
+    <sub-title lang="en">PARASITIC PAL</sub-title>
     <desc lang="pt">O mais novo amigo de Lazlo não é outro acampante , é um parasita! Lazlo fica muito empolgado com isso, mesmo sabendo que essa amizade exigirá muito dele.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -10614,7 +9688,8 @@
   </programme>
   <programme start="20261118080000 -0300" stop="20261118081100 -0300" air_time_start="20261118080000 -0300" air_time_end="20261118081100 -0300" start_utc="20261118110000 +0000" stop_utc="20261118111100 +0000" air_time_start_utc="20261118110000 +0000" air_time_end_utc="20261118111100 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">AIN'T TOO PROUD TO EGG</sub-title>
+    <sub-title lang="es">Episodio 20</sub-title>
+    <sub-title lang="en">AIN'T TOO PROUD TO EGG</sub-title>
     <desc lang="es">Durante una tarea escolar pensada para enseñarles a ser responsables, Adam, Jake y sus amigos, deben cuidar unos huevos. Pero cuando rompen el cascarón, Adam se da cuenta de que la paternidad es más difícil de lo que pensaba.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -10622,7 +9697,8 @@
   </programme>
   <programme start="20261118080000 -0300" stop="20261118081100 -0300" air_time_start="20261118080000 -0300" air_time_end="20261118081100 -0300" start_utc="20261118110000 +0000" stop_utc="20261118111100 +0000" air_time_start_utc="20261118110000 +0000" air_time_end_utc="20261118111100 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">AIN'T TOO PROUD TO EGG</sub-title>
+    <sub-title lang="pt">Episodio 20</sub-title>
+    <sub-title lang="en">AIN'T TOO PROUD TO EGG</sub-title>
     <desc lang="pt">Em uma tarefa escolar cujo objetivo é ensinar responsabilidade, Adão, Jake e o resto da turma recebem alguns ovos para cuidar. Mas, quando os ovos se abrem, Adão se dá conta de que a paternidade não é nada fácil!</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -10630,7 +9706,8 @@
   </programme>
   <programme start="20261118081100 -0300" stop="20261118082200 -0300" air_time_start="20261118081100 -0300" air_time_end="20261118082200 -0300" start_utc="20261118111100 +0000" stop_utc="20261118112200 +0000" air_time_start_utc="20261118111100 +0000" air_time_end_utc="20261118112200 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">I GOT A NEW APTITUDE</sub-title>
+    <sub-title lang="es">Episodio 14</sub-title>
+    <sub-title lang="en">I GOT A NEW APTITUDE</sub-title>
     <desc lang="es">Todos en la escuela pasan un test para ver cuál puede ser su futura carrera y Jake y Adam se sienten decepcionados por los resultados. Deprimidos, los dos amigos comienzan la búsqueda de su verdadero destino.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -10638,7 +9715,8 @@
   </programme>
   <programme start="20261118081100 -0300" stop="20261118082200 -0300" air_time_start="20261118081100 -0300" air_time_end="20261118082200 -0300" start_utc="20261118111100 +0000" stop_utc="20261118112200 +0000" air_time_start_utc="20261118111100 +0000" air_time_end_utc="20261118112200 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">I GOT A NEW APTITUDE</sub-title>
+    <sub-title lang="pt">Episodio 14</sub-title>
+    <sub-title lang="en">I GOT A NEW APTITUDE</sub-title>
     <desc lang="pt">Quando todos na escola fazem um teste para saber quais carreiras poderiam seguir, Jake e Adão se decepcionam com o resultado. Desanimados, os dois amigos saem em uma busca para encontrar seu verdadeiro destino.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -10662,7 +9740,8 @@
   </programme>
   <programme start="20261118083500 -0300" stop="20261118084600 -0300" air_time_start="20261118083500 -0300" air_time_end="20261118084600 -0300" start_utc="20261118113500 +0000" stop_utc="20261118114600 +0000" air_time_start_utc="20261118113500 +0000" air_time_end_utc="20261118114600 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">COOL KIDS</sub-title>
+    <sub-title lang="es">Episodio 16</sub-title>
+    <sub-title lang="en">COOL KIDS</sub-title>
     <desc lang="es">Mientras recibían clases polares en la parte refrigerada de la escuela, Jake se une a una multitud de "chicos en onda" y se olvida por completo de Adam y del resto de sus antiguos amigos.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -10670,7 +9749,8 @@
   </programme>
   <programme start="20261118083500 -0300" stop="20261118084600 -0300" air_time_start="20261118083500 -0300" air_time_end="20261118084600 -0300" start_utc="20261118113500 +0000" stop_utc="20261118114600 +0000" air_time_start_utc="20261118113500 +0000" air_time_end_utc="20261118114600 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">COOL KIDS</sub-title>
+    <sub-title lang="pt">Episodio 16</sub-title>
+    <sub-title lang="en">COOL KIDS</sub-title>
     <desc lang="pt">Enquanto tem aulas polares na parte refrigerada da escola, Jake conhece uma nova turma e se esquece completamente de Adão e do resto de seus velhos amigos.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -10678,7 +9758,8 @@
   </programme>
   <programme start="20261118084600 -0300" stop="20261118085900 -0300" air_time_start="20261118084600 -0300" air_time_end="20261118085900 -0300" start_utc="20261118114600 +0000" stop_utc="20261118115900 +0000" air_time_start_utc="20261118114600 +0000" air_time_end_utc="20261118115900 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">GRUB DRIVE</sub-title>
+    <sub-title lang="es">Episodio 5</sub-title>
+    <sub-title lang="en">GRUB DRIVE</sub-title>
     <desc lang="es">Adam y Jake tienen que vender golosinas para la colecta de fondos anual de la escuela. Por desgracia, las golosinas que venden son larvas cubiertas de chocolate y nadie quiere comprarlas.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -10686,7 +9767,8 @@
   </programme>
   <programme start="20261118084600 -0300" stop="20261118085900 -0300" air_time_start="20261118084600 -0300" air_time_end="20261118085900 -0300" start_utc="20261118114600 +0000" stop_utc="20261118115900 +0000" air_time_start_utc="20261118114600 +0000" air_time_end_utc="20261118115900 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">GRUB DRIVE</sub-title>
+    <sub-title lang="pt">Episodio 5</sub-title>
+    <sub-title lang="en">GRUB DRIVE</sub-title>
     <desc lang="pt">Adão e Jake encarregam-se de vender doces para o programa anual de arrecadação de fundos da escola. Mas, infelizmente, não conseguem vender nenhum, já que estão oferecendo (eca!) Lagartas Cobertas de Chocolate.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -10694,7 +9776,8 @@
   </programme>
   <programme start="20261118085900 -0300" stop="20261118090600 -0300" air_time_start="20261118085900 -0300" air_time_end="20261118090600 -0300" start_utc="20261118115900 +0000" stop_utc="20261118120600 +0000" air_time_start_utc="20261118115900 +0000" air_time_end_utc="20261118120600 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">AMI'S SECRET</sub-title>
+    <sub-title lang="es">Episodio 3</sub-title>
+    <sub-title lang="en">AMI'S SECRET</sub-title>
     <desc lang="es">Ami comienza a actuar extraño y Yumi y Kaz deducen que está emprendiendo una carrera de solista en secreto. Sin embargo, al final se descubre que Ami sólo intentaba ganar un poco de dinero extra para comprarles regalos a Yumi y a Kaz para el "bandiversario" de las Puffy.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -10703,7 +9786,8 @@
   </programme>
   <programme start="20261118085900 -0300" stop="20261118090600 -0300" air_time_start="20261118085900 -0300" air_time_end="20261118090600 -0300" start_utc="20261118115900 +0000" stop_utc="20261118120600 +0000" air_time_start_utc="20261118115900 +0000" air_time_end_utc="20261118120600 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">AMI'S SECRET</sub-title>
+    <sub-title lang="pt">Episodio 3</sub-title>
+    <sub-title lang="en">AMI'S SECRET</sub-title>
     <desc lang="pt">Quando Ami passa a se comportar de maneira estranha, Yumi e Kaz concluem que ela estaria começando uma carreira solo em segredo. Mas, no final, descobre-se que Ami estava apenas tentando ganhar um dinheirinho extra para comprar presentes para Yumi e Kaz pelo aniversário da banda Puffy.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -10712,7 +9796,8 @@
   </programme>
   <programme start="20261118090600 -0300" stop="20261118091200 -0300" air_time_start="20261118090600 -0300" air_time_end="20261118091200 -0300" start_utc="20261118120600 +0000" stop_utc="20261118121200 +0000" air_time_start_utc="20261118120600 +0000" air_time_end_utc="20261118121200 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">CAT FEUD</sub-title>
+    <sub-title lang="es">Episodio 22</sub-title>
+    <sub-title lang="en">CAT FEUD</sub-title>
     <desc lang="es">Kaz trata de meter a los gatos en problemas.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -10720,7 +9805,8 @@
   </programme>
   <programme start="20261118090600 -0300" stop="20261118091200 -0300" air_time_start="20261118090600 -0300" air_time_end="20261118091200 -0300" start_utc="20261118120600 +0000" stop_utc="20261118121200 +0000" air_time_start_utc="20261118120600 +0000" air_time_end_utc="20261118121200 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">CAT FEUD</sub-title>
+    <sub-title lang="pt">Episodio 22</sub-title>
+    <sub-title lang="en">CAT FEUD</sub-title>
     <desc lang="pt">Kaz tenta armar para os gatos para deixá-los em apuros com as garotas, mas ele só consegue arranjar problemas para si mesmo.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -10728,7 +9814,8 @@
   </programme>
   <programme start="20261118091200 -0300" stop="20261118091900 -0300" air_time_start="20261118091200 -0300" air_time_end="20261118091900 -0300" start_utc="20261118121200 +0000" stop_utc="20261118121900 +0000" air_time_start_utc="20261118121200 +0000" air_time_end_utc="20261118121900 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">STOP THE PRESSES</sub-title>
+    <sub-title lang="es">Episodio 29</sub-title>
+    <sub-title lang="en">STOP THE PRESSES</sub-title>
     <desc lang="es">Ami y Yumi intentan recoger periódicos en los que aparece una vergonzosa foto de Ami.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -10737,7 +9824,8 @@
   </programme>
   <programme start="20261118091200 -0300" stop="20261118091900 -0300" air_time_start="20261118091200 -0300" air_time_end="20261118091900 -0300" start_utc="20261118121200 +0000" stop_utc="20261118121900 +0000" air_time_start_utc="20261118121200 +0000" air_time_end_utc="20261118121900 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">STOP THE PRESSES</sub-title>
+    <sub-title lang="pt">Episodio 29</sub-title>
+    <sub-title lang="en">STOP THE PRESSES</sub-title>
     <desc lang="pt">Ami e Yumi tentam recolher os jornais que estampam uma foto vergonhosa de Ami.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -10746,7 +9834,8 @@
   </programme>
   <programme start="20261118091900 -0300" stop="20261118092600 -0300" air_time_start="20261118091900 -0300" air_time_end="20261118092600 -0300" start_utc="20261118121900 +0000" stop_utc="20261118122600 +0000" air_time_start_utc="20261118121900 +0000" air_time_end_utc="20261118122600 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">BAD MANAGER</sub-title>
+    <sub-title lang="es">Episodio 10</sub-title>
+    <sub-title lang="en">BAD MANAGER</sub-title>
     <desc lang="es">Kaz pierde su banda a manos de un representante rival en un acalorado juego de "piedra, papel o tijera" y las chicas descubren los beneficios de tener un buen representante para variar. Sin embargo, las chicas se dan cuenta de que a pesar de todos sus fallos, Kaz es su familia y lo quieren de vuelta.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -10755,7 +9844,8 @@
   </programme>
   <programme start="20261118091900 -0300" stop="20261118092600 -0300" air_time_start="20261118091900 -0300" air_time_end="20261118092600 -0300" start_utc="20261118121900 +0000" stop_utc="20261118122600 +0000" air_time_start_utc="20261118121900 +0000" air_time_end_utc="20261118122600 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">BAD MANAGER</sub-title>
+    <sub-title lang="pt">Episodio 10</sub-title>
+    <sub-title lang="en">BAD MANAGER</sub-title>
     <desc lang="pt">Quando Kaz perde a banda para um empresário rival em um ardente jogo de pedra, papel e tesoura, as garotas descobrem as vantagens de se ter um bom empresário para variar. Ao final, as garotas percebem que apesar de todas as suas falhas, Kaz faz parte da família e elas o querem de volta.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -10764,7 +9854,8 @@
   </programme>
   <programme start="20261118092600 -0300" stop="20261118093500 -0300" air_time_start="20261118092600 -0300" air_time_end="20261118093500 -0300" start_utc="20261118122600 +0000" stop_utc="20261118123500 +0000" air_time_start_utc="20261118122600 +0000" air_time_end_utc="20261118123500 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">AMAZING KAZ-AM, THE</sub-title>
+    <sub-title lang="es">Episodio 11</sub-title>
+    <sub-title lang="en">AMAZING KAZ-AM, THE</sub-title>
     <desc lang="es">Kaz cumple el sueño de su vida de ser mago en las Vegas y lleva a las chicas como sus asistentes. Como su maleta de trucos incluye explosiones, serruchos y piletas con tiburones, Ami y Yumi deberán hacer algo más que sacar conejos de sus galeras para sobrevivir.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -10773,7 +9864,8 @@
   </programme>
   <programme start="20261118092600 -0300" stop="20261118093500 -0300" air_time_start="20261118092600 -0300" air_time_end="20261118093500 -0300" start_utc="20261118122600 +0000" stop_utc="20261118123500 +0000" air_time_start_utc="20261118122600 +0000" air_time_end_utc="20261118123500 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">AMAZING KAZ-AM, THE</sub-title>
+    <sub-title lang="pt">Episodio 11</sub-title>
+    <sub-title lang="en">AMAZING KAZ-AM, THE</sub-title>
     <desc lang="pt">Kaz vive o sonho de sua vida de ser um mágico em Las Vegas e leva as garotas para serem suas assistentes. Quando sua sacola de truques inclui explosões, serras e tanques de tubarões, Ami e Yumi terão que fazer mais do que tirar o coelho da cartola para sobreviver.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -10800,7 +9892,8 @@
   </programme>
   <programme start="20261118094600 -0300" stop="20261118095900 -0300" air_time_start="20261118094600 -0300" air_time_end="20261118095900 -0300" start_utc="20261118124600 +0000" stop_utc="20261118125900 +0000" air_time_start_utc="20261118124600 +0000" air_time_end_utc="20261118125900 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Mike, Lu y Og</title>
-    <sub-title lang="es">Scuba-Doobie Doo</sub-title>
+    <sub-title lang="es">Episodio 12</sub-title>
+    <sub-title lang="en">Scuba-Doobie Doo</sub-title>
     <desc lang="es">Todos se preparan para una visita del cartero.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Aventuras</category>
@@ -10809,7 +9902,8 @@
   </programme>
   <programme start="20261118094600 -0300" stop="20261118095900 -0300" air_time_start="20261118094600 -0300" air_time_end="20261118095900 -0300" start_utc="20261118124600 +0000" stop_utc="20261118125900 +0000" air_time_start_utc="20261118124600 +0000" air_time_end_utc="20261118125900 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MIKE, LU E OG</title>
-    <sub-title lang="pt">Scuba-Doobie Doo</sub-title>
+    <sub-title lang="pt">Episodio 12</sub-title>
+    <sub-title lang="en">Scuba-Doobie Doo</sub-title>
     <desc lang="pt">Os moradores da ilha aguardam ansiosos a chegada do primeiro avião dos correios.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Aventura</category>
@@ -10818,7 +9912,8 @@
   </programme>
   <programme start="20261118095900 -0300" stop="20261118100100 -0300" air_time_start="20261118095900 -0300" air_time_end="20261118100100 -0300" start_utc="20261118125900 +0000" stop_utc="20261118130100 +0000" air_time_start_utc="20261118125900 +0000" air_time_end_utc="20261118130100 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">FUNDUCATIONAL FILM "HISTORY OF CLEARANCE DAY"</sub-title>
+    <sub-title lang="es">En casa para las baaa-caciones</sub-title>
+    <sub-title lang="en">FUNDUCATIONAL FILM "HISTORY OF CLEARANCE DAY"</sub-title>
     <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
@@ -10826,7 +9921,8 @@
   </programme>
   <programme start="20261118095900 -0300" stop="20261118100100 -0300" air_time_start="20261118095900 -0300" air_time_end="20261118100100 -0300" start_utc="20261118125900 +0000" stop_utc="20261118130100 +0000" air_time_start_utc="20261118125900 +0000" air_time_end_utc="20261118130100 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">FUNDUCATIONAL FILM "HISTORY OF CLEARANCE DAY"</sub-title>
+    <sub-title lang="pt">En casa para las baaa-caciones</sub-title>
+    <sub-title lang="en">FUNDUCATIONAL FILM "HISTORY OF CLEARANCE DAY"</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
@@ -10848,7 +9944,8 @@
   </programme>
   <programme start="20261118100200 -0300" stop="20261118100700 -0300" air_time_start="20261118100200 -0300" air_time_end="20261118100700 -0300" start_utc="20261118130200 +0000" stop_utc="20261118130700 +0000" air_time_start_utc="20261118130200 +0000" air_time_end_utc="20261118130700 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">MY FAIR LAMBY</sub-title>
+    <sub-title lang="es">El cordero de mis sueños</sub-title>
+    <sub-title lang="en">MY FAIR LAMBY</sub-title>
     <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.13.</episode-num>
@@ -10856,7 +9953,8 @@
   </programme>
   <programme start="20261118100200 -0300" stop="20261118100700 -0300" air_time_start="20261118100200 -0300" air_time_end="20261118100700 -0300" start_utc="20261118130200 +0000" stop_utc="20261118130700 +0000" air_time_start_utc="20261118130200 +0000" air_time_end_utc="20261118130700 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">MY FAIR LAMBY</sub-title>
+    <sub-title lang="pt">El cordero de mis sueños</sub-title>
+    <sub-title lang="en">MY FAIR LAMBY</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.13.</episode-num>
@@ -10864,7 +9962,8 @@
   </programme>
   <programme start="20261118100700 -0300" stop="20261118100800 -0300" air_time_start="20261118100700 -0300" air_time_end="20261118100800 -0300" start_utc="20261118130700 +0000" stop_utc="20261118130800 +0000" air_time_start_utc="20261118130700 +0000" air_time_end_utc="20261118130800 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">ACTION POP 'EM TRANSFORMERIZORATOR SQUAD GUY</sub-title>
+    <sub-title lang="es">Los balidos de mi corazón</sub-title>
+    <sub-title lang="en">ACTION POP 'EM TRANSFORMERIZORATOR SQUAD GUY</sub-title>
     <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
@@ -10872,7 +9971,8 @@
   </programme>
   <programme start="20261118100700 -0300" stop="20261118100800 -0300" air_time_start="20261118100700 -0300" air_time_end="20261118100800 -0300" start_utc="20261118130700 +0000" stop_utc="20261118130800 +0000" air_time_start_utc="20261118130700 +0000" air_time_end_utc="20261118130800 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">ACTION POP 'EM TRANSFORMERIZORATOR SQUAD GUY</sub-title>
+    <sub-title lang="pt">Los balidos de mi corazón</sub-title>
+    <sub-title lang="en">ACTION POP 'EM TRANSFORMERIZORATOR SQUAD GUY</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
@@ -10880,7 +9980,8 @@
   </programme>
   <programme start="20261118100800 -0300" stop="20261118100900 -0300" air_time_start="20261118100800 -0300" air_time_end="20261118100900 -0300" start_utc="20261118130800 +0000" stop_utc="20261118130900 +0000" air_time_start_utc="20261118130800 +0000" air_time_end_utc="20261118130900 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">MAGICAL PIZZA</sub-title>
+    <sub-title lang="es">La más bella del rebaño</sub-title>
+    <sub-title lang="en">MAGICAL PIZZA</sub-title>
     <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
@@ -10888,7 +9989,8 @@
   </programme>
   <programme start="20261118100800 -0300" stop="20261118100900 -0300" air_time_start="20261118100800 -0300" air_time_end="20261118100900 -0300" start_utc="20261118130800 +0000" stop_utc="20261118130900 +0000" air_time_start_utc="20261118130800 +0000" air_time_end_utc="20261118130900 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">MAGICAL PIZZA</sub-title>
+    <sub-title lang="pt">La más bella del rebaño</sub-title>
+    <sub-title lang="en">MAGICAL PIZZA</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
@@ -10910,7 +10012,8 @@
   </programme>
   <programme start="20261118101100 -0300" stop="20261118101500 -0300" air_time_start="20261118101100 -0300" air_time_end="20261118101500 -0300" start_utc="20261118131100 +0000" stop_utc="20261118131500 +0000" air_time_start_utc="20261118131100 +0000" air_time_end_utc="20261118131500 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">HOME FOR THE BAAH-LIDAYS</sub-title>
+    <sub-title lang="es">En casa para las baaa-caciones</sub-title>
+    <sub-title lang="en">HOME FOR THE BAAH-LIDAYS</sub-title>
     <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
@@ -10918,7 +10021,8 @@
   </programme>
   <programme start="20261118101100 -0300" stop="20261118101500 -0300" air_time_start="20261118101100 -0300" air_time_end="20261118101500 -0300" start_utc="20261118131100 +0000" stop_utc="20261118131500 +0000" air_time_start_utc="20261118131100 +0000" air_time_end_utc="20261118131500 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">HOME FOR THE BAAH-LIDAYS</sub-title>
+    <sub-title lang="pt">En casa para las baaa-caciones</sub-title>
+    <sub-title lang="en">HOME FOR THE BAAH-LIDAYS</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
@@ -10942,7 +10046,8 @@
   </programme>
   <programme start="20261118102000 -0300" stop="20261118102100 -0300" air_time_start="20261118102000 -0300" air_time_end="20261118102100 -0300" start_utc="20261118132000 +0000" stop_utc="20261118132100 +0000" air_time_start_utc="20261118132000 +0000" air_time_end_utc="20261118132100 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">ABOUT PIANO KEYS</sub-title>
+    <sub-title lang="es">Yendo más allá de las ovejas</sub-title>
+    <sub-title lang="en">ABOUT PIANO KEYS</sub-title>
     <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
@@ -10950,7 +10055,8 @@
   </programme>
   <programme start="20261118102000 -0300" stop="20261118102100 -0300" air_time_start="20261118102000 -0300" air_time_end="20261118102100 -0300" start_utc="20261118132000 +0000" stop_utc="20261118132100 +0000" air_time_start_utc="20261118132000 +0000" air_time_end_utc="20261118132100 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">ABOUT PIANO KEYS</sub-title>
+    <sub-title lang="pt">Yendo más allá de las ovejas</sub-title>
+    <sub-title lang="en">ABOUT PIANO KEYS</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
@@ -10958,7 +10064,8 @@
   </programme>
   <programme start="20261118102100 -0300" stop="20261118102200 -0300" air_time_start="20261118102100 -0300" air_time_end="20261118102200 -0300" start_utc="20261118132100 +0000" stop_utc="20261118132200 +0000" air_time_start_utc="20261118132100 +0000" air_time_end_utc="20261118132200 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">ANVIL REPERTORY ENSEMBLE TROUPE PLAYERS GROUP, THE</sub-title>
+    <sub-title lang="es">La agonía del vello</sub-title>
+    <sub-title lang="en">ANVIL REPERTORY ENSEMBLE TROUPE PLAYERS GROUP, THE</sub-title>
     <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
@@ -10966,7 +10073,8 @@
   </programme>
   <programme start="20261118102100 -0300" stop="20261118102200 -0300" air_time_start="20261118102100 -0300" air_time_end="20261118102200 -0300" start_utc="20261118132100 +0000" stop_utc="20261118132200 +0000" air_time_start_utc="20261118132100 +0000" air_time_end_utc="20261118132200 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">ANVIL REPERTORY ENSEMBLE TROUPE PLAYERS GROUP, THE</sub-title>
+    <sub-title lang="pt">La agonía del vello</sub-title>
+    <sub-title lang="en">ANVIL REPERTORY ENSEMBLE TROUPE PLAYERS GROUP, THE</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
@@ -10974,7 +10082,8 @@
   </programme>
   <programme start="20261118102200 -0300" stop="20261118102700 -0300" air_time_start="20261118102200 -0300" air_time_end="20261118102700 -0300" start_utc="20261118132200 +0000" stop_utc="20261118132700 +0000" air_time_start_utc="20261118132200 +0000" air_time_end_utc="20261118132700 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">WOOL YOU BE MINE</sub-title>
+    <sub-title lang="es">Episodio 1</sub-title>
+    <sub-title lang="en">WOOL YOU BE MINE</sub-title>
     <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -10982,7 +10091,8 @@
   </programme>
   <programme start="20261118102200 -0300" stop="20261118102700 -0300" air_time_start="20261118102200 -0300" air_time_end="20261118102700 -0300" start_utc="20261118132200 +0000" stop_utc="20261118132700 +0000" air_time_start_utc="20261118132200 +0000" air_time_end_utc="20261118132700 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">WOOL YOU BE MINE</sub-title>
+    <sub-title lang="pt">Episodio 1</sub-title>
+    <sub-title lang="en">WOOL YOU BE MINE</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -10990,7 +10100,8 @@
   </programme>
   <programme start="20261118102700 -0300" stop="20261118103300 -0300" air_time_start="20261118102700 -0300" air_time_end="20261118103300 -0300" start_utc="20261118132700 +0000" stop_utc="20261118133300 +0000" air_time_start_utc="20261118132700 +0000" air_time_end_utc="20261118133300 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">FLEECED TO MEET YOU</sub-title>
+    <sub-title lang="es">Baaa-lar al pasado</sub-title>
+    <sub-title lang="en">FLEECED TO MEET YOU</sub-title>
     <desc lang="es">Sheep recibe amistosamente a una nueva oveja en la Gran Ciudad. ¿Podrán volverse grandes amigos o tendrá esta sigilosa oveja un secreto plan diabólico? Además: ¡Nuevamente, el Chico Completamente Poderoso no logra cumplir con su misión del día!</desc>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
@@ -10998,7 +10109,8 @@
   </programme>
   <programme start="20261118102700 -0300" stop="20261118103300 -0300" air_time_start="20261118102700 -0300" air_time_end="20261118103300 -0300" start_utc="20261118132700 +0000" stop_utc="20261118133300 +0000" air_time_start_utc="20261118132700 +0000" air_time_end_utc="20261118133300 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">FLEECED TO MEET YOU</sub-title>
+    <sub-title lang="pt">Baaa-lar al pasado</sub-title>
+    <sub-title lang="en">FLEECED TO MEET YOU</sub-title>
     <desc lang="pt">Sheep fica amigo de uma ovelha nova na cidade. Será que eles se tornarão amigos rapidamente ou será que essa furtiva ovelha tem um plano secreto diabólico? Mais: Completely Powerful Guy não salva o dia novamente!</desc>
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
@@ -11038,7 +10150,8 @@
   </programme>
   <programme start="20261118105800 -0300" stop="20261118110900 -0300" air_time_start="20261118105800 -0300" air_time_end="20261118110900 -0300" start_utc="20261118135800 +0000" stop_utc="20261118140900 +0000" air_time_start_utc="20261118135800 +0000" air_time_end_utc="20261118140900 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">LAS MARAVILLOSAS DESVENTURAS DE FLAPJACK</title>
-    <sub-title lang="es">SITTIN' MUSCLE</sub-title>
+    <sub-title lang="es">Afeitado y corte de pelo, dos amigos</sub-title>
+    <sub-title lang="en">SITTIN' MUSCLE</sub-title>
     <desc lang="es">Flapjack y Nudillos viajan al Polo Sur en busca de una parte del cuerpo desaparecida hace mucho tiempo.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Aventuras</category>
@@ -11054,7 +10167,8 @@
   </programme>
   <programme start="20261118110900 -0300" stop="20261118112400 -0300" air_time_start="20261118110900 -0300" air_time_end="20261118112400 -0300" start_utc="20261118140900 +0000" stop_utc="20261118142400 +0000" air_time_start_utc="20261118140900 +0000" air_time_end_utc="20261118142400 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">LAS MARAVILLOSAS DESVENTURAS DE FLAPJACK</title>
-    <sub-title lang="es">PUN TIMES WITH PUNSIE MCKALE</sub-title>
+    <sub-title lang="es">Machacado</sub-title>
+    <sub-title lang="en">PUN TIMES WITH PUNSIE MCKALE</sub-title>
     <desc lang="es">Flapjack ayuda a Larry Menta a luchar contra Punsy McHale en un juego de palabras.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Aventuras</category>
@@ -11070,7 +10184,8 @@
   </programme>
   <programme start="20261118112400 -0300" stop="20261118113500 -0300" air_time_start="20261118112400 -0300" air_time_end="20261118113500 -0300" start_utc="20261118142400 +0000" stop_utc="20261118143500 +0000" air_time_start_utc="20261118142400 +0000" air_time_end_utc="20261118143500 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">LOS PEQUEÑOS LOONEY TUNES</title>
-    <sub-title lang="es">COOL FOR CATS</sub-title>
+    <sub-title lang="es">Episodio 36</sub-title>
+    <sub-title lang="en">COOL FOR CATS</sub-title>
     <desc lang="es">¡Aquí vienen! Son los Looney Tunes en versión pequeños preescolares, y están listos para aprender y hacerlos reír. En esta serie, verán algunas caras muy conocidas, como a Bugs Bunny, Lola Bunny, Pato Lucas, Taz y Silvestre, y muchos más. Los Pequeños Looney Tunes son muy curiosos y quieren aprender todo lo que les enseña su anciana abuelita. ¡Prepárense para las carcajadas!</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -11079,7 +10194,8 @@
   </programme>
   <programme start="20261118112400 -0300" stop="20261118113500 -0300" air_time_start="20261118112400 -0300" air_time_end="20261118113500 -0300" start_utc="20261118142400 +0000" stop_utc="20261118143500 +0000" air_time_start_utc="20261118142400 +0000" air_time_end_utc="20261118143500 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">BABY LOONEY TUNES</title>
-    <sub-title lang="pt">COOL FOR CATS</sub-title>
+    <sub-title lang="pt">Episodio 36</sub-title>
+    <sub-title lang="en">COOL FOR CATS</sub-title>
     <desc lang="pt">Aí vêm eles, os pequeninos Looney Tunes. Eles estão prontos para aprender e ainda farão você rir muito. Nesta série, você verá personagens famosos como Pernalonga, Lola, Patolino, Taz, Frajola e muitos outros. Os Baby Looney Tunes são muito curiosos e têm muito a aprender com a Vovó. Prepare-se para dar altas gargalhadas!</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -11106,7 +10222,8 @@
   </programme>
   <programme start="20261118114500 -0300" stop="20261118115800 -0300" air_time_start="20261118114500 -0300" air_time_end="20261118115800 -0300" start_utc="20261118144500 +0000" stop_utc="20261118145800 +0000" air_time_start_utc="20261118144500 +0000" air_time_end_utc="20261118145800 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">LOS PEQUEÑOS LOONEY TUNES</title>
-    <sub-title lang="es">WAR OF THE WEIRDS</sub-title>
+    <sub-title lang="es">Episodio 19</sub-title>
+    <sub-title lang="en">WAR OF THE WEIRDS</sub-title>
     <desc lang="es">¡Aquí vienen! Son los Looney Tunes en versión pequeños preescolares, y están listos para aprender y hacerlos reír. En esta serie, verán algunas caras muy conocidas, como a Bugs Bunny, Lola Bunny, Pato Lucas, Taz y Silvestre, y muchos más. Los Pequeños Looney Tunes son muy curiosos y quieren aprender todo lo que les enseña su anciana abuelita. ¡Prepárense para las carcajadas!</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -11115,7 +10232,8 @@
   </programme>
   <programme start="20261118114500 -0300" stop="20261118115800 -0300" air_time_start="20261118114500 -0300" air_time_end="20261118115800 -0300" start_utc="20261118144500 +0000" stop_utc="20261118145800 +0000" air_time_start_utc="20261118144500 +0000" air_time_end_utc="20261118145800 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">BABY LOONEY TUNES</title>
-    <sub-title lang="pt">WAR OF THE WEIRDS</sub-title>
+    <sub-title lang="pt">Episodio 19</sub-title>
+    <sub-title lang="en">WAR OF THE WEIRDS</sub-title>
     <desc lang="pt">Aí vêm eles, os pequeninos Looney Tunes. Eles estão prontos para aprender e ainda farão você rir muito. Nesta série, você verá personagens famosos como Pernalonga, Lola, Patolino, Taz, Frajola e muitos outros. Os Baby Looney Tunes são muito curiosos e têm muito a aprender com a Vovó. Prepare-se para dar altas gargalhadas!</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -11142,7 +10260,8 @@
   </programme>
   <programme start="20261118120800 -0300" stop="20261118121900 -0300" air_time_start="20261118120800 -0300" air_time_end="20261118121900 -0300" start_utc="20261118150800 +0000" stop_utc="20261118151900 +0000" air_time_start_utc="20261118150800 +0000" air_time_end_utc="20261118151900 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">LOS PEQUEÑOS LOONEY TUNES</title>
-    <sub-title lang="es">SOME ASSEMBLY REQUIRED</sub-title>
+    <sub-title lang="es">Episodio 16</sub-title>
+    <sub-title lang="en">SOME ASSEMBLY REQUIRED</sub-title>
     <desc lang="es">¡Aquí vienen! Son los Looney Tunes en versión pequeños preescolares, y están listos para aprender y hacerlos reír. En esta serie, verán algunas caras muy conocidas, como a Bugs Bunny, Lola Bunny, Pato Lucas, Taz y Silvestre, y muchos más. Los Pequeños Looney Tunes son muy curiosos y quieren aprender todo lo que les enseña su anciana abuelita. ¡Prepárense para las carcajadas!</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -11151,7 +10270,8 @@
   </programme>
   <programme start="20261118120800 -0300" stop="20261118121900 -0300" air_time_start="20261118120800 -0300" air_time_end="20261118121900 -0300" start_utc="20261118150800 +0000" stop_utc="20261118151900 +0000" air_time_start_utc="20261118150800 +0000" air_time_end_utc="20261118151900 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">BABY LOONEY TUNES</title>
-    <sub-title lang="pt">SOME ASSEMBLY REQUIRED</sub-title>
+    <sub-title lang="pt">Episodio 16</sub-title>
+    <sub-title lang="en">SOME ASSEMBLY REQUIRED</sub-title>
     <desc lang="pt">Aí vêm eles, os pequeninos Looney Tunes. Eles estão prontos para aprender e ainda farão você rir muito. Nesta série, você verá personagens famosos como Pernalonga, Lola, Patolino, Taz, Frajola e muitos outros. Os Baby Looney Tunes são muito curiosos e têm muito a aprender com a Vovó. Prepare-se para dar altas gargalhadas!</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -11300,7 +10420,8 @@
   </programme>
   <programme start="20261118151800 -0300" stop="20261118154600 -0300" air_time_start="20261118151800 -0300" air_time_end="20261118154600 -0300" start_utc="20261118181800 +0000" stop_utc="20261118184600 +0000" air_time_start_utc="20261118181800 +0000" air_time_end_utc="20261118184600 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">LOS PICAPIEDRA</title>
-    <sub-title lang="es">The Swimming Pool</sub-title>
+    <sub-title lang="es">La piscina</sub-title>
+    <sub-title lang="en">The Swimming Pool</sub-title>
     <desc lang="es">La amistad de Pedro y Pablo tambalea cuando deciden asociarse para construir una piscina.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -11309,7 +10430,8 @@
   </programme>
   <programme start="20261118151800 -0300" stop="20261118154600 -0300" air_time_start="20261118151800 -0300" air_time_end="20261118154600 -0300" start_utc="20261118181800 +0000" stop_utc="20261118184600 +0000" air_time_start_utc="20261118181800 +0000" air_time_end_utc="20261118184600 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">OS FLINTSTONES</title>
-    <sub-title lang="pt">The Swimming Pool</sub-title>
+    <sub-title lang="pt">La piscina</sub-title>
+    <sub-title lang="en">The Swimming Pool</sub-title>
     <desc lang="pt">A amizade de Fred e Barney é testada quando eles compram uma piscina em sociedade.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -11470,7 +10592,8 @@
   </programme>
   <programme start="20261118180500 -0300" stop="20261118182800 -0300" air_time_start="20261118180500 -0300" air_time_end="20261118182800 -0300" start_utc="20261118210500 +0000" stop_utc="20261118212800 +0000" air_time_start_utc="20261118210500 +0000" air_time_end_utc="20261118212800 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MANSIÓN FOSTER PARA AMIGOS IMAGINARIOS</title>
-    <sub-title lang="es">BERRY SCARY</sub-title>
+    <sub-title lang="es">Episodio 12</sub-title>
+    <sub-title lang="en">BERRY SCARY</sub-title>
     <desc lang="es">Berry es la nueva Amiga Imaginaria de la casa y se ha enamorado perdidamente de Blo. Ahora, cualquier cosa que la aleje de Blu debe ser eliminada... incluso si se trata de su mejor amigo.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Aventuras</category>
@@ -11481,7 +10604,8 @@
   </programme>
   <programme start="20261118180500 -0300" stop="20261118182800 -0300" air_time_start="20261118180500 -0300" air_time_end="20261118182800 -0300" start_utc="20261118210500 +0000" stop_utc="20261118212800 +0000" air_time_start_utc="20261118210500 +0000" air_time_end_utc="20261118212800 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS</title>
-    <sub-title lang="pt">BERRY SCARY</sub-title>
+    <sub-title lang="pt">Episodio 12</sub-title>
+    <sub-title lang="en">BERRY SCARY</sub-title>
     <desc lang="pt">Berry é a nova Amiga Imaginária da Mansão. E ela não tira os olhos de Blu. Agora, tudo o que a faz ficar longe de Blu deve ser retirado, mesmo se for seu melhor amigo, Mac.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Aventura</category>
@@ -11514,7 +10638,8 @@
   </programme>
   <programme start="20261118185200 -0300" stop="20261118190300 -0300" air_time_start="20261118185200 -0300" air_time_end="20261118190300 -0300" start_utc="20261118215200 +0000" stop_utc="20261118220300 +0000" air_time_start_utc="20261118215200 +0000" air_time_end_utc="20261118220300 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">CAMPERS ALL PULL PANTS</sub-title>
+    <sub-title lang="es">Episodio 13</sub-title>
+    <sub-title lang="en">CAMPERS ALL PULL PANTS</sub-title>
     <desc lang="es">¡Alguien está dejando sin pantalones a todos los acampantes y Lazlo está aterrado pensando que él puede ser el siguiente!</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -11523,7 +10648,8 @@
   </programme>
   <programme start="20261118185200 -0300" stop="20261118190300 -0300" air_time_start="20261118185200 -0300" air_time_end="20261118190300 -0300" start_utc="20261118215200 +0000" stop_utc="20261118220300 +0000" air_time_start_utc="20261118215200 +0000" air_time_end_utc="20261118220300 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">CAMPERS ALL PULL PANTS</sub-title>
+    <sub-title lang="pt">Episodio 13</sub-title>
+    <sub-title lang="en">CAMPERS ALL PULL PANTS</sub-title>
     <desc lang="pt">Alguém está assustando todos os acampantes e Lazlo fica aterrorizado por saber que pode ser o próximo!</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -11532,7 +10658,8 @@
   </programme>
   <programme start="20261118190300 -0300" stop="20261118191400 -0300" air_time_start="20261118190300 -0300" air_time_end="20261118191400 -0300" start_utc="20261118220300 +0000" stop_utc="20261118221400 +0000" air_time_start_utc="20261118220300 +0000" air_time_end_utc="20261118221400 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">PARASITIC PAL</sub-title>
+    <sub-title lang="es">Episodio 1</sub-title>
+    <sub-title lang="en">PARASITIC PAL</sub-title>
     <desc lang="es">Lazlo se hace de un nuevo mejor amigo y no es otro explorador, ¡sino una sanguijuela que se encuentra viviendo en su cabeza!</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -11541,7 +10668,8 @@
   </programme>
   <programme start="20261118190300 -0300" stop="20261118191400 -0300" air_time_start="20261118190300 -0300" air_time_end="20261118191400 -0300" start_utc="20261118220300 +0000" stop_utc="20261118221400 +0000" air_time_start_utc="20261118220300 +0000" air_time_end_utc="20261118221400 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">PARASITIC PAL</sub-title>
+    <sub-title lang="pt">Episodio 1</sub-title>
+    <sub-title lang="en">PARASITIC PAL</sub-title>
     <desc lang="pt">O mais novo amigo de Lazlo não é outro acampante , é um parasita! Lazlo fica muito empolgado com isso, mesmo sabendo que essa amizade exigirá muito dele.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -11622,7 +10750,8 @@
   </programme>
   <programme start="20261118200200 -0300" stop="20261118201300 -0300" air_time_start="20261118200200 -0300" air_time_end="20261118201300 -0300" start_utc="20261118230200 +0000" stop_utc="20261118231300 +0000" air_time_start_utc="20261118230200 +0000" air_time_end_utc="20261118231300 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">AIN'T TOO PROUD TO EGG</sub-title>
+    <sub-title lang="es">Episodio 20</sub-title>
+    <sub-title lang="en">AIN'T TOO PROUD TO EGG</sub-title>
     <desc lang="es">Durante una tarea escolar pensada para enseñarles a ser responsables, Adam, Jake y sus amigos, deben cuidar unos huevos. Pero cuando rompen el cascarón, Adam se da cuenta de que la paternidad es más difícil de lo que pensaba.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -11630,7 +10759,8 @@
   </programme>
   <programme start="20261118200200 -0300" stop="20261118201300 -0300" air_time_start="20261118200200 -0300" air_time_end="20261118201300 -0300" start_utc="20261118230200 +0000" stop_utc="20261118231300 +0000" air_time_start_utc="20261118230200 +0000" air_time_end_utc="20261118231300 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">AIN'T TOO PROUD TO EGG</sub-title>
+    <sub-title lang="pt">Episodio 20</sub-title>
+    <sub-title lang="en">AIN'T TOO PROUD TO EGG</sub-title>
     <desc lang="pt">Em uma tarefa escolar cujo objetivo é ensinar responsabilidade, Adão, Jake e o resto da turma recebem alguns ovos para cuidar. Mas, quando os ovos se abrem, Adão se dá conta de que a paternidade não é nada fácil!</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -11638,7 +10768,8 @@
   </programme>
   <programme start="20261118201300 -0300" stop="20261118202400 -0300" air_time_start="20261118201300 -0300" air_time_end="20261118202400 -0300" start_utc="20261118231300 +0000" stop_utc="20261118232400 +0000" air_time_start_utc="20261118231300 +0000" air_time_end_utc="20261118232400 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">I GOT A NEW APTITUDE</sub-title>
+    <sub-title lang="es">Episodio 14</sub-title>
+    <sub-title lang="en">I GOT A NEW APTITUDE</sub-title>
     <desc lang="es">Todos en la escuela pasan un test para ver cuál puede ser su futura carrera y Jake y Adam se sienten decepcionados por los resultados. Deprimidos, los dos amigos comienzan la búsqueda de su verdadero destino.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -11646,7 +10777,8 @@
   </programme>
   <programme start="20261118201300 -0300" stop="20261118202400 -0300" air_time_start="20261118201300 -0300" air_time_end="20261118202400 -0300" start_utc="20261118231300 +0000" stop_utc="20261118232400 +0000" air_time_start_utc="20261118231300 +0000" air_time_end_utc="20261118232400 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">I GOT A NEW APTITUDE</sub-title>
+    <sub-title lang="pt">Episodio 14</sub-title>
+    <sub-title lang="en">I GOT A NEW APTITUDE</sub-title>
     <desc lang="pt">Quando todos na escola fazem um teste para saber quais carreiras poderiam seguir, Jake e Adão se decepcionam com o resultado. Desanimados, os dois amigos saem em uma busca para encontrar seu verdadeiro destino.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -11670,7 +10802,8 @@
   </programme>
   <programme start="20261118203700 -0300" stop="20261118204800 -0300" air_time_start="20261118203700 -0300" air_time_end="20261118204800 -0300" start_utc="20261118233700 +0000" stop_utc="20261118234800 +0000" air_time_start_utc="20261118233700 +0000" air_time_end_utc="20261118234800 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">COOL KIDS</sub-title>
+    <sub-title lang="es">Episodio 16</sub-title>
+    <sub-title lang="en">COOL KIDS</sub-title>
     <desc lang="es">Mientras recibían clases polares en la parte refrigerada de la escuela, Jake se une a una multitud de "chicos en onda" y se olvida por completo de Adam y del resto de sus antiguos amigos.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -11678,7 +10811,8 @@
   </programme>
   <programme start="20261118203700 -0300" stop="20261118204800 -0300" air_time_start="20261118203700 -0300" air_time_end="20261118204800 -0300" start_utc="20261118233700 +0000" stop_utc="20261118234800 +0000" air_time_start_utc="20261118233700 +0000" air_time_end_utc="20261118234800 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">COOL KIDS</sub-title>
+    <sub-title lang="pt">Episodio 16</sub-title>
+    <sub-title lang="en">COOL KIDS</sub-title>
     <desc lang="pt">Enquanto tem aulas polares na parte refrigerada da escola, Jake conhece uma nova turma e se esquece completamente de Adão e do resto de seus velhos amigos.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -11686,7 +10820,8 @@
   </programme>
   <programme start="20261118204800 -0300" stop="20261118210200 -0300" air_time_start="20261118204800 -0300" air_time_end="20261118210200 -0300" start_utc="20261118234800 +0000" stop_utc="20261119000200 +0000" air_time_start_utc="20261118234800 +0000" air_time_end_utc="20261119000200 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">GRUB DRIVE</sub-title>
+    <sub-title lang="es">Episodio 5</sub-title>
+    <sub-title lang="en">GRUB DRIVE</sub-title>
     <desc lang="es">Adam y Jake tienen que vender golosinas para la colecta de fondos anual de la escuela. Por desgracia, las golosinas que venden son larvas cubiertas de chocolate y nadie quiere comprarlas.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -11694,7 +10829,8 @@
   </programme>
   <programme start="20261118204800 -0300" stop="20261118210200 -0300" air_time_start="20261118204800 -0300" air_time_end="20261118210200 -0300" start_utc="20261118234800 +0000" stop_utc="20261119000200 +0000" air_time_start_utc="20261118234800 +0000" air_time_end_utc="20261119000200 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">GRUB DRIVE</sub-title>
+    <sub-title lang="pt">Episodio 5</sub-title>
+    <sub-title lang="en">GRUB DRIVE</sub-title>
     <desc lang="pt">Adão e Jake encarregam-se de vender doces para o programa anual de arrecadação de fundos da escola. Mas, infelizmente, não conseguem vender nenhum, já que estão oferecendo (eca!) Lagartas Cobertas de Chocolate.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -11702,7 +10838,8 @@
   </programme>
   <programme start="20261118210200 -0300" stop="20261118210800 -0300" air_time_start="20261118210200 -0300" air_time_end="20261118210800 -0300" start_utc="20261119000200 +0000" stop_utc="20261119000800 +0000" air_time_start_utc="20261119000200 +0000" air_time_end_utc="20261119000800 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">AMI'S SECRET</sub-title>
+    <sub-title lang="es">Episodio 3</sub-title>
+    <sub-title lang="en">AMI'S SECRET</sub-title>
     <desc lang="es">Ami comienza a actuar extraño y Yumi y Kaz deducen que está emprendiendo una carrera de solista en secreto. Sin embargo, al final se descubre que Ami sólo intentaba ganar un poco de dinero extra para comprarles regalos a Yumi y a Kaz para el "bandiversario" de las Puffy.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -11711,7 +10848,8 @@
   </programme>
   <programme start="20261118210200 -0300" stop="20261118210800 -0300" air_time_start="20261118210200 -0300" air_time_end="20261118210800 -0300" start_utc="20261119000200 +0000" stop_utc="20261119000800 +0000" air_time_start_utc="20261119000200 +0000" air_time_end_utc="20261119000800 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">AMI'S SECRET</sub-title>
+    <sub-title lang="pt">Episodio 3</sub-title>
+    <sub-title lang="en">AMI'S SECRET</sub-title>
     <desc lang="pt">Quando Ami passa a se comportar de maneira estranha, Yumi e Kaz concluem que ela estaria começando uma carreira solo em segredo. Mas, no final, descobre-se que Ami estava apenas tentando ganhar um dinheirinho extra para comprar presentes para Yumi e Kaz pelo aniversário da banda Puffy.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -11720,7 +10858,8 @@
   </programme>
   <programme start="20261118210800 -0300" stop="20261118211500 -0300" air_time_start="20261118210800 -0300" air_time_end="20261118211500 -0300" start_utc="20261119000800 +0000" stop_utc="20261119001500 +0000" air_time_start_utc="20261119000800 +0000" air_time_end_utc="20261119001500 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">CAT FEUD</sub-title>
+    <sub-title lang="es">Episodio 22</sub-title>
+    <sub-title lang="en">CAT FEUD</sub-title>
     <desc lang="es">Kaz trata de meter a los gatos en problemas.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -11728,7 +10867,8 @@
   </programme>
   <programme start="20261118210800 -0300" stop="20261118211500 -0300" air_time_start="20261118210800 -0300" air_time_end="20261118211500 -0300" start_utc="20261119000800 +0000" stop_utc="20261119001500 +0000" air_time_start_utc="20261119000800 +0000" air_time_end_utc="20261119001500 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">CAT FEUD</sub-title>
+    <sub-title lang="pt">Episodio 22</sub-title>
+    <sub-title lang="en">CAT FEUD</sub-title>
     <desc lang="pt">Kaz tenta armar para os gatos para deixá-los em apuros com as garotas, mas ele só consegue arranjar problemas para si mesmo.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -11736,7 +10876,8 @@
   </programme>
   <programme start="20261118211500 -0300" stop="20261118212100 -0300" air_time_start="20261118211500 -0300" air_time_end="20261118212100 -0300" start_utc="20261119001500 +0000" stop_utc="20261119002100 +0000" air_time_start_utc="20261119001500 +0000" air_time_end_utc="20261119002100 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">STOP THE PRESSES</sub-title>
+    <sub-title lang="es">Episodio 29</sub-title>
+    <sub-title lang="en">STOP THE PRESSES</sub-title>
     <desc lang="es">Ami y Yumi intentan recoger periódicos en los que aparece una vergonzosa foto de Ami.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -11745,7 +10886,8 @@
   </programme>
   <programme start="20261118211500 -0300" stop="20261118212100 -0300" air_time_start="20261118211500 -0300" air_time_end="20261118212100 -0300" start_utc="20261119001500 +0000" stop_utc="20261119002100 +0000" air_time_start_utc="20261119001500 +0000" air_time_end_utc="20261119002100 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">STOP THE PRESSES</sub-title>
+    <sub-title lang="pt">Episodio 29</sub-title>
+    <sub-title lang="en">STOP THE PRESSES</sub-title>
     <desc lang="pt">Ami e Yumi tentam recolher os jornais que estampam uma foto vergonhosa de Ami.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -11754,7 +10896,8 @@
   </programme>
   <programme start="20261118212100 -0300" stop="20261118212800 -0300" air_time_start="20261118212100 -0300" air_time_end="20261118212800 -0300" start_utc="20261119002100 +0000" stop_utc="20261119002800 +0000" air_time_start_utc="20261119002100 +0000" air_time_end_utc="20261119002800 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">BAD MANAGER</sub-title>
+    <sub-title lang="es">Episodio 10</sub-title>
+    <sub-title lang="en">BAD MANAGER</sub-title>
     <desc lang="es">Kaz pierde su banda a manos de un representante rival en un acalorado juego de "piedra, papel o tijera" y las chicas descubren los beneficios de tener un buen representante para variar. Sin embargo, las chicas se dan cuenta de que a pesar de todos sus fallos, Kaz es su familia y lo quieren de vuelta.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -11763,7 +10906,8 @@
   </programme>
   <programme start="20261118212100 -0300" stop="20261118212800 -0300" air_time_start="20261118212100 -0300" air_time_end="20261118212800 -0300" start_utc="20261119002100 +0000" stop_utc="20261119002800 +0000" air_time_start_utc="20261119002100 +0000" air_time_end_utc="20261119002800 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">BAD MANAGER</sub-title>
+    <sub-title lang="pt">Episodio 10</sub-title>
+    <sub-title lang="en">BAD MANAGER</sub-title>
     <desc lang="pt">Quando Kaz perde a banda para um empresário rival em um ardente jogo de pedra, papel e tesoura, as garotas descobrem as vantagens de se ter um bom empresário para variar. Ao final, as garotas percebem que apesar de todas as suas falhas, Kaz faz parte da família e elas o querem de volta.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -11772,7 +10916,8 @@
   </programme>
   <programme start="20261118212800 -0300" stop="20261118213800 -0300" air_time_start="20261118212800 -0300" air_time_end="20261118213800 -0300" start_utc="20261119002800 +0000" stop_utc="20261119003800 +0000" air_time_start_utc="20261119002800 +0000" air_time_end_utc="20261119003800 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">AMAZING KAZ-AM, THE</sub-title>
+    <sub-title lang="es">Episodio 11</sub-title>
+    <sub-title lang="en">AMAZING KAZ-AM, THE</sub-title>
     <desc lang="es">Kaz cumple el sueño de su vida de ser mago en las Vegas y lleva a las chicas como sus asistentes. Como su maleta de trucos incluye explosiones, serruchos y piletas con tiburones, Ami y Yumi deberán hacer algo más que sacar conejos de sus galeras para sobrevivir.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -11781,7 +10926,8 @@
   </programme>
   <programme start="20261118212800 -0300" stop="20261118213800 -0300" air_time_start="20261118212800 -0300" air_time_end="20261118213800 -0300" start_utc="20261119002800 +0000" stop_utc="20261119003800 +0000" air_time_start_utc="20261119002800 +0000" air_time_end_utc="20261119003800 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">AMAZING KAZ-AM, THE</sub-title>
+    <sub-title lang="pt">Episodio 11</sub-title>
+    <sub-title lang="en">AMAZING KAZ-AM, THE</sub-title>
     <desc lang="pt">Kaz vive o sonho de sua vida de ser um mágico em Las Vegas e leva as garotas para serem suas assistentes. Quando sua sacola de truques inclui explosões, serras e tanques de tubarões, Ami e Yumi terão que fazer mais do que tirar o coelho da cartola para sobreviver.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -11808,7 +10954,8 @@
   </programme>
   <programme start="20261118214900 -0300" stop="20261118220200 -0300" air_time_start="20261118214900 -0300" air_time_end="20261118220200 -0300" start_utc="20261119004900 +0000" stop_utc="20261119010200 +0000" air_time_start_utc="20261119004900 +0000" air_time_end_utc="20261119010200 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Mike, Lu y Og</title>
-    <sub-title lang="es">Scuba-Doobie Doo</sub-title>
+    <sub-title lang="es">Episodio 12</sub-title>
+    <sub-title lang="en">Scuba-Doobie Doo</sub-title>
     <desc lang="es">Todos se preparan para una visita del cartero.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Aventuras</category>
@@ -11817,7 +10964,8 @@
   </programme>
   <programme start="20261118214900 -0300" stop="20261118220200 -0300" air_time_start="20261118214900 -0300" air_time_end="20261118220200 -0300" start_utc="20261119004900 +0000" stop_utc="20261119010200 +0000" air_time_start_utc="20261119004900 +0000" air_time_end_utc="20261119010200 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MIKE, LU E OG</title>
-    <sub-title lang="pt">Scuba-Doobie Doo</sub-title>
+    <sub-title lang="pt">Episodio 12</sub-title>
+    <sub-title lang="en">Scuba-Doobie Doo</sub-title>
     <desc lang="pt">Os moradores da ilha aguardam ansiosos a chegada do primeiro avião dos correios.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Aventura</category>
@@ -11826,7 +10974,8 @@
   </programme>
   <programme start="20261118220200 -0300" stop="20261118220300 -0300" air_time_start="20261118220200 -0300" air_time_end="20261118220300 -0300" start_utc="20261119010200 +0000" stop_utc="20261119010300 +0000" air_time_start_utc="20261119010200 +0000" air_time_end_utc="20261119010300 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">FUNDUCATIONAL FILM "HISTORY OF CLEARANCE DAY"</sub-title>
+    <sub-title lang="es">En casa para las baaa-caciones</sub-title>
+    <sub-title lang="en">FUNDUCATIONAL FILM "HISTORY OF CLEARANCE DAY"</sub-title>
     <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
@@ -11834,7 +10983,8 @@
   </programme>
   <programme start="20261118220200 -0300" stop="20261118220300 -0300" air_time_start="20261118220200 -0300" air_time_end="20261118220300 -0300" start_utc="20261119010200 +0000" stop_utc="20261119010300 +0000" air_time_start_utc="20261119010200 +0000" air_time_end_utc="20261119010300 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">FUNDUCATIONAL FILM "HISTORY OF CLEARANCE DAY"</sub-title>
+    <sub-title lang="pt">En casa para las baaa-caciones</sub-title>
+    <sub-title lang="en">FUNDUCATIONAL FILM "HISTORY OF CLEARANCE DAY"</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
@@ -11856,7 +11006,8 @@
   </programme>
   <programme start="20261118220500 -0300" stop="20261118220900 -0300" air_time_start="20261118220500 -0300" air_time_end="20261118220900 -0300" start_utc="20261119010500 +0000" stop_utc="20261119010900 +0000" air_time_start_utc="20261119010500 +0000" air_time_end_utc="20261119010900 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">MY FAIR LAMBY</sub-title>
+    <sub-title lang="es">El cordero de mis sueños</sub-title>
+    <sub-title lang="en">MY FAIR LAMBY</sub-title>
     <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.13.</episode-num>
@@ -11864,7 +11015,8 @@
   </programme>
   <programme start="20261118220500 -0300" stop="20261118220900 -0300" air_time_start="20261118220500 -0300" air_time_end="20261118220900 -0300" start_utc="20261119010500 +0000" stop_utc="20261119010900 +0000" air_time_start_utc="20261119010500 +0000" air_time_end_utc="20261119010900 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">MY FAIR LAMBY</sub-title>
+    <sub-title lang="pt">El cordero de mis sueños</sub-title>
+    <sub-title lang="en">MY FAIR LAMBY</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.13.</episode-num>
@@ -11872,7 +11024,8 @@
   </programme>
   <programme start="20261118220900 -0300" stop="20261118221000 -0300" air_time_start="20261118220900 -0300" air_time_end="20261118221000 -0300" start_utc="20261119010900 +0000" stop_utc="20261119011000 +0000" air_time_start_utc="20261119010900 +0000" air_time_end_utc="20261119011000 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">ACTION POP 'EM TRANSFORMERIZORATOR SQUAD GUY</sub-title>
+    <sub-title lang="es">Los balidos de mi corazón</sub-title>
+    <sub-title lang="en">ACTION POP 'EM TRANSFORMERIZORATOR SQUAD GUY</sub-title>
     <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
@@ -11880,7 +11033,8 @@
   </programme>
   <programme start="20261118220900 -0300" stop="20261118221000 -0300" air_time_start="20261118220900 -0300" air_time_end="20261118221000 -0300" start_utc="20261119010900 +0000" stop_utc="20261119011000 +0000" air_time_start_utc="20261119010900 +0000" air_time_end_utc="20261119011000 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">ACTION POP 'EM TRANSFORMERIZORATOR SQUAD GUY</sub-title>
+    <sub-title lang="pt">Los balidos de mi corazón</sub-title>
+    <sub-title lang="en">ACTION POP 'EM TRANSFORMERIZORATOR SQUAD GUY</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
@@ -11888,7 +11042,8 @@
   </programme>
   <programme start="20261118221000 -0300" stop="20261118221100 -0300" air_time_start="20261118221000 -0300" air_time_end="20261118221100 -0300" start_utc="20261119011000 +0000" stop_utc="20261119011100 +0000" air_time_start_utc="20261119011000 +0000" air_time_end_utc="20261119011100 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">MAGICAL PIZZA</sub-title>
+    <sub-title lang="es">La más bella del rebaño</sub-title>
+    <sub-title lang="en">MAGICAL PIZZA</sub-title>
     <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
@@ -11896,7 +11051,8 @@
   </programme>
   <programme start="20261118221000 -0300" stop="20261118221100 -0300" air_time_start="20261118221000 -0300" air_time_end="20261118221100 -0300" start_utc="20261119011000 +0000" stop_utc="20261119011100 +0000" air_time_start_utc="20261119011000 +0000" air_time_end_utc="20261119011100 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">MAGICAL PIZZA</sub-title>
+    <sub-title lang="pt">La más bella del rebaño</sub-title>
+    <sub-title lang="en">MAGICAL PIZZA</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
@@ -11918,7 +11074,8 @@
   </programme>
   <programme start="20261118221400 -0300" stop="20261118221800 -0300" air_time_start="20261118221400 -0300" air_time_end="20261118221800 -0300" start_utc="20261119011400 +0000" stop_utc="20261119011800 +0000" air_time_start_utc="20261119011400 +0000" air_time_end_utc="20261119011800 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">HOME FOR THE BAAH-LIDAYS</sub-title>
+    <sub-title lang="es">En casa para las baaa-caciones</sub-title>
+    <sub-title lang="en">HOME FOR THE BAAH-LIDAYS</sub-title>
     <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
@@ -11926,7 +11083,8 @@
   </programme>
   <programme start="20261118221400 -0300" stop="20261118221800 -0300" air_time_start="20261118221400 -0300" air_time_end="20261118221800 -0300" start_utc="20261119011400 +0000" stop_utc="20261119011800 +0000" air_time_start_utc="20261119011400 +0000" air_time_end_utc="20261119011800 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">HOME FOR THE BAAH-LIDAYS</sub-title>
+    <sub-title lang="pt">En casa para las baaa-caciones</sub-title>
+    <sub-title lang="en">HOME FOR THE BAAH-LIDAYS</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
@@ -11950,7 +11108,8 @@
   </programme>
   <programme start="20261118222200 -0300" stop="20261118222300 -0300" air_time_start="20261118222200 -0300" air_time_end="20261118222300 -0300" start_utc="20261119012200 +0000" stop_utc="20261119012300 +0000" air_time_start_utc="20261119012200 +0000" air_time_end_utc="20261119012300 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">ABOUT PIANO KEYS</sub-title>
+    <sub-title lang="es">Yendo más allá de las ovejas</sub-title>
+    <sub-title lang="en">ABOUT PIANO KEYS</sub-title>
     <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
@@ -11958,7 +11117,8 @@
   </programme>
   <programme start="20261118222200 -0300" stop="20261118222300 -0300" air_time_start="20261118222200 -0300" air_time_end="20261118222300 -0300" start_utc="20261119012200 +0000" stop_utc="20261119012300 +0000" air_time_start_utc="20261119012200 +0000" air_time_end_utc="20261119012300 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">ABOUT PIANO KEYS</sub-title>
+    <sub-title lang="pt">Yendo más allá de las ovejas</sub-title>
+    <sub-title lang="en">ABOUT PIANO KEYS</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
@@ -11966,7 +11126,8 @@
   </programme>
   <programme start="20261118222300 -0300" stop="20261118222400 -0300" air_time_start="20261118222300 -0300" air_time_end="20261118222400 -0300" start_utc="20261119012300 +0000" stop_utc="20261119012400 +0000" air_time_start_utc="20261119012300 +0000" air_time_end_utc="20261119012400 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">ANVIL REPERTORY ENSEMBLE TROUPE PLAYERS GROUP, THE</sub-title>
+    <sub-title lang="es">La agonía del vello</sub-title>
+    <sub-title lang="en">ANVIL REPERTORY ENSEMBLE TROUPE PLAYERS GROUP, THE</sub-title>
     <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
@@ -11974,7 +11135,8 @@
   </programme>
   <programme start="20261118222300 -0300" stop="20261118222400 -0300" air_time_start="20261118222300 -0300" air_time_end="20261118222400 -0300" start_utc="20261119012300 +0000" stop_utc="20261119012400 +0000" air_time_start_utc="20261119012300 +0000" air_time_end_utc="20261119012400 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">ANVIL REPERTORY ENSEMBLE TROUPE PLAYERS GROUP, THE</sub-title>
+    <sub-title lang="pt">La agonía del vello</sub-title>
+    <sub-title lang="en">ANVIL REPERTORY ENSEMBLE TROUPE PLAYERS GROUP, THE</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
@@ -11982,7 +11144,8 @@
   </programme>
   <programme start="20261118222400 -0300" stop="20261118223000 -0300" air_time_start="20261118222400 -0300" air_time_end="20261118223000 -0300" start_utc="20261119012400 +0000" stop_utc="20261119013000 +0000" air_time_start_utc="20261119012400 +0000" air_time_end_utc="20261119013000 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">WOOL YOU BE MINE</sub-title>
+    <sub-title lang="es">Episodio 1</sub-title>
+    <sub-title lang="en">WOOL YOU BE MINE</sub-title>
     <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -11990,7 +11153,8 @@
   </programme>
   <programme start="20261118222400 -0300" stop="20261118223000 -0300" air_time_start="20261118222400 -0300" air_time_end="20261118223000 -0300" start_utc="20261119012400 +0000" stop_utc="20261119013000 +0000" air_time_start_utc="20261119012400 +0000" air_time_end_utc="20261119013000 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">WOOL YOU BE MINE</sub-title>
+    <sub-title lang="pt">Episodio 1</sub-title>
+    <sub-title lang="en">WOOL YOU BE MINE</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -11998,7 +11162,8 @@
   </programme>
   <programme start="20261118223000 -0300" stop="20261118223600 -0300" air_time_start="20261118223000 -0300" air_time_end="20261118223600 -0300" start_utc="20261119013000 +0000" stop_utc="20261119013600 +0000" air_time_start_utc="20261119013000 +0000" air_time_end_utc="20261119013600 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">FLEECED TO MEET YOU</sub-title>
+    <sub-title lang="es">Baaa-lar al pasado</sub-title>
+    <sub-title lang="en">FLEECED TO MEET YOU</sub-title>
     <desc lang="es">Sheep recibe amistosamente a una nueva oveja en la Gran Ciudad. ¿Podrán volverse grandes amigos o tendrá esta sigilosa oveja un secreto plan diabólico? Además: ¡Nuevamente, el Chico Completamente Poderoso no logra cumplir con su misión del día!</desc>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
@@ -12006,7 +11171,8 @@
   </programme>
   <programme start="20261118223000 -0300" stop="20261118223600 -0300" air_time_start="20261118223000 -0300" air_time_end="20261118223600 -0300" start_utc="20261119013000 +0000" stop_utc="20261119013600 +0000" air_time_start_utc="20261119013000 +0000" air_time_end_utc="20261119013600 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">FLEECED TO MEET YOU</sub-title>
+    <sub-title lang="pt">Baaa-lar al pasado</sub-title>
+    <sub-title lang="en">FLEECED TO MEET YOU</sub-title>
     <desc lang="pt">Sheep fica amigo de uma ovelha nova na cidade. Será que eles se tornarão amigos rapidamente ou será que essa furtiva ovelha tem um plano secreto diabólico? Mais: Completely Powerful Guy não salva o dia novamente!</desc>
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
@@ -12046,7 +11212,8 @@
   </programme>
   <programme start="20261118230000 -0300" stop="20261118231100 -0300" air_time_start="20261118230000 -0300" air_time_end="20261118231100 -0300" start_utc="20261119020000 +0000" stop_utc="20261119021100 +0000" air_time_start_utc="20261119020000 +0000" air_time_end_utc="20261119021100 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">LAS MARAVILLOSAS DESVENTURAS DE FLAPJACK</title>
-    <sub-title lang="es">SITTIN' MUSCLE</sub-title>
+    <sub-title lang="es">Afeitado y corte de pelo, dos amigos</sub-title>
+    <sub-title lang="en">SITTIN' MUSCLE</sub-title>
     <desc lang="es">Flapjack y Nudillos viajan al Polo Sur en busca de una parte del cuerpo desaparecida hace mucho tiempo.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Aventuras</category>
@@ -12062,7 +11229,8 @@
   </programme>
   <programme start="20261118231100 -0300" stop="20261118232600 -0300" air_time_start="20261118231100 -0300" air_time_end="20261118232600 -0300" start_utc="20261119021100 +0000" stop_utc="20261119022600 +0000" air_time_start_utc="20261119021100 +0000" air_time_end_utc="20261119022600 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">LAS MARAVILLOSAS DESVENTURAS DE FLAPJACK</title>
-    <sub-title lang="es">PUN TIMES WITH PUNSIE MCKALE</sub-title>
+    <sub-title lang="es">Machacado</sub-title>
+    <sub-title lang="en">PUN TIMES WITH PUNSIE MCKALE</sub-title>
     <desc lang="es">Flapjack ayuda a Larry Menta a luchar contra Punsy McHale en un juego de palabras.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Aventuras</category>
@@ -12078,7 +11246,8 @@
   </programme>
   <programme start="20261118232600 -0300" stop="20261118233700 -0300" air_time_start="20261118232600 -0300" air_time_end="20261118233700 -0300" start_utc="20261119022600 +0000" stop_utc="20261119023700 +0000" air_time_start_utc="20261119022600 +0000" air_time_end_utc="20261119023700 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">LOS PEQUEÑOS LOONEY TUNES</title>
-    <sub-title lang="es">COOL FOR CATS</sub-title>
+    <sub-title lang="es">Episodio 36</sub-title>
+    <sub-title lang="en">COOL FOR CATS</sub-title>
     <desc lang="es">¡Aquí vienen! Son los Looney Tunes en versión pequeños preescolares, y están listos para aprender y hacerlos reír. En esta serie, verán algunas caras muy conocidas, como a Bugs Bunny, Lola Bunny, Pato Lucas, Taz y Silvestre, y muchos más. Los Pequeños Looney Tunes son muy curiosos y quieren aprender todo lo que les enseña su anciana abuelita. ¡Prepárense para las carcajadas!</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -12087,7 +11256,8 @@
   </programme>
   <programme start="20261118232600 -0300" stop="20261118233700 -0300" air_time_start="20261118232600 -0300" air_time_end="20261118233700 -0300" start_utc="20261119022600 +0000" stop_utc="20261119023700 +0000" air_time_start_utc="20261119022600 +0000" air_time_end_utc="20261119023700 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">BABY LOONEY TUNES</title>
-    <sub-title lang="pt">COOL FOR CATS</sub-title>
+    <sub-title lang="pt">Episodio 36</sub-title>
+    <sub-title lang="en">COOL FOR CATS</sub-title>
     <desc lang="pt">Aí vêm eles, os pequeninos Looney Tunes. Eles estão prontos para aprender e ainda farão você rir muito. Nesta série, você verá personagens famosos como Pernalonga, Lola, Patolino, Taz, Frajola e muitos outros. Os Baby Looney Tunes são muito curiosos e têm muito a aprender com a Vovó. Prepare-se para dar altas gargalhadas!</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -12114,7 +11284,8 @@
   </programme>
   <programme start="20261118234800 -0300" stop="20261118235800 -0300" air_time_start="20261118234800 -0300" air_time_end="20261118235800 -0300" start_utc="20261119024800 +0000" stop_utc="20261119025800 +0000" air_time_start_utc="20261119024800 +0000" air_time_end_utc="20261119025800 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">LOS PEQUEÑOS LOONEY TUNES</title>
-    <sub-title lang="es">WAR OF THE WEIRDS</sub-title>
+    <sub-title lang="es">Episodio 19</sub-title>
+    <sub-title lang="en">WAR OF THE WEIRDS</sub-title>
     <desc lang="es">¡Aquí vienen! Son los Looney Tunes en versión pequeños preescolares, y están listos para aprender y hacerlos reír. En esta serie, verán algunas caras muy conocidas, como a Bugs Bunny, Lola Bunny, Pato Lucas, Taz y Silvestre, y muchos más. Los Pequeños Looney Tunes son muy curiosos y quieren aprender todo lo que les enseña su anciana abuelita. ¡Prepárense para las carcajadas!</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -12123,7 +11294,8 @@
   </programme>
   <programme start="20261118234800 -0300" stop="20261118235800 -0300" air_time_start="20261118234800 -0300" air_time_end="20261118235800 -0300" start_utc="20261119024800 +0000" stop_utc="20261119025800 +0000" air_time_start_utc="20261119024800 +0000" air_time_end_utc="20261119025800 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">BABY LOONEY TUNES</title>
-    <sub-title lang="pt">WAR OF THE WEIRDS</sub-title>
+    <sub-title lang="pt">Episodio 19</sub-title>
+    <sub-title lang="en">WAR OF THE WEIRDS</sub-title>
     <desc lang="pt">Aí vêm eles, os pequeninos Looney Tunes. Eles estão prontos para aprender e ainda farão você rir muito. Nesta série, você verá personagens famosos como Pernalonga, Lola, Patolino, Taz, Frajola e muitos outros. Os Baby Looney Tunes são muito curiosos e têm muito a aprender com a Vovó. Prepare-se para dar altas gargalhadas!</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -12150,7 +11322,8 @@
   </programme>
   <programme start="20261119000900 -0300" stop="20261119001900 -0300" air_time_start="20261119000900 -0300" air_time_end="20261119001900 -0300" start_utc="20261119030900 +0000" stop_utc="20261119031900 +0000" air_time_start_utc="20261119030900 +0000" air_time_end_utc="20261119031900 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">LOS PEQUEÑOS LOONEY TUNES</title>
-    <sub-title lang="es">SOME ASSEMBLY REQUIRED</sub-title>
+    <sub-title lang="es">Episodio 16</sub-title>
+    <sub-title lang="en">SOME ASSEMBLY REQUIRED</sub-title>
     <desc lang="es">¡Aquí vienen! Son los Looney Tunes en versión pequeños preescolares, y están listos para aprender y hacerlos reír. En esta serie, verán algunas caras muy conocidas, como a Bugs Bunny, Lola Bunny, Pato Lucas, Taz y Silvestre, y muchos más. Los Pequeños Looney Tunes son muy curiosos y quieren aprender todo lo que les enseña su anciana abuelita. ¡Prepárense para las carcajadas!</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -12159,7 +11332,8 @@
   </programme>
   <programme start="20261119000900 -0300" stop="20261119001900 -0300" air_time_start="20261119000900 -0300" air_time_end="20261119001900 -0300" start_utc="20261119030900 +0000" stop_utc="20261119031900 +0000" air_time_start_utc="20261119030900 +0000" air_time_end_utc="20261119031900 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">BABY LOONEY TUNES</title>
-    <sub-title lang="pt">SOME ASSEMBLY REQUIRED</sub-title>
+    <sub-title lang="pt">Episodio 16</sub-title>
+    <sub-title lang="en">SOME ASSEMBLY REQUIRED</sub-title>
     <desc lang="pt">Aí vêm eles, os pequeninos Looney Tunes. Eles estão prontos para aprender e ainda farão você rir muito. Nesta série, você verá personagens famosos como Pernalonga, Lola, Patolino, Taz, Frajola e muitos outros. Os Baby Looney Tunes são muito curiosos e têm muito a aprender com a Vovó. Prepare-se para dar altas gargalhadas!</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -12308,7 +11482,8 @@
   </programme>
   <programme start="20261119032100 -0300" stop="20261119034800 -0300" air_time_start="20261119032100 -0300" air_time_end="20261119034800 -0300" start_utc="20261119062100 +0000" stop_utc="20261119064800 +0000" air_time_start_utc="20261119062100 +0000" air_time_end_utc="20261119064800 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">LOS PICAPIEDRA</title>
-    <sub-title lang="es">The Swimming Pool</sub-title>
+    <sub-title lang="es">La piscina</sub-title>
+    <sub-title lang="en">The Swimming Pool</sub-title>
     <desc lang="es">La amistad de Pedro y Pablo tambalea cuando deciden asociarse para construir una piscina.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -12317,7 +11492,8 @@
   </programme>
   <programme start="20261119032100 -0300" stop="20261119034800 -0300" air_time_start="20261119032100 -0300" air_time_end="20261119034800 -0300" start_utc="20261119062100 +0000" stop_utc="20261119064800 +0000" air_time_start_utc="20261119062100 +0000" air_time_end_utc="20261119064800 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">OS FLINTSTONES</title>
-    <sub-title lang="pt">The Swimming Pool</sub-title>
+    <sub-title lang="pt">La piscina</sub-title>
+    <sub-title lang="en">The Swimming Pool</sub-title>
     <desc lang="pt">A amizade de Fred e Barney é testada quando eles compram uma piscina em sociedade.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
