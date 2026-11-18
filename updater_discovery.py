@@ -2,7 +2,6 @@ from datetime import datetime, timedelta, timezone
 import os
 import re
 import io
-import zipfile
 import xml.etree.ElementTree as ET
 import pandas as pd
 import requests
@@ -12,7 +11,6 @@ RETENTION_DAYS_PAST = 5
 RETENTION_DAYS_FUTURE = 15
 
 AUTH_URL = "https://epg.tapkit.warnermedia.com/api/security/oauth/token"
-BASE_DAILY_URL = "https://epg.tapkit.warnermedia.com/api/daily/shows?feedId={feed_id}&format=xls"
 DOWNLOAD_FILE_URL = "https://epg.tapkit.warnermedia.com/api/domain/users/register/downloaded/file"
 
 TMDB_API_KEY = os.environ.get("TMDB_API_KEY", "").strip()
@@ -138,6 +136,8 @@ NETWORKS_CONFIG = {
         "type": "daily",
         "feeds": [
             {"feed_id": "DKLA_PAN", "channel_id": "DK_PAN.co", "channel_name": "Discovery Kids Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
+            {"feed_id": "DKLA_CAR", "channel_id": "DK_CAR.co", "channel_name": "Discovery Kids Caribe", "lang": "es", "tz": timezone(timedelta(hours=-4)), "tz_str": "-0400"},
+            {"feed_id": "DKLA_MEX", "channel_id": "DK_MX.mx", "channel_name": "Discovery Kids México", "lang": "es", "tz": timezone(timedelta(hours=-6)), "tz_str": "-0600"},
             {"feed_id": "DKLA_BR", "channel_id": "DK_BR.br", "channel_name": "Discovery Kids Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"}
         ]
     }
@@ -154,31 +154,74 @@ def login_and_get_token():
 
 def download_feed_xls(token, feed_cfg, referer_url):
     feed_id = feed_cfg["feed_id"]
-    file_id = feed_cfg.get("file_id")
-    xls_path = f"{feed_id}_latest.xls"
-
-    headers = {
+    xlsx_path = f"{feed_id}_latest.xlsx"
+    
+    now = datetime.now()
+    year = now.year
+    month = now.month
+    month_str = f"{month:02d}"
+    
+    suffix_map = {
+        "DKLA_PAN": "Latin",
+        "DKLA_CAR": "Caribe",
+        "DKLA_MEX": "Mexico",
+        "DKLA_BR": "Brazil"
+    }
+    region_name = suffix_map.get(feed_id, "Latin")
+    
+    list_url = "https://epg.tapkit.warnermedia.com/api/epg/tapkitFrontEnd/networksepg/getfiles"
+    list_headers = {
         "Authorization": f"Bearer {token}",
         "Referer": referer_url,
-        "Accept-Language": "es"
+        "Accept": "application/json"
     }
+    
+    target_filename = None
+    target_path = None
+    
+    try:
+        res_list = http_session.get(list_url, headers=list_headers, timeout=15)
+        if res_list.status_code == 200:
+            files_data = res_list.json()
+            for item in files_data:
+                fname = item.get("name", "")
+                if f"Discovery_Kids_{region_name}" in fname and fname.endswith(".xlsx"):
+                    target_filename = fname
+                    target_path = item.get("path", f"network-files/DKLA/{year}/{month_str}/grids/{fname}")
+                    break
+    except Exception:
+        pass
+        
+    if not target_filename:
+        yy = str(year)[-2:]
+        target_filename = f"FULL_DLA_Discovery_Kids_{region_name}_{yy}{month_str}01_{yy}{month_str}31.xlsx"
+        target_path = f"network-files/DKLA/{year}/{month_str}/grids/{target_filename}"
 
-    if file_id:
+    url = "https://epg.tapkit.warnermedia.com/api/epg/tapkitFrontEnd/networksepg/downloadfiles"
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {token}",
+        "Origin": "https://epg.tapkit.warnermedia.com",
+        "Referer": referer_url
+    }
+    payload = [{"name": target_filename, "path": target_path}]
+
+    res = http_session.post(url, json=payload, headers=headers, timeout=30)
+    
+    if res.status_code != 200 or len(res.content) < 100:
+        fallback_url = "https://epg.tapkit.warnermedia.com/api/domain/users/register/downloaded/file"
         current_date_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S.%f")[:-3]
         files = {
             'user-token': (None, token),
-            'file-id': (None, str(file_id)),
+            'file-id': (None, "1"),
             'downloaded-date': (None, current_date_str)
         }
-        res = http_session.post(DOWNLOAD_FILE_URL, headers=headers, files=files, timeout=30)
-    else:
-        url = BASE_DAILY_URL.format(feed_id=feed_id)
-        res = http_session.get(url, headers=headers, timeout=30)
+        res = http_session.post(fallback_url, headers={"Authorization": f"Bearer {token}", "Referer": referer_url}, files=files, timeout=30)
 
     res.raise_for_status()
-    with open(xls_path, "wb") as f:
+    with open(xlsx_path, "wb") as f:
         f.write(res.content)
-    return xls_path
+    return xlsx_path
 
 def sanitize_and_parse_xml(file_path, generator_name):
     if not os.path.exists(file_path): 
@@ -186,8 +229,7 @@ def sanitize_and_parse_xml(file_path, generator_name):
     try:
         with open(file_path, "r", encoding="utf-8", errors="ignore") as f: 
             content = f.read()
-        cleaned_lines = [l for l in content.splitlines() if l.strip() not in ["JUEVES", "VIERNES", "SÁBADO", "SABADO", "DOMINGO", "LUNES", "MARTES", "MIÉRCOLES", "MIERCOLES"]]
-        return ET.fromstring("\n".join(cleaned_lines))
+        return ET.fromstring(content)
     except Exception:
         return ET.Element("tv", {"generator-info-name": generator_name})
 
@@ -202,24 +244,14 @@ def parse_xmltv_date(date_str, tz_info):
 def format_xmltv_date(dt, tz_str):
     return dt.strftime(f"%Y%m%d%H%M%S {tz_str}")
 
-def load_excel_schedule(file_path):
+def load_schedule_dataframe(file_path):
     try:
-        df = pd.read_excel(file_path, sheet_name=0)
-        if any("Program Name" in str(col) or "Schedule Date" in str(col) or "SCHEDULE_DATE" in str(col) for col in df.columns): 
-            return df
-        return pd.read_excel(file_path, header=1, sheet_name=0)
-    except Exception:
-        return pd.read_html(file_path, header=1)[0]
+        return pd.read_excel(file_path, sheet_name=0)
+    except Exception as e:
+        print(f"[ERROR] No se pudo leer el archivo Excel {file_path}: {e}")
+        raise e
 
-def find_column(cols_dict, possible_names):
-    for name in possible_names:
-        if name in cols_dict: return cols_dict[name]
-    for col_key, col_val in cols_dict.items():
-        for name in possible_names:
-            if name.lower() in col_key.lower(): return col_val
-    return None
-
-def process_daily_feed(root, feed_cfg, xls_path):
+def process_daily_feed(root, feed_cfg, file_path):
     channel_id = feed_cfg["channel_id"]
     channel_name = feed_cfg["channel_name"]
     lang = feed_cfg["lang"]
@@ -230,74 +262,61 @@ def process_daily_feed(root, feed_cfg, xls_path):
         ch_node = ET.SubElement(root, "channel", {"id": channel_id})
         ET.SubElement(ch_node, "display-name").text = channel_name
 
-    df = load_excel_schedule(xls_path)
-    cols = {str(c).strip(): c for c in df.columns}
+    df = load_schedule_dataframe(file_path)
     
-    col_date = find_column(cols, ["Schedule Date", "Date", "Fecha"]) or df.columns[0]
-    col_time = find_column(cols, ["Program Start Time", "Title Start Time", "Start Time", "Hora"]) or df.columns[1]
-    col_title = find_column(cols, ["Program Name", "Title Name", "Title", "Programa"]) or df.columns[2]
-    col_ep_name = find_column(cols, ["Episode Title(ESPA)", "Episode Title (ESPA)", "Episode Title(PORT)", "Episode Name", "Sub-title"])
-    col_ep_name_en = find_column(cols, ["Episode Name English", "Original Episode Title", "Episode Title(INGL)"])
-    col_ep_num = find_column(cols, ["Episode", "Episode Number", "Episodio"])
-    col_season = find_column(cols, ["Season", "Season Number", "Temporada"])
-    col_year = find_column(cols, ["Year", "Año"])
-    col_desc = find_column(cols, ["Program Sinopsis Prensa(ESPA)", "Program Sinopsis Prensa(PORT)", "Title Synopsis", "Synopsis", "Description"])
-    col_ep_desc = find_column(cols, ["Episode Sinopsis Prensa(ESPA)", "Episode Sinopsis Prensa(PORT)", "Episode Synopsis"])
-    col_genre = find_column(cols, ["Genre", "Género"])
-    col_length = find_column(cols, ["Length", "Duración"])
-
-    first_date_raw = str(df.iloc[0].get(col_date, "")).strip()
-    match_init = re.search(r"(\d{1,2})[-/](\d{1,2})[-/](\d{4})", first_date_raw)
-    if not match_init: return
-
-    d0, m0, y0 = map(int, match_init.groups())
-    cycle_start = datetime(y0, m0, d0, 6, 0, 0, tzinfo=tz)
-    cycle_end = cycle_start + timedelta(days=1)
+    if "BR" in channel_id:
+        df = df[df['CHANNEL_NAME'].astype(str).str.contains("Brazil|Brasil", case=False, na=False)]
+    elif "MX" in channel_id:
+        df = df[df['CHANNEL_NAME'].astype(str).str.contains("Mexico|México", case=False, na=False)]
+    elif "CAR" in channel_id:
+        df = df[df['CHANNEL_NAME'].astype(str).str.contains("Caribe", case=False, na=False)]
+    else:
+        df = df[df['CHANNEL_NAME'].astype(str).str.contains("Latin", case=False, na=False)]
 
     raw_events = []
     for _, row in df.iterrows():
-        date_raw = str(row.get(col_date, "")).strip()
-        time_raw = str(row.get(col_time, "")).strip()
-        date_match = re.search(r"(\d{1,2})[-/](\d{1,2})[-/](\d{4})", date_raw)
+        date_raw = str(row.get("SCHEDULE_DATE", "")).strip()
+        time_raw = str(row.get("START_TIME", "")).strip()
+        end_time_raw = str(row.get("END_TIME", "")).strip()
+        
+        date_match = re.search(r"(\d{4})[-/](\d{1,2})[-/](\d{1,2})", date_raw)
         time_match = re.search(r"(\d{1,2}):(\d{2})", time_raw)
-        if not time_match and date_match: time_match = re.search(r"(\d{1,2}):(\d{2})", date_raw)
-        if not date_match or not time_match: continue
+        
+        if not date_match or not time_match:
+            continue
 
-        d, m, y = map(int, date_match.groups())
+        y, m, d = map(int, date_match.groups())
         hh, mm = map(int, time_match.groups())
         event_dt = datetime(y, m, d, hh, mm, 0, tzinfo=tz)
-        if (d == d0 and m == m0 and y == y0) and hh < 6: event_dt += timedelta(days=1)
-        if event_dt >= cycle_end: break
-
-        title_val = str(row.get(col_title, "")).strip() if pd.notna(row.get(col_title)) else ""
-        ep_name_val = str(row.get(col_ep_name, "")).strip() if col_ep_name and pd.notna(row.get(col_ep_name)) else ""
-        ep_name_en_val = str(row.get(col_ep_name_en, "")).strip() if col_ep_name_en and pd.notna(row.get(col_ep_name_en)) else ""
-        year_val = str(row.get(col_year, "")).strip() if col_year and pd.notna(row.get(col_year)) else ""
-        genre_val = str(row.get(col_genre, "")).strip() if col_genre and pd.notna(row.get(col_genre)) else ""
-        length_val = str(row.get(col_length, "")).strip() if col_length and pd.notna(row.get(col_length)) else ""
 
         stop_dt = None
-        if length_val:
-            try:
-                parts = length_val.split(':')
-                if len(parts) == 3:
-                    h, m, s = map(int, [float(p) for p in parts])
-                    stop_dt = event_dt + timedelta(hours=h, minutes=m, seconds=s)
-            except:
-                pass
+        if end_time_raw:
+            end_match = re.search(r"(\d{1,2}):(\d{2})", end_time_raw)
+            if end_match:
+                ehh, emm = map(int, end_match.groups())
+                stop_dt = datetime(y, m, d, ehh, emm, 0, tzinfo=tz)
+                if stop_dt <= event_dt:
+                    stop_dt += timedelta(days=1)
 
-        desc_es = ""
-        if col_ep_desc and pd.notna(row.get(col_ep_desc)) and str(row.get(col_ep_desc)).strip():
-            desc_es = str(row.get(col_ep_desc)).strip()
-        elif col_desc and pd.notna(row.get(col_desc)) and str(row.get(col_desc)).strip():
-            desc_es = str(row.get(col_desc)).strip()
-
-        sub_es = ep_name_val if ep_name_val and ep_name_val.lower() != "nan" else ""
-        sub_en = ep_name_en_val if ep_name_en_val and ep_name_en_val.lower() != "nan" else ""
-
-        season_val = str(row.get(col_season, "")).strip() if col_season and pd.notna(row.get(col_season)) else ""
-        ep_num_val = str(row.get(col_ep_num, "")).strip() if col_ep_num and pd.notna(row.get(col_ep_num)) else ""
+        series_name = str(row.get("SERIES_NAME", "")).strip()
+        title_en = str(row.get("TITLE_NAME", "")).strip()
+        desc_en = str(row.get("PROGRAMME_DESCRIPTION", "")).strip()
         
+        local_series = str(row.get("LOCAL_SERIES_NAME", "")).strip()
+        local_prog = str(row.get("LOCAL_PROGRAM_NAME", "")).strip()
+        desc_es = str(row.get("LOCAL_PROGRAM_DESCRIPTION", "")).strip()
+        
+        season_val = str(row.get("SEASON_NUMBER", "")).strip()
+        ep_num_val = str(row.get("EPISODE_NUMBER", "")).strip()
+        year_val = str(row.get("YEAR_OF_PRODUCTION", "")).strip()
+
+        title_val = local_series if local_series and local_series.lower() != "nan" else series_name
+        sub_es = local_prog if local_prog and local_prog.lower() != "nan" else ""
+        sub_en = title_en if title_en and title_en.lower() != "nan" else ""
+
+        if not desc_es:
+            desc_es = desc_en
+
         xmltv_season_ep = ""
         try:
             s_num = int(float(season_val)) - 1 if season_val.replace('.', '', 1).isdigit() else ""
@@ -317,7 +336,6 @@ def process_daily_feed(root, feed_cfg, xls_path):
             "episode_num": xmltv_season_ep,
             "desc_es": desc_es if desc_es.lower() != "nan" else "",
             "year": year_val.split('.')[0] if year_val and year_val.replace('.', '', 1).isdigit() else "",
-            "genre": genre_val if genre_val.lower() != "nan" else "",
             "icon": icon_url
         })
 
@@ -328,7 +346,7 @@ def process_daily_feed(root, feed_cfg, xls_path):
     for i in range(total_events):
         ev = raw_events[i]
         start_dt = ev["start"]
-        stop_dt = ev.get("stop") or (raw_events[i + 1]["start"] if i + 1 < total_events else cycle_end)
+        stop_dt = ev.get("stop") or (raw_events[i + 1]["start"] if i + 1 < total_events else start_dt + timedelta(minutes=30))
 
         if stop_dt <= start_dt:
             stop_dt = start_dt + timedelta(minutes=1)
@@ -357,11 +375,7 @@ def process_daily_feed(root, feed_cfg, xls_path):
         if ev["desc_es"]: ET.SubElement(prog, "desc", {"lang": lang}).text = ev["desc_es"]
         
         if ev["year"]: ET.SubElement(prog, "date").text = ev["year"]
-        if ev["genre"]:
-            for g in ev["genre"].split(','):
-                ET.SubElement(prog, "category", {"lang": lang}).text = g.strip()
-        else:
-            ET.SubElement(prog, "category", {"lang": lang}).text = "Infantil"
+        ET.SubElement(prog, "category", {"lang": lang}).text = "Infantil"
 
         if ev["episode_num"]: ET.SubElement(prog, "episode-num", {"system": "xmltv_ns"}).text = ev["episode_num"]
         if ev["icon"]: ET.SubElement(prog, "icon", {"src": ev["icon"]})
@@ -396,30 +410,10 @@ def main():
 
         for feed_cfg in net_config["feeds"]:
             try:
-                xls_path = download_feed_xls(token, feed_cfg, net_config["referer"])
-                process_daily_feed(root, feed_cfg, xls_path)
+                xlsx_path = download_feed_xls(token, feed_cfg, net_config["referer"])
+                process_daily_feed(root, feed_cfg, xlsx_path)
             except Exception as e:
                 print(f"[ERROR] Feed Discovery {feed_cfg['feed_id']}: {e}")
-
-        now_utc = datetime.now(timezone.utc)
-        cutoff_past = now_utc - timedelta(days=RETENTION_DAYS_PAST)
-        cutoff_future = now_utc + timedelta(days=RETENTION_DAYS_FUTURE)
-
-        for p in list(root.findall("programme")):
-            ch_id = p.attrib.get("channel")
-            if ch_id not in active_channel_ids:
-                if p in root:
-                    root.remove(p)
-                continue
-            cfg = next((c for c in net_config["feeds"] if c["channel_id"] == ch_id), net_config["feeds"][0])
-            stop_dt = parse_xmltv_date(p.attrib.get("stop", ""), cfg["tz"])
-            start_dt = parse_xmltv_date(p.attrib.get("start", ""), cfg["tz"])
-            if stop_dt and stop_dt.astimezone(timezone.utc) < cutoff_past:
-                if p in root:
-                    root.remove(p)
-            elif start_dt and start_dt.astimezone(timezone.utc) > cutoff_future:
-                if p in root:
-                    root.remove(p)
 
         sorted_progs = sorted(root.findall("programme"), key=lambda x: x.attrib.get("start", ""))
         for p in list(root.findall("programme")):
