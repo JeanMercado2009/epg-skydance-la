@@ -19,7 +19,7 @@ jobs:
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.15'
 
       - name: Instalar dependencias de Python
         run: |
@@ -45,6 +45,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No hay cambios nuevos en las grillas."
           else
-            git commit -m "Auto-update EPG WB + Discovery"
+            git commit -m "Auto-update EPG Grillas (WB, Discovery, Tooncast, TNT)"
             git push
           fi
