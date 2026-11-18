@@ -1,9 +1,9 @@
-from datetime import datetime, timedelta, timezone
 import os
 import re
 import io
 import zipfile
-import xml.etree.ElementTree as ET
+import lxml.etree as ET
+from datetime import datetime, timedelta, timezone
 import pandas as pd
 import requests
 import unicodedata
@@ -214,7 +214,7 @@ def download_feed_xls(token, feed_cfg, referer_url, epak_files):
     
     extracted_file_path = f"{feed_id}_extracted_grid.xlsx"
     
-    # Descomprimimos el ZIP si el contenido empieza con las firmas PK
+    # Descompresión automática del archivo ZIP entregado por Tapkit
     if res.content.startswith(b'PK'):
         with zipfile.ZipFile(io.BytesIO(res.content)) as z:
             file_list = z.namelist()
@@ -258,14 +258,6 @@ def sanitize_and_parse_xml(file_path, generator_name):
         return ET.fromstring(content)
     except Exception:
         return ET.Element("tv", {"generator-info-name": generator_name})
-
-def parse_xmltv_date(date_str, tz_info):
-    if not date_str: return None
-    clean = re.sub(r"[^\d\s\+\-]", "", str(date_str).strip())
-    m = re.match(r"^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})", clean)
-    if not m: return None
-    y, mo, d, h, mi, s = map(int, m.groups())
-    return datetime(y, mo, d, min(h, 23), min(mi, 59), min(s, 59), tzinfo=tz_info)
 
 def format_xmltv_date(dt, tz_str):
     return dt.strftime(f"%Y%m%d%H%M%S {tz_str}")
@@ -417,7 +409,7 @@ def process_daily_feed(root, feed_cfg, file_path):
 
         new_programmes.append(prog)
 
-    existing_progs_map = {p.attrib.get("start"): p for p in root.findall("programme") if p.attrib.get("channel"] == channel_id}
+    existing_progs_map = {p.attrib.get("start"): p for p in root.findall("programme") if p.attrib.get("channel") == channel_id}
     for np in new_programmes:
         start_key = np.attrib.get("start")
         if start_key in existing_progs_map:
