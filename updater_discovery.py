@@ -2,6 +2,7 @@ from datetime import datetime, timedelta, timezone
 import os
 import re
 import io
+import zipfile
 import xml.etree.ElementTree as ET
 import pandas as pd
 import requests
@@ -199,8 +200,6 @@ def download_feed_xls(token, feed_cfg, referer_url, epak_files):
         target_name = f"FULL_DLA_Discovery_Kids_{region}_261101_261231.xlsx"
         target_path = f"network-files/DISCKIDS/EPAK/FULL/{target_name}"
 
-    local_file_path = f"{feed_id}_latest_{target_name.split('.')[-1]}"
-
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {token}",
@@ -213,8 +212,25 @@ def download_feed_xls(token, feed_cfg, referer_url, epak_files):
     res = http_session.post(DOWNLOAD_FILE_URL, json=payload, headers=headers, timeout=30)
     res.raise_for_status()
     
-    with open(local_file_path, "wb") as f:
-        f.write(res.content)
+    extracted_file_path = f"{feed_id}_extracted_grid.xlsx"
+    
+    # Descomprimimos el ZIP si el contenido empieza con las firmas PK
+    if res.content.startswith(b'PK'):
+        with zipfile.ZipFile(io.BytesIO(res.content)) as z:
+            file_list = z.namelist()
+            target_file_in_zip = next((f for f in file_list if f.endswith(('.xlsx', '.csv'))), file_list[0])
+            with z.open(target_file_in_zip) as src, open(extracted_file_path, "wb") as dst:
+                dst.write(src.read())
+                
+            if target_file_in_zip.endswith('.csv'):
+                csv_renamed = f"{feed_id}_extracted_grid.csv"
+                if os.path.exists(extracted_file_path):
+                    os.remove(extracted_file_path)
+                os.replace(extracted_file_path if not os.path.exists(csv_renamed) else extracted_file_path, csv_renamed)
+                extracted_file_path = csv_renamed
+    else:
+        with open(extracted_file_path, "wb") as f:
+            f.write(res.content)
 
     current_date_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S.835")
     form_data = {
@@ -231,7 +247,7 @@ def download_feed_xls(token, feed_cfg, referer_url, epak_files):
     except Exception:
         pass
 
-    return local_file_path
+    return extracted_file_path
 
 def sanitize_and_parse_xml(file_path, generator_name):
     if not os.path.exists(file_path): 
@@ -256,17 +272,16 @@ def format_xmltv_date(dt, tz_str):
 
 def load_schedule_dataframe(file_path):
     try:
-        if file_path.endswith('.csv'):
+        if file_path.endswith('.csv') or 'csv' in file_path:
             try:
-                return pd.read_csv(file_path, sep='\t', encoding='utf-8')
+                return pd.read_csv(file_path, sep='\t', encoding='utf-8', on_bad_lines='skip')
             except:
-                return pd.read_csv(file_path, sep=',', encoding='utf-8')
+                return pd.read_csv(file_path, sep=',', encoding='utf-8', on_bad_lines='skip')
         else:
             try:
                 return pd.read_excel(file_path, sheet_name=0, engine='openpyxl')
             except Exception:
-                # Respaldo por si el archivo descargado tiene extensión xlsx pero es texto/csv plano
-                return pd.read_csv(file_path, sep=None, engine='python', encoding='utf-8')
+                return pd.read_csv(file_path, sep=None, engine='python', encoding='utf-8', on_bad_lines='skip')
     except Exception as e:
         print(f"[ERROR] No se pudo leer el archivo {file_path}: {e}")
         raise e
@@ -402,7 +417,7 @@ def process_daily_feed(root, feed_cfg, file_path):
 
         new_programmes.append(prog)
 
-    existing_progs_map = {p.attrib.get("start"): p for p in root.findall("programme") if p.attrib.get("channel") == channel_id}
+    existing_progs_map = {p.attrib.get("start"): p for p in root.findall("programme") if p.attrib.get("channel"] == channel_id}
     for np in new_programmes:
         start_key = np.attrib.get("start")
         if start_key in existing_progs_map:
