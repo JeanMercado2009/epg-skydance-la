@@ -12,30 +12,8 @@
   <channel id="CDFP_CL.cl">
     <display-name>TNT Sports 2 (Chile)</display-name>
   </channel>
-  <programme start="20261113140000 -0300" stop="20261113153000 -0300" air_time_start="20261113140000 -0300" air_time_end="20261113153000 -0300" start_utc="20261113170000 +0000" stop_utc="20261113183000 +0000" air_time_start_utc="20261113170000 +0000" air_time_end_utc="20261113183000 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <episode-num system="xmltv_ns">-1.0.</episode-num>
-  </programme>
-  <programme start="20261113153000 +00:00" stop="20261113173000 +00:00" air_time_start="20261113153000 +00:00" air_time_end="20261113173000 +00:00" start_utc="20261113153000 +0000" stop_utc="20261113173000 +0000" air_time_start_utc="20261113153000 +0000" air_time_end_utc="20261113173000 +0000" is_live="false" channel="CDFH_CL.cl">
-    <episode-num system="xmltv_ns">-1.1939.</episode-num>
-  </programme>
-  <programme start="20261113153000 -0300" stop="20261113170000 -0300" air_time_start="20261113153000 -0300" air_time_end="20261113170000 -0300" start_utc="20261113183000 +0000" stop_utc="20261113200000 +0000" air_time_start_utc="20261113183000 +0000" air_time_end_utc="20261113200000 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <title lang="es">TNT DATA SPORTS - REPETICIÓN</title>
-    <episode-num system="xmltv_ns">.166.</episode-num>
-  </programme>
-  <programme start="20261113170000 +00:00" stop="20261113180000 +00:00" air_time_start="20261113170000 +00:00" air_time_end="20261113180000 +00:00" start_utc="20261113170000 +0000" stop_utc="20261113180000 +0000" air_time_start_utc="20261113170000 +0000" air_time_end_utc="20261113180000 +0000" is_live="false" channel="CDFB_CL.cl">
-    <episode-num system="xmltv_ns">-1.0.</episode-num>
-  </programme>
   <programme start="20261113170000 -0300" stop="20261113193000 -0300" air_time_start="20261113170000 -0300" air_time_end="20261113193000 -0300" start_utc="20261113200000 +0000" stop_utc="20261113223000 +0000" air_time_start_utc="20261113200000 +0000" air_time_end_utc="20261113223000 +0000" is_live="false" channel="TNTSPO_AR.ar">
     <episode-num system="xmltv_ns">-1.0.</episode-num>
-  </programme>
-  <programme start="20261113173000 +00:00" stop="20261113190000 +00:00" air_time_start="20261113173000 +00:00" air_time_end="20261113190000 +00:00" start_utc="20261113173000 +0000" stop_utc="20261113190000 +0000" air_time_start_utc="20261113173000 +0000" air_time_end_utc="20261113190000 +0000" is_live="false" channel="CDFH_CL.cl">
-    <episode-num system="xmltv_ns">-1.409.</episode-num>
-  </programme>
-  <programme start="20261113180000 +00:00" stop="20261113193000 +00:00" air_time_start="20261113180000 +00:00" air_time_end="20261113193000 +00:00" start_utc="20261113180000 +0000" stop_utc="20261113193000 +0000" air_time_start_utc="20261113180000 +0000" air_time_end_utc="20261113193000 +0000" is_live="false" channel="CDFB_CL.cl">
-    <episode-num system="xmltv_ns">-1.0.</episode-num>
-  </programme>
-  <programme start="20261113190000 +00:00" stop="20261113200000 +00:00" air_time_start="20261113190000 +00:00" air_time_end="20261113200000 +00:00" start_utc="20261113190000 +0000" stop_utc="20261113200000 +0000" air_time_start_utc="20261113190000 +0000" air_time_end_utc="20261113200000 +0000" is_live="false" channel="CDFH_CL.cl">
-    <episode-num system="xmltv_ns">-1.678.</episode-num>
   </programme>
   <programme start="20261113193000 +00:00" stop="20261113215000 +00:00" air_time_start="20261113193000 +00:00" air_time_end="20261113215000 +00:00" start_utc="20261113193000 +0000" stop_utc="20261113215000 +0000" air_time_start_utc="20261113193000 +0000" air_time_end_utc="20261113215000 +0000" is_live="false" channel="CDFB_CL.cl">
     <episode-num system="xmltv_ns">26.5.</episode-num>
@@ -888,7 +866,7 @@
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">-1.681.</episode-num>
   </programme>
-  <programme start="20261118190000 -0300" stop="20261118213000 -0300" air_time_start="20261118190000 -0300" air_time_end="20261118213000 -0300" start_utc="20261118220000 +0000" stop_utc="20261119003000 +0000" air_time_start_utc="20261118220000 +0000" air_time_end_utc="20261119003000 +0000" is_live="false" channel="TNTSPO_AR.ar">
+  <programme start="20261118190000 -0300" stop="20261118210200 -0300" air_time_start="20261118190000 -0300" air_time_end="20261118210200 -0300" start_utc="20261118220000 +0000" stop_utc="20261119000200 +0000" air_time_start_utc="20261118220000 +0000" air_time_end_utc="20261119000200 +0000" is_live="false" channel="TNTSPO_AR.ar">
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
@@ -899,6 +877,10 @@
   <programme start="20261118200000 +00:00" stop="20261118213000 +00:00" air_time_start="20261118200000 +00:00" air_time_end="20261118213000 +00:00" start_utc="20261118200000 +0000" stop_utc="20261118213000 +0000" air_time_start_utc="20261118200000 +0000" air_time_end_utc="20261118213000 +0000" is_live="false" channel="CDFH_CL.cl">
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">-1.411.</episode-num>
+  </programme>
+  <programme start="20261118210200 -0300" stop="20261118213000 -0300" air_time_start="20261118210200 -0300" air_time_end="20261118213000 -0300" start_utc="20261119000200 +0000" stop_utc="20261119003000 +0000" air_time_start_utc="20261119000200 +0000" air_time_end_utc="20261119003000 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">-1.14.</episode-num>
   </programme>
   <programme start="20261118210300 -0300" stop="20261118230000 -0300" air_time_start="20261118210300 -0300" air_time_end="20261118230000 -0300" start_utc="20261119000300 +0000" stop_utc="20261119020000 +0000" air_time_start_utc="20261119000300 +0000" air_time_end_utc="20261119020000 +0000" is_live="false" channel="TNTSPO_AR.ar">
     <episode-num system="xmltv_ns">12.8.</episode-num>
@@ -911,12 +893,21 @@
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">12.7.</episode-num>
   </programme>
-  <programme start="20261118213000 -0300" stop="20261118230000 -0300" air_time_start="20261118213000 -0300" air_time_end="20261118230000 -0300" start_utc="20261119003000 +0000" stop_utc="20261119020000 +0000" air_time_start_utc="20261119003000 +0000" air_time_end_utc="20261119020000 +0000" is_live="false" channel="TNTSPO_AR.ar">
+  <programme start="20261118213000 -0300" stop="20261118223000 -0300" air_time_start="20261118213000 -0300" air_time_end="20261118223000 -0300" start_utc="20261119003000 +0000" stop_utc="20261119013000 +0000" air_time_start_utc="20261119003000 +0000" air_time_end_utc="20261119013000 +0000" is_live="false" channel="TNTSPO_AR.ar">
     <title lang="es">TNT DATA SPORTS - EDICIÓN NOCHE</title>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
+  <programme start="20261118223000 -0300" stop="20261118231400 -0300" air_time_start="20261118223000 -0300" air_time_end="20261118231400 -0300" start_utc="20261119013000 +0000" stop_utc="20261119021400 +0000" air_time_start_utc="20261119013000 +0000" air_time_end_utc="20261119021400 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <title lang="es">PENSIONES</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+  </programme>
   <programme start="20261118230000 -0300" stop="20261119005000 -0300" air_time_start="20261118230000 -0300" air_time_end="20261119005000 -0300" start_utc="20261119020000 +0000" stop_utc="20261119035000 +0000" air_time_start_utc="20261119020000 +0000" air_time_end_utc="20261119035000 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">12.1.</episode-num>
+  </programme>
+  <programme start="20261118231400 -0300" stop="20261119010300 -0300" air_time_start="20261118231400 -0300" air_time_end="20261119010300 -0300" start_utc="20261119021400 +0000" stop_utc="20261119040300 +0000" air_time_start_utc="20261119021400 +0000" air_time_end_utc="20261119040300 +0000" is_live="false" channel="TNTSPO_AR.ar">
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">12.1.</episode-num>
   </programme>
@@ -936,6 +927,14 @@
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">1.0.</episode-num>
   </programme>
+  <programme start="20261119010300 -0300" stop="20261119011700 -0300" air_time_start="20261119010300 -0300" air_time_end="20261119011700 -0300" start_utc="20261119040300 +0000" stop_utc="20261119041700 +0000" air_time_start_utc="20261119040300 +0000" air_time_end_utc="20261119041700 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">-1.9.</episode-num>
+  </programme>
+  <programme start="20261119011700 -0300" stop="20261119030400 -0300" air_time_start="20261119011700 -0300" air_time_end="20261119030400 -0300" start_utc="20261119041700 +0000" stop_utc="20261119060400 +0000" air_time_start_utc="20261119041700 +0000" air_time_end_utc="20261119060400 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">11.8.</episode-num>
+  </programme>
   <programme start="20261119012500 +00:00" stop="20261119034400 +00:00" air_time_start="20261119012500 +00:00" air_time_end="20261119034400 +00:00" start_utc="20261119012500 +0000" stop_utc="20261119034400 +0000" air_time_start_utc="20261119012500 +0000" air_time_end_utc="20261119034400 +0000" is_live="false" channel="CDFH_CL.cl">
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">12.7.</episode-num>
@@ -947,6 +946,10 @@
   <programme start="20261119015000 +00:00" stop="20261119032000 +00:00" air_time_start="20261119015000 +00:00" air_time_end="20261119032000 +00:00" start_utc="20261119015000 +0000" stop_utc="20261119032000 +0000" air_time_start_utc="20261119015000 +0000" air_time_end_utc="20261119032000 +0000" is_live="false" channel="CDFB_CL.cl">
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">-1.411.</episode-num>
+  </programme>
+  <programme start="20261119030400 -0300" stop="20261119045200 -0300" air_time_start="20261119030400 -0300" air_time_end="20261119045200 -0300" start_utc="20261119060400 +0000" stop_utc="20261119075200 +0000" air_time_start_utc="20261119060400 +0000" air_time_end_utc="20261119075200 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">11.12.</episode-num>
   </programme>
   <programme start="20261119032000 +00:00" stop="20261119042500 +00:00" air_time_start="20261119032000 +00:00" air_time_end="20261119042500 +00:00" start_utc="20261119032000 +0000" stop_utc="20261119042500 +0000" air_time_start_utc="20261119032000 +0000" air_time_end_utc="20261119042500 +0000" is_live="false" channel="CDFB_CL.cl">
     <category lang="es">Animación</category>
@@ -980,15 +983,40 @@
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">-1.412.</episode-num>
   </programme>
+  <programme start="20261119045200 -0300" stop="20261119050500 -0300" air_time_start="20261119045200 -0300" air_time_end="20261119050500 -0300" start_utc="20261119075200 +0000" stop_utc="20261119080500 +0000" air_time_start_utc="20261119075200 +0000" air_time_end_utc="20261119080500 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <title lang="es">WORLD CUP UNSEEN</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">-1.24.</episode-num>
+  </programme>
+  <programme start="20261119050500 -0300" stop="20261119052100 -0300" air_time_start="20261119050500 -0300" air_time_end="20261119052100 -0300" start_utc="20261119080500 +0000" stop_utc="20261119082100 +0000" air_time_start_utc="20261119080500 +0000" air_time_end_utc="20261119082100 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <title lang="es">WORLD CUP UNSEEN</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">-1.25.</episode-num>
+  </programme>
+  <programme start="20261119052100 -0300" stop="20261119053000 -0300" air_time_start="20261119052100 -0300" air_time_end="20261119053000 -0300" start_utc="20261119082100 +0000" stop_utc="20261119083000 +0000" air_time_start_utc="20261119082100 +0000" air_time_end_utc="20261119083000 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <title lang="es">WORLD CUP UNSEEN</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">-1.26.</episode-num>
+  </programme>
   <programme start="20261119052400 -0300" stop="20261119053300 -0300" air_time_start="20261119052400 -0300" air_time_end="20261119053300 -0300" start_utc="20261119082400 +0000" stop_utc="20261119083300 +0000" air_time_start_utc="20261119082400 +0000" air_time_end_utc="20261119083300 +0000" is_live="false" channel="TNTSPO_AR.ar">
     <title lang="es">WORLD CUP UNSEEN</title>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">-1.26.</episode-num>
   </programme>
+  <programme start="20261119053000 -0300" stop="20261119054300 -0300" air_time_start="20261119053000 -0300" air_time_end="20261119054300 -0300" start_utc="20261119083000 +0000" stop_utc="20261119084300 +0000" air_time_start_utc="20261119083000 +0000" air_time_end_utc="20261119084300 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <title lang="es">WORLD CUP UNSEEN</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">-1.27.</episode-num>
+  </programme>
   <programme start="20261119053300 -0300" stop="20261119054600 -0300" air_time_start="20261119053300 -0300" air_time_end="20261119054600 -0300" start_utc="20261119083300 +0000" stop_utc="20261119084600 +0000" air_time_start_utc="20261119083300 +0000" air_time_end_utc="20261119084600 +0000" is_live="false" channel="TNTSPO_AR.ar">
     <title lang="es">WORLD CUP UNSEEN</title>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">-1.27.</episode-num>
+  </programme>
+  <programme start="20261119054300 -0300" stop="20261119060000 -0300" air_time_start="20261119054300 -0300" air_time_end="20261119060000 -0300" start_utc="20261119084300 +0000" stop_utc="20261119090000 +0000" air_time_start_utc="20261119084300 +0000" air_time_end_utc="20261119090000 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <title lang="es">WORLD CUP UNSEEN</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">-1.28.</episode-num>
   </programme>
   <programme start="20261119054600 -0300" stop="20261119060000 -0300" air_time_start="20261119054600 -0300" air_time_end="20261119060000 -0300" start_utc="20261119084600 +0000" stop_utc="20261119090000 +0000" air_time_start_utc="20261119084600 +0000" air_time_end_utc="20261119090000 +0000" is_live="false" channel="TNTSPO_AR.ar">
     <category lang="es">Animación</category>

@@ -6,314 +6,6 @@
   <channel id="CNLA_BR.br">
     <display-name>Cartoon Network Brasil</display-name>
   </channel>
-  <programme start="20261113121400 -0500" stop="20261113122600 -0500" air_time_start="20261113121400 -0500" air_time_end="20261113122600 -0500" start_utc="20261113171400 +0000" stop_utc="20261113172600 +0000" air_time_start_utc="20261113171400 +0000" air_time_end_utc="20261113172600 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">El mundo de craig</title>
-    <sub-title lang="es">SINK OR SWIM TEAM</sub-title>
-    <desc lang="es">Craig y sus dos mejores amigos, Kelsey y JP, viven una aventura tras otra en los agrestes suburbios del bosque, un paraíso de fortines en árboles y rampas para bicicletas gobernados por tribus de niños que conforman una verdadera sociedad infantil. En cada episodio, los niños se lanzan a zonas inexploradas del bosque, conocen a nuevos vecinos o se meten en problemas en su lugar favorito.</desc>
-    <date>2021</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">3.122.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/xaS2sLJlwyzQ2Ep1O4fsmxNWiTt.jpg" />
-  </programme>
-  <programme start="20261113122600 -0500" stop="20261113123700 -0500" air_time_start="20261113122600 -0500" air_time_end="20261113123700 -0500" start_utc="20261113172600 +0000" stop_utc="20261113173700 +0000" air_time_start_utc="20261113172600 +0000" air_time_end_utc="20261113173700 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">CLARENCE</title>
-    <sub-title lang="es">LOS NIÑOS DE LA CAJA MALDITA</sub-title>
-    <sub-title lang="en">THE BOXCURSE CHILDREN</sub-title>
-    <desc lang="es">Clarence, Jeff y Sumo se topan con una caja misteriosa. Luego de abrirla, comienzan a producirse algunos sucesos extraños. ¡Convencidos de haber desbloqueado una maldición, los chicos están decididos a revertirla!</desc>
-    <date>2016</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">2.114.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/L4oWkk1zdMtLAYmx9yAfpSPKfQ.jpg" />
-  </programme>
-  <programme start="20261113123700 -0500" stop="20261113125126 -0500" air_time_start="20261113123700 -0500" air_time_end="20261113125126 -0500" start_utc="20261113173700 +0000" stop_utc="20261113175126 +0000" air_time_start_utc="20261113173700 +0000" air_time_end_utc="20261113175126 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">CLARENCE</title>
-    <sub-title lang="es">EL SECRETO DE JEFF</sub-title>
-    <sub-title lang="en">JEFF'S SECRET</sub-title>
-    <desc lang="es">Cuando Clarence descubre una nueva peculiaridad sobre su amigo, Jeff le ruega que no cuente nada. ¿Podrá Clarence resistir el deseo de exponer el secreto de Jeff ante toda la escuela?</desc>
-    <date>2016</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">1.76.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/gQmRYiV3VuaWUDAgLXyz5drLoT.jpg" />
-  </programme>
-  <programme start="20261113125126 -0500" stop="20261113125225 -0500" air_time_start="20261113125126 -0500" air_time_end="20261113125225 -0500" start_utc="20261113175126 +0000" stop_utc="20261113175225 +0000" air_time_start_utc="20261113175126 +0000" air_time_end_utc="20261113175225 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">Pausa Comercial</title>
-    <desc lang="es">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="es">Comercial</category>
-  </programme>
-  <programme start="20261113125126 -0500" stop="20261113125225 -0500" air_time_start="20261113125126 -0500" air_time_end="20261113125225 -0500" start_utc="20261113175126 +0000" stop_utc="20261113175225 +0000" air_time_start_utc="20261113175126 +0000" air_time_end_utc="20261113175225 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">Pausa Comercial</title>
-    <desc lang="es">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="es">Comercial</category>
-  </programme>
-  <programme start="20261113125200 -0500" stop="20261113130300 -0500" air_time_start="20261113125200 -0500" air_time_end="20261113130300 -0500" start_utc="20261113175200 +0000" stop_utc="20261113180300 +0000" air_time_start_utc="20261113175200 +0000" air_time_end_utc="20261113180300 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">CLARENCE</title>
-    <sub-title lang="es">OFICIAL MOODY</sub-title>
-    <sub-title lang="en">OFFICER MOODY</sub-title>
-    <desc lang="es">Se revelan fragmentos del pasado del Sr. Reese cuando su vieja compañera de la policía, la oficial Moody, visita la Escuela Primaria de Aberdale.</desc>
-    <date>2016</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">3.98.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/64ovZGB2ZtVkhjvI8u9zJElfWPA.jpg" />
-  </programme>
-  <programme start="20261113130300 -0500" stop="20261113131400 -0500" air_time_start="20261113130300 -0500" air_time_end="20261113131400 -0500" start_utc="20261113180300 +0000" stop_utc="20261113181400 +0000" air_time_start_utc="20261113180300 +0000" air_time_end_utc="20261113181400 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <sub-title lang="es">POLLY ETHYLENE TARA PHTHALATE (F.K.A. RECYCLING)</sub-title>
-    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, ¿pero qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
-    <date>2021</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">6.330.</episode-num>
-  </programme>
-  <programme start="20261113131400 -0500" stop="20261113132818 -0500" air_time_start="20261113131400 -0500" air_time_end="20261113132818 -0500" start_utc="20261113181400 +0000" stop_utc="20261113182818 +0000" air_time_start_utc="20261113181400 +0000" air_time_end_utc="20261113182818 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <sub-title lang="es">DONY &amp; DELY</sub-title>
-    <sub-title lang="en">SQUASH &amp; STRETCH</sub-title>
-    <desc lang="es">Los Titanes aprenden sobre la violencia estilo dibujo animado para vengarse de una ardilla que se roba sus bocadillos.</desc>
-    <date>2016</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">2.120.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/yJ7ManK7pwARAxzTpE0Riz5WMzQ.jpg" />
-  </programme>
-  <programme start="20261113132818 -0500" stop="20261113133017 -0500" air_time_start="20261113132818 -0500" air_time_end="20261113133017 -0500" start_utc="20261113182818 +0000" stop_utc="20261113183017 +0000" air_time_start_utc="20261113182818 +0000" air_time_end_utc="20261113183017 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">Pausa Comercial</title>
-    <desc lang="es">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="es">Comercial</category>
-  </programme>
-  <programme start="20261113132818 -0500" stop="20261113133017 -0500" air_time_start="20261113132818 -0500" air_time_end="20261113133017 -0500" start_utc="20261113182818 +0000" stop_utc="20261113183017 +0000" air_time_start_utc="20261113182818 +0000" air_time_end_utc="20261113183017 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">Pausa Comercial</title>
-    <desc lang="es">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="es">Comercial</category>
-  </programme>
-  <programme start="20261113133000 -0500" stop="20261113134100 -0500" air_time_start="20261113133000 -0500" air_time_end="20261113134100 -0500" start_utc="20261113183000 +0000" stop_utc="20261113184100 +0000" air_time_start_utc="20261113183000 +0000" air_time_end_utc="20261113184100 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <sub-title lang="es">INTRO</sub-title>
-    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, ¿pero qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
-    <date>2023</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">7.392.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/fChn3aSR0nutZPPPCzHLEQSFNZ9.jpg" />
-  </programme>
-  <programme start="20261113134100 -0500" stop="20261113135200 -0500" air_time_start="20261113134100 -0500" air_time_end="20261113135200 -0500" start_utc="20261113184100 +0000" stop_utc="20261113185200 +0000" air_time_start_utc="20261113184100 +0000" air_time_end_utc="20261113185200 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <sub-title lang="es">DÓNDE EXACTAMENTE EN EL GLOBO ESTÁ CARL SANPEDRO PARTE 1</sub-title>
-    <sub-title lang="en">WHERE EXACTLY ON THE GLOBE IS CARL SANPEDRO PT. 1</sub-title>
-    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, ¿pero qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
-    <date>2020</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">5.278.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/4hxO6XGughTcmOSc2fD67ZSSVUm.jpg" />
-  </programme>
-  <programme start="20261113135200 -0500" stop="20261113140718 -0500" air_time_start="20261113135200 -0500" air_time_end="20261113140718 -0500" start_utc="20261113185200 +0000" stop_utc="20261113190718 +0000" air_time_start_utc="20261113185200 +0000" air_time_end_utc="20261113190718 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <sub-title lang="es">DÓNDE EXACTAMENTE EN EL GLOBO ESTÁ CARL SANPEDRO PARTE 2</sub-title>
-    <sub-title lang="en">WHERE EXACTLY ON THE GLOBE IS CARL SANPEDRO PT. 2</sub-title>
-    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, ¿pero qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
-    <date>2020</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">5.287.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/loTRrgY0UXxEmaLAl80hmyUwoyT.jpg" />
-  </programme>
-  <programme start="20261113140718 -0500" stop="20261113140817 -0500" air_time_start="20261113140718 -0500" air_time_end="20261113140817 -0500" start_utc="20261113190718 +0000" stop_utc="20261113190817 +0000" air_time_start_utc="20261113190718 +0000" air_time_end_utc="20261113190817 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">Pausa Comercial</title>
-    <desc lang="es">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="es">Comercial</category>
-  </programme>
-  <programme start="20261113140718 -0500" stop="20261113140817 -0500" air_time_start="20261113140718 -0500" air_time_end="20261113140817 -0500" start_utc="20261113190718 +0000" stop_utc="20261113190817 +0000" air_time_start_utc="20261113190718 +0000" air_time_end_utc="20261113190817 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">Pausa Comercial</title>
-    <desc lang="es">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="es">Comercial</category>
-  </programme>
-  <programme start="20261113140800 -0500" stop="20261113141900 -0500" air_time_start="20261113140800 -0500" air_time_end="20261113141900 -0500" start_utc="20261113190800 +0000" stop_utc="20261113191900 +0000" air_time_start_utc="20261113190800 +0000" air_time_end_utc="20261113191900 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <sub-title lang="es">DÓNDE EXACTAMENTE EN EL GLOBO ESTÁ CARL SANPEDRO PARTE 3</sub-title>
-    <sub-title lang="en">WHERE EXACTLY ON THE GLOBE IS CARL SANPEDRO PT. 3</sub-title>
-    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, ¿pero qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
-    <date>2020</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">5.288.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/mSPsKGWSL70Q0G8hS48ehBGD1bZ.jpg" />
-  </programme>
-  <programme start="20261113141100 -0300" stop="20261113142200 -0300" air_time_start="20261113141100 -0300" air_time_end="20261113142200 -0300" start_utc="20261113171100 +0000" stop_utc="20261113172200 +0000" air_time_start_utc="20261113171100 +0000" air_time_end_utc="20261113172200 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">OPUESTOS</sub-title>
-    <sub-title lang="en">OPPOSITES</sub-title>
-    <desc lang="pt">Ravena mostra aos outros Titãs que ler pode ser divertido.</desc>
-    <date>2013</date>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/pXKCy1JoaCSRDNq7QzAOBDLLabI.jpg" />
-  </programme>
-  <programme start="20261113141900 -0500" stop="20261113142900 -0500" air_time_start="20261113141900 -0500" air_time_end="20261113142900 -0500" start_utc="20261113191900 +0000" stop_utc="20261113192900 +0000" air_time_start_utc="20261113191900 +0000" air_time_end_utc="20261113192900 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-    <sub-title lang="es">DÓNDE EXACTAMENTE EN EL GLOBO ESTÁ CARL SANPEDRO PARTE 4</sub-title>
-    <sub-title lang="en">WHERE EXACTLY ON THE GLOBE IS CARL SANPEDRO PT. 4</sub-title>
-    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, ¿pero qué sucede cuando ya terminaron de luchar contra el crimen?</desc>
-    <date>2020</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">5.289.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/bwQdvF0dlPswunINE4nEahBOTPZ.jpg" />
-  </programme>
-  <programme start="20261113142200 -0300" stop="20261113143300 -0300" air_time_start="20261113142200 -0300" air_time_end="20261113143300 -0300" start_utc="20261113172200 +0000" stop_utc="20261113173300 +0000" air_time_start_utc="20261113172200 +0000" air_time_end_utc="20261113173300 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">EL CUMPLE DE BESTIA Y RAVEN</sub-title>
-    <sub-title lang="en">BBRAEBDAY</sub-title>
-    <desc lang="pt">Os Titãs comemoram o aniversário de Ravena.</desc>
-    <date>2021</date>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">5.300.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/snso0k37rNWp1KYy6nvtUqY8PDE.jpg" />
-  </programme>
-  <programme start="20261113142900 -0500" stop="20261113144214 -0500" air_time_start="20261113142900 -0500" air_time_end="20261113144214 -0500" start_utc="20261113192900 +0000" stop_utc="20261113194214 +0000" air_time_start_utc="20261113192900 +0000" air_time_end_utc="20261113194214 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <sub-title lang="es">EL ESCAPE</sub-title>
-    <sub-title lang="en">ON THE LAM</sub-title>
-    <desc lang="es">¡Martin el Humano, el padre de Finn, lucha por liberarse en un planeta nuevo y extraño!</desc>
-    <date>2014</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">5.97.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/mAGgbk9SKsYuRcNuy2ZapIkcb5U.jpg" />
-  </programme>
-  <programme start="20261113143300 -0300" stop="20261113144214 -0300" air_time_start="20261113143300 -0300" air_time_end="20261113144214 -0300" start_utc="20261113173300 +0000" stop_utc="20261113174214 +0000" air_time_start_utc="20261113173300 +0000" air_time_end_utc="20261113174214 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">HORA DE AVENTURA</title>
-    <sub-title lang="pt">EL ESCAPE</sub-title>
-    <sub-title lang="en">ON THE LAM</sub-title>
-    <desc lang="pt">O pai de Finn, Martin, luta por sua liberdade num novo planeta esquisito!</desc>
-    <date>2014</date>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">5.97.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/mAGgbk9SKsYuRcNuy2ZapIkcb5U.jpg" />
-  </programme>
-  <programme start="20261113144214 -0300" stop="20261113144313 -0300" air_time_start="20261113144214 -0300" air_time_end="20261113144313 -0300" start_utc="20261113174214 +0000" stop_utc="20261113174313 +0000" air_time_start_utc="20261113174214 +0000" air_time_end_utc="20261113174313 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">Pausa Comercial</title>
-    <desc lang="pt">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="pt">Comercial</category>
-  </programme>
-  <programme start="20261113144214 -0300" stop="20261113144313 -0300" air_time_start="20261113144214 -0300" air_time_end="20261113144313 -0300" start_utc="20261113174214 +0000" stop_utc="20261113174313 +0000" air_time_start_utc="20261113174214 +0000" air_time_end_utc="20261113174313 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">Pausa Comercial</title>
-    <desc lang="pt">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="pt">Comercial</category>
-  </programme>
-  <programme start="20261113144214 -0500" stop="20261113144313 -0500" air_time_start="20261113144214 -0500" air_time_end="20261113144313 -0500" start_utc="20261113194214 +0000" stop_utc="20261113194313 +0000" air_time_start_utc="20261113194214 +0000" air_time_end_utc="20261113194313 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">Pausa Comercial</title>
-    <desc lang="es">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="es">Comercial</category>
-  </programme>
-  <programme start="20261113144214 -0500" stop="20261113144313 -0500" air_time_start="20261113144214 -0500" air_time_end="20261113144313 -0500" start_utc="20261113194214 +0000" stop_utc="20261113194313 +0000" air_time_start_utc="20261113194214 +0000" air_time_end_utc="20261113194313 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">Pausa Comercial</title>
-    <desc lang="es">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="es">Comercial</category>
-  </programme>
-  <programme start="20261113144300 -0500" stop="20261113145400 -0500" air_time_start="20261113144300 -0500" air_time_end="20261113145400 -0500" start_utc="20261113194300 +0000" stop_utc="20261113195400 +0000" air_time_start_utc="20261113194300 +0000" air_time_end_utc="20261113195400 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">HORA DE AVENTURA</title>
-    <sub-title lang="es">CHICAS CON OJOS EN BLANCOS</sub-title>
-    <sub-title lang="en">BLANK EYED GIRL</sub-title>
-    <desc lang="es">Una noche muy tenebrosa, Finn y Jake se enfrentan cara a cara con un mito urbano.</desc>
-    <date>2015</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">6.219.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/tBfQk84ritTFqKjxTyEJK2GClKy.jpg" />
-  </programme>
-  <programme start="20261113144600 -0300" stop="20261113145700 -0300" air_time_start="20261113144600 -0300" air_time_end="20261113145700 -0300" start_utc="20261113174600 +0000" stop_utc="20261113175700 +0000" air_time_start_utc="20261113174600 +0000" air_time_end_utc="20261113175700 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">HORA DE AVENTURA</title>
-    <sub-title lang="pt">CHICAS CON OJOS EN BLANCOS</sub-title>
-    <sub-title lang="en">BLANK EYED GIRL</sub-title>
-    <desc lang="pt">Numa noite assustadora, Finn e Jake se deparam com um mito urbano.</desc>
-    <date>2015</date>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">6.219.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/tBfQk84ritTFqKjxTyEJK2GClKy.jpg" />
-  </programme>
-  <programme start="20261113145400 -0500" stop="20261113150947 -0500" air_time_start="20261113145400 -0500" air_time_end="20261113150947 -0500" start_utc="20261113195400 +0000" stop_utc="20261113200947 +0000" air_time_start_utc="20261113195400 +0000" air_time_end_utc="20261113200947 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">Un jefe en pañales: De vuelta en la cuna</title>
-    <sub-title lang="es">IMAGINARY FRIENDS</sub-title>
-    <desc lang="es">Serie que narra las aventuras de un curioso bebé con traje y maletín que esconde una doble vida como jefe corporativo de Baby Corp, con la astucia suficiente como para llevar todo el papeleo, las reuniones de negocios y las tareas importantes de la empresa. De esta manera, trata de mantener el equilibrio entre su vida personal y la profesional gracias a la complicidad de su hermano mayor Tim, con quien forma un equipo perfecto.  Netflix desarrolla esta serie basada en la película nominada al Oscar El bebé jefazo (2017, un jefe en pañales, junto a DreamWorks Animation, contando con el productor ejecutivo Brandon Sawyer, quien fue galardonado con un Emmy por Los pingüinos de Madagascar.</desc>
-    <date>2022</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/lfmiiGtPrgiQk8UmNWqHKuoWN1O.jpg" />
-  </programme>
-  <programme start="20261113145700 -0300" stop="20261113150800 -0300" air_time_start="20261113145700 -0300" air_time_end="20261113150800 -0300" start_utc="20261113175700 +0000" stop_utc="20261113180800 +0000" air_time_start_utc="20261113175700 +0000" air_time_end_utc="20261113180800 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">CLARÊNCIO, O OTIMISTA</title>
-    <sub-title lang="pt">MERCADO MEDIEVAL</sub-title>
-    <sub-title lang="en">REN FAIRE</sub-title>
-    <desc lang="pt">Clarêncio e seus amigos se aventuram na Feira Renascentista de Aberdale. Mas Clarêncio confunde uma peça medieval com a realidade e jura que irá impedir o ¿diabólico¿ cavaleiro negro de capturar a princesa.</desc>
-    <date>2016</date>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.55.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/qy5o0KQ3EbK29IZMq1L3BDAt7Oz.jpg" />
-  </programme>
-  <programme start="20261113150800 -0300" stop="20261113150947 -0300" air_time_start="20261113150800 -0300" air_time_end="20261113150947 -0300" start_utc="20261113180800 +0000" stop_utc="20261113180947 +0000" air_time_start_utc="20261113180800 +0000" air_time_end_utc="20261113180947 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">CLARÊNCIO, O OTIMISTA</title>
-    <sub-title lang="pt">BUCKY Y EL BÚHO</sub-title>
-    <sub-title lang="en">BUCKY AND THE HOWL</sub-title>
-    <desc lang="pt">Quando Clarêncio descobre que Sumo está no musical da escola, ele resolve entrar também e promove a apresentação com entusiasmo. Na noite de estreia, com a casa cheia, Sumo trava e foge, deixando Clarêncio na mão.</desc>
-    <date>2016</date>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">2.79.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/cnCQd5ntyqYDXRQeo217WT3gFxS.jpg" />
-  </programme>
-  <programme start="20261113150947 -0300" stop="20261113151046 -0300" air_time_start="20261113150947 -0300" air_time_end="20261113151046 -0300" start_utc="20261113180947 +0000" stop_utc="20261113181046 +0000" air_time_start_utc="20261113180947 +0000" air_time_end_utc="20261113181046 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">Pausa Comercial</title>
-    <desc lang="pt">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="pt">Comercial</category>
-  </programme>
-  <programme start="20261113150947 -0300" stop="20261113151046 -0300" air_time_start="20261113150947 -0300" air_time_end="20261113151046 -0300" start_utc="20261113180947 +0000" stop_utc="20261113181046 +0000" air_time_start_utc="20261113180947 +0000" air_time_end_utc="20261113181046 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">Pausa Comercial</title>
-    <desc lang="pt">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="pt">Comercial</category>
-  </programme>
-  <programme start="20261113150947 -0500" stop="20261113151046 -0500" air_time_start="20261113150947 -0500" air_time_end="20261113151046 -0500" start_utc="20261113200947 +0000" stop_utc="20261113201046 +0000" air_time_start_utc="20261113200947 +0000" air_time_end_utc="20261113201046 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">Pausa Comercial</title>
-    <desc lang="es">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="es">Comercial</category>
-  </programme>
-  <programme start="20261113150947 -0500" stop="20261113151046 -0500" air_time_start="20261113150947 -0500" air_time_end="20261113151046 -0500" start_utc="20261113200947 +0000" stop_utc="20261113201046 +0000" air_time_start_utc="20261113200947 +0000" air_time_end_utc="20261113201046 +0000" is_live="false" channel="CNLA_PAN.co">
-    <title lang="es">Pausa Comercial</title>
-    <desc lang="es">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="es">Comercial</category>
-  </programme>
-  <programme start="20261113152100 -0300" stop="20261113153200 -0300" air_time_start="20261113152100 -0300" air_time_end="20261113153200 -0300" start_utc="20261113182100 +0000" stop_utc="20261113183200 +0000" air_time_start_utc="20261113182100 +0000" air_time_end_utc="20261113183200 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">CLARÊNCIO, O OTIMISTA</title>
-    <sub-title lang="pt">ATAQUE EN LA FIESTA DE LA CUADRA</sub-title>
-    <sub-title lang="en">ATTACK THE BLOCK PARTY</sub-title>
-    <desc lang="pt">Clarence, Jeff e Sumo investigam uma festa no fim da rua - que eles confundiram com uma invasão alienígena.</desc>
-    <date>2016</date>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.61.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/hrcx61IW23Tegc6zLyjaVEDQ3kc.jpg" />
-  </programme>
   <programme start="20261113152200 -0500" stop="20261113153300 -0500" air_time_start="20261113152200 -0500" air_time_end="20261113153300 -0500" start_utc="20261113202200 +0000" stop_utc="20261113203300 +0000" air_time_start_utc="20261113202200 +0000" air_time_end_utc="20261113203300 +0000" is_live="false" channel="CNLA_PAN.co">
     <title lang="es">El Submarino de Jim</title>
     <sub-title lang="es">The Dolphin for the Job</sub-title>
@@ -322,16 +14,6 @@
     <category lang="es">Aventuras</category>
     <episode-num system="xmltv_ns">0.21.</episode-num>
   </programme>
-  <programme start="20261113153200 -0300" stop="20261113154300 -0300" air_time_start="20261113153200 -0300" air_time_end="20261113154300 -0300" start_utc="20261113183200 +0000" stop_utc="20261113184300 +0000" air_time_start_utc="20261113183200 +0000" air_time_end_utc="20261113184300 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">Best Mom Ever</sub-title>
-    <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões?</desc>
-    <date>2025</date>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">8.492.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/xOueXAxXBVpgRk7Gk1MuccL3nrF.jpg" />
-  </programme>
   <programme start="20261113153300 -0500" stop="20261113154634 -0500" air_time_start="20261113153300 -0500" air_time_end="20261113154634 -0500" start_utc="20261113203300 +0000" stop_utc="20261113204634 +0000" air_time_start_utc="20261113203300 +0000" air_time_end_utc="20261113204634 +0000" is_live="false" channel="CNLA_PAN.co">
     <title lang="es">El Submarino de Jim</title>
     <sub-title lang="es">Pit Stop</sub-title>
@@ -339,26 +21,6 @@
     <category lang="es">Animación</category>
     <category lang="es">Aventuras</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
-  </programme>
-  <programme start="20261113154300 -0300" stop="20261113154634 -0300" air_time_start="20261113154300 -0300" air_time_end="20261113154634 -0300" start_utc="20261113184300 +0000" stop_utc="20261113184634 +0000" air_time_start_utc="20261113184300 +0000" air_time_end_utc="20261113184634 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">365!</sub-title>
-    <desc lang="pt">Conheça Robin, Ciborgue, Estelar, Ravena e Mutano. Claro, eles ainda são super-heróis que salvam o dia, mas o que acontece quando terminam suas missões?</desc>
-    <date>2022</date>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">6.363.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/j48Whd4I0m7MfTeBfP4gZI01XSX.jpg" />
-  </programme>
-  <programme start="20261113154634 -0300" stop="20261113154733 -0300" air_time_start="20261113154634 -0300" air_time_end="20261113154733 -0300" start_utc="20261113184634 +0000" stop_utc="20261113184733 +0000" air_time_start_utc="20261113184634 +0000" air_time_end_utc="20261113184733 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">Pausa Comercial</title>
-    <desc lang="pt">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="pt">Comercial</category>
-  </programme>
-  <programme start="20261113154634 -0300" stop="20261113154733 -0300" air_time_start="20261113154634 -0300" air_time_end="20261113154733 -0300" start_utc="20261113184634 +0000" stop_utc="20261113184733 +0000" air_time_start_utc="20261113184634 +0000" air_time_end_utc="20261113184733 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">Pausa Comercial</title>
-    <desc lang="pt">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="pt">Comercial</category>
   </programme>
   <programme start="20261113154634 -0500" stop="20261113154733 -0500" air_time_start="20261113154634 -0500" air_time_end="20261113154733 -0500" start_utc="20261113204634 +0000" stop_utc="20261113204733 +0000" air_time_start_utc="20261113204634 +0000" air_time_end_utc="20261113204733 +0000" is_live="false" channel="CNLA_PAN.co">
     <title lang="es">Pausa Comercial</title>
@@ -378,17 +40,6 @@
     <category lang="es">Aventuras</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
   </programme>
-  <programme start="20261113155500 -0300" stop="20261113160600 -0300" air_time_start="20261113155500 -0300" air_time_end="20261113160600 -0300" start_utc="20261113185500 +0000" stop_utc="20261113190600 +0000" air_time_start_utc="20261113185500 +0000" air_time_end_utc="20261113190600 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <sub-title lang="pt">ME LLAMO JOSÉ</sub-title>
-    <sub-title lang="en">MY NAME IS JOSE</sub-title>
-    <desc lang="pt">Ravena concede novos superpoderes aos Titãs, mas eles demoram a se acostumar com eles.</desc>
-    <date>2018</date>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">4.219.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/lz4YFFdYMKvrxu1uLHXklmRb5o.jpg" />
-  </programme>
   <programme start="20261113155800 -0500" stop="20261113161000 -0500" air_time_start="20261113155800 -0500" air_time_end="20261113161000 -0500" start_utc="20261113205800 +0000" stop_utc="20261113211000 +0000" air_time_start_utc="20261113205800 +0000" air_time_end_utc="20261113211000 +0000" is_live="false" channel="CNLA_PAN.co">
     <title lang="es">El mundo de craig</title>
     <sub-title lang="es">THE SPARKLE SOLUTION</sub-title>
@@ -399,13 +50,6 @@
     <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">3.125.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/olYxWs1jn1Ronj9w2HWcAI8oITg.jpg" />
-  </programme>
-  <programme start="20261113160600 -0300" stop="20261113161700 -0300" air_time_start="20261113160600 -0300" air_time_end="20261113161700 -0300" start_utc="20261113190600 +0000" stop_utc="20261113191700 +0000" air_time_start_utc="20261113190600 +0000" air_time_end_utc="20261113191700 +0000" is_live="false" channel="CNLA_BR.br">
-    <sub-title lang="pt">THE SCORE</sub-title>
-    <date>2025</date>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.24.</episode-num>
   </programme>
   <programme start="20261113161000 -0500" stop="20261113162512 -0500" air_time_start="20261113161000 -0500" air_time_end="20261113162512 -0500" start_utc="20261113211000 +0000" stop_utc="20261113212512 +0000" air_time_start_utc="20261113211000 +0000" air_time_end_utc="20261113212512 +0000" is_live="false" channel="CNLA_PAN.co">
     <title lang="es">El mundo de craig</title>
@@ -418,23 +62,6 @@
     <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">0.21.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/nG1CxsgYgS75cleZfZmVpUTm2sX.jpg" />
-  </programme>
-  <programme start="20261113161700 -0300" stop="20261113162512 -0300" air_time_start="20261113161700 -0300" air_time_end="20261113162512 -0300" start_utc="20261113191700 +0000" stop_utc="20261113192512 +0000" air_time_start_utc="20261113191700 +0000" air_time_end_utc="20261113192512 +0000" is_live="false" channel="CNLA_BR.br">
-    <sub-title lang="pt">THE TEACHER</sub-title>
-    <date>2025</date>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-  </programme>
-  <programme start="20261113162512 -0300" stop="20261113162611 -0300" air_time_start="20261113162512 -0300" air_time_end="20261113162611 -0300" start_utc="20261113192512 +0000" stop_utc="20261113192611 +0000" air_time_start_utc="20261113192512 +0000" air_time_end_utc="20261113192611 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">Pausa Comercial</title>
-    <desc lang="pt">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="pt">Comercial</category>
-  </programme>
-  <programme start="20261113162512 -0300" stop="20261113162611 -0300" air_time_start="20261113162512 -0300" air_time_end="20261113162611 -0300" start_utc="20261113192512 +0000" stop_utc="20261113192611 +0000" air_time_start_utc="20261113192512 +0000" air_time_end_utc="20261113192611 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">Pausa Comercial</title>
-    <desc lang="pt">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="pt">Comercial</category>
   </programme>
   <programme start="20261113162512 -0500" stop="20261113162611 -0500" air_time_start="20261113162512 -0500" air_time_end="20261113162611 -0500" start_utc="20261113212512 +0000" stop_utc="20261113212611 +0000" air_time_start_utc="20261113212512 +0000" air_time_end_utc="20261113212611 +0000" is_live="false" channel="CNLA_PAN.co">
     <title lang="es">Pausa Comercial</title>
@@ -457,13 +84,6 @@
     <episode-num system="xmltv_ns">2.114.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/9DXgIJUHByDEn9KlwKR5Ax7qHF6.jpg" />
   </programme>
-  <programme start="20261113163000 -0300" stop="20261113164200 -0300" air_time_start="20261113163000 -0300" air_time_end="20261113164200 -0300" start_utc="20261113193000 +0000" stop_utc="20261113194200 +0000" air_time_start_utc="20261113193000 +0000" air_time_end_utc="20261113194200 +0000" is_live="false" channel="CNLA_BR.br">
-    <sub-title lang="pt">THE ASSISTANT</sub-title>
-    <date>2025</date>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-  </programme>
   <programme start="20261113163700 -0500" stop="20261113165102 -0500" air_time_start="20261113163700 -0500" air_time_end="20261113165102 -0500" start_utc="20261113213700 +0000" stop_utc="20261113215102 +0000" air_time_start_utc="20261113213700 +0000" air_time_end_utc="20261113215102 +0000" is_live="false" channel="CNLA_PAN.co">
     <title lang="es">SUMMER MEMORIES - SEASON 1</title>
     <sub-title lang="es">Old Things, New Problems</sub-title>
@@ -471,23 +91,6 @@
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">0.15.</episode-num>
-  </programme>
-  <programme start="20261113164200 -0300" stop="20261113165102 -0300" air_time_start="20261113164200 -0300" air_time_end="20261113165102 -0300" start_utc="20261113194200 +0000" stop_utc="20261113195102 +0000" air_time_start_utc="20261113194200 +0000" air_time_end_utc="20261113195102 +0000" is_live="false" channel="CNLA_BR.br">
-    <sub-title lang="pt">THE CLIMB</sub-title>
-    <date>2025</date>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-  </programme>
-  <programme start="20261113165102 -0300" stop="20261113165201 -0300" air_time_start="20261113165102 -0300" air_time_end="20261113165201 -0300" start_utc="20261113195102 +0000" stop_utc="20261113195201 +0000" air_time_start_utc="20261113195102 +0000" air_time_end_utc="20261113195201 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">Pausa Comercial</title>
-    <desc lang="pt">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="pt">Comercial</category>
-  </programme>
-  <programme start="20261113165102 -0300" stop="20261113165201 -0300" air_time_start="20261113165102 -0300" air_time_end="20261113165201 -0300" start_utc="20261113195102 +0000" stop_utc="20261113195201 +0000" air_time_start_utc="20261113195102 +0000" air_time_end_utc="20261113195201 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">Pausa Comercial</title>
-    <desc lang="pt">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="pt">Comercial</category>
   </programme>
   <programme start="20261113165102 -0500" stop="20261113165201 -0500" air_time_start="20261113165102 -0500" air_time_end="20261113165201 -0500" start_utc="20261113215102 +0000" stop_utc="20261113215201 +0000" air_time_start_utc="20261113215102 +0000" air_time_end_utc="20261113215201 +0000" is_live="false" channel="CNLA_PAN.co">
     <title lang="es">Pausa Comercial</title>
@@ -507,19 +110,6 @@
     <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
   </programme>
-  <programme start="20261113165400 -0300" stop="20261113170000 -0300" air_time_start="20261113165400 -0300" air_time_end="20261113170000 -0300" start_utc="20261113195400 +0000" stop_utc="20261113200000 +0000" air_time_start_utc="20261113195400 +0000" air_time_end_utc="20261113200000 +0000" is_live="false" channel="CNLA_BR.br">
-    <sub-title lang="pt">School Bus Scuffle</sub-title>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261113170000 -0300" stop="20261113171100 -0300" air_time_start="20261113170000 -0300" air_time_end="20261113171100 -0300" start_utc="20261113200000 +0000" stop_utc="20261113201100 +0000" air_time_start_utc="20261113200000 +0000" air_time_end_utc="20261113201100 +0000" is_live="false" channel="CNLA_BR.br">
-    <sub-title lang="pt">Pop Quiz</sub-title>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20261113170400 -0500" stop="20261113171713 -0500" air_time_start="20261113170400 -0500" air_time_end="20261113171713 -0500" start_utc="20261113220400 +0000" stop_utc="20261113221713 +0000" air_time_start_utc="20261113220400 +0000" air_time_end_utc="20261113221713 +0000" is_live="false" channel="CNLA_PAN.co">
     <title lang="es">El Maravillosamente Extraño Mundo de Gumball</title>
     <sub-title lang="es">THE DISTANCE</sub-title>
@@ -529,26 +119,6 @@
     <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/4T0qlYJf84038Wj5wyZMZd4TgkA.jpg" />
-  </programme>
-  <programme start="20261113171100 -0300" stop="20261113171713 -0300" air_time_start="20261113171100 -0300" air_time_end="20261113171713 -0300" start_utc="20261113201100 +0000" stop_utc="20261113201713 +0000" air_time_start_utc="20261113201100 +0000" air_time_end_utc="20261113201713 +0000" is_live="false" channel="CNLA_BR.br">
-    <sub-title lang="pt">¿Nani?</sub-title>
-    <sub-title lang="en">Nani?</sub-title>
-    <desc lang="pt">Any Malu y sus amigos tienen la tarea de crear una introducción de anime, y contarán con la "ayuda" de Baka Hanpanai, el nuevo profesor de la materia.</desc>
-    <date>2026</date>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-  </programme>
-  <programme start="20261113171713 -0300" stop="20261113171813 -0300" air_time_start="20261113171713 -0300" air_time_end="20261113171813 -0300" start_utc="20261113201713 +0000" stop_utc="20261113201813 +0000" air_time_start_utc="20261113201713 +0000" air_time_end_utc="20261113201813 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">Pausa Comercial</title>
-    <desc lang="pt">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="pt">Comercial</category>
-  </programme>
-  <programme start="20261113171713 -0300" stop="20261113171813 -0300" air_time_start="20261113171713 -0300" air_time_end="20261113171813 -0300" start_utc="20261113201713 +0000" stop_utc="20261113201813 +0000" air_time_start_utc="20261113201713 +0000" air_time_end_utc="20261113201813 +0000" is_live="false" channel="CNLA_BR.br">
-    <title lang="pt">Pausa Comercial</title>
-    <desc lang="pt">Espacio publicitario de Cartoon Network.</desc>
-    <category lang="pt">Comercial</category>
   </programme>
   <programme start="20261113171713 -0500" stop="20261113171813 -0500" air_time_start="20261113171713 -0500" air_time_end="20261113171813 -0500" start_utc="20261113221713 +0000" stop_utc="20261113221813 +0000" air_time_start_utc="20261113221713 +0000" air_time_end_utc="20261113221813 +0000" is_live="false" channel="CNLA_PAN.co">
     <title lang="es">Pausa Comercial</title>
