@@ -11,14 +11,16 @@ RETENTION_DAYS_PAST = 5
 RETENTION_DAYS_FUTURE = 15
 
 AUTH_URL = "https://epg.tapkit.warnermedia.com/api/security/oauth/token"
-DOWNLOAD_FILE_URL = "https://epg.tapkit.warnermedia.com/api/domain/users/register/downloaded/file"
+GET_EPAK_FILES_URL = "https://epg.tapkit.warnermedia.com/api/domain/networkgrids/getepakfiles?networkId=47&format=csv"
+DOWNLOAD_FILE_URL = "https://epg.tapkit.warnermedia.com/api/epg/tapkitFrontEnd/networksepg/downloadfiles"
+REGISTER_DOWNLOAD_URL = "https://epg.tapkit.warnermedia.com/api/domain/users/register/downloaded/file"
 
 TMDB_API_KEY = os.environ.get("TMDB_API_KEY", "").strip()
 TMDB_TOKEN = os.environ.get("TMDB_TOKEN", "").strip()
 
 http_session = requests.Session()
 http_session.headers.update({
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0",
     "Accept": "application/json, text/plain, */*"
 })
 
@@ -132,8 +134,7 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", lang="es"
 NETWORKS_CONFIG = {
     "DKLA_EPG.xml": {
         "generator_name": "Guia de Programacion Discovery Kids MultiFeed",
-        "referer": "https://epg.tapkit.warnermedia.com/",
-        "type": "daily",
+        "referer": "https://epg.tapkit.warnermedia.com/epg/networks/47",
         "feeds": [
             {"feed_id": "DKLA_PAN", "channel_id": "DK_PAN.co", "channel_name": "Discovery Kids Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0500"},
             {"feed_id": "DKLA_CAR", "channel_id": "DK_CAR.co", "channel_name": "Discovery Kids Caribe", "lang": "es", "tz": timezone(timedelta(hours=-4)), "tz_str": "-0400"},
@@ -152,76 +153,81 @@ def login_and_get_token():
     print("[OK] Sesión iniciada para Discovery Kids y token obtenido.")
     return res.json().get("access_token")
 
-def download_feed_xls(token, feed_cfg, referer_url):
+def fetch_epak_files(token, referer_url):
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Referer": referer_url,
+        "Accept": "application/json, text/plain, */*"
+    }
+    try:
+        res = http_session.get(GET_EPAK_FILES_URL, headers=headers, timeout=20)
+        if res.status_code == 200:
+            return res.json()
+    except Exception as e:
+        print(f"[WARN] No se pudo obtener la lista EPAK: {e}")
+    return []
+
+def download_feed_xls(token, feed_cfg, referer_url, epak_files):
     feed_id = feed_cfg["feed_id"]
-    xlsx_path = f"{feed_id}_latest.xlsx"
+    csv_path = f"{feed_id}_latest.csv"
     
-    now = datetime.now()
-    year = now.year
-    month = now.month
-    month_str = f"{month:02d}"
-    
-    suffix_map = {
+    region_map = {
         "DKLA_PAN": "Latin",
         "DKLA_CAR": "Caribe",
         "DKLA_MEX": "Mexico",
         "DKLA_BR": "Brazil"
     }
-    region_name = suffix_map.get(feed_id, "Latin")
+    region = region_map.get(feed_id, "Latin")
     
-    list_url = "https://epg.tapkit.warnermedia.com/api/epg/tapkitFrontEnd/networksepg/getfiles"
-    list_headers = {
-        "Authorization": f"Bearer {token}",
-        "Referer": referer_url,
-        "Accept": "application/json"
-    }
-    
-    target_filename = None
+    target_name = None
     target_path = None
+    file_id_val = "10605612"
     
-    try:
-        res_list = http_session.get(list_url, headers=list_headers, timeout=15)
-        if res_list.status_code == 200:
-            files_data = res_list.json()
-            for item in files_data:
-                fname = item.get("name", "")
-                if f"Discovery_Kids_{region_name}" in fname and fname.endswith(".xlsx"):
-                    target_filename = fname
-                    target_path = item.get("path", f"network-files/DKLA/{year}/{month_str}/grids/{fname}")
-                    break
-    except Exception:
-        pass
-        
-    if not target_filename:
-        yy = str(year)[-2:]
-        target_filename = f"FULL_DLA_Discovery_Kids_{region_name}_{yy}{month_str}01_{yy}{month_str}31.xlsx"
-        target_path = f"network-files/DKLA/{year}/{month_str}/grids/{target_filename}"
+    for f_item in epak_files:
+        name = f_item.get("name", "")
+        if region.lower() in name.lower() or region in name:
+            target_name = name
+            target_path = f_item.get("path", f"network-files/DISCKIDS/EPAK/FULL/{name}")
+            file_id_val = str(f_item.get("id", "10605612"))
+            break
+            
+    if not target_name:
+        target_name = f"FULL_DLA_Discovery_Kids_{region}_261101_261231.csv"
+        target_path = f"network-files/DISCKIDS/EPAK/FULL/{target_name}"
 
-    url = "https://epg.tapkit.warnermedia.com/api/epg/tapkitFrontEnd/networksepg/downloadfiles"
+    # Paso 1: Petición de descarga de archivos
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {token}",
         "Origin": "https://epg.tapkit.warnermedia.com",
-        "Referer": referer_url
+        "Referer": referer_url,
+        "Accept": "application/json, text/plain, */*"
     }
-    payload = [{"name": target_filename, "path": target_path}]
+    payload = [{"name": target_name, "path": target_path}]
 
-    res = http_session.post(url, json=payload, headers=headers, timeout=30)
-    
-    if res.status_code != 200 or len(res.content) < 100:
-        fallback_url = "https://epg.tapkit.warnermedia.com/api/domain/users/register/downloaded/file"
-        current_date_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S.%f")[:-3]
-        files = {
-            'user-token': (None, token),
-            'file-id': (None, "1"),
-            'downloaded-date': (None, current_date_str)
-        }
-        res = http_session.post(fallback_url, headers={"Authorization": f"Bearer {token}", "Referer": referer_url}, files=files, timeout=30)
-
+    res = http_session.post(DOWNLOAD_FILE_URL, json=payload, headers=headers, timeout=30)
     res.raise_for_status()
-    with open(xlsx_path, "wb") as f:
+    
+    with open(csv_path, "wb") as f:
         f.write(res.content)
-    return xlsx_path
+
+    # Paso 2: Registro de descarga en la plataforma
+    current_date_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S.835")
+    form_data = {
+        "user-token": token,
+        "file-id": file_id_val,
+        "downloaded-date": current_date_str
+    }
+    try:
+        http_session.post(REGISTER_DOWNLOAD_URL, headers={
+            "Authorization": f"Bearer {token}",
+            "Referer": referer_url,
+            "Origin": "https://epg.tapkit.warnermedia.com"
+        }, data=form_data, timeout=10)
+    except Exception:
+        pass
+
+    return csv_path
 
 def sanitize_and_parse_xml(file_path, generator_name):
     if not os.path.exists(file_path): 
@@ -246,10 +252,12 @@ def format_xmltv_date(dt, tz_str):
 
 def load_schedule_dataframe(file_path):
     try:
-        return pd.read_excel(file_path, sheet_name=0)
-    except Exception as e:
-        print(f"[ERROR] No se pudo leer el archivo Excel {file_path}: {e}")
-        raise e
+        return pd.read_csv(file_path, sep='\t', encoding='utf-8')
+    except Exception:
+        try:
+            return pd.read_csv(file_path, sep=',', encoding='utf-8')
+        except Exception:
+            return pd.read_excel(file_path)
 
 def process_daily_feed(root, feed_cfg, file_path):
     channel_id = feed_cfg["channel_id"]
@@ -408,10 +416,12 @@ def main():
                 if ch in root:
                     root.remove(ch)
 
+        epak_files = fetch_epak_files(token, net_config["referer"])
+
         for feed_cfg in net_config["feeds"]:
             try:
-                xlsx_path = download_feed_xls(token, feed_cfg, net_config["referer"])
-                process_daily_feed(root, feed_cfg, xlsx_path)
+                csv_path = download_feed_xls(token, feed_cfg, net_config["referer"], epak_files)
+                process_daily_feed(root, feed_cfg, csv_path)
             except Exception as e:
                 print(f"[ERROR] Feed Discovery {feed_cfg['feed_id']}: {e}")
 
