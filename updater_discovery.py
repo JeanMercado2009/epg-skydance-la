@@ -262,7 +262,11 @@ def load_schedule_dataframe(file_path):
             except:
                 return pd.read_csv(file_path, sep=',', encoding='utf-8')
         else:
-            return pd.read_excel(file_path, sheet_name=0)
+            try:
+                return pd.read_excel(file_path, sheet_name=0, engine='openpyxl')
+            except Exception:
+                # Respaldo por si el archivo descargado tiene extensión xlsx pero es texto/csv plano
+                return pd.read_csv(file_path, sep=None, engine='python', encoding='utf-8')
     except Exception as e:
         print(f"[ERROR] No se pudo leer el archivo {file_path}: {e}")
         raise e
