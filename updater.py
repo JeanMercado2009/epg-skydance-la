@@ -211,48 +211,6 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", lang="es"
     tmdb_cache[cache_key] = ""
     return ""
 
-def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"):
-    headers = {
-        "Content-Type": "application/json",
-        "Authorization": f"Bearer {token}",
-        "Origin": "https://epg.tapkit.warnermedia.com",
-        "Referer": "https://epg.tapkit.warnermedia.com/epg/networks/2"
-    }
-    breaks_events = []
-    for break_num in range(1, 10):
-        filename = f"{date_str}_{feed_code}_CNLH Break {break_num}_1.csv"
-        path = f"fromCueToneReport/done{filename}"
-        payload = {"name": filename, "path": path}
-        try:
-            res = http_session.post(LOCAL_BREAKS_URL, json=payload, headers=headers, timeout=10)
-            if res.status_code == 200 and len(res.content) > 0:
-                df_break = pd.read_csv(io.BytesIO(res.content), sep=';')
-                in_time = None
-                for _, row in df_break.iterrows():
-                    type_val = str(row.get("Type") or "").strip().upper()
-                    date_offset = str(row.get("Log Date + Offset") or "").strip()
-
-                    if "IN" in type_val:
-                        m = re.search(r"(\d{4})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2}):(\d{2})", date_offset)
-                        if m:
-                            y, mo, d, h, mi, s = map(int, m.groups())
-                            in_time = datetime(y, mo, d, h, mi, s, tzinfo=tz_info)
-                    elif "OUT" in type_val and in_time:
-                        m = re.search(r"(\d{4})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2}):(\d{2})", date_offset)
-                        if m:
-                            y, mo, d, h, mi, s = map(int, m.groups())
-                            out_time = datetime(y, mo, d, h, mi, s, tzinfo=tz_info)
-                            if out_time > in_time:
-                                breaks_events.append({
-                                    "start": in_time, "stop": out_time,
-                                    "title": "Pausa Comercial", "desc": "Espacio publicitario.",
-                                    "category": "Comercial", "type": "break"
-                                })
-                            in_time = None
-        except Exception:
-            pass
-    return breaks_events
-
 NETWORKS_CONFIG = {
     "CNLA_EPG.xml": {
         "generator_name": "Guia de Programacion Cartoon Network MultiFeed",
@@ -582,12 +540,11 @@ def main():
                                     "desc": final_desc if final_desc.lower() != "nan" else "",
                                     "year": year_prod.split('.')[0] if year_prod and year_prod.replace('.', '', 1).isdigit() else "",
                                     "icon": icon_url
-                                ”})
+                                })
                 except Exception:
                     pass
                 curr_d += timedelta(days=1)
 
-            # Insertar eventos de forma limpia y segura evitando duplicados o errores de lista
             all_events = sorted(all_events, key=lambda x: x["start"])
             new_programmes = []
             total_evs = len(all_events)
@@ -632,7 +589,6 @@ def main():
 
             print(f"[{channel_id}] Eventos procesados: {len(new_programmes)}")
 
-        # Ordenar programa global final y limpieza segura
         sorted_progs = sorted(root.findall("programme"), key=lambda x: x.attrib.get("start", ""))
         for p in list(root.findall("programme")):
             if p in root:
