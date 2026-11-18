@@ -39,11 +39,89 @@ def normalize_title(text):
     clean = re.sub(r'[^a-z0-9]', '', clean)
     return clean
 
+def fetch_tmdb_episode_details(series_title, season_str, ep_str, ep_title_en="", lang="es"):
+    if not series_title or (not TMDB_TOKEN and not TMDB_API_KEY):
+        return {}
+    
+    cache_key = f"{series_title}|{season_str}|{ep_str}|{ep_title_en}|ep_details"
+    if cache_key in tmdb_cache:
+        return tmdb_cache[cache_key]
+
+    headers = {"accept": "application/json"}
+    if TMDB_TOKEN:
+        headers["Authorization"] = f"Bearer {TMDB_TOKEN}"
+    elif TMDB_API_KEY:
+        headers["Authorization"] = f"Bearer {TMDB_API_KEY}"
+
+    tmdb_lang = "es-ES" 
+    try:
+        url_tv = "https://api.themoviedb.org/3/search/tv"
+        search_queries = [series_title]
+        clean_title = re.sub(r'[:\-].*', '', series_title).strip()
+        if clean_title and clean_title.lower() != series_title.lower():
+            search_queries.append(clean_title)
+
+        tv_id = None
+        number_of_seasons = 10 
+        for query in search_queries:
+            res = http_session.get(url_tv, headers=headers, params={"query": query, "language": tmdb_lang}, timeout=4)
+            if res.status_code == 200 and res.json().get("results"):
+                show_data = res.json()["results"][0]
+                tv_id = show_data["id"]
+                detail_res = http_session.get(f"https://api.themoviedb.org/3/tv/{tv_id}", headers=headers, timeout=4)
+                if detail_res.status_code == 200:
+                    number_of_seasons = detail_res.json().get("number_of_seasons", 10)
+                break
+
+        if tv_id:
+            s_num = None
+            if season_str and str(season_str).replace('.', '', 1).isdigit():
+                s_num = int(float(season_str))
+
+            e_num = None
+            if ep_str and str(ep_str).replace('.', '', 1).isdigit():
+                e_num = int(float(ep_str))
+
+            if s_num is not None and e_num is not None:
+                ep_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_num}/episode/{e_num}"
+                ep_res = http_session.get(ep_url, headers=headers, params={"language": tmdb_lang}, timeout=4)
+                if ep_res.status_code == 200:
+                    data = ep_res.json()
+                    t_name = data.get("name", "")
+                    t_overview = data.get("overview", "")
+                    if t_name or t_overview:
+                        result = {"title": t_name, "overview": t_overview}
+                        tmdb_cache[cache_key] = result
+                        return result
+
+            norm_target = normalize_title(ep_title_en) if ep_title_en else ""
+            if norm_target:
+                seasons_to_check = [s_num] if s_num is not None else []
+                for s in range(1, number_of_seasons + 1):
+                    if s not in seasons_to_check:
+                        seasons_to_check.append(s)
+                seasons_to_check.append(0)
+
+                for s_check in seasons_to_check:
+                    season_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_check}"
+                    season_res = http_session.get(season_url, headers=headers, params={"language": tmdb_lang}, timeout=4)
+                    if season_res.status_code == 200:
+                        for ep in season_res.json().get("episodes", []):
+                            if normalize_title(ep.get("name", "")) == norm_target:
+                                result = {"title": ep.get("name", ""), "overview": ep.get("overview", "")}
+                                tmdb_cache[cache_key] = result
+                                return result
+    except Exception:
+        pass
+
+    tmdb_cache[cache_key] = {}
+    return {}
+
 def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", lang="es"):
     if not series_title:
         return ""
     
-    cache_key = f"{series_title}|{season_str}|{ep_str}|{ep_title_en}|{lang}"
+    cache_key = f"{series_title}|{season_str}|{ep_str}|{ep_title_en}|still|{lang}"
     if cache_key in tmdb_cache:
         return tmdb_cache[cache_key]
 
@@ -175,9 +253,6 @@ def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"
             pass
     return breaks_events
 
-# -------------------------------------------------------------
-# CONFIGURACIÓN COMPLETA DE TODAS TUS REDES Y CANALES
-# -------------------------------------------------------------
 NETWORKS_CONFIG = {
     "CNLA_EPG.xml": {
         "generator_name": "Guia de Programacion Cartoon Network MultiFeed",
@@ -506,7 +581,6 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
         genre_val = str(row.get(col_genre, "")).strip() if col_genre and pd.notna(row.get(col_genre)) else ""
         length_val = str(row.get(col_length, "")).strip() if col_length and pd.notna(row.get(col_length)) else ""
 
-        # Cálculo dinámico del stop usando la columna Length si está disponible
         stop_dt = None
         if length_val:
             try:
@@ -556,6 +630,15 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
                 if not desc_es and matched_info["desc"]: desc_es = matched_info["desc"]
                 if matched_info["year"]: year_val = matched_info["year"]
 
+        # Si Tapkit no trae traducción o sinopsis en español, recurrimos a TMDB en español latino
+        if (not sub_es or sub_es.lower() == sub_en.lower() or not desc_es) and title_val and "Cine Cartoon" not in title_val:
+            tmdb_details = fetch_tmdb_episode_details(title_val, season_val, ep_num_val, ep_title_en=sub_en, lang="es")
+            if tmdb_details:
+                if (not sub_es or sub_es.lower() == sub_en.lower()) and tmdb_details.get("title"):
+                    sub_es = tmdb_details["title"]
+                if not desc_es and tmdb_details.get("overview"):
+                    desc_es = tmdb_details["overview"]
+
         if not desc_es and title_val and "Cine Cartoon" not in title_val:
             desc_es = fetch_tmdb_synopsis(title_val)
 
@@ -602,7 +685,9 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
         start_dt = ev["start"]
         stop_dt = ev.get("stop") or (raw_events[i + 1]["start"] if i + 1 < total_events else cycle_end)
 
-        # Formatos XMLTV y UTC avanzados
+        if stop_dt <= start_dt:
+            stop_dt = start_dt + timedelta(minutes=1)
+
         start_str = format_xmltv_date(start_dt, tz_str)
         stop_str = format_xmltv_date(stop_dt, tz_str)
         start_utc_str = format_xmltv_date(start_dt.astimezone(timezone.utc), "+0000")
@@ -630,11 +715,15 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
             if ev["sub_title_es"]: ET.SubElement(prog, "sub-title", {"lang": lang}).text = ev["sub_title_es"]
             if ev["sub_title_en"]: ET.SubElement(prog, "sub-title", {"lang": "en"}).text = ev["sub_title_en"]
             if ev["desc_es"]: ET.SubElement(prog, "desc", {"lang": lang}).text = ev["desc_es"]
-            if ev["desc_en"]: ET.SubElement(prog, "desc", {"lang": "en"}).text = ev["desc_en"]
+            elif ev["desc_en"]: ET.SubElement(prog, "desc", {"lang": "en"}).text = ev["desc_en"]
+            
             if ev["year"]: ET.SubElement(prog, "date").text = ev["year"]
             if ev["genre"]:
                 for g in ev["genre"].split(','):
                     ET.SubElement(prog, "category", {"lang": lang}).text = g.strip()
+            else:
+                ET.SubElement(prog, "category", {"lang": lang}).text = "Animación"
+
             if ev["episode_num"]: ET.SubElement(prog, "episode-num", {"system": "xmltv_ns"}).text = ev["episode_num"]
             if ev["icon"]: ET.SubElement(prog, "icon", {"src": ev["icon"]})
 
