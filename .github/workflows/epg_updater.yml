@@ -8,9 +8,6 @@ on:
 permissions:
   contents: write
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
-
 jobs:
   update-epg:
     runs-on: ubuntu-latest
@@ -47,6 +44,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No hay cambios nuevos en las grillas."
           else
-            git commit -m "Auto-update EPG WB Skydance + Discovery + Nickelodeon"
+            git commit -m "Auto-update EPG WB Skydance + Discovery"
             git push
           fi
