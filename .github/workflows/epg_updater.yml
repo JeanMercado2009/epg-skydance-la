@@ -55,21 +55,21 @@ jobs:
       # ---------------------------------------------------------
       # EJECUCIÓN DEL SCRIPT
       # ---------------------------------------------------------
-      - name: Descargar y Procesar Grillas Diarias, Mensuales y TVEGO
+      - name: Descargar y Procesar Grillas Diarias, Mensuales, Discovery y Skydance
         env:
           TAPKIT_EMAIL: ${{ secrets.TAPKIT_EMAIL }}
           TAPKIT_PASSWORD: ${{ secrets.TAPKIT_PASSWORD }}
           TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
-          # Script actual en ejecución:
+          # Script principal (Warner, Cartoon Network, Cartoonito, Tooncast, etc.)
           python updater.py
-
-          # Opciones para alternar de lenguaje en el futuro:
-          # node updater.js
-          # npx ts-node updater.ts
-          # go run updater.go
-          # cargo run --release
+          
+          # Script específico para canales Discovery (Discovery Kids, etc.)
+          python updater_discovery.py
+          
+          # Script para Skydance / Nickelodeon
+          python updater_skydance.py
 
       # ---------------------------------------------------------
       # GUARDAR CAMBIOS EN GITHUB
@@ -78,10 +78,11 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add CTOOLA_EPG.xml CNLA_EPG.xml WARNERLA_EPG.xml TNTLA_EPG.xml DKLA_EPG.xml TOONCAST_EPG.xml TNT_SPORTS.xml
+          git add CTOOLA_EPG.xml CNLA_EPG.xml WARNERLA_EPG.xml TNTLA_EPG.xml DKLA_EPG.xml TOONCAST_EPG.xml TNT_SPORTS.xml Skydance_LA.xml
           if git diff --staged --quiet; then
             echo "No hay cambios nuevos en las grillas."
           else
-            git commit -m "Auto-update EPG WB Skydance + Discovery Kids: $(date +'%Y-%m-%d %H:%M')"
+            git commit -m "Auto-update EPG WB Skydance + Discovery + Nickelodeon: $(date +'%Y-%m-%d %H:%M')"
             git push
           fi
+```[cite: 12]
