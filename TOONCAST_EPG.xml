@@ -6,56 +6,6 @@
   <channel id="TOONLA_BR.br">
     <display-name>Tooncast Brasil</display-name>
   </channel>
-  <programme start="20261113170500 -0300" stop="20261113173000 -0300" air_time_start="20261113170500 -0300" air_time_end="20261113173000 -0300" start_utc="20261113200500 +0000" stop_utc="20261113203000 +0000" air_time_start_utc="20261113200500 +0000" air_time_end_utc="20261113203000 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <sub-title lang="es">SAFARI JOE</sub-title>
-    <desc lang="es">Safari Joe llega a la Tercera Tierra en busca de una presa "que valga la pena" cazar. Comienza a ir tras los Felinos Cósmicos.</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.25.</episode-num>
-  </programme>
-  <programme start="20261113170500 -0300" stop="20261113173000 -0300" air_time_start="20261113170500 -0300" air_time_end="20261113173000 -0300" start_utc="20261113200500 +0000" stop_utc="20261113203000 +0000" air_time_start_utc="20261113200500 +0000" air_time_end_utc="20261113203000 +0000" is_live="false" channel="TOONLA_BR.br">
-    <sub-title lang="pt">SAFARI JOE</sub-title>
-    <desc lang="pt">Safari Joe chega ao Terceiro Mundo em busca de uma presa 'digna' de ser caçada. E ele começa a caçar os ThunderCats.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">.25.</episode-num>
-  </programme>
-  <programme start="20261113173000 -0300" stop="20261113174100 -0300" air_time_start="20261113173000 -0300" air_time_end="20261113174100 -0300" start_utc="20261113203000 +0000" stop_utc="20261113204100 +0000" air_time_start_utc="20261113203000 +0000" air_time_end_utc="20261113204100 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Hermano de Jorel</title>
-    <sub-title lang="es">Jorelovers Forever</sub-title>
-    <desc lang="es">¡El Hermano de Jorel se sumerge de lleno en la preadolescencia! Después de enfrentar los primeros obstáculos de la vida, nuestro querido Hermano de Jorel ahora es un pez fuera del agua, ansioso por nuevas amistades y aventuras.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Fantasía</category>
-    <episode-num system="xmltv_ns">4.221.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/bHtVtJqaBo6tpCdUsGRJl2avVlw.jpg" />
-  </programme>
-  <programme start="20261113173000 -0300" stop="20261113174100 -0300" air_time_start="20261113173000 -0300" air_time_end="20261113174100 -0300" start_utc="20261113203000 +0000" stop_utc="20261113204100 +0000" air_time_start_utc="20261113203000 +0000" air_time_end_utc="20261113204100 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">IRMÃO DO JOREL</title>
-    <sub-title lang="pt">Jorelovers Forever</sub-title>
-    <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <category lang="pt">Fantasia</category>
-    <episode-num system="xmltv_ns">4.221.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/bHtVtJqaBo6tpCdUsGRJl2avVlw.jpg" />
-  </programme>
-  <programme start="20261113174100 -0300" stop="20261113175300 -0300" air_time_start="20261113174100 -0300" air_time_end="20261113175300 -0300" start_utc="20261113204100 +0000" stop_utc="20261113205300 +0000" air_time_start_utc="20261113204100 +0000" air_time_end_utc="20261113205300 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Hermano de Jorel</title>
-    <sub-title lang="es">Monumental Bariloche</sub-title>
-    <desc lang="es">¡El Hermano de Jorel se sumerge de lleno en la preadolescencia! Después de enfrentar los primeros obstáculos de la vida, nuestro querido Hermano de Jorel ahora es un pez fuera del agua, ansioso por nuevas amistades y aventuras.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Fantasía</category>
-    <episode-num system="xmltv_ns">4.222.</episode-num>
-  </programme>
-  <programme start="20261113174100 -0300" stop="20261113175300 -0300" air_time_start="20261113174100 -0300" air_time_end="20261113175300 -0300" start_utc="20261113204100 +0000" stop_utc="20261113205300 +0000" air_time_start_utc="20261113204100 +0000" air_time_end_utc="20261113205300 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">IRMÃO DO JOREL</title>
-    <sub-title lang="pt">Monumental Bariloche</sub-title>
-    <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <category lang="pt">Fantasia</category>
-    <episode-num system="xmltv_ns">4.222.</episode-num>
-  </programme>
   <programme start="20261113175300 -0300" stop="20261113180500 -0300" air_time_start="20261113175300 -0300" air_time_end="20261113180500 -0300" start_utc="20261113205300 +0000" stop_utc="20261113210500 +0000" air_time_start_utc="20261113205300 +0000" air_time_end_utc="20261113210500 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hermano de Jorel</title>
     <sub-title lang="es">The Cool Sleepwalker</sub-title>

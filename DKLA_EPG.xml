@@ -1,3 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="Guia de Programacion Discovery Kids MultiFeed">
-  </tv>
+  <channel id="DK_PAN.co">
+    <display-name>Discovery Kids Panregional</display-name>
+  </channel>
+  <channel id="DK_CAR.co">
+    <display-name>Discovery Kids Caribe</display-name>
+  </channel>
+  <channel id="DK_MX.mx">
+    <display-name>Discovery Kids México</display-name>
+  </channel>
+  <channel id="DK_BR.br">
+    <display-name>Discovery Kids Brasil</display-name>
+  </channel>
+</tv>
