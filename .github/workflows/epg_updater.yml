@@ -1,8 +1,7 @@
-name: Actualización Diaria EPG WB Skydance
+name: Actualizacion Diaria EPG WB Skydance
 
 on:
   schedule:
-    # 19:30 COT (UTC-5) = 00:30 UTC
     - cron: '30 0 * * *'
   workflow_dispatch:
 
@@ -25,28 +24,11 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Configurar Node.js y TypeScript
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Configurar Go
-        uses: actions/setup-go@v5
-        with:
-          go-version: '1.22'
-
-      - name: Configurar Rust
-        uses: dtolnay/rust-toolchain@stable
-
       - name: Instalar dependencias de Python
         run: |
           pip install requests pandas xlrd openpyxl beautifulsoup4 html5lib
 
-      - name: Instalar dependencias de Node.js y TypeScript
-        run: |
-          npm install axios xlsx xml2js typescript ts-node
-
-      - name: Descargar y Procesar Grillas Diarias, Mensuales, Discovery y Skydance
+      - name: Descargar y Procesar Grillas
         env:
           TAPKIT_EMAIL: ${{ secrets.TAPKIT_EMAIL }}
           TAPKIT_PASSWORD: ${{ secrets.TAPKIT_PASSWORD }}
