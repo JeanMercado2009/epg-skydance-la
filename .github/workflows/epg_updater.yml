@@ -20,9 +20,6 @@ jobs:
       - name: Checkout del repositorio
         uses: actions/checkout@v4
 
-      # ---------------------------------------------------------
-      # ENTORNOS DE LENGUAJES (Python, Node.js/TS, Go, Rust)
-      # ---------------------------------------------------------
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
@@ -41,9 +38,6 @@ jobs:
       - name: Configurar Rust
         uses: dtolnay/rust-toolchain@stable
 
-      # ---------------------------------------------------------
-      # INSTALACIÓN DE DEPENDENCIAS
-      # ---------------------------------------------------------
       - name: Instalar dependencias de Python
         run: |
           pip install requests pandas xlrd openpyxl beautifulsoup4 html5lib
@@ -52,9 +46,6 @@ jobs:
         run: |
           npm install axios xlsx xml2js typescript ts-node
 
-      # ---------------------------------------------------------
-      # EJECUCIÓN DEL SCRIPT
-      # ---------------------------------------------------------
       - name: Descargar y Procesar Grillas Diarias, Mensuales, Discovery y Skydance
         env:
           TAPKIT_EMAIL: ${{ secrets.TAPKIT_EMAIL }}
@@ -62,18 +53,10 @@ jobs:
           TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
-          # Script principal (Warner, Cartoon Network, Cartoonito, Tooncast, etc.)
           python updater.py
-          
-          # Script específico para canales Discovery (Discovery Kids, etc.)
           python updater_discovery.py
-          
-          # Script para Skydance / Nickelodeon
           python updater_skydance.py
 
-      # ---------------------------------------------------------
-      # GUARDAR CAMBIOS EN GITHUB
-      # ---------------------------------------------------------
       - name: Guardar cambios en el repositorio
         run: |
           git config --global user.name "github-actions[bot]"
@@ -82,7 +65,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No hay cambios nuevos en las grillas."
           else
-            git commit -m "Auto-update EPG WB Skydance + Discovery + Nickelodeon: $(date +'%Y-%m-%d %H:%M')"
+            git commit -m "Auto-update EPG WB Skydance + Discovery + Nickelodeon"
             git push
           fi
-```[cite: 12]
