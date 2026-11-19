@@ -1,6 +1,7 @@
 import os
 import re
 import io
+import calendar
 import zipfile
 from datetime import datetime, timedelta, timezone, date
 import lxml.etree as ET
@@ -158,10 +159,19 @@ def select_best_epak_file(epak_files, region, ref_date=None):
     if ref_date is None:
         ref_date = datetime.now(timezone.utc).date()
 
-    candidates = [
-        f_item for f_item in epak_files
-        if region.lower() in str(f_item.get("name", "")).lower()
-    ]
+    candidates = []
+    for f_item in epak_files:
+        raw_name = str(
+            f_item.get("name")
+            or f_item.get("fileName")
+            or f_item.get("path")
+            or ""
+        )
+        if region.lower() in raw_name.lower():
+            normalized_item = dict(f_item)
+            normalized_item["name"] = raw_name.split("/")[-1]
+            candidates.append(normalized_item)
+
     if not candidates:
         return None
 
@@ -176,9 +186,11 @@ def select_best_epak_file(epak_files, region, ref_date=None):
         if start_d and end_d:
             if start_d <= ref_date <= end_d:
                 in_range = 2
-            elif start_d <= ref_date + timedelta(days=31):
+            elif start_d <= ref_date + timedelta(days=45):
                 in_range = 1
-        elif start_d and start_d <= ref_date + timedelta(days=31):
+        elif start_d:
+            in_range = 1
+        else:
             in_range = 1
 
         sort_key = end_d or start_d or date(1970, 1, 1)
@@ -202,8 +214,9 @@ def download_feed_xls(token, feed_cfg, referer_url, epak_files):
     file_id_val = "10605612"
 
     if best_item:
-        target_name = best_item.get("name", "")
-        target_path = best_item.get("path", f"network-files/DISCKIDS/EPAK/FULL/{target_name}")
+        target_name = str(best_item.get("name", ""))
+        raw_path = str(best_item.get("path") or f"network-files/DISCKIDS/EPAK/FULL/{target_name}")
+        target_path = raw_path if target_name in raw_path else f"{raw_path.rstrip('/')}/{target_name}"
         file_id_val = str(best_item.get("id", "10605612"))
     else:
         now_dt = datetime.now(timezone.utc)
@@ -212,7 +225,8 @@ def download_feed_xls(token, feed_cfg, referer_url, epak_files):
         next_month_dt = (now_dt.replace(day=28) + timedelta(days=10)).replace(day=1)
         yy_next = next_month_dt.strftime("%y")
         mm_next = next_month_dt.strftime("%m")
-        target_name = f"FULL_DLA_Discovery_Kids_{region}_{yy_curr}{mm_curr}01_{yy_next}{mm_next}28.csv"
+        last_day_next = calendar.monthrange(next_month_dt.year, next_month_dt.month)[1]
+        target_name = f"FULL_DLA_Discovery_Kids_{region}_{yy_curr}{mm_curr}01_{yy_next}{mm_next}{last_day_next:02d}.csv"
         target_path = f"network-files/DISCKIDS/EPAK/FULL/{target_name}"
 
     print(f"[{feed_id}] Descargando archivo: {target_name}")
