@@ -2,8 +2,8 @@ import os
 import re
 import io
 import zipfile
-import lxml.etree as ET
 from datetime import datetime, timedelta, timezone
+import lxml.etree as ET
 import pandas as pd
 import requests
 import unicodedata
@@ -42,7 +42,7 @@ def normalize_title(text):
 def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", lang="es"):
     if not series_title:
         return ""
-    
+
     cache_key = f"{series_title}|{season_str}|{ep_str}|{ep_title_en}|still|{lang}"
     if cache_key in tmdb_cache:
         return tmdb_cache[cache_key]
@@ -65,7 +65,7 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", lang="es"
             search_queries.append(clean_title)
 
         tv_id = None
-        number_of_seasons = 10 
+        number_of_seasons = 10
         for query in search_queries:
             res = http_session.get(url_tv, headers=headers, params={"query": query, "language": tmdb_lang}, timeout=4)
             if res.status_code == 200 and res.json().get("results"):
@@ -168,6 +168,7 @@ def fetch_epak_files(token, referer_url):
             if res.status_code == 200:
                 data = res.json()
                 if isinstance(data, list):
+                    print(f"[INFO] EPAK ({url.split('format=')[-1]}): {len(data)} archivos encontrados.")
                     all_files.extend(data)
         except Exception as e:
             print(f"[WARN] No se pudo consultar EPAK desde {url}: {e}")
@@ -175,7 +176,7 @@ def fetch_epak_files(token, referer_url):
 
 def download_feed_xls(token, feed_cfg, referer_url, epak_files):
     feed_id = feed_cfg["feed_id"]
-    
+
     region_map = {
         "DKLA_PAN": "Latin",
         "DKLA_CAR": "Caribe",
@@ -183,11 +184,11 @@ def download_feed_xls(token, feed_cfg, referer_url, epak_files):
         "DKLA_BR": "Brazil"
     }
     region = region_map.get(feed_id, "Latin")
-    
+
     target_name = None
     target_path = None
     file_id_val = "10605612"
-    
+
     for f_item in epak_files:
         name = f_item.get("name", "")
         if region.lower() in name.lower() or region in name:
@@ -195,10 +196,12 @@ def download_feed_xls(token, feed_cfg, referer_url, epak_files):
             target_path = f_item.get("path", f"network-files/DISCKIDS/EPAK/FULL/{name}")
             file_id_val = str(f_item.get("id", "10605612"))
             break
-            
+
     if not target_name:
         target_name = f"FULL_DLA_Discovery_Kids_{region}_261101_261231.xlsx"
         target_path = f"network-files/DISCKIDS/EPAK/FULL/{target_name}"
+
+    print(f"[{feed_id}] Descargando archivo: {target_name}")
 
     headers = {
         "Content-Type": "application/json",
@@ -211,26 +214,36 @@ def download_feed_xls(token, feed_cfg, referer_url, epak_files):
 
     res = http_session.post(DOWNLOAD_FILE_URL, json=payload, headers=headers, timeout=30)
     res.raise_for_status()
-    
-    extracted_file_path = f"{feed_id}_extracted_grid.xlsx"
-    
-    # Descompresión automática del archivo ZIP entregado por Tapkit
-    if res.content.startswith(b'PK'):
+
+    if res.content.startswith(b"PK") or zipfile.is_zipfile(io.BytesIO(res.content)):
         with zipfile.ZipFile(io.BytesIO(res.content)) as z:
             file_list = z.namelist()
-            target_file_in_zip = next((f for f in file_list if f.endswith(('.xlsx', '.csv'))), file_list[0])
-            with z.open(target_file_in_zip) as src, open(extracted_file_path, "wb") as dst:
+            print(f"[{feed_id}] ZIP detectado. Archivos internos: {file_list}")
+
+            target_file = next(
+                (f for f in file_list if f.lower().endswith(".csv")),
+                next(
+                    (f for f in file_list if f.lower().endswith((".xlsx", ".xls"))),
+                    file_list[0]
+                )
+            )
+
+            if target_file.lower().endswith(".csv"):
+                extracted_file_path = f"{feed_id}_extracted_grid.csv"
+            elif target_file.lower().endswith(".xls"):
+                extracted_file_path = f"{feed_id}_extracted_grid.xls"
+            else:
+                extracted_file_path = f"{feed_id}_extracted_grid.xlsx"
+
+            with z.open(target_file) as src, open(extracted_file_path, "wb") as dst:
                 dst.write(src.read())
-                
-            if target_file_in_zip.endswith('.csv'):
-                csv_renamed = f"{feed_id}_extracted_grid.csv"
-                if os.path.exists(extracted_file_path):
-                    os.remove(extracted_file_path)
-                os.replace(extracted_file_path if not os.path.exists(csv_renamed) else extracted_file_path, csv_renamed)
-                extracted_file_path = csv_renamed
+
+            print(f"[{feed_id}] Extraído '{target_file}' -> '{extracted_file_path}'")
     else:
+        extracted_file_path = f"{feed_id}_extracted_grid.xlsx"
         with open(extracted_file_path, "wb") as f:
             f.write(res.content)
+        print(f"[{feed_id}] Guardado directo -> '{extracted_file_path}'")
 
     current_date_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S.835")
     form_data = {
@@ -250,33 +263,40 @@ def download_feed_xls(token, feed_cfg, referer_url, epak_files):
     return extracted_file_path
 
 def sanitize_and_parse_xml(file_path, generator_name):
-    if not os.path.exists(file_path): 
+    if not os.path.exists(file_path):
         return ET.Element("tv", {"generator-info-name": generator_name})
     try:
-        with open(file_path, "r", encoding="utf-8", errors="ignore") as f: 
+        with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
             content = f.read()
-        return ET.fromstring(content)
-    except Exception:
+        return ET.fromstring(content.encode("utf-8"))
+    except Exception as e:
+        print(f"[WARN] No se pudo parsear XML existente '{file_path}': {e}. Creando nuevo raíz.")
         return ET.Element("tv", {"generator-info-name": generator_name})
 
 def format_xmltv_date(dt, tz_str):
     return dt.strftime(f"%Y%m%d%H%M%S {tz_str}")
 
 def load_schedule_dataframe(file_path):
-    try:
-        if file_path.endswith('.csv') or 'csv' in file_path:
+    if file_path.lower().endswith(".csv"):
+        for sep in ("\t", ";", ","):
             try:
-                return pd.read_csv(file_path, sep='\t', encoding='utf-8', on_bad_lines='skip')
-            except:
-                return pd.read_csv(file_path, sep=',', encoding='utf-8', on_bad_lines='skip')
-        else:
-            try:
-                return pd.read_excel(file_path, sheet_name=0, engine='openpyxl')
+                df = pd.read_csv(
+                    file_path,
+                    sep=sep,
+                    encoding="utf-8-sig",
+                    on_bad_lines="skip"
+                )
+                if len(df.columns) > 1:
+                    print(f"[INFO] CSV '{file_path}' cargado con separador {repr(sep)} ({len(df)} filas).")
+                    return df
             except Exception:
-                return pd.read_csv(file_path, sep=None, engine='python', encoding='utf-8', on_bad_lines='skip')
-    except Exception as e:
-        print(f"[ERROR] No se pudo leer el archivo {file_path}: {e}")
-        raise e
+                pass
+        raise ValueError(f"No fue posible detectar el separador del CSV en '{file_path}'")
+
+    if file_path.lower().endswith(".xls"):
+        return pd.read_excel(file_path, sheet_name=0)
+
+    return pd.read_excel(file_path, sheet_name=0, engine="openpyxl")
 
 def process_daily_feed(root, feed_cfg, file_path):
     channel_id = feed_cfg["channel_id"]
@@ -290,7 +310,7 @@ def process_daily_feed(root, feed_cfg, file_path):
         ET.SubElement(ch_node, "display-name").text = channel_name
 
     df = load_schedule_dataframe(file_path)
-    
+
     if "BR" in channel_id:
         df = df[df['CHANNEL_NAME'].astype(str).str.contains("Brazil|Brasil", case=False, na=False)]
     elif "MX" in channel_id:
@@ -305,10 +325,10 @@ def process_daily_feed(root, feed_cfg, file_path):
         date_raw = str(row.get("SCHEDULE_DATE", "")).strip()
         time_raw = str(row.get("START_TIME", "")).strip()
         end_time_raw = str(row.get("END_TIME", "")).strip()
-        
+
         date_match = re.search(r"(\d{4})[-/](\d{1,2})[-/](\d{1,2})", date_raw)
         time_match = re.search(r"(\d{1,2}):(\d{2})", time_raw)
-        
+
         if not date_match or not time_match:
             continue
 
@@ -328,11 +348,11 @@ def process_daily_feed(root, feed_cfg, file_path):
         series_name = str(row.get("SERIES_NAME", "")).strip()
         title_en = str(row.get("TITLE_NAME", "")).strip()
         desc_en = str(row.get("PROGRAMME_DESCRIPTION", "")).strip()
-        
+
         local_series = str(row.get("LOCAL_SERIES_NAME", "")).strip()
         local_prog = str(row.get("LOCAL_PROGRAM_NAME", "")).strip()
         desc_es = str(row.get("LOCAL_PROGRAM_DESCRIPTION", "")).strip()
-        
+
         season_val = str(row.get("SEASON_NUMBER", "")).strip()
         ep_num_val = str(row.get("EPISODE_NUMBER", "")).strip()
         year_val = str(row.get("YEAR_OF_PRODUCTION", "")).strip()
@@ -348,9 +368,12 @@ def process_daily_feed(root, feed_cfg, file_path):
         try:
             s_num = int(float(season_val)) - 1 if season_val.replace('.', '', 1).isdigit() else ""
             e_num = int(float(ep_num_val)) - 1 if ep_num_val.replace('.', '', 1).isdigit() else ""
-            if s_num != "" and e_num != "": xmltv_season_ep = f"{s_num}.{e_num}."
-            elif e_num != "": xmltv_season_ep = f".{e_num}."
-        except: pass
+            if s_num != "" and e_num != "":
+                xmltv_season_ep = f"{s_num}.{e_num}."
+            elif e_num != "":
+                xmltv_season_ep = f".{e_num}."
+        except Exception:
+            pass
 
         icon_url = fetch_tmdb_still(title_val, season_val, ep_num_val, ep_title_en=sub_en, lang=lang) if title_val else ""
 
@@ -396,16 +419,23 @@ def process_daily_feed(root, feed_cfg, file_path):
             "channel": channel_id
         })
 
-        if ev["title"]: ET.SubElement(prog, "title", {"lang": lang}).text = ev["title"]
-        if ev["sub_title_es"]: ET.SubElement(prog, "sub-title", {"lang": lang}).text = ev["sub_title_es"]
-        if ev["sub_title_en"]: ET.SubElement(prog, "sub-title", {"lang": "en"}).text = ev["sub_title_en"]
-        if ev["desc_es"]: ET.SubElement(prog, "desc", {"lang": lang}).text = ev["desc_es"]
-        
-        if ev["year"]: ET.SubElement(prog, "date").text = ev["year"]
+        if ev["title"]:
+            ET.SubElement(prog, "title", {"lang": lang}).text = ev["title"]
+        if ev["sub_title_es"]:
+            ET.SubElement(prog, "sub-title", {"lang": lang}).text = ev["sub_title_es"]
+        if ev["sub_title_en"]:
+            ET.SubElement(prog, "sub-title", {"lang": "en"}).text = ev["sub_title_en"]
+        if ev["desc_es"]:
+            ET.SubElement(prog, "desc", {"lang": lang}).text = ev["desc_es"]
+
+        if ev["year"]:
+            ET.SubElement(prog, "date").text = ev["year"]
         ET.SubElement(prog, "category", {"lang": lang}).text = "Infantil"
 
-        if ev["episode_num"]: ET.SubElement(prog, "episode-num", {"system": "xmltv_ns"}).text = ev["episode_num"]
-        if ev["icon"]: ET.SubElement(prog, "icon", {"src": ev["icon"]})
+        if ev["episode_num"]:
+            ET.SubElement(prog, "episode-num", {"system": "xmltv_ns"}).text = ev["episode_num"]
+        if ev["icon"]:
+            ET.SubElement(prog, "icon", {"src": ev["icon"]})
 
         new_programmes.append(prog)
 
@@ -427,7 +457,7 @@ def main():
         print(f"\n==========================================")
         print(f"Procesando Discovery: {xml_filename}")
         print(f"==========================================")
-        
+
         root = sanitize_and_parse_xml(xml_filename, net_config["generator_name"])
         active_channel_ids = {cfg["channel_id"] for cfg in net_config["feeds"]}
         for ch in list(root.findall("channel")):
