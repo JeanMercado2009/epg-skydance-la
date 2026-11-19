@@ -27,60 +27,81 @@ http_session.headers.update({
 })
 
 tmdb_cache = {}
+tmdb_show_cache = {}
+
 
 def normalize_title(text):
     if not text:
         return ""
-    nfkd = unicodedata.normalize('NFKD', text)
+    nfkd = unicodedata.normalize("NFKD", str(text))
     no_accent = "".join([c for c in nfkd if not unicodedata.combining(c)])
     clean = no_accent.lower().strip()
-    clean = re.sub(r'\bpt\.?\s*(\d+)', r'(\1)', clean)
-    clean = re.sub(r'\bpart\.?\s*(\d+)', r'(\1)', clean)
-    clean = re.sub(r'[^a-z0-9]', '', clean)
+    clean = re.sub(r"\bpt\.?\s*(\d+)", r"(\1)", clean)
+    clean = re.sub(r"\bpart\.?\s*(\d+)", r"(\1)", clean)
+    clean = re.sub(r"[^a-z0-9]", "", clean)
     return clean
 
+
+def _get_tmdb_headers():
+    token = TMDB_TOKEN or TMDB_API_KEY
+    if not token:
+        return None
+    return {"accept": "application/json", "Authorization": f"Bearer {token}"}
+
+
+def _find_tmdb_tv_id(series_title, tmdb_lang, headers):
+    cache_key = f"{series_title}|{tmdb_lang}"
+    if cache_key in tmdb_show_cache:
+        return tmdb_show_cache[cache_key]
+
+    url_tv = "https://api.themoviedb.org/3/search/tv"
+    search_queries = [series_title]
+    clean_title = re.sub(r"[:\-].*", "", series_title).strip()
+    if clean_title and clean_title.lower() != series_title.lower():
+        search_queries.append(clean_title)
+
+    for query in search_queries:
+        try:
+            res = http_session.get(url_tv, headers=headers, params={"query": query, "language": tmdb_lang}, timeout=4)
+            if res.status_code == 200 and res.json().get("results"):
+                show_data = res.json()["results"][0]
+                tv_id = show_data["id"]
+                num_seasons = 5
+                try:
+                    detail_res = http_session.get(f"https://api.themoviedb.org/3/tv/{tv_id}", headers=headers, timeout=4)
+                    if detail_res.status_code == 200:
+                        num_seasons = min(int(detail_res.json().get("number_of_seasons", 5) or 5), 12)
+                except Exception:
+                    pass
+                result = (tv_id, num_seasons)
+                tmdb_show_cache[cache_key] = result
+                return result
+        except Exception:
+            continue
+
+    tmdb_show_cache[cache_key] = (None, 0)
+    return (None, 0)
+
+
 def fetch_tmdb_episode_details(series_title, season_str, ep_str, ep_title_en="", lang="es"):
-    if not series_title or (not TMDB_TOKEN and not TMDB_API_KEY):
+    if not series_title:
         return {}
 
     cache_key = f"{series_title}|{season_str}|{ep_str}|{ep_title_en}|ep_details"
     if cache_key in tmdb_cache:
         return tmdb_cache[cache_key]
 
-    headers = {"accept": "application/json"}
-    if TMDB_TOKEN:
-        headers["Authorization"] = f"Bearer {TMDB_TOKEN}"
-    elif TMDB_API_KEY:
-        headers["Authorization"] = f"Bearer {TMDB_API_KEY}"
+    headers = _get_tmdb_headers()
+    if not headers:
+        tmdb_cache[cache_key] = {}
+        return {}
 
-    tmdb_lang = "es-ES" 
+    tmdb_lang = "pt-BR" if lang == "pt" else "es-ES"
     try:
-        url_tv = "https://api.themoviedb.org/3/search/tv"
-        search_queries = [series_title]
-        clean_title = re.sub(r'[:\-].*', '', series_title).strip()
-        if clean_title and clean_title.lower() != series_title.lower():
-            search_queries.append(clean_title)
-
-        tv_id = None
-        number_of_seasons = 10 
-        for query in search_queries:
-            res = http_session.get(url_tv, headers=headers, params={"query": query, "language": tmdb_lang}, timeout=4)
-            if res.status_code == 200 and res.json().get("results"):
-                show_data = res.json()["results"][0]
-                tv_id = show_data["id"]
-                detail_res = http_session.get(f"https://api.themoviedb.org/3/tv/{tv_id}", headers=headers, timeout=4)
-                if detail_res.status_code == 200:
-                    number_of_seasons = detail_res.json().get("number_of_seasons", 10)
-                break
-
+        tv_id, num_seasons = _find_tmdb_tv_id(series_title, tmdb_lang, headers)
         if tv_id:
-            s_num = None
-            if season_str and str(season_str).replace('.', '', 1).isdigit():
-                s_num = int(float(season_str))
-
-            e_num = None
-            if ep_str and str(ep_str).replace('.', '', 1).isdigit():
-                e_num = int(float(ep_str))
+            s_num = int(float(season_str)) if season_str and str(season_str).replace(".", "", 1).isdigit() else None
+            e_num = int(float(ep_str)) if ep_str and str(ep_str).replace(".", "", 1).isdigit() else None
 
             if s_num is not None and e_num is not None:
                 ep_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_num}/episode/{e_num}"
@@ -97,10 +118,9 @@ def fetch_tmdb_episode_details(series_title, season_str, ep_str, ep_title_en="",
             norm_target = normalize_title(ep_title_en) if ep_title_en else ""
             if norm_target:
                 seasons_to_check = [s_num] if s_num is not None else []
-                for s in range(1, number_of_seasons + 1):
+                for s in range(1, num_seasons + 1):
                     if s not in seasons_to_check:
                         seasons_to_check.append(s)
-                seasons_to_check.append(0)
 
                 for s_check in seasons_to_check:
                     season_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_check}"
@@ -117,6 +137,7 @@ def fetch_tmdb_episode_details(series_title, season_str, ep_str, ep_title_en="",
     tmdb_cache[cache_key] = {}
     return {}
 
+
 def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", lang="es"):
     if not series_title:
         return ""
@@ -125,52 +146,37 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", lang="es"
     if cache_key in tmdb_cache:
         return tmdb_cache[cache_key]
 
-    if not TMDB_TOKEN and not TMDB_API_KEY:
+    headers = _get_tmdb_headers()
+    if not headers:
+        tmdb_cache[cache_key] = ""
         return ""
 
     tmdb_lang = "pt-BR" if lang == "pt" else "es-ES"
-    headers = {"accept": "application/json"}
-    if TMDB_TOKEN:
-        headers["Authorization"] = f"Bearer {TMDB_TOKEN}"
-    elif TMDB_API_KEY:
-        headers["Authorization"] = f"Bearer {TMDB_API_KEY}"
-
     try:
-        url_tv = "https://api.themoviedb.org/3/search/tv"
-        search_queries = [series_title]
-        clean_title = re.sub(r'[:\-].*', '', series_title).strip()
-        if clean_title and clean_title.lower() != series_title.lower():
-            search_queries.append(clean_title)
-
-        tv_id = None
-        number_of_seasons = 10 
-        for query in search_queries:
-            res = http_session.get(url_tv, headers=headers, params={"query": query, "language": tmdb_lang}, timeout=4)
-            if res.status_code == 200 and res.json().get("results"):
-                show_data = res.json()["results"][0]
-                tv_id = show_data["id"]
-                detail_res = http_session.get(f"https://api.themoviedb.org/3/tv/{tv_id}", headers=headers, timeout=4)
-                if detail_res.status_code == 200:
-                    number_of_seasons = detail_res.json().get("number_of_seasons", 10)
-                break
-
+        tv_id, num_seasons = _find_tmdb_tv_id(series_title, tmdb_lang, headers)
         if tv_id:
-            s_num = None
-            if season_str and str(season_str).replace('.', '', 1).isdigit():
-                s_num = int(float(season_str))
+            s_num = int(float(season_str)) if season_str and str(season_str).replace(".", "", 1).isdigit() else None
+            e_num = int(float(ep_str)) if ep_str and str(ep_str).replace(".", "", 1).isdigit() else None
+
+            if s_num is not None and e_num is not None:
+                ep_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_num}/episode/{e_num}"
+                ep_res = http_session.get(ep_url, headers=headers, params={"language": tmdb_lang}, timeout=4)
+                if ep_res.status_code == 200:
+                    still_path = ep_res.json().get("still_path")
+                    if still_path:
+                        if not still_path.startswith("/"):
+                            still_path = "/" + still_path
+                        img_url = f"https://media.themoviedb.org/t/p/w500{still_path}"
+                        tmdb_cache[cache_key] = img_url
+                        return img_url
 
             norm_target = normalize_title(ep_title_en) if ep_title_en else ""
-
             if norm_target:
-                seasons_to_check = []
-                if s_num is not None:
-                    seasons_to_check.append(s_num)
-                for s in range(1, number_of_seasons + 1):
+                seasons_to_check = [s_num] if s_num is not None else []
+                for s in range(1, num_seasons + 1):
                     if s not in seasons_to_check:
                         seasons_to_check.append(s)
-                seasons_to_check.append(0)
 
-                found_still = ""
                 for s_check in seasons_to_check:
                     season_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_check}"
                     season_res = http_session.get(season_url, headers=headers, params={"language": "en-US"}, timeout=4)
@@ -179,37 +185,17 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", lang="es"
                             if normalize_title(ep.get("name", "")) == norm_target:
                                 still_path = ep.get("still_path")
                                 if still_path:
-                                    if not still_path.startswith('/'):
-                                        still_path = '/' + still_path
+                                    if not still_path.startswith("/"):
+                                        still_path = "/" + still_path
                                     found_still = f"https://media.themoviedb.org/t/p/w500{still_path}"
-                                    break
-                    if found_still:
-                        break
-
-                if found_still:
-                    tmdb_cache[cache_key] = found_still
-                    return found_still
-
-            e_num = None
-            if ep_str and str(ep_str).replace('.', '', 1).isdigit():
-                e_num = int(float(ep_str))
-
-            if s_num is not None and e_num is not None:
-                ep_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_num}/episode/{e_num}"
-                ep_res = http_session.get(ep_url, headers=headers, params={"language": tmdb_lang}, timeout=4)
-                if ep_res.status_code == 200:
-                    still_path = ep_res.json().get("still_path")
-                    if still_path:
-                        if not still_path.startswith('/'):
-                            still_path = '/' + still_path
-                        img_url = f"https://media.themoviedb.org/t/p/w500{still_path}"
-                        tmdb_cache[cache_key] = img_url
-                        return img_url
+                                    tmdb_cache[cache_key] = found_still
+                                    return found_still
     except Exception:
         pass
 
     tmdb_cache[cache_key] = ""
     return ""
+
 
 NETWORKS_CONFIG = {
     "CNLA_EPG.xml": {
@@ -280,6 +266,7 @@ NETWORKS_CONFIG = {
     }
 }
 
+
 def login_and_get_token():
     email = os.environ.get("TAPKIT_EMAIL", "").strip()
     password = os.environ.get("TAPKIT_PASSWORD", "").strip()
@@ -289,8 +276,9 @@ def login_and_get_token():
     print("[OK] Sesión iniciada y token obtenido exitosamente.")
     return res.json().get("access_token")
 
+
 def get_target_months():
-    now = datetime.now()
+    now = datetime.now(timezone.utc)
     year_curr, month_curr = now.year, now.month
     if month_curr == 12:
         year_next, month_next = year_curr + 1, 1
@@ -298,8 +286,9 @@ def get_target_months():
         year_next, month_next = year_curr, month_curr + 1
     return [(year_curr, month_curr), (year_next, month_next)]
 
+
 def standardize_date_str(date_val):
-    if not date_val or pd.isna(date_val):
+    if date_val is None or pd.isna(date_val):
         return ""
     d_str = str(date_val).strip().split()[0]
     match = re.search(r"(\d{4})[-/](\d{1,2})[-/](\d{1,2})|(\d{1,2})[-/](\d{1,2})[-/](\d{4})", d_str)
@@ -312,7 +301,80 @@ def standardize_date_str(date_val):
         return f"{y:04d}-{m:02d}-{d:02d}"
     return d_str
 
-def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_type="PAN"):
+
+def _parse_table_from_bytes(raw_bytes):
+    if not raw_bytes:
+        return None
+    bio = io.BytesIO(raw_bytes)
+    if zipfile.is_zipfile(bio):
+        with zipfile.ZipFile(bio) as z:
+            for z_name in z.namelist():
+                if z_name.lower().endswith((".xlsx", ".xls", ".csv")):
+                    with z.open(z_name) as f:
+                        data = f.read()
+                        if z_name.lower().endswith(".csv"):
+                            for sep in ("\t", ";", ","):
+                                try:
+                                    df = pd.read_csv(io.BytesIO(data), sep=sep, encoding="utf-8-sig", on_bad_lines="skip")
+                                    if len(df.columns) > 1:
+                                        return df
+                                except Exception:
+                                    continue
+                        else:
+                            for reader in (
+                                lambda b: pd.read_excel(io.BytesIO(b)),
+                                lambda b: pd.read_html(io.BytesIO(b))[0],
+                            ):
+                                try:
+                                    df = reader(data)
+                                    if df is not None and not df.empty:
+                                        return df
+                                except Exception:
+                                    continue
+        return None
+
+    for reader in (
+        lambda b: pd.read_excel(io.BytesIO(b)),
+        lambda b: pd.read_csv(io.BytesIO(b), sep="\t", encoding="utf-8-sig", on_bad_lines="skip"),
+        lambda b: pd.read_csv(io.BytesIO(b), sep=",", encoding="utf-8-sig", on_bad_lines="skip"),
+        lambda b: pd.read_html(io.BytesIO(b))[0],
+    ):
+        try:
+            df = reader(raw_bytes)
+            if df is not None and not df.empty and len(df.columns) > 1:
+                return df
+        except Exception:
+            continue
+    return None
+
+
+def _normalize_df_columns(df):
+    df = df.copy()
+    df.columns = (
+        df.columns.astype(str)
+        .str.replace("\ufeff", "", regex=False)
+        .str.strip()
+        .str.upper()
+        .str.replace(r"\s+", "_", regex=True)
+    )
+    return df
+
+
+def _build_dt(base_date, hour, minute, tz_info):
+    if not (0 <= minute <= 59):
+        return None
+    if 0 <= hour <= 23:
+        target_day = base_date
+        adj_hour = hour
+    elif 24 <= hour <= 29:
+        target_day = base_date + timedelta(days=1)
+        adj_hour = hour - 24
+    else:
+        return None
+    return datetime(target_day.year, target_day.month, target_day.day, adj_hour, minute, 0, tzinfo=tz_info)
+
+
+def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_type="PAN", referer=""):
     months = get_target_months()
     combined_dict = {}
     url = "https://epg.tapkit.warnermedia.com/api/epg/tapkitFrontEnd/networksepg/downloadfiles"
@@ -320,13 +382,14 @@ def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_t
         "Content-Type": "application/json",
         "Authorization": f"Bearer {token}",
         "Origin": "https://epg.tapkit.warnermedia.com",
-        "Referer": "https://epg.tapkit.warnermedia.com/epg/networks/2"
+        "Referer": referer or "https://epg.tapkit.warnermedia.com/epg/networks/2"
     }
 
     for year, month in months:
         month_str = f"{month:02d}"
         files_to_check = [
             f"{network}_{year}_{month_str}_grids_{lang}_{feed_type}.xls",
+            f"{network}_{year}_{month_str}_grids_{lang}_{feed_type}.xlsx",
             f"{network}_{year}_{month_str}_grids_{lang}_TVEGO.xlsx"
         ]
 
@@ -338,40 +401,24 @@ def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_t
                 if res.status_code != 200:
                     continue
 
-                content_bytes = io.BytesIO(res.content)
-                df_grid = None
-                if zipfile.is_zipfile(content_bytes):
-                    with zipfile.ZipFile(content_bytes) as z:
-                        for z_name in z.namelist():
-                            if z_name.endswith((".xlsx", ".xls")):
-                                with z.open(z_name) as f:
-                                    try: df_grid = pd.read_excel(f)
-                                    except: df_grid = pd.read_html(f)[0]
-                else:
-                    try:
-                        df_grid = pd.read_excel(content_bytes)
-                    except Exception:
-                        try:
-                            df_grid = pd.read_html(content_bytes)[0]
-                        except:
-                            continue
-
+                df_grid = _parse_table_from_bytes(res.content)
                 if df_grid is not None and not df_grid.empty:
+                    df_grid = _normalize_df_columns(df_grid)
                     for _, row in df_grid.iterrows():
-                        d_raw = standardize_date_str(row.get("SCHEDULE_DATE") or row.get("Date"))
-                        s_time = str(row.get("START_TIME") or row.get("Start Time") or "").strip()
+                        d_raw = standardize_date_str(row.get("SCHEDULE_DATE") or row.get("DATE"))
+                        s_time = str(row.get("START_TIME") or "").strip()
                         if not d_raw or not s_time:
                             continue
-                        
+
                         t_match = re.search(r"(\d{1,2}):(\d{2})", s_time)
                         if not t_match:
                             continue
                         hh, mm = t_match.groups()
                         time_key = f"{d_raw} {int(hh):02d}:{int(mm):02d}"
 
-                        series = str(row.get("SERIES_NAME") or row.get("Series Name") or "").strip()
-                        title = str(row.get("TITLE_NAME") or row.get("Title Name") or "").strip()
-                        desc = str(row.get("PROGRAMME_DESCRIPTION") or row.get("Description") or "").strip()
+                        series = str(row.get("SERIES_NAME") or "").strip()
+                        title = str(row.get("TITLE_NAME") or "").strip()
+                        desc = str(row.get("PROGRAMME_DESCRIPTION") or row.get("DESCRIPTION") or "").strip()
                         l_series = str(row.get("LOCAL_SERIES_NAME") or "").strip()
                         l_prog = str(row.get("LOCAL_PROGRAM_NAME") or "").strip()
                         l_desc = str(row.get("LOCAL_PROGRAM_DESCRIPTION") or "").strip()
@@ -390,9 +437,10 @@ def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_t
                             "episode": episode if episode.lower() != "nan" else "",
                             "year": year_prod if year_prod.lower() != "nan" else ""
                         }
-            except Exception:
-                pass
+            except Exception as e:
+                print(f"[WARN] Metadatos {filename}: {e}")
     return combined_dict
+
 
 def sanitize_and_parse_xml(file_path, generator_name):
     if not os.path.exists(file_path):
@@ -400,12 +448,27 @@ def sanitize_and_parse_xml(file_path, generator_name):
     try:
         with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
             content = f.read()
-        return ET.fromstring(content)
-    except Exception:
+        return ET.fromstring(content.encode("utf-8"))
+    except Exception as e:
+        print(f"[WARN] No se pudo leer '{file_path}': {e}. Creando nuevo raíz.")
         return ET.Element("tv", {"generator-info-name": generator_name})
+
 
 def format_xmltv_date(dt, tz_str):
     return dt.strftime(f"%Y%m%d%H%M%S {tz_str}")
+
+
+def _parse_prog_date(start_attr):
+    if not start_attr:
+        return None
+    m = re.match(r"^(\d{8})", str(start_attr).strip())
+    if not m:
+        return None
+    try:
+        return datetime.strptime(m.group(1), "%Y%m%d").date()
+    except Exception:
+        return None
+
 
 def main():
     try:
@@ -426,7 +489,6 @@ def main():
         root = sanitize_and_parse_xml(xml_filename, net_config["generator_name"])
         active_channel_ids = {cfg["channel_id"] for cfg in net_config["feeds"]}
 
-        # Limpieza segura de canales obsoletos
         for ch in list(root.findall("channel")):
             if ch.attrib.get("id") not in active_channel_ids:
                 if ch in root:
@@ -445,58 +507,61 @@ def main():
                 ET.SubElement(ch_node, "display-name").text = channel_name
 
             print(f"[{feed_id}] Descargando metadatos mensuales...")
-            net_prefix = "CNLA" if "CN" in feed_id else ("CTOOLA" if "CTOO" in feed_id else ("WARNERLA" if "WARNER" in feed_id else ("TNTLA" if "TNT" in feed_id else "TOONLA")))
+            net_prefix = (
+                "CNLA" if "CN" in feed_id
+                else ("CTOOLA" if "CTOO" in feed_id
+                else ("WARNERLA" if "WARNER" in feed_id
+                else ("TNTLA" if "TNT" in feed_id else "TOONLA")))
+            )
             feed_type = "BR" if "BR" in feed_id else ("TVEGO" if "TVEGO" in feed_id else "PAN")
             lang_code = "POR" if lang == "pt" else "SPA"
-            
-            monthly_meta = download_and_load_monthly_metadata(token, network=net_prefix, lang=lang_code, feed_type=feed_type)
+
+            monthly_meta = download_and_load_monthly_metadata(
+                token,
+                network=net_prefix,
+                lang=lang_code,
+                feed_type=feed_type,
+                referer=net_config["referer"]
+            )
 
             all_events = []
             curr_d = start_date
+            http_errors = 0
             while curr_d <= end_date:
                 d_str = curr_d.strftime("%Y-%m-%d")
                 url = BASE_DAILY_URL.format(feed_id=feed_id) + f"&date={d_str}"
                 headers = {"Authorization": f"Bearer {token}", "Referer": net_config["referer"]}
                 try:
                     res = http_session.get(url, headers=headers, timeout=15)
-                    if res.status_code == 200 and len(res.content) > 0:
-                        content_bytes = io.BytesIO(res.content)
-                        df_daily = None
-                        if zipfile.is_zipfile(content_bytes):
-                            with zipfile.ZipFile(content_bytes) as z:
-                                for z_name in z.namelist():
-                                    if z_name.endswith((".xlsx", ".xls", ".csv")):
-                                        with z.open(z_name) as f:
-                                            try: df_daily = pd.read_excel(f)
-                                            except: df_daily = pd.read_html(f)[0]
-                        else:
-                            try:
-                                df_daily = pd.read_excel(content_bytes)
-                            except:
-                                try:
-                                    df_daily = pd.read_html(content_bytes)[0]
-                                except:
-                                    pass
+                    if res.status_code != 200:
+                        http_errors += 1
+                        curr_d += timedelta(days=1)
+                        continue
 
+                    if len(res.content) > 0:
+                        df_daily = _parse_table_from_bytes(res.content)
                         if df_daily is not None and not df_daily.empty:
+                            df_daily = _normalize_df_columns(df_daily)
                             for _, row in df_daily.iterrows():
-                                time_raw = str(row.get("START_TIME") or row.get("Start Time") or "").strip()
+                                time_raw = str(row.get("START_TIME") or "").strip()
                                 t_match = re.search(r"(\d{1,2}):(\d{2})", time_raw)
                                 if not t_match:
                                     continue
-                                hh, mm = t_match.groups()
-                                event_dt = datetime(curr_d.year, curr_d.month, curr_d.day, int(hh), int(mm), 0, tzinfo=tz)
+                                hh, mm = map(int, t_match.groups())
+                                event_dt = _build_dt(curr_d, hh, mm, tz)
+                                if not event_dt:
+                                    continue
 
-                                end_time_raw = str(row.get("END_TIME") or row.get("End Time") or "").strip()
+                                end_time_raw = str(row.get("END_TIME") or "").strip()
                                 stop_dt = None
                                 end_match = re.search(r"(\d{1,2}):(\d{2})", end_time_raw)
                                 if end_match:
-                                    ehh, emm = end_match.groups()
-                                    stop_dt = datetime(curr_d.year, curr_d.month, curr_d.day, int(ehh), int(emm), 0, tzinfo=tz)
-                                    if stop_dt <= event_dt:
+                                    ehh, emm = map(int, end_match.groups())
+                                    stop_dt = _build_dt(curr_d, ehh, emm, tz)
+                                    if stop_dt and stop_dt <= event_dt:
                                         stop_dt += timedelta(days=1)
 
-                                time_key = f"{d_str} {int(hh):02d}:{int(mm):02d}"
+                                time_key = f"{d_str} {hh:02d}:{mm:02d}"
                                 meta = monthly_meta.get(time_key, {})
 
                                 series = meta.get("series") or str(row.get("SERIES_NAME") or "").strip()
@@ -522,11 +587,14 @@ def main():
 
                                 xmltv_season_ep = ""
                                 try:
-                                    s_num = int(float(season)) - 1 if season.replace('.', '', 1).isdigit() else ""
-                                    e_num = int(float(episode)) - 1 if episode.replace('.', '', 1).isdigit() else ""
-                                    if s_num != "" and e_num != "": xmltv_season_ep = f"{s_num}.{e_num}."
-                                    elif e_num != "": xmltv_season_ep = f".{e_num}."
-                                except: pass
+                                    s_num = int(float(season)) - 1 if season.replace(".", "", 1).isdigit() else ""
+                                    e_num = int(float(episode)) - 1 if episode.replace(".", "", 1).isdigit() else ""
+                                    if s_num != "" and e_num != "":
+                                        xmltv_season_ep = f"{s_num}.{e_num}."
+                                    elif e_num != "":
+                                        xmltv_season_ep = f".{e_num}."
+                                except Exception:
+                                    pass
 
                                 icon_url = fetch_tmdb_still(title_val, season, episode, ep_title_en=sub_en, lang=lang) if title_val else ""
 
@@ -538,11 +606,13 @@ def main():
                                     "sub_title_en": sub_en if sub_en.lower() != "nan" and sub_en.lower() != sub_es.lower() else "",
                                     "episode_num": xmltv_season_ep,
                                     "desc": final_desc if final_desc.lower() != "nan" else "",
-                                    "year": year_prod.split('.')[0] if year_prod and year_prod.replace('.', '', 1).isdigit() else "",
+                                    "year": year_prod.split(".")[0] if year_prod and year_prod.replace(".", "", 1).isdigit() else "",
                                     "icon": icon_url
                                 })
-                except Exception:
-                    pass
+                except Exception as e:
+                    http_errors += 1
+                    if http_errors <= 2:
+                        print(f"[WARN] {feed_id} ({d_str}): {e}")
                 curr_d += timedelta(days=1)
 
             all_events = sorted(all_events, key=lambda x: x["start"])
@@ -558,8 +628,6 @@ def main():
 
                 start_str = format_xmltv_date(start_dt, tz_str)
                 stop_str = format_xmltv_date(stop_dt, tz_str)
-                start_utc_str = format_xmltv_date(start_dt.astimezone(timezone.utc), "+0000")
-                stop_utc_str = format_xmltv_date(stop_dt.astimezone(timezone.utc), "+0000")
 
                 prog = ET.Element("programme", {
                     "start": start_str,
@@ -567,18 +635,34 @@ def main():
                     "channel": channel_id
                 })
 
-                if ev["title"]: ET.SubElement(prog, "title", {"lang": lang}).text = ev["title"]
-                if ev["sub_title_es"]: ET.SubElement(prog, "sub-title", {"lang": lang}).text = ev["sub_title_es"]
-                if ev["sub_title_en"]: ET.SubElement(prog, "sub-title", {"lang": "en"}).text = ev["sub_title_en"]
-                if ev["desc"]: ET.SubElement(prog, "desc", {"lang": lang}).text = ev["desc"]
-                if ev["year"]: ET.SubElement(prog, "date").text = ev["year"]
+                if ev["title"]:
+                    ET.SubElement(prog, "title", {"lang": lang}).text = ev["title"]
+                if ev["sub_title_es"]:
+                    ET.SubElement(prog, "sub-title", {"lang": lang}).text = ev["sub_title_es"]
+                if ev["sub_title_en"]:
+                    ET.SubElement(prog, "sub-title", {"lang": "en"}).text = ev["sub_title_en"]
+                if ev["desc"]:
+                    ET.SubElement(prog, "desc", {"lang": lang}).text = ev["desc"]
+                if ev["year"]:
+                    ET.SubElement(prog, "date").text = ev["year"]
                 ET.SubElement(prog, "category", {"lang": lang}).text = "Series"
-                if ev["episode_num"]: ET.SubElement(prog, "episode-num", {"system": "xmltv_ns"}).text = ev["episode_num"]
-                if ev["icon"]: ET.SubElement(prog, "icon", {"src": ev["icon"]})
+                if ev["episode_num"]:
+                    ET.SubElement(prog, "episode-num", {"system": "xmltv_ns"}).text = ev["episode_num"]
+                if ev["icon"]:
+                    ET.SubElement(prog, "icon", {"src": ev["icon"]})
 
                 new_programmes.append(prog)
 
-            existing_progs_map = {p.attrib.get("start"): p for p in root.findall("programme") if p.attrib.get("channel") == channel_id}
+            existing_progs_map = {}
+            for p in list(root.findall("programme")):
+                if p.attrib.get("channel") == channel_id:
+                    p_date = _parse_prog_date(p.attrib.get("start"))
+                    if p_date and not (start_date <= p_date <= end_date):
+                        if p in root:
+                            root.remove(p)
+                    else:
+                        existing_progs_map[p.attrib.get("start")] = p
+
             for np in new_programmes:
                 start_key = np.attrib.get("start")
                 if start_key in existing_progs_map:
@@ -587,7 +671,7 @@ def main():
                         root.remove(old_p)
                 root.append(np)
 
-            print(f"[{channel_id}] Eventos procesados: {len(new_programmes)}")
+            print(f"[{channel_id}] Eventos procesados: {len(new_programmes)} (errores HTTP/parse: {http_errors})")
 
         sorted_progs = sorted(root.findall("programme"), key=lambda x: x.attrib.get("start", ""))
         for p in list(root.findall("programme")):
@@ -599,6 +683,7 @@ def main():
         ET.indent(root, space="  ", level=0)
         ET.ElementTree(root).write(xml_filename, encoding="utf-8", xml_declaration=True)
         print(f"[OK] {xml_filename} guardado correctamente. Total programas: {len(sorted_progs)}")
+
 
 if __name__ == "__main__":
     main()
