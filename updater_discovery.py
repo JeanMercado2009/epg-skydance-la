@@ -9,8 +9,8 @@ import pandas as pd
 import requests
 import unicodedata
 
-RETENTION_DAYS_PAST = 5
-RETENTION_DAYS_FUTURE = 15
+RETENTION_DAYS_PAST = 0
+RETENTION_DAYS_FUTURE = 0
 
 AUTH_URL = "https://epg.tapkit.warnermedia.com/api/security/oauth/token"
 GET_EPAK_CSV_URL = "https://epg.tapkit.warnermedia.com/api/domain/networkgrids/getepakfiles?networkId=47&format=csv"
@@ -398,9 +398,9 @@ def process_daily_feed(root, feed_cfg, file_path):
     tz = feed_cfg["tz"]
     tz_str = feed_cfg["tz_str"]
 
-    now_local_date = datetime.now(tz).date()
-    min_date = now_local_date - timedelta(days=RETENTION_DAYS_PAST)
-    max_date = now_local_date + timedelta(days=RETENTION_DAYS_FUTURE)
+    target_utc_day = datetime.now(timezone.utc).date()
+    min_date = target_utc_day - timedelta(days=RETENTION_DAYS_PAST)
+    max_date = target_utc_day + timedelta(days=RETENTION_DAYS_FUTURE)
 
     if not any(ch.attrib.get("id") == channel_id for ch in root.findall("channel")):
         ch_node = ET.SubElement(root, "channel", {"id": channel_id})
@@ -437,7 +437,7 @@ def process_daily_feed(root, feed_cfg, file_path):
         if not event_dt:
             continue
 
-        if not (min_date <= event_dt.date() <= max_date):
+        if not (min_date <= event_dt.astimezone(timezone.utc).date() <= max_date):
             continue
 
         stop_dt = None
@@ -561,7 +561,7 @@ def process_daily_feed(root, feed_cfg, file_path):
                 root.remove(old_p)
         root.append(np)
 
-    print(f"[{channel_id}] Eventos procesados ({min_date} a {max_date}): {len(new_programmes)}")
+    print(f"[{channel_id}] Eventos procesados (UTC {min_date} a {max_date}): {len(new_programmes)}")
 
 def main():
     token = login_and_get_token()
