@@ -148,6 +148,45 @@ def fetch_epak_files(token, referer_url):
             print(f"[WARN] No se pudo consultar EPAK desde {url}: {e}")
     return all_files
 
+def _parse_yymmdd(code_str):
+    try:
+        return datetime.strptime(code_str, "%y%m%d").date()
+    except Exception:
+        return None
+
+def select_best_epak_file(epak_files, region, ref_date=None):
+    if ref_date is None:
+        ref_date = datetime.now(timezone.utc).date()
+
+    candidates = [
+        f_item for f_item in epak_files
+        if region.lower() in str(f_item.get("name", "")).lower()
+    ]
+    if not candidates:
+        return None
+
+    scored = []
+    for item in candidates:
+        name = str(item.get("name", ""))
+        matches = re.findall(r"(\d{6})", name)
+        start_d = _parse_yymmdd(matches[0]) if len(matches) >= 1 else None
+        end_d = _parse_yymmdd(matches[1]) if len(matches) >= 2 else None
+
+        in_range = 0
+        if start_d and end_d:
+            if start_d <= ref_date <= end_d:
+                in_range = 2
+            elif start_d <= ref_date + timedelta(days=31):
+                in_range = 1
+        elif start_d and start_d <= ref_date + timedelta(days=31):
+            in_range = 1
+
+        sort_key = end_d or start_d or date(1970, 1, 1)
+        scored.append((in_range, sort_key, item))
+
+    scored.sort(key=lambda x: (x[0], x[1]), reverse=True)
+    return scored[0][2]
+
 def download_feed_xls(token, feed_cfg, referer_url, epak_files):
     feed_id = feed_cfg["feed_id"]
 
@@ -159,20 +198,21 @@ def download_feed_xls(token, feed_cfg, referer_url, epak_files):
     }
     region = region_map.get(feed_id, "Latin")
 
-    target_name = None
-    target_path = None
+    best_item = select_best_epak_file(epak_files, region)
     file_id_val = "10605612"
 
-    for f_item in epak_files:
-        name = f_item.get("name", "")
-        if region.lower() in name.lower() or region in name:
-            target_name = name
-            target_path = f_item.get("path", f"network-files/DISCKIDS/EPAK/FULL/{name}")
-            file_id_val = str(f_item.get("id", "10605612"))
-            break
-
-    if not target_name:
-        target_name = f"FULL_DLA_Discovery_Kids_{region}_261101_261231.xlsx"
+    if best_item:
+        target_name = best_item.get("name", "")
+        target_path = best_item.get("path", f"network-files/DISCKIDS/EPAK/FULL/{target_name}")
+        file_id_val = str(best_item.get("id", "10605612"))
+    else:
+        now_dt = datetime.now(timezone.utc)
+        yy_curr = now_dt.strftime("%y")
+        mm_curr = now_dt.strftime("%m")
+        next_month_dt = (now_dt.replace(day=28) + timedelta(days=10)).replace(day=1)
+        yy_next = next_month_dt.strftime("%y")
+        mm_next = next_month_dt.strftime("%m")
+        target_name = f"FULL_DLA_Discovery_Kids_{region}_{yy_curr}{mm_curr}01_{yy_next}{mm_next}28.csv"
         target_path = f"network-files/DISCKIDS/EPAK/FULL/{target_name}"
 
     print(f"[{feed_id}] Descargando archivo: {target_name}")
@@ -300,15 +340,23 @@ def load_schedule_dataframe(file_path):
 
     return df
 
-def build_datetime_from_time(base_date, hour, minute, tz_info, raw_label=""):
-    if hour >= 24 and 0 <= minute <= 59:
-        extra_days = hour // 24
-        target_day = base_date + timedelta(days=extra_days)
-        adj_hour = hour % 24
-        adj_minute = minute
-    elif 0 <= hour <= 23 and 0 <= minute <= 59:
-        target_day = base_date
-        adj_hour, adj_minute = hour, minute
+def build_datetime_from_time(base_date, hour, minute, tz_info, raw_label="", allow_end_30=False):
+    if 0 <= minute <= 59:
+        if 0 <= hour <= 23:
+            target_day = base_date
+            adj_hour = hour
+            adj_minute = minute
+        elif 24 <= hour <= 29:
+            target_day = base_date + timedelta(days=1)
+            adj_hour = hour - 24
+            adj_minute = minute
+        elif hour == 30 and minute == 0 and allow_end_30:
+            target_day = base_date + timedelta(days=1)
+            adj_hour = 6
+            adj_minute = 0
+        else:
+            print(f"[WARN] Hora no válida: {raw_label}")
+            return None
     else:
         print(f"[WARN] Hora no válida: {raw_label}")
         return None
@@ -356,7 +404,7 @@ def process_daily_feed(root, feed_cfg, file_path):
         base_day = date(y, m, d)
         hh, mm = map(int, time_match.groups())
 
-        event_dt = build_datetime_from_time(base_day, hh, mm, tz, raw_label=f"{date_raw} {time_raw}")
+        event_dt = build_datetime_from_time(base_day, hh, mm, tz, raw_label=f"{date_raw} {time_raw}", allow_end_30=False)
         if not event_dt:
             continue
 
@@ -365,7 +413,7 @@ def process_daily_feed(root, feed_cfg, file_path):
             end_match = re.search(r"(\d{1,2}):(\d{2})", end_time_raw)
             if end_match:
                 ehh, emm = map(int, end_match.groups())
-                stop_dt = build_datetime_from_time(base_day, ehh, emm, tz, raw_label=f"{date_raw} {end_time_raw}")
+                stop_dt = build_datetime_from_time(base_day, ehh, emm, tz, raw_label=f"{date_raw} {end_time_raw}", allow_end_30=True)
                 if stop_dt and stop_dt <= event_dt:
                     stop_dt += timedelta(days=1)
 
