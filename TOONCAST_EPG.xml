@@ -11068,15 +11068,6 @@
     <episode-num system="xmltv_ns">0.12.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/5kbSArrPAuEaFUCUJW7fMSDZjdn.jpg" />
   </programme>
-  <programme start="20261119095900 -0300" stop="20261119100400 -0300" air_time_start="20261119095900 -0300" air_time_end="20261119100400 -0300" start_utc="20261119125900 +0000" stop_utc="20261119130400 +0000" air_time_start_utc="20261119125900 +0000" air_time_end_utc="20261119130400 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">Los balidos de mi corazón</sub-title>
-    <sub-title lang="en">TO BLEAT OR NOT TO BLEAT</sub-title>
-    <desc lang="es">Sheep se tropieza con una linda pequeñita (Lisa Rental) que hace de cuenta que Sheep es su perro. Esto representa una buena forma de esconderse del General Específicamente, pero: ¿podrá sobrevivir Sheep al cruel entusiasmo de Lisa Rental? Además: a Doña Ricachona le regalan un emparedado de jamón gratis.</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/nLSl1jMgoH55ukGXdkelroS33Em.jpg" />
-  </programme>
   <programme start="20261119095900 -0300" stop="20261119100000 -0300" air_time_start="20261119095900 -0300" air_time_end="20261119100000 -0300" start_utc="20261119125900 +0000" stop_utc="20261119130000 +0000" air_time_start_utc="20261119125900 +0000" air_time_end_utc="20261119130000 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
     <sub-title lang="pt">Identidad equivocada</sub-title>
@@ -11086,14 +11077,23 @@
     <episode-num system="xmltv_ns">0.12.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/5kbSArrPAuEaFUCUJW7fMSDZjdn.jpg" />
   </programme>
-  <programme start="20261119095900 -0300" stop="20261119100400 -0300" air_time_start="20261119095900 -0300" air_time_end="20261119100400 -0300" start_utc="20261119125900 +0000" stop_utc="20261119130400 +0000" air_time_start_utc="20261119125900 +0000" air_time_end_utc="20261119130400 +0000" is_live="false" channel="TOONLA_BR.br">
+  <programme start="20261119095900 -0300" stop="20261119100000 -0300" air_time_start="20261119095900 -0300" air_time_end="20261119100000 -0300" start_utc="20261119125900 +0000" stop_utc="20261119130000 +0000" air_time_start_utc="20261119125900 +0000" air_time_end_utc="20261119130000 +0000" is_live="false" channel="TOONLA_PAN.co">
+    <title lang="es">Sheep en la gran ciudad</title>
+    <sub-title lang="es">Identidad equivocada</sub-title>
+    <sub-title lang="en">ABOUT EVERYTHING</sub-title>
+    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/5kbSArrPAuEaFUCUJW7fMSDZjdn.jpg" />
+  </programme>
+  <programme start="20261119095900 -0300" stop="20261119100000 -0300" air_time_start="20261119095900 -0300" air_time_end="20261119100000 -0300" start_utc="20261119125900 +0000" stop_utc="20261119130000 +0000" air_time_start_utc="20261119125900 +0000" air_time_end_utc="20261119130000 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">Los balidos de mi corazón</sub-title>
-    <sub-title lang="en">TO BLEAT OR NOT TO BLEAT</sub-title>
-    <desc lang="pt">O Sheep encontra uma garota bonitinha (Lisa Aluguel) que finge que o Sheep é seu cão. Este é um bom disfarce para se esconder do General Específico, mas poderá Sheep sobreviver ao cruel entusiasmo de Lisa Aluguel? Mais: É oferecido um sanduíche de presunto em cortesia à Senhora Ricona.</desc>
+    <sub-title lang="pt">Identidad equivocada</sub-title>
+    <sub-title lang="en">ABOUT EVERYTHING</sub-title>
+    <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/nLSl1jMgoH55ukGXdkelroS33Em.jpg" />
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/5kbSArrPAuEaFUCUJW7fMSDZjdn.jpg" />
   </programme>
   <programme start="20261119100400 -0300" stop="20261119100500 -0300" air_time_start="20261119100400 -0300" air_time_end="20261119100500 -0300" start_utc="20261119130400 +0000" stop_utc="20261119130500 +0000" air_time_start_utc="20261119130400 +0000" air_time_end_utc="20261119130500 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
