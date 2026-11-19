@@ -19,11 +19,11 @@ jobs:
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.15'
 
       - name: Instalar dependencias de Python
         run: |
-          pip install requests pandas xlrd openpyxl beautifulsoup4 html5lib
+          pip install requests pandas xlrd openpyxl beautifulsoup4 html5lib lxml
 
       - name: Descargar y Procesar Grillas TVEGO
         env:
