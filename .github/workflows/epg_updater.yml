@@ -1,9 +1,13 @@
-name: Actualizacion Diaria EPG WB Skydance y Discovery
+name: Actualizacion EPG WB
 
 on:
   schedule:
     - cron: '30 0 * * *'
   workflow_dispatch:
+
+concurrency:
+  group: epg-wb-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -15,6 +19,8 @@ jobs:
     steps:
       - name: Checkout del repositorio
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Configurar Python
         uses: actions/setup-python@v5
@@ -25,7 +31,7 @@ jobs:
         run: |
           pip install requests pandas xlrd openpyxl beautifulsoup4 html5lib lxml
 
-      - name: Descargar y Procesar Grillas TVEGO
+      - name: Descargar y Procesar Grillas WB
         env:
           TAPKIT_EMAIL: ${{ secrets.TAPKIT_EMAIL }}
           TAPKIT_PASSWORD: ${{ secrets.TAPKIT_PASSWORD }}
@@ -33,17 +39,16 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
           python updater.py
-          python updater_discovery.py
-          python updater_skydance.py
 
-      - name: Guardar cambios en el repositorio
+      - name: Guardar cambios de WB en el repositorio
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add CTOOLA_EPG.xml CNLA_EPG.xml WARNERLA_EPG.xml TNTLA_EPG.xml DKLA_EPG.xml TOONCAST_EPG.xml TNT_SPORTS.xml nickelodeon/Nickelodeon_LA.xml
+          git add CTOOLA_EPG.xml CNLA_EPG.xml WARNERLA_EPG.xml TNTLA_EPG.xml TOONCAST_EPG.xml TNT_SPORTS.xml
           if git diff --staged --quiet; then
-            echo "No hay cambios nuevos en las grillas."
+            echo "No hay cambios nuevos en las grillas WB."
           else
-            git commit -m "Auto-update EPG WB + Discovery"
+            git commit -m "Auto-update EPG WB"
+            git pull --rebase origin main
             git push
           fi
