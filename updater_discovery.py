@@ -315,6 +315,17 @@ def sanitize_and_parse_xml(file_path, generator_name):
 def format_xmltv_date(dt, tz_str):
     return dt.strftime(f"%Y%m%d%H%M%S {tz_str}")
 
+def parse_xmltv_start_date(start_str):
+    if not start_str:
+        return None
+    m = re.match(r"^(\d{8})", str(start_str).strip())
+    if not m:
+        return None
+    try:
+        return datetime.strptime(m.group(1), "%Y%m%d").date()
+    except Exception:
+        return None
+
 def load_schedule_dataframe(file_path):
     if file_path.lower().endswith(".csv"):
         df = None
@@ -387,6 +398,10 @@ def process_daily_feed(root, feed_cfg, file_path):
     tz = feed_cfg["tz"]
     tz_str = feed_cfg["tz_str"]
 
+    now_local_date = datetime.now(tz).date()
+    min_date = now_local_date - timedelta(days=RETENTION_DAYS_PAST)
+    max_date = now_local_date + timedelta(days=RETENTION_DAYS_FUTURE)
+
     if not any(ch.attrib.get("id") == channel_id for ch in root.findall("channel")):
         ch_node = ET.SubElement(root, "channel", {"id": channel_id})
         ET.SubElement(ch_node, "display-name").text = channel_name
@@ -420,6 +435,9 @@ def process_daily_feed(root, feed_cfg, file_path):
 
         event_dt = build_datetime_from_time(base_day, hh, mm, tz, raw_label=f"{date_raw} {time_raw}", allow_end_30=False)
         if not event_dt:
+            continue
+
+        if not (min_date <= event_dt.date() <= max_date):
             continue
 
         stop_dt = None
@@ -525,7 +543,16 @@ def process_daily_feed(root, feed_cfg, file_path):
 
         new_programmes.append(prog)
 
-    existing_progs_map = {p.attrib.get("start"): p for p in root.findall("programme") if p.attrib.get("channel") == channel_id}
+    existing_progs_map = {}
+    for p in list(root.findall("programme")):
+        if p.attrib.get("channel") == channel_id:
+            p_date = parse_xmltv_start_date(p.attrib.get("start"))
+            if p_date and not (min_date <= p_date <= max_date):
+                if p in root:
+                    root.remove(p)
+            else:
+                existing_progs_map[p.attrib.get("start")] = p
+
     for np in new_programmes:
         start_key = np.attrib.get("start")
         if start_key in existing_progs_map:
@@ -534,7 +561,7 @@ def process_daily_feed(root, feed_cfg, file_path):
                 root.remove(old_p)
         root.append(np)
 
-    print(f"[{channel_id}] Eventos procesados para Discovery Kids: {len(new_programmes)}")
+    print(f"[{channel_id}] Eventos procesados ({min_date} a {max_date}): {len(new_programmes)}")
 
 def main():
     token = login_and_get_token()
