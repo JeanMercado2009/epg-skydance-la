@@ -301,9 +301,11 @@ def load_schedule_dataframe(file_path):
     return df
 
 def build_datetime_from_time(base_date, hour, minute, tz_info, raw_label=""):
-    if hour == 24 and minute == 0:
-        target_day = base_date + timedelta(days=1)
-        adj_hour, adj_minute = 0, 0
+    if hour >= 24 and 0 <= minute <= 59:
+        extra_days = hour // 24
+        target_day = base_date + timedelta(days=extra_days)
+        adj_hour = hour % 24
+        adj_minute = minute
     elif 0 <= hour <= 23 and 0 <= minute <= 59:
         target_day = base_date
         adj_hour, adj_minute = hour, minute
