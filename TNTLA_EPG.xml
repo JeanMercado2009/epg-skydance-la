@@ -18,119 +18,13 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
-  <programme start="20261114001300 -0300" stop="20261114001600 -0300" air_time_start="20261114001300 -0300" air_time_end="20261114001600 -0300" start_utc="20261114031300 +0000" stop_utc="20261114031600 +0000" air_time_start_utc="20261114031300 +0000" air_time_end_utc="20261114031600 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</title>
-    <desc lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261114001400 -0300" stop="20261114003700 -0300" air_time_start="20261114001400 -0300" air_time_end="20261114003700 -0300" start_utc="20261114031400 +0000" stop_utc="20261114033700 +0000" air_time_start_utc="20261114031400 +0000" air_time_end_utc="20261114033700 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.17.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/9IOSybeaoTpHPuzDYLw4UvfMMy8.jpg" />
-  </programme>
-  <programme start="20261114001600 -0300" stop="20261114022000 -0300" air_time_start="20261114001600 -0300" air_time_end="20261114022000 -0300" start_utc="20261114031600 +0000" stop_utc="20261114052000 +0000" air_time_start_utc="20261114031600 +0000" air_time_end_utc="20261114052000 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">UNA ESPOSA DE MENTIRA</title>
-    <desc lang="es">Danny es un exitoso cirujano plástico que miente constantemente para conquistar mujeres. Pero esto se convierte en un gran problema cuando conoce a la mujer de sus sueños. Para cubrir sus mentiras y acercarse a ella, Danny les pide a su leal asistente y a sus hijos que simulen ser su familia. Cuando se desatan más mentiras, viajan todos juntos a Hawái, donde vivirán un fin de semana alocado y fuera de lo común.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261114001600 -0600" stop="20261114001900 -0600" air_time_start="20261114001600 -0600" air_time_end="20261114001900 -0600" start_utc="20261114061600 +0000" stop_utc="20261114061900 +0000" air_time_start_utc="20261114061600 +0000" air_time_end_utc="20261114061900 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</title>
-    <desc lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261114001900 -0500" stop="20261114002200 -0500" air_time_start="20261114001900 -0500" air_time_end="20261114002200 -0500" start_utc="20261114051900 +0000" stop_utc="20261114052200 +0000" air_time_start_utc="20261114051900 +0000" air_time_end_utc="20261114052200 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</title>
-    <desc lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20261114001900 -0600" stop="20261114022100 -0600" air_time_start="20261114001900 -0600" air_time_end="20261114022100 -0600" start_utc="20261114061900 +0000" stop_utc="20261114082100 +0000" air_time_start_utc="20261114061900 +0000" air_time_end_utc="20261114082100 +0000" is_live="false" channel="TNT_MX.mx">
     <title lang="es">UNA ESPOSA DE MENTIRA</title>
     <desc lang="es">Danny es un exitoso cirujano plástico que miente constantemente para conquistar mujeres. Pero esto se convierte en un gran problema cuando conoce a la mujer de sus sueños. Para cubrir sus mentiras y acercarse a ella, Danny les pide a su leal asistente y a sus hijos que simulen ser su familia. Cuando se desatan más mentiras, viajan todos juntos a Hawái, donde vivirán un fin de semana alocado y fuera de lo común.</desc>
     <category lang="es">Comedia</category>
     <category lang="es">Romance</category>
   </programme>
-  <programme start="20261114002200 -0500" stop="20261114021800 -0500" air_time_start="20261114002200 -0500" air_time_end="20261114021800 -0500" start_utc="20261114052200 +0000" stop_utc="20261114071800 +0000" air_time_start_utc="20261114052200 +0000" air_time_end_utc="20261114071800 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">UNA ESPOSA DE MENTIRA</title>
-    <desc lang="es">Danny es un exitoso cirujano plástico que miente constantemente para conquistar mujeres. Pero esto se convierte en un gran problema cuando conoce a la mujer de sus sueños. Para cubrir sus mentiras y acercarse a ella, Danny les pide a su leal asistente y a sus hijos que simulen ser su familia. Cuando se desatan más mentiras, viajan todos juntos a Hawái, donde vivirán un fin de semana alocado y fuera de lo común.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261114002500 -0500" stop="20261114002800 -0500" air_time_start="20261114002500 -0500" air_time_end="20261114002800 -0500" start_utc="20261114052500 +0000" stop_utc="20261114052800 +0000" air_time_start_utc="20261114052500 +0000" air_time_end_utc="20261114052800 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</title>
-    <desc lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261114002800 -0500" stop="20261114022600 -0500" air_time_start="20261114002800 -0500" air_time_end="20261114022600 -0500" start_utc="20261114052800 +0000" stop_utc="20261114072600 +0000" air_time_start_utc="20261114052800 +0000" air_time_end_utc="20261114072600 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">UNA ESPOSA DE MENTIRA</title>
-    <desc lang="es">Danny es un exitoso cirujano plástico que miente constantemente para conquistar mujeres. Pero esto se convierte en un gran problema cuando conoce a la mujer de sus sueños. Para cubrir sus mentiras y acercarse a ella, Danny les pide a su leal asistente y a sus hijos que simulen ser su familia. Cuando se desatan más mentiras, viajan todos juntos a Hawái, donde vivirán un fin de semana alocado y fuera de lo común.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261114003700 -0300" stop="20261114010100 -0300" air_time_start="20261114003700 -0300" air_time_end="20261114010100 -0300" start_utc="20261114033700 +0000" stop_utc="20261114040100 +0000" air_time_start_utc="20261114033700 +0000" air_time_end_utc="20261114040100 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/epZiJugxJeE4HwZ8B94KFVTI4tR.jpg" />
-  </programme>
-  <programme start="20261114003900 -0400" stop="20261114004200 -0400" air_time_start="20261114003900 -0400" air_time_end="20261114004200 -0400" start_utc="20261114043900 +0000" stop_utc="20261114044200 +0000" air_time_start_utc="20261114043900 +0000" air_time_end_utc="20261114044200 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</title>
-    <desc lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261114004200 -0400" stop="20261114024700 -0400" air_time_start="20261114004200 -0400" air_time_end="20261114024700 -0400" start_utc="20261114044200 +0000" stop_utc="20261114064700 +0000" air_time_start_utc="20261114044200 +0000" air_time_end_utc="20261114064700 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">UNA ESPOSA DE MENTIRA</title>
-    <desc lang="es">Danny es un exitoso cirujano plástico que miente constantemente para conquistar mujeres. Pero esto se convierte en un gran problema cuando conoce a la mujer de sus sueños. Para cubrir sus mentiras y acercarse a ella, Danny les pide a su leal asistente y a sus hijos que simulen ser su familia. Cuando se desatan más mentiras, viajan todos juntos a Hawái, donde vivirán un fin de semana alocado y fuera de lo común.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261114010100 -0300" stop="20261114012200 -0300" air_time_start="20261114010100 -0300" air_time_end="20261114012200 -0300" start_utc="20261114040100 +0000" stop_utc="20261114042200 +0000" air_time_start_utc="20261114040100 +0000" air_time_end_utc="20261114042200 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/hT2NltnLskCoXe0tM5hvu4ajsin.jpg" />
-  </programme>
-  <programme start="20261114012200 -0300" stop="20261114014800 -0300" air_time_start="20261114012200 -0300" air_time_end="20261114014800 -0300" start_utc="20261114042200 +0000" stop_utc="20261114044800 +0000" air_time_start_utc="20261114042200 +0000" air_time_end_utc="20261114044800 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">GUESS WHO'S COMING TO MARRY?</sub-title>
-    <desc lang="pt">A família Banks está preparada para o casamento de Janice, mas totalmente despreparada para conhecer o noivo.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/8L42VvXNVDw0O3k1KMd8sqiD6VU.jpg" />
-  </programme>
-  <programme start="20261114014800 -0300" stop="20261114021100 -0300" air_time_start="20261114014800 -0300" air_time_end="20261114021100 -0300" start_utc="20261114044800 +0000" stop_utc="20261114051100 +0000" air_time_start_utc="20261114044800 +0000" air_time_end_utc="20261114051100 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">THE BIG FOUR-OH</sub-title>
-    <desc lang="pt">Vivian chega aos 40 anos e fica obcecada em realizar o sonho da sua vida: tornar-se bailarina profissional.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/eK6cZKNOPQAL0lY8cx5inmspCZa.jpg" />
-  </programme>
-  <programme start="20261114021100 -0300" stop="20261114023400 -0300" air_time_start="20261114021100 -0300" air_time_end="20261114023400 -0300" start_utc="20261114051100 +0000" stop_utc="20261114053400 +0000" air_time_start_utc="20261114051100 +0000" air_time_end_utc="20261114053400 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">SHE AIN'T HEAVY</sub-title>
-    <desc lang="pt">Will começa a gostar de uma garota (Queen Latifah), mas tem medo de apresentá-la aos amigos porque ela é gordinha.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.7.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/qBnBMiSLnw4mRtOSddHGADVf0Mx.jpg" />
-  </programme>
   <programme start="20261114021800 -0500" stop="20261114042800 -0500" air_time_start="20261114021800 -0500" air_time_end="20261114042800 -0500" start_utc="20261114071800 +0000" stop_utc="20261114092800 +0000" air_time_start_utc="20261114071800 +0000" air_time_end_utc="20261114092800 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">CONSTANTINE</title>
-    <desc lang="es">En este thriller de carácter supernatural, basado en el comic de DC/ Vertigo Hellblazer, Keanu Reeves encarna a Constantine, un detective amargado y poco ortodoxo, que tiene la habilidad de detectar a los espíritus que caminan entre nosotros. Pero esta es una responsabilidad demasiado pesada para él e intenta suicidarse. Como castigo, es enviado nuevamente a la Tierra, donde deberá ganarse su salvación. Angela Dodson (Rachel Weisz), una detective de la policía de Los Angeles que está investigando la misteriosa muerte de su hermana gemela, buscará su ayuda y juntos deberán luchar contra el mal para salvar a la humanidad.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261114022000 -0300" stop="20261114042400 -0300" air_time_start="20261114022000 -0300" air_time_end="20261114042400 -0300" start_utc="20261114052000 +0000" stop_utc="20261114072400 +0000" air_time_start_utc="20261114052000 +0000" air_time_end_utc="20261114072400 +0000" is_live="false" channel="TNT_AR.ar">
     <title lang="es">CONSTANTINE</title>
     <desc lang="es">En este thriller de carácter supernatural, basado en el comic de DC/ Vertigo Hellblazer, Keanu Reeves encarna a Constantine, un detective amargado y poco ortodoxo, que tiene la habilidad de detectar a los espíritus que caminan entre nosotros. Pero esta es una responsabilidad demasiado pesada para él e intenta suicidarse. Como castigo, es enviado nuevamente a la Tierra, donde deberá ganarse su salvación. Angela Dodson (Rachel Weisz), una detective de la policía de Los Angeles que está investigando la misteriosa muerte de su hermana gemela, buscará su ayuda y juntos deberán luchar contra el mal para salvar a la humanidad.</desc>
     <category lang="es">Acción</category>
@@ -156,14 +50,6 @@
     <category lang="es">Fantasía</category>
     <category lang="es">Suspenso</category>
     <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261114023400 -0300" stop="20261114025700 -0300" air_time_start="20261114023400 -0300" air_time_end="20261114025700 -0300" start_utc="20261114053400 +0000" stop_utc="20261114055700 +0000" air_time_start_utc="20261114053400 +0000" air_time_end_utc="20261114055700 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">CASED UP</sub-title>
-    <desc lang="pt">Will se envolve em um acidente de automóvel com o novo namorado de Hilary, e Philip é forçado a defender o sobrinho menor de idade.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/9N6PbZAcmSZk6huT6pmbgEphBIj.jpg" />
   </programme>
   <programme start="20261114024700 -0400" stop="20261114045700 -0400" air_time_start="20261114024700 -0400" air_time_end="20261114045700 -0400" start_utc="20261114064700 +0000" stop_utc="20261114085700 +0000" air_time_start_utc="20261114064700 +0000" air_time_end_utc="20261114085700 +0000" is_live="false" channel="TNT_CL.cl">
     <title lang="es">CONSTANTINE</title>
@@ -6014,5 +5900,708 @@
     <title lang="es">TNT BUZZ</title>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">14.106.</episode-num>
+  </programme>
+  <programme start="20261121060000 -0300" stop="20261121063400 -0300" air_time_start="20261121060000 -0300" air_time_end="20261121063400 -0300" start_utc="20261121090000 +0000" stop_utc="20261121093400 +0000" air_time_start_utc="20261121090000 +0000" air_time_end_utc="20261121093400 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="pt">Variedades</category>
+    <episode-num system="xmltv_ns">-1.15.</episode-num>
+  </programme>
+  <programme start="20261121060000 -0300" stop="20261121061100 -0300" air_time_start="20261121060000 -0300" air_time_end="20261121061100 -0300" start_utc="20261121090000 +0000" stop_utc="20261121091100 +0000" air_time_start_utc="20261121090000 +0000" air_time_end_utc="20261121091100 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.47.</episode-num>
+  </programme>
+  <programme start="20261121060000 -0400" stop="20261121074700 -0400" air_time_start="20261121060000 -0400" air_time_end="20261121074700 -0400" start_utc="20261121100000 +0000" stop_utc="20261121114700 +0000" air_time_start_utc="20261121100000 +0000" air_time_end_utc="20261121114700 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">EL PROTECTOR</title>
+    <sub-title lang="es">MARKSMAN, THE</sub-title>
+    <desc lang="es">Jim (Liam Neeson) es un ranchero de Arizona que se envuelve en una peligrosa batalla para proteger a un niño mexicano de un cartel.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261121060000 -0500" stop="20261121063600 -0500" air_time_start="20261121060000 -0500" air_time_end="20261121063600 -0500" start_utc="20261121110000 +0000" stop_utc="20261121113600 +0000" air_time_start_utc="20261121110000 +0000" air_time_end_utc="20261121113600 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.19.</episode-num>
+  </programme>
+  <programme start="20261121060000 -0500" stop="20261121064100 -0500" air_time_start="20261121060000 -0500" air_time_end="20261121064100 -0500" start_utc="20261121110000 +0000" stop_utc="20261121114100 +0000" air_time_start_utc="20261121110000 +0000" air_time_end_utc="20261121114100 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.20.</episode-num>
+  </programme>
+  <programme start="20261121060000 -0600" stop="20261121064100 -0600" air_time_start="20261121060000 -0600" air_time_end="20261121064100 -0600" start_utc="20261121120000 +0000" stop_utc="20261121124100 +0000" air_time_start_utc="20261121120000 +0000" air_time_end_utc="20261121124100 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.14.</episode-num>
+  </programme>
+  <programme start="20261121061100 -0300" stop="20261121061900 -0300" air_time_start="20261121061100 -0300" air_time_end="20261121061900 -0300" start_utc="20261121091100 +0000" stop_utc="20261121091900 +0000" air_time_start_utc="20261121091100 +0000" air_time_end_utc="20261121091900 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.52.</episode-num>
+  </programme>
+  <programme start="20261121061900 -0300" stop="20261121065700 -0300" air_time_start="20261121061900 -0300" air_time_end="20261121065700 -0300" start_utc="20261121091900 +0000" stop_utc="20261121095700 +0000" air_time_start_utc="20261121091900 +0000" air_time_end_utc="20261121095700 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.17.</episode-num>
+  </programme>
+  <programme start="20261121063400 -0300" stop="20261121070900 -0300" air_time_start="20261121063400 -0300" air_time_end="20261121070900 -0300" start_utc="20261121093400 +0000" stop_utc="20261121100900 +0000" air_time_start_utc="20261121093400 +0000" air_time_end_utc="20261121100900 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="pt">Variedades</category>
+    <episode-num system="xmltv_ns">-1.16.</episode-num>
+  </programme>
+  <programme start="20261121063600 -0500" stop="20261121064900 -0500" air_time_start="20261121063600 -0500" air_time_end="20261121064900 -0500" start_utc="20261121113600 +0000" stop_utc="20261121114900 +0000" air_time_start_utc="20261121113600 +0000" air_time_end_utc="20261121114900 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.46.</episode-num>
+  </programme>
+  <programme start="20261121064100 -0500" stop="20261121065600 -0500" air_time_start="20261121064100 -0500" air_time_end="20261121065600 -0500" start_utc="20261121114100 +0000" stop_utc="20261121115600 +0000" air_time_start_utc="20261121114100 +0000" air_time_end_utc="20261121115600 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.57.</episode-num>
+  </programme>
+  <programme start="20261121064100 -0600" stop="20261121065400 -0600" air_time_start="20261121064100 -0600" air_time_end="20261121065400 -0600" start_utc="20261121124100 +0000" stop_utc="20261121125400 +0000" air_time_start_utc="20261121124100 +0000" air_time_end_utc="20261121125400 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.44.</episode-num>
+  </programme>
+  <programme start="20261121064900 -0500" stop="20261121083700 -0500" air_time_start="20261121064900 -0500" air_time_end="20261121083700 -0500" start_utc="20261121114900 +0000" stop_utc="20261121133700 +0000" air_time_start_utc="20261121114900 +0000" air_time_end_utc="20261121133700 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">EL PROTECTOR</title>
+    <sub-title lang="es">MARKSMAN, THE</sub-title>
+    <desc lang="es">Jim (Liam Neeson) es un ranchero de Arizona que se envuelve en una peligrosa batalla para proteger a un niño mexicano de un cartel.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261121065400 -0600" stop="20261121070300 -0600" air_time_start="20261121065400 -0600" air_time_end="20261121070300 -0600" start_utc="20261121125400 +0000" stop_utc="20261121130300 +0000" air_time_start_utc="20261121125400 +0000" air_time_end_utc="20261121130300 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.49.</episode-num>
+  </programme>
+  <programme start="20261121065600 -0500" stop="20261121071000 -0500" air_time_start="20261121065600 -0500" air_time_end="20261121071000 -0500" start_utc="20261121115600 +0000" stop_utc="20261121121000 +0000" air_time_start_utc="20261121115600 +0000" air_time_end_utc="20261121121000 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.51.</episode-num>
+  </programme>
+  <programme start="20261121065700 -0300" stop="20261121073500 -0300" air_time_start="20261121065700 -0300" air_time_end="20261121073500 -0300" start_utc="20261121095700 +0000" stop_utc="20261121103500 +0000" air_time_start_utc="20261121095700 +0000" air_time_end_utc="20261121103500 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.19.</episode-num>
+  </programme>
+  <programme start="20261121070300 -0600" stop="20261121085000 -0600" air_time_start="20261121070300 -0600" air_time_end="20261121085000 -0600" start_utc="20261121130300 +0000" stop_utc="20261121145000 +0000" air_time_start_utc="20261121130300 +0000" air_time_end_utc="20261121145000 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">Monster Hunter: La Cacería Comienza</title>
+    <sub-title lang="es">Monster Hunter</sub-title>
+    <desc lang="es">Milla Jovovich protagoniza esta aventura fantástica basada en el exitoso videojuego de mismo nombre. La capitana Artemis (Jovovich) y su unidad deberán luchar contra enormes y aterradores monstruos cuando una inesperada tormenta los transporta a un mundo hostil y desconocido habitado por estas criaturas inmunes a casi todo tipo de armamento.</desc>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261121070900 -0300" stop="20261121085400 -0300" air_time_start="20261121070900 -0300" air_time_end="20261121085400 -0300" start_utc="20261121100900 +0000" stop_utc="20261121115400 +0000" air_time_start_utc="20261121100900 +0000" air_time_end_utc="20261121115400 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">Monster Hunter</title>
+    <desc lang="pt">Milla Jovovich luta contra enormes e assustadores monstros nesta aventura-fantasia baseada no videogame de mesmo nome.</desc>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Fantasia</category>
+  </programme>
+  <programme start="20261121071000 -0500" stop="20261121090500 -0500" air_time_start="20261121071000 -0500" air_time_end="20261121090500 -0500" start_utc="20261121121000 +0000" stop_utc="20261121140500 +0000" air_time_start_utc="20261121121000 +0000" air_time_end_utc="20261121140500 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">EL PROTECTOR</title>
+    <sub-title lang="es">MARKSMAN, THE</sub-title>
+    <desc lang="es">Jim (Liam Neeson) es un ranchero de Arizona que se envuelve en una peligrosa batalla para proteger a un niño mexicano de un cartel.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261121073500 -0300" stop="20261121093400 -0300" air_time_start="20261121073500 -0300" air_time_end="20261121093400 -0300" start_utc="20261121103500 +0000" stop_utc="20261121123400 +0000" air_time_start_utc="20261121103500 +0000" air_time_end_utc="20261121123400 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">EL FUTBOL O YO</title>
+    <sub-title lang="es">MY LOVE OR MY PASSION</sub-title>
+    <desc lang="es">Pedro es un adicto total al fútbol, una pasión que está arruinando su vida matrimonial al punto que Verónica, su mujer, comienza a ver insostenible el que su marido dedique la mayor parte de su tiempo al fútbol y nada a la pareja. Cuando Pedro es despedido del trabajo por ver un partido de fútbol durante el horario laboral, el asunto adquiere tintes de tragedia. Verónica da un ultimátum a su marido: si Pedro quiere volver con ella, deberá elegir entre los dos y rehabilitarse de su adicción.</desc>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familiar</category>
+    <category lang="es">Romance</category>
+  </programme>
+  <programme start="20261121074700 -0400" stop="20261121080600 -0400" air_time_start="20261121074700 -0400" air_time_end="20261121080600 -0400" start_utc="20261121114700 +0000" stop_utc="20261121120600 +0000" air_time_start_utc="20261121114700 +0000" air_time_end_utc="20261121120600 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.51.</episode-num>
+  </programme>
+  <programme start="20261121080600 -0400" stop="20261121081600 -0400" air_time_start="20261121080600 -0400" air_time_end="20261121081600 -0400" start_utc="20261121120600 +0000" stop_utc="20261121121600 +0000" air_time_start_utc="20261121120600 +0000" air_time_end_utc="20261121121600 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.50.</episode-num>
+  </programme>
+  <programme start="20261121081600 -0400" stop="20261121100800 -0400" air_time_start="20261121081600 -0400" air_time_end="20261121100800 -0400" start_utc="20261121121600 +0000" stop_utc="20261121140800 +0000" air_time_start_utc="20261121121600 +0000" air_time_end_utc="20261121140800 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">Monster Hunter: La Cacería Comienza</title>
+    <sub-title lang="es">Monster Hunter</sub-title>
+    <desc lang="es">Milla Jovovich protagoniza esta aventura fantástica basada en el exitoso videojuego de mismo nombre. La capitana Artemis (Jovovich) y su unidad deberán luchar contra enormes y aterradores monstruos cuando una inesperada tormenta los transporta a un mundo hostil y desconocido habitado por estas criaturas inmunes a casi todo tipo de armamento.</desc>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261121083700 -0500" stop="20261121102500 -0500" air_time_start="20261121083700 -0500" air_time_end="20261121102500 -0500" start_utc="20261121133700 +0000" stop_utc="20261121152500 +0000" air_time_start_utc="20261121133700 +0000" air_time_end_utc="20261121152500 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">Monster Hunter: La Cacería Comienza</title>
+    <sub-title lang="es">Monster Hunter</sub-title>
+    <desc lang="es">Milla Jovovich protagoniza esta aventura fantástica basada en el exitoso videojuego de mismo nombre. La capitana Artemis (Jovovich) y su unidad deberán luchar contra enormes y aterradores monstruos cuando una inesperada tormenta los transporta a un mundo hostil y desconocido habitado por estas criaturas inmunes a casi todo tipo de armamento.</desc>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261121085000 -0600" stop="20261121090000 -0600" air_time_start="20261121085000 -0600" air_time_end="20261121090000 -0600" start_utc="20261121145000 +0000" stop_utc="20261121150000 +0000" air_time_start_utc="20261121145000 +0000" air_time_end_utc="20261121150000 +0000" is_live="false" channel="TNT_MX.mx">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20261121085400 -0300" stop="20261121104700 -0300" air_time_start="20261121085400 -0300" air_time_end="20261121104700 -0300" start_utc="20261121115400 +0000" stop_utc="20261121134700 +0000" air_time_start_utc="20261121115400 +0000" air_time_end_utc="20261121134700 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">Na Mira do Perigo</title>
+    <sub-title lang="pt">The Marksman</sub-title>
+    <desc lang="pt">Jim (Liam Neeson) é um fazendeiro do Arizona que entra em uma perigosa batalha para proteger um garoto mexicano de um cartel.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20261121090000 -0600" stop="20261121110000 -0600" air_time_start="20261121090000 -0600" air_time_end="20261121110000 -0600" start_utc="20261121150000 +0000" stop_utc="20261121170000 +0000" air_time_start_utc="20261121150000 +0000" air_time_end_utc="20261121170000 +0000" is_live="false" channel="TNT_MX.mx">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">-1.51.</episode-num>
+  </programme>
+  <programme start="20261121090500 -0500" stop="20261121105600 -0500" air_time_start="20261121090500 -0500" air_time_end="20261121105600 -0500" start_utc="20261121140500 +0000" stop_utc="20261121155600 +0000" air_time_start_utc="20261121140500 +0000" air_time_end_utc="20261121155600 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">Monster Hunter: La Cacería Comienza</title>
+    <sub-title lang="es">Monster Hunter</sub-title>
+    <desc lang="es">Milla Jovovich protagoniza esta aventura fantástica basada en el exitoso videojuego de mismo nombre. La capitana Artemis (Jovovich) y su unidad deberán luchar contra enormes y aterradores monstruos cuando una inesperada tormenta los transporta a un mundo hostil y desconocido habitado por estas criaturas inmunes a casi todo tipo de armamento.</desc>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261121093400 -0300" stop="20261121123000 -0300" air_time_start="20261121093400 -0300" air_time_end="20261121123000 -0300" start_utc="20261121123400 +0000" stop_utc="20261121153000 +0000" air_time_start_utc="20261121123400 +0000" air_time_end_utc="20261121153000 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">TROYA</title>
+    <sub-title lang="es">TROY</sub-title>
+    <desc lang="es">Troya se convirtió en leyenda y los poemas homéricos se transformaron en historias que esta vez resurgen a través del cine. En la Grecia antigua, el amor prohibido entre el príncipe Paris y la bella Helena, esposa del rey Menelao, es la mecha de una guerra de odios que pondrá en peligro a toda una civilización. Mucho más que la excusa para la venganza, la unión de los amantes provocará la fuerza de las armas, con el único fin de destruir Troya. El director Wolfgang Petersen  desborda talento para redescubrir la guerra de Troya con todos sus matices.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Épica</category>
+  </programme>
+  <programme start="20261121100800 -0400" stop="20261121131600 -0400" air_time_start="20261121100800 -0400" air_time_end="20261121131600 -0400" start_utc="20261121140800 +0000" stop_utc="20261121171600 +0000" air_time_start_utc="20261121140800 +0000" air_time_end_utc="20261121171600 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">TROYA</title>
+    <sub-title lang="es">TROY</sub-title>
+    <desc lang="es">Troya se convirtió en leyenda y los poemas homéricos se transformaron en historias que esta vez resurgen a través del cine. En la Grecia antigua, el amor prohibido entre el príncipe Paris y la bella Helena, esposa del rey Menelao, es la mecha de una guerra de odios que pondrá en peligro a toda una civilización. Mucho más que la excusa para la venganza, la unión de los amantes provocará la fuerza de las armas, con el único fin de destruir Troya. El director Wolfgang Petersen  desborda talento para redescubrir la guerra de Troya con todos sus matices.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Épica</category>
+  </programme>
+  <programme start="20261121102500 -0500" stop="20261121133600 -0500" air_time_start="20261121102500 -0500" air_time_end="20261121133600 -0500" start_utc="20261121152500 +0000" stop_utc="20261121183600 +0000" air_time_start_utc="20261121152500 +0000" air_time_end_utc="20261121183600 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">TROYA</title>
+    <sub-title lang="es">TROY</sub-title>
+    <desc lang="es">Troya se convirtió en leyenda y los poemas homéricos se transformaron en historias que esta vez resurgen a través del cine. En la Grecia antigua, el amor prohibido entre el príncipe Paris y la bella Helena, esposa del rey Menelao, es la mecha de una guerra de odios que pondrá en peligro a toda una civilización. Mucho más que la excusa para la venganza, la unión de los amantes provocará la fuerza de las armas, con el único fin de destruir Troya. El director Wolfgang Petersen  desborda talento para redescubrir la guerra de Troya con todos sus matices.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Épica</category>
+  </programme>
+  <programme start="20261121104700 -0300" stop="20261121111600 -0300" air_time_start="20261121104700 -0300" air_time_end="20261121111600 -0300" start_utc="20261121134700 +0000" stop_utc="20261121141600 +0000" air_time_start_utc="20261121134700 +0000" air_time_end_utc="20261121141600 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">DE OLHO NA LIGA</title>
+    <desc lang="pt">O De Olho na Liga é um resumo do que aconteceu de mais importante na semana na Liga dos Campeões da Europa. São 30 minutos de revista eletrônica semanal que leva até você os bastidores dos grandes jogos, os personagens mais marcantes das partidas, a festa das torcidas e as histórias por trás dos momentos inesquecíveis da competição de clubes mais importante do mundo.</desc>
+    <category lang="pt">Esporte</category>
+    <episode-num system="xmltv_ns">.403.</episode-num>
+  </programme>
+  <programme start="20261121105600 -0500" stop="20261121135500 -0500" air_time_start="20261121105600 -0500" air_time_end="20261121135500 -0500" start_utc="20261121155600 +0000" stop_utc="20261121185500 +0000" air_time_start_utc="20261121155600 +0000" air_time_end_utc="20261121185500 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">TROYA</title>
+    <sub-title lang="es">TROY</sub-title>
+    <desc lang="es">Troya se convirtió en leyenda y los poemas homéricos se transformaron en historias que esta vez resurgen a través del cine. En la Grecia antigua, el amor prohibido entre el príncipe Paris y la bella Helena, esposa del rey Menelao, es la mecha de una guerra de odios que pondrá en peligro a toda una civilización. Mucho más que la excusa para la venganza, la unión de los amantes provocará la fuerza de las armas, con el único fin de destruir Troya. El director Wolfgang Petersen  desborda talento para redescubrir la guerra de Troya con todos sus matices.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Épica</category>
+  </programme>
+  <programme start="20261121110000 -0600" stop="20261121110500 -0600" air_time_start="20261121110000 -0600" air_time_end="20261121110500 -0600" start_utc="20261121170000 +0000" stop_utc="20261121170500 +0000" air_time_start_utc="20261121170000 +0000" air_time_end_utc="20261121170500 +0000" is_live="false" channel="TNT_MX.mx">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20261121110500 -0600" stop="20261121115000 -0600" air_time_start="20261121110500 -0600" air_time_end="20261121115000 -0600" start_utc="20261121170500 +0000" stop_utc="20261121175000 +0000" air_time_start_utc="20261121170500 +0000" air_time_end_utc="20261121175000 +0000" is_live="false" channel="TNT_MX.mx">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">-1.11.</episode-num>
+  </programme>
+  <programme start="20261121111600 -0300" stop="20261121114200 -0300" air_time_start="20261121111600 -0300" air_time_end="20261121114200 -0300" start_utc="20261121141600 +0000" stop_utc="20261121144200 +0000" air_time_start_utc="20261121141600 +0000" air_time_end_utc="20261121144200 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">Una noche en la ópera</sub-title>
+    <sub-title lang="en">A NIGHT AT THE OPRAH</sub-title>
+    <desc lang="pt">A família Banks é convidada a participar do programa da Oprah na TV, mas suas brigas pessoais causam alvoroço no estúdio.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/mgIkl298AxYES4m4agWwjG85XeH.jpg" />
+  </programme>
+  <programme start="20261121114200 -0300" stop="20261121120900 -0300" air_time_start="20261121114200 -0300" air_time_end="20261121120900 -0300" start_utc="20261121144200 +0000" stop_utc="20261121150900 +0000" air_time_start_utc="20261121144200 +0000" air_time_end_utc="20261121150900 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">Las elecciones</sub-title>
+    <sub-title lang="en">ASSES TO ASHES</sub-title>
+    <desc lang="pt">O senil e incompetente juiz Carl Robertson calunia Philip para vencê-lo na disputa por uma vaga no Tribunal Superior, mas morre durante a festa da vitória. Advinha quem é escolhido para prestar uma homenagem?</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/39bLD1H3r87Etd1VhbGXX14i6Sf.jpg" />
+  </programme>
+  <programme start="20261121115000 -0600" stop="20261121144200 -0600" air_time_start="20261121115000 -0600" air_time_end="20261121144200 -0600" start_utc="20261121175000 +0000" stop_utc="20261121204200 +0000" air_time_start_utc="20261121175000 +0000" air_time_end_utc="20261121204200 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">TROYA</title>
+    <sub-title lang="es">TROY</sub-title>
+    <desc lang="es">Troya se convirtió en leyenda y los poemas homéricos se transformaron en historias que esta vez resurgen a través del cine. En la Grecia antigua, el amor prohibido entre el príncipe Paris y la bella Helena, esposa del rey Menelao, es la mecha de una guerra de odios que pondrá en peligro a toda una civilización. Mucho más que la excusa para la venganza, la unión de los amantes provocará la fuerza de las armas, con el único fin de destruir Troya. El director Wolfgang Petersen  desborda talento para redescubrir la guerra de Troya con todos sus matices.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Épica</category>
+  </programme>
+  <programme start="20261121120900 -0300" stop="20261121123400 -0300" air_time_start="20261121120900 -0300" air_time_end="20261121123400 -0300" start_utc="20261121150900 +0000" stop_utc="20261121153400 +0000" air_time_start_utc="20261121150900 +0000" air_time_end_utc="20261121153400 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">Clubba Hubba</sub-title>
+    <desc lang="pt">Will quer sair com uma garota, mas antes precisa dar um jeito de impressionar o pai dela, esnobe e protetor.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/bM81YQfLo3XV4tUiAjNHWmKyanq.jpg" />
+  </programme>
+  <programme start="20261121123000 -0300" stop="20261121143000 -0300" air_time_start="20261121123000 -0300" air_time_end="20261121143000 -0300" start_utc="20261121153000 +0000" stop_utc="20261121173000 +0000" air_time_start_utc="20261121153000 +0000" air_time_end_utc="20261121173000 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">RÁPIDO Y FURIOSO</title>
+    <desc lang="es">"Vin Diesel (de ""Triple X"") es Dominic Toretto, el líder de una banda acusada de robar más de un millón de dólares en equipamientos electrónicos. Adicto a la adrenalina, él vive de convertir autos comunes en veloces automóviles de carrera. Con total dominio de las rutas de Los Angeles, nada parece detenerlo. Hasta que surge un nuevo rey de la velocidad: el policía encubierto Brian O'Conner, enviado por el FBI para infiltrarse en la banda y encontrar al responsable de los robos. Veloz y duro, Brian tiene experiencia y determinación suficientes para convertirse en el vencedor de las rutas. Y, ganándose la confianza de Dominic, tiene todo para solucionar el caso. Mientras tanto, los dos terminan volviéndose amigos y Brian se enamora de Mia, la hermana de Dominic."</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20261121123400 -0300" stop="20261121125900 -0300" air_time_start="20261121123400 -0300" air_time_end="20261121125900 -0300" start_utc="20261121153400 +0000" stop_utc="20261121155900 +0000" air_time_start_utc="20261121153400 +0000" air_time_end_utc="20261121155900 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">Algo divertido pasó de camino al foro</sub-title>
+    <sub-title lang="en">A FUNNY THING HAPPENED ON THE WAY FROM THE FORUM</sub-title>
+    <desc lang="pt">Will é convidado para um jogo de basquete com uma repórter grávida, Danny Mitchell (Vanessa Williams), que entra em trabalho de parto justo quando os dois ficam presos em um estacionamento lotado.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/j84QnUio5Tol42L5AWGe1x5QsL9.jpg" />
+  </programme>
+  <programme start="20261121125900 -0300" stop="20261121132200 -0300" air_time_start="20261121125900 -0300" air_time_end="20261121132200 -0300" start_utc="20261121155900 +0000" stop_utc="20261121162200 +0000" air_time_start_utc="20261121155900 +0000" air_time_end_utc="20261121162200 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">Todos Odian la Kwanzaa</sub-title>
+    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/v4qpiMMAfZPU0qAMgph1Uqno8Lz.jpg" />
+  </programme>
+  <programme start="20261121131600 -0400" stop="20261121152200 -0400" air_time_start="20261121131600 -0400" air_time_end="20261121152200 -0400" start_utc="20261121171600 +0000" stop_utc="20261121192200 +0000" air_time_start_utc="20261121171600 +0000" air_time_end_utc="20261121192200 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">RÁPIDO Y FURIOSO</title>
+    <desc lang="es">"Vin Diesel (de ""Triple X"") es Dominic Toretto, el líder de una banda acusada de robar más de un millón de dólares en equipamientos electrónicos. Adicto a la adrenalina, él vive de convertir autos comunes en veloces automóviles de carrera. Con total dominio de las rutas de Los Angeles, nada parece detenerlo. Hasta que surge un nuevo rey de la velocidad: el policía encubierto Brian O'Conner, enviado por el FBI para infiltrarse en la banda y encontrar al responsable de los robos. Veloz y duro, Brian tiene experiencia y determinación suficientes para convertirse en el vencedor de las rutas. Y, ganándose la confianza de Dominic, tiene todo para solucionar el caso. Mientras tanto, los dos terminan volviéndose amigos y Brian se enamora de Mia, la hermana de Dominic."</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20261121132200 -0300" stop="20261121134700 -0300" air_time_start="20261121132200 -0300" air_time_end="20261121134700 -0300" start_utc="20261121162200 +0000" stop_utc="20261121164700 +0000" air_time_start_utc="20261121162200 +0000" air_time_end_utc="20261121164700 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">Todos Odian Port Authority</sub-title>
+    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/vpTQe0NYNWiTvXZfUHkPiikOLzY.jpg" />
+  </programme>
+  <programme start="20261121133600 -0500" stop="20261121153300 -0500" air_time_start="20261121133600 -0500" air_time_end="20261121153300 -0500" start_utc="20261121183600 +0000" stop_utc="20261121203300 +0000" air_time_start_utc="20261121183600 +0000" air_time_end_utc="20261121203300 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">RÁPIDO Y FURIOSO</title>
+    <desc lang="es">"Vin Diesel (de ""Triple X"") es Dominic Toretto, el líder de una banda acusada de robar más de un millón de dólares en equipamientos electrónicos. Adicto a la adrenalina, él vive de convertir autos comunes en veloces automóviles de carrera. Con total dominio de las rutas de Los Angeles, nada parece detenerlo. Hasta que surge un nuevo rey de la velocidad: el policía encubierto Brian O'Conner, enviado por el FBI para infiltrarse en la banda y encontrar al responsable de los robos. Veloz y duro, Brian tiene experiencia y determinación suficientes para convertirse en el vencedor de las rutas. Y, ganándose la confianza de Dominic, tiene todo para solucionar el caso. Mientras tanto, los dos terminan volviéndose amigos y Brian se enamora de Mia, la hermana de Dominic."</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20261121134700 -0300" stop="20261121141100 -0300" air_time_start="20261121134700 -0300" air_time_end="20261121141100 -0300" start_utc="20261121164700 +0000" stop_utc="20261121171100 +0000" air_time_start_utc="20261121164700 +0000" air_time_end_utc="20261121171100 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">Todos Odian a los Chicos Malos</sub-title>
+    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/kqoEs8b91xyJLUTmjc3LwrQVW7l.jpg" />
+  </programme>
+  <programme start="20261121135500 -0500" stop="20261121155500 -0500" air_time_start="20261121135500 -0500" air_time_end="20261121155500 -0500" start_utc="20261121185500 +0000" stop_utc="20261121205500 +0000" air_time_start_utc="20261121185500 +0000" air_time_end_utc="20261121205500 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">RÁPIDO Y FURIOSO</title>
+    <desc lang="es">"Vin Diesel (de ""Triple X"") es Dominic Toretto, el líder de una banda acusada de robar más de un millón de dólares en equipamientos electrónicos. Adicto a la adrenalina, él vive de convertir autos comunes en veloces automóviles de carrera. Con total dominio de las rutas de Los Angeles, nada parece detenerlo. Hasta que surge un nuevo rey de la velocidad: el policía encubierto Brian O'Conner, enviado por el FBI para infiltrarse en la banda y encontrar al responsable de los robos. Veloz y duro, Brian tiene experiencia y determinación suficientes para convertirse en el vencedor de las rutas. Y, ganándose la confianza de Dominic, tiene todo para solucionar el caso. Mientras tanto, los dos terminan volviéndose amigos y Brian se enamora de Mia, la hermana de Dominic."</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20261121141100 -0300" stop="20261121143400 -0300" air_time_start="20261121141100 -0300" air_time_end="20261121143400 -0300" start_utc="20261121171100 +0000" stop_utc="20261121173400 +0000" air_time_start_utc="20261121171100 +0000" air_time_end_utc="20261121173400 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">Todos Odian el Primer Beso</sub-title>
+    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/A5jbYypOvTGVeEStfSFSksVWgBK.jpg" />
+  </programme>
+  <programme start="20261121143000 -0300" stop="20261121163300 -0300" air_time_start="20261121143000 -0300" air_time_end="20261121163300 -0300" start_utc="20261121173000 +0000" stop_utc="20261121193300 +0000" air_time_start_utc="20261121173000 +0000" air_time_end_utc="20261121193300 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">MÁS RÁPIDO MÁS FURIOSO</title>
+    <desc lang="es">"Paul Walker retorna en este film cargado de acción -secuela de ""Rápido y Furioso"". Brian OConner (Walker) ha abandonado Los Angeles luego de haber dejado escapar a su amigo y jefe de una banda criminal y ahora recorre a ritmo vertiginoso las calles de Miami ganando dinero en carreras callejeras ilegales. Seguido de cerca por la atenta mirada de la agente Monica Fuentes (Eva Mendes), Brian es detenido por la policía. El objetivo: ofrecerle un trato difícil de rechazar. Los federales le proponen actuar como agente encubierto para intentar atrapar al jefe del narcotráfico Carter Verone (Cole Hauser) a cambio de borrar sus antecedentes penales. Brian acepta con la condición de poder elegir a su compañero y regresa a su tierra natal, Barsto -Arizona-, donde recluta a su viejo amigo Roman Pearce (Tyrese) para que lo ayude. Pearce se le une a cambio de recibir el mismo trato que Brian. Con la ayuda de Monica, Brian y Rome trabajarán juntos para atrapar a Verone. "</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20261121143400 -0300" stop="20261121162800 -0300" air_time_start="20261121143400 -0300" air_time_end="20261121162800 -0300" start_utc="20261121173400 +0000" stop_utc="20261121192800 +0000" air_time_start_utc="20261121173400 +0000" air_time_end_utc="20261121192800 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">VELOZES E FURIOSOS</title>
+    <sub-title lang="pt">The Fast and the Furious</sub-title>
+    <desc lang="pt">"Vin Diesel (de ""Triplo X"") é Dominic Toretto, o líder de uma gangue acusado de roubar mais de um milhão de dólares em equipamentos eletrônicos. Viciado em adrenalina, ele vive de transformar carros comuns em possantes automóveis de corrida. Com o domínio sobre as ruas de Los Angeles, nada parece detê-lo. Até que surge um novo rei da velocidade - o policial disfarçado Brian O'Conner, que é enviado pelo FBI para infiltrar-se na gangue e encontrar o responsável pelos roubos. Veloz e durão, Brian tem experiência e determinação suficientes para se tornar o vencedor das ruas. E, ganhando a confiança de Dominic, tem tudo para solucionar o caso. No entanto, os dois acabam tornando-se amigos e Brian se apaixona pela irmã de Dominic, Mia."</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Crime</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20261121144200 -0600" stop="20261121164000 -0600" air_time_start="20261121144200 -0600" air_time_end="20261121164000 -0600" start_utc="20261121204200 +0000" stop_utc="20261121224000 +0000" air_time_start_utc="20261121204200 +0000" air_time_end_utc="20261121224000 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">RÁPIDO Y FURIOSO</title>
+    <desc lang="es">"Vin Diesel (de ""Triple X"") es Dominic Toretto, el líder de una banda acusada de robar más de un millón de dólares en equipamientos electrónicos. Adicto a la adrenalina, él vive de convertir autos comunes en veloces automóviles de carrera. Con total dominio de las rutas de Los Angeles, nada parece detenerlo. Hasta que surge un nuevo rey de la velocidad: el policía encubierto Brian O'Conner, enviado por el FBI para infiltrarse en la banda y encontrar al responsable de los robos. Veloz y duro, Brian tiene experiencia y determinación suficientes para convertirse en el vencedor de las rutas. Y, ganándose la confianza de Dominic, tiene todo para solucionar el caso. Mientras tanto, los dos terminan volviéndose amigos y Brian se enamora de Mia, la hermana de Dominic."</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20261121152200 -0400" stop="20261121173000 -0400" air_time_start="20261121152200 -0400" air_time_end="20261121173000 -0400" start_utc="20261121192200 +0000" stop_utc="20261121213000 +0000" air_time_start_utc="20261121192200 +0000" air_time_end_utc="20261121213000 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">MÁS RÁPIDO MÁS FURIOSO</title>
+    <desc lang="es">"Paul Walker retorna en este film cargado de acción -secuela de ""Rápido y Furioso"". Brian OConner (Walker) ha abandonado Los Angeles luego de haber dejado escapar a su amigo y jefe de una banda criminal y ahora recorre a ritmo vertiginoso las calles de Miami ganando dinero en carreras callejeras ilegales. Seguido de cerca por la atenta mirada de la agente Monica Fuentes (Eva Mendes), Brian es detenido por la policía. El objetivo: ofrecerle un trato difícil de rechazar. Los federales le proponen actuar como agente encubierto para intentar atrapar al jefe del narcotráfico Carter Verone (Cole Hauser) a cambio de borrar sus antecedentes penales. Brian acepta con la condición de poder elegir a su compañero y regresa a su tierra natal, Barsto -Arizona-, donde recluta a su viejo amigo Roman Pearce (Tyrese) para que lo ayude. Pearce se le une a cambio de recibir el mismo trato que Brian. Con la ayuda de Monica, Brian y Rome trabajarán juntos para atrapar a Verone. "</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20261121153300 -0500" stop="20261121174000 -0500" air_time_start="20261121153300 -0500" air_time_end="20261121174000 -0500" start_utc="20261121203300 +0000" stop_utc="20261121224000 +0000" air_time_start_utc="20261121203300 +0000" air_time_end_utc="20261121224000 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">MÁS RÁPIDO MÁS FURIOSO</title>
+    <desc lang="es">"Paul Walker retorna en este film cargado de acción -secuela de ""Rápido y Furioso"". Brian OConner (Walker) ha abandonado Los Angeles luego de haber dejado escapar a su amigo y jefe de una banda criminal y ahora recorre a ritmo vertiginoso las calles de Miami ganando dinero en carreras callejeras ilegales. Seguido de cerca por la atenta mirada de la agente Monica Fuentes (Eva Mendes), Brian es detenido por la policía. El objetivo: ofrecerle un trato difícil de rechazar. Los federales le proponen actuar como agente encubierto para intentar atrapar al jefe del narcotráfico Carter Verone (Cole Hauser) a cambio de borrar sus antecedentes penales. Brian acepta con la condición de poder elegir a su compañero y regresa a su tierra natal, Barsto -Arizona-, donde recluta a su viejo amigo Roman Pearce (Tyrese) para que lo ayude. Pearce se le une a cambio de recibir el mismo trato que Brian. Con la ayuda de Monica, Brian y Rome trabajarán juntos para atrapar a Verone. "</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20261121155500 -0500" stop="20261121175500 -0500" air_time_start="20261121155500 -0500" air_time_end="20261121175500 -0500" start_utc="20261121205500 +0000" stop_utc="20261121225500 +0000" air_time_start_utc="20261121205500 +0000" air_time_end_utc="20261121225500 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">MÁS RÁPIDO MÁS FURIOSO</title>
+    <desc lang="es">"Paul Walker retorna en este film cargado de acción -secuela de ""Rápido y Furioso"". Brian OConner (Walker) ha abandonado Los Angeles luego de haber dejado escapar a su amigo y jefe de una banda criminal y ahora recorre a ritmo vertiginoso las calles de Miami ganando dinero en carreras callejeras ilegales. Seguido de cerca por la atenta mirada de la agente Monica Fuentes (Eva Mendes), Brian es detenido por la policía. El objetivo: ofrecerle un trato difícil de rechazar. Los federales le proponen actuar como agente encubierto para intentar atrapar al jefe del narcotráfico Carter Verone (Cole Hauser) a cambio de borrar sus antecedentes penales. Brian acepta con la condición de poder elegir a su compañero y regresa a su tierra natal, Barsto -Arizona-, donde recluta a su viejo amigo Roman Pearce (Tyrese) para que lo ayude. Pearce se le une a cambio de recibir el mismo trato que Brian. Con la ayuda de Monica, Brian y Rome trabajarán juntos para atrapar a Verone. "</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20261121162800 -0300" stop="20261121182400 -0300" air_time_start="20261121162800 -0300" air_time_end="20261121182400 -0300" start_utc="20261121192800 +0000" stop_utc="20261121212400 +0000" air_time_start_utc="20261121192800 +0000" air_time_end_utc="20261121212400 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">+VELOZES +FURIOSOS</title>
+    <sub-title lang="pt">2 Fast 2 Furious</sub-title>
+    <desc lang="pt">Depois de ser processado por suas ações ilegais na primeira aventura, Brian O'Conner (Walker) agora vive no lado obscuro de Los Angeles ganhando alguns trocados em corridas de rua. Vigiado de perto pela agente Monica Fuentes (Eva Mendes), o ex-policial terá a chance de recuperar sua insígnia se ajudar a colocar atrás das grades Carter Verone (Cole Hauser), um poderoso empresário suspeito de lavagem de dinheiro. Brian aceita a missão com a condição de ele mesmo escolher seu parceiro: o ex-presidiário e amigo de infância Roman Pearce (Tyrese). Juntos, Brian, Monica e Roman terão que ser mais velozes e mais furiosos se quiserem alcançar o suspeito em questão.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20261121163300 -0300" stop="20261121183300 -0300" air_time_start="20261121163300 -0300" air_time_end="20261121183300 -0300" start_utc="20261121193300 +0000" stop_utc="20261121213300 +0000" air_time_start_utc="20261121193300 +0000" air_time_end_utc="20261121213300 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">RÁPIDO Y FURIOSO: TOKIO DRIFT</title>
+    <desc lang="es">Un nuevo estilo de carreras domina el submundo de Tokio mientras un joven que fue hallado culpable de participar en carreras callejeras intenta seguir con su vida en Japón. Pero al poco tiempo comienza a intentar hacerse un nombre en el circuito de carreras ilegales. La tercera entrega de esta exitosa serie de películas desborda de escenas de riesgo impresionantes y secuencias de carreras llenas de adrenalina.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261121164000 -0600" stop="20261121184300 -0600" air_time_start="20261121164000 -0600" air_time_end="20261121184300 -0600" start_utc="20261121224000 +0000" stop_utc="20261122004300 +0000" air_time_start_utc="20261121224000 +0000" air_time_end_utc="20261122004300 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">MÁS RÁPIDO MÁS FURIOSO</title>
+    <desc lang="es">"Paul Walker retorna en este film cargado de acción -secuela de ""Rápido y Furioso"". Brian OConner (Walker) ha abandonado Los Angeles luego de haber dejado escapar a su amigo y jefe de una banda criminal y ahora recorre a ritmo vertiginoso las calles de Miami ganando dinero en carreras callejeras ilegales. Seguido de cerca por la atenta mirada de la agente Monica Fuentes (Eva Mendes), Brian es detenido por la policía. El objetivo: ofrecerle un trato difícil de rechazar. Los federales le proponen actuar como agente encubierto para intentar atrapar al jefe del narcotráfico Carter Verone (Cole Hauser) a cambio de borrar sus antecedentes penales. Brian acepta con la condición de poder elegir a su compañero y regresa a su tierra natal, Barsto -Arizona-, donde recluta a su viejo amigo Roman Pearce (Tyrese) para que lo ayude. Pearce se le une a cambio de recibir el mismo trato que Brian. Con la ayuda de Monica, Brian y Rome trabajarán juntos para atrapar a Verone. "</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20261121173000 -0400" stop="20261121194200 -0400" air_time_start="20261121173000 -0400" air_time_end="20261121194200 -0400" start_utc="20261121213000 +0000" stop_utc="20261121234200 +0000" air_time_start_utc="20261121213000 +0000" air_time_end_utc="20261121234200 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">RÁPIDO Y FURIOSO: TOKIO DRIFT</title>
+    <desc lang="es">Un nuevo estilo de carreras domina el submundo de Tokio mientras un joven que fue hallado culpable de participar en carreras callejeras intenta seguir con su vida en Japón. Pero al poco tiempo comienza a intentar hacerse un nombre en el circuito de carreras ilegales. La tercera entrega de esta exitosa serie de películas desborda de escenas de riesgo impresionantes y secuencias de carreras llenas de adrenalina.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261121174000 -0500" stop="20261121194500 -0500" air_time_start="20261121174000 -0500" air_time_end="20261121194500 -0500" start_utc="20261121224000 +0000" stop_utc="20261122004500 +0000" air_time_start_utc="20261121224000 +0000" air_time_end_utc="20261122004500 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">RÁPIDO Y FURIOSO: TOKIO DRIFT</title>
+    <desc lang="es">Un nuevo estilo de carreras domina el submundo de Tokio mientras un joven que fue hallado culpable de participar en carreras callejeras intenta seguir con su vida en Japón. Pero al poco tiempo comienza a intentar hacerse un nombre en el circuito de carreras ilegales. La tercera entrega de esta exitosa serie de películas desborda de escenas de riesgo impresionantes y secuencias de carreras llenas de adrenalina.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261121175500 -0500" stop="20261121195400 -0500" air_time_start="20261121175500 -0500" air_time_end="20261121195400 -0500" start_utc="20261121225500 +0000" stop_utc="20261122005400 +0000" air_time_start_utc="20261121225500 +0000" air_time_end_utc="20261122005400 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">RÁPIDO Y FURIOSO: TOKIO DRIFT</title>
+    <desc lang="es">Un nuevo estilo de carreras domina el submundo de Tokio mientras un joven que fue hallado culpable de participar en carreras callejeras intenta seguir con su vida en Japón. Pero al poco tiempo comienza a intentar hacerse un nombre en el circuito de carreras ilegales. La tercera entrega de esta exitosa serie de películas desborda de escenas de riesgo impresionantes y secuencias de carreras llenas de adrenalina.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261121182400 -0300" stop="20261121201000 -0300" air_time_start="20261121182400 -0300" air_time_end="20261121201000 -0300" start_utc="20261121212400 +0000" stop_utc="20261121231000 +0000" air_time_start_utc="20261121212400 +0000" air_time_end_utc="20261121231000 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">VELOZES E FURIOSOS: DESAFIO EM TÓQUIO</title>
+    <sub-title lang="pt">The Fast and the Furious: Tokyo Drift</sub-title>
+    <desc lang="pt">Enquanto um novo estilo de corrida domina o submundo de Tóquio, um corredor de rua sentenciado tenta retomar sua vida no Japão. Mas ele logo estará envolvido no circuito ilegal de corridas, em busca da vitória. O terceiro filme da franquia Velozes e Furiosos é repleto de manobras alucinantes e sequências de corrida cheias de adrenalina.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Policial</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20261121183300 -0300" stop="20261121203700 -0300" air_time_start="20261121183300 -0300" air_time_end="20261121203700 -0300" start_utc="20261121213300 +0000" stop_utc="20261121233700 +0000" air_time_start_utc="20261121213300 +0000" air_time_end_utc="20261121233700 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">RÁPIDOS Y FURIOSOS</title>
+    <desc lang="es">En la cuarta entrega de esta franquicia explosiva, famosa por la combinación de autos veloces, mujeres hermosas y persecuciones frenéticas, el fugitivo Dominic Toretto (Vin Diesel) regresa a las calles de Los Ángeles, esta vez para encontrar al culpable de un asesinato misterioso. Al mismo tiempo, el agente Brian O'Conner (Paul Walker), quien ahora trabaja para el FBI, tiene la misión de localizar a un poderoso narcotraficante. El destino volverá a reunir a estos dos hombres que alguna vez fueron rivales pero que ahora deberán unir sus fuerzas para hacer lo que mejor saben hacer al volante para deshacerse de sus enemigos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261121184300 -0600" stop="20261121203900 -0600" air_time_start="20261121184300 -0600" air_time_end="20261121203900 -0600" start_utc="20261122004300 +0000" stop_utc="20261122023900 +0000" air_time_start_utc="20261122004300 +0000" air_time_end_utc="20261122023900 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">RÁPIDO Y FURIOSO: TOKIO DRIFT</title>
+    <desc lang="es">Un nuevo estilo de carreras domina el submundo de Tokio mientras un joven que fue hallado culpable de participar en carreras callejeras intenta seguir con su vida en Japón. Pero al poco tiempo comienza a intentar hacerse un nombre en el circuito de carreras ilegales. La tercera entrega de esta exitosa serie de películas desborda de escenas de riesgo impresionantes y secuencias de carreras llenas de adrenalina.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261121194200 -0400" stop="20261121220000 -0400" air_time_start="20261121194200 -0400" air_time_end="20261121220000 -0400" start_utc="20261121234200 +0000" stop_utc="20261122020000 +0000" air_time_start_utc="20261121234200 +0000" air_time_end_utc="20261122020000 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">RÁPIDOS Y FURIOSOS</title>
+    <desc lang="es">En la cuarta entrega de esta franquicia explosiva, famosa por la combinación de autos veloces, mujeres hermosas y persecuciones frenéticas, el fugitivo Dominic Toretto (Vin Diesel) regresa a las calles de Los Ángeles, esta vez para encontrar al culpable de un asesinato misterioso. Al mismo tiempo, el agente Brian O'Conner (Paul Walker), quien ahora trabaja para el FBI, tiene la misión de localizar a un poderoso narcotraficante. El destino volverá a reunir a estos dos hombres que alguna vez fueron rivales pero que ahora deberán unir sus fuerzas para hacer lo que mejor saben hacer al volante para deshacerse de sus enemigos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261121194500 -0500" stop="20261121220000 -0500" air_time_start="20261121194500 -0500" air_time_end="20261121220000 -0500" start_utc="20261122004500 +0000" stop_utc="20261122030000 +0000" air_time_start_utc="20261122004500 +0000" air_time_end_utc="20261122030000 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">RÁPIDOS Y FURIOSOS</title>
+    <desc lang="es">En la cuarta entrega de esta franquicia explosiva, famosa por la combinación de autos veloces, mujeres hermosas y persecuciones frenéticas, el fugitivo Dominic Toretto (Vin Diesel) regresa a las calles de Los Ángeles, esta vez para encontrar al culpable de un asesinato misterioso. Al mismo tiempo, el agente Brian O'Conner (Paul Walker), quien ahora trabaja para el FBI, tiene la misión de localizar a un poderoso narcotraficante. El destino volverá a reunir a estos dos hombres que alguna vez fueron rivales pero que ahora deberán unir sus fuerzas para hacer lo que mejor saben hacer al volante para deshacerse de sus enemigos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261121195400 -0500" stop="20261121220000 -0500" air_time_start="20261121195400 -0500" air_time_end="20261121220000 -0500" start_utc="20261122005400 +0000" stop_utc="20261122030000 +0000" air_time_start_utc="20261122005400 +0000" air_time_end_utc="20261122030000 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">RÁPIDOS Y FURIOSOS</title>
+    <desc lang="es">En la cuarta entrega de esta franquicia explosiva, famosa por la combinación de autos veloces, mujeres hermosas y persecuciones frenéticas, el fugitivo Dominic Toretto (Vin Diesel) regresa a las calles de Los Ángeles, esta vez para encontrar al culpable de un asesinato misterioso. Al mismo tiempo, el agente Brian O'Conner (Paul Walker), quien ahora trabaja para el FBI, tiene la misión de localizar a un poderoso narcotraficante. El destino volverá a reunir a estos dos hombres que alguna vez fueron rivales pero que ahora deberán unir sus fuerzas para hacer lo que mejor saben hacer al volante para deshacerse de sus enemigos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261121201000 -0300" stop="20261121220000 -0300" air_time_start="20261121201000 -0300" air_time_end="20261121220000 -0300" start_utc="20261121231000 +0000" stop_utc="20261122010000 +0000" air_time_start_utc="20261121231000 +0000" air_time_end_utc="20261122010000 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">VELOZES E FURIOSOS 4</title>
+    <sub-title lang="pt">Fast &amp; Furious</sub-title>
+    <desc lang="pt">Depois de ser visto viajando pelo México, Dominic "Dom" Toretto reaparece na República Dominicana novamente praticando golpes com seus carros super potentes ao lado sua inseparável namorada Letty e sua gangue. Com o FBI na sua cola, Dom decide fugir para não comprometer seus comparsas. Contudo, um assassinato cometido por um traficante de drogas acende nele uma sede de vingança que o faz cruzar novamente com o agente Brian O'Conner numa perigosa missão.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Policial</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20261121203700 -0300" stop="20261121220000 -0300" air_time_start="20261121203700 -0300" air_time_end="20261121220000 -0300" start_utc="20261121233700 +0000" stop_utc="20261122010000 +0000" air_time_start_utc="20261121233700 +0000" air_time_end_utc="20261122010000 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">MASTERCHEF JUNIOR</title>
+    <desc lang="es">MasterChef Junior regresa con una nueva edición conducida por Verónica Lozano. Doce chicos y chicas de entre 8 y 13 años pondrán a prueba su talento culinario en una competencia llena de desafíos, creatividad y aprendizaje, bajo la mirada del jurado integrado por Germán Martitegui, Maru Botana e Ian Lucas.</desc>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">-1.5.</episode-num>
+  </programme>
+  <programme start="20261121203900 -0600" stop="20261121223800 -0600" air_time_start="20261121203900 -0600" air_time_end="20261121223800 -0600" start_utc="20261122023900 +0000" stop_utc="20261122043800 +0000" air_time_start_utc="20261122023900 +0000" air_time_end_utc="20261122043800 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">RÁPIDOS Y FURIOSOS</title>
+    <desc lang="es">En la cuarta entrega de esta franquicia explosiva, famosa por la combinación de autos veloces, mujeres hermosas y persecuciones frenéticas, el fugitivo Dominic Toretto (Vin Diesel) regresa a las calles de Los Ángeles, esta vez para encontrar al culpable de un asesinato misterioso. Al mismo tiempo, el agente Brian O'Conner (Paul Walker), quien ahora trabaja para el FBI, tiene la misión de localizar a un poderoso narcotraficante. El destino volverá a reunir a estos dos hombres que alguna vez fueron rivales pero que ahora deberán unir sus fuerzas para hacer lo que mejor saben hacer al volante para deshacerse de sus enemigos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261121220000 -0300" stop="20261122001100 -0300" air_time_start="20261121220000 -0300" air_time_end="20261122001100 -0300" start_utc="20261122010000 +0000" stop_utc="20261122031100 +0000" air_time_start_utc="20261122010000 +0000" air_time_end_utc="20261122031100 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">VELOZES &amp; FURIOSOS 5: OPERAÇÃO RIO</title>
+    <desc lang="pt">Dominic e Brian continuam fugindo da polícia e agora se escondem no Rio de Janeiro. Desta vez, os super pilotos organizam uma corrida que estimula uma aliança improvável entre policiais e corredores no Rio de Janeiro - onde eles deverão enfrentar um empresário corrupto que deseja ver todos mortos.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Crime</category>
+    <category lang="pt">Policial</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20261121220000 -0300" stop="20261122002600 -0300" air_time_start="20261121220000 -0300" air_time_end="20261122002600 -0300" start_utc="20261122010000 +0000" stop_utc="20261122032600 +0000" air_time_start_utc="20261122010000 +0000" air_time_end_utc="20261122032600 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">RÁPIDOS Y FURIOSOS 5IN CONTROL</title>
+    <desc lang="es">En Rápidos y Furiosos 5in Control, Vin Diesel y Paul Walker comandan una reunión de estrellas de todos los capítulos de la franquicia explosiva sobre velocidad. Esta vez, Jordana Brewster, Chris Ludacris Bridges y Tyrese Gibson organizan una carrera que estimula una alianza improbable entre policías y pilotos en Río de Janeiro -donde deberán enfrentar a un empresario corrupto que quiere verlos a todos muertos. Dwayne Johnson se une al elenco en el papel de un agente federal obstinado cuyo equipo recorre Brasil y que pronto tendrá dificultades en diferenciar a los buenos de los malos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261121220000 -0400" stop="20261122004200 -0400" air_time_start="20261121220000 -0400" air_time_end="20261122004200 -0400" start_utc="20261122020000 +0000" stop_utc="20261122044200 +0000" air_time_start_utc="20261122020000 +0000" air_time_end_utc="20261122044200 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">RÁPIDOS Y FURIOSOS 5IN CONTROL</title>
+    <desc lang="es">En Rápidos y Furiosos 5in Control, Vin Diesel y Paul Walker comandan una reunión de estrellas de todos los capítulos de la franquicia explosiva sobre velocidad. Esta vez, Jordana Brewster, Chris Ludacris Bridges y Tyrese Gibson organizan una carrera que estimula una alianza improbable entre policías y pilotos en Río de Janeiro -donde deberán enfrentar a un empresario corrupto que quiere verlos a todos muertos. Dwayne Johnson se une al elenco en el papel de un agente federal obstinado cuyo equipo recorre Brasil y que pronto tendrá dificultades en diferenciar a los buenos de los malos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261121220000 -0500" stop="20261122004000 -0500" air_time_start="20261121220000 -0500" air_time_end="20261122004000 -0500" start_utc="20261122030000 +0000" stop_utc="20261122054000 +0000" air_time_start_utc="20261122030000 +0000" air_time_end_utc="20261122054000 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">RÁPIDOS Y FURIOSOS 5IN CONTROL</title>
+    <desc lang="es">En Rápidos y Furiosos 5in Control, Vin Diesel y Paul Walker comandan una reunión de estrellas de todos los capítulos de la franquicia explosiva sobre velocidad. Esta vez, Jordana Brewster, Chris Ludacris Bridges y Tyrese Gibson organizan una carrera que estimula una alianza improbable entre policías y pilotos en Río de Janeiro -donde deberán enfrentar a un empresario corrupto que quiere verlos a todos muertos. Dwayne Johnson se une al elenco en el papel de un agente federal obstinado cuyo equipo recorre Brasil y que pronto tendrá dificultades en diferenciar a los buenos de los malos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261121220000 -0500" stop="20261122003000 -0500" air_time_start="20261121220000 -0500" air_time_end="20261122003000 -0500" start_utc="20261122030000 +0000" stop_utc="20261122053000 +0000" air_time_start_utc="20261122030000 +0000" air_time_end_utc="20261122053000 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">RÁPIDOS Y FURIOSOS 5IN CONTROL</title>
+    <desc lang="es">En Rápidos y Furiosos 5in Control, Vin Diesel y Paul Walker comandan una reunión de estrellas de todos los capítulos de la franquicia explosiva sobre velocidad. Esta vez, Jordana Brewster, Chris Ludacris Bridges y Tyrese Gibson organizan una carrera que estimula una alianza improbable entre policías y pilotos en Río de Janeiro -donde deberán enfrentar a un empresario corrupto que quiere verlos a todos muertos. Dwayne Johnson se une al elenco en el papel de un agente federal obstinado cuyo equipo recorre Brasil y que pronto tendrá dificultades en diferenciar a los buenos de los malos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261121223800 -0600" stop="20261122010200 -0600" air_time_start="20261121223800 -0600" air_time_end="20261122010200 -0600" start_utc="20261122043800 +0000" stop_utc="20261122070200 +0000" air_time_start_utc="20261122043800 +0000" air_time_end_utc="20261122070200 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">RÁPIDOS Y FURIOSOS 5IN CONTROL</title>
+    <desc lang="es">En Rápidos y Furiosos 5in Control, Vin Diesel y Paul Walker comandan una reunión de estrellas de todos los capítulos de la franquicia explosiva sobre velocidad. Esta vez, Jordana Brewster, Chris Ludacris Bridges y Tyrese Gibson organizan una carrera que estimula una alianza improbable entre policías y pilotos en Río de Janeiro -donde deberán enfrentar a un empresario corrupto que quiere verlos a todos muertos. Dwayne Johnson se une al elenco en el papel de un agente federal obstinado cuyo equipo recorre Brasil y que pronto tendrá dificultades en diferenciar a los buenos de los malos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261122001100 -0300" stop="20261122024800 -0300" air_time_start="20261122001100 -0300" air_time_end="20261122024800 -0300" start_utc="20261122031100 +0000" stop_utc="20261122054800 +0000" air_time_start_utc="20261122031100 +0000" air_time_end_utc="20261122054800 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TRÓIA</title>
+    <sub-title lang="pt">Troy</sub-title>
+    <desc lang="pt">Inspirado no poema A Ilíada, de Homero, este drama épico narra uma batalha sangrenta que durou mais de uma década e teve início quando o príncipe Paris (Orlando Bloom), de Tróia, roubou Helena (Diane Kruger), a rainha de Esparta, de seu marido, Menelaus. Inconformado, o rei pede ajuda ao seu irmão, o ambicioso Agamemnon, que vê em um combate contra Tróia a oportunidade de expandir seu império. Caberá a Hector, o filho mais velho do rei Priam (Peter OToole), de Tróia, derrotar o até então invencível guerreiro Aquiles (Brad Pitt), que luta a favor dos invasores gregos. O diretor Wolfgang Petersen recria a história com poderosos exércitos e navios de guerra, além do mítico Cavalo de Tróia, que define o desfecho do combate.</desc>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Épico</category>
+  </programme>
+  <programme start="20261122002600 -0300" stop="20261122023500 -0300" air_time_start="20261122002600 -0300" air_time_end="20261122023500 -0300" start_utc="20261122032600 +0000" stop_utc="20261122053500 +0000" air_time_start_utc="20261122032600 +0000" air_time_end_utc="20261122053500 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">VIRGEN A LOS 40</title>
+    <desc lang="es">Andy (Steve Carell) tiene 40 años y un pequeño secreto que revela a sus compañeros de trabajo durante un juego de póker: es virgen. Ellos quieren ayudarlo, al tiempo que Andy conoce a Trish (Catherine Keener), una divorciada madre de tres chicos, con quien comienza una relación sin sexo, de mutuo acuerdo ... la pregunta es ¿podrán mantenerlo?</desc>
+    <category lang="es">Comedia</category>
+    <category lang="es">Romance</category>
+  </programme>
+  <programme start="20261122003000 -0500" stop="20261122023400 -0500" air_time_start="20261122003000 -0500" air_time_end="20261122023400 -0500" start_utc="20261122053000 +0000" stop_utc="20261122073400 +0000" air_time_start_utc="20261122053000 +0000" air_time_end_utc="20261122073400 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">VIRGEN A LOS 40</title>
+    <desc lang="es">Andy (Steve Carell) tiene 40 años y un pequeño secreto que revela a sus compañeros de trabajo durante un juego de póker: es virgen. Ellos quieren ayudarlo, al tiempo que Andy conoce a Trish (Catherine Keener), una divorciada madre de tres chicos, con quien comienza una relación sin sexo, de mutuo acuerdo ... la pregunta es ¿podrán mantenerlo?</desc>
+    <category lang="es">Comedia</category>
+    <category lang="es">Romance</category>
+  </programme>
+  <programme start="20261122004000 -0500" stop="20261122024300 -0500" air_time_start="20261122004000 -0500" air_time_end="20261122024300 -0500" start_utc="20261122054000 +0000" stop_utc="20261122074300 +0000" air_time_start_utc="20261122054000 +0000" air_time_end_utc="20261122074300 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">VIRGEN A LOS 40</title>
+    <desc lang="es">Andy (Steve Carell) tiene 40 años y un pequeño secreto que revela a sus compañeros de trabajo durante un juego de póker: es virgen. Ellos quieren ayudarlo, al tiempo que Andy conoce a Trish (Catherine Keener), una divorciada madre de tres chicos, con quien comienza una relación sin sexo, de mutuo acuerdo ... la pregunta es ¿podrán mantenerlo?</desc>
+    <category lang="es">Comedia</category>
+    <category lang="es">Romance</category>
+  </programme>
+  <programme start="20261122004200 -0400" stop="20261122025000 -0400" air_time_start="20261122004200 -0400" air_time_end="20261122025000 -0400" start_utc="20261122044200 +0000" stop_utc="20261122065000 +0000" air_time_start_utc="20261122044200 +0000" air_time_end_utc="20261122065000 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">VIRGEN A LOS 40</title>
+    <desc lang="es">Andy (Steve Carell) tiene 40 años y un pequeño secreto que revela a sus compañeros de trabajo durante un juego de póker: es virgen. Ellos quieren ayudarlo, al tiempo que Andy conoce a Trish (Catherine Keener), una divorciada madre de tres chicos, con quien comienza una relación sin sexo, de mutuo acuerdo ... la pregunta es ¿podrán mantenerlo?</desc>
+    <category lang="es">Comedia</category>
+    <category lang="es">Romance</category>
+  </programme>
+  <programme start="20261122010200 -0600" stop="20261122030900 -0600" air_time_start="20261122010200 -0600" air_time_end="20261122030900 -0600" start_utc="20261122070200 +0000" stop_utc="20261122090900 +0000" air_time_start_utc="20261122070200 +0000" air_time_end_utc="20261122090900 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">VIRGEN A LOS 40</title>
+    <desc lang="es">Andy (Steve Carell) tiene 40 años y un pequeño secreto que revela a sus compañeros de trabajo durante un juego de póker: es virgen. Ellos quieren ayudarlo, al tiempo que Andy conoce a Trish (Catherine Keener), una divorciada madre de tres chicos, con quien comienza una relación sin sexo, de mutuo acuerdo ... la pregunta es ¿podrán mantenerlo?</desc>
+    <category lang="es">Comedia</category>
+    <category lang="es">Romance</category>
+  </programme>
+  <programme start="20261122023400 -0500" stop="20261122042100 -0500" air_time_start="20261122023400 -0500" air_time_end="20261122042100 -0500" start_utc="20261122073400 +0000" stop_utc="20261122092100 +0000" air_time_start_utc="20261122073400 +0000" air_time_end_utc="20261122092100 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">EL PROTECTOR</title>
+    <sub-title lang="es">MARKSMAN, THE</sub-title>
+    <desc lang="es">Jim (Liam Neeson) es un ranchero de Arizona que se envuelve en una peligrosa batalla para proteger a un niño mexicano de un cartel.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261122023500 -0300" stop="20261122050900 -0300" air_time_start="20261122023500 -0300" air_time_end="20261122050900 -0300" start_utc="20261122053500 +0000" stop_utc="20261122080900 +0000" air_time_start_utc="20261122053500 +0000" air_time_end_utc="20261122080900 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">BASTARDOS SIN GLORIA</title>
+    <desc lang="es">En este drama bélico dirigido por Quentin Tarantino y nominado a ocho premios de la Academia,incluyendo Mejor película, Brad Pitt interpreta al despiadado líder de un grupo guerrillero judeo-norteamericano que planea poner en práctica una gran ejecución nazi durante un ilustre estreno cinematográfico en París. En cine es administrado por la joven refugiada judía Shosanna Dreyfus, que presenció el asesinato de su familia años antes y que ahora tiene sus propios planes para los nazis. A medida que los brutales soldados avanzan y los planes de la joven son puestos en práctica, sus caminos se cruzan en una noche decisiva que sacudirá la historia.</desc>
+    <category lang="es">Bélica</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261122024300 -0500" stop="20261122052000 -0500" air_time_start="20261122024300 -0500" air_time_end="20261122052000 -0500" start_utc="20261122074300 +0000" stop_utc="20261122102000 +0000" air_time_start_utc="20261122074300 +0000" air_time_end_utc="20261122102000 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">BASTARDOS SIN GLORIA</title>
+    <desc lang="es">En este drama bélico dirigido por Quentin Tarantino y nominado a ocho premios de la Academia,incluyendo Mejor película, Brad Pitt interpreta al despiadado líder de un grupo guerrillero judeo-norteamericano que planea poner en práctica una gran ejecución nazi durante un ilustre estreno cinematográfico en París. En cine es administrado por la joven refugiada judía Shosanna Dreyfus, que presenció el asesinato de su familia años antes y que ahora tiene sus propios planes para los nazis. A medida que los brutales soldados avanzan y los planes de la joven son puestos en práctica, sus caminos se cruzan en una noche decisiva que sacudirá la historia.</desc>
+    <category lang="es">Bélica</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261122024800 -0300" stop="20261122044200 -0300" air_time_start="20261122024800 -0300" air_time_end="20261122044200 -0300" start_utc="20261122054800 +0000" stop_utc="20261122074200 +0000" air_time_start_utc="20261122054800 +0000" air_time_end_utc="20261122074200 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">O VIRGEM DE 40 ANOS</title>
+    <sub-title lang="pt">The 40 Year-Old Virgin</sub-title>
+    <desc lang="pt">A estréia do produtor Judd Apatow na direção aconteceu com esta história hilária de um homem de 40 anos (Steve Carell) que adora colecionar gibis e bonecos de ação, e vive feliz com seu trabalho em uma loja de eletrônicos. Até aí, nada demais. O problema é que... ele ainda é virgem! Quando seus amigos descobrem o segredo, começam a armar mil planos para que tenha sua primeira noite de amor. Até que ele conhece Trish (Catherine Keener), uma mãe solteira por quem se apaixona perdidamente, mas que parece não estar pronta para consumar a relação.</desc>
+    <category lang="pt">Comédia</category>
+    <category lang="pt">Romance</category>
+  </programme>
+  <programme start="20261122025000 -0400" stop="20261122053000 -0400" air_time_start="20261122025000 -0400" air_time_end="20261122053000 -0400" start_utc="20261122065000 +0000" stop_utc="20261122093000 +0000" air_time_start_utc="20261122065000 +0000" air_time_end_utc="20261122093000 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">BASTARDOS SIN GLORIA</title>
+    <desc lang="es">En este drama bélico dirigido por Quentin Tarantino y nominado a ocho premios de la Academia,incluyendo Mejor película, Brad Pitt interpreta al despiadado líder de un grupo guerrillero judeo-norteamericano que planea poner en práctica una gran ejecución nazi durante un ilustre estreno cinematográfico en París. En cine es administrado por la joven refugiada judía Shosanna Dreyfus, que presenció el asesinato de su familia años antes y que ahora tiene sus propios planes para los nazis. A medida que los brutales soldados avanzan y los planes de la joven son puestos en práctica, sus caminos se cruzan en una noche decisiva que sacudirá la historia.</desc>
+    <category lang="es">Bélica</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261122030900 -0600" stop="20261122054800 -0600" air_time_start="20261122030900 -0600" air_time_end="20261122054800 -0600" start_utc="20261122090900 +0000" stop_utc="20261122114800 +0000" air_time_start_utc="20261122090900 +0000" air_time_end_utc="20261122114800 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">BASTARDOS SIN GLORIA</title>
+    <desc lang="es">En este drama bélico dirigido por Quentin Tarantino y nominado a ocho premios de la Academia,incluyendo Mejor película, Brad Pitt interpreta al despiadado líder de un grupo guerrillero judeo-norteamericano que planea poner en práctica una gran ejecución nazi durante un ilustre estreno cinematográfico en París. En cine es administrado por la joven refugiada judía Shosanna Dreyfus, que presenció el asesinato de su familia años antes y que ahora tiene sus propios planes para los nazis. A medida que los brutales soldados avanzan y los planes de la joven son puestos en práctica, sus caminos se cruzan en una noche decisiva que sacudirá la historia.</desc>
+    <category lang="es">Bélica</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261122042100 -0500" stop="20261122054900 -0500" air_time_start="20261122042100 -0500" air_time_end="20261122054900 -0500" start_utc="20261122092100 +0000" stop_utc="20261122104900 +0000" air_time_start_utc="20261122092100 +0000" air_time_end_utc="20261122104900 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">Rendirse Jamás 4: La Revuelta</title>
+    <sub-title lang="es">Never Back Down: Revolt</sub-title>
+    <desc lang="es">Después de ser coaccionada por una organización criminal, una luchadora amateur debe competir en un ring de peleas ilegales o morir.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+  </programme>
+  <programme start="20261122044200 -0300" stop="20261122051700 -0300" air_time_start="20261122044200 -0300" air_time_end="20261122051700 -0300" start_utc="20261122074200 +0000" stop_utc="20261122081700 +0000" air_time_start_utc="20261122074200 +0000" air_time_end_utc="20261122081700 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="pt">Variedades</category>
+    <episode-num system="xmltv_ns">-1.16.</episode-num>
+  </programme>
+  <programme start="20261122050900 -0300" stop="20261122054600 -0300" air_time_start="20261122050900 -0300" air_time_end="20261122054600 -0300" start_utc="20261122080900 +0000" stop_utc="20261122084600 +0000" air_time_start_utc="20261122080900 +0000" air_time_end_utc="20261122084600 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.16.</episode-num>
+  </programme>
+  <programme start="20261122051700 -0300" stop="20261122055100 -0300" air_time_start="20261122051700 -0300" air_time_end="20261122055100 -0300" start_utc="20261122081700 +0000" stop_utc="20261122085100 +0000" air_time_start_utc="20261122081700 +0000" air_time_end_utc="20261122085100 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="pt">Variedades</category>
+    <episode-num system="xmltv_ns">-1.17.</episode-num>
+  </programme>
+  <programme start="20261122052000 -0500" stop="20261122060000 -0500" air_time_start="20261122052000 -0500" air_time_end="20261122060000 -0500" start_utc="20261122102000 +0000" stop_utc="20261122110000 +0000" air_time_start_utc="20261122102000 +0000" air_time_end_utc="20261122110000 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.20.</episode-num>
+  </programme>
+  <programme start="20261122053000 -0400" stop="20261122054200 -0400" air_time_start="20261122053000 -0400" air_time_end="20261122054200 -0400" start_utc="20261122093000 +0000" stop_utc="20261122094200 +0000" air_time_start_utc="20261122093000 +0000" air_time_end_utc="20261122094200 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.53.</episode-num>
+  </programme>
+  <programme start="20261122054200 -0400" stop="20261122055200 -0400" air_time_start="20261122054200 -0400" air_time_end="20261122055200 -0400" start_utc="20261122094200 +0000" stop_utc="20261122095200 +0000" air_time_start_utc="20261122094200 +0000" air_time_end_utc="20261122095200 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.50.</episode-num>
+  </programme>
+  <programme start="20261122054600 -0300" stop="20261122060000 -0300" air_time_start="20261122054600 -0300" air_time_end="20261122060000 -0300" start_utc="20261122084600 +0000" stop_utc="20261122090000 +0000" air_time_start_utc="20261122084600 +0000" air_time_end_utc="20261122090000 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.50.</episode-num>
+  </programme>
+  <programme start="20261122054800 -0600" stop="20261122055600 -0600" air_time_start="20261122054800 -0600" air_time_end="20261122055600 -0600" start_utc="20261122114800 +0000" stop_utc="20261122115600 +0000" air_time_start_utc="20261122114800 +0000" air_time_end_utc="20261122115600 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.52.</episode-num>
+  </programme>
+  <programme start="20261122054900 -0500" stop="20261122060000 -0500" air_time_start="20261122054900 -0500" air_time_end="20261122060000 -0500" start_utc="20261122104900 +0000" stop_utc="20261122110000 +0000" air_time_start_utc="20261122104900 +0000" air_time_end_utc="20261122110000 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.52.</episode-num>
+  </programme>
+  <programme start="20261122055100 -0300" stop="20261122055400 -0300" air_time_start="20261122055100 -0300" air_time_end="20261122055400 -0300" start_utc="20261122085100 +0000" stop_utc="20261122085400 +0000" air_time_start_utc="20261122085100 +0000" air_time_end_utc="20261122085400 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TNT BUZZ</title>
+    <category lang="pt">Animación</category>
+    <episode-num system="xmltv_ns">14.96.</episode-num>
+  </programme>
+  <programme start="20261122055200 -0400" stop="20261122055500 -0400" air_time_start="20261122055200 -0400" air_time_end="20261122055500 -0400" start_utc="20261122095200 +0000" stop_utc="20261122095500 +0000" air_time_start_utc="20261122095200 +0000" air_time_end_utc="20261122095500 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">14.102.</episode-num>
+  </programme>
+  <programme start="20261122055400 -0300" stop="20261122060000 -0300" air_time_start="20261122055400 -0300" air_time_end="20261122060000 -0300" start_utc="20261122085400 +0000" stop_utc="20261122090000 +0000" air_time_start_utc="20261122085400 +0000" air_time_end_utc="20261122090000 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TNT BUZZ</title>
+    <category lang="pt">Animación</category>
+    <episode-num system="xmltv_ns">14.98.</episode-num>
+  </programme>
+  <programme start="20261122055500 -0400" stop="20261122055700 -0400" air_time_start="20261122055500 -0400" air_time_end="20261122055700 -0400" start_utc="20261122095500 +0000" stop_utc="20261122095700 +0000" air_time_start_utc="20261122095500 +0000" air_time_end_utc="20261122095700 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">14.104.</episode-num>
+  </programme>
+  <programme start="20261122055600 -0600" stop="20261122060000 -0600" air_time_start="20261122055600 -0600" air_time_end="20261122060000 -0600" start_utc="20261122115600 +0000" stop_utc="20261122120000 +0000" air_time_start_utc="20261122115600 +0000" air_time_end_utc="20261122120000 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">TNT BUZZ</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">14.102.</episode-num>
+  </programme>
+  <programme start="20261122055700 -0400" stop="20261122060000 -0400" air_time_start="20261122055700 -0400" air_time_end="20261122060000 -0400" start_utc="20261122095700 +0000" stop_utc="20261122100000 +0000" air_time_start_utc="20261122095700 +0000" air_time_end_utc="20261122100000 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">14.105.</episode-num>
   </programme>
 </tv>
