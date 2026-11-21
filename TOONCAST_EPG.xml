@@ -6,282 +6,6 @@
   <channel id="TOONLA_BR.br">
     <display-name>Tooncast Brasil</display-name>
   </channel>
-  <programme start="20261114042800 -0300" stop="20261114043900 -0300" air_time_start="20261114042800 -0300" air_time_end="20261114043900 -0300" start_utc="20261114072800 +0000" stop_utc="20261114073900 +0000" air_time_start_utc="20261114072800 +0000" air_time_end_utc="20261114073900 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">LOS AUTOS LOCOS</title>
-    <sub-title lang="es">THE SPEEDY ARKANSAS TRAVELERS</sub-title>
-    <desc lang="es">Pier No Doyuna desvía la Súper Chatarra Special hacia el sitio en el que se desarrollan juegos de un ejército militar.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261114042800 -0300" stop="20261114043900 -0300" air_time_start="20261114042800 -0300" air_time_end="20261114043900 -0300" start_utc="20261114072800 +0000" stop_utc="20261114073900 +0000" air_time_start_utc="20261114072800 +0000" air_time_end_utc="20261114073900 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">CORRIDA MALUCA</title>
-    <sub-title lang="pt">THE SPEEDY ARKANSAS TRAVELERS</sub-title>
-    <desc lang="pt">Dick Vigarista desvia o Carro Tanque a um local onde ocorrem jogos de guerra.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20261114043900 -0300" stop="20261114050100 -0300" air_time_start="20261114043900 -0300" air_time_end="20261114050100 -0300" start_utc="20261114073900 +0000" stop_utc="20261114080100 +0000" air_time_start_utc="20261114073900 +0000" air_time_end_utc="20261114080100 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <sub-title lang="es">SIXTH SENSE</sub-title>
-    <desc lang="es">Una nave en peligro intenta pedir ayuda a los Felinos Cósmicos usando el sexto sentido de Chitara. Termina tomando el control de Chitara y poniendo su vida en peligro cuando los Mutantes atacan la nave.</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.28.</episode-num>
-  </programme>
-  <programme start="20261114043900 -0300" stop="20261114050100 -0300" air_time_start="20261114043900 -0300" air_time_end="20261114050100 -0300" start_utc="20261114073900 +0000" stop_utc="20261114080100 +0000" air_time_start_utc="20261114073900 +0000" air_time_end_utc="20261114080100 +0000" is_live="false" channel="TOONLA_BR.br">
-    <sub-title lang="pt">SIXTH SENSE</sub-title>
-    <desc lang="pt">Uma nave em perigo tenta pedir ajuda aos ThunderCats usando o sexto sentido de Cheetara. Mas acaba controlando-a e arriscando sua vida, já que a nave é atacada pelos Mutantes.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">.28.</episode-num>
-  </programme>
-  <programme start="20261114050100 -0300" stop="20261114052400 -0300" air_time_start="20261114050100 -0300" air_time_end="20261114052400 -0300" start_utc="20261114080100 +0000" stop_utc="20261114082400 +0000" air_time_start_utc="20261114080100 +0000" air_time_end_utc="20261114082400 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <sub-title lang="es">SAFARI JOE</sub-title>
-    <desc lang="es">Safari Joe llega a la Tercera Tierra en busca de una presa "que valga la pena" cazar. Comienza a ir tras los Felinos Cósmicos.</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.25.</episode-num>
-  </programme>
-  <programme start="20261114050100 -0300" stop="20261114052400 -0300" air_time_start="20261114050100 -0300" air_time_end="20261114052400 -0300" start_utc="20261114080100 +0000" stop_utc="20261114082400 +0000" air_time_start_utc="20261114080100 +0000" air_time_end_utc="20261114082400 +0000" is_live="false" channel="TOONLA_BR.br">
-    <sub-title lang="pt">SAFARI JOE</sub-title>
-    <desc lang="pt">Safari Joe chega ao Terceiro Mundo em busca de uma presa 'digna' de ser caçada. E ele começa a caçar os ThunderCats.</desc>
-    <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">.25.</episode-num>
-  </programme>
-  <programme start="20261114052400 -0300" stop="20261114053500 -0300" air_time_start="20261114052400 -0300" air_time_end="20261114053500 -0300" start_utc="20261114082400 +0000" stop_utc="20261114083500 +0000" air_time_start_utc="20261114082400 +0000" air_time_end_utc="20261114083500 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Hermano de Jorel</title>
-    <sub-title lang="es">Jorelovers Forever</sub-title>
-    <desc lang="es">¡El Hermano de Jorel se sumerge de lleno en la preadolescencia! Después de enfrentar los primeros obstáculos de la vida, nuestro querido Hermano de Jorel ahora es un pez fuera del agua, ansioso por nuevas amistades y aventuras.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Fantasía</category>
-    <episode-num system="xmltv_ns">4.221.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/bHtVtJqaBo6tpCdUsGRJl2avVlw.jpg" />
-  </programme>
-  <programme start="20261114052400 -0300" stop="20261114053500 -0300" air_time_start="20261114052400 -0300" air_time_end="20261114053500 -0300" start_utc="20261114082400 +0000" stop_utc="20261114083500 +0000" air_time_start_utc="20261114082400 +0000" air_time_end_utc="20261114083500 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">IRMÃO DO JOREL</title>
-    <sub-title lang="pt">Jorelovers Forever</sub-title>
-    <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <category lang="pt">Fantasia</category>
-    <episode-num system="xmltv_ns">4.221.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/bHtVtJqaBo6tpCdUsGRJl2avVlw.jpg" />
-  </programme>
-  <programme start="20261114053500 -0300" stop="20261114054700 -0300" air_time_start="20261114053500 -0300" air_time_end="20261114054700 -0300" start_utc="20261114083500 +0000" stop_utc="20261114084700 +0000" air_time_start_utc="20261114083500 +0000" air_time_end_utc="20261114084700 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Hermano de Jorel</title>
-    <sub-title lang="es">Monumental Bariloche</sub-title>
-    <desc lang="es">¡El Hermano de Jorel se sumerge de lleno en la preadolescencia! Después de enfrentar los primeros obstáculos de la vida, nuestro querido Hermano de Jorel ahora es un pez fuera del agua, ansioso por nuevas amistades y aventuras.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Fantasía</category>
-    <episode-num system="xmltv_ns">4.222.</episode-num>
-  </programme>
-  <programme start="20261114053500 -0300" stop="20261114054700 -0300" air_time_start="20261114053500 -0300" air_time_end="20261114054700 -0300" start_utc="20261114083500 +0000" stop_utc="20261114084700 +0000" air_time_start_utc="20261114083500 +0000" air_time_end_utc="20261114084700 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">IRMÃO DO JOREL</title>
-    <sub-title lang="pt">Monumental Bariloche</sub-title>
-    <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <category lang="pt">Fantasia</category>
-    <episode-num system="xmltv_ns">4.222.</episode-num>
-  </programme>
-  <programme start="20261114054700 -0300" stop="20261114060000 -0300" air_time_start="20261114054700 -0300" air_time_end="20261114060000 -0300" start_utc="20261114084700 +0000" stop_utc="20261114090000 +0000" air_time_start_utc="20261114084700 +0000" air_time_end_utc="20261114090000 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Hermano de Jorel</title>
-    <sub-title lang="es">The Cool Sleepwalker</sub-title>
-    <desc lang="es">¡El Hermano de Jorel se sumerge de lleno en la preadolescencia! Después de enfrentar los primeros obstáculos de la vida, nuestro querido Hermano de Jorel ahora es un pez fuera del agua, ansioso por nuevas amistades y aventuras.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Fantasía</category>
-    <episode-num system="xmltv_ns">4.223.</episode-num>
-  </programme>
-  <programme start="20261114054700 -0300" stop="20261114060000 -0300" air_time_start="20261114054700 -0300" air_time_end="20261114060000 -0300" start_utc="20261114084700 +0000" stop_utc="20261114090000 +0000" air_time_start_utc="20261114084700 +0000" air_time_end_utc="20261114090000 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">IRMÃO DO JOREL</title>
-    <sub-title lang="pt">The Cool Sleepwalker</sub-title>
-    <desc lang="pt">O Irmão do Jorel mergulha com tudo na pré-adolescência! Depois de enfrentar os primeiros obstáculos da vida, nosso querido Irmão do Jorel agora é um peixinho fora d'água sedento por novas amizades e aventuras.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <category lang="pt">Fantasia</category>
-    <episode-num system="xmltv_ns">4.223.</episode-num>
-  </programme>
-  <programme start="20261114060000 -0300" stop="20261114062400 -0300" air_time_start="20261114060000 -0300" air_time_end="20261114062400 -0300" start_utc="20261114090000 +0000" stop_utc="20261114092400 +0000" air_time_start_utc="20261114090000 +0000" air_time_end_utc="20261114092400 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">MANSIÓN FOSTER PARA AMIGOS IMAGINARIOS</title>
-    <sub-title lang="es">RACE FOR YOUR LIFE, MAC &amp; BLOO</sub-title>
-    <desc lang="es">Mac y Blu se traban en una competencia épica cuando Blu desafía a Mac a una carrera de 50 kilómetros hasta la mansión Foster.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Infantil</category>
-    <episode-num system="xmltv_ns">5.69.</episode-num>
-  </programme>
-  <programme start="20261114060000 -0300" stop="20261114062400 -0300" air_time_start="20261114060000 -0300" air_time_end="20261114062400 -0300" start_utc="20261114090000 +0000" stop_utc="20261114092400 +0000" air_time_start_utc="20261114090000 +0000" air_time_end_utc="20261114092400 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS</title>
-    <sub-title lang="pt">RACE FOR YOUR LIFE, MAC &amp; BLOO</sub-title>
-    <desc lang="pt">Mac e Blu entram em uma competição épica quando Blu desafia o amigo para uma corrida do fliperama à Mansão Foster.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Comédia</category>
-    <category lang="pt">Infantil</category>
-    <episode-num system="xmltv_ns">5.69.</episode-num>
-  </programme>
-  <programme start="20261114062400 -0300" stop="20261114065000 -0300" air_time_start="20261114062400 -0300" air_time_end="20261114065000 -0300" start_utc="20261114092400 +0000" stop_utc="20261114095000 +0000" air_time_start_utc="20261114092400 +0000" air_time_end_utc="20261114095000 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">MANSIÓN FOSTER PARA AMIGOS IMAGINARIOS</title>
-    <sub-title lang="es">FOSTER'S GOES TO EUROPE</sub-title>
-    <desc lang="es">Mac y la pandilla de amigos imaginarios ganan un viaje a Europa en un concurso.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Infantil</category>
-    <episode-num system="xmltv_ns">2.31.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/e8IfjoPO7jtZgqz5BNH3GbtJAcd.jpg" />
-  </programme>
-  <programme start="20261114062400 -0300" stop="20261114065000 -0300" air_time_start="20261114062400 -0300" air_time_end="20261114065000 -0300" start_utc="20261114092400 +0000" stop_utc="20261114095000 +0000" air_time_start_utc="20261114092400 +0000" air_time_end_utc="20261114095000 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS</title>
-    <sub-title lang="pt">FOSTER'S GOES TO EUROPE</sub-title>
-    <desc lang="pt">Mac e a gangue ganham uma viagem à Europa.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Comédia</category>
-    <category lang="pt">Infantil</category>
-    <episode-num system="xmltv_ns">2.31.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/e8IfjoPO7jtZgqz5BNH3GbtJAcd.jpg" />
-  </programme>
-  <programme start="20261114065000 -0300" stop="20261114070100 -0300" air_time_start="20261114065000 -0300" air_time_end="20261114070100 -0300" start_utc="20261114095000 +0000" stop_utc="20261114100100 +0000" air_time_start_utc="20261114095000 +0000" air_time_end_utc="20261114100100 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">PARENT'S DAY</sub-title>
-    <desc lang="es">Cuando los Jelly descubren que los padres del Profesor Lumpus no vinieron a visitarlo, ellos tratarán de hacer lo correcto.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">1.15.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/rmzNYJRj3X05DmesRn8HHCDfJs6.jpg" />
-  </programme>
-  <programme start="20261114065000 -0300" stop="20261114070100 -0300" air_time_start="20261114065000 -0300" air_time_end="20261114070100 -0300" start_utc="20261114095000 +0000" stop_utc="20261114100100 +0000" air_time_start_utc="20261114095000 +0000" air_time_end_utc="20261114100100 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">PARENT'S DAY</sub-title>
-    <desc lang="pt">Quando as Jellies descobrem que os pais de Lumpus não vieram visitá-lo no acampamento, elas tentam dar um jeito na situação.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.15.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/rmzNYJRj3X05DmesRn8HHCDfJs6.jpg" />
-  </programme>
-  <programme start="20261114070100 -0300" stop="20261114071200 -0300" air_time_start="20261114070100 -0300" air_time_end="20261114071200 -0300" start_utc="20261114100100 +0000" stop_utc="20261114101200 +0000" air_time_start_utc="20261114100100 +0000" air_time_end_utc="20261114101200 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">I'VE NEVER BEEN IN A SUB</sub-title>
-    <desc lang="es">Los Jelly quieren un submarino para el lago y tratarán de recaudar dinero para comprar uno.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">1.19.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/g774a0woVSUucwfiLqtrINfAvwc.jpg" />
-  </programme>
-  <programme start="20261114070100 -0300" stop="20261114071200 -0300" air_time_start="20261114070100 -0300" air_time_end="20261114071200 -0300" start_utc="20261114100100 +0000" stop_utc="20261114101200 +0000" air_time_start_utc="20261114100100 +0000" air_time_end_utc="20261114101200 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">I'VE NEVER BEEN IN A SUB</sub-title>
-    <desc lang="pt">As Jellies querem ter um submarino no lago e resolvem juntar dinheiro para comprar um.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.19.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/g774a0woVSUucwfiLqtrINfAvwc.jpg" />
-  </programme>
-  <programme start="20261114071200 -0300" stop="20261114072300 -0300" air_time_start="20261114071200 -0300" air_time_end="20261114072300 -0300" start_utc="20261114101200 +0000" stop_utc="20261114102300 +0000" air_time_start_utc="20261114101200 +0000" air_time_end_utc="20261114102300 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">SLAP HAPPY</sub-title>
-    <desc lang="es">Lumpus se vuelve paranoico cuando cree que Lazlo ha descubierto su apretón de manos secreto.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">1.20.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/nog2x2rNYJKBQegvGjRmea0Vwrt.jpg" />
-  </programme>
-  <programme start="20261114071200 -0300" stop="20261114072300 -0300" air_time_start="20261114071200 -0300" air_time_end="20261114072300 -0300" start_utc="20261114101200 +0000" stop_utc="20261114102300 +0000" air_time_start_utc="20261114101200 +0000" air_time_end_utc="20261114102300 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">SLAP HAPPY</sub-title>
-    <desc lang="pt">Lumpus fica paranóico quando pensa que Lazlo descobriu seu aperto de mão secreto.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.20.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/nog2x2rNYJKBQegvGjRmea0Vwrt.jpg" />
-  </programme>
-  <programme start="20261114072300 -0300" stop="20261114073700 -0300" air_time_start="20261114072300 -0300" air_time_end="20261114073700 -0300" start_utc="20261114102300 +0000" stop_utc="20261114103700 +0000" air_time_start_utc="20261114102300 +0000" air_time_end_utc="20261114103700 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">BABY BEAN</sub-title>
-    <desc lang="es">La recientemente adquirida colección de aparatos para reducir el trabajo de Raj lo devuelve a su forma de bebé.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">4.55.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/VAv1anZ2TAcEgG2qNNRWpUx0hj.jpg" />
-  </programme>
-  <programme start="20261114072300 -0300" stop="20261114073700 -0300" air_time_start="20261114072300 -0300" air_time_end="20261114073700 -0300" start_utc="20261114102300 +0000" stop_utc="20261114103700 +0000" air_time_start_utc="20261114102300 +0000" air_time_end_utc="20261114103700 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">BABY BEAN</sub-title>
-    <desc lang="pt">Uma nova coleção de dispositivos para facilitar o trabalho faz com que Raj fique atrofiado e logo volte a ser um bebê.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">4.55.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/VAv1anZ2TAcEgG2qNNRWpUx0hj.jpg" />
-  </programme>
-  <programme start="20261114073700 -0300" stop="20261114074800 -0300" air_time_start="20261114073700 -0300" air_time_end="20261114074800 -0300" start_utc="20261114103700 +0000" stop_utc="20261114104800 +0000" air_time_start_utc="20261114103700 +0000" air_time_end_utc="20261114104800 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">LIGHTS OUT</sub-title>
-    <desc lang="es">¡El Profesor Lumpus no sabe que hacer para que la Cabaña Jelly apague sus luces!</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/xxMYHgTXPRcecufsvUsWLIxpvLW.jpg" />
-  </programme>
-  <programme start="20261114073700 -0300" stop="20261114074800 -0300" air_time_start="20261114073700 -0300" air_time_end="20261114074800 -0300" start_utc="20261114103700 +0000" stop_utc="20261114104800 +0000" air_time_start_utc="20261114103700 +0000" air_time_end_utc="20261114104800 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">LIGHTS OUT</sub-title>
-    <desc lang="pt">O Chefe de Escoteiros Lumpus está sem idéias de como desligar os remendos do Alojamento Jelly!</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/xxMYHgTXPRcecufsvUsWLIxpvLW.jpg" />
-  </programme>
-  <programme start="20261114074800 -0300" stop="20261114080000 -0300" air_time_start="20261114074800 -0300" air_time_end="20261114080000 -0300" start_utc="20261114104800 +0000" stop_utc="20261114110000 +0000" air_time_start_utc="20261114104800 +0000" air_time_end_utc="20261114110000 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">IT'S NO PICNIC</sub-title>
-    <desc lang="es">Mientras disfrutan de un "amistoso" día de picnic, los Bean Scouts y los Squirrel Scouts llegan a un acuerdo luego de una pelea en el lodo.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/wwdfX56VL3uNDho7PGV7ndA34Cs.jpg" />
-  </programme>
-  <programme start="20261114074800 -0300" stop="20261114080000 -0300" air_time_start="20261114074800 -0300" air_time_end="20261114080000 -0300" start_utc="20261114104800 +0000" stop_utc="20261114110000 +0000" air_time_start_utc="20261114104800 +0000" air_time_end_utc="20261114110000 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">IT'S NO PICNIC</sub-title>
-    <desc lang="pt">Os direitos para usufruir a melhor poça de lama nos Pinheiros Prickly são disputados a tapa quando os Escoteiros Bean e as Escoteiras Squirrel fazem um concurso para ver quem será o dono dela!</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/wwdfX56VL3uNDho7PGV7ndA34Cs.jpg" />
-  </programme>
-  <programme start="20261114080000 -0300" stop="20261114081100 -0300" air_time_start="20261114080000 -0300" air_time_end="20261114081100 -0300" start_utc="20261114110000 +0000" stop_utc="20261114111100 +0000" air_time_start_utc="20261114110000 +0000" air_time_end_utc="20261114111100 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">MOUNTAIN DUDE</sub-title>
-    <desc lang="es">La visita de un orador a la escuela inspira a Jake a convertirse en una cabra de montaña, para el disgusto de Adam y el Sr. Mandril.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">3.48.</episode-num>
-  </programme>
-  <programme start="20261114080000 -0300" stop="20261114081100 -0300" air_time_start="20261114080000 -0300" air_time_end="20261114081100 -0300" start_utc="20261114110000 +0000" stop_utc="20261114111100 +0000" air_time_start_utc="20261114110000 +0000" air_time_end_utc="20261114111100 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">MOUNTAIN DUDE</sub-title>
-    <desc lang="pt">Jake é inspirado converter se em uma cabra de montanha. Isto mortifica Adão e Conselheiro Mandril, que querem que ele seja o melhor macaco aranha que ele pode ser.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">3.48.</episode-num>
-  </programme>
-  <programme start="20261114081100 -0300" stop="20261114082300 -0300" air_time_start="20261114081100 -0300" air_time_end="20261114082300 -0300" start_utc="20261114111100 +0000" stop_utc="20261114112300 +0000" air_time_start_utc="20261114111100 +0000" air_time_end_utc="20261114112300 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">LE SWITCHEROO</sub-title>
-    <desc lang="es">La Entrenadora Glub se enoja por el pobre desempeño de Adam en su clase de gimnasia y el Sr. Mandril sugiere que Adam y la Entrenadora Glub, cambien de roles con el fin de apreciar los desafíos de cada uno.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">1.13.</episode-num>
-  </programme>
-  <programme start="20261114081100 -0300" stop="20261114082300 -0300" air_time_start="20261114081100 -0300" air_time_end="20261114082300 -0300" start_utc="20261114111100 +0000" stop_utc="20261114112300 +0000" air_time_start_utc="20261114111100 +0000" air_time_end_utc="20261114112300 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">LE SWITCHEROO</sub-title>
-    <desc lang="pt">Depois que a Treinadora Glubi chama a atenção de Adão por seu desempenho na aula de educação física, o Conselheiro Mandril sugere que eles troquem de lugar para que consigam se entender melhor.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.13.</episode-num>
-  </programme>
   <programme start="20261114082300 -0300" stop="20261114083500 -0300" air_time_start="20261114082300 -0300" air_time_end="20261114083500 -0300" start_utc="20261114112300 +0000" stop_utc="20261114113500 +0000" air_time_start_utc="20261114112300 +0000" air_time_end_utc="20261114113500 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
     <sub-title lang="es">UNIFORMITY</sub-title>
@@ -15145,15 +14869,6 @@
     <episode-num system="xmltv_ns">0.13.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/qOJwRJGNb6pggUDpRityChvCuSy.jpg" />
   </programme>
-  <programme start="20261121100300 -0300" stop="20261121100400 -0300" air_time_start="20261121100300 -0300" air_time_end="20261121100400 -0300" start_utc="20261121130300 +0000" stop_utc="20261121130400 +0000" air_time_start_utc="20261121130300 +0000" air_time_end_utc="20261121130400 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">Yendo más allá de las ovejas</sub-title>
-    <sub-title lang="en">NAME THAT NAME GAME SHOW</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/j8wn637trM6iHSFmLIzwNfqkHaG.jpg" />
-  </programme>
   <programme start="20261121100300 -0300" stop="20261121100400 -0300" air_time_start="20261121100300 -0300" air_time_end="20261121100400 -0300" start_utc="20261121130300 +0000" stop_utc="20261121130400 +0000" air_time_start_utc="20261121130300 +0000" air_time_end_utc="20261121130400 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
     <sub-title lang="pt">El cordero de mis sueños</sub-title>
@@ -15163,14 +14878,23 @@
     <episode-num system="xmltv_ns">0.13.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/qOJwRJGNb6pggUDpRityChvCuSy.jpg" />
   </programme>
+  <programme start="20261121100300 -0300" stop="20261121100400 -0300" air_time_start="20261121100300 -0300" air_time_end="20261121100400 -0300" start_utc="20261121130300 +0000" stop_utc="20261121130400 +0000" air_time_start_utc="20261121130300 +0000" air_time_end_utc="20261121130400 +0000" is_live="false" channel="TOONLA_PAN.co">
+    <title lang="es">Sheep en la gran ciudad</title>
+    <sub-title lang="es">El cordero de mis sueños</sub-title>
+    <sub-title lang="en">SWEDE PLUGS HIS BOOK</sub-title>
+    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/qOJwRJGNb6pggUDpRityChvCuSy.jpg" />
+  </programme>
   <programme start="20261121100300 -0300" stop="20261121100400 -0300" air_time_start="20261121100300 -0300" air_time_end="20261121100400 -0300" start_utc="20261121130300 +0000" stop_utc="20261121130400 +0000" air_time_start_utc="20261121130300 +0000" air_time_end_utc="20261121130400 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">Yendo más allá de las ovejas</sub-title>
-    <sub-title lang="en">NAME THAT NAME GAME SHOW</sub-title>
+    <sub-title lang="pt">El cordero de mis sueños</sub-title>
+    <sub-title lang="en">SWEDE PLUGS HIS BOOK</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/j8wn637trM6iHSFmLIzwNfqkHaG.jpg" />
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/qOJwRJGNb6pggUDpRityChvCuSy.jpg" />
   </programme>
   <programme start="20261121100400 -0300" stop="20261121100800 -0300" air_time_start="20261121100400 -0300" air_time_end="20261121100800 -0300" start_utc="20261121130400 +0000" stop_utc="20261121130800 +0000" air_time_start_utc="20261121130400 +0000" air_time_end_utc="20261121130800 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
