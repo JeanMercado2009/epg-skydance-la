@@ -21,238 +21,12 @@
   <channel id="WARNER_MX.mx">
     <display-name>Warner Channel México</display-name>
   </channel>
-  <programme start="20261114220000 -0600" stop="20261115013000 -0600" air_time_start="20261114220000 -0600" air_time_end="20261115013000 -0600" start_utc="20261115040000 +0000" stop_utc="20261115073000 +0000" air_time_start_utc="20261115040000 +0000" air_time_end_utc="20261115073000 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">Milagros Inesperados</title>
-    <sub-title lang="es">The Green Mile</sub-title>
-    <desc lang="es">Ambientado durante la Depresión de los años '30 en el sur de los Estados Unidos, este drama retrata la singular relación que entablan Paul Edgecomb (Tom Hanks), un vigilante penitenciario a cargo del pasillo que recorren los condenados a la silla eléctrica antes demorir, y John Coffey (Michael Clarke Duncan), un corpulento negro sentenciado a muerte por un brutal asesinato doble. A medida que pasan los días, y luego de vivir varias experiencias sorpresivas, Edgecomb comienza a dudar sobre la culpabilidad de Coffey, un hombre ingenuo, miedoso y con un don sobrenatural. Basado en una novela de Stephen King,  este drama recibió cuatro nominaciones al Oscar.</desc>
-    <category lang="es">Drama</category>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261115012400 -0500" stop="20261115040500 -0500" air_time_start="20261115012400 -0500" air_time_end="20261115040500 -0500" start_utc="20261115062400 +0000" stop_utc="20261115090500 +0000" air_time_start_utc="20261115062400 +0000" air_time_end_utc="20261115090500 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">Elvis</title>
-    <desc lang="es">En esta comedia de animación para adultos, Elvis cambia su traje blanco por una mochila cohete. Ahora es un espía y debe impedir que unos villanos destruyan el mundo.</desc>
-    <category lang="es">Biografía</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261115012600 -0400" stop="20261115040800 -0400" air_time_start="20261115012600 -0400" air_time_end="20261115040800 -0400" start_utc="20261115052600 +0000" stop_utc="20261115080800 +0000" air_time_start_utc="20261115052600 +0000" air_time_end_utc="20261115080800 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">Elvis</title>
-    <desc lang="es">En esta comedia de animación para adultos, Elvis cambia su traje blanco por una mochila cohete. Ahora es un espía y debe impedir que unos villanos destruyan el mundo.</desc>
-    <category lang="es">Biografía</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261115012900 -0400" stop="20261115041100 -0400" air_time_start="20261115012900 -0400" air_time_end="20261115041100 -0400" start_utc="20261115052900 +0000" stop_utc="20261115081100 +0000" air_time_start_utc="20261115052900 +0000" air_time_end_utc="20261115081100 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">Elvis</title>
-    <desc lang="es">En esta comedia de animación para adultos, Elvis cambia su traje blanco por una mochila cohete. Ahora es un espía y debe impedir que unos villanos destruyan el mundo.</desc>
-    <category lang="es">Biografía</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261115013000 -0600" stop="20261115041400 -0600" air_time_start="20261115013000 -0600" air_time_end="20261115041400 -0600" start_utc="20261115073000 +0000" stop_utc="20261115101400 +0000" air_time_start_utc="20261115073000 +0000" air_time_end_utc="20261115101400 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">Elvis</title>
-    <desc lang="es">En esta comedia de animación para adultos, Elvis cambia su traje blanco por una mochila cohete. Ahora es un espía y debe impedir que unos villanos destruyan el mundo.</desc>
-    <category lang="es">Biografía</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261115013500 -0300" stop="20261115041400 -0300" air_time_start="20261115013500 -0300" air_time_end="20261115041400 -0300" start_utc="20261115043500 +0000" stop_utc="20261115071400 +0000" air_time_start_utc="20261115043500 +0000" air_time_end_utc="20261115071400 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">Elvis</title>
-    <desc lang="es">En esta comedia de animación para adultos, Elvis cambia su traje blanco por una mochila cohete. Ahora es un espía y debe impedir que unos villanos destruyan el mundo.</desc>
-    <category lang="es">Biografía</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261115014300 -0500" stop="20261115042400 -0500" air_time_start="20261115014300 -0500" air_time_end="20261115042400 -0500" start_utc="20261115064300 +0000" stop_utc="20261115092400 +0000" air_time_start_utc="20261115064300 +0000" air_time_end_utc="20261115092400 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">Elvis</title>
-    <desc lang="es">En esta comedia de animación para adultos, Elvis cambia su traje blanco por una mochila cohete. Ahora es un espía y debe impedir que unos villanos destruyan el mundo.</desc>
-    <category lang="es">Biografía</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261115040500 -0500" stop="20261115042500 -0500" air_time_start="20261115040500 -0500" air_time_end="20261115042500 -0500" start_utc="20261115090500 +0000" stop_utc="20261115092500 +0000" air_time_start_utc="20261115090500 +0000" air_time_end_utc="20261115092500 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE CELEBRATION EXPERIMENTATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/aCCxCIQjlFmlS97jCIzd2uameQl.jpg" />
-  </programme>
-  <programme start="20261115040800 -0400" stop="20261115042800 -0400" air_time_start="20261115040800 -0400" air_time_end="20261115042800 -0400" start_utc="20261115080800 +0000" stop_utc="20261115082800 +0000" air_time_start_utc="20261115080800 +0000" air_time_end_utc="20261115082800 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE CELEBRATION EXPERIMENTATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/aCCxCIQjlFmlS97jCIzd2uameQl.jpg" />
-  </programme>
-  <programme start="20261115040900 -0300" stop="20261115042900 -0300" air_time_start="20261115040900 -0300" air_time_end="20261115042900 -0300" start_utc="20261115070900 +0000" stop_utc="20261115072900 +0000" air_time_start_utc="20261115070900 +0000" air_time_end_utc="20261115072900 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE APPLICATION DETERIORATION</sub-title>
-    <desc lang="pt">Howard repensa sua decisão de fazer uma sociedade com Leonard e Sheldon em uma patente. Enquanto isso, Raj recebe conselhos amorosos das meninas após seu rompimento com Emily.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/7m8tdDhWNUjl2DQc1mPfXTdBt4e.jpg" />
-  </programme>
-  <programme start="20261115041100 -0400" stop="20261115043100 -0400" air_time_start="20261115041100 -0400" air_time_end="20261115043100 -0400" start_utc="20261115081100 +0000" stop_utc="20261115083100 +0000" air_time_start_utc="20261115081100 +0000" air_time_end_utc="20261115083100 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE CELEBRATION EXPERIMENTATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/aCCxCIQjlFmlS97jCIzd2uameQl.jpg" />
-  </programme>
-  <programme start="20261115041400 -0300" stop="20261115043400 -0300" air_time_start="20261115041400 -0300" air_time_end="20261115043400 -0300" start_utc="20261115071400 +0000" stop_utc="20261115073400 +0000" air_time_start_utc="20261115071400 +0000" air_time_end_utc="20261115073400 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE CELEBRATION EXPERIMENTATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/aCCxCIQjlFmlS97jCIzd2uameQl.jpg" />
-  </programme>
-  <programme start="20261115041400 -0600" stop="20261115043400 -0600" air_time_start="20261115041400 -0600" air_time_end="20261115043400 -0600" start_utc="20261115101400 +0000" stop_utc="20261115103400 +0000" air_time_start_utc="20261115101400 +0000" air_time_end_utc="20261115103400 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE CELEBRATION EXPERIMENTATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/aCCxCIQjlFmlS97jCIzd2uameQl.jpg" />
-  </programme>
-  <programme start="20261115042400 -0500" stop="20261115044400 -0500" air_time_start="20261115042400 -0500" air_time_end="20261115044400 -0500" start_utc="20261115092400 +0000" stop_utc="20261115094400 +0000" air_time_start_utc="20261115092400 +0000" air_time_end_utc="20261115094400 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE CELEBRATION EXPERIMENTATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/aCCxCIQjlFmlS97jCIzd2uameQl.jpg" />
-  </programme>
-  <programme start="20261115042500 -0500" stop="20261115044500 -0500" air_time_start="20261115042500 -0500" air_time_end="20261115044500 -0500" start_utc="20261115092500 +0000" stop_utc="20261115094500 +0000" air_time_start_utc="20261115092500 +0000" air_time_end_utc="20261115094500 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE APPLICATION DETERIORATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/7m8tdDhWNUjl2DQc1mPfXTdBt4e.jpg" />
-  </programme>
-  <programme start="20261115042800 -0400" stop="20261115044900 -0400" air_time_start="20261115042800 -0400" air_time_end="20261115044900 -0400" start_utc="20261115082800 +0000" stop_utc="20261115084900 +0000" air_time_start_utc="20261115082800 +0000" air_time_end_utc="20261115084900 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE APPLICATION DETERIORATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/7m8tdDhWNUjl2DQc1mPfXTdBt4e.jpg" />
-  </programme>
-  <programme start="20261115042900 -0300" stop="20261115045100 -0300" air_time_start="20261115042900 -0300" air_time_end="20261115045100 -0300" start_utc="20261115072900 +0000" stop_utc="20261115075100 +0000" air_time_start_utc="20261115072900 +0000" air_time_end_utc="20261115075100 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE SOLDER EXCURSION DIVERSION</sub-title>
-    <desc lang="pt">Amy fica chocada com uma revelação de Sheldon ao comprar um novo laptop para ele. Enquanto isso, Leonard e Howard mentem às suas esposas para assistir a uma pré-estreia.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/kl5SoKzqxhwK9irTvarRHOmTvi6.jpg" />
-  </programme>
-  <programme start="20261115043100 -0400" stop="20261115045200 -0400" air_time_start="20261115043100 -0400" air_time_end="20261115045200 -0400" start_utc="20261115083100 +0000" stop_utc="20261115085200 +0000" air_time_start_utc="20261115083100 +0000" air_time_end_utc="20261115085200 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE APPLICATION DETERIORATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/7m8tdDhWNUjl2DQc1mPfXTdBt4e.jpg" />
-  </programme>
-  <programme start="20261115043400 -0300" stop="20261115045400 -0300" air_time_start="20261115043400 -0300" air_time_end="20261115045400 -0300" start_utc="20261115073400 +0000" stop_utc="20261115075400 +0000" air_time_start_utc="20261115073400 +0000" air_time_end_utc="20261115075400 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE APPLICATION DETERIORATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/7m8tdDhWNUjl2DQc1mPfXTdBt4e.jpg" />
-  </programme>
-  <programme start="20261115043400 -0600" stop="20261115045400 -0600" air_time_start="20261115043400 -0600" air_time_end="20261115045400 -0600" start_utc="20261115103400 +0000" stop_utc="20261115105400 +0000" air_time_start_utc="20261115103400 +0000" air_time_end_utc="20261115105400 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE APPLICATION DETERIORATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/7m8tdDhWNUjl2DQc1mPfXTdBt4e.jpg" />
-  </programme>
-  <programme start="20261115044400 -0500" stop="20261115050500 -0500" air_time_start="20261115044400 -0500" air_time_end="20261115050500 -0500" start_utc="20261115094400 +0000" stop_utc="20261115100500 +0000" air_time_start_utc="20261115094400 +0000" air_time_end_utc="20261115100500 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE APPLICATION DETERIORATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/7m8tdDhWNUjl2DQc1mPfXTdBt4e.jpg" />
-  </programme>
-  <programme start="20261115044500 -0500" stop="20261115050700 -0500" air_time_start="20261115044500 -0500" air_time_end="20261115050700 -0500" start_utc="20261115094500 +0000" stop_utc="20261115100700 +0000" air_time_start_utc="20261115094500 +0000" air_time_end_utc="20261115100700 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE SOLDER EXCURSION DIVERSION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/kl5SoKzqxhwK9irTvarRHOmTvi6.jpg" />
-  </programme>
-  <programme start="20261115044900 -0400" stop="20261115051100 -0400" air_time_start="20261115044900 -0400" air_time_end="20261115051100 -0400" start_utc="20261115084900 +0000" stop_utc="20261115091100 +0000" air_time_start_utc="20261115084900 +0000" air_time_end_utc="20261115091100 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE SOLDER EXCURSION DIVERSION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/kl5SoKzqxhwK9irTvarRHOmTvi6.jpg" />
-  </programme>
-  <programme start="20261115045100 -0300" stop="20261115050900 -0300" air_time_start="20261115045100 -0300" air_time_end="20261115050900 -0300" start_utc="20261115075100 +0000" stop_utc="20261115080900 +0000" air_time_start_utc="20261115075100 +0000" air_time_end_utc="20261115080900 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE BIG BEAR PRECIPITATION</sub-title>
-    <desc lang="pt">Sheldon revela um segredo de Leonard durante uma viagem de fim de semana com Penny e Amy. Howard e Bernadette deverão impor limites quando Raj exagera nos presentes para o bebê.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/eL2nmkRYtWcvXUVfx4SQGJeDULl.jpg" />
-  </programme>
-  <programme start="20261115045200 -0400" stop="20261115051400 -0400" air_time_start="20261115045200 -0400" air_time_end="20261115051400 -0400" start_utc="20261115085200 +0000" stop_utc="20261115091400 +0000" air_time_start_utc="20261115085200 +0000" air_time_end_utc="20261115091400 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE SOLDER EXCURSION DIVERSION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/kl5SoKzqxhwK9irTvarRHOmTvi6.jpg" />
-  </programme>
-  <programme start="20261115045400 -0300" stop="20261115051600 -0300" air_time_start="20261115045400 -0300" air_time_end="20261115051600 -0300" start_utc="20261115075400 +0000" stop_utc="20261115081600 +0000" air_time_start_utc="20261115075400 +0000" air_time_end_utc="20261115081600 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE SOLDER EXCURSION DIVERSION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/kl5SoKzqxhwK9irTvarRHOmTvi6.jpg" />
-  </programme>
   <programme start="20261115045400 -0600" stop="20261115051600 -0600" air_time_start="20261115045400 -0600" air_time_end="20261115051600 -0600" start_utc="20261115105400 +0000" stop_utc="20261115111600 +0000" air_time_start_utc="20261115105400 +0000" air_time_end_utc="20261115111600 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">THE SOLDER EXCURSION DIVERSION</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/kl5SoKzqxhwK9irTvarRHOmTvi6.jpg" />
-  </programme>
-  <programme start="20261115050500 -0500" stop="20261115052700 -0500" air_time_start="20261115050500 -0500" air_time_end="20261115052700 -0500" start_utc="20261115100500 +0000" stop_utc="20261115102700 +0000" air_time_start_utc="20261115100500 +0000" air_time_end_utc="20261115102700 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE SOLDER EXCURSION DIVERSION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/kl5SoKzqxhwK9irTvarRHOmTvi6.jpg" />
-  </programme>
-  <programme start="20261115050700 -0500" stop="20261115052700 -0500" air_time_start="20261115050700 -0500" air_time_end="20261115052700 -0500" start_utc="20261115100700 +0000" stop_utc="20261115102700 +0000" air_time_start_utc="20261115100700 +0000" air_time_end_utc="20261115102700 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE BIG BEAR PRECIPITATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/eL2nmkRYtWcvXUVfx4SQGJeDULl.jpg" />
-  </programme>
-  <programme start="20261115050900 -0300" stop="20261115052900 -0300" air_time_start="20261115050900 -0300" air_time_end="20261115052900 -0300" start_utc="20261115080900 +0000" stop_utc="20261115082900 +0000" air_time_start_utc="20261115080900 +0000" air_time_end_utc="20261115082900 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE VIEWING PARTY COMBUSTION</sub-title>
-    <desc lang="pt">Quando uma pequena discussão entre Leonard e Sheldon se transforma numa briga acalorada, os outros se veem obrigados a escolher um lado durante uma reunião do grupo.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/layOKctrtjUcwKZ1ofk1vuF65L5.jpg" />
-  </programme>
-  <programme start="20261115051100 -0400" stop="20261115053200 -0400" air_time_start="20261115051100 -0400" air_time_end="20261115053200 -0400" start_utc="20261115091100 +0000" stop_utc="20261115093200 +0000" air_time_start_utc="20261115091100 +0000" air_time_end_utc="20261115093200 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE BIG BEAR PRECIPITATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/eL2nmkRYtWcvXUVfx4SQGJeDULl.jpg" />
-  </programme>
-  <programme start="20261115051400 -0400" stop="20261115053200 -0400" air_time_start="20261115051400 -0400" air_time_end="20261115053200 -0400" start_utc="20261115091400 +0000" stop_utc="20261115093200 +0000" air_time_start_utc="20261115091400 +0000" air_time_end_utc="20261115093200 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE BIG BEAR PRECIPITATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/eL2nmkRYtWcvXUVfx4SQGJeDULl.jpg" />
-  </programme>
-  <programme start="20261115051600 -0300" stop="20261115053800 -0300" air_time_start="20261115051600 -0300" air_time_end="20261115053800 -0300" start_utc="20261115081600 +0000" stop_utc="20261115083800 +0000" air_time_start_utc="20261115081600 +0000" air_time_end_utc="20261115083800 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">MIRACLE WORKERS: OREGON TRAIL</title>
-    <sub-title lang="es">MEET THE NOONANS</sub-title>
-    <desc lang="es">Una comedia ambientada en las oficinas de Heaven Inc. Cuando Dios planea destruir la Tierra, dos ángeles de bajo nivel deben convencer a su jefe de salvar a la humanidad. Le apuestan a que pueden lograr su milagro más imposible: ayudar a dos humanos a enamorarse.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">2.4.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/3o9gSEENiKh7gjLXMZRTsN62KBp.jpg" />
   </programme>
   <programme start="20261115051600 -0600" stop="20261115053600 -0600" air_time_start="20261115051600 -0600" air_time_end="20261115053600 -0600" start_utc="20261115111600 +0000" stop_utc="20261115113600 +0000" air_time_start_utc="20261115111600 +0000" air_time_end_utc="20261115113600 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
@@ -261,42 +35,6 @@
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/eL2nmkRYtWcvXUVfx4SQGJeDULl.jpg" />
   </programme>
-  <programme start="20261115052700 -0500" stop="20261115054800 -0500" air_time_start="20261115052700 -0500" air_time_end="20261115054800 -0500" start_utc="20261115102700 +0000" stop_utc="20261115104800 +0000" air_time_start_utc="20261115102700 +0000" air_time_end_utc="20261115104800 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE BIG BEAR PRECIPITATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/eL2nmkRYtWcvXUVfx4SQGJeDULl.jpg" />
-  </programme>
-  <programme start="20261115052700 -0500" stop="20261115054900 -0500" air_time_start="20261115052700 -0500" air_time_end="20261115054900 -0500" start_utc="20261115102700 +0000" stop_utc="20261115104900 +0000" air_time_start_utc="20261115102700 +0000" air_time_end_utc="20261115104900 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">MIRACLE WORKERS: OREGON TRAIL</title>
-    <sub-title lang="es">MEET THE NOONANS</sub-title>
-    <desc lang="es">Una comedia ambientada en las oficinas de Heaven Inc. Cuando Dios planea destruir la Tierra, dos ángeles de bajo nivel deben convencer a su jefe de salvar a la humanidad. Le apuestan a que pueden lograr su milagro más imposible: ayudar a dos humanos a enamorarse.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">2.4.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/3o9gSEENiKh7gjLXMZRTsN62KBp.jpg" />
-  </programme>
-  <programme start="20261115052900 -0300" stop="20261115055000 -0300" air_time_start="20261115052900 -0300" air_time_end="20261115055000 -0300" start_utc="20261115082900 +0000" stop_utc="20261115085000 +0000" air_time_start_utc="20261115082900 +0000" air_time_end_utc="20261115085000 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">THE FERMENTATION BIFURCATION</sub-title>
-    <desc lang="pt">Sheldon e Bernadette passam uma noite papeando enquanto o resto do grupo vai a um bar, e encontra o ex-namorado de Penny, Zack (BRIAN THOMAS SMITH).</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/lUwn0Uxldc3B76B26Yd8aIPj4uM.jpg" />
-  </programme>
-  <programme start="20261115053200 -0400" stop="20261115054600 -0400" air_time_start="20261115053200 -0400" air_time_end="20261115054600 -0400" start_utc="20261115093200 +0000" stop_utc="20261115094600 +0000" air_time_start_utc="20261115093200 +0000" air_time_end_utc="20261115094600 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.45.</episode-num>
-  </programme>
-  <programme start="20261115053200 -0400" stop="20261115054700 -0400" air_time_start="20261115053200 -0400" air_time_end="20261115054700 -0400" start_utc="20261115093200 +0000" stop_utc="20261115094700 +0000" air_time_start_utc="20261115093200 +0000" air_time_end_utc="20261115094700 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.42.</episode-num>
-  </programme>
   <programme start="20261115053600 -0600" stop="20261115060000 -0600" air_time_start="20261115053600 -0600" air_time_end="20261115060000 -0600" start_utc="20261115113600 +0000" stop_utc="20261115120000 +0000" air_time_start_utc="20261115113600 +0000" air_time_end_utc="20261115120000 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">MIRACLE WORKERS: OREGON TRAIL</title>
     <sub-title lang="es">INDEPENDENCE ROCK</sub-title>
@@ -304,80 +42,6 @@
     <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">2.5.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/z7FG3p5T1aJ1njnxrV5JxUxRPpW.jpg" />
-  </programme>
-  <programme start="20261115053800 -0300" stop="20261115060000 -0300" air_time_start="20261115053800 -0300" air_time_end="20261115060000 -0300" start_utc="20261115083800 +0000" stop_utc="20261115090000 +0000" air_time_start_utc="20261115083800 +0000" air_time_end_utc="20261115090000 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">MIRACLE WORKERS: OREGON TRAIL</title>
-    <sub-title lang="es">INDEPENDENCE ROCK</sub-title>
-    <desc lang="es">Una comedia ambientada en las oficinas de Heaven Inc. Cuando Dios planea destruir la Tierra, dos ángeles de bajo nivel deben convencer a su jefe de salvar a la humanidad. Le apuestan a que pueden lograr su milagro más imposible: ayudar a dos humanos a enamorarse.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">2.5.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/z7FG3p5T1aJ1njnxrV5JxUxRPpW.jpg" />
-  </programme>
-  <programme start="20261115054600 -0400" stop="20261115060000 -0400" air_time_start="20261115054600 -0400" air_time_end="20261115060000 -0400" start_utc="20261115094600 +0000" stop_utc="20261115100000 +0000" air_time_start_utc="20261115094600 +0000" air_time_end_utc="20261115100000 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.48.</episode-num>
-  </programme>
-  <programme start="20261115054700 -0400" stop="20261115060000 -0400" air_time_start="20261115054700 -0400" air_time_end="20261115060000 -0400" start_utc="20261115094700 +0000" stop_utc="20261115100000 +0000" air_time_start_utc="20261115094700 +0000" air_time_end_utc="20261115100000 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.43.</episode-num>
-  </programme>
-  <programme start="20261115054800 -0500" stop="20261115060000 -0500" air_time_start="20261115054800 -0500" air_time_end="20261115060000 -0500" start_utc="20261115104800 +0000" stop_utc="20261115110000 +0000" air_time_start_utc="20261115104800 +0000" air_time_end_utc="20261115110000 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.47.</episode-num>
-  </programme>
-  <programme start="20261115054900 -0500" stop="20261115060000 -0500" air_time_start="20261115054900 -0500" air_time_end="20261115060000 -0500" start_utc="20261115104900 +0000" stop_utc="20261115110000 +0000" air_time_start_utc="20261115104900 +0000" air_time_end_utc="20261115110000 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.44.</episode-num>
-  </programme>
-  <programme start="20261115055000 -0300" stop="20261115060000 -0300" air_time_start="20261115055000 -0300" air_time_end="20261115060000 -0300" start_utc="20261115085000 +0000" stop_utc="20261115090000 +0000" air_time_start_utc="20261115085000 +0000" air_time_end_utc="20261115090000 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="pt">Talk Show</category>
-    <category lang="pt">Notícias De Entretenimento</category>
-    <episode-num system="xmltv_ns">-1.47.</episode-num>
-  </programme>
-  <programme start="20261115060000 -0300" stop="20261115063400 -0300" air_time_start="20261115060000 -0300" air_time_end="20261115063400 -0300" start_utc="20261115090000 +0000" stop_utc="20261115093400 +0000" air_time_start_utc="20261115090000 +0000" air_time_end_utc="20261115093400 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">COBRA KAI: SEASON 5</title>
-    <sub-title lang="es">BAD EGGS</sub-title>
-    <desc lang="es">Enemigos acérrimos. Dojos rivales. Sangre fresca. En esta secuela de las películas de ‘Karate Kid’, Daniel y Johnny reavivan viejas rencillas en el West Valley.</desc>
-    <category lang="es">Drama</category>
-    <episode-num system="xmltv_ns">4.6.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/75pw9D2Il3R7fZH6tFu0RLsgvie.jpg" />
-  </programme>
-  <programme start="20261115060000 -0300" stop="20261115060900 -0300" air_time_start="20261115060000 -0300" air_time_end="20261115060900 -0300" start_utc="20261115090000 +0000" stop_utc="20261115090900 +0000" air_time_start_utc="20261115090000 +0000" air_time_end_utc="20261115090900 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="pt">Talk Show</category>
-    <category lang="pt">Notícias De Entretenimento</category>
-    <episode-num system="xmltv_ns">-1.49.</episode-num>
-  </programme>
-  <programme start="20261115060000 -0400" stop="20261115063700 -0400" air_time_start="20261115060000 -0400" air_time_end="20261115063700 -0400" start_utc="20261115100000 +0000" stop_utc="20261115103700 +0000" air_time_start_utc="20261115100000 +0000" air_time_end_utc="20261115103700 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">COBRA KAI: SEASON 5</title>
-    <sub-title lang="es">BAD EGGS</sub-title>
-    <desc lang="es">Enemigos acérrimos. Dojos rivales. Sangre fresca. En esta secuela de las películas de ‘Karate Kid’, Daniel y Johnny reavivan viejas rencillas en el West Valley.</desc>
-    <category lang="es">Drama</category>
-    <episode-num system="xmltv_ns">4.6.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/75pw9D2Il3R7fZH6tFu0RLsgvie.jpg" />
-  </programme>
-  <programme start="20261115060000 -0400" stop="20261115063900 -0400" air_time_start="20261115060000 -0400" air_time_end="20261115063900 -0400" start_utc="20261115100000 +0000" stop_utc="20261115103900 +0000" air_time_start_utc="20261115100000 +0000" air_time_end_utc="20261115103900 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">COBRA KAI: SEASON 5</title>
-    <sub-title lang="es">TAIKAI</sub-title>
-    <desc lang="es">Enemigos acérrimos. Dojos rivales. Sangre fresca. En esta secuela de las películas de ‘Karate Kid’, Daniel y Johnny reavivan viejas rencillas en el West Valley.</desc>
-    <category lang="es">Drama</category>
-    <episode-num system="xmltv_ns">4.7.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/zYMoy2cmw32aoUFCnl9ewbt1WxD.jpg" />
   </programme>
   <programme start="20261115060000 -0500" stop="20261115064200 -0500" air_time_start="20261115060000 -0500" air_time_end="20261115064200 -0500" start_utc="20261115110000 +0000" stop_utc="20261115114200 +0000" air_time_start_utc="20261115110000 +0000" air_time_end_utc="20261115114200 +0000" is_live="false" channel="WARNER_CO.co">
     <title lang="es">COBRA KAI: SEASON 5</title>
@@ -403,28 +67,6 @@
     <episode-num system="xmltv_ns">4.6.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/75pw9D2Il3R7fZH6tFu0RLsgvie.jpg" />
   </programme>
-  <programme start="20261115060900 -0300" stop="20261115063100 -0300" air_time_start="20261115060900 -0300" air_time_end="20261115063100 -0300" start_utc="20261115090900 +0000" stop_utc="20261115093100 +0000" air_time_start_utc="20261115090900 +0000" air_time_end_utc="20261115093100 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">YOUNG SHELDON - SEASON 5</title>
-    <sub-title lang="pt">WHITE TRASH, HOLY ROLLERS AND PUNCHING PEOPLE</sub-title>
-    <desc lang="pt">Enquanto os Coopers encaram o julgamento da congregação por conta da gravidez de Georgie, Sheldon se distrai com o drama familiar e Missy defende o irmão.</desc>
-    <episode-num system="xmltv_ns">4.20.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/3V8rnun4WswjH1TTdqNNVp76s5o.jpg" />
-  </programme>
-  <programme start="20261115063100 -0300" stop="20261115065100 -0300" air_time_start="20261115063100 -0300" air_time_end="20261115065100 -0300" start_utc="20261115093100 +0000" stop_utc="20261115095100 +0000" air_time_start_utc="20261115093100 +0000" air_time_end_utc="20261115095100 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">YOUNG SHELDON - SEASON 5</title>
-    <sub-title lang="pt">A CLOGGED PORE, A LITTLE SPANISH AND THE FUTURE</sub-title>
-    <desc lang="pt">No episódio final da quinta temporada, Sheldon tem dificuldade para lidar com os primeiros sinais da puberdade enquanto seus pais procuram novas vagas de emprego e Georgie e Meemaw atravessam a fronteira para uma viagem de negócios.</desc>
-    <episode-num system="xmltv_ns">4.21.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/fVt68Wmhrr38Z7WgyXbX6N1KPls.jpg" />
-  </programme>
-  <programme start="20261115063400 -0300" stop="20261115071300 -0300" air_time_start="20261115063400 -0300" air_time_end="20261115071300 -0300" start_utc="20261115093400 +0000" stop_utc="20261115101300 +0000" air_time_start_utc="20261115093400 +0000" air_time_end_utc="20261115101300 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">COBRA KAI: SEASON 5</title>
-    <sub-title lang="es">TAIKAI</sub-title>
-    <desc lang="es">Enemigos acérrimos. Dojos rivales. Sangre fresca. En esta secuela de las películas de ‘Karate Kid’, Daniel y Johnny reavivan viejas rencillas en el West Valley.</desc>
-    <category lang="es">Drama</category>
-    <episode-num system="xmltv_ns">4.7.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/zYMoy2cmw32aoUFCnl9ewbt1WxD.jpg" />
-  </programme>
   <programme start="20261115063700 -0400" stop="20261115071500 -0400" air_time_start="20261115063700 -0400" air_time_end="20261115071500 -0400" start_utc="20261115103700 +0000" stop_utc="20261115111500 +0000" air_time_start_utc="20261115103700 +0000" air_time_end_utc="20261115111500 +0000" is_live="false" channel="WARNER_CL.cl">
     <title lang="es">COBRA KAI: SEASON 5</title>
     <sub-title lang="es">TAIKAI</sub-title>
@@ -440,14 +82,6 @@
     <category lang="es">Drama</category>
     <episode-num system="xmltv_ns">4.7.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/zYMoy2cmw32aoUFCnl9ewbt1WxD.jpg" />
-  </programme>
-  <programme start="20261115063900 -0400" stop="20261115070200 -0400" air_time_start="20261115063900 -0400" air_time_end="20261115070200 -0400" start_utc="20261115103900 +0000" stop_utc="20261115110200 +0000" air_time_start_utc="20261115103900 +0000" air_time_end_utc="20261115110200 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">THE COHABITATION EXPERIMENTATION</sub-title>
-    <desc lang="es">Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">9.3.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/dUEDKR7xxWcmGeKtfqI7e9fyQAw.jpg" />
   </programme>
   <programme start="20261115063900 -0600" stop="20261115070200 -0600" air_time_start="20261115063900 -0600" air_time_end="20261115070200 -0600" start_utc="20261115123900 +0000" stop_utc="20261115130200 +0000" air_time_start_utc="20261115123900 +0000" air_time_end_utc="20261115130200 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
@@ -504,14 +138,6 @@
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20261115071300 -0300" stop="20261115073200 -0300" air_time_start="20261115071300 -0300" air_time_end="20261115073200 -0300" start_utc="20261115101300 +0000" stop_utc="20261115103200 +0000" air_time_start_utc="20261115101300 +0000" air_time_end_utc="20261115103200 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">MIRACLE WORKERS: OREGON TRAIL</title>
-    <sub-title lang="es">WHITE SAVIOR</sub-title>
-    <desc lang="es">Una comedia ambientada en las oficinas de Heaven Inc. Cuando Dios planea destruir la Tierra, dos ángeles de bajo nivel deben convencer a su jefe de salvar a la humanidad. Le apuestan a que pueden lograr su milagro más imposible: ayudar a dos humanos a enamorarse.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">2.6.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/2eqJlXEvNmMaEqRes5G0BVfDQFd.jpg" />
-  </programme>
   <programme start="20261115071300 -0500" stop="20261115073700 -0500" air_time_start="20261115071300 -0500" air_time_end="20261115073700 -0500" start_utc="20261115121300 +0000" stop_utc="20261115123700 +0000" air_time_start_utc="20261115121300 +0000" air_time_end_utc="20261115123700 +0000" is_live="false" channel="WARNER_AN.co">
     <title lang="es">TWO AND A HALF MEN</title>
     <sub-title lang="es">I FOUND YOUR MOUSTACHE</sub-title>
@@ -547,13 +173,6 @@
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/ohyP6BsmwaAVouD8360Q0sHBmrQ.jpg" />
   </programme>
-  <programme start="20261115073200 -0300" stop="20261115074100 -0300" air_time_start="20261115073200 -0300" air_time_end="20261115074100 -0300" start_utc="20261115103200 +0000" stop_utc="20261115104100 +0000" air_time_start_utc="20261115103200 +0000" air_time_end_utc="20261115104100 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.52.</episode-num>
-  </programme>
   <programme start="20261115073700 -0500" stop="20261115080000 -0500" air_time_start="20261115073700 -0500" air_time_end="20261115080000 -0500" start_utc="20261115123700 +0000" stop_utc="20261115130000 +0000" air_time_start_utc="20261115123700 +0000" air_time_end_utc="20261115130000 +0000" is_live="false" channel="WARNER_AN.co">
     <title lang="es">TWO AND A HALF MEN</title>
     <sub-title lang="es">IXNAY ON THE OGGIE DAY</sub-title>
@@ -567,13 +186,6 @@
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/ghsGzYdXKCeFhAPANVIH0OTVahY.jpg" />
-  </programme>
-  <programme start="20261115074100 -0300" stop="20261115080200 -0300" air_time_start="20261115074100 -0300" air_time_end="20261115080200 -0300" start_utc="20261115104100 +0000" stop_utc="20261115110200 +0000" air_time_start_utc="20261115104100 +0000" air_time_end_utc="20261115110200 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">KEITH MOON IS VOMITING IN HIS GRAVE</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/uyurUlCTFqKT4lzvlKrx07EzZ3Q.jpg" />
   </programme>
   <programme start="20261115074900 -0600" stop="20261115081200 -0600" air_time_start="20261115074900 -0600" air_time_end="20261115081200 -0600" start_utc="20261115134900 +0000" stop_utc="20261115141200 +0000" air_time_start_utc="20261115134900 +0000" air_time_end_utc="20261115141200 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
