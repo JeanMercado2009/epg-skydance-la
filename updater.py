@@ -27,6 +27,8 @@ http_session.headers.update({
 })
 
 tmdb_cache = {}
+tmdb_show_cache = {}
+
 
 def normalize_title(text):
     if not text:
@@ -39,11 +41,67 @@ def normalize_title(text):
     clean = re.sub(r'[^a-z0-9]', '', clean)
     return clean
 
+
+def _tmdb_get(url, headers, params):
+    try:
+        res = http_session.get(url, headers=headers, params=params, timeout=4)
+        if res.status_code == 200:
+            return res.json()
+    except Exception:
+        pass
+    return {}
+
+
+def _get_tmdb_langs(lang="es"):
+    if lang == "pt":
+        return ["pt-BR"]
+    return ["es-MX", "es-ES"]
+
+
+def _resolve_tv_id(series_title, headers, langs_to_try):
+    cache_key = f"{series_title}|{','.join(langs_to_try)}|tv_id"
+    if cache_key in tmdb_show_cache:
+        return tmdb_show_cache[cache_key]
+
+    search_queries = [series_title]
+    clean_title = re.sub(r'[:\-].*', '', series_title).strip()
+    if clean_title and clean_title.lower() != series_title.lower():
+        search_queries.append(clean_title)
+
+    for tmdb_lang in langs_to_try + ["en-US"]:
+        for query in search_queries:
+            data = _tmdb_get("https://api.themoviedb.org/3/search/tv", headers, {"query": query, "language": tmdb_lang})
+            results = data.get("results") or []
+            if results:
+                tv_id = results[0].get("id")
+                num_seasons = 10
+                if tv_id:
+                    det = _tmdb_get(f"https://api.themoviedb.org/3/tv/{tv_id}", headers, {})
+                    if det.get("number_of_seasons"):
+                        num_seasons = min(int(det["number_of_seasons"]), 15)
+                tmdb_show_cache[cache_key] = (tv_id, num_seasons)
+                return (tv_id, num_seasons)
+
+    tmdb_show_cache[cache_key] = (None, 0)
+    return (None, 0)
+
+
+def _get_season_episodes_cached(tv_id, season_num, lang_code, headers):
+    s_key = f"s|{tv_id}|{season_num}|{lang_code}"
+    if s_key in tmdb_cache:
+        return tmdb_cache[s_key]
+    data = _tmdb_get(f"https://api.themoviedb.org/3/tv/{tv_id}/season/{season_num}", headers, {"language": lang_code})
+    eps = data.get("episodes") or []
+    tmdb_cache[s_key] = eps
+    return eps
+
+
 def fetch_tmdb_episode_details(series_title, season_str, ep_str, ep_title_en="", lang="es"):
     if not series_title or (not TMDB_TOKEN and not TMDB_API_KEY):
         return {}
-    
-    cache_key = f"{series_title}|{season_str}|{ep_str}|{ep_title_en}|ep_details"
+
+    langs_to_try = _get_tmdb_langs(lang)
+    cache_key = f"{series_title}|{season_str}|{ep_str}|{ep_title_en}|{','.join(langs_to_try)}|ep_details"
     if cache_key in tmdb_cache:
         return tmdb_cache[cache_key]
 
@@ -53,163 +111,142 @@ def fetch_tmdb_episode_details(series_title, season_str, ep_str, ep_title_en="",
     elif TMDB_API_KEY:
         headers["Authorization"] = f"Bearer {TMDB_API_KEY}"
 
-    tmdb_lang = "es-MX" 
-    try:
-        url_tv = "https://api.themoviedb.org/3/search/tv"
-        search_queries = [series_title]
-        clean_title = re.sub(r'[:\-].*', '', series_title).strip()
-        if clean_title and clean_title.lower() != series_title.lower():
-            search_queries.append(clean_title)
+    tv_id, num_seasons = _resolve_tv_id(series_title, headers, langs_to_try)
+    if not tv_id:
+        tmdb_cache[cache_key] = {}
+        return {}
 
-        tv_id = None
-        number_of_seasons = 10 
-        for query in search_queries:
-            res = http_session.get(url_tv, headers=headers, params={"query": query, "language": tmdb_lang}, timeout=4)
-            if res.status_code == 200 and res.json().get("results"):
-                show_data = res.json()["results"][0]
-                tv_id = show_data["id"]
-                detail_res = http_session.get(f"https://api.themoviedb.org/3/tv/{tv_id}", headers=headers, timeout=4)
-                if detail_res.status_code == 200:
-                    number_of_seasons = detail_res.json().get("number_of_seasons", 10)
+    s_num = int(float(season_str)) if season_str and str(season_str).replace('.', '', 1).isdigit() else None
+    e_num = int(float(ep_str)) if ep_str and str(ep_str).replace('.', '', 1).isdigit() else None
+    norm_target = normalize_title(ep_title_en) if ep_title_en else ""
+
+    matched_season = s_num
+    matched_ep_num = e_num
+
+    # Buscar primero por nombre del episodio en temporadas para no depender de numeración distinta entre Tapkit y TMDb
+    if norm_target:
+        seasons_order = []
+        if s_num is not None:
+            seasons_order.append(s_num)
+        for s in range(1, num_seasons + 1):
+            if s not in seasons_order:
+                seasons_order.append(s)
+        if 0 not in seasons_order:
+            seasons_order.append(0)
+
+        found_by_name = False
+        for s_check in seasons_order:
+            for ref_lang in ["en-US"] + langs_to_try:
+                eps_list = _get_season_episodes_cached(tv_id, s_check, ref_lang, headers)
+                for idx, ep in enumerate(eps_list, start=1):
+                    if normalize_title(ep.get("name", "")) == norm_target:
+                        matched_season = s_check
+                        matched_ep_num = ep.get("episode_number") or idx
+                        found_by_name = True
+                        break
+                if found_by_name:
+                    break
+            if found_by_name:
                 break
 
-        if tv_id:
-            s_num = None
-            if season_str and str(season_str).replace('.', '', 1).isdigit():
-                s_num = int(float(season_str))
+    best_title = ""
+    best_overview = ""
 
-            e_num = None
-            if ep_str and str(ep_str).replace('.', '', 1).isdigit():
-                e_num = int(float(ep_str))
+    if matched_season is not None and matched_ep_num is not None:
+        for tmdb_lang in langs_to_try:
+            ep_data = _tmdb_get(
+                f"https://api.themoviedb.org/3/tv/{tv_id}/season/{matched_season}/episode/{matched_ep_num}",
+                headers,
+                {"language": tmdb_lang}
+            )
+            t_name = (ep_data.get("name") or "").strip()
+            t_ov = (ep_data.get("overview") or "").strip()
 
-            if s_num is not None and e_num is not None:
-                ep_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_num}/episode/{e_num}"
-                ep_res = http_session.get(ep_url, headers=headers, params={"language": tmdb_lang}, timeout=4)
-                if ep_res.status_code == 200:
-                    data = ep_res.json()
-                    t_name = data.get("name", "")
-                    t_overview = data.get("overview", "")
-                    if t_name or t_overview:
-                        result = {"title": t_name, "overview": t_overview}
-                        tmdb_cache[cache_key] = result
-                        return result
+            if not best_title and t_name and (not norm_target or normalize_title(t_name) != norm_target):
+                best_title = t_name
+            if not best_overview and t_ov:
+                best_overview = t_ov
 
-            norm_target = normalize_title(ep_title_en) if ep_title_en else ""
-            if norm_target:
-                seasons_to_check = [s_num] if s_num is not None else []
-                for s in range(1, number_of_seasons + 1):
-                    if s not in seasons_to_check:
-                        seasons_to_check.append(s)
-                seasons_to_check.append(0)
+            if best_title and best_overview:
+                break
 
-                for s_check in seasons_to_check:
-                    season_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_check}"
-                    season_res = http_session.get(season_url, headers=headers, params={"language": tmdb_lang}, timeout=4)
-                    if season_res.status_code == 200:
-                        for ep in season_res.json().get("episodes", []):
-                            if normalize_title(ep.get("name", "")) == norm_target:
-                                result = {"title": ep.get("name", ""), "overview": ep.get("overview", "")}
-                                tmdb_cache[cache_key] = result
-                                return result
-    except Exception:
-        pass
+    result = {}
+    if best_title:
+        result["title"] = best_title
+    if best_overview:
+        result["overview"] = best_overview
 
-    tmdb_cache[cache_key] = {}
-    return {}
+    tmdb_cache[cache_key] = result
+    return result
+
 
 def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", lang="es"):
     if not series_title:
         return ""
-    
-    cache_key = f"{series_title}|{season_str}|{ep_str}|{ep_title_en}|still|{lang}"
+
+    langs_to_try = _get_tmdb_langs(lang)
+    cache_key = f"{series_title}|{season_str}|{ep_str}|{ep_title_en}|still|{','.join(langs_to_try)}"
     if cache_key in tmdb_cache:
         return tmdb_cache[cache_key]
 
     if not TMDB_TOKEN and not TMDB_API_KEY:
         return ""
 
-    tmdb_lang = "pt-BR" if lang == "pt" else "es-MX"
     headers = {"accept": "application/json"}
     if TMDB_TOKEN:
         headers["Authorization"] = f"Bearer {TMDB_TOKEN}"
     elif TMDB_API_KEY:
         headers["Authorization"] = f"Bearer {TMDB_API_KEY}"
 
-    try:
-        url_tv = "https://api.themoviedb.org/3/search/tv"
-        search_queries = [series_title]
-        clean_title = re.sub(r'[:\-].*', '', series_title).strip()
-        if clean_title and clean_title.lower() != series_title.lower():
-            search_queries.append(clean_title)
+    tv_id, num_seasons = _resolve_tv_id(series_title, headers, langs_to_try)
+    if not tv_id:
+        tmdb_cache[cache_key] = ""
+        return ""
 
-        tv_id = None
-        number_of_seasons = 10 
-        for query in search_queries:
-            res = http_session.get(url_tv, headers=headers, params={"query": query, "language": tmdb_lang}, timeout=4)
-            if res.status_code == 200 and res.json().get("results"):
-                show_data = res.json()["results"][0]
-                tv_id = show_data["id"]
-                detail_res = http_session.get(f"https://api.themoviedb.org/3/tv/{tv_id}", headers=headers, timeout=4)
-                if detail_res.status_code == 200:
-                    number_of_seasons = detail_res.json().get("number_of_seasons", 10)
-                break
+    s_num = int(float(season_str)) if season_str and str(season_str).replace('.', '', 1).isdigit() else None
+    e_num = int(float(ep_str)) if ep_str and str(ep_str).replace('.', '', 1).isdigit() else None
+    norm_target = normalize_title(ep_title_en) if ep_title_en else ""
 
-        if tv_id:
-            s_num = None
-            if season_str and str(season_str).replace('.', '', 1).isdigit():
-                s_num = int(float(season_str))
+    if norm_target:
+        seasons_order = []
+        if s_num is not None:
+            seasons_order.append(s_num)
+        for s in range(1, num_seasons + 1):
+            if s not in seasons_order:
+                seasons_order.append(s)
+        if 0 not in seasons_order:
+            seasons_order.append(0)
 
-            norm_target = normalize_title(ep_title_en) if ep_title_en else ""
-
-            if norm_target:
-                seasons_to_check = []
-                if s_num is not None:
-                    seasons_to_check.append(s_num)
-                for s in range(1, number_of_seasons + 1):
-                    if s not in seasons_to_check:
-                        seasons_to_check.append(s)
-                seasons_to_check.append(0)
-
-                found_still = ""
-                for s_check in seasons_to_check:
-                    season_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_check}"
-                    season_res = http_session.get(season_url, headers=headers, params={"language": "en-US"}, timeout=4)
-                    if season_res.status_code == 200:
-                        for ep in season_res.json().get("episodes", []):
-                            if normalize_title(ep.get("name", "")) == norm_target:
-                                still_path = ep.get("still_path")
-                                if still_path:
-                                    if not still_path.startswith('/'):
-                                        still_path = '/' + still_path
-                                    found_still = f"https://media.themoviedb.org/t/p/w500{still_path}"
-                                    break
-                    if found_still:
-                        break
-
-                if found_still:
-                    tmdb_cache[cache_key] = found_still
-                    return found_still
-
-            e_num = None
-            if ep_str and str(ep_str).replace('.', '', 1).isdigit():
-                e_num = int(float(ep_str))
-
-            if s_num is not None and e_num is not None:
-                ep_url = f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_num}/episode/{e_num}"
-                ep_res = http_session.get(ep_url, headers=headers, params={"language": tmdb_lang}, timeout=4)
-                if ep_res.status_code == 200:
-                    still_path = ep_res.json().get("still_path")
+        for s_check in seasons_order:
+            eps_list = _get_season_episodes_cached(tv_id, s_check, "en-US", headers)
+            for ep in eps_list:
+                if normalize_title(ep.get("name", "")) == norm_target:
+                    still_path = (ep.get("still_path") or "").strip()
                     if still_path:
                         if not still_path.startswith('/'):
                             still_path = '/' + still_path
                         img_url = f"https://media.themoviedb.org/t/p/w500{still_path}"
                         tmdb_cache[cache_key] = img_url
                         return img_url
-    except Exception:
-        pass
+
+    if s_num is not None and e_num is not None:
+        for tmdb_lang in langs_to_try:
+            ep_data = _tmdb_get(
+                f"https://api.themoviedb.org/3/tv/{tv_id}/season/{s_num}/episode/{e_num}",
+                headers,
+                {"language": tmdb_lang}
+            )
+            still_path = (ep_data.get("still_path") or "").strip()
+            if still_path:
+                if not still_path.startswith('/'):
+                    still_path = '/' + still_path
+                img_url = f"https://media.themoviedb.org/t/p/w500{still_path}"
+                tmdb_cache[cache_key] = img_url
+                return img_url
 
     tmdb_cache[cache_key] = ""
     return ""
+
 
 def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"):
     headers = {
@@ -231,7 +268,7 @@ def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"
                 for _, row in df_break.iterrows():
                     type_val = str(row.get("Type") or "").strip().upper()
                     date_offset = str(row.get("Log Date + Offset") or "").strip()
-                    
+
                     if "IN" in type_val:
                         m = re.search(r"(\d{4})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2}):(\d{2})", date_offset)
                         if m:
@@ -252,6 +289,7 @@ def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"
         except Exception:
             pass
     return breaks_events
+
 
 NETWORKS_CONFIG = {
     "CNLA_EPG.xml": {
@@ -322,6 +360,7 @@ NETWORKS_CONFIG = {
     }
 }
 
+
 def login_and_get_token():
     email = os.environ.get("TAPKIT_EMAIL", "").strip()
     password = os.environ.get("TAPKIT_PASSWORD", "").strip()
@@ -331,6 +370,7 @@ def login_and_get_token():
     print("[OK] Sesión iniciada y token obtenido exitosamente.")
     return res.json().get("access_token")
 
+
 def get_target_months():
     now = datetime.now()
     year_curr, month_curr = now.year, now.month
@@ -339,6 +379,7 @@ def get_target_months():
     else:
         year_next, month_next = year_curr, month_curr + 1
     return [(year_curr, month_curr), (year_next, month_next)]
+
 
 def standardize_date_str(date_val):
     if not date_val or pd.isna(date_val):
@@ -353,6 +394,7 @@ def standardize_date_str(date_val):
             d, m, y = int(groups[3]), int(groups[4]), int(groups[5])
         return f"{y:04d}-{m:02d}-{d:02d}"
     return d_str
+
 
 def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_type="PAN"):
     months = get_target_months()
@@ -423,6 +465,7 @@ def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_t
                 pass
     return combined_dict
 
+
 def download_feed_xls(token, feed_cfg, referer_url):
     feed_id = feed_cfg["feed_id"]
     file_id = feed_cfg.get("file_id")
@@ -451,6 +494,7 @@ def download_feed_xls(token, feed_cfg, referer_url):
         f.write(res.content)
     return xls_path
 
+
 def sanitize_and_parse_xml(file_path, generator_name):
     if not os.path.exists(file_path): return ET.Element("tv", {"generator-info-name": generator_name})
     try:
@@ -460,6 +504,7 @@ def sanitize_and_parse_xml(file_path, generator_name):
     except Exception:
         return ET.Element("tv", {"generator-info-name": generator_name})
 
+
 def parse_xmltv_date(date_str, tz_info):
     if not date_str: return None
     clean = re.sub(r"[^\d\s\+\-]", "", str(date_str).strip())
@@ -468,8 +513,10 @@ def parse_xmltv_date(date_str, tz_info):
     y, mo, d, h, mi, s = map(int, m.groups())
     return datetime(y, mo, d, min(h, 23), min(mi, 59), min(s, 59), tzinfo=tz_info)
 
+
 def format_xmltv_date(dt, tz_str):
     return dt.strftime(f"%Y%m%d%H%M%S {tz_str}")
+
 
 def load_excel_schedule(file_path):
     try:
@@ -479,6 +526,7 @@ def load_excel_schedule(file_path):
     except Exception:
         return pd.read_html(file_path, header=1)[0]
 
+
 def find_column(cols_dict, possible_names):
     for name in possible_names:
         if name in cols_dict: return cols_dict[name]
@@ -487,26 +535,30 @@ def find_column(cols_dict, possible_names):
             if name.lower() in col_key.lower(): return col_val
     return None
 
-def fetch_tmdb_synopsis(title):
-    if not title or (not TMDB_TOKEN and not TMDB_API_KEY): return ""
+
+def fetch_tmdb_synopsis(title, lang="es"):
+    if not title or (not TMDB_TOKEN and not TMDB_API_KEY):
+        return ""
     headers = {"accept": "application/json"}
-    if TMDB_TOKEN: headers["Authorization"] = f"Bearer {TMDB_TOKEN}"
-    elif TMDB_API_KEY: headers["Authorization"] = f"Bearer {TMDB_API_KEY}"
+    if TMDB_TOKEN:
+        headers["Authorization"] = f"Bearer {TMDB_TOKEN}"
+    elif TMDB_API_KEY:
+        headers["Authorization"] = f"Bearer {TMDB_API_KEY}"
 
     clean = re.sub(r'[:\-].*', '', title).strip()
-    for q in [clean, title]:
-        if not q: continue
-        try:
-            res = http_session.get("https://api.themoviedb.org/3/search/tv", headers=headers, params={"query": q, "language": "es-MX"}, timeout=4)
-            if res.status_code == 200 and res.json().get("results"):
-                ov = res.json()["results"][0].get("overview")
-                if ov: return ov
-            res = http_session.get("https://api.themoviedb.org/3/search/movie", headers=headers, params={"query": q, "language": "es-MX"}, timeout=4)
-            if res.status_code == 200 and res.json().get("results"):
-                ov = res.json()["results"][0].get("overview")
-                if ov: return ov
-        except Exception: pass
+    for tmdb_lang in _get_tmdb_langs(lang):
+        for q in [clean, title]:
+            if not q:
+                continue
+            for endpoint in ("search/tv", "search/movie"):
+                data = _tmdb_get(f"https://api.themoviedb.org/3/{endpoint}", headers, {"query": q, "language": tmdb_lang})
+                results = data.get("results") or []
+                if results:
+                    ov = (results[0].get("overview") or "").strip()
+                    if ov:
+                        return ov
     return ""
+
 
 def _build_wb_datetime(year, month, day, hour, minute, tz_info):
     if not (0 <= minute <= 59):
@@ -521,6 +573,7 @@ def _build_wb_datetime(year, month, day, hour, minute, tz_info):
         return None
     return datetime(target_day.year, target_day.month, target_day.day, adj_hour, minute, 0, tzinfo=tz_info)
 
+
 def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
     channel_id = feed_cfg["channel_id"]
     channel_name = feed_cfg["channel_name"]
@@ -534,7 +587,7 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
 
     df = load_excel_schedule(xls_path)
     cols = {str(c).strip(): c for c in df.columns}
-    
+
     col_date = find_column(cols, ["Schedule Date", "Date", "Fecha"]) or df.columns[0]
     col_time = find_column(cols, ["Program Start Time", "Title Start Time", "Start Time", "Hora"]) or df.columns[1]
     col_title = find_column(cols, ["Program Name", "Title Name", "Title", "Programa"]) or df.columns[2]
@@ -606,7 +659,7 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
 
         season_val = str(row.get(col_season, "")).strip() if col_season and pd.notna(row.get(col_season)) else ""
         ep_num_val = str(row.get(col_ep_num, "")).strip() if col_ep_num and pd.notna(row.get(col_ep_num)) else ""
-        
+
         xmltv_season_ep = ""
         try:
             s_num = int(float(season_val)) - 1 if season_val.replace('.', '', 1).isdigit() else ""
@@ -633,18 +686,28 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
                 if not desc_es and matched_info["desc"]: desc_es = matched_info["desc"]
                 if matched_info["year"]: year_val = matched_info["year"]
 
-        if (not sub_es or sub_es.lower() == sub_en.lower() or not desc_es) and title_val and "Cine Cartoon" not in title_val:
-            tmdb_details = fetch_tmdb_episode_details(title_val, season_val, ep_num_val, ep_title_en=sub_en, lang="es")
-            if tmdb_details:
-                if (not sub_es or sub_es.lower() == sub_en.lower()) and tmdb_details.get("title"):
-                    sub_es = tmdb_details["title"]
-                if not desc_es and tmdb_details.get("overview"):
-                    desc_es = tmdb_details["overview"]
+        # Si el episodio viene en inglés o sin nombre traducido, o sin descripción, buscar en TMDb (es-MX primero)
+        lookup_ep_en = sub_en or (sub_es if sub_es and normalize_title(sub_es) != normalize_title(title_val) else "")
+        needs_title = (not sub_es) or (lookup_ep_en and normalize_title(sub_es) == normalize_title(lookup_ep_en))
+        needs_desc = not desc_es
+
+        if (needs_title or needs_desc) and title_val and "Cine Cartoon" not in title_val:
+            tmdb_details = fetch_tmdb_episode_details(
+                title_val,
+                season_val,
+                ep_num_val,
+                ep_title_en=lookup_ep_en,
+                lang=lang
+            )
+            if needs_title and tmdb_details.get("title"):
+                sub_es = tmdb_details["title"]
+            if needs_desc and tmdb_details.get("overview"):
+                desc_es = tmdb_details["overview"]
 
         if not desc_es and title_val and "Cine Cartoon" not in title_val:
-            desc_es = fetch_tmdb_synopsis(title_val)
+            desc_es = fetch_tmdb_synopsis(title_val, lang=lang)
 
-        icon_url = fetch_tmdb_still(title_val, season_val, ep_num_val, ep_title_en=sub_en, lang=lang) if title_val and "Cine Cartoon" not in title_val else ""
+        icon_url = fetch_tmdb_still(title_val, season_val, ep_num_val, ep_title_en=lookup_ep_en, lang=lang) if title_val and "Cine Cartoon" not in title_val else ""
 
         if col_is_new and pd.notna(row.get(col_is_new)) and str(row.get(col_is_new)).strip().upper() == "Y":
             if sub_es and sub_es.lower() != "nan": sub_es = f"{sub_es} (NUEVO EPISODIO)"
@@ -718,7 +781,7 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
             if ev["sub_title_en"]: ET.SubElement(prog, "sub-title", {"lang": "en"}).text = ev["sub_title_en"]
             if ev["desc_es"]: ET.SubElement(prog, "desc", {"lang": lang}).text = ev["desc_es"]
             elif ev["desc_en"]: ET.SubElement(prog, "desc", {"lang": "en"}).text = ev["desc_en"]
-            
+
             if ev["year"]: ET.SubElement(prog, "date").text = ev["year"]
             if ev["genre"]:
                 for g in ev["genre"].split(','):
@@ -739,6 +802,7 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
 
     print(f"[{channel_id}] Eventos y pausas procesadas hoy: {len(new_programmes)}")
 
+
 def main():
     token = login_and_get_token()
     cn_monthly_meta = download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_type="PAN")
@@ -747,7 +811,7 @@ def main():
         print(f"\n==========================================")
         print(f"Procesando: {xml_filename}")
         print(f"==========================================")
-        
+
         root = sanitize_and_parse_xml(xml_filename, net_config["generator_name"])
         active_channel_ids = {cfg["channel_id"] for cfg in net_config["feeds"]}
         for ch in list(root.findall("channel")):
@@ -785,6 +849,7 @@ def main():
         ET.indent(root, space="  ", level=0)
         ET.ElementTree(root).write(xml_filename, encoding="utf-8", xml_declaration=True)
         print(f"[OK] {xml_filename} guardado. Total programas: {len(sorted_progs)}")
+
 
 if __name__ == "__main__":
     main()
