@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="Guia de Programacion HBO MultiFeed">
+  <channel id="HBO_BCO.co">
+    <display-name lang="es">HBO Caribe</display-name>
+  </channel>
+  <channel id="HBO_CHO.cl">
+    <display-name lang="es">HBO Chile</display-name>
+  </channel>
+  <channel id="HBO_BMO.mx">
+    <display-name lang="es">HBO México</display-name>
+  </channel>
+  <channel id="HBO_PAO.co">
+    <display-name lang="es">HBO Panregional</display-name>
+  </channel>
+  <channel id="HBO_BBO.br">
+    <display-name lang="pt">HBO Brasil</display-name>
+  </channel>
+</tv>
