@@ -368,6 +368,18 @@ NETWORKS_CONFIG = {
             {"feed_id": "CDFP_CL", "channel_id": "CDFP_CL.cl", "channel_name": "TNT Sports 2 Chile", "lang": "es", "tz": timezone(timedelta(hours=0)), "tz_str": "+00:00"},
         ],
     },
+    "HBO_EPG.xml": {
+        "generator_name": "Guia de Programacion HBO MultiFeed",
+        "referer": "https://epg.tapkit.warnermedia.com/epg/networks/25",
+        "type": "daily",
+        "feeds": [
+            {"feed_id": "HBO_BCO", "channel_id": "HBO_BCO.co", "channel_name": "HBO Caribe", "lang": "es", "tz": timezone(timedelta(hours=-4)), "tz_str": "-0400"},
+            {"feed_id": "HBO_CHO", "channel_id": "HBO_CHO.cl", "channel_name": "HBO Chile", "lang": "es", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"},
+            {"feed_id": "HBO_BMO", "channel_id": "HBO_BMO.mx", "channel_name": "HBO México", "lang": "es", "tz": timezone(timedelta(hours=-6)), "tz_str": "-0600"},
+            {"feed_id": "HBO_PAO", "channel_id": "HBO_PAO.co", "channel_name": "HBO Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0300"},
+            {"feed_id": "HBO_BBO", "channel_id": "HBO_BBO.br", "channel_name": "HBO Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"},
+        ],
+    },
     "TOONCAST_EPG.xml": {
         "generator_name": "Guia de Programacion Tooncast MultiFeed",
         "referer": "https://epg.tapkit.warnermedia.com/api/networks/15",
