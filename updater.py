@@ -9,7 +9,7 @@ import requests
 import unicodedata
 import openpyxl
 
-RETENTION_DAYS_PAST = 7
+RETENTION_DAYS_PAST = 3
 RETENTION_DAYS_FUTURE = 15
 
 AUTH_URL = "https://epg.tapkit.warnermedia.com/api/security/oauth/token"
@@ -53,7 +53,7 @@ def fetch_tmdb_episode_details(series_title, season_str, ep_str, ep_title_en="",
     elif TMDB_API_KEY:
         headers["Authorization"] = f"Bearer {TMDB_API_KEY}"
 
-    tmdb_lang = "es-ES" 
+    tmdb_lang = "es-MX" 
     try:
         url_tv = "https://api.themoviedb.org/3/search/tv"
         search_queries = [series_title]
