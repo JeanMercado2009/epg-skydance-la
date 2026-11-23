@@ -30,14 +30,13 @@ tmdb_cache = {}
 tmdb_show_cache = {}
 
 
-def clean_unicode(text):
+def clean_unicode(text, preserve_newlines=False):
     if not text:
         return ""
-    # Elimina caracteres de control, formato, bidireccionales (U+2066..U+2069, U+200E, U+200F, U+202A..U+202E),
-    # uso privado y no asignados para evitar advertencias de Unicode oculto en GitHub y XML.
+    allowed_controls = {"\n", "\r", "\t"} if preserve_newlines else set()
     cleaned = "".join(
         ch for ch in str(text)
-        if unicodedata.category(ch) not in ("Cf", "Cc", "Co", "Cn")
+        if ch in allowed_controls or unicodedata.category(ch) not in ("Cf", "Cc", "Co", "Cn")
     )
     return cleaned.strip()
 
@@ -525,15 +524,19 @@ def sanitize_and_parse_xml(file_path, generator_name):
         return ET.Element("tv", {"generator-info-name": gen_clean})
     try:
         with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
-            content = clean_unicode(f.read())
+            content = clean_unicode(f.read(), preserve_newlines=True)
         cleaned_lines = [
             l for l in content.splitlines()
             if l.strip() not in ["JUEVES", "VIERNES", "SÁBADO", "SABADO", "DOMINGO", "LUNES", "MARTES", "MIÉRCOLES", "MIERCOLES"]
         ]
         root = ET.fromstring("\n".join(cleaned_lines))
         for elem in root.iter():
-            if elem.text:
-                elem.text = clean_unicode(elem.text)
+            if elem.text is not None:
+                # Limpia espacios/saltos de sangría previos, pero conserva texto real
+                stripped_txt = clean_unicode(elem.text)
+                elem.text = stripped_txt if stripped_txt else None
+            if elem.tail is not None:
+                elem.tail = None
             for k, v in list(elem.attrib.items()):
                 elem.attrib[k] = clean_unicode(v)
         return root
@@ -927,16 +930,19 @@ def main():
             root.append(p)
 
         for elem in root.iter():
-            if elem.text:
-                elem.text = clean_unicode(elem.text)
+            if elem.text is not None:
+                txt_clean = clean_unicode(elem.text)
+                elem.text = txt_clean if txt_clean else None
+            if elem.tail is not None:
+                elem.tail = None
             for k, v in list(elem.attrib.items()):
                 elem.attrib[k] = clean_unicode(v)
 
         ET.indent(root, space="  ", level=0)
         xml_bytes = ET.tostring(root, encoding="utf-8", xml_declaration=True)
-        clean_xml_text = clean_unicode(xml_bytes.decode("utf-8"))
+        clean_xml_text = clean_unicode(xml_bytes.decode("utf-8"), preserve_newlines=True)
         with open(xml_filename, "w", encoding="utf-8", newline="\n") as out_f:
-            out_f.write(clean_xml_text)
+            out_f.write(clean_xml_text + "\n")
         print(f"[OK] {xml_filename} guardado. Total programas: {len(sorted_progs)}")
 
 
