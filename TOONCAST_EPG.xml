@@ -6,54 +6,6 @@
   <channel id="TOONLA_BR.br">
     <display-name>Tooncast Brasil</display-name>
   </channel>
-  <programme start="20261120152200 -0300" stop="20261120154900 -0300" air_time_start="20261120152200 -0300" air_time_end="20261120154900 -0300" start_utc="20261120182200 +0000" stop_utc="20261120184900 +0000" air_time_start_utc="20261120182200 +0000" air_time_end_utc="20261120184900 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">LOS PICAPIEDRA</title>
-    <sub-title lang="es">Little Bamm Bamm</sub-title>
-    <desc lang="es">Los Mármol pelean por la custodia de un niño huérfano que encontraron en su puerta.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">3.90.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/xlOK7scZ5BFAnes4Ha7jD2VCgKY.jpg" />
-  </programme>
-  <programme start="20261120152200 -0300" stop="20261120154900 -0300" air_time_start="20261120152200 -0300" air_time_end="20261120154900 -0300" start_utc="20261120182200 +0000" stop_utc="20261120184900 +0000" air_time_start_utc="20261120182200 +0000" air_time_end_utc="20261120184900 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">OS FLINTSTONES</title>
-    <sub-title lang="pt">Little Bamm Bamm</sub-title>
-    <desc lang="pt">Uma batalha por custódia tem início quando os Rubbles descobrem um garoto órfão ¿ que não tem consciência da enorme força que tem ¿ na porta de casa e decidem adotá-lo.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">3.90.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/xlOK7scZ5BFAnes4Ha7jD2VCgKY.jpg" />
-  </programme>
-  <programme start="20261120154900 -0300" stop="20261120155900 -0300" air_time_start="20261120154900 -0300" air_time_end="20261120155900 -0300" start_utc="20261120184900 +0000" stop_utc="20261120185900 +0000" air_time_start_utc="20261120184900 +0000" air_time_end_utc="20261120185900 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">LOS AUTOS LOCOS</title>
-    <sub-title lang="es">SCOUT SCATTER</sub-title>
-    <desc lang="es">Los Sugaboo se escapan de la policía disfrazados de niños exploradores.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261120154900 -0300" stop="20261120155900 -0300" air_time_start="20261120154900 -0300" air_time_end="20261120155900 -0300" start_utc="20261120184900 +0000" stop_utc="20261120185900 +0000" air_time_start_utc="20261120184900 +0000" air_time_end_utc="20261120185900 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">CORRIDA MALUCA</title>
-    <sub-title lang="pt">SCOUT SCATTER</sub-title>
-    <desc lang="pt">A Quadrilha de Morte foge da polícia posando como Wood Scouts.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/g7TcjHt60KOCDOG5x2CK38sNuHn.jpg" />
-  </programme>
-  <programme start="20261120155900 -0300" stop="20261120160800 -0300" air_time_start="20261120155900 -0300" air_time_end="20261120160800 -0300" start_utc="20261120185900 +0000" stop_utc="20261120190800 +0000" air_time_start_utc="20261120185900 +0000" air_time_end_utc="20261120190800 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">LOS AUTOS LOCOS</title>
-    <sub-title lang="es">CREEPY TRIP TO LEMON TWIST</sub-title>
-    <desc lang="es">Los autos locos se encuentran con fantasmas en el pueblo abandonado de Spookane.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261120155900 -0300" stop="20261120160800 -0300" air_time_start="20261120155900 -0300" air_time_end="20261120160800 -0300" start_utc="20261120185900 +0000" stop_utc="20261120190800 +0000" air_time_start_utc="20261120185900 +0000" air_time_end_utc="20261120190800 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">CORRIDA MALUCA</title>
-    <sub-title lang="pt">CREEPY TRIP TO LEMON TWIST</sub-title>
-    <desc lang="pt">Os corredores malucos encontram fantasmas na cidade abandonada de Spookane.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/r7U95oGZaYxbLILmKhrgYrESgrr.jpg" />
-  </programme>
   <programme start="20261120160800 -0300" stop="20261120162000 -0300" air_time_start="20261120160800 -0300" air_time_end="20261120162000 -0300" start_utc="20261120190800 +0000" stop_utc="20261120192000 +0000" air_time_start_utc="20261120190800 +0000" air_time_end_utc="20261120192000 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">LOS AUTOS LOCOS</title>
     <sub-title lang="es">FAST TRACK TO HACKENSACK</sub-title>
@@ -5406,7 +5358,8 @@
   </programme>
   <programme start="20261123060000 -0300" stop="20261123062500 -0300" air_time_start="20261123060000 -0300" air_time_end="20261123062500 -0300" start_utc="20261123090000 +0000" stop_utc="20261123092500 +0000" air_time_start_utc="20261123090000 +0000" air_time_end_utc="20261123092500 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MANSIÓN FOSTER PARA AMIGOS IMAGINARIOS</title>
-    <sub-title lang="es">NEIGHBOR PAINS</sub-title>
+    <sub-title lang="es">Vecino Gruñón</sub-title>
+    <sub-title lang="en">NEIGHBOR PAINS</sub-title>
     <desc lang="es">Un pequeño niño que vive frente a la Mansión Foster atormenta a Bloo haciéndole muecas cada vez que le ve.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Aventuras</category>
@@ -5417,7 +5370,8 @@
   </programme>
   <programme start="20261123060000 -0300" stop="20261123062500 -0300" air_time_start="20261123060000 -0300" air_time_end="20261123062500 -0300" start_utc="20261123090000 +0000" stop_utc="20261123092500 +0000" air_time_start_utc="20261123090000 +0000" air_time_end_utc="20261123092500 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS</title>
-    <sub-title lang="pt">NEIGHBOR PAINS</sub-title>
+    <sub-title lang="pt">Festinha Infernal</sub-title>
+    <sub-title lang="en">NEIGHBOR PAINS</sub-title>
     <desc lang="pt">Um pestinha que mora na frente da Mansão atormenta Blu fazendo caretas para ele.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Aventura</category>
@@ -5428,7 +5382,8 @@
   </programme>
   <programme start="20261123062500 -0300" stop="20261123065000 -0300" air_time_start="20261123062500 -0300" air_time_end="20261123065000 -0300" start_utc="20261123092500 +0000" stop_utc="20261123095000 +0000" air_time_start_utc="20261123092500 +0000" air_time_end_utc="20261123095000 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MANSIÓN FOSTER PARA AMIGOS IMAGINARIOS</title>
-    <sub-title lang="es">PARTYING IS SUCH SWEET SOIREE</sub-title>
+    <sub-title lang="es">Fiesta salvaje</sub-title>
+    <sub-title lang="en">PARTYING IS SUCH SWEET SOIREE</sub-title>
     <desc lang="es">Cuando Mac intenta frustrar la fiesta secreta de Blu, Blu tienta a Mac con su única debilidad... el azúcar.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Aventuras</category>
@@ -5439,7 +5394,8 @@
   </programme>
   <programme start="20261123062500 -0300" stop="20261123065000 -0300" air_time_start="20261123062500 -0300" air_time_end="20261123065000 -0300" start_utc="20261123092500 +0000" stop_utc="20261123095000 +0000" air_time_start_utc="20261123092500 +0000" air_time_end_utc="20261123095000 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS</title>
-    <sub-title lang="pt">PARTYING IS SUCH SWEET SOIREE</sub-title>
+    <sub-title lang="pt">Tarde Festiva</sub-title>
+    <sub-title lang="en">PARTYING IS SUCH SWEET SOIREE</sub-title>
     <desc lang="pt">Quando Mac tenta impedir a realização da festa secreta de Blu, Blu tenta Mac com sua única fraqueza, o açúcar.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Aventura</category>
@@ -5450,7 +5406,8 @@
   </programme>
   <programme start="20261123065000 -0300" stop="20261123070100 -0300" air_time_start="20261123065000 -0300" air_time_end="20261123070100 -0300" start_utc="20261123095000 +0000" stop_utc="20261123100100 +0000" air_time_start_utc="20261123095000 +0000" air_time_end_utc="20261123100100 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">SCOOP OF THE CENTURY</sub-title>
+    <sub-title lang="es">El Reportaje Del Siglo</sub-title>
+    <sub-title lang="en">SCOOP OF THE CENTURY</sub-title>
     <desc lang="es">El Profesor Lumpus se obsesiona con leer el periódico de Dave y Ping Pong, a pesar de que es "solo para campistas".</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -5459,7 +5416,8 @@
   </programme>
   <programme start="20261123065000 -0300" stop="20261123070100 -0300" air_time_start="20261123065000 -0300" air_time_end="20261123070100 -0300" start_utc="20261123095000 +0000" stop_utc="20261123100100 +0000" air_time_start_utc="20261123095000 +0000" air_time_end_utc="20261123100100 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">SCOOP OF THE CENTURY</sub-title>
+    <sub-title lang="pt">Episódio 24</sub-title>
+    <sub-title lang="en">SCOOP OF THE CENTURY</sub-title>
     <desc lang="pt">Lumpus fica obcecado para ler o jornal de Dave e Ping Pong, mesmo que ele seja "apenas para escoteiros".</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -5468,7 +5426,8 @@
   </programme>
   <programme start="20261123070100 -0300" stop="20261123071200 -0300" air_time_start="20261123070100 -0300" air_time_end="20261123071200 -0300" start_utc="20261123100100 +0000" stop_utc="20261123101200 +0000" air_time_start_utc="20261123100100 +0000" air_time_end_utc="20261123101200 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">WEDDING BELL BLUES</sub-title>
+    <sub-title lang="es">La Boda</sub-title>
+    <sub-title lang="en">WEDDING BELL BLUES</sub-title>
     <desc lang="es">El Profesor Lumpus se apunta como el nuevo novio de Jane Doe, pero el anillo de compromiso está atascado en la nariz de Raj.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -5477,7 +5436,8 @@
   </programme>
   <programme start="20261123070100 -0300" stop="20261123071200 -0300" air_time_start="20261123070100 -0300" air_time_end="20261123071200 -0300" start_utc="20261123100100 +0000" stop_utc="20261123101200 +0000" air_time_start_utc="20261123100100 +0000" air_time_end_utc="20261123101200 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">WEDDING BELL BLUES</sub-title>
+    <sub-title lang="pt">Episódio 13</sub-title>
+    <sub-title lang="en">WEDDING BELL BLUES</sub-title>
     <desc lang="pt">Lumpus se apresenta como o noivo de Jane Dócil. Mas o anel de noivado dela foi parar dentro do nariz de Raj.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -5486,7 +5446,8 @@
   </programme>
   <programme start="20261123071200 -0300" stop="20261123072300 -0300" air_time_start="20261123071200 -0300" air_time_end="20261123072300 -0300" start_utc="20261123101200 +0000" stop_utc="20261123102300 +0000" air_time_start_utc="20261123101200 +0000" air_time_end_utc="20261123102300 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">SAMSON'S MAIL FRAUD</sub-title>
+    <sub-title lang="es">El Mago</sub-title>
+    <sub-title lang="en">SAMSON'S MAIL FRAUD</sub-title>
     <desc lang="es">Cuando los otros campistas se rien de Samson, él les miente y les dice que tiene a un amigo muy famoso y mágico.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -5495,7 +5456,8 @@
   </programme>
   <programme start="20261123071200 -0300" stop="20261123072300 -0300" air_time_start="20261123071200 -0300" air_time_end="20261123072300 -0300" start_utc="20261123101200 +0000" stop_utc="20261123102300 +0000" air_time_start_utc="20261123101200 +0000" air_time_end_utc="20261123102300 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">SAMSON'S MAIL FRAUD</sub-title>
+    <sub-title lang="pt">Episódio 17</sub-title>
+    <sub-title lang="en">SAMSON'S MAIL FRAUD</sub-title>
     <desc lang="pt">Depois de ter sido zombado pelos outros escoteiros, Simão mente e diz que tem um amigo mágico e muito famoso.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -5504,7 +5466,7 @@
   </programme>
   <programme start="20261123072300 -0300" stop="20261123073700 -0300" air_time_start="20261123072300 -0300" air_time_end="20261123073700 -0300" start_utc="20261123102300 +0000" stop_utc="20261123103700 +0000" air_time_start_utc="20261123102300 +0000" air_time_end_utc="20261123103700 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">Campeonato Runny Ruma</sub-title>
+    <sub-title lang="es">La Peluca Adivinadora</sub-title>
     <sub-title lang="en">THE WIG OF WHY</sub-title>
     <desc lang="es">Lazlo se encuentra una peluca y se hace pasar por una vidente que hace predicciones del futuro, pero los campistas se asustan de verdad cuando las predicciones se vuelven realidad.</desc>
     <category lang="es">Animación</category>
@@ -5514,7 +5476,7 @@
   </programme>
   <programme start="20261123072300 -0300" stop="20261123073700 -0300" air_time_start="20261123072300 -0300" air_time_end="20261123073700 -0300" start_utc="20261123102300 +0000" stop_utc="20261123103700 +0000" air_time_start_utc="20261123102300 +0000" air_time_end_utc="20261123103700 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">Campeonato Runny Ruma</sub-title>
+    <sub-title lang="pt">Episódio 18</sub-title>
     <sub-title lang="en">THE WIG OF WHY</sub-title>
     <desc lang="pt">Lazlo encontra uma peruca e finge ser uma vidente, mas os acampantes ficam espantados quando as previsões se realizam.</desc>
     <category lang="pt">Animação</category>
@@ -5524,7 +5486,7 @@
   </programme>
   <programme start="20261123073700 -0300" stop="20261123074800 -0300" air_time_start="20261123073700 -0300" air_time_end="20261123074800 -0300" start_utc="20261123103700 +0000" stop_utc="20261123104800 +0000" air_time_start_utc="20261123103700 +0000" air_time_end_utc="20261123104800 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">Hola Verano, Adios Campamento</sub-title>
+    <sub-title lang="es">Sansón El Invisible</sub-title>
     <sub-title lang="en">CAMP SAMSON</sub-title>
     <desc lang="es">Cuándo Samson se siente excluido del grupo, decide hacer que todos lo recuerden... ¡a como de lugar!</desc>
     <category lang="es">Animación</category>
@@ -5534,7 +5496,7 @@
   </programme>
   <programme start="20261123073700 -0300" stop="20261123074800 -0300" air_time_start="20261123073700 -0300" air_time_end="20261123074800 -0300" start_utc="20261123103700 +0000" stop_utc="20261123104800 +0000" air_time_start_utc="20261123103700 +0000" air_time_end_utc="20261123104800 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">Hola Verano, Adios Campamento</sub-title>
+    <sub-title lang="pt">Episódio 21</sub-title>
     <sub-title lang="en">CAMP SAMSON</sub-title>
     <desc lang="pt">Quando Samson sente-se deixado de lado pelo grupo, ele resolve fazer todos se lembrarem dele... de alguma maneira!</desc>
     <category lang="pt">Animação</category>
@@ -5544,7 +5506,8 @@
   </programme>
   <programme start="20261123074800 -0300" stop="20261123080100 -0300" air_time_start="20261123074800 -0300" air_time_end="20261123080100 -0300" start_utc="20261123104800 +0000" stop_utc="20261123110100 +0000" air_time_start_utc="20261123104800 +0000" air_time_end_utc="20261123110100 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">CLOWN CAMP</sub-title>
+    <sub-title lang="es">Campamento Payaso</sub-title>
+    <sub-title lang="en">CLOWN CAMP</sub-title>
     <desc lang="es">Gracias a Lumpus, Lazlo deberá enfrentar su miedo más grande: ¡los payasos!</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -5553,7 +5516,8 @@
   </programme>
   <programme start="20261123074800 -0300" stop="20261123080100 -0300" air_time_start="20261123074800 -0300" air_time_end="20261123080100 -0300" start_utc="20261123104800 +0000" stop_utc="20261123110100 +0000" air_time_start_utc="20261123104800 +0000" air_time_end_utc="20261123110100 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">CLOWN CAMP</sub-title>
+    <sub-title lang="pt">Episódio 22</sub-title>
+    <sub-title lang="en">CLOWN CAMP</sub-title>
     <desc lang="pt">Graças a Lumpus, Lazlo deve encarar seu maior medo: os palhaços!</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -5562,7 +5526,7 @@
   </programme>
   <programme start="20261123080100 -0300" stop="20261123081200 -0300" air_time_start="20261123080100 -0300" air_time_end="20261123081200 -0300" start_utc="20261123110100 +0000" stop_utc="20261123111200 +0000" air_time_start_utc="20261123110100 +0000" air_time_end_utc="20261123111200 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">Día de la Inyección</sub-title>
+    <sub-title lang="es">Yo Adam y Tú Jake</sub-title>
     <sub-title lang="en">ME ADAM, YOU JAKE</sub-title>
     <desc lang="es">Después de perder frente a Jake el papel de Tarzán en la obra de la escuela, Adam desafía a su mejor amigo a una pruebas de Tarzán para ver quién sería el mejor Rey de la Jungla.</desc>
     <category lang="es">Animación</category>
@@ -5571,7 +5535,7 @@
   </programme>
   <programme start="20261123080100 -0300" stop="20261123081200 -0300" air_time_start="20261123080100 -0300" air_time_end="20261123081200 -0300" start_utc="20261123110100 +0000" stop_utc="20261123111200 +0000" air_time_start_utc="20261123110100 +0000" air_time_end_utc="20261123111200 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">Día de la Inyección</sub-title>
+    <sub-title lang="pt">Mim Adão, Você Jake</sub-title>
     <sub-title lang="en">ME ADAM, YOU JAKE</sub-title>
     <desc lang="pt">Após perder o papel de Tarzan para Jake na peça da escola, Adão desafia seu melhor amigo para um "Duelo Tarzan" na intenção de comprovar quem realmente seria o melhor Rei da Selva.</desc>
     <category lang="pt">Animação</category>
@@ -5580,7 +5544,8 @@
   </programme>
   <programme start="20261123081200 -0300" stop="20261123082300 -0300" air_time_start="20261123081200 -0300" air_time_end="20261123082300 -0300" start_utc="20261123111200 +0000" stop_utc="20261123112300 +0000" air_time_start_utc="20261123111200 +0000" air_time_end_utc="20261123112300 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">MY FERAL LYON</sub-title>
+    <sub-title lang="es">Mi León Salvaje</sub-title>
+    <sub-title lang="en">MY FERAL LYON</sub-title>
     <desc lang="es">Esperando conseguir una chaqueta de cuero para Jake, Adam se une a un "club" para felinos rudos.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -5588,7 +5553,8 @@
   </programme>
   <programme start="20261123081200 -0300" stop="20261123082300 -0300" air_time_start="20261123081200 -0300" air_time_end="20261123082300 -0300" start_utc="20261123111200 +0000" stop_utc="20261123112300 +0000" air_time_start_utc="20261123111200 +0000" air_time_end_utc="20261123112300 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">MY FERAL LYON</sub-title>
+    <sub-title lang="pt">Episódio 3</sub-title>
+    <sub-title lang="en">MY FERAL LYON</sub-title>
     <desc lang="pt">Miss Chameleon confesses that her acting career stalled due to terrible stage fright, so Adam, Jake, Windsor and the gang try to help her.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -5596,7 +5562,8 @@
   </programme>
   <programme start="20261123082300 -0300" stop="20261123083600 -0300" air_time_start="20261123082300 -0300" air_time_end="20261123083600 -0300" start_utc="20261123112300 +0000" stop_utc="20261123113600 +0000" air_time_start_utc="20261123112300 +0000" air_time_end_utc="20261123113600 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">SYNCH OR SWIM</sub-title>
+    <sub-title lang="es">Nado Sincronizado</sub-title>
+    <sub-title lang="en">SYNCH OR SWIM</sub-title>
     <desc lang="es">El deseo de Jake de convertirse en parte del equipo de nado sincronizado, resulta en desastre y en ataques de "monos marinos mutantes".</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -5604,7 +5571,8 @@
   </programme>
   <programme start="20261123082300 -0300" stop="20261123083600 -0300" air_time_start="20261123082300 -0300" air_time_end="20261123083600 -0300" start_utc="20261123112300 +0000" stop_utc="20261123113600 +0000" air_time_start_utc="20261123112300 +0000" air_time_end_utc="20261123113600 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">SYNCH OR SWIM</sub-title>
+    <sub-title lang="pt">Episódio 12</sub-title>
+    <sub-title lang="en">SYNCH OR SWIM</sub-title>
     <desc lang="pt">O enorme desejo de Jake de fazer parte do time de nado sincronizado da Escola Charles Darwin resulta em desastre e em ataques de "símios do mar" mutantes.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -5612,7 +5580,8 @@
   </programme>
   <programme start="20261123083600 -0300" stop="20261123084700 -0300" air_time_start="20261123083600 -0300" air_time_end="20261123084700 -0300" start_utc="20261123113600 +0000" stop_utc="20261123114700 +0000" air_time_start_utc="20261123113600 +0000" air_time_end_utc="20261123114700 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">THE BUTT OF THE JAKE</sub-title>
+    <sub-title lang="es">El Trasero de Jake</sub-title>
+    <sub-title lang="en">THE BUTT OF THE JAKE</sub-title>
     <desc lang="es">Los amigos de Jake se preparan para una intervención, después de que la obsesión de Jake por su trasero se sale de control.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -5620,7 +5589,8 @@
   </programme>
   <programme start="20261123083600 -0300" stop="20261123084700 -0300" air_time_start="20261123083600 -0300" air_time_end="20261123084700 -0300" start_utc="20261123113600 +0000" stop_utc="20261123114700 +0000" air_time_start_utc="20261123113600 +0000" air_time_end_utc="20261123114700 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">THE BUTT OF THE JAKE</sub-title>
+    <sub-title lang="pt">Episódio 25</sub-title>
+    <sub-title lang="en">THE BUTT OF THE JAKE</sub-title>
     <desc lang="pt">Os amigos de Jake se preparam para intervir depois que a obsessão de Jake com seu próprio bumbum fica fora de controle.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -5628,7 +5598,8 @@
   </programme>
   <programme start="20261123084700 -0300" stop="20261123090100 -0300" air_time_start="20261123084700 -0300" air_time_end="20261123090100 -0300" start_utc="20261123114700 +0000" stop_utc="20261123120100 +0000" air_time_start_utc="20261123114700 +0000" air_time_end_utc="20261123120100 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">LONELY LYON</sub-title>
+    <sub-title lang="es">León Solitario</sub-title>
+    <sub-title lang="en">LONELY LYON</sub-title>
     <desc lang="es">Jake cree que Adam quiere dejar la Escuela Charles Darwin y en un esfuerzo para hacerlo sentir más bienvenido, el y sus amigos comienzan a comportarse más humanos.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -5636,7 +5607,8 @@
   </programme>
   <programme start="20261123084700 -0300" stop="20261123090100 -0300" air_time_start="20261123084700 -0300" air_time_end="20261123090100 -0300" start_utc="20261123114700 +0000" stop_utc="20261123120100 +0000" air_time_start_utc="20261123114700 +0000" air_time_end_utc="20261123120100 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MEU AMIGO DA ESCOLA É UM MACACO</title>
-    <sub-title lang="pt">LONELY LYON</sub-title>
+    <sub-title lang="pt">Episódio 22</sub-title>
+    <sub-title lang="en">LONELY LYON</sub-title>
     <desc lang="pt">Uma carta ao editor faz Jake pensar que Adão está considerando partir da Escola Charles Darwin. Em um esforço para fazer Adão sentir-se mais bem-vindo, ele e os seus amigos tentam ficar mais humanos.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Comédia</category>
@@ -5644,7 +5616,7 @@
   </programme>
   <programme start="20261123090100 -0300" stop="20261123090800 -0300" air_time_start="20261123090100 -0300" air_time_end="20261123090800 -0300" start_utc="20261123120100 +0000" stop_utc="20261123120800 +0000" air_time_start_utc="20261123120100 +0000" air_time_end_utc="20261123120800 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">Ninja Instántaneo</sub-title>
+    <sub-title lang="es">Dulce Trabajo</sub-title>
     <sub-title lang="en">TAFFY TROUBLE</sub-title>
     <desc lang="es">Cuando Kaz les dice a las chicas que deben pagar alquiler por el tiempo que pasan en el autobús de la gira, Ami y Yumi consiguen trabajo en una fábrica de caramelos. Inconscientemente, liberan a una bola gigante de caramelo que se escapa de la fábrica y se traga todo lo que encuentra en su camino.</desc>
     <category lang="es">Animación</category>
@@ -5654,7 +5626,7 @@
   </programme>
   <programme start="20261123090100 -0300" stop="20261123090800 -0300" air_time_start="20261123090100 -0300" air_time_end="20261123090800 -0300" start_utc="20261123120100 +0000" stop_utc="20261123120800 +0000" air_time_start_utc="20261123120100 +0000" air_time_end_utc="20261123120800 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">Ninja Instántaneo</sub-title>
+    <sub-title lang="pt">Episódio 8</sub-title>
     <sub-title lang="en">TAFFY TROUBLE</sub-title>
     <desc lang="pt">Quando Kaz conta para as garotas que elas têm que pagar aluguel pelo tempo no ônibus de turnê, Ami e Yumi arrumam um emprego na fábrica de doces. Sem perceber, elas liberam uma bola gigante de puxa-puxa que escapa da fábrica e engole tudo o que vê pelo caminho.</desc>
     <category lang="pt">Animação</category>
@@ -5664,7 +5636,7 @@
   </programme>
   <programme start="20261123090800 -0300" stop="20261123091400 -0300" air_time_start="20261123090800 -0300" air_time_end="20261123091400 -0300" start_utc="20261123120800 +0000" stop_utc="20261123121400 +0000" air_time_start_utc="20261123120800 +0000" air_time_end_utc="20261123121400 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">Baile a Go-Go</sub-title>
+    <sub-title lang="es">Yumi Salva A Kaz</sub-title>
     <sub-title lang="en">YUMI SAVES KAZ</sub-title>
     <desc lang="es">Yumi salva a Kaz de ser aplastado por una rosquilla gigante y Kaz se vuelve completamente agradecido hacia ella. Al principio, Yumi disfruta de la atención pero pronto se siente molesta cuando la gratitud arrolladora de Kaz comienza a invadir su espacio personal.</desc>
     <category lang="es">Animación</category>
@@ -5674,7 +5646,7 @@
   </programme>
   <programme start="20261123090800 -0300" stop="20261123091400 -0300" air_time_start="20261123090800 -0300" air_time_end="20261123091400 -0300" start_utc="20261123120800 +0000" stop_utc="20261123121400 +0000" air_time_start_utc="20261123120800 +0000" air_time_end_utc="20261123121400 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">Baile a Go-Go</sub-title>
+    <sub-title lang="pt">Episódio 25</sub-title>
     <sub-title lang="en">YUMI SAVES KAZ</sub-title>
     <desc lang="pt">Quando Yumi salva Kaz de ser esmagado por um donut gigante, Kaz fica em dívida com ela. No começo, Yumi até gosta da atenção, mas começa a ficar irritada quando a gratidão de Kaz invade sua vida pessoal.</desc>
     <category lang="pt">Animação</category>
@@ -5684,7 +5656,7 @@
   </programme>
   <programme start="20261123091400 -0300" stop="20261123092100 -0300" air_time_start="20261123091400 -0300" air_time_end="20261123092100 -0300" start_utc="20261123121400 +0000" stop_utc="20261123122100 +0000" air_time_start_utc="20261123121400 +0000" air_time_end_utc="20261123122100 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">Los Chupa Talentos</sub-title>
+    <sub-title lang="es">Viva El Heavy Metal</sub-title>
     <sub-title lang="en">METAL MENTAL</sub-title>
     <desc lang="es">Las Puffy son contratadas para ir de gira con Metalbreath, la banda de heavy metal más detestable, asquerosa y menos talentosa del mundo. Al borde de la locura, Ami y Yumi deciden vengarse, dándole a Metalbreath un cambio de imagen para que parezcan una de banda de chicos tontos.</desc>
     <category lang="es">Animación</category>
@@ -5694,7 +5666,7 @@
   </programme>
   <programme start="20261123091400 -0300" stop="20261123092100 -0300" air_time_start="20261123091400 -0300" air_time_end="20261123092100 -0300" start_utc="20261123121400 +0000" stop_utc="20261123122100 +0000" air_time_start_utc="20261123121400 +0000" air_time_end_utc="20261123122100 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">Los Chupa Talentos</sub-title>
+    <sub-title lang="pt">Episódio 12</sub-title>
     <sub-title lang="en">METAL MENTAL</sub-title>
     <desc lang="pt">As Puffy são inscritas em uma turnê com a Metalbreath, a banda de heavy metal mais detestável, horrível e sem talento do mundo. Quando não agüentam mais a situação, Ami e Yumi decidem se vingar,  transformando a Metalbreath em uma banda de meninos bobos.</desc>
     <category lang="pt">Animação</category>
@@ -5704,7 +5676,7 @@
   </programme>
   <programme start="20261123092100 -0300" stop="20261123092800 -0300" air_time_start="20261123092100 -0300" air_time_end="20261123092800 -0300" start_utc="20261123122100 +0000" stop_utc="20261123122800 +0000" air_time_start_utc="20261123122100 +0000" air_time_end_utc="20261123122800 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">Kaz Hombre Lobo</sub-title>
+    <sub-title lang="es">Celosas</sub-title>
     <sub-title lang="en">JANICE JEALOUS</sub-title>
     <desc lang="es">Las chicas intentan acabar con el romance de Chad.</desc>
     <category lang="es">Animación</category>
@@ -5713,7 +5685,7 @@
   </programme>
   <programme start="20261123092100 -0300" stop="20261123092800 -0300" air_time_start="20261123092100 -0300" air_time_end="20261123092800 -0300" start_utc="20261123122100 +0000" stop_utc="20261123122800 +0000" air_time_start_utc="20261123122100 +0000" air_time_end_utc="20261123122800 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">Kaz Hombre Lobo</sub-title>
+    <sub-title lang="pt">Episódio 24</sub-title>
     <sub-title lang="en">JANICE JEALOUS</sub-title>
     <desc lang="pt">As garotas tentam acabar com o novo namoro de Chad.</desc>
     <category lang="pt">Animação</category>
@@ -5732,7 +5704,7 @@
   </programme>
   <programme start="20261123092800 -0300" stop="20261123093700 -0300" air_time_start="20261123092800 -0300" air_time_end="20261123093700 -0300" start_utc="20261123122800 +0000" stop_utc="20261123123700 +0000" air_time_start_utc="20261123122800 +0000" air_time_end_utc="20261123123700 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">HI HI PUFFY AMI YUMI</title>
-    <sub-title lang="pt">El Secreto de Ami</sub-title>
+    <sub-title lang="pt">Episódio 7</sub-title>
     <sub-title lang="en">STUPID CUPID</sub-title>
     <desc lang="pt">Ami e Yumi chegam à conclusão de que Kaz anda muito sozinho e decidem fazer uma transformação com ele, que, como elas planejaram, seria ajudá-lo a arrumar uma namorada. Rapidamente as garotas percebem que há um motivo para Kaz estar sozinho, ele não sabe nada sobre namoro!</desc>
     <category lang="pt">Animação</category>
@@ -5752,7 +5724,7 @@
   </programme>
   <programme start="20261123093700 -0300" stop="20261123094800 -0300" air_time_start="20261123093700 -0300" air_time_end="20261123094800 -0300" start_utc="20261123123700 +0000" stop_utc="20261123124800 +0000" air_time_start_utc="20261123123700 +0000" air_time_end_utc="20261123124800 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MIKE, LU E OG</title>
-    <sub-title lang="pt">Episodio 9</sub-title>
+    <sub-title lang="pt">Episódio 9</sub-title>
     <sub-title lang="en">The Great Snipe Hunt</sub-title>
     <desc lang="pt">Og fica arrasado quando passa seu aniversário de sete anos caçando.</desc>
     <category lang="pt">Animação</category>

@@ -21,23 +21,6 @@
   <channel id="WARNER_MX.mx">
     <display-name>Warner Channel México</display-name>
   </channel>
-  <programme start="20261120103600 -0600" stop="20261120123600 -0600" air_time_start="20261120103600 -0600" air_time_end="20261120123600 -0600" start_utc="20261120163600 +0000" stop_utc="20261120183600 +0000" air_time_start_utc="20261120163600 +0000" air_time_end_utc="20261120183600 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">CENICIENTA</title>
-    <sub-title lang="es">CINDERELLA</sub-title>
-    <desc lang="es">Miniserie de TV (2 episodios). Aurora, una chica de 13 años, ha heredado de su padre un don especial para la música. Cuando éste se queda viudo, contrae matrimonio con Irene, una antipática mujer que, junto con sus dos hijas, hace la vida imposible a Aurora. A pesar de eso, ella es feliz en gran parte gracias a Sebastian, el tímido heredero de una de las familias más ricas del país. Pero su vida da un vuelco cuando su padre muere y su madrastra la despoja de todos sus bienes.</desc>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Musical</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261120114400 -0500" stop="20261120134200 -0500" air_time_start="20261120114400 -0500" air_time_end="20261120134200 -0500" start_utc="20261120164400 +0000" stop_utc="20261120184200 +0000" air_time_start_utc="20261120164400 +0000" air_time_end_utc="20261120184200 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">El Último Hombre</title>
-    <sub-title lang="es">Last Man Standing</sub-title>
-    <desc lang="es">En un pueblo sin justicia, sólo hay una ley, la propia. Bruce Willis es John Smith, un asesino a sueldo que hará de las suyas en un pueblo perdido del Oeste, cercano a la frontera con México. Remake del clásico "Por un puñado de dólares", esta nueva versión está a cargo del experto en westerns, Walter Hill.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-  </programme>
   <programme start="20261120123200 -0500" stop="20261120142400 -0500" air_time_start="20261120123200 -0500" air_time_end="20261120142400 -0500" start_utc="20261120173200 +0000" stop_utc="20261120192400 +0000" air_time_start_utc="20261120173200 +0000" air_time_end_utc="20261120192400 +0000" is_live="false" channel="WARNER_AN.co">
     <title lang="es">El Último Hombre</title>
     <sub-title lang="es">Last Man Standing</sub-title>
@@ -103,19 +86,6 @@
     <category lang="es">Acción</category>
     <category lang="es">Aventuras</category>
     <category lang="es">Fantasía</category>
-  </programme>
-  <programme start="20261120150500 -0300" stop="20261120152800 -0300" air_time_start="20261120150500 -0300" air_time_end="20261120152800 -0300" start_utc="20261120180500 +0000" stop_utc="20261120182800 +0000" air_time_start_utc="20261120180500 +0000" air_time_end_utc="20261120182800 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">2 BROKE GIRLS</title>
-    <sub-title lang="pt">AND THE CRIME RING</sub-title>
-    <desc lang="pt">Max e Caroline são presas por arrombar o apartamento de um rapaz atraente, para recuperar os anéis que Caroline esqueceu lá após ter passado uma noite com ele.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/302xND8fK0hSB0rpEwXxPu9h5Ft.jpg" />
-  </programme>
-  <programme start="20261120152800 -0300" stop="20261120154900 -0300" air_time_start="20261120152800 -0300" air_time_end="20261120154900 -0300" start_utc="20261120182800 +0000" stop_utc="20261120184900 +0000" air_time_start_utc="20261120182800 +0000" air_time_end_utc="20261120184900 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">TWENTY-FIVE LITTLE PRE-PUBERS WITHOUT A SNOOT-FULL</sub-title>
-    <desc lang="pt">Quando Alan e Judith discutem durante o ensaio de uma peça que Jake está ensaiando com os colegas da escola, Charlie é forçado a cuidar sozinho de uma sala cheia de quartanistas. As crianças pensam que Charlie é um "perdedor" quando descobrem que ele escreveu a música do comercial do cereal "Maple Loops". Quando Charlie descobre que a crianças conhecem todos os jingles que ele escreveu, ele decide usar seus conhecimentos em fazer comerciais para organizar o ensaio da peça, e consegue resultados interessantes.</desc>
-    <category lang="pt">Comédia</category>
   </programme>
   <programme start="20261120154900 -0300" stop="20261120161300 -0300" air_time_start="20261120154900 -0300" air_time_end="20261120161300 -0300" start_utc="20261120184900 +0000" stop_utc="20261120191300 +0000" air_time_start_utc="20261120184900 +0000" air_time_end_utc="20261120191300 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">TWO AND A HALF MEN</title>
@@ -4360,7 +4330,7 @@
   </programme>
   <programme start="20261123061200 -0300" stop="20261123063500 -0300" air_time_start="20261123061200 -0300" air_time_end="20261123063500 -0300" start_utc="20261123091200 +0000" stop_utc="20261123093500 +0000" air_time_start_utc="20261123091200 +0000" air_time_end_utc="20261123093500 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">YOUNG SHELDON - SEASON 6</title>
-    <sub-title lang="pt">Ira adolescente y la marcha de la vergüenza del genio</sub-title>
+    <sub-title lang="pt">Angustia Adolescente e a Caminhada da Vergonha de um Garoto Inteligente</sub-title>
     <sub-title lang="en">TEEN ANGST AND A SMART-BOY WALK OF SHAME</sub-title>
     <desc lang="pt">Sheldon confronta o fracasso de sua base de dados; Georgie e Mandy tentam se virar como pais; Missy sente-se esquecida.</desc>
     <category lang="pt">Comédia</category>
@@ -4412,7 +4382,7 @@
   </programme>
   <programme start="20261123063500 -0300" stop="20261123065400 -0300" air_time_start="20261123063500 -0300" air_time_end="20261123065400 -0300" start_utc="20261123093500 +0000" stop_utc="20261123095400 +0000" air_time_start_utc="20261123093500 +0000" air_time_end_utc="20261123095400 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">YOUNG SHELDON - SEASON 6</title>
-    <sub-title lang="pt">Una camioneta robada y emprendiendo la fuga</sub-title>
+    <sub-title lang="pt">Um carro roubado e fugindo de casa</sub-title>
     <sub-title lang="en">A STOLEN TRUCK AND GOING ON THE LAM</sub-title>
     <desc lang="pt">Missy surrupia a caminhonete de seu pai e pega estrada com sua amiga Paige.</desc>
     <category lang="pt">Comédia</category>
@@ -4544,7 +4514,8 @@
   </programme>
   <programme start="20261123082300 -0300" stop="20261123084600 -0300" air_time_start="20261123082300 -0300" air_time_end="20261123084600 -0300" start_utc="20261123112300 +0000" stop_utc="20261123114600 +0000" air_time_start_utc="20261123112300 +0000" air_time_end_utc="20261123114600 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">ENJOY THOSE GARLIC BALLS</sub-title>
+    <sub-title lang="pt">Aproveita as Bolinhas de Alho</sub-title>
+    <sub-title lang="en">ENJOY THOSE GARLIC BALLS</sub-title>
     <desc lang="pt">Charlie implora a Alan que esqueça o passado e Alan seguindo o seu conselho devolve a Judith uma girafa de cerâmica que tinha ficado com ele na partilha dos bens no divórcio. Entretanto, Judith nem se lembrava da peça e Alan vê como ela é cortejada pelo Dr Melnick, o pediatra de Jake. Isto o deixa ainda mais deprimido, até que Charlie chama sua atenção para o fato de que se ela se casar novamente, Alan não terá que lhe pagar mais pensão. Assim, Alan decide ajudar Judith em sua nova relação. Evelyn, a mãe de Charlie, lhe pergunta por que ele a odeia tanto, deixando-o numa situação bastante constrangedora, Berta e Rose se metem na conversa e continuam o interrogatório.</desc>
     <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/gZaNxH1KC7qwT5PQQxDEyEURjly.jpg" />
@@ -4569,8 +4540,9 @@
   </programme>
   <programme start="20261123082800 -0500" stop="20261123085400 -0500" air_time_start="20261123082800 -0500" air_time_end="20261123085400 -0500" start_utc="20261123132800 +0000" stop_utc="20261123135400 +0000" air_time_start_utc="20261123132800 +0000" air_time_end_utc="20261123135400 +0000" is_live="false" channel="WARNER_CO.co">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">ENJOY THOSE GARLIC BALLS</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Disfruta de esas albóndigas</sub-title>
+    <sub-title lang="en">ENJOY THOSE GARLIC BALLS</sub-title>
+    <desc lang="es">Judith está saliendo con el pediatra de Jake, Greg (Ryan Stiles), y Alan está molesto por la idea de que Judith esté con otro hombre - hasta que Charlie señala que si se vuelve a casar, sus pagos de pensión alimenticia terminarán, así que Alan intenta hacerse amigo de él. Mientras le daba un masaje a Greg, Judith entró y Alan le rompió el cuello a Greg accidentalmente en un ataque de pánico - causando que pagara más dinero del que tenía que pagar en primer lugar. Además, Evelyn visita a Charlie y se pregunta por qué parece odiarla.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/gZaNxH1KC7qwT5PQQxDEyEURjly.jpg" />
   </programme>
@@ -4603,14 +4575,16 @@
   </programme>
   <programme start="20261123084600 -0300" stop="20261123091000 -0300" air_time_start="20261123084600 -0300" air_time_end="20261123091000 -0300" start_utc="20261123114600 +0000" stop_utc="20261123121000 +0000" air_time_start_utc="20261123114600 +0000" air_time_end_utc="20261123121000 +0000" is_live="false" channel="WARNER_AR.ar">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">ENJOY THOSE GARLIC BALLS</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Disfruta de esas albóndigas</sub-title>
+    <sub-title lang="en">ENJOY THOSE GARLIC BALLS</sub-title>
+    <desc lang="es">Judith está saliendo con el pediatra de Jake, Greg (Ryan Stiles), y Alan está molesto por la idea de que Judith esté con otro hombre - hasta que Charlie señala que si se vuelve a casar, sus pagos de pensión alimenticia terminarán, así que Alan intenta hacerse amigo de él. Mientras le daba un masaje a Greg, Judith entró y Alan le rompió el cuello a Greg accidentalmente en un ataque de pánico - causando que pagara más dinero del que tenía que pagar en primer lugar. Además, Evelyn visita a Charlie y se pregunta por qué parece odiarla.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/gZaNxH1KC7qwT5PQQxDEyEURjly.jpg" />
   </programme>
   <programme start="20261123084600 -0300" stop="20261123090800 -0300" air_time_start="20261123084600 -0300" air_time_end="20261123090800 -0300" start_utc="20261123114600 +0000" stop_utc="20261123120800 +0000" air_time_start_utc="20261123114600 +0000" air_time_end_utc="20261123120800 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">A BAG FULL OF JAWEA</sub-title>
+    <sub-title lang="pt">Fazendo Sinais</sub-title>
+    <sub-title lang="en">A BAG FULL OF JAWEA</sub-title>
     <desc lang="pt">Charlie tenta impedir que Jake seja suspenso do colégio por estar paquerando a professora. Infelizmente, isso não lhes traz bons resultados.</desc>
     <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/oaSjtbrBlvRiqieNp6bcvy8Rk3j.jpg" />
@@ -4626,8 +4600,9 @@
   </programme>
   <programme start="20261123085400 -0500" stop="20261123091900 -0500" air_time_start="20261123085400 -0500" air_time_end="20261123091900 -0500" start_utc="20261123135400 +0000" stop_utc="20261123141900 +0000" air_time_start_utc="20261123135400 +0000" air_time_end_utc="20261123141900 +0000" is_live="false" channel="WARNER_CO.co">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">A BAG FULL OF JAWEA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Un saco lleno de corchos</sub-title>
+    <sub-title lang="en">A BAG FULL OF JAWEA</sub-title>
+    <desc lang="es">Cuando Jake se mete en problemas en la escuela por darle el dedo a su maestra, Delores Pasternak (Missi Pyle), Charlie decide cortejarla como un intento de salvar a Jake de ser suspendido. Jake entonces atrapa a los dos en medio de la noche. Cuando Alan se entera, insiste en que Charlie lo deje, pero más tarde insiste en que Charlie no lo haga porque Jake ha estado sacando buenas notas en sus trabajos. Charlie rompe con Delores, de todos modos, debido al hecho de que ella quiere un compromiso, y ella castiga a Jake dándole el doble de la cantidad de su tarea regular.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/oaSjtbrBlvRiqieNp6bcvy8Rk3j.jpg" />
   </programme>
@@ -4642,14 +4617,16 @@
   </programme>
   <programme start="20261123090300 -0400" stop="20261123092800 -0400" air_time_start="20261123090300 -0400" air_time_end="20261123092800 -0400" start_utc="20261123130300 +0000" stop_utc="20261123132800 +0000" air_time_start_utc="20261123130300 +0000" air_time_end_utc="20261123132800 +0000" is_live="false" channel="WARNER_CL.cl">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">ENJOY THOSE GARLIC BALLS</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Disfruta de esas albóndigas</sub-title>
+    <sub-title lang="en">ENJOY THOSE GARLIC BALLS</sub-title>
+    <desc lang="es">Judith está saliendo con el pediatra de Jake, Greg (Ryan Stiles), y Alan está molesto por la idea de que Judith esté con otro hombre - hasta que Charlie señala que si se vuelve a casar, sus pagos de pensión alimenticia terminarán, así que Alan intenta hacerse amigo de él. Mientras le daba un masaje a Greg, Judith entró y Alan le rompió el cuello a Greg accidentalmente en un ataque de pánico - causando que pagara más dinero del que tenía que pagar en primer lugar. Además, Evelyn visita a Charlie y se pregunta por qué parece odiarla.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/gZaNxH1KC7qwT5PQQxDEyEURjly.jpg" />
   </programme>
   <programme start="20261123090800 -0300" stop="20261123093100 -0300" air_time_start="20261123090800 -0300" air_time_end="20261123093100 -0300" start_utc="20261123120800 +0000" stop_utc="20261123123100 +0000" air_time_start_utc="20261123120800 +0000" air_time_end_utc="20261123123100 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">GO GET MOMMY'S BRA</sub-title>
+    <sub-title lang="pt">Devolve o Sutiã da Mamãe</sub-title>
+    <sub-title lang="en">GO GET MOMMY'S BRA</sub-title>
     <desc lang="pt">A mãe de Charlie lhe pede a Mercedes emprestada para impressionar um príncipe Saudita que quem comprar bens de raízes.</desc>
     <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/2d4C6xLF7XBggfFHdmp74eLFxAn.jpg" />
@@ -4665,8 +4642,9 @@
   </programme>
   <programme start="20261123091000 -0300" stop="20261123093400 -0300" air_time_start="20261123091000 -0300" air_time_end="20261123093400 -0300" start_utc="20261123121000 +0000" stop_utc="20261123123400 +0000" air_time_start_utc="20261123121000 +0000" air_time_end_utc="20261123123400 +0000" is_live="false" channel="WARNER_AR.ar">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">A BAG FULL OF JAWEA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Un saco lleno de corchos</sub-title>
+    <sub-title lang="en">A BAG FULL OF JAWEA</sub-title>
+    <desc lang="es">Cuando Jake se mete en problemas en la escuela por darle el dedo a su maestra, Delores Pasternak (Missi Pyle), Charlie decide cortejarla como un intento de salvar a Jake de ser suspendido. Jake entonces atrapa a los dos en medio de la noche. Cuando Alan se entera, insiste en que Charlie lo deje, pero más tarde insiste en que Charlie no lo haga porque Jake ha estado sacando buenas notas en sus trabajos. Charlie rompe con Delores, de todos modos, debido al hecho de que ella quiere un compromiso, y ella castiga a Jake dándole el doble de la cantidad de su tarea regular.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/oaSjtbrBlvRiqieNp6bcvy8Rk3j.jpg" />
   </programme>
@@ -4681,106 +4659,121 @@
   </programme>
   <programme start="20261123091900 -0500" stop="20261123094500 -0500" air_time_start="20261123091900 -0500" air_time_end="20261123094500 -0500" start_utc="20261123141900 +0000" stop_utc="20261123144500 +0000" air_time_start_utc="20261123141900 +0000" air_time_end_utc="20261123144500 +0000" is_live="false" channel="WARNER_CO.co">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">GO GET MOMMY'S BRA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Ve a por el sujetador de tu madre</sub-title>
+    <sub-title lang="en">GO GET MOMMY'S BRA</sub-title>
+    <desc lang="es">Jake está muy impresionado con el nuevo novio de su madre, Greg, después de que Greg le enseña varias actividades que molestan a Alan. Mientras tanto, Evelyn pide prestado el coche de Charlie para ayudarla a impresionar a un príncipe saudita al que está tratando de venderle una casa y le presta a Charlie su coche eléctrico. Alan y Charlie le enseñan a Jake a conducir este coche. Judith rompe con Greg y Alan está allí para apoyarla; los dos comienzan a tener sexo hasta que Jake y Charlie los encuentran, pero Jake no le cree a Charlie cuando le explica que Alan y Judith estaban a punto de acostarse juntos.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/2d4C6xLF7XBggfFHdmp74eLFxAn.jpg" />
   </programme>
   <programme start="20261123092100 -0500" stop="20261123094400 -0500" air_time_start="20261123092100 -0500" air_time_end="20261123094400 -0500" start_utc="20261123142100 +0000" stop_utc="20261123144400 +0000" air_time_start_utc="20261123142100 +0000" air_time_end_utc="20261123144400 +0000" is_live="false" channel="WARNER_AN.co">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">ENJOY THOSE GARLIC BALLS</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Disfruta de esas albóndigas</sub-title>
+    <sub-title lang="en">ENJOY THOSE GARLIC BALLS</sub-title>
+    <desc lang="es">Judith está saliendo con el pediatra de Jake, Greg (Ryan Stiles), y Alan está molesto por la idea de que Judith esté con otro hombre - hasta que Charlie señala que si se vuelve a casar, sus pagos de pensión alimenticia terminarán, así que Alan intenta hacerse amigo de él. Mientras le daba un masaje a Greg, Judith entró y Alan le rompió el cuello a Greg accidentalmente en un ataque de pánico - causando que pagara más dinero del que tenía que pagar en primer lugar. Además, Evelyn visita a Charlie y se pregunta por qué parece odiarla.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/gZaNxH1KC7qwT5PQQxDEyEURjly.jpg" />
   </programme>
   <programme start="20261123092800 -0400" stop="20261123095300 -0400" air_time_start="20261123092800 -0400" air_time_end="20261123095300 -0400" start_utc="20261123132800 +0000" stop_utc="20261123135300 +0000" air_time_start_utc="20261123132800 +0000" air_time_end_utc="20261123135300 +0000" is_live="false" channel="WARNER_CL.cl">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">A BAG FULL OF JAWEA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Un saco lleno de corchos</sub-title>
+    <sub-title lang="en">A BAG FULL OF JAWEA</sub-title>
+    <desc lang="es">Cuando Jake se mete en problemas en la escuela por darle el dedo a su maestra, Delores Pasternak (Missi Pyle), Charlie decide cortejarla como un intento de salvar a Jake de ser suspendido. Jake entonces atrapa a los dos en medio de la noche. Cuando Alan se entera, insiste en que Charlie lo deje, pero más tarde insiste en que Charlie no lo haga porque Jake ha estado sacando buenas notas en sus trabajos. Charlie rompe con Delores, de todos modos, debido al hecho de que ella quiere un compromiso, y ella castiga a Jake dándole el doble de la cantidad de su tarea regular.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/oaSjtbrBlvRiqieNp6bcvy8Rk3j.jpg" />
   </programme>
   <programme start="20261123092900 -0400" stop="20261123095300 -0400" air_time_start="20261123092900 -0400" air_time_end="20261123095300 -0400" start_utc="20261123132900 +0000" stop_utc="20261123135300 +0000" air_time_start_utc="20261123132900 +0000" air_time_end_utc="20261123135300 +0000" is_live="false" channel="WARNER_VE.ve">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">ENJOY THOSE GARLIC BALLS</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Disfruta de esas albóndigas</sub-title>
+    <sub-title lang="en">ENJOY THOSE GARLIC BALLS</sub-title>
+    <desc lang="es">Judith está saliendo con el pediatra de Jake, Greg (Ryan Stiles), y Alan está molesto por la idea de que Judith esté con otro hombre - hasta que Charlie señala que si se vuelve a casar, sus pagos de pensión alimenticia terminarán, así que Alan intenta hacerse amigo de él. Mientras le daba un masaje a Greg, Judith entró y Alan le rompió el cuello a Greg accidentalmente en un ataque de pánico - causando que pagara más dinero del que tenía que pagar en primer lugar. Además, Evelyn visita a Charlie y se pregunta por qué parece odiarla.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/gZaNxH1KC7qwT5PQQxDEyEURjly.jpg" />
   </programme>
   <programme start="20261123093100 -0300" stop="20261123095500 -0300" air_time_start="20261123093100 -0300" air_time_end="20261123095500 -0300" start_utc="20261123123100 +0000" stop_utc="20261123125500 +0000" air_time_start_utc="20261123123100 +0000" air_time_end_utc="20261123125500 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">2 BROKE GIRLS</title>
-    <sub-title lang="pt">AND THE KNOCK  OFF KNOCKOUT</sub-title>
+    <sub-title lang="pt">E o Grande Rombo</sub-title>
+    <sub-title lang="en">AND THE KNOCK  OFF KNOCKOUT</sub-title>
     <desc lang="pt">Max e Caroline se envolvem numa batalha jurídica com dois adolescentes que copiaram suas camisetas.</desc>
     <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/hFy1EKRpcdUPM2g3SZAuwdsJihV.jpg" />
   </programme>
   <programme start="20261123093200 -0600" stop="20261123095500 -0600" air_time_start="20261123093200 -0600" air_time_end="20261123095500 -0600" start_utc="20261123153200 +0000" stop_utc="20261123155500 +0000" air_time_start_utc="20261123153200 +0000" air_time_end_utc="20261123155500 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">ENJOY THOSE GARLIC BALLS</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Disfruta de esas albóndigas</sub-title>
+    <sub-title lang="en">ENJOY THOSE GARLIC BALLS</sub-title>
+    <desc lang="es">Judith está saliendo con el pediatra de Jake, Greg (Ryan Stiles), y Alan está molesto por la idea de que Judith esté con otro hombre - hasta que Charlie señala que si se vuelve a casar, sus pagos de pensión alimenticia terminarán, así que Alan intenta hacerse amigo de él. Mientras le daba un masaje a Greg, Judith entró y Alan le rompió el cuello a Greg accidentalmente en un ataque de pánico - causando que pagara más dinero del que tenía que pagar en primer lugar. Además, Evelyn visita a Charlie y se pregunta por qué parece odiarla.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/gZaNxH1KC7qwT5PQQxDEyEURjly.jpg" />
   </programme>
   <programme start="20261123093400 -0300" stop="20261123095900 -0300" air_time_start="20261123093400 -0300" air_time_end="20261123095900 -0300" start_utc="20261123123400 +0000" stop_utc="20261123125900 +0000" air_time_start_utc="20261123123400 +0000" air_time_end_utc="20261123125900 +0000" is_live="false" channel="WARNER_AR.ar">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">GO GET MOMMY'S BRA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Ve a por el sujetador de tu madre</sub-title>
+    <sub-title lang="en">GO GET MOMMY'S BRA</sub-title>
+    <desc lang="es">Jake está muy impresionado con el nuevo novio de su madre, Greg, después de que Greg le enseña varias actividades que molestan a Alan. Mientras tanto, Evelyn pide prestado el coche de Charlie para ayudarla a impresionar a un príncipe saudita al que está tratando de venderle una casa y le presta a Charlie su coche eléctrico. Alan y Charlie le enseñan a Jake a conducir este coche. Judith rompe con Greg y Alan está allí para apoyarla; los dos comienzan a tener sexo hasta que Jake y Charlie los encuentran, pero Jake no le cree a Charlie cuando le explica que Alan y Judith estaban a punto de acostarse juntos.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/2d4C6xLF7XBggfFHdmp74eLFxAn.jpg" />
   </programme>
   <programme start="20261123094400 -0500" stop="20261123100700 -0500" air_time_start="20261123094400 -0500" air_time_end="20261123100700 -0500" start_utc="20261123144400 +0000" stop_utc="20261123150700 +0000" air_time_start_utc="20261123144400 +0000" air_time_end_utc="20261123150700 +0000" is_live="false" channel="WARNER_AN.co">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">A BAG FULL OF JAWEA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Un saco lleno de corchos</sub-title>
+    <sub-title lang="en">A BAG FULL OF JAWEA</sub-title>
+    <desc lang="es">Cuando Jake se mete en problemas en la escuela por darle el dedo a su maestra, Delores Pasternak (Missi Pyle), Charlie decide cortejarla como un intento de salvar a Jake de ser suspendido. Jake entonces atrapa a los dos en medio de la noche. Cuando Alan se entera, insiste en que Charlie lo deje, pero más tarde insiste en que Charlie no lo haga porque Jake ha estado sacando buenas notas en sus trabajos. Charlie rompe con Delores, de todos modos, debido al hecho de que ella quiere un compromiso, y ella castiga a Jake dándole el doble de la cantidad de su tarea regular.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/oaSjtbrBlvRiqieNp6bcvy8Rk3j.jpg" />
   </programme>
   <programme start="20261123094500 -0500" stop="20261123101200 -0500" air_time_start="20261123094500 -0500" air_time_end="20261123101200 -0500" start_utc="20261123144500 +0000" stop_utc="20261123151200 +0000" air_time_start_utc="20261123144500 +0000" air_time_end_utc="20261123151200 +0000" is_live="false" channel="WARNER_CO.co">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">BAD NEWS FROM THE CLINIC?</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">¿Problemas en la clínica?</sub-title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
+    <desc lang="es">Charlie encuentra su partido cuando se enamora de una mujer (Sherri, interpretada por Jeri Ryan) que se hace la difícil de conseguir que él. Después de usarla repetidamente para el sexo, Charlie intenta vengarse de Sherri, pero termina castigándose a sí mismo también. Mientras tanto, Alan tiene dificultades para enseñarle a Jake a hacer su tarea, y Jake está molesto por el hecho de que Charlie sigue comiendo toda su comida.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
   </programme>
   <programme start="20261123095300 -0400" stop="20261123101900 -0400" air_time_start="20261123095300 -0400" air_time_end="20261123101900 -0400" start_utc="20261123135300 +0000" stop_utc="20261123141900 +0000" air_time_start_utc="20261123135300 +0000" air_time_end_utc="20261123141900 +0000" is_live="false" channel="WARNER_CL.cl">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">GO GET MOMMY'S BRA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Ve a por el sujetador de tu madre</sub-title>
+    <sub-title lang="en">GO GET MOMMY'S BRA</sub-title>
+    <desc lang="es">Jake está muy impresionado con el nuevo novio de su madre, Greg, después de que Greg le enseña varias actividades que molestan a Alan. Mientras tanto, Evelyn pide prestado el coche de Charlie para ayudarla a impresionar a un príncipe saudita al que está tratando de venderle una casa y le presta a Charlie su coche eléctrico. Alan y Charlie le enseñan a Jake a conducir este coche. Judith rompe con Greg y Alan está allí para apoyarla; los dos comienzan a tener sexo hasta que Jake y Charlie los encuentran, pero Jake no le cree a Charlie cuando le explica que Alan y Judith estaban a punto de acostarse juntos.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/2d4C6xLF7XBggfFHdmp74eLFxAn.jpg" />
   </programme>
   <programme start="20261123095300 -0400" stop="20261123101700 -0400" air_time_start="20261123095300 -0400" air_time_end="20261123101700 -0400" start_utc="20261123135300 +0000" stop_utc="20261123141700 +0000" air_time_start_utc="20261123135300 +0000" air_time_end_utc="20261123141700 +0000" is_live="false" channel="WARNER_VE.ve">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">A BAG FULL OF JAWEA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Un saco lleno de corchos</sub-title>
+    <sub-title lang="en">A BAG FULL OF JAWEA</sub-title>
+    <desc lang="es">Cuando Jake se mete en problemas en la escuela por darle el dedo a su maestra, Delores Pasternak (Missi Pyle), Charlie decide cortejarla como un intento de salvar a Jake de ser suspendido. Jake entonces atrapa a los dos en medio de la noche. Cuando Alan se entera, insiste en que Charlie lo deje, pero más tarde insiste en que Charlie no lo haga porque Jake ha estado sacando buenas notas en sus trabajos. Charlie rompe con Delores, de todos modos, debido al hecho de que ella quiere un compromiso, y ella castiga a Jake dándole el doble de la cantidad de su tarea regular.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/oaSjtbrBlvRiqieNp6bcvy8Rk3j.jpg" />
   </programme>
   <programme start="20261123095500 -0300" stop="20261123101900 -0300" air_time_start="20261123095500 -0300" air_time_end="20261123101900 -0300" start_utc="20261123125500 +0000" stop_utc="20261123131900 +0000" air_time_start_utc="20261123125500 +0000" air_time_end_utc="20261123131900 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">2 BROKE GIRLS</title>
-    <sub-title lang="pt">AND THE GREAT UNWASHED</sub-title>
+    <sub-title lang="pt">E o Grande Mal Lavado</sub-title>
+    <sub-title lang="en">AND THE GREAT UNWASHED</sub-title>
     <desc lang="pt">Max e Caroline descobrem que uma de suas clientes na lanchonete (a vencedora do Emmy® VALERIE HARPER) é na verdade uma fotógrafa de sucesso.</desc>
     <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/lqCrGCOkakN9yRGKEFLDlscGeUX.jpg" />
   </programme>
   <programme start="20261123095500 -0600" stop="20261123101800 -0600" air_time_start="20261123095500 -0600" air_time_end="20261123101800 -0600" start_utc="20261123155500 +0000" stop_utc="20261123161800 +0000" air_time_start_utc="20261123155500 +0000" air_time_end_utc="20261123161800 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">A BAG FULL OF JAWEA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Un saco lleno de corchos</sub-title>
+    <sub-title lang="en">A BAG FULL OF JAWEA</sub-title>
+    <desc lang="es">Cuando Jake se mete en problemas en la escuela por darle el dedo a su maestra, Delores Pasternak (Missi Pyle), Charlie decide cortejarla como un intento de salvar a Jake de ser suspendido. Jake entonces atrapa a los dos en medio de la noche. Cuando Alan se entera, insiste en que Charlie lo deje, pero más tarde insiste en que Charlie no lo haga porque Jake ha estado sacando buenas notas en sus trabajos. Charlie rompe con Delores, de todos modos, debido al hecho de que ella quiere un compromiso, y ella castiga a Jake dándole el doble de la cantidad de su tarea regular.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/oaSjtbrBlvRiqieNp6bcvy8Rk3j.jpg" />
   </programme>
   <programme start="20261123095900 -0300" stop="20261123102400 -0300" air_time_start="20261123095900 -0300" air_time_end="20261123102400 -0300" start_utc="20261123125900 +0000" stop_utc="20261123132400 +0000" air_time_start_utc="20261123125900 +0000" air_time_end_utc="20261123132400 +0000" is_live="false" channel="WARNER_AR.ar">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">BAD NEWS FROM THE CLINIC?</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">¿Problemas en la clínica?</sub-title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
+    <desc lang="es">Charlie encuentra su partido cuando se enamora de una mujer (Sherri, interpretada por Jeri Ryan) que se hace la difícil de conseguir que él. Después de usarla repetidamente para el sexo, Charlie intenta vengarse de Sherri, pero termina castigándose a sí mismo también. Mientras tanto, Alan tiene dificultades para enseñarle a Jake a hacer su tarea, y Jake está molesto por el hecho de que Charlie sigue comiendo toda su comida.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
   </programme>
   <programme start="20261123100700 -0500" stop="20261123103200 -0500" air_time_start="20261123100700 -0500" air_time_end="20261123103200 -0500" start_utc="20261123150700 +0000" stop_utc="20261123153200 +0000" air_time_start_utc="20261123150700 +0000" air_time_end_utc="20261123153200 +0000" is_live="false" channel="WARNER_AN.co">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">GO GET MOMMY'S BRA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Ve a por el sujetador de tu madre</sub-title>
+    <sub-title lang="en">GO GET MOMMY'S BRA</sub-title>
+    <desc lang="es">Jake está muy impresionado con el nuevo novio de su madre, Greg, después de que Greg le enseña varias actividades que molestan a Alan. Mientras tanto, Evelyn pide prestado el coche de Charlie para ayudarla a impresionar a un príncipe saudita al que está tratando de venderle una casa y le presta a Charlie su coche eléctrico. Alan y Charlie le enseñan a Jake a conducir este coche. Judith rompe con Greg y Alan está allí para apoyarla; los dos comienzan a tener sexo hasta que Jake y Charlie los encuentran, pero Jake no le cree a Charlie cuando le explica que Alan y Judith estaban a punto de acostarse juntos.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/2d4C6xLF7XBggfFHdmp74eLFxAn.jpg" />
   </programme>
@@ -4792,29 +4785,33 @@
   </programme>
   <programme start="20261123101700 -0400" stop="20261123104100 -0400" air_time_start="20261123101700 -0400" air_time_end="20261123104100 -0400" start_utc="20261123141700 +0000" stop_utc="20261123144100 +0000" air_time_start_utc="20261123141700 +0000" air_time_end_utc="20261123144100 +0000" is_live="false" channel="WARNER_VE.ve">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">GO GET MOMMY'S BRA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Ve a por el sujetador de tu madre</sub-title>
+    <sub-title lang="en">GO GET MOMMY'S BRA</sub-title>
+    <desc lang="es">Jake está muy impresionado con el nuevo novio de su madre, Greg, después de que Greg le enseña varias actividades que molestan a Alan. Mientras tanto, Evelyn pide prestado el coche de Charlie para ayudarla a impresionar a un príncipe saudita al que está tratando de venderle una casa y le presta a Charlie su coche eléctrico. Alan y Charlie le enseñan a Jake a conducir este coche. Judith rompe con Greg y Alan está allí para apoyarla; los dos comienzan a tener sexo hasta que Jake y Charlie los encuentran, pero Jake no le cree a Charlie cuando le explica que Alan y Judith estaban a punto de acostarse juntos.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/2d4C6xLF7XBggfFHdmp74eLFxAn.jpg" />
   </programme>
   <programme start="20261123101800 -0600" stop="20261123104100 -0600" air_time_start="20261123101800 -0600" air_time_end="20261123104100 -0600" start_utc="20261123161800 +0000" stop_utc="20261123164100 +0000" air_time_start_utc="20261123161800 +0000" air_time_end_utc="20261123164100 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">GO GET MOMMY'S BRA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Ve a por el sujetador de tu madre</sub-title>
+    <sub-title lang="en">GO GET MOMMY'S BRA</sub-title>
+    <desc lang="es">Jake está muy impresionado con el nuevo novio de su madre, Greg, después de que Greg le enseña varias actividades que molestan a Alan. Mientras tanto, Evelyn pide prestado el coche de Charlie para ayudarla a impresionar a un príncipe saudita al que está tratando de venderle una casa y le presta a Charlie su coche eléctrico. Alan y Charlie le enseñan a Jake a conducir este coche. Judith rompe con Greg y Alan está allí para apoyarla; los dos comienzan a tener sexo hasta que Jake y Charlie los encuentran, pero Jake no le cree a Charlie cuando le explica que Alan y Judith estaban a punto de acostarse juntos.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/2d4C6xLF7XBggfFHdmp74eLFxAn.jpg" />
   </programme>
   <programme start="20261123101900 -0300" stop="20261123104200 -0300" air_time_start="20261123101900 -0300" air_time_end="20261123104200 -0300" start_utc="20261123131900 +0000" stop_utc="20261123134200 +0000" air_time_start_utc="20261123131900 +0000" air_time_end_utc="20261123134200 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">2 BROKE GIRLS</title>
-    <sub-title lang="pt">AND THE CUPCAKE CAPTIVES</sub-title>
+    <sub-title lang="pt">E os Cupcakes Reféns</sub-title>
+    <sub-title lang="en">AND THE CUPCAKE CAPTIVES</sub-title>
     <desc lang="pt">O chá de cozinha de Sophie é interrompido por uma situação que envolve reféns. A empresa de cupcakes de Max e Caroline chama atenção de forma negativa quando um inquilino é preso usando uma camiseta da marca.</desc>
     <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/rcw0yu6jMoudl20tAYApQRkUVkq.jpg" />
   </programme>
   <programme start="20261123101900 -0400" stop="20261123104500 -0400" air_time_start="20261123101900 -0400" air_time_end="20261123104500 -0400" start_utc="20261123141900 +0000" stop_utc="20261123144500 +0000" air_time_start_utc="20261123141900 +0000" air_time_end_utc="20261123144500 +0000" is_live="false" channel="WARNER_CL.cl">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">BAD NEWS FROM THE CLINIC?</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">¿Problemas en la clínica?</sub-title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
+    <desc lang="es">Charlie encuentra su partido cuando se enamora de una mujer (Sherri, interpretada por Jeri Ryan) que se hace la difícil de conseguir que él. Después de usarla repetidamente para el sexo, Charlie intenta vengarse de Sherri, pero termina castigándose a sí mismo también. Mientras tanto, Alan tiene dificultades para enseñarle a Jake a hacer su tarea, y Jake está molesto por el hecho de que Charlie sigue comiendo toda su comida.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
   </programme>
@@ -4826,8 +4823,9 @@
   </programme>
   <programme start="20261123103200 -0500" stop="20261123105600 -0500" air_time_start="20261123103200 -0500" air_time_end="20261123105600 -0500" start_utc="20261123153200 +0000" stop_utc="20261123155600 +0000" air_time_start_utc="20261123153200 +0000" air_time_end_utc="20261123155600 +0000" is_live="false" channel="WARNER_AN.co">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">BAD NEWS FROM THE CLINIC?</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">¿Problemas en la clínica?</sub-title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
+    <desc lang="es">Charlie encuentra su partido cuando se enamora de una mujer (Sherri, interpretada por Jeri Ryan) que se hace la difícil de conseguir que él. Después de usarla repetidamente para el sexo, Charlie intenta vengarse de Sherri, pero termina castigándose a sí mismo también. Mientras tanto, Alan tiene dificultades para enseñarle a Jake a hacer su tarea, y Jake está molesto por el hecho de que Charlie sigue comiendo toda su comida.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
   </programme>
@@ -4839,21 +4837,23 @@
   </programme>
   <programme start="20261123104100 -0400" stop="20261123110500 -0400" air_time_start="20261123104100 -0400" air_time_end="20261123110500 -0400" start_utc="20261123144100 +0000" stop_utc="20261123150500 +0000" air_time_start_utc="20261123144100 +0000" air_time_end_utc="20261123150500 +0000" is_live="false" channel="WARNER_VE.ve">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">BAD NEWS FROM THE CLINIC?</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">¿Problemas en la clínica?</sub-title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
+    <desc lang="es">Charlie encuentra su partido cuando se enamora de una mujer (Sherri, interpretada por Jeri Ryan) que se hace la difícil de conseguir que él. Después de usarla repetidamente para el sexo, Charlie intenta vengarse de Sherri, pero termina castigándose a sí mismo también. Mientras tanto, Alan tiene dificultades para enseñarle a Jake a hacer su tarea, y Jake está molesto por el hecho de que Charlie sigue comiendo toda su comida.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
   </programme>
   <programme start="20261123104100 -0600" stop="20261123110500 -0600" air_time_start="20261123104100 -0600" air_time_end="20261123110500 -0600" start_utc="20261123164100 +0000" stop_utc="20261123170500 +0000" air_time_start_utc="20261123164100 +0000" air_time_end_utc="20261123170500 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">BAD NEWS FROM THE CLINIC?</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">¿Problemas en la clínica?</sub-title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
+    <desc lang="es">Charlie encuentra su partido cuando se enamora de una mujer (Sherri, interpretada por Jeri Ryan) que se hace la difícil de conseguir que él. Después de usarla repetidamente para el sexo, Charlie intenta vengarse de Sherri, pero termina castigándose a sí mismo también. Mientras tanto, Alan tiene dificultades para enseñarle a Jake a hacer su tarea, y Jake está molesto por el hecho de que Charlie sigue comiendo toda su comida.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
   </programme>
   <programme start="20261123104200 -0300" stop="20261123110500 -0300" air_time_start="20261123104200 -0300" air_time_end="20261123110500 -0300" start_utc="20261123134200 +0000" stop_utc="20261123140500 +0000" air_time_start_utc="20261123134200 +0000" air_time_end_utc="20261123140500 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">La Realineación Fraternal</sub-title>
+    <sub-title lang="pt">O Realinhamento Entre Irmãos</sub-title>
     <sub-title lang="en">THE SIBLING REALIGNMENT</sub-title>
     <desc lang="pt">Quando Sheldon descobre que sua mãe não irá ao seu casamento se ele não convidar seu irmão Georgie, ele vai ao Texas ao lado de Leonard para pôr um fim na briga familiar.</desc>
     <category lang="pt">Comédia</category>
@@ -4880,7 +4880,7 @@
   </programme>
   <programme start="20261123110500 -0300" stop="20261123112800 -0300" air_time_start="20261123110500 -0300" air_time_end="20261123112800 -0300" start_utc="20261123140500 +0000" stop_utc="20261123142800 +0000" air_time_start_utc="20261123140500 +0000" air_time_end_utc="20261123142800 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">La Asimetría del Moño</sub-title>
+    <sub-title lang="pt">A assimetria do laço</sub-title>
     <sub-title lang="en">THE BOW TIE ASYMMETRY</sub-title>
     <desc lang="pt">No último episódio da temporada, os pais de Amy e a família de Sheldon chegam. Todos se esforçam para que tudo saia conforme os planos. Menos a noiva e o noivo.</desc>
     <category lang="pt">Comédia</category>
@@ -4931,7 +4931,7 @@
   </programme>
   <programme start="20261123112800 -0300" stop="20261123115100 -0300" air_time_start="20261123112800 -0300" air_time_end="20261123115100 -0300" start_utc="20261123142800 +0000" stop_utc="20261123145100 +0000" air_time_start_utc="20261123142800 +0000" air_time_end_utc="20261123145100 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">La Configuración Conyugal</sub-title>
+    <sub-title lang="pt">A Conjectura Conjugal</sub-title>
     <sub-title lang="en">THE CONJUGAL CONFIGURATION</sub-title>
     <desc lang="pt">Na estreia da 12ª temporada, a lua de mel de Sheldon e Amy vai aos trancos e barrancos em Nova York. Enquanto isso, Leonard e Penny descobrem que são muito parecidos com os pais de Amy.</desc>
     <category lang="pt">Comédia</category>
@@ -4977,7 +4977,7 @@
   </programme>
   <programme start="20261123115100 -0300" stop="20261123121400 -0300" air_time_start="20261123115100 -0300" air_time_end="20261123121400 -0300" start_utc="20261123145100 +0000" stop_utc="20261123151400 +0000" air_time_start_utc="20261123145100 +0000" air_time_end_utc="20261123151400 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">El Hoyo de Gusano del Regalo Matrimonial</sub-title>
+    <sub-title lang="pt">Buraco de Minhoca Como Presente de Casamento</sub-title>
     <sub-title lang="en">THE WEDDING GIFT WORMHOLE</sub-title>
     <desc lang="pt">Sheldon e Amy ficam desconcertados com o presente de casamento que ganharam de Penny e Leonard. Raj decide concordar que seu pai lhe arranje uma noiva.</desc>
     <category lang="pt">Comédia</category>
@@ -5011,7 +5011,7 @@
   </programme>
   <programme start="20261123121400 -0300" stop="20261123123600 -0300" air_time_start="20261123121400 -0300" air_time_end="20261123123600 -0300" start_utc="20261123151400 +0000" stop_utc="20261123153600 +0000" air_time_start_utc="20261123151400 +0000" air_time_end_utc="20261123153600 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">El Calculo de Procreación</sub-title>
+    <sub-title lang="pt">O Cálculo de Procriação</sub-title>
     <sub-title lang="en">THE PROCREATION CALCULATION</sub-title>
     <desc lang="pt">A vida dos Wolowitz se complica quando Stuart leva sua nova namorada para casa. Enquanto isso, Penny e Leonard pensam em começar uma família.</desc>
     <category lang="pt">Comédia</category>
@@ -5048,7 +5048,7 @@
   </programme>
   <programme start="20261123123600 -0300" stop="20261123125700 -0300" air_time_start="20261123123600 -0300" air_time_end="20261123125700 -0300" start_utc="20261123153600 +0000" stop_utc="20261123155700 +0000" air_time_start_utc="20261123153600 +0000" air_time_end_utc="20261123155700 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">La Turbulencia Tam</sub-title>
+    <sub-title lang="pt">A Turbulência Tam</sub-title>
     <sub-title lang="en">THE TAM TURBULENCE</sub-title>
     <desc lang="pt">Sheldon se recusa a dizer por que nunca falou sobre Tam (ROBERT WU), seu melhor amigo de infância, e Leonard decide investigar. Participação de JERRY O'CONNELL.</desc>
     <category lang="pt">Comédia</category>
@@ -5057,28 +5057,32 @@
   </programme>
   <programme start="20261123125700 -0300" stop="20261123132100 -0300" air_time_start="20261123125700 -0300" air_time_end="20261123132100 -0300" start_utc="20261123155700 +0000" stop_utc="20261123162100 +0000" air_time_start_utc="20261123155700 +0000" air_time_end_utc="20261123162100 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">2 BROKE GIRLS</title>
-    <sub-title lang="pt">AND THE KNOCK  OFF KNOCKOUT</sub-title>
+    <sub-title lang="pt">E o Grande Rombo</sub-title>
+    <sub-title lang="en">AND THE KNOCK  OFF KNOCKOUT</sub-title>
     <desc lang="pt">Max e Caroline se envolvem numa batalha jurídica com dois adolescentes que copiaram suas camisetas.</desc>
     <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/hFy1EKRpcdUPM2g3SZAuwdsJihV.jpg" />
   </programme>
   <programme start="20261123132100 -0300" stop="20261123134700 -0300" air_time_start="20261123132100 -0300" air_time_end="20261123134700 -0300" start_utc="20261123162100 +0000" stop_utc="20261123164700 +0000" air_time_start_utc="20261123162100 +0000" air_time_end_utc="20261123164700 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">2 BROKE GIRLS</title>
-    <sub-title lang="pt">AND THE GREAT UNWASHED</sub-title>
+    <sub-title lang="pt">E o Grande Mal Lavado</sub-title>
+    <sub-title lang="en">AND THE GREAT UNWASHED</sub-title>
     <desc lang="pt">Max e Caroline descobrem que uma de suas clientes na lanchonete (a vencedora do Emmy® VALERIE HARPER) é na verdade uma fotógrafa de sucesso.</desc>
     <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/lqCrGCOkakN9yRGKEFLDlscGeUX.jpg" />
   </programme>
   <programme start="20261123134700 -0300" stop="20261123141100 -0300" air_time_start="20261123134700 -0300" air_time_end="20261123141100 -0300" start_utc="20261123164700 +0000" stop_utc="20261123171100 +0000" air_time_start_utc="20261123164700 +0000" air_time_end_utc="20261123171100 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">2 BROKE GIRLS</title>
-    <sub-title lang="pt">AND THE CUPCAKE CAPTIVES</sub-title>
+    <sub-title lang="pt">E os Cupcakes Reféns</sub-title>
+    <sub-title lang="en">AND THE CUPCAKE CAPTIVES</sub-title>
     <desc lang="pt">O chá de cozinha de Sophie é interrompido por uma situação que envolve reféns. A empresa de cupcakes de Max e Caroline chama atenção de forma negativa quando um inquilino é preso usando uma camiseta da marca.</desc>
     <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/rcw0yu6jMoudl20tAYApQRkUVkq.jpg" />
   </programme>
   <programme start="20261123141100 -0300" stop="20261123143600 -0300" air_time_start="20261123141100 -0300" air_time_end="20261123143600 -0300" start_utc="20261123171100 +0000" stop_utc="20261123173600 +0000" air_time_start_utc="20261123171100 +0000" air_time_end_utc="20261123173600 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">ENJOY THOSE GARLIC BALLS</sub-title>
+    <sub-title lang="pt">Aproveita as Bolinhas de Alho</sub-title>
+    <sub-title lang="en">ENJOY THOSE GARLIC BALLS</sub-title>
     <desc lang="pt">Charlie implora a Alan que esqueça o passado e Alan seguindo o seu conselho devolve a Judith uma girafa de cerâmica que tinha ficado com ele na partilha dos bens no divórcio. Entretanto, Judith nem se lembrava da peça e Alan vê como ela é cortejada pelo Dr Melnick, o pediatra de Jake. Isto o deixa ainda mais deprimido, até que Charlie chama sua atenção para o fato de que se ela se casar novamente, Alan não terá que lhe pagar mais pensão. Assim, Alan decide ajudar Judith em sua nova relação. Evelyn, a mãe de Charlie, lhe pergunta por que ele a odeia tanto, deixando-o numa situação bastante constrangedora, Berta e Rose se metem na conversa e continuam o interrogatório.</desc>
     <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/gZaNxH1KC7qwT5PQQxDEyEURjly.jpg" />
@@ -5101,7 +5105,8 @@
   </programme>
   <programme start="20261123143600 -0300" stop="20261123150000 -0300" air_time_start="20261123143600 -0300" air_time_end="20261123150000 -0300" start_utc="20261123173600 +0000" stop_utc="20261123180000 +0000" air_time_start_utc="20261123173600 +0000" air_time_end_utc="20261123180000 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">A BAG FULL OF JAWEA</sub-title>
+    <sub-title lang="pt">Fazendo Sinais</sub-title>
+    <sub-title lang="en">A BAG FULL OF JAWEA</sub-title>
     <desc lang="pt">Charlie tenta impedir que Jake seja suspenso do colégio por estar paquerando a professora. Infelizmente, isso não lhes traz bons resultados.</desc>
     <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/oaSjtbrBlvRiqieNp6bcvy8Rk3j.jpg" />
@@ -5140,7 +5145,8 @@
   </programme>
   <programme start="20261123150000 -0300" stop="20261123152500 -0300" air_time_start="20261123150000 -0300" air_time_end="20261123152500 -0300" start_utc="20261123180000 +0000" stop_utc="20261123182500 +0000" air_time_start_utc="20261123180000 +0000" air_time_end_utc="20261123182500 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">GO GET MOMMY'S BRA</sub-title>
+    <sub-title lang="pt">Devolve o Sutiã da Mamãe</sub-title>
+    <sub-title lang="en">GO GET MOMMY'S BRA</sub-title>
     <desc lang="pt">A mãe de Charlie lhe pede a Mercedes emprestada para impressionar um príncipe Saudita que quem comprar bens de raízes.</desc>
     <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/2d4C6xLF7XBggfFHdmp74eLFxAn.jpg" />
@@ -5258,7 +5264,7 @@
   </programme>
   <programme start="20261123201400 -0300" stop="20261123203600 -0300" air_time_start="20261123201400 -0300" air_time_end="20261123203600 -0300" start_utc="20261123231400 +0000" stop_utc="20261123233600 +0000" air_time_start_utc="20261123231400 +0000" air_time_end_utc="20261123233600 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">La Realineación Fraternal</sub-title>
+    <sub-title lang="pt">O Realinhamento Entre Irmãos</sub-title>
     <sub-title lang="en">THE SIBLING REALIGNMENT</sub-title>
     <desc lang="pt">Quando Sheldon descobre que sua mãe não irá ao seu casamento se ele não convidar seu irmão Georgie, ele vai ao Texas ao lado de Leonard para pôr um fim na briga familiar.</desc>
     <category lang="pt">Comédia</category>
@@ -5267,7 +5273,7 @@
   </programme>
   <programme start="20261123203600 -0300" stop="20261123205900 -0300" air_time_start="20261123203600 -0300" air_time_end="20261123205900 -0300" start_utc="20261123233600 +0000" stop_utc="20261123235900 +0000" air_time_start_utc="20261123233600 +0000" air_time_end_utc="20261123235900 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">La Asimetría del Moño</sub-title>
+    <sub-title lang="pt">A assimetria do laço</sub-title>
     <sub-title lang="en">THE BOW TIE ASYMMETRY</sub-title>
     <desc lang="pt">No último episódio da temporada, os pais de Amy e a família de Sheldon chegam. Todos se esforçam para que tudo saia conforme os planos. Menos a noiva e o noivo.</desc>
     <category lang="pt">Comédia</category>
@@ -5276,7 +5282,7 @@
   </programme>
   <programme start="20261123205900 -0300" stop="20261123212300 -0300" air_time_start="20261123205900 -0300" air_time_end="20261123212300 -0300" start_utc="20261123235900 +0000" stop_utc="20261124002300 +0000" air_time_start_utc="20261123235900 +0000" air_time_end_utc="20261124002300 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">La Configuración Conyugal</sub-title>
+    <sub-title lang="pt">A Conjectura Conjugal</sub-title>
     <sub-title lang="en">THE CONJUGAL CONFIGURATION</sub-title>
     <desc lang="pt">Na estreia da 12ª temporada, a lua de mel de Sheldon e Amy vai aos trancos e barrancos em Nova York. Enquanto isso, Leonard e Penny descobrem que são muito parecidos com os pais de Amy.</desc>
     <category lang="pt">Comédia</category>
@@ -5285,7 +5291,7 @@
   </programme>
   <programme start="20261123212300 -0300" stop="20261123214600 -0300" air_time_start="20261123212300 -0300" air_time_end="20261123214600 -0300" start_utc="20261124002300 +0000" stop_utc="20261124004600 +0000" air_time_start_utc="20261124002300 +0000" air_time_end_utc="20261124004600 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">El Hoyo de Gusano del Regalo Matrimonial</sub-title>
+    <sub-title lang="pt">Buraco de Minhoca Como Presente de Casamento</sub-title>
     <sub-title lang="en">THE WEDDING GIFT WORMHOLE</sub-title>
     <desc lang="pt">Sheldon e Amy ficam desconcertados com o presente de casamento que ganharam de Penny e Leonard. Raj decide concordar que seu pai lhe arranje uma noiva.</desc>
     <category lang="pt">Comédia</category>
@@ -5294,7 +5300,7 @@
   </programme>
   <programme start="20261123214600 -0300" stop="20261123220800 -0300" air_time_start="20261123214600 -0300" air_time_end="20261123220800 -0300" start_utc="20261124004600 +0000" stop_utc="20261124010800 +0000" air_time_start_utc="20261124004600 +0000" air_time_end_utc="20261124010800 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">El Calculo de Procreación</sub-title>
+    <sub-title lang="pt">O Cálculo de Procriação</sub-title>
     <sub-title lang="en">THE PROCREATION CALCULATION</sub-title>
     <desc lang="pt">A vida dos Wolowitz se complica quando Stuart leva sua nova namorada para casa. Enquanto isso, Penny e Leonard pensam em começar uma família.</desc>
     <category lang="pt">Comédia</category>
@@ -5345,7 +5351,7 @@
   </programme>
   <programme start="20261123220800 -0300" stop="20261123223000 -0300" air_time_start="20261123220800 -0300" air_time_end="20261123223000 -0300" start_utc="20261124010800 +0000" stop_utc="20261124013000 +0000" air_time_start_utc="20261124010800 +0000" air_time_end_utc="20261124013000 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">La Turbulencia Tam</sub-title>
+    <sub-title lang="pt">A Turbulência Tam</sub-title>
     <sub-title lang="en">THE TAM TURBULENCE</sub-title>
     <desc lang="pt">Sheldon se recusa a dizer por que nunca falou sobre Tam (ROBERT WU), seu melhor amigo de infância, e Leonard decide investigar. Participação de JERRY O'CONNELL.</desc>
     <category lang="pt">Comédia</category>
@@ -5415,7 +5421,8 @@
   </programme>
   <programme start="20261124001500 -0300" stop="20261124003900 -0300" air_time_start="20261124001500 -0300" air_time_end="20261124003900 -0300" start_utc="20261124031500 +0000" stop_utc="20261124033900 +0000" air_time_start_utc="20261124031500 +0000" air_time_end_utc="20261124033900 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">ENJOY THOSE GARLIC BALLS</sub-title>
+    <sub-title lang="pt">Aproveita as Bolinhas de Alho</sub-title>
+    <sub-title lang="en">ENJOY THOSE GARLIC BALLS</sub-title>
     <desc lang="pt">Charlie implora a Alan que esqueça o passado e Alan seguindo o seu conselho devolve a Judith uma girafa de cerâmica que tinha ficado com ele na partilha dos bens no divórcio. Entretanto, Judith nem se lembrava da peça e Alan vê como ela é cortejada pelo Dr Melnick, o pediatra de Jake. Isto o deixa ainda mais deprimido, até que Charlie chama sua atenção para o fato de que se ela se casar novamente, Alan não terá que lhe pagar mais pensão. Assim, Alan decide ajudar Judith em sua nova relação. Evelyn, a mãe de Charlie, lhe pergunta por que ele a odeia tanto, deixando-o numa situação bastante constrangedora, Berta e Rose se metem na conversa e continuam o interrogatório.</desc>
     <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/gZaNxH1KC7qwT5PQQxDEyEURjly.jpg" />
@@ -5476,7 +5483,8 @@
   </programme>
   <programme start="20261124003900 -0300" stop="20261124010100 -0300" air_time_start="20261124003900 -0300" air_time_end="20261124010100 -0300" start_utc="20261124033900 +0000" stop_utc="20261124040100 +0000" air_time_start_utc="20261124033900 +0000" air_time_end_utc="20261124040100 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">A BAG FULL OF JAWEA</sub-title>
+    <sub-title lang="pt">Fazendo Sinais</sub-title>
+    <sub-title lang="en">A BAG FULL OF JAWEA</sub-title>
     <desc lang="pt">Charlie tenta impedir que Jake seja suspenso do colégio por estar paquerando a professora. Infelizmente, isso não lhes traz bons resultados.</desc>
     <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/oaSjtbrBlvRiqieNp6bcvy8Rk3j.jpg" />
@@ -5537,7 +5545,8 @@
   </programme>
   <programme start="20261124010100 -0300" stop="20261124012500 -0300" air_time_start="20261124010100 -0300" air_time_end="20261124012500 -0300" start_utc="20261124040100 +0000" stop_utc="20261124042500 +0000" air_time_start_utc="20261124040100 +0000" air_time_end_utc="20261124042500 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">GO GET MOMMY'S BRA</sub-title>
+    <sub-title lang="pt">Devolve o Sutiã da Mamãe</sub-title>
+    <sub-title lang="en">GO GET MOMMY'S BRA</sub-title>
     <desc lang="pt">A mãe de Charlie lhe pede a Mercedes emprestada para impressionar um príncipe Saudita que quem comprar bens de raízes.</desc>
     <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/2d4C6xLF7XBggfFHdmp74eLFxAn.jpg" />
@@ -5598,7 +5607,8 @@
   </programme>
   <programme start="20261124012500 -0300" stop="20261124014800 -0300" air_time_start="20261124012500 -0300" air_time_end="20261124014800 -0300" start_utc="20261124042500 +0000" stop_utc="20261124044800 +0000" air_time_start_utc="20261124042500 +0000" air_time_end_utc="20261124044800 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">BAD NEWS FROM THE CLINIC?</sub-title>
+    <sub-title lang="pt">Notícias Ruins</sub-title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
     <desc lang="pt">Charlie sai com uma mulher chamada Sherri. Acontece que ela é uma egocêntrica, manipuladora e narcisista; enfim, uma versão feminina de Charlie. Porém, o solteiro insensível não gosta da forma como Sherri o trata. Enquanto isso, Alan tenta estabelecer um pouco de disciplina para Jake para melhorar seus hábitos de estudo.</desc>
     <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
@@ -5719,8 +5729,9 @@
   </programme>
   <programme start="20261124020800 -0500" stop="20261124023100 -0500" air_time_start="20261124020800 -0500" air_time_end="20261124023100 -0500" start_utc="20261124070800 +0000" stop_utc="20261124073100 +0000" air_time_start_utc="20261124070800 +0000" air_time_end_utc="20261124073100 +0000" is_live="false" channel="WARNER_AN.co">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">ENJOY THOSE GARLIC BALLS</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Disfruta de esas albóndigas</sub-title>
+    <sub-title lang="en">ENJOY THOSE GARLIC BALLS</sub-title>
+    <desc lang="es">Judith está saliendo con el pediatra de Jake, Greg (Ryan Stiles), y Alan está molesto por la idea de que Judith esté con otro hombre - hasta que Charlie señala que si se vuelve a casar, sus pagos de pensión alimenticia terminarán, así que Alan intenta hacerse amigo de él. Mientras le daba un masaje a Greg, Judith entró y Alan le rompió el cuello a Greg accidentalmente en un ataque de pánico - causando que pagara más dinero del que tenía que pagar en primer lugar. Además, Evelyn visita a Charlie y se pregunta por qué parece odiarla.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/gZaNxH1KC7qwT5PQQxDEyEURjly.jpg" />
   </programme>
@@ -5732,49 +5743,55 @@
   </programme>
   <programme start="20261124021700 -0400" stop="20261124024000 -0400" air_time_start="20261124021700 -0400" air_time_end="20261124024000 -0400" start_utc="20261124061700 +0000" stop_utc="20261124064000 +0000" air_time_start_utc="20261124061700 +0000" air_time_end_utc="20261124064000 +0000" is_live="false" channel="WARNER_CL.cl">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">ENJOY THOSE GARLIC BALLS</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Disfruta de esas albóndigas</sub-title>
+    <sub-title lang="en">ENJOY THOSE GARLIC BALLS</sub-title>
+    <desc lang="es">Judith está saliendo con el pediatra de Jake, Greg (Ryan Stiles), y Alan está molesto por la idea de que Judith esté con otro hombre - hasta que Charlie señala que si se vuelve a casar, sus pagos de pensión alimenticia terminarán, así que Alan intenta hacerse amigo de él. Mientras le daba un masaje a Greg, Judith entró y Alan le rompió el cuello a Greg accidentalmente en un ataque de pánico - causando que pagara más dinero del que tenía que pagar en primer lugar. Además, Evelyn visita a Charlie y se pregunta por qué parece odiarla.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/gZaNxH1KC7qwT5PQQxDEyEURjly.jpg" />
   </programme>
   <programme start="20261124021800 -0400" stop="20261124024100 -0400" air_time_start="20261124021800 -0400" air_time_end="20261124024100 -0400" start_utc="20261124061800 +0000" stop_utc="20261124064100 +0000" air_time_start_utc="20261124061800 +0000" air_time_end_utc="20261124064100 +0000" is_live="false" channel="WARNER_VE.ve">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">ENJOY THOSE GARLIC BALLS</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Disfruta de esas albóndigas</sub-title>
+    <sub-title lang="en">ENJOY THOSE GARLIC BALLS</sub-title>
+    <desc lang="es">Judith está saliendo con el pediatra de Jake, Greg (Ryan Stiles), y Alan está molesto por la idea de que Judith esté con otro hombre - hasta que Charlie señala que si se vuelve a casar, sus pagos de pensión alimenticia terminarán, así que Alan intenta hacerse amigo de él. Mientras le daba un masaje a Greg, Judith entró y Alan le rompió el cuello a Greg accidentalmente en un ataque de pánico - causando que pagara más dinero del que tenía que pagar en primer lugar. Además, Evelyn visita a Charlie y se pregunta por qué parece odiarla.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/gZaNxH1KC7qwT5PQQxDEyEURjly.jpg" />
   </programme>
   <programme start="20261124022000 -0600" stop="20261124024300 -0600" air_time_start="20261124022000 -0600" air_time_end="20261124024300 -0600" start_utc="20261124082000 +0000" stop_utc="20261124084300 +0000" air_time_start_utc="20261124082000 +0000" air_time_end_utc="20261124084300 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">ENJOY THOSE GARLIC BALLS</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Disfruta de esas albóndigas</sub-title>
+    <sub-title lang="en">ENJOY THOSE GARLIC BALLS</sub-title>
+    <desc lang="es">Judith está saliendo con el pediatra de Jake, Greg (Ryan Stiles), y Alan está molesto por la idea de que Judith esté con otro hombre - hasta que Charlie señala que si se vuelve a casar, sus pagos de pensión alimenticia terminarán, así que Alan intenta hacerse amigo de él. Mientras le daba un masaje a Greg, Judith entró y Alan le rompió el cuello a Greg accidentalmente en un ataque de pánico - causando que pagara más dinero del que tenía que pagar en primer lugar. Además, Evelyn visita a Charlie y se pregunta por qué parece odiarla.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/gZaNxH1KC7qwT5PQQxDEyEURjly.jpg" />
   </programme>
   <programme start="20261124022600 -0300" stop="20261124024900 -0300" air_time_start="20261124022600 -0300" air_time_end="20261124024900 -0300" start_utc="20261124052600 +0000" stop_utc="20261124054900 +0000" air_time_start_utc="20261124052600 +0000" air_time_end_utc="20261124054900 +0000" is_live="false" channel="WARNER_AR.ar">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">ENJOY THOSE GARLIC BALLS</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Disfruta de esas albóndigas</sub-title>
+    <sub-title lang="en">ENJOY THOSE GARLIC BALLS</sub-title>
+    <desc lang="es">Judith está saliendo con el pediatra de Jake, Greg (Ryan Stiles), y Alan está molesto por la idea de que Judith esté con otro hombre - hasta que Charlie señala que si se vuelve a casar, sus pagos de pensión alimenticia terminarán, así que Alan intenta hacerse amigo de él. Mientras le daba un masaje a Greg, Judith entró y Alan le rompió el cuello a Greg accidentalmente en un ataque de pánico - causando que pagara más dinero del que tenía que pagar en primer lugar. Además, Evelyn visita a Charlie y se pregunta por qué parece odiarla.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/gZaNxH1KC7qwT5PQQxDEyEURjly.jpg" />
   </programme>
   <programme start="20261124022900 -0500" stop="20261124025200 -0500" air_time_start="20261124022900 -0500" air_time_end="20261124025200 -0500" start_utc="20261124072900 +0000" stop_utc="20261124075200 +0000" air_time_start_utc="20261124072900 +0000" air_time_end_utc="20261124075200 +0000" is_live="false" channel="WARNER_CO.co">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">ENJOY THOSE GARLIC BALLS</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Disfruta de esas albóndigas</sub-title>
+    <sub-title lang="en">ENJOY THOSE GARLIC BALLS</sub-title>
+    <desc lang="es">Judith está saliendo con el pediatra de Jake, Greg (Ryan Stiles), y Alan está molesto por la idea de que Judith esté con otro hombre - hasta que Charlie señala que si se vuelve a casar, sus pagos de pensión alimenticia terminarán, así que Alan intenta hacerse amigo de él. Mientras le daba un masaje a Greg, Judith entró y Alan le rompió el cuello a Greg accidentalmente en un ataque de pánico - causando que pagara más dinero del que tenía que pagar en primer lugar. Además, Evelyn visita a Charlie y se pregunta por qué parece odiarla.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/gZaNxH1KC7qwT5PQQxDEyEURjly.jpg" />
   </programme>
   <programme start="20261124023100 -0500" stop="20261124025300 -0500" air_time_start="20261124023100 -0500" air_time_end="20261124025300 -0500" start_utc="20261124073100 +0000" stop_utc="20261124075300 +0000" air_time_start_utc="20261124073100 +0000" air_time_end_utc="20261124075300 +0000" is_live="false" channel="WARNER_AN.co">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">A BAG FULL OF JAWEA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Un saco lleno de corchos</sub-title>
+    <sub-title lang="en">A BAG FULL OF JAWEA</sub-title>
+    <desc lang="es">Cuando Jake se mete en problemas en la escuela por darle el dedo a su maestra, Delores Pasternak (Missi Pyle), Charlie decide cortejarla como un intento de salvar a Jake de ser suspendido. Jake entonces atrapa a los dos en medio de la noche. Cuando Alan se entera, insiste en que Charlie lo deje, pero más tarde insiste en que Charlie no lo haga porque Jake ha estado sacando buenas notas en sus trabajos. Charlie rompe con Delores, de todos modos, debido al hecho de que ella quiere un compromiso, y ella castiga a Jake dándole el doble de la cantidad de su tarea regular.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/oaSjtbrBlvRiqieNp6bcvy8Rk3j.jpg" />
   </programme>
   <programme start="20261124023200 -0300" stop="20261124025300 -0300" air_time_start="20261124023200 -0300" air_time_end="20261124025300 -0300" start_utc="20261124053200 +0000" stop_utc="20261124055300 +0000" air_time_start_utc="20261124053200 +0000" air_time_end_utc="20261124055300 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">La Realineación Fraternal</sub-title>
+    <sub-title lang="pt">O Realinhamento Entre Irmãos</sub-title>
     <sub-title lang="en">THE SIBLING REALIGNMENT</sub-title>
     <desc lang="pt">Quando Sheldon descobre que sua mãe não irá ao seu casamento se ele não convidar seu irmão Georgie, ele vai ao Texas ao lado de Leonard para pôr um fim na briga familiar.</desc>
     <category lang="pt">Comédia</category>
@@ -5783,42 +5800,47 @@
   </programme>
   <programme start="20261124024000 -0400" stop="20261124030200 -0400" air_time_start="20261124024000 -0400" air_time_end="20261124030200 -0400" start_utc="20261124064000 +0000" stop_utc="20261124070200 +0000" air_time_start_utc="20261124064000 +0000" air_time_end_utc="20261124070200 +0000" is_live="false" channel="WARNER_CL.cl">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">A BAG FULL OF JAWEA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Un saco lleno de corchos</sub-title>
+    <sub-title lang="en">A BAG FULL OF JAWEA</sub-title>
+    <desc lang="es">Cuando Jake se mete en problemas en la escuela por darle el dedo a su maestra, Delores Pasternak (Missi Pyle), Charlie decide cortejarla como un intento de salvar a Jake de ser suspendido. Jake entonces atrapa a los dos en medio de la noche. Cuando Alan se entera, insiste en que Charlie lo deje, pero más tarde insiste en que Charlie no lo haga porque Jake ha estado sacando buenas notas en sus trabajos. Charlie rompe con Delores, de todos modos, debido al hecho de que ella quiere un compromiso, y ella castiga a Jake dándole el doble de la cantidad de su tarea regular.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/oaSjtbrBlvRiqieNp6bcvy8Rk3j.jpg" />
   </programme>
   <programme start="20261124024100 -0400" stop="20261124030300 -0400" air_time_start="20261124024100 -0400" air_time_end="20261124030300 -0400" start_utc="20261124064100 +0000" stop_utc="20261124070300 +0000" air_time_start_utc="20261124064100 +0000" air_time_end_utc="20261124070300 +0000" is_live="false" channel="WARNER_VE.ve">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">A BAG FULL OF JAWEA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Un saco lleno de corchos</sub-title>
+    <sub-title lang="en">A BAG FULL OF JAWEA</sub-title>
+    <desc lang="es">Cuando Jake se mete en problemas en la escuela por darle el dedo a su maestra, Delores Pasternak (Missi Pyle), Charlie decide cortejarla como un intento de salvar a Jake de ser suspendido. Jake entonces atrapa a los dos en medio de la noche. Cuando Alan se entera, insiste en que Charlie lo deje, pero más tarde insiste en que Charlie no lo haga porque Jake ha estado sacando buenas notas en sus trabajos. Charlie rompe con Delores, de todos modos, debido al hecho de que ella quiere un compromiso, y ella castiga a Jake dándole el doble de la cantidad de su tarea regular.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/oaSjtbrBlvRiqieNp6bcvy8Rk3j.jpg" />
   </programme>
   <programme start="20261124024300 -0600" stop="20261124030500 -0600" air_time_start="20261124024300 -0600" air_time_end="20261124030500 -0600" start_utc="20261124084300 +0000" stop_utc="20261124090500 +0000" air_time_start_utc="20261124084300 +0000" air_time_end_utc="20261124090500 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">A BAG FULL OF JAWEA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Un saco lleno de corchos</sub-title>
+    <sub-title lang="en">A BAG FULL OF JAWEA</sub-title>
+    <desc lang="es">Cuando Jake se mete en problemas en la escuela por darle el dedo a su maestra, Delores Pasternak (Missi Pyle), Charlie decide cortejarla como un intento de salvar a Jake de ser suspendido. Jake entonces atrapa a los dos en medio de la noche. Cuando Alan se entera, insiste en que Charlie lo deje, pero más tarde insiste en que Charlie no lo haga porque Jake ha estado sacando buenas notas en sus trabajos. Charlie rompe con Delores, de todos modos, debido al hecho de que ella quiere un compromiso, y ella castiga a Jake dándole el doble de la cantidad de su tarea regular.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/oaSjtbrBlvRiqieNp6bcvy8Rk3j.jpg" />
   </programme>
   <programme start="20261124024900 -0300" stop="20261124031100 -0300" air_time_start="20261124024900 -0300" air_time_end="20261124031100 -0300" start_utc="20261124054900 +0000" stop_utc="20261124061100 +0000" air_time_start_utc="20261124054900 +0000" air_time_end_utc="20261124061100 +0000" is_live="false" channel="WARNER_AR.ar">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">A BAG FULL OF JAWEA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Un saco lleno de corchos</sub-title>
+    <sub-title lang="en">A BAG FULL OF JAWEA</sub-title>
+    <desc lang="es">Cuando Jake se mete en problemas en la escuela por darle el dedo a su maestra, Delores Pasternak (Missi Pyle), Charlie decide cortejarla como un intento de salvar a Jake de ser suspendido. Jake entonces atrapa a los dos en medio de la noche. Cuando Alan se entera, insiste en que Charlie lo deje, pero más tarde insiste en que Charlie no lo haga porque Jake ha estado sacando buenas notas en sus trabajos. Charlie rompe con Delores, de todos modos, debido al hecho de que ella quiere un compromiso, y ella castiga a Jake dándole el doble de la cantidad de su tarea regular.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/oaSjtbrBlvRiqieNp6bcvy8Rk3j.jpg" />
   </programme>
   <programme start="20261124025200 -0500" stop="20261124031400 -0500" air_time_start="20261124025200 -0500" air_time_end="20261124031400 -0500" start_utc="20261124075200 +0000" stop_utc="20261124081400 +0000" air_time_start_utc="20261124075200 +0000" air_time_end_utc="20261124081400 +0000" is_live="false" channel="WARNER_CO.co">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">A BAG FULL OF JAWEA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Un saco lleno de corchos</sub-title>
+    <sub-title lang="en">A BAG FULL OF JAWEA</sub-title>
+    <desc lang="es">Cuando Jake se mete en problemas en la escuela por darle el dedo a su maestra, Delores Pasternak (Missi Pyle), Charlie decide cortejarla como un intento de salvar a Jake de ser suspendido. Jake entonces atrapa a los dos en medio de la noche. Cuando Alan se entera, insiste en que Charlie lo deje, pero más tarde insiste en que Charlie no lo haga porque Jake ha estado sacando buenas notas en sus trabajos. Charlie rompe con Delores, de todos modos, debido al hecho de que ella quiere un compromiso, y ella castiga a Jake dándole el doble de la cantidad de su tarea regular.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/oaSjtbrBlvRiqieNp6bcvy8Rk3j.jpg" />
   </programme>
   <programme start="20261124025300 -0300" stop="20261124031400 -0300" air_time_start="20261124025300 -0300" air_time_end="20261124031400 -0300" start_utc="20261124055300 +0000" stop_utc="20261124061400 +0000" air_time_start_utc="20261124055300 +0000" air_time_end_utc="20261124061400 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">La Asimetría del Moño</sub-title>
+    <sub-title lang="pt">A assimetria do laço</sub-title>
     <sub-title lang="en">THE BOW TIE ASYMMETRY</sub-title>
     <desc lang="pt">No último episódio da temporada, os pais de Amy e a família de Sheldon chegam. Todos se esforçam para que tudo saia conforme os planos. Menos a noiva e o noivo.</desc>
     <category lang="pt">Comédia</category>
@@ -5827,42 +5849,47 @@
   </programme>
   <programme start="20261124025300 -0500" stop="20261124031500 -0500" air_time_start="20261124025300 -0500" air_time_end="20261124031500 -0500" start_utc="20261124075300 +0000" stop_utc="20261124081500 +0000" air_time_start_utc="20261124075300 +0000" air_time_end_utc="20261124081500 +0000" is_live="false" channel="WARNER_AN.co">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">GO GET MOMMY'S BRA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Ve a por el sujetador de tu madre</sub-title>
+    <sub-title lang="en">GO GET MOMMY'S BRA</sub-title>
+    <desc lang="es">Jake está muy impresionado con el nuevo novio de su madre, Greg, después de que Greg le enseña varias actividades que molestan a Alan. Mientras tanto, Evelyn pide prestado el coche de Charlie para ayudarla a impresionar a un príncipe saudita al que está tratando de venderle una casa y le presta a Charlie su coche eléctrico. Alan y Charlie le enseñan a Jake a conducir este coche. Judith rompe con Greg y Alan está allí para apoyarla; los dos comienzan a tener sexo hasta que Jake y Charlie los encuentran, pero Jake no le cree a Charlie cuando le explica que Alan y Judith estaban a punto de acostarse juntos.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/2d4C6xLF7XBggfFHdmp74eLFxAn.jpg" />
   </programme>
   <programme start="20261124030200 -0400" stop="20261124032500 -0400" air_time_start="20261124030200 -0400" air_time_end="20261124032500 -0400" start_utc="20261124070200 +0000" stop_utc="20261124072500 +0000" air_time_start_utc="20261124070200 +0000" air_time_end_utc="20261124072500 +0000" is_live="false" channel="WARNER_CL.cl">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">GO GET MOMMY'S BRA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Ve a por el sujetador de tu madre</sub-title>
+    <sub-title lang="en">GO GET MOMMY'S BRA</sub-title>
+    <desc lang="es">Jake está muy impresionado con el nuevo novio de su madre, Greg, después de que Greg le enseña varias actividades que molestan a Alan. Mientras tanto, Evelyn pide prestado el coche de Charlie para ayudarla a impresionar a un príncipe saudita al que está tratando de venderle una casa y le presta a Charlie su coche eléctrico. Alan y Charlie le enseñan a Jake a conducir este coche. Judith rompe con Greg y Alan está allí para apoyarla; los dos comienzan a tener sexo hasta que Jake y Charlie los encuentran, pero Jake no le cree a Charlie cuando le explica que Alan y Judith estaban a punto de acostarse juntos.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/2d4C6xLF7XBggfFHdmp74eLFxAn.jpg" />
   </programme>
   <programme start="20261124030300 -0400" stop="20261124032600 -0400" air_time_start="20261124030300 -0400" air_time_end="20261124032600 -0400" start_utc="20261124070300 +0000" stop_utc="20261124072600 +0000" air_time_start_utc="20261124070300 +0000" air_time_end_utc="20261124072600 +0000" is_live="false" channel="WARNER_VE.ve">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">GO GET MOMMY'S BRA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Ve a por el sujetador de tu madre</sub-title>
+    <sub-title lang="en">GO GET MOMMY'S BRA</sub-title>
+    <desc lang="es">Jake está muy impresionado con el nuevo novio de su madre, Greg, después de que Greg le enseña varias actividades que molestan a Alan. Mientras tanto, Evelyn pide prestado el coche de Charlie para ayudarla a impresionar a un príncipe saudita al que está tratando de venderle una casa y le presta a Charlie su coche eléctrico. Alan y Charlie le enseñan a Jake a conducir este coche. Judith rompe con Greg y Alan está allí para apoyarla; los dos comienzan a tener sexo hasta que Jake y Charlie los encuentran, pero Jake no le cree a Charlie cuando le explica que Alan y Judith estaban a punto de acostarse juntos.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/2d4C6xLF7XBggfFHdmp74eLFxAn.jpg" />
   </programme>
   <programme start="20261124030500 -0600" stop="20261124032700 -0600" air_time_start="20261124030500 -0600" air_time_end="20261124032700 -0600" start_utc="20261124090500 +0000" stop_utc="20261124092700 +0000" air_time_start_utc="20261124090500 +0000" air_time_end_utc="20261124092700 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">GO GET MOMMY'S BRA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Ve a por el sujetador de tu madre</sub-title>
+    <sub-title lang="en">GO GET MOMMY'S BRA</sub-title>
+    <desc lang="es">Jake está muy impresionado con el nuevo novio de su madre, Greg, después de que Greg le enseña varias actividades que molestan a Alan. Mientras tanto, Evelyn pide prestado el coche de Charlie para ayudarla a impresionar a un príncipe saudita al que está tratando de venderle una casa y le presta a Charlie su coche eléctrico. Alan y Charlie le enseñan a Jake a conducir este coche. Judith rompe con Greg y Alan está allí para apoyarla; los dos comienzan a tener sexo hasta que Jake y Charlie los encuentran, pero Jake no le cree a Charlie cuando le explica que Alan y Judith estaban a punto de acostarse juntos.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/2d4C6xLF7XBggfFHdmp74eLFxAn.jpg" />
   </programme>
   <programme start="20261124031100 -0300" stop="20261124033400 -0300" air_time_start="20261124031100 -0300" air_time_end="20261124033400 -0300" start_utc="20261124061100 +0000" stop_utc="20261124063400 +0000" air_time_start_utc="20261124061100 +0000" air_time_end_utc="20261124063400 +0000" is_live="false" channel="WARNER_AR.ar">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">GO GET MOMMY'S BRA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Ve a por el sujetador de tu madre</sub-title>
+    <sub-title lang="en">GO GET MOMMY'S BRA</sub-title>
+    <desc lang="es">Jake está muy impresionado con el nuevo novio de su madre, Greg, después de que Greg le enseña varias actividades que molestan a Alan. Mientras tanto, Evelyn pide prestado el coche de Charlie para ayudarla a impresionar a un príncipe saudita al que está tratando de venderle una casa y le presta a Charlie su coche eléctrico. Alan y Charlie le enseñan a Jake a conducir este coche. Judith rompe con Greg y Alan está allí para apoyarla; los dos comienzan a tener sexo hasta que Jake y Charlie los encuentran, pero Jake no le cree a Charlie cuando le explica que Alan y Judith estaban a punto de acostarse juntos.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/2d4C6xLF7XBggfFHdmp74eLFxAn.jpg" />
   </programme>
   <programme start="20261124031400 -0300" stop="20261124033600 -0300" air_time_start="20261124031400 -0300" air_time_end="20261124033600 -0300" start_utc="20261124061400 +0000" stop_utc="20261124063600 +0000" air_time_start_utc="20261124061400 +0000" air_time_end_utc="20261124063600 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">La Configuración Conyugal</sub-title>
+    <sub-title lang="pt">A Conjectura Conjugal</sub-title>
     <sub-title lang="en">THE CONJUGAL CONFIGURATION</sub-title>
     <desc lang="pt">Na estreia da 12ª temporada, a lua de mel de Sheldon e Amy vai aos trancos e barrancos em Nova York. Enquanto isso, Leonard e Penny descobrem que são muito parecidos com os pais de Amy.</desc>
     <category lang="pt">Comédia</category>
@@ -5871,49 +5898,55 @@
   </programme>
   <programme start="20261124031400 -0500" stop="20261124033700 -0500" air_time_start="20261124031400 -0500" air_time_end="20261124033700 -0500" start_utc="20261124081400 +0000" stop_utc="20261124083700 +0000" air_time_start_utc="20261124081400 +0000" air_time_end_utc="20261124083700 +0000" is_live="false" channel="WARNER_CO.co">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">GO GET MOMMY'S BRA</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">Ve a por el sujetador de tu madre</sub-title>
+    <sub-title lang="en">GO GET MOMMY'S BRA</sub-title>
+    <desc lang="es">Jake está muy impresionado con el nuevo novio de su madre, Greg, después de que Greg le enseña varias actividades que molestan a Alan. Mientras tanto, Evelyn pide prestado el coche de Charlie para ayudarla a impresionar a un príncipe saudita al que está tratando de venderle una casa y le presta a Charlie su coche eléctrico. Alan y Charlie le enseñan a Jake a conducir este coche. Judith rompe con Greg y Alan está allí para apoyarla; los dos comienzan a tener sexo hasta que Jake y Charlie los encuentran, pero Jake no le cree a Charlie cuando le explica que Alan y Judith estaban a punto de acostarse juntos.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/2d4C6xLF7XBggfFHdmp74eLFxAn.jpg" />
   </programme>
   <programme start="20261124031500 -0500" stop="20261124033700 -0500" air_time_start="20261124031500 -0500" air_time_end="20261124033700 -0500" start_utc="20261124081500 +0000" stop_utc="20261124083700 +0000" air_time_start_utc="20261124081500 +0000" air_time_end_utc="20261124083700 +0000" is_live="false" channel="WARNER_AN.co">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">BAD NEWS FROM THE CLINIC?</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">¿Problemas en la clínica?</sub-title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
+    <desc lang="es">Charlie encuentra su partido cuando se enamora de una mujer (Sherri, interpretada por Jeri Ryan) que se hace la difícil de conseguir que él. Después de usarla repetidamente para el sexo, Charlie intenta vengarse de Sherri, pero termina castigándose a sí mismo también. Mientras tanto, Alan tiene dificultades para enseñarle a Jake a hacer su tarea, y Jake está molesto por el hecho de que Charlie sigue comiendo toda su comida.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
   </programme>
   <programme start="20261124032500 -0400" stop="20261124034800 -0400" air_time_start="20261124032500 -0400" air_time_end="20261124034800 -0400" start_utc="20261124072500 +0000" stop_utc="20261124074800 +0000" air_time_start_utc="20261124072500 +0000" air_time_end_utc="20261124074800 +0000" is_live="false" channel="WARNER_CL.cl">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">BAD NEWS FROM THE CLINIC?</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">¿Problemas en la clínica?</sub-title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
+    <desc lang="es">Charlie encuentra su partido cuando se enamora de una mujer (Sherri, interpretada por Jeri Ryan) que se hace la difícil de conseguir que él. Después de usarla repetidamente para el sexo, Charlie intenta vengarse de Sherri, pero termina castigándose a sí mismo también. Mientras tanto, Alan tiene dificultades para enseñarle a Jake a hacer su tarea, y Jake está molesto por el hecho de que Charlie sigue comiendo toda su comida.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
   </programme>
   <programme start="20261124032600 -0400" stop="20261124034900 -0400" air_time_start="20261124032600 -0400" air_time_end="20261124034900 -0400" start_utc="20261124072600 +0000" stop_utc="20261124074900 +0000" air_time_start_utc="20261124072600 +0000" air_time_end_utc="20261124074900 +0000" is_live="false" channel="WARNER_VE.ve">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">BAD NEWS FROM THE CLINIC?</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">¿Problemas en la clínica?</sub-title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
+    <desc lang="es">Charlie encuentra su partido cuando se enamora de una mujer (Sherri, interpretada por Jeri Ryan) que se hace la difícil de conseguir que él. Después de usarla repetidamente para el sexo, Charlie intenta vengarse de Sherri, pero termina castigándose a sí mismo también. Mientras tanto, Alan tiene dificultades para enseñarle a Jake a hacer su tarea, y Jake está molesto por el hecho de que Charlie sigue comiendo toda su comida.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
   </programme>
   <programme start="20261124032700 -0600" stop="20261124035000 -0600" air_time_start="20261124032700 -0600" air_time_end="20261124035000 -0600" start_utc="20261124092700 +0000" stop_utc="20261124095000 +0000" air_time_start_utc="20261124092700 +0000" air_time_end_utc="20261124095000 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">BAD NEWS FROM THE CLINIC?</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">¿Problemas en la clínica?</sub-title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
+    <desc lang="es">Charlie encuentra su partido cuando se enamora de una mujer (Sherri, interpretada por Jeri Ryan) que se hace la difícil de conseguir que él. Después de usarla repetidamente para el sexo, Charlie intenta vengarse de Sherri, pero termina castigándose a sí mismo también. Mientras tanto, Alan tiene dificultades para enseñarle a Jake a hacer su tarea, y Jake está molesto por el hecho de que Charlie sigue comiendo toda su comida.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
   </programme>
   <programme start="20261124033400 -0300" stop="20261124035700 -0300" air_time_start="20261124033400 -0300" air_time_end="20261124035700 -0300" start_utc="20261124063400 +0000" stop_utc="20261124065700 +0000" air_time_start_utc="20261124063400 +0000" air_time_end_utc="20261124065700 +0000" is_live="false" channel="WARNER_AR.ar">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">BAD NEWS FROM THE CLINIC?</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">¿Problemas en la clínica?</sub-title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
+    <desc lang="es">Charlie encuentra su partido cuando se enamora de una mujer (Sherri, interpretada por Jeri Ryan) que se hace la difícil de conseguir que él. Después de usarla repetidamente para el sexo, Charlie intenta vengarse de Sherri, pero termina castigándose a sí mismo también. Mientras tanto, Alan tiene dificultades para enseñarle a Jake a hacer su tarea, y Jake está molesto por el hecho de que Charlie sigue comiendo toda su comida.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
   </programme>
   <programme start="20261124033600 -0300" stop="20261124035800 -0300" air_time_start="20261124033600 -0300" air_time_end="20261124035800 -0300" start_utc="20261124063600 +0000" stop_utc="20261124065800 +0000" air_time_start_utc="20261124063600 +0000" air_time_end_utc="20261124065800 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">El Hoyo de Gusano del Regalo Matrimonial</sub-title>
+    <sub-title lang="pt">Buraco de Minhoca Como Presente de Casamento</sub-title>
     <sub-title lang="en">THE WEDDING GIFT WORMHOLE</sub-title>
     <desc lang="pt">Sheldon e Amy ficam desconcertados com o presente de casamento que ganharam de Penny e Leonard. Raj decide concordar que seu pai lhe arranje uma noiva.</desc>
     <category lang="pt">Comédia</category>
@@ -5922,8 +5955,9 @@
   </programme>
   <programme start="20261124033700 -0500" stop="20261124040000 -0500" air_time_start="20261124033700 -0500" air_time_end="20261124040000 -0500" start_utc="20261124083700 +0000" stop_utc="20261124090000 +0000" air_time_start_utc="20261124083700 +0000" air_time_end_utc="20261124090000 +0000" is_live="false" channel="WARNER_CO.co">
     <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">BAD NEWS FROM THE CLINIC?</sub-title>
-    <desc lang="es">Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.</desc>
+    <sub-title lang="es">¿Problemas en la clínica?</sub-title>
+    <sub-title lang="en">BAD NEWS FROM THE CLINIC?</sub-title>
+    <desc lang="es">Charlie encuentra su partido cuando se enamora de una mujer (Sherri, interpretada por Jeri Ryan) que se hace la difícil de conseguir que él. Después de usarla repetidamente para el sexo, Charlie intenta vengarse de Sherri, pero termina castigándose a sí mismo también. Mientras tanto, Alan tiene dificultades para enseñarle a Jake a hacer su tarea, y Jake está molesto por el hecho de que Charlie sigue comiendo toda su comida.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg" />
   </programme>
@@ -5959,7 +5993,7 @@
   </programme>
   <programme start="20261124035800 -0300" stop="20261124042000 -0300" air_time_start="20261124035800 -0300" air_time_end="20261124042000 -0300" start_utc="20261124065800 +0000" stop_utc="20261124072000 +0000" air_time_start_utc="20261124065800 +0000" air_time_end_utc="20261124072000 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">El Calculo de Procreación</sub-title>
+    <sub-title lang="pt">O Cálculo de Procriação</sub-title>
     <sub-title lang="en">THE PROCREATION CALCULATION</sub-title>
     <desc lang="pt">A vida dos Wolowitz se complica quando Stuart leva sua nova namorada para casa. Enquanto isso, Penny e Leonard pensam em começar uma família.</desc>
     <category lang="pt">Comédia</category>
@@ -6004,7 +6038,7 @@
   </programme>
   <programme start="20261124042000 -0300" stop="20261124044000 -0300" air_time_start="20261124042000 -0300" air_time_end="20261124044000 -0300" start_utc="20261124072000 +0000" stop_utc="20261124074000 +0000" air_time_start_utc="20261124072000 +0000" air_time_end_utc="20261124074000 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">La Turbulencia Tam</sub-title>
+    <sub-title lang="pt">A Turbulência Tam</sub-title>
     <sub-title lang="en">THE TAM TURBULENCE</sub-title>
     <desc lang="pt">Sheldon se recusa a dizer por que nunca falou sobre Tam (ROBERT WU), seu melhor amigo de infância, e Leonard decide investigar. Participação de JERRY O'CONNELL.</desc>
     <category lang="pt">Comédia</category>
@@ -6019,7 +6053,8 @@
   </programme>
   <programme start="20261124042300 -0500" stop="20261124051300 -0500" air_time_start="20261124042300 -0500" air_time_end="20261124051300 -0500" start_utc="20261124092300 +0000" stop_utc="20261124101300 +0000" air_time_start_utc="20261124092300 +0000" air_time_end_utc="20261124101300 +0000" is_live="false" channel="WARNER_AN.co">
     <title lang="es">The Pitt: Temporada 1</title>
-    <sub-title lang="es">5:00 P.M.</sub-title>
+    <sub-title lang="es">Hora once: 5:00 PM - 6:00 PM</sub-title>
+    <sub-title lang="en">5:00 P.M.</sub-title>
     <desc lang="es">Mientras Collins guía a una madre subrogada durante un parto difícil, Robby hace todo lo posible por mantener en secreto la situación. McKay se enfrenta a la novia insoportable de su ex y Whitaker ve cómo Samira detecta a un paciente que busca drogas.</desc>
     <category lang="es">Drama</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
@@ -6027,7 +6062,8 @@
   </programme>
   <programme start="20261124043300 -0400" stop="20261124052300 -0400" air_time_start="20261124043300 -0400" air_time_end="20261124052300 -0400" start_utc="20261124083300 +0000" stop_utc="20261124092300 +0000" air_time_start_utc="20261124083300 +0000" air_time_end_utc="20261124092300 +0000" is_live="false" channel="WARNER_VE.ve">
     <title lang="es">The Pitt: Temporada 1</title>
-    <sub-title lang="es">5:00 P.M.</sub-title>
+    <sub-title lang="es">Hora once: 5:00 PM - 6:00 PM</sub-title>
+    <sub-title lang="en">5:00 P.M.</sub-title>
     <desc lang="es">Mientras Collins guía a una madre subrogada durante un parto difícil, Robby hace todo lo posible por mantener en secreto la situación. McKay se enfrenta a la novia insoportable de su ex y Whitaker ve cómo Samira detecta a un paciente que busca drogas.</desc>
     <category lang="es">Drama</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
@@ -6035,7 +6071,8 @@
   </programme>
   <programme start="20261124043400 -0400" stop="20261124052500 -0400" air_time_start="20261124043400 -0400" air_time_end="20261124052500 -0400" start_utc="20261124083400 +0000" stop_utc="20261124092500 +0000" air_time_start_utc="20261124083400 +0000" air_time_end_utc="20261124092500 +0000" is_live="false" channel="WARNER_CL.cl">
     <title lang="es">The Pitt: Temporada 1</title>
-    <sub-title lang="es">5:00 P.M.</sub-title>
+    <sub-title lang="es">Hora once: 5:00 PM - 6:00 PM</sub-title>
+    <sub-title lang="en">5:00 P.M.</sub-title>
     <desc lang="es">Mientras Collins guía a una madre subrogada durante un parto difícil, Robby hace todo lo posible por mantener en secreto la situación. McKay se enfrenta a la novia insoportable de su ex y Whitaker ve cómo Samira detecta a un paciente que busca drogas.</desc>
     <category lang="es">Drama</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
@@ -6043,7 +6080,8 @@
   </programme>
   <programme start="20261124043600 -0600" stop="20261124052700 -0600" air_time_start="20261124043600 -0600" air_time_end="20261124052700 -0600" start_utc="20261124103600 +0000" stop_utc="20261124112700 +0000" air_time_start_utc="20261124103600 +0000" air_time_end_utc="20261124112700 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">The Pitt: Temporada 1</title>
-    <sub-title lang="es">5:00 P.M.</sub-title>
+    <sub-title lang="es">Hora once: 5:00 PM - 6:00 PM</sub-title>
+    <sub-title lang="en">5:00 P.M.</sub-title>
     <desc lang="es">Mientras Collins guía a una madre subrogada durante un parto difícil, Robby hace todo lo posible por mantener en secreto la situación. McKay se enfrenta a la novia insoportable de su ex y Whitaker ve cómo Samira detecta a un paciente que busca drogas.</desc>
     <category lang="es">Drama</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
@@ -6051,14 +6089,16 @@
   </programme>
   <programme start="20261124044000 -0300" stop="20261124050200 -0300" air_time_start="20261124044000 -0300" air_time_end="20261124050200 -0300" start_utc="20261124074000 +0000" stop_utc="20261124080200 +0000" air_time_start_utc="20261124074000 +0000" air_time_end_utc="20261124080200 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">2 BROKE GIRLS</title>
-    <sub-title lang="pt">AND THE KNOCK  OFF KNOCKOUT</sub-title>
+    <sub-title lang="pt">E o Grande Rombo</sub-title>
+    <sub-title lang="en">AND THE KNOCK  OFF KNOCKOUT</sub-title>
     <desc lang="pt">Max e Caroline se envolvem numa batalha jurídica com dois adolescentes que copiaram suas camisetas.</desc>
     <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/hFy1EKRpcdUPM2g3SZAuwdsJihV.jpg" />
   </programme>
   <programme start="20261124044100 -0300" stop="20261124053200 -0300" air_time_start="20261124044100 -0300" air_time_end="20261124053200 -0300" start_utc="20261124074100 +0000" stop_utc="20261124083200 +0000" air_time_start_utc="20261124074100 +0000" air_time_end_utc="20261124083200 +0000" is_live="false" channel="WARNER_AR.ar">
     <title lang="es">The Pitt: Temporada 1</title>
-    <sub-title lang="es">5:00 P.M.</sub-title>
+    <sub-title lang="es">Hora once: 5:00 PM - 6:00 PM</sub-title>
+    <sub-title lang="en">5:00 P.M.</sub-title>
     <desc lang="es">Mientras Collins guía a una madre subrogada durante un parto difícil, Robby hace todo lo posible por mantener en secreto la situación. McKay se enfrenta a la novia insoportable de su ex y Whitaker ve cómo Samira detecta a un paciente que busca drogas.</desc>
     <category lang="es">Drama</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
@@ -6066,7 +6106,8 @@
   </programme>
   <programme start="20261124044600 -0500" stop="20261124053500 -0500" air_time_start="20261124044600 -0500" air_time_end="20261124053500 -0500" start_utc="20261124094600 +0000" stop_utc="20261124103500 +0000" air_time_start_utc="20261124094600 +0000" air_time_end_utc="20261124103500 +0000" is_live="false" channel="WARNER_CO.co">
     <title lang="es">The Pitt: Temporada 1</title>
-    <sub-title lang="es">5:00 P.M.</sub-title>
+    <sub-title lang="es">Hora once: 5:00 PM - 6:00 PM</sub-title>
+    <sub-title lang="en">5:00 P.M.</sub-title>
     <desc lang="es">Mientras Collins guía a una madre subrogada durante un parto difícil, Robby hace todo lo posible por mantener en secreto la situación. McKay se enfrenta a la novia insoportable de su ex y Whitaker ve cómo Samira detecta a un paciente que busca drogas.</desc>
     <category lang="es">Drama</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
@@ -6074,7 +6115,8 @@
   </programme>
   <programme start="20261124050200 -0300" stop="20261124052500 -0300" air_time_start="20261124050200 -0300" air_time_end="20261124052500 -0300" start_utc="20261124080200 +0000" stop_utc="20261124082500 +0000" air_time_start_utc="20261124080200 +0000" air_time_end_utc="20261124082500 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">2 BROKE GIRLS</title>
-    <sub-title lang="pt">AND THE GREAT UNWASHED</sub-title>
+    <sub-title lang="pt">E o Grande Mal Lavado</sub-title>
+    <sub-title lang="en">AND THE GREAT UNWASHED</sub-title>
     <desc lang="pt">Max e Caroline descobrem que uma de suas clientes na lanchonete (a vencedora do Emmy® VALERIE HARPER) é na verdade uma fotógrafa de sucesso.</desc>
     <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/lqCrGCOkakN9yRGKEFLDlscGeUX.jpg" />
@@ -6099,7 +6141,8 @@
   </programme>
   <programme start="20261124052500 -0300" stop="20261124054600 -0300" air_time_start="20261124052500 -0300" air_time_end="20261124054600 -0300" start_utc="20261124082500 +0000" stop_utc="20261124084600 +0000" air_time_start_utc="20261124082500 +0000" air_time_end_utc="20261124084600 +0000" is_live="false" channel="WARNER_BR.br">
     <title lang="pt">2 BROKE GIRLS</title>
-    <sub-title lang="pt">AND THE CUPCAKE CAPTIVES</sub-title>
+    <sub-title lang="pt">E os Cupcakes Reféns</sub-title>
+    <sub-title lang="en">AND THE CUPCAKE CAPTIVES</sub-title>
     <desc lang="pt">O chá de cozinha de Sophie é interrompido por uma situação que envolve reféns. A empresa de cupcakes de Max e Caroline chama atenção de forma negativa quando um inquilino é preso usando uma camiseta da marca.</desc>
     <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/rcw0yu6jMoudl20tAYApQRkUVkq.jpg" />
