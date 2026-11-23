@@ -128,7 +128,7 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", lang="es"
     if not TMDB_TOKEN and not TMDB_API_KEY:
         return ""
 
-    tmdb_lang = "pt-BR" if lang == "pt" else "es-ES"
+    tmdb_lang = "pt-BR" if lang == "pt" else "es-MX"
     headers = {"accept": "application/json"}
     if TMDB_TOKEN:
         headers["Authorization"] = f"Bearer {TMDB_TOKEN}"
@@ -497,11 +497,11 @@ def fetch_tmdb_synopsis(title):
     for q in [clean, title]:
         if not q: continue
         try:
-            res = http_session.get("https://api.themoviedb.org/3/search/tv", headers=headers, params={"query": q, "language": "es-ES"}, timeout=4)
+            res = http_session.get("https://api.themoviedb.org/3/search/tv", headers=headers, params={"query": q, "language": "es-MX"}, timeout=4)
             if res.status_code == 200 and res.json().get("results"):
                 ov = res.json()["results"][0].get("overview")
                 if ov: return ov
-            res = http_session.get("https://api.themoviedb.org/3/search/movie", headers=headers, params={"query": q, "language": "es-ES"}, timeout=4)
+            res = http_session.get("https://api.themoviedb.org/3/search/movie", headers=headers, params={"query": q, "language": "es-MX"}, timeout=4)
             if res.status_code == 200 and res.json().get("results"):
                 ov = res.json()["results"][0].get("overview")
                 if ov: return ov
