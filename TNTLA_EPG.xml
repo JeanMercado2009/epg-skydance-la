@@ -18,491 +18,13 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
-  <programme start="20261115044200 -0600" stop="20261115051600 -0600" air_time_start="20261115044200 -0600" air_time_end="20261115051600 -0600" start_utc="20261115104200 +0000" stop_utc="20261115111600 +0000" air_time_start_utc="20261115104200 +0000" air_time_end_utc="20261115111600 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.17.</episode-num>
-  </programme>
-  <programme start="20261115051600 -0600" stop="20261115055400 -0600" air_time_start="20261115051600 -0600" air_time_end="20261115055400 -0600" start_utc="20261115111600 +0000" stop_utc="20261115115400 +0000" air_time_start_utc="20261115111600 +0000" air_time_end_utc="20261115115400 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.18.</episode-num>
-  </programme>
-  <programme start="20261115055400 -0600" stop="20261115055600 -0600" air_time_start="20261115055400 -0600" air_time_end="20261115055600 -0600" start_utc="20261115115400 +0000" stop_utc="20261115115600 +0000" air_time_start_utc="20261115115400 +0000" air_time_end_utc="20261115115600 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.111.</episode-num>
-  </programme>
-  <programme start="20261115055600 -0600" stop="20261115055700 -0600" air_time_start="20261115055600 -0600" air_time_end="20261115055700 -0600" start_utc="20261115115600 +0000" stop_utc="20261115115700 +0000" air_time_start_utc="20261115115600 +0000" air_time_end_utc="20261115115700 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.113.</episode-num>
-  </programme>
-  <programme start="20261115055700 -0600" stop="20261115060000 -0600" air_time_start="20261115055700 -0600" air_time_end="20261115060000 -0600" start_utc="20261115115700 +0000" stop_utc="20261115120000 +0000" air_time_start_utc="20261115115700 +0000" air_time_end_utc="20261115120000 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.109.</episode-num>
-  </programme>
-  <programme start="20261115060000 -0500" stop="20261115060900 -0500" air_time_start="20261115060000 -0500" air_time_end="20261115060900 -0500" start_utc="20261115110000 +0000" stop_utc="20261115110900 +0000" air_time_start_utc="20261115110000 +0000" air_time_end_utc="20261115110900 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.44.</episode-num>
-  </programme>
-  <programme start="20261115060000 -0600" stop="20261115064100 -0600" air_time_start="20261115060000 -0600" air_time_end="20261115064100 -0600" start_utc="20261115120000 +0000" stop_utc="20261115124100 +0000" air_time_start_utc="20261115120000 +0000" air_time_end_utc="20261115124100 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.18.</episode-num>
-  </programme>
-  <programme start="20261115060200 -0500" stop="20261115074400 -0500" air_time_start="20261115060200 -0500" air_time_end="20261115074400 -0500" start_utc="20261115110200 +0000" stop_utc="20261115124400 +0000" air_time_start_utc="20261115110200 +0000" air_time_end_utc="20261115124400 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">SIN LÍMITES</title>
-    <sub-title lang="es">LIMITLESS</sub-title>
-    <desc lang="es">Al enfrentar el desempleo y el rechazo de su novia, el escritor Eddie Morra está seguro de que no tiene futuro. Todo eso cambia cuando un viejo amigo le da una droga que produce una mayor agudeza mental. Avivado por el químico, que no ha sido analizado, Eddie asciende a la cima del mundo financiero y atrae la atención de un magnate que intenta usarlo para hacer una fortuna. Pero los terribles efectos secundarios y un abastecimiento decreciente amenazan con hacer caer el castillo de naipes de Eddie.</desc>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261115060900 -0500" stop="20261115080500 -0500" air_time_start="20261115060900 -0500" air_time_end="20261115080500 -0500" start_utc="20261115110900 +0000" stop_utc="20261115130500 +0000" air_time_start_utc="20261115110900 +0000" air_time_end_utc="20261115130500 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">FUGA DE PRETORIA</title>
-    <sub-title lang="es">ESCAPE FROM PRETORIA</sub-title>
-    <desc lang="es">La extraordinaria historia real de dos hombres sudafricanos blancos catalogados terroristas y encarcelados en 1978 por su participación en operaciones encubiertas anti-apartheid. Juntos deciden escapar de la prisión de máxima seguridad de Pretoria.</desc>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261115062200 -0300" stop="20261115080800 -0300" air_time_start="20261115062200 -0300" air_time_end="20261115080800 -0300" start_utc="20261115092200 +0000" stop_utc="20261115110800 +0000" air_time_start_utc="20261115092200 +0000" air_time_end_utc="20261115110800 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">FUGA DE PRETORIA</title>
-    <sub-title lang="pt">Escape from Pretoria</sub-title>
-    <desc lang="pt">A extraordinária história real de dois homens brancos sul-africanos chamados de terroristas e presos em 1978, em razão do seu envolvimento em operações secretas contra o Apartheid, decidem escapar da prisão de segurança máxima de Pretória.</desc>
-    <category lang="pt">Drama</category>
-    <category lang="pt">Suspense</category>
-  </programme>
-  <programme start="20261115064100 -0600" stop="20261115065400 -0600" air_time_start="20261115064100 -0600" air_time_end="20261115065400 -0600" start_utc="20261115124100 +0000" stop_utc="20261115125400 +0000" air_time_start_utc="20261115124100 +0000" air_time_end_utc="20261115125400 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.45.</episode-num>
-  </programme>
-  <programme start="20261115064300 -0300" stop="20261115083600 -0300" air_time_start="20261115064300 -0300" air_time_end="20261115083600 -0300" start_utc="20261115094300 +0000" stop_utc="20261115113600 +0000" air_time_start_utc="20261115094300 +0000" air_time_end_utc="20261115113600 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">FUGA DE PRETORIA</title>
-    <sub-title lang="es">ESCAPE FROM PRETORIA</sub-title>
-    <desc lang="es">La extraordinaria historia real de dos hombres sudafricanos blancos catalogados terroristas y encarcelados en 1978 por su participación en operaciones encubiertas anti-apartheid. Juntos deciden escapar de la prisión de máxima seguridad de Pretoria.</desc>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261115065400 -0600" stop="20261115084600 -0600" air_time_start="20261115065400 -0600" air_time_end="20261115084600 -0600" start_utc="20261115125400 +0000" stop_utc="20261115144600 +0000" air_time_start_utc="20261115125400 +0000" air_time_end_utc="20261115144600 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">FUGA DE PRETORIA</title>
-    <sub-title lang="es">ESCAPE FROM PRETORIA</sub-title>
-    <desc lang="es">La extraordinaria historia real de dos hombres sudafricanos blancos catalogados terroristas y encarcelados en 1978 por su participación en operaciones encubiertas anti-apartheid. Juntos deciden escapar de la prisión de máxima seguridad de Pretoria.</desc>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261115070200 -0400" stop="20261115070400 -0400" air_time_start="20261115070200 -0400" air_time_end="20261115070400 -0400" start_utc="20261115110200 +0000" stop_utc="20261115110400 +0000" air_time_start_utc="20261115110200 +0000" air_time_end_utc="20261115110400 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.90.</episode-num>
-  </programme>
-  <programme start="20261115070400 -0400" stop="20261115070600 -0400" air_time_start="20261115070400 -0400" air_time_end="20261115070600 -0400" start_utc="20261115110400 +0000" stop_utc="20261115110600 +0000" air_time_start_utc="20261115110400 +0000" air_time_end_utc="20261115110600 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">TNT BUZZ</title>
-    <episode-num system="xmltv_ns">14.91.</episode-num>
-  </programme>
-  <programme start="20261115070600 -0400" stop="20261115090300 -0400" air_time_start="20261115070600 -0400" air_time_end="20261115090300 -0400" start_utc="20261115110600 +0000" stop_utc="20261115130300 +0000" air_time_start_utc="20261115110600 +0000" air_time_end_utc="20261115130300 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">MASTERCHEF CHILE</title>
-    <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">4.25.</episode-num>
-  </programme>
-  <programme start="20261115074400 -0500" stop="20261115093500 -0500" air_time_start="20261115074400 -0500" air_time_end="20261115093500 -0500" start_utc="20261115124400 +0000" stop_utc="20261115143500 +0000" air_time_start_utc="20261115124400 +0000" air_time_end_utc="20261115143500 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">FUGA DE PRETORIA</title>
-    <sub-title lang="es">ESCAPE FROM PRETORIA</sub-title>
-    <desc lang="es">La extraordinaria historia real de dos hombres sudafricanos blancos catalogados terroristas y encarcelados en 1978 por su participación en operaciones encubiertas anti-apartheid. Juntos deciden escapar de la prisión de máxima seguridad de Pretoria.</desc>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261115080500 -0500" stop="20261115100300 -0500" air_time_start="20261115080500 -0500" air_time_end="20261115100300 -0500" start_utc="20261115130500 +0000" stop_utc="20261115150300 +0000" air_time_start_utc="20261115130500 +0000" air_time_end_utc="20261115150300 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">SING ¡VEN Y CANTA!</title>
-    <sub-title lang="es">SING</sub-title>
-    <desc lang="es">Buster Moon, un oso koala astuto, eternamente optimista y enamorado del mundo del espectáculo desde niño, intenta salvar su viejo teatro de la quiebra y restaurarlo a su antigua gloria organizando un espectacular concurso de canto.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familiar</category>
-  </programme>
-  <programme start="20261115080800 -0300" stop="20261115094400 -0300" air_time_start="20261115080800 -0300" air_time_end="20261115094400 -0300" start_utc="20261115110800 +0000" stop_utc="20261115124400 +0000" air_time_start_utc="20261115110800 +0000" air_time_end_utc="20261115124400 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">KUNG FU PANDA 2</title>
-    <desc lang="pt">Po vive o sonho de ser o dragão guerreiro, protegendo o Vale da Paz ao lado dos mestres Shifu, Tigresa, Macaco, Víbora, Louva-Deus e Garça. Quando o lorde Chen aparece com uma arma secreta capaz de permitir a conquista da China, Po e os Cinco Curiosos precisam fazer de tudo para derrotá-lo.</desc>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20261115083600 -0300" stop="20261115103100 -0300" air_time_start="20261115083600 -0300" air_time_end="20261115103100 -0300" start_utc="20261115113600 +0000" stop_utc="20261115133100 +0000" air_time_start_utc="20261115113600 +0000" air_time_end_utc="20261115133100 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">SING ¡VEN Y CANTA!</title>
-    <sub-title lang="es">SING</sub-title>
-    <desc lang="es">Buster Moon, un oso koala astuto, eternamente optimista y enamorado del mundo del espectáculo desde niño, intenta salvar su viejo teatro de la quiebra y restaurarlo a su antigua gloria organizando un espectacular concurso de canto.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familiar</category>
-  </programme>
-  <programme start="20261115084600 -0600" stop="20261115103900 -0600" air_time_start="20261115084600 -0600" air_time_end="20261115103900 -0600" start_utc="20261115144600 +0000" stop_utc="20261115163900 +0000" air_time_start_utc="20261115144600 +0000" air_time_end_utc="20261115163900 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">SING ¡VEN Y CANTA!</title>
-    <sub-title lang="es">SING</sub-title>
-    <desc lang="es">Buster Moon, un oso koala astuto, eternamente optimista y enamorado del mundo del espectáculo desde niño, intenta salvar su viejo teatro de la quiebra y restaurarlo a su antigua gloria organizando un espectacular concurso de canto.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familiar</category>
-  </programme>
-  <programme start="20261115090300 -0400" stop="20261115110900 -0400" air_time_start="20261115090300 -0400" air_time_end="20261115110900 -0400" start_utc="20261115130300 +0000" stop_utc="20261115150900 +0000" air_time_start_utc="20261115130300 +0000" air_time_end_utc="20261115150900 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">MASTERCHEF CHILE</title>
-    <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">4.26.</episode-num>
-  </programme>
-  <programme start="20261115093500 -0500" stop="20261115100100 -0500" air_time_start="20261115093500 -0500" air_time_end="20261115100100 -0500" start_utc="20261115143500 +0000" stop_utc="20261115150100 +0000" air_time_start_utc="20261115143500 +0000" air_time_end_utc="20261115150100 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">YO SOY BETTY LA FEA</title>
-    <desc lang="es">Beatriz Pinzón, una brillante economista, tiene el defecto de ser muy fea y está resignada a envejecer al lado de sus padres porque ha perdido toda esperanza con los hombres. Pero la fealdad no le impide a Betty soñar y, desde que empezó a trabajar en Eco Moda, imagina lo que sería vivir una historia de amor con Armando, el presidente de la compañía. Pero para él no existe como mujer, Betty es su consejera y cómplice ya que lo encubre ante su novia. No obstante, la vida le dará a Betty la oportunidad que estaba esperando y gracias a su inteligencia demostrará a todos que es una mujer digna de ser amada por cualquier hombre.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Romance</category>
-    <episode-num system="xmltv_ns">-1.5.</episode-num>
-  </programme>
-  <programme start="20261115094400 -0300" stop="20261115100800 -0300" air_time_start="20261115094400 -0300" air_time_end="20261115100800 -0300" start_utc="20261115124400 +0000" stop_utc="20261115130800 +0000" air_time_start_utc="20261115124400 +0000" air_time_end_utc="20261115130800 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/muwTVh2PavwN1yhqQeZs5zqeP8p.jpg" />
-  </programme>
-  <programme start="20261115100100 -0500" stop="20261115103000 -0500" air_time_start="20261115100100 -0500" air_time_end="20261115103000 -0500" start_utc="20261115150100 +0000" stop_utc="20261115153000 +0000" air_time_start_utc="20261115150100 +0000" air_time_end_utc="20261115153000 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">YO SOY BETTY LA FEA</title>
-    <desc lang="es">Beatriz Pinzón, una brillante economista, tiene el defecto de ser muy fea y está resignada a envejecer al lado de sus padres porque ha perdido toda esperanza con los hombres. Pero la fealdad no le impide a Betty soñar y, desde que empezó a trabajar en Eco Moda, imagina lo que sería vivir una historia de amor con Armando, el presidente de la compañía. Pero para él no existe como mujer, Betty es su consejera y cómplice ya que lo encubre ante su novia. No obstante, la vida le dará a Betty la oportunidad que estaba esperando y gracias a su inteligencia demostrará a todos que es una mujer digna de ser amada por cualquier hombre.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Romance</category>
-    <episode-num system="xmltv_ns">-1.6.</episode-num>
-  </programme>
-  <programme start="20261115100300 -0500" stop="20261115121500 -0500" air_time_start="20261115100300 -0500" air_time_end="20261115121500 -0500" start_utc="20261115150300 +0000" stop_utc="20261115171500 +0000" air_time_start_utc="20261115150300 +0000" air_time_end_utc="20261115171500 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">LOS GOONIES</title>
-    <desc lang="es">En esta aventura como las de antes, un grupo de niños sale en busca de un tesoro escondido.</desc>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Familiar</category>
-  </programme>
-  <programme start="20261115100800 -0300" stop="20261115103200 -0300" air_time_start="20261115100800 -0300" air_time_end="20261115103200 -0300" start_utc="20261115130800 +0000" stop_utc="20261115133200 +0000" air_time_start_utc="20261115130800 +0000" air_time_end_utc="20261115133200 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/rI7HZ9b9KVdQJyuz3g5G8LLGl6O.jpg" />
-  </programme>
-  <programme start="20261115103000 -0500" stop="20261115105800 -0500" air_time_start="20261115103000 -0500" air_time_end="20261115105800 -0500" start_utc="20261115153000 +0000" stop_utc="20261115155800 +0000" air_time_start_utc="20261115153000 +0000" air_time_end_utc="20261115155800 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">YO SOY BETTY LA FEA</title>
-    <desc lang="es">Beatriz Pinzón, una brillante economista, tiene el defecto de ser muy fea y está resignada a envejecer al lado de sus padres porque ha perdido toda esperanza con los hombres. Pero la fealdad no le impide a Betty soñar y, desde que empezó a trabajar en Eco Moda, imagina lo que sería vivir una historia de amor con Armando, el presidente de la compañía. Pero para él no existe como mujer, Betty es su consejera y cómplice ya que lo encubre ante su novia. No obstante, la vida le dará a Betty la oportunidad que estaba esperando y gracias a su inteligencia demostrará a todos que es una mujer digna de ser amada por cualquier hombre.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Romance</category>
-    <episode-num system="xmltv_ns">-1.7.</episode-num>
-  </programme>
-  <programme start="20261115103100 -0300" stop="20261115123600 -0300" air_time_start="20261115103100 -0300" air_time_end="20261115123600 -0300" start_utc="20261115133100 +0000" stop_utc="20261115153600 +0000" air_time_start_utc="20261115133100 +0000" air_time_end_utc="20261115153600 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">LOS GOONIES</title>
-    <desc lang="es">En esta aventura como las de antes, un grupo de niños sale en busca de un tesoro escondido.</desc>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Familiar</category>
-  </programme>
-  <programme start="20261115103200 -0300" stop="20261115105600 -0300" air_time_start="20261115103200 -0300" air_time_end="20261115105600 -0300" start_utc="20261115133200 +0000" stop_utc="20261115135600 +0000" air_time_start_utc="20261115133200 +0000" air_time_end_utc="20261115135600 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/raI65oUWNeyoWix2x1RQrmnVNUX.jpg" />
-  </programme>
-  <programme start="20261115103900 -0600" stop="20261115123900 -0600" air_time_start="20261115103900 -0600" air_time_end="20261115123900 -0600" start_utc="20261115163900 +0000" stop_utc="20261115183900 +0000" air_time_start_utc="20261115163900 +0000" air_time_end_utc="20261115183900 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">LOS GOONIES</title>
-    <desc lang="es">En esta aventura como las de antes, un grupo de niños sale en busca de un tesoro escondido.</desc>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Familiar</category>
-  </programme>
-  <programme start="20261115105600 -0300" stop="20261115111900 -0300" air_time_start="20261115105600 -0300" air_time_end="20261115111900 -0300" start_utc="20261115135600 +0000" stop_utc="20261115141900 +0000" air_time_start_utc="20261115135600 +0000" air_time_end_utc="20261115141900 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/nKb0PJwmvF1AWc9jDYcUdMilt0G.jpg" />
-  </programme>
-  <programme start="20261115105800 -0500" stop="20261115112700 -0500" air_time_start="20261115105800 -0500" air_time_end="20261115112700 -0500" start_utc="20261115155800 +0000" stop_utc="20261115162700 +0000" air_time_start_utc="20261115155800 +0000" air_time_end_utc="20261115162700 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">YO SOY BETTY LA FEA</title>
-    <desc lang="es">Beatriz Pinzón, una brillante economista, tiene el defecto de ser muy fea y está resignada a envejecer al lado de sus padres porque ha perdido toda esperanza con los hombres. Pero la fealdad no le impide a Betty soñar y, desde que empezó a trabajar en Eco Moda, imagina lo que sería vivir una historia de amor con Armando, el presidente de la compañía. Pero para él no existe como mujer, Betty es su consejera y cómplice ya que lo encubre ante su novia. No obstante, la vida le dará a Betty la oportunidad que estaba esperando y gracias a su inteligencia demostrará a todos que es una mujer digna de ser amada por cualquier hombre.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Romance</category>
-    <episode-num system="xmltv_ns">-1.8.</episode-num>
-  </programme>
-  <programme start="20261115110900 -0400" stop="20261115131000 -0400" air_time_start="20261115110900 -0400" air_time_end="20261115131000 -0400" start_utc="20261115150900 +0000" stop_utc="20261115171000 +0000" air_time_start_utc="20261115150900 +0000" air_time_end_utc="20261115171000 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">MASTERCHEF CHILE</title>
-    <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">4.27.</episode-num>
-  </programme>
-  <programme start="20261115111900 -0300" stop="20261115114100 -0300" air_time_start="20261115111900 -0300" air_time_end="20261115114100 -0300" start_utc="20261115141900 +0000" stop_utc="20261115144100 +0000" air_time_start_utc="20261115141900 +0000" air_time_end_utc="20261115144100 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.20.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/3eK2PUkJRqxGis7ieMAeKS7MRfa.jpg" />
-  </programme>
-  <programme start="20261115112700 -0500" stop="20261115115700 -0500" air_time_start="20261115112700 -0500" air_time_end="20261115115700 -0500" start_utc="20261115162700 +0000" stop_utc="20261115165700 +0000" air_time_start_utc="20261115162700 +0000" air_time_end_utc="20261115165700 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">YO SOY BETTY LA FEA</title>
-    <desc lang="es">Beatriz Pinzón, una brillante economista, tiene el defecto de ser muy fea y está resignada a envejecer al lado de sus padres porque ha perdido toda esperanza con los hombres. Pero la fealdad no le impide a Betty soñar y, desde que empezó a trabajar en Eco Moda, imagina lo que sería vivir una historia de amor con Armando, el presidente de la compañía. Pero para él no existe como mujer, Betty es su consejera y cómplice ya que lo encubre ante su novia. No obstante, la vida le dará a Betty la oportunidad que estaba esperando y gracias a su inteligencia demostrará a todos que es una mujer digna de ser amada por cualquier hombre.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Romance</category>
-    <episode-num system="xmltv_ns">-1.9.</episode-num>
-  </programme>
-  <programme start="20261115114100 -0300" stop="20261115120400 -0300" air_time_start="20261115114100 -0300" air_time_end="20261115120400 -0300" start_utc="20261115144100 +0000" stop_utc="20261115150400 +0000" air_time_start_utc="20261115144100 +0000" air_time_end_utc="20261115150400 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/vC7xVrSRshNq3AqYUe3bSqPxeTW.jpg" />
-  </programme>
-  <programme start="20261115115700 -0500" stop="20261115133900 -0500" air_time_start="20261115115700 -0500" air_time_end="20261115133900 -0500" start_utc="20261115165700 +0000" stop_utc="20261115183900 +0000" air_time_start_utc="20261115165700 +0000" air_time_end_utc="20261115183900 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">KUNG FU PANDA 2</title>
-    <desc lang="es">Desde que se convirtió en el Guerrero Dragón, Po ha estado buscando una oportunidad de pelear para defender la aldea. Esta oportunidad llega cuando el vengativo Shen regresa a la ciudad de Gongmen luego de un largo exilio y trae consigo una poderosa arma que puede derrotar a cualquier guerrero. Po y sus amigos deberán ir a Gongmen para detener a Shen y destruir el arma. Pero esta vez el mayor desafío de Po no estará ligado al kung fu: deberá descifrar su pasado para alcanzar la paz interior.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261115120400 -0300" stop="20261115122800 -0300" air_time_start="20261115120400 -0300" air_time_end="20261115122800 -0300" start_utc="20261115150400 +0000" stop_utc="20261115152800 +0000" air_time_start_utc="20261115150400 +0000" air_time_end_utc="20261115152800 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/9WwbvlmsKYJknjfXjgVRcG69pZr.jpg" />
-  </programme>
-  <programme start="20261115121500 -0500" stop="20261115135400 -0500" air_time_start="20261115121500 -0500" air_time_end="20261115135400 -0500" start_utc="20261115171500 +0000" stop_utc="20261115185400 +0000" air_time_start_utc="20261115171500 +0000" air_time_end_utc="20261115185400 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">KUNG FU PANDA 2</title>
-    <desc lang="es">Desde que se convirtió en el Guerrero Dragón, Po ha estado buscando una oportunidad de pelear para defender la aldea. Esta oportunidad llega cuando el vengativo Shen regresa a la ciudad de Gongmen luego de un largo exilio y trae consigo una poderosa arma que puede derrotar a cualquier guerrero. Po y sus amigos deberán ir a Gongmen para detener a Shen y destruir el arma. Pero esta vez el mayor desafío de Po no estará ligado al kung fu: deberá descifrar su pasado para alcanzar la paz interior.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261115122800 -0300" stop="20261115125100 -0300" air_time_start="20261115122800 -0300" air_time_end="20261115125100 -0300" start_utc="20261115152800 +0000" stop_utc="20261115155100 +0000" air_time_start_utc="20261115152800 +0000" air_time_end_utc="20261115155100 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/yMThZVZqpkEgE5nTIlpANyIzFpT.jpg" />
-  </programme>
-  <programme start="20261115123600 -0300" stop="20261115141200 -0300" air_time_start="20261115123600 -0300" air_time_end="20261115141200 -0300" start_utc="20261115153600 +0000" stop_utc="20261115171200 +0000" air_time_start_utc="20261115153600 +0000" air_time_end_utc="20261115171200 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">KUNG FU PANDA 2</title>
-    <desc lang="es">Desde que se convirtió en el Guerrero Dragón, Po ha estado buscando una oportunidad de pelear para defender la aldea. Esta oportunidad llega cuando el vengativo Shen regresa a la ciudad de Gongmen luego de un largo exilio y trae consigo una poderosa arma que puede derrotar a cualquier guerrero. Po y sus amigos deberán ir a Gongmen para detener a Shen y destruir el arma. Pero esta vez el mayor desafío de Po no estará ligado al kung fu: deberá descifrar su pasado para alcanzar la paz interior.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261115123900 -0600" stop="20261115141500 -0600" air_time_start="20261115123900 -0600" air_time_end="20261115141500 -0600" start_utc="20261115183900 +0000" stop_utc="20261115201500 +0000" air_time_start_utc="20261115183900 +0000" air_time_end_utc="20261115201500 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">KUNG FU PANDA 2</title>
-    <desc lang="es">Desde que se convirtió en el Guerrero Dragón, Po ha estado buscando una oportunidad de pelear para defender la aldea. Esta oportunidad llega cuando el vengativo Shen regresa a la ciudad de Gongmen luego de un largo exilio y trae consigo una poderosa arma que puede derrotar a cualquier guerrero. Po y sus amigos deberán ir a Gongmen para detener a Shen y destruir el arma. Pero esta vez el mayor desafío de Po no estará ligado al kung fu: deberá descifrar su pasado para alcanzar la paz interior.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261115125100 -0300" stop="20261115131600 -0300" air_time_start="20261115125100 -0300" air_time_end="20261115131600 -0300" start_utc="20261115155100 +0000" stop_utc="20261115161600 +0000" air_time_start_utc="20261115155100 +0000" air_time_end_utc="20261115161600 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/muwTVh2PavwN1yhqQeZs5zqeP8p.jpg" />
-  </programme>
-  <programme start="20261115131000 -0400" stop="20261115150700 -0400" air_time_start="20261115131000 -0400" air_time_end="20261115150700 -0400" start_utc="20261115171000 +0000" stop_utc="20261115190700 +0000" air_time_start_utc="20261115171000 +0000" air_time_end_utc="20261115190700 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">MASTERCHEF CHILE</title>
-    <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">4.28.</episode-num>
-  </programme>
-  <programme start="20261115131600 -0300" stop="20261115133900 -0300" air_time_start="20261115131600 -0300" air_time_end="20261115133900 -0300" start_utc="20261115161600 +0000" stop_utc="20261115163900 +0000" air_time_start_utc="20261115161600 +0000" air_time_end_utc="20261115163900 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/rI7HZ9b9KVdQJyuz3g5G8LLGl6O.jpg" />
-  </programme>
-  <programme start="20261115133900 -0300" stop="20261115140300 -0300" air_time_start="20261115133900 -0300" air_time_end="20261115140300 -0300" start_utc="20261115163900 +0000" stop_utc="20261115170300 +0000" air_time_start_utc="20261115163900 +0000" air_time_end_utc="20261115170300 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/raI65oUWNeyoWix2x1RQrmnVNUX.jpg" />
-  </programme>
-  <programme start="20261115133900 -0500" stop="20261115134200 -0500" air_time_start="20261115133900 -0500" air_time_end="20261115134200 -0500" start_utc="20261115183900 +0000" stop_utc="20261115184200 +0000" air_time_start_utc="20261115183900 +0000" air_time_end_utc="20261115184200 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</title>
-    <desc lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261115134200 -0500" stop="20261115152100 -0500" air_time_start="20261115134200 -0500" air_time_end="20261115152100 -0500" start_utc="20261115184200 +0000" stop_utc="20261115202100 +0000" air_time_start_utc="20261115184200 +0000" air_time_end_utc="20261115202100 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">KUNG FU PANDA 3</title>
-    <desc lang="es">Hay mucho en el plato del Guerrero Dragón: al mismo tiempo que Shifu lo nombra Maestro de los Cinco Furiosos, Po descubre la aldea secreta de los pandas. Para complicar más las cosas, el malvado Kai llega desde el reino de los espíritus amenazando con destruir el Kung Fu. Queda en manos de Po el enfrentar a Kai, redescubrir su lado familiar y encontrar la fuerza para convertirse en un verdadero maestro.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familiar</category>
-  </programme>
-  <programme start="20261115135400 -0500" stop="20261115135700 -0500" air_time_start="20261115135400 -0500" air_time_end="20261115135700 -0500" start_utc="20261115185400 +0000" stop_utc="20261115185700 +0000" air_time_start_utc="20261115185400 +0000" air_time_end_utc="20261115185700 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</title>
-    <desc lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261115135700 -0500" stop="20261115154200 -0500" air_time_start="20261115135700 -0500" air_time_end="20261115154200 -0500" start_utc="20261115185700 +0000" stop_utc="20261115204200 +0000" air_time_start_utc="20261115185700 +0000" air_time_end_utc="20261115204200 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">KUNG FU PANDA 3</title>
-    <desc lang="es">Hay mucho en el plato del Guerrero Dragón: al mismo tiempo que Shifu lo nombra Maestro de los Cinco Furiosos, Po descubre la aldea secreta de los pandas. Para complicar más las cosas, el malvado Kai llega desde el reino de los espíritus amenazando con destruir el Kung Fu. Queda en manos de Po el enfrentar a Kai, redescubrir su lado familiar y encontrar la fuerza para convertirse en un verdadero maestro.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familiar</category>
-  </programme>
-  <programme start="20261115140300 -0300" stop="20261115142600 -0300" air_time_start="20261115140300 -0300" air_time_end="20261115142600 -0300" start_utc="20261115170300 +0000" stop_utc="20261115172600 +0000" air_time_start_utc="20261115170300 +0000" air_time_end_utc="20261115172600 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/nKb0PJwmvF1AWc9jDYcUdMilt0G.jpg" />
-  </programme>
-  <programme start="20261115141200 -0300" stop="20261115141500 -0300" air_time_start="20261115141200 -0300" air_time_end="20261115141500 -0300" start_utc="20261115171200 +0000" stop_utc="20261115171500 +0000" air_time_start_utc="20261115171200 +0000" air_time_end_utc="20261115171500 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</title>
-    <desc lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261115141500 -0300" stop="20261115155400 -0300" air_time_start="20261115141500 -0300" air_time_end="20261115155400 -0300" start_utc="20261115171500 +0000" stop_utc="20261115185400 +0000" air_time_start_utc="20261115171500 +0000" air_time_end_utc="20261115185400 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">KUNG FU PANDA 3</title>
-    <desc lang="es">Hay mucho en el plato del Guerrero Dragón: al mismo tiempo que Shifu lo nombra Maestro de los Cinco Furiosos, Po descubre la aldea secreta de los pandas. Para complicar más las cosas, el malvado Kai llega desde el reino de los espíritus amenazando con destruir el Kung Fu. Queda en manos de Po el enfrentar a Kai, redescubrir su lado familiar y encontrar la fuerza para convertirse en un verdadero maestro.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familiar</category>
-  </programme>
-  <programme start="20261115141500 -0600" stop="20261115141800 -0600" air_time_start="20261115141500 -0600" air_time_end="20261115141800 -0600" start_utc="20261115201500 +0000" stop_utc="20261115201800 +0000" air_time_start_utc="20261115201500 +0000" air_time_end_utc="20261115201800 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</title>
-    <desc lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261115141800 -0600" stop="20261115155100 -0600" air_time_start="20261115141800 -0600" air_time_end="20261115155100 -0600" start_utc="20261115201800 +0000" stop_utc="20261115215100 +0000" air_time_start_utc="20261115201800 +0000" air_time_end_utc="20261115215100 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">KUNG FU PANDA 3</title>
-    <desc lang="es">Hay mucho en el plato del Guerrero Dragón: al mismo tiempo que Shifu lo nombra Maestro de los Cinco Furiosos, Po descubre la aldea secreta de los pandas. Para complicar más las cosas, el malvado Kai llega desde el reino de los espíritus amenazando con destruir el Kung Fu. Queda en manos de Po el enfrentar a Kai, redescubrir su lado familiar y encontrar la fuerza para convertirse en un verdadero maestro.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familiar</category>
-  </programme>
-  <programme start="20261115142600 -0300" stop="20261115161700 -0300" air_time_start="20261115142600 -0300" air_time_end="20261115161700 -0300" start_utc="20261115172600 +0000" stop_utc="20261115191700 +0000" air_time_start_utc="20261115172600 +0000" air_time_end_utc="20261115191700 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">JUMANJI</title>
-    <desc lang="pt">Quando duas crianças jogam um jogo de tabuleiro mágico que acharam, eles liberam um homem (Robin Williams) que estava preso por décadas e em perigo, que pode somente ser liberado depois que o jogo for terminado.</desc>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Família</category>
-  </programme>
-  <programme start="20261115150700 -0400" stop="20261115151000 -0400" air_time_start="20261115150700 -0400" air_time_end="20261115151000 -0400" start_utc="20261115190700 +0000" stop_utc="20261115191000 +0000" air_time_start_utc="20261115190700 +0000" air_time_end_utc="20261115191000 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</title>
-    <desc lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261115151000 -0400" stop="20261115172900 -0400" air_time_start="20261115151000 -0400" air_time_end="20261115172900 -0400" start_utc="20261115191000 +0000" stop_utc="20261115212900 +0000" air_time_start_utc="20261115191000 +0000" air_time_end_utc="20261115212900 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">SÓLO PARA PAREJAS</title>
-    <desc lang="es">Intentando salvar su matrimonio, Jason y Cynthia invitan a otras tres parejas a un encuentro en un resort ubicado en una isla tropical. Los otros están algo renuentes, pero aceptan, planeando divertirse mientras Jason y Cynthia hacen sus sesiones de terapia. Lamentablemente, para la sorpresa de todos, el paquete es inflexible: todas las parejas deberán participar en las actividades se quieren seguir en el resort.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261115152100 -0500" stop="20261115173600 -0500" air_time_start="20261115152100 -0500" air_time_end="20261115173600 -0500" start_utc="20261115202100 +0000" stop_utc="20261115223600 +0000" air_time_start_utc="20261115202100 +0000" air_time_end_utc="20261115223600 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">SÓLO PARA PAREJAS</title>
-    <desc lang="es">Intentando salvar su matrimonio, Jason y Cynthia invitan a otras tres parejas a un encuentro en un resort ubicado en una isla tropical. Los otros están algo renuentes, pero aceptan, planeando divertirse mientras Jason y Cynthia hacen sus sesiones de terapia. Lamentablemente, para la sorpresa de todos, el paquete es inflexible: todas las parejas deberán participar en las actividades se quieren seguir en el resort.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261115154200 -0500" stop="20261115175200 -0500" air_time_start="20261115154200 -0500" air_time_end="20261115175200 -0500" start_utc="20261115204200 +0000" stop_utc="20261115225200 +0000" air_time_start_utc="20261115204200 +0000" air_time_end_utc="20261115225200 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">SÓLO PARA PAREJAS</title>
-    <desc lang="es">Intentando salvar su matrimonio, Jason y Cynthia invitan a otras tres parejas a un encuentro en un resort ubicado en una isla tropical. Los otros están algo renuentes, pero aceptan, planeando divertirse mientras Jason y Cynthia hacen sus sesiones de terapia. Lamentablemente, para la sorpresa de todos, el paquete es inflexible: todas las parejas deberán participar en las actividades se quieren seguir en el resort.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261115155100 -0600" stop="20261115175900 -0600" air_time_start="20261115155100 -0600" air_time_end="20261115175900 -0600" start_utc="20261115215100 +0000" stop_utc="20261115235900 +0000" air_time_start_utc="20261115215100 +0000" air_time_end_utc="20261115235900 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">SÓLO PARA PAREJAS</title>
-    <desc lang="es">Intentando salvar su matrimonio, Jason y Cynthia invitan a otras tres parejas a un encuentro en un resort ubicado en una isla tropical. Los otros están algo renuentes, pero aceptan, planeando divertirse mientras Jason y Cynthia hacen sus sesiones de terapia. Lamentablemente, para la sorpresa de todos, el paquete es inflexible: todas las parejas deberán participar en las actividades se quieren seguir en el resort.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261115155400 -0300" stop="20261115175900 -0300" air_time_start="20261115155400 -0300" air_time_end="20261115175900 -0300" start_utc="20261115185400 +0000" stop_utc="20261115205900 +0000" air_time_start_utc="20261115185400 +0000" air_time_end_utc="20261115205900 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">SÓLO PARA PAREJAS</title>
-    <desc lang="es">Intentando salvar su matrimonio, Jason y Cynthia invitan a otras tres parejas a un encuentro en un resort ubicado en una isla tropical. Los otros están algo renuentes, pero aceptan, planeando divertirse mientras Jason y Cynthia hacen sus sesiones de terapia. Lamentablemente, para la sorpresa de todos, el paquete es inflexible: todas las parejas deberán participar en las actividades se quieren seguir en el resort.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261115161700 -0300" stop="20261115181900 -0300" air_time_start="20261115161700 -0300" air_time_end="20261115181900 -0300" start_utc="20261115191700 +0000" stop_utc="20261115211900 +0000" air_time_start_utc="20261115191700 +0000" air_time_end_utc="20261115211900 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">ENCONTRO DE CASAIS</title>
-    <sub-title lang="pt">Couples Retreat</sub-title>
-    <desc lang="pt">Tentando salvar seu casamento, Jason e Cynthia convidam três outros casais para um encontro em um resort localizado em uma ilha tropical. Os outros concordam com um pouco de relutância, mas aceitam, planejando se divertir enquanto Jason e Cynthia fazem suas sessões de terapia. Infelizmente, para a surpresa de todos, o pacote é inflexível: todos os casais deverão participar das atividades se quiserem continuar no resort.</desc>
-    <category lang="pt">Comédia</category>
-    <category lang="pt">Romance</category>
-  </programme>
-  <programme start="20261115172900 -0400" stop="20261115173200 -0400" air_time_start="20261115172900 -0400" air_time_end="20261115173200 -0400" start_utc="20261115212900 +0000" stop_utc="20261115213200 +0000" air_time_start_utc="20261115212900 +0000" air_time_end_utc="20261115213200 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</title>
-    <desc lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261115173200 -0400" stop="20261115195400 -0400" air_time_start="20261115173200 -0400" air_time_end="20261115195400 -0400" start_utc="20261115213200 +0000" stop_utc="20261115235400 +0000" air_time_start_utc="20261115213200 +0000" air_time_end_utc="20261115235400 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">UNA ESPOSA DE MENTIRA</title>
-    <desc lang="es">Danny es un exitoso cirujano plástico que miente constantemente para conquistar mujeres. Pero esto se convierte en un gran problema cuando conoce a la mujer de sus sueños. Para cubrir sus mentiras y acercarse a ella, Danny les pide a su leal asistente y a sus hijos que simulen ser su familia. Cuando se desatan más mentiras, viajan todos juntos a Hawái, donde vivirán un fin de semana alocado y fuera de lo común.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261115173600 -0500" stop="20261115173900 -0500" air_time_start="20261115173600 -0500" air_time_end="20261115173900 -0500" start_utc="20261115223600 +0000" stop_utc="20261115223900 +0000" air_time_start_utc="20261115223600 +0000" air_time_end_utc="20261115223900 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</title>
-    <desc lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20261115173900 -0500" stop="20261115200200 -0500" air_time_start="20261115173900 -0500" air_time_end="20261115200200 -0500" start_utc="20261115223900 +0000" stop_utc="20261116010200 +0000" air_time_start_utc="20261115223900 +0000" air_time_end_utc="20261116010200 +0000" is_live="false" channel="TNT_CO.co">
     <title lang="es">UNA ESPOSA DE MENTIRA</title>
     <desc lang="es">Danny es un exitoso cirujano plástico que miente constantemente para conquistar mujeres. Pero esto se convierte en un gran problema cuando conoce a la mujer de sus sueños. Para cubrir sus mentiras y acercarse a ella, Danny les pide a su leal asistente y a sus hijos que simulen ser su familia. Cuando se desatan más mentiras, viajan todos juntos a Hawái, donde vivirán un fin de semana alocado y fuera de lo común.</desc>
     <category lang="es">Comedia</category>
     <category lang="es">Romance</category>
   </programme>
-  <programme start="20261115175200 -0500" stop="20261115175500 -0500" air_time_start="20261115175200 -0500" air_time_end="20261115175500 -0500" start_utc="20261115225200 +0000" stop_utc="20261115225500 +0000" air_time_start_utc="20261115225200 +0000" air_time_end_utc="20261115225500 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</title>
-    <desc lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20261115175500 -0500" stop="20261115200900 -0500" air_time_start="20261115175500 -0500" air_time_end="20261115200900 -0500" start_utc="20261115225500 +0000" stop_utc="20261116010900 +0000" air_time_start_utc="20261115225500 +0000" air_time_end_utc="20261116010900 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">UNA ESPOSA DE MENTIRA</title>
-    <desc lang="es">Danny es un exitoso cirujano plástico que miente constantemente para conquistar mujeres. Pero esto se convierte en un gran problema cuando conoce a la mujer de sus sueños. Para cubrir sus mentiras y acercarse a ella, Danny les pide a su leal asistente y a sus hijos que simulen ser su familia. Cuando se desatan más mentiras, viajan todos juntos a Hawái, donde vivirán un fin de semana alocado y fuera de lo común.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261115175900 -0300" stop="20261115180200 -0300" air_time_start="20261115175900 -0300" air_time_end="20261115180200 -0300" start_utc="20261115205900 +0000" stop_utc="20261115210200 +0000" air_time_start_utc="20261115205900 +0000" air_time_end_utc="20261115210200 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</title>
-    <desc lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261115175900 -0600" stop="20261115180200 -0600" air_time_start="20261115175900 -0600" air_time_end="20261115180200 -0600" start_utc="20261115235900 +0000" stop_utc="20261116000200 +0000" air_time_start_utc="20261115235900 +0000" air_time_end_utc="20261116000200 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</title>
-    <desc lang="es">LO MEJOR DE LATIN GRAMMY AWARDS 2026</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261115180200 -0300" stop="20261115201300 -0300" air_time_start="20261115180200 -0300" air_time_end="20261115201300 -0300" start_utc="20261115210200 +0000" stop_utc="20261115231300 +0000" air_time_start_utc="20261115210200 +0000" air_time_end_utc="20261115231300 +0000" is_live="false" channel="TNT_AR.ar">
     <title lang="es">UNA ESPOSA DE MENTIRA</title>
     <desc lang="es">Danny es un exitoso cirujano plástico que miente constantemente para conquistar mujeres. Pero esto se convierte en un gran problema cuando conoce a la mujer de sus sueños. Para cubrir sus mentiras y acercarse a ella, Danny les pide a su leal asistente y a sus hijos que simulen ser su familia. Cuando se desatan más mentiras, viajan todos juntos a Hawái, donde vivirán un fin de semana alocado y fuera de lo común.</desc>
     <category lang="es">Comedia</category>
@@ -513,14 +35,6 @@
     <desc lang="es">Danny es un exitoso cirujano plástico que miente constantemente para conquistar mujeres. Pero esto se convierte en un gran problema cuando conoce a la mujer de sus sueños. Para cubrir sus mentiras y acercarse a ella, Danny les pide a su leal asistente y a sus hijos que simulen ser su familia. Cuando se desatan más mentiras, viajan todos juntos a Hawái, donde vivirán un fin de semana alocado y fuera de lo común.</desc>
     <category lang="es">Comedia</category>
     <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261115181900 -0300" stop="20261115200000 -0300" air_time_start="20261115181900 -0300" air_time_end="20261115200000 -0300" start_utc="20261115211900 +0000" stop_utc="20261115230000 +0000" air_time_start_utc="20261115211900 +0000" air_time_end_utc="20261115230000 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">A VOLTA DO TODO PODEROSO</title>
-    <sub-title lang="pt">Evan Almighty</sub-title>
-    <desc lang="pt">Evan Baxter é um congressista em ascensão com um futuro brilhante e cujo objetivo é mudar o mundo. Até que Deus ouve suas preces e decide lhe dar uma mãozinha: Ele providencia o material e os animais e dá a Evan a missão de construir uma arca. Após ignorar Deus por algum tempo, ele resolve dar continuidade ao seu plano - mesmo que os outros congressistas e sua família pensem que está maluco.</desc>
-    <category lang="pt">Comédia</category>
-    <category lang="pt">Família</category>
-    <category lang="pt">Fantasia</category>
   </programme>
   <programme start="20261115195400 -0400" stop="20261115220000 -0400" air_time_start="20261115195400 -0400" air_time_end="20261115220000 -0400" start_utc="20261115235400 +0000" stop_utc="20261116020000 +0000" air_time_start_utc="20261115235400 +0000" air_time_end_utc="20261116020000 +0000" is_live="false" channel="TNT_CL.cl">
     <title lang="es">TODOPODEROSO 2</title>
@@ -6425,5 +5939,727 @@
     <title lang="es">TNT BUZZ</title>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">14.108.</episode-num>
+  </programme>
+  <programme start="20261123060000 -0300" stop="20261123063700 -0300" air_time_start="20261123060000 -0300" air_time_end="20261123063700 -0300" start_utc="20261123090000 +0000" stop_utc="20261123093700 +0000" air_time_start_utc="20261123090000 +0000" air_time_end_utc="20261123093700 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="pt">Variedades</category>
+    <episode-num system="xmltv_ns">-1.14.</episode-num>
+  </programme>
+  <programme start="20261123060000 -0300" stop="20261123063800 -0300" air_time_start="20261123060000 -0300" air_time_end="20261123063800 -0300" start_utc="20261123090000 +0000" stop_utc="20261123093800 +0000" air_time_start_utc="20261123090000 +0000" air_time_end_utc="20261123093800 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.19.</episode-num>
+  </programme>
+  <programme start="20261123060000 -0400" stop="20261123073600 -0400" air_time_start="20261123060000 -0400" air_time_end="20261123073600 -0400" start_utc="20261123100000 +0000" stop_utc="20261123113600 +0000" air_time_start_utc="20261123100000 +0000" air_time_end_utc="20261123113600 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">MISFITS</title>
+    <desc lang="es">Luego de escapar de una cárcel de máxima seguridad, el famoso delincuente Richard Pace (Pierce Brosnan) es reclutado por una banda de ladrones al estilo Robin Hood para realizar el robo más importante del siglo y de paso desfinanciar a grupos terroristas a nivel mundial. Del director de "Duro de Matar 2" y con la participación de Tim Roth.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20261123060000 -0500" stop="20261123074300 -0500" air_time_start="20261123060000 -0500" air_time_end="20261123074300 -0500" start_utc="20261123110000 +0000" stop_utc="20261123124300 +0000" air_time_start_utc="20261123110000 +0000" air_time_end_utc="20261123124300 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">FUGA DE PRETORIA</title>
+    <sub-title lang="es">ESCAPE FROM PRETORIA</sub-title>
+    <desc lang="es">La extraordinaria historia real de dos hombres sudafricanos blancos catalogados terroristas y encarcelados en 1978 por su participación en operaciones encubiertas anti-apartheid. Juntos deciden escapar de la prisión de máxima seguridad de Pretoria.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123060000 -0500" stop="20261123060200 -0500" air_time_start="20261123060000 -0500" air_time_end="20261123060200 -0500" start_utc="20261123110000 +0000" stop_utc="20261123110200 +0000" air_time_start_utc="20261123110000 +0000" air_time_end_utc="20261123110200 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">TNT BUZZ</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">14.120.</episode-num>
+  </programme>
+  <programme start="20261123060000 -0600" stop="20261123063900 -0600" air_time_start="20261123060000 -0600" air_time_end="20261123063900 -0600" start_utc="20261123120000 +0000" stop_utc="20261123123900 +0000" air_time_start_utc="20261123120000 +0000" air_time_end_utc="20261123123900 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.14.</episode-num>
+  </programme>
+  <programme start="20261123060200 -0500" stop="20261123060500 -0500" air_time_start="20261123060200 -0500" air_time_end="20261123060500 -0500" start_utc="20261123110200 +0000" stop_utc="20261123110500 +0000" air_time_start_utc="20261123110200 +0000" air_time_end_utc="20261123110500 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">TNT BUZZ</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">14.122.</episode-num>
+  </programme>
+  <programme start="20261123060500 -0500" stop="20261123075000 -0500" air_time_start="20261123060500 -0500" air_time_end="20261123075000 -0500" start_utc="20261123110500 +0000" stop_utc="20261123125000 +0000" air_time_start_utc="20261123110500 +0000" air_time_end_utc="20261123125000 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">LOS INDESTRUCTIBLES 2</title>
+    <sub-title lang="es">THE EXPENDABLES 2</sub-title>
+    <desc lang="es">Jean-Claude Van Damme, Arnold Schwarzenegger y Chuck Norris se unen a Sylvester Stallone en esta secuela de Los Indestructibles con más músculos y testosterona que nunca. En esta ocasión, el Sr. Church (Bruce Willis) reúne al equipo para un trabajo aparentemente simple, pero la muerte de un compañero durante la misión lleva al grupo a buscar venganza en territorio enemigo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123063700 -0300" stop="20261123064700 -0300" air_time_start="20261123063700 -0300" air_time_end="20261123064700 -0300" start_utc="20261123093700 +0000" stop_utc="20261123094700 +0000" air_time_start_utc="20261123093700 +0000" air_time_end_utc="20261123094700 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="pt">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="pt">Talk Show</category>
+    <category lang="pt">Notícias De Entretenimento</category>
+    <episode-num system="xmltv_ns">-1.50.</episode-num>
+  </programme>
+  <programme start="20261123063800 -0300" stop="20261123064600 -0300" air_time_start="20261123063800 -0300" air_time_end="20261123064600 -0300" start_utc="20261123093800 +0000" stop_utc="20261123094600 +0000" air_time_start_utc="20261123093800 +0000" air_time_end_utc="20261123094600 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.47.</episode-num>
+  </programme>
+  <programme start="20261123063900 -0600" stop="20261123065300 -0600" air_time_start="20261123063900 -0600" air_time_end="20261123065300 -0600" start_utc="20261123123900 +0000" stop_utc="20261123125300 +0000" air_time_start_utc="20261123123900 +0000" air_time_end_utc="20261123125300 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.44.</episode-num>
+  </programme>
+  <programme start="20261123064600 -0300" stop="20261123064800 -0300" air_time_start="20261123064600 -0300" air_time_end="20261123064800 -0300" start_utc="20261123094600 +0000" stop_utc="20261123094800 +0000" air_time_start_utc="20261123094600 +0000" air_time_end_utc="20261123094800 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">TNT BUZZ</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">14.109.</episode-num>
+  </programme>
+  <programme start="20261123064700 -0300" stop="20261123082400 -0300" air_time_start="20261123064700 -0300" air_time_end="20261123082400 -0300" start_utc="20261123094700 +0000" stop_utc="20261123112400 +0000" air_time_start_utc="20261123094700 +0000" air_time_end_utc="20261123112400 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">Os Mercenários 2</title>
+    <sub-title lang="pt">The Expendables 2</sub-title>
+    <desc lang="pt">Jean-Claude Van Damme, Arnold Schwarzenegger e Chuck Norris se juntam a Sylvester Stallone nesta continuação de Os Mercenários com mais músculos e testosterona do que nunca. Desta vez, o Sr. Church (Bruce Willis) reúne a equipe para um trabalho aparentemente simples, mas a morte de um colega durante a missão leva o grupo a buscar vingança em território inimigo.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20261123064800 -0300" stop="20261123083700 -0300" air_time_start="20261123064800 -0300" air_time_end="20261123083700 -0300" start_utc="20261123094800 +0000" stop_utc="20261123113700 +0000" air_time_start_utc="20261123094800 +0000" air_time_end_utc="20261123113700 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">PERMITIDOS</title>
+    <sub-title lang="es">THAT'S NOT CHEATING</sub-title>
+    <desc lang="es">Lali Espósito y Martín Piroyansky protagonizan esta comedia romántica como Camila y Mateo, una pareja que ha estado junta por ocho años que, durante una charla con amigos, deciden quiénes serían sus respectivos "permitidos", una celebridad casi imposible de conocer con quien podrían tener una aventura sin que se considere infidelidad. El problema es que Camila lo dijo en broma, pero cuando Mateo conoce en persona a su "permitida", se toma la decisión muy en serio y su relación con Camila termina siendo puesta a prueba.</desc>
+    <category lang="es">Comedia</category>
+    <category lang="es">Romance</category>
+  </programme>
+  <programme start="20261123065300 -0600" stop="20261123070500 -0600" air_time_start="20261123065300 -0600" air_time_end="20261123070500 -0600" start_utc="20261123125300 +0000" stop_utc="20261123130500 +0000" air_time_start_utc="20261123125300 +0000" air_time_end_utc="20261123130500 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.42.</episode-num>
+  </programme>
+  <programme start="20261123070500 -0600" stop="20261123090700 -0600" air_time_start="20261123070500 -0600" air_time_end="20261123090700 -0600" start_utc="20261123130500 +0000" stop_utc="20261123150700 +0000" air_time_start_utc="20261123130500 +0000" air_time_end_utc="20261123150700 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">ASESINOS DE ELITE</title>
+    <sub-title lang="es">KILLER ELITE</sub-title>
+    <desc lang="es">Danny es uno de los agentes de operaciones especiales más importantes y hábiles de la corporación, pero después de una experiencia perturbadora decide exilarse, para vivir en paz durante un tiempo. Pero sus planes se irán al demonio cuando reencuentre a sus antiguos colegas y decida realizar una misión muy difícil: rescatar a Hunter, su antiguo mentor y compañero, que fue secuestrado. Juntos, ellos emprenden la tarea aparentemente imposible de neutralizar a los soldados rebeldes, capaces de hacer cualquier cosa para cumplir las órdenes de su temido líder, Spike. Los experimentados agentes serán incansables en la lucha contra la muerte y para evitar una incontrolable crisis internacional.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123073600 -0400" stop="20261123092200 -0400" air_time_start="20261123073600 -0400" air_time_end="20261123092200 -0400" start_utc="20261123113600 +0000" stop_utc="20261123132200 +0000" air_time_start_utc="20261123113600 +0000" air_time_end_utc="20261123132200 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">VENGANZA LETAL</title>
+    <desc lang="es">Después de diez años en prisión, un hombre sin nada que perder tiene un solo objetivo en mente: vengar el asesinato de su hermano. Con la lista de los culpables en mano, emprende su búsqueda para matarlos a todos, uno por uno. Un policía veterano y un asesino a sueldo lo siguen de cerca en una cacería en la que se pondrá a prueba cuál de los tres es el más rápido.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123074300 -0500" stop="20261123080400 -0500" air_time_start="20261123074300 -0500" air_time_end="20261123080400 -0500" start_utc="20261123124300 +0000" stop_utc="20261123130400 +0000" air_time_start_utc="20261123124300 +0000" air_time_end_utc="20261123130400 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">YO SOY BETTY LA FEA</title>
+    <desc lang="es">Beatriz Pinzón, una brillante economista, tiene el defecto de ser muy fea y está resignada a envejecer al lado de sus padres porque ha perdido toda esperanza con los hombres. Pero la fealdad no le impide a Betty soñar y, desde que empezó a trabajar en Eco Moda, imagina lo que sería vivir una historia de amor con Armando, el presidente de la compañía. Pero para él no existe como mujer, Betty es su consejera y cómplice ya que lo encubre ante su novia. No obstante, la vida le dará a Betty la oportunidad que estaba esperando y gracias a su inteligencia demostrará a todos que es una mujer digna de ser amada por cualquier hombre.</desc>
+    <category lang="es">Comedia</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Romance</category>
+    <episode-num system="xmltv_ns">-1.15.</episode-num>
+  </programme>
+  <programme start="20261123075000 -0500" stop="20261123093800 -0500" air_time_start="20261123075000 -0500" air_time_end="20261123093800 -0500" start_utc="20261123125000 +0000" stop_utc="20261123143800 +0000" air_time_start_utc="20261123125000 +0000" air_time_end_utc="20261123143800 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">INSTINTO PREDADOR</title>
+    <sub-title lang="es">PRIMAL</sub-title>
+    <desc lang="es">Frank Walsh (Nicolas Cage) es un cazador que protege a animales capturados en el Amazonas. Durante un viaje en barco, Walsh descubre que a bordo también está un peligroso asesino (Kevin Durand), lo cual pone a todos en peligro.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123080400 -0500" stop="20261123094100 -0500" air_time_start="20261123080400 -0500" air_time_end="20261123094100 -0500" start_utc="20261123130400 +0000" stop_utc="20261123144100 +0000" air_time_start_utc="20261123130400 +0000" air_time_end_utc="20261123144100 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">EL PASEO 7</title>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20261123082400 -0300" stop="20261123103200 -0300" air_time_start="20261123082400 -0300" air_time_end="20261123103200 -0300" start_utc="20261123112400 +0000" stop_utc="20261123133200 +0000" air_time_start_utc="20261123112400 +0000" air_time_end_utc="20261123133200 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">VELOZES &amp; FURIOSOS 6</title>
+    <sub-title lang="pt">Fast &amp; Furious 6</sub-title>
+    <desc lang="pt">Desde que Dom e Brian envolveram-se com um chefão do crime no Rio de Janeiro, andam fugindo pelo mundo. Enquanto isso, o agente Hobbs persegue uma organização de mercenários pilotos por 12 países cujo mentor é ajudado por uma impiedosa aliada. Para prendê-los, Hobbs decide fazer um acordo com Dom e sua equipe para que vença esse bando nas ruas de Londres e, em troca, eles possam retornar ilesos para casa.</desc>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20261123083700 -0300" stop="20261123102300 -0300" air_time_start="20261123083700 -0300" air_time_end="20261123102300 -0300" start_utc="20261123113700 +0000" stop_utc="20261123132300 +0000" air_time_start_utc="20261123113700 +0000" air_time_end_utc="20261123132300 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">VENGANZA LETAL</title>
+    <desc lang="es">Después de diez años en prisión, un hombre sin nada que perder tiene un solo objetivo en mente: vengar el asesinato de su hermano. Con la lista de los culpables en mano, emprende su búsqueda para matarlos a todos, uno por uno. Un policía veterano y un asesino a sueldo lo siguen de cerca en una cacería en la que se pondrá a prueba cuál de los tres es el más rápido.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123090700 -0600" stop="20261123112100 -0600" air_time_start="20261123090700 -0600" air_time_end="20261123112100 -0600" start_utc="20261123150700 +0000" stop_utc="20261123172100 +0000" air_time_start_utc="20261123150700 +0000" air_time_end_utc="20261123172100 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">RÁPIDOS Y FURIOSOS 6</title>
+    <desc lang="es">Desde el robo en Río, Dom, Brian y el resto del equipo se han esparcido por todo el mundo, aunque sus vidas están incompletas por no poder regresar a su país. Por su parte, Hobbs ha estado rastreando una organización de conductores muy hábiles y letales por 12 países diferentes. La única manera de detener a estos criminales es ganarles en las calles, por lo que Hobbs le pide a Dom que reúna a su equipo de elite en Londres. ¿Su pago? Indultos para que todos puedan regresar a su país y reunirse con sus familias.</desc>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20261123092200 -0400" stop="20261123114600 -0400" air_time_start="20261123092200 -0400" air_time_end="20261123114600 -0400" start_utc="20261123132200 +0000" stop_utc="20261123154600 +0000" air_time_start_utc="20261123132200 +0000" air_time_end_utc="20261123154600 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">RÁPIDOS Y FURIOSOS 6</title>
+    <desc lang="es">Desde el robo en Río, Dom, Brian y el resto del equipo se han esparcido por todo el mundo, aunque sus vidas están incompletas por no poder regresar a su país. Por su parte, Hobbs ha estado rastreando una organización de conductores muy hábiles y letales por 12 países diferentes. La única manera de detener a estos criminales es ganarles en las calles, por lo que Hobbs le pide a Dom que reúna a su equipo de elite en Londres. ¿Su pago? Indultos para que todos puedan regresar a su país y reunirse con sus familias.</desc>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20261123093800 -0500" stop="20261123112400 -0500" air_time_start="20261123093800 -0500" air_time_end="20261123112400 -0500" start_utc="20261123143800 +0000" stop_utc="20261123162400 +0000" air_time_start_utc="20261123143800 +0000" air_time_end_utc="20261123162400 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">VENGANZA LETAL</title>
+    <desc lang="es">Después de diez años en prisión, un hombre sin nada que perder tiene un solo objetivo en mente: vengar el asesinato de su hermano. Con la lista de los culpables en mano, emprende su búsqueda para matarlos a todos, uno por uno. Un policía veterano y un asesino a sueldo lo siguen de cerca en una cacería en la que se pondrá a prueba cuál de los tres es el más rápido.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123094100 -0500" stop="20261123113100 -0500" air_time_start="20261123094100 -0500" air_time_end="20261123113100 -0500" start_utc="20261123144100 +0000" stop_utc="20261123163100 +0000" air_time_start_utc="20261123144100 +0000" air_time_end_utc="20261123163100 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">VENGANZA LETAL</title>
+    <desc lang="es">Después de diez años en prisión, un hombre sin nada que perder tiene un solo objetivo en mente: vengar el asesinato de su hermano. Con la lista de los culpables en mano, emprende su búsqueda para matarlos a todos, uno por uno. Un policía veterano y un asesino a sueldo lo siguen de cerca en una cacería en la que se pondrá a prueba cuál de los tres es el más rápido.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123102300 -0300" stop="20261123124500 -0300" air_time_start="20261123102300 -0300" air_time_end="20261123124500 -0300" start_utc="20261123132300 +0000" stop_utc="20261123154500 +0000" air_time_start_utc="20261123132300 +0000" air_time_end_utc="20261123154500 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">RÁPIDOS Y FURIOSOS 6</title>
+    <desc lang="es">Desde el robo en Río, Dom, Brian y el resto del equipo se han esparcido por todo el mundo, aunque sus vidas están incompletas por no poder regresar a su país. Por su parte, Hobbs ha estado rastreando una organización de conductores muy hábiles y letales por 12 países diferentes. La única manera de detener a estos criminales es ganarles en las calles, por lo que Hobbs le pide a Dom que reúna a su equipo de elite en Londres. ¿Su pago? Indultos para que todos puedan regresar a su país y reunirse con sus familias.</desc>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20261123103200 -0300" stop="20261123105700 -0300" air_time_start="20261123103200 -0300" air_time_end="20261123105700 -0300" start_utc="20261123133200 +0000" stop_utc="20261123135700 +0000" air_time_start_utc="20261123133200 +0000" air_time_end_utc="20261123135700 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">La guerra fría</sub-title>
+    <sub-title lang="en">THE COLD WAR</sub-title>
+    <desc lang="pt">Quando Vivian isola Will e Carlton na edícula após os dois terem pego um resfriado, eles passam a noite discutindo sobre uma garota que Will roubou de Carlton</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/yHciNsvAyD2WQk2vmzfA4iQfqvD.jpg" />
+  </programme>
+  <programme start="20261123105700 -0300" stop="20261123112200 -0300" air_time_start="20261123105700 -0300" air_time_end="20261123112200 -0300" start_utc="20261123135700 +0000" stop_utc="20261123142200 +0000" air_time_start_utc="20261123135700 +0000" air_time_end_utc="20261123142200 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">Mamá cercana</sub-title>
+    <sub-title lang="en">MOMMY NEAREST</sub-title>
+    <desc lang="pt">Will tenta contar à mãe que não quer voltar para a Filadélfia com ela depois da formatura da escola.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/AfruXYINwisxJiVW5UU5yQLMHu4.jpg" />
+  </programme>
+  <programme start="20261123112100 -0600" stop="20261123135000 -0600" air_time_start="20261123112100 -0600" air_time_end="20261123135000 -0600" start_utc="20261123172100 +0000" stop_utc="20261123195000 +0000" air_time_start_utc="20261123172100 +0000" air_time_end_utc="20261123195000 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">RÁPIDOS Y FURIOSOS 7</title>
+    <desc lang="es">Tras derrotar a Owen Shaw, Dominic Toretto, Brian O'Conner y el resto del equipo vuelven a Estados Unidos a vivir la vida normal que siempre habían deseado, pero Deckard, el hermano de Owen, está en busca de Dominic para vengar a su hermano, situación que pone a todo el equipo en peligro. Cuando se enteran de la muerte de su amigo Han, el grupo vuelve a juntarse para encontrar al hombre que mató a uno de los suyos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123112200 -0300" stop="20261123114700 -0300" air_time_start="20261123112200 -0300" air_time_end="20261123114700 -0300" start_utc="20261123142200 +0000" stop_utc="20261123144700 +0000" air_time_start_utc="20261123142200 +0000" air_time_end_utc="20261123144700 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">Al ganador se le quita todo</sub-title>
+    <sub-title lang="en">WINNER TAKES OFF</sub-title>
+    <desc lang="pt">Geoffrey se humilha ao insultar a família Banks e pedir demissão depois que Will e Carlton fazem ele acreditar que ganhou milhões de dólares na loteria.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.13.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/hA3MKiCDeOIX4LhE2pNk8Dca4MC.jpg" />
+  </programme>
+  <programme start="20261123112400 -0500" stop="20261123135400 -0500" air_time_start="20261123112400 -0500" air_time_end="20261123135400 -0500" start_utc="20261123162400 +0000" stop_utc="20261123185400 +0000" air_time_start_utc="20261123162400 +0000" air_time_end_utc="20261123185400 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">RÁPIDOS Y FURIOSOS 6</title>
+    <desc lang="es">Desde el robo en Río, Dom, Brian y el resto del equipo se han esparcido por todo el mundo, aunque sus vidas están incompletas por no poder regresar a su país. Por su parte, Hobbs ha estado rastreando una organización de conductores muy hábiles y letales por 12 países diferentes. La única manera de detener a estos criminales es ganarles en las calles, por lo que Hobbs le pide a Dom que reúna a su equipo de elite en Londres. ¿Su pago? Indultos para que todos puedan regresar a su país y reunirse con sus familias.</desc>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20261123113100 -0500" stop="20261123135100 -0500" air_time_start="20261123113100 -0500" air_time_end="20261123135100 -0500" start_utc="20261123163100 +0000" stop_utc="20261123185100 +0000" air_time_start_utc="20261123163100 +0000" air_time_end_utc="20261123185100 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">RÁPIDOS Y FURIOSOS 6</title>
+    <desc lang="es">Desde el robo en Río, Dom, Brian y el resto del equipo se han esparcido por todo el mundo, aunque sus vidas están incompletas por no poder regresar a su país. Por su parte, Hobbs ha estado rastreando una organización de conductores muy hábiles y letales por 12 países diferentes. La única manera de detener a estos criminales es ganarles en las calles, por lo que Hobbs le pide a Dom que reúna a su equipo de elite en Londres. ¿Su pago? Indultos para que todos puedan regresar a su país y reunirse con sus familias.</desc>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20261123114600 -0400" stop="20261123142300 -0400" air_time_start="20261123114600 -0400" air_time_end="20261123142300 -0400" start_utc="20261123154600 +0000" stop_utc="20261123182300 +0000" air_time_start_utc="20261123154600 +0000" air_time_end_utc="20261123182300 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">RÁPIDOS Y FURIOSOS 7</title>
+    <desc lang="es">Tras derrotar a Owen Shaw, Dominic Toretto, Brian O'Conner y el resto del equipo vuelven a Estados Unidos a vivir la vida normal que siempre habían deseado, pero Deckard, el hermano de Owen, está en busca de Dominic para vengar a su hermano, situación que pone a todo el equipo en peligro. Cuando se enteran de la muerte de su amigo Han, el grupo vuelve a juntarse para encontrar al hombre que mató a uno de los suyos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123114700 -0300" stop="20261123121200 -0300" air_time_start="20261123114700 -0300" air_time_end="20261123121200 -0300" start_utc="20261123144700 +0000" stop_utc="20261123151200 +0000" air_time_start_utc="20261123144700 +0000" air_time_end_utc="20261123151200 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">Robando a los Banks</sub-title>
+    <sub-title lang="en">ROBBING THE BANKS</sub-title>
+    <desc lang="pt">Vários objetos de valor começam a desaparecer na mansão dos Banks depois que Will convence Philip a contratar um ex-presidiário como faz-tudo.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.14.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/dbC4uN40Y3BSFkFGqmBGmDsNGny.jpg" />
+  </programme>
+  <programme start="20261123121200 -0300" stop="20261123123400 -0300" air_time_start="20261123121200 -0300" air_time_end="20261123123400 -0300" start_utc="20261123151200 +0000" stop_utc="20261123153400 +0000" air_time_start_utc="20261123151200 +0000" air_time_end_utc="20261123153400 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">Todos Odian el Día de la Tierra</sub-title>
+    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.17.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/5XYlNlRpm9Edrl7uZmwJmuZPwa0.jpg" />
+  </programme>
+  <programme start="20261123123400 -0300" stop="20261123125600 -0300" air_time_start="20261123123400 -0300" air_time_end="20261123125600 -0300" start_utc="20261123153400 +0000" stop_utc="20261123155600 +0000" air_time_start_utc="20261123153400 +0000" air_time_end_utc="20261123155600 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">Todos Odian ser de Onda</sub-title>
+    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.18.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/d4JmGyotc9fT2Ui5uIaPAAMKh1S.jpg" />
+  </programme>
+  <programme start="20261123124500 -0300" stop="20261123151400 -0300" air_time_start="20261123124500 -0300" air_time_end="20261123151400 -0300" start_utc="20261123154500 +0000" stop_utc="20261123181400 +0000" air_time_start_utc="20261123154500 +0000" air_time_end_utc="20261123181400 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">RÁPIDOS Y FURIOSOS 7</title>
+    <desc lang="es">Tras derrotar a Owen Shaw, Dominic Toretto, Brian O'Conner y el resto del equipo vuelven a Estados Unidos a vivir la vida normal que siempre habían deseado, pero Deckard, el hermano de Owen, está en busca de Dominic para vengar a su hermano, situación que pone a todo el equipo en peligro. Cuando se enteran de la muerte de su amigo Han, el grupo vuelve a juntarse para encontrar al hombre que mató a uno de los suyos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123125600 -0300" stop="20261123131900 -0300" air_time_start="20261123125600 -0300" air_time_end="20261123131900 -0300" start_utc="20261123155600 +0000" stop_utc="20261123161900 +0000" air_time_start_utc="20261123155600 +0000" air_time_end_utc="20261123161900 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">Todos Odian el Baile de Noveno Grado</sub-title>
+    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.19.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/hDWPOAlKXncZVGhAP4f1hn3Z3P1.jpg" />
+  </programme>
+  <programme start="20261123131900 -0300" stop="20261123134100 -0300" air_time_start="20261123131900 -0300" air_time_end="20261123134100 -0300" start_utc="20261123161900 +0000" stop_utc="20261123164100 +0000" air_time_start_utc="20261123161900 +0000" air_time_end_utc="20261123164100 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">Todos Odian el Día de las Madres</sub-title>
+    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.20.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/63qwPBfwZkLi4w7ojNmVQNFl0B7.jpg" />
+  </programme>
+  <programme start="20261123134100 -0300" stop="20261123140400 -0300" air_time_start="20261123134100 -0300" air_time_end="20261123140400 -0300" start_utc="20261123164100 +0000" stop_utc="20261123170400 +0000" air_time_start_utc="20261123164100 +0000" air_time_end_utc="20261123170400 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">Todos Odian la Graduación</sub-title>
+    <sub-title lang="en">TODO MUNDO ODEIA FORMATURA</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.21.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/7jxTss8kyjkEdtEPTw4nDLYdkgO.jpg" />
+  </programme>
+  <programme start="20261123135000 -0600" stop="20261123140000 -0600" air_time_start="20261123135000 -0600" air_time_end="20261123140000 -0600" start_utc="20261123195000 +0000" stop_utc="20261123200000 +0000" air_time_start_utc="20261123195000 +0000" air_time_end_utc="20261123200000 +0000" is_live="false" channel="TNT_MX.mx">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20261123135100 -0500" stop="20261123162400 -0500" air_time_start="20261123135100 -0500" air_time_end="20261123162400 -0500" start_utc="20261123185100 +0000" stop_utc="20261123212400 +0000" air_time_start_utc="20261123185100 +0000" air_time_end_utc="20261123212400 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">RÁPIDOS Y FURIOSOS 7</title>
+    <desc lang="es">Tras derrotar a Owen Shaw, Dominic Toretto, Brian O'Conner y el resto del equipo vuelven a Estados Unidos a vivir la vida normal que siempre habían deseado, pero Deckard, el hermano de Owen, está en busca de Dominic para vengar a su hermano, situación que pone a todo el equipo en peligro. Cuando se enteran de la muerte de su amigo Han, el grupo vuelve a juntarse para encontrar al hombre que mató a uno de los suyos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123135400 -0500" stop="20261123163200 -0500" air_time_start="20261123135400 -0500" air_time_end="20261123163200 -0500" start_utc="20261123185400 +0000" stop_utc="20261123213200 +0000" air_time_start_utc="20261123185400 +0000" air_time_end_utc="20261123213200 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">RÁPIDOS Y FURIOSOS 7</title>
+    <desc lang="es">Tras derrotar a Owen Shaw, Dominic Toretto, Brian O'Conner y el resto del equipo vuelven a Estados Unidos a vivir la vida normal que siempre habían deseado, pero Deckard, el hermano de Owen, está en busca de Dominic para vengar a su hermano, situación que pone a todo el equipo en peligro. Cuando se enteran de la muerte de su amigo Han, el grupo vuelve a juntarse para encontrar al hombre que mató a uno de los suyos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123140000 -0600" stop="20261123160000 -0600" air_time_start="20261123140000 -0600" air_time_end="20261123160000 -0600" start_utc="20261123200000 +0000" stop_utc="20261123220000 +0000" air_time_start_utc="20261123200000 +0000" air_time_end_utc="20261123220000 +0000" is_live="false" channel="TNT_MX.mx">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">-1.54.</episode-num>
+  </programme>
+  <programme start="20261123140400 -0300" stop="20261123162800 -0300" air_time_start="20261123140400 -0300" air_time_end="20261123162800 -0300" start_utc="20261123170400 +0000" stop_utc="20261123192800 +0000" air_time_start_utc="20261123170400 +0000" air_time_end_utc="20261123192800 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">VELOZES &amp; FURIOSOS 7</title>
+    <sub-title lang="pt">Furious 7</sub-title>
+    <desc lang="pt">Após os acontecimentos em Londres, Dom Toretto, Brian O'Conner, Letty Ortiz e o resto da equipe tiveram a chance de voltar para os Estados Unidos e recomeçarem suas vidas, graças à anistia oferecida pelo governo por seus crimes do passado. Brian começa a habituar-se à vida como pai, enquanto Dom tenta ajudar Letty a recuperar suas memórias. Entretanto, a tranquilidade do grupo é destruída quando Deckard Shaw, um assassino profissional, quer vingança pela morte de seu irmão. Quando uma bomba, disfarçada em um pacote enviado a partir de Tóquio, explode e destrói a casa Toretto, Han é morto por Shaw em Tóquio, e fica claro que a vingança atingirá todos os membros do grupo. Agora, a luta é por sobrevivência.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Policial</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20261123142300 -0400" stop="20261123170500 -0400" air_time_start="20261123142300 -0400" air_time_end="20261123170500 -0400" start_utc="20261123182300 +0000" stop_utc="20261123210500 +0000" air_time_start_utc="20261123182300 +0000" air_time_end_utc="20261123210500 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">RÁPIDOS Y FURIOSOS 8</title>
+    <sub-title lang="es">THE FATE OF THE FURIOUS</sub-title>
+    <desc lang="es">Desde que Hobbs, agente del Servicio de Seguridad Diplomática de Estados Unidos, y el británico Shaw, proscrito sin ley, se enfrentaron por primera vez, solo han intercambiado bofetadas y malas palabras. Pero cuando las despiadadas acciones de Brixton, un anarquista cibergenéticamente mejorado, amenazan el futuro de la humanidad, ambos se unen para derrotarlo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123151400 -0300" stop="20261123174400 -0300" air_time_start="20261123151400 -0300" air_time_end="20261123174400 -0300" start_utc="20261123181400 +0000" stop_utc="20261123204400 +0000" air_time_start_utc="20261123181400 +0000" air_time_end_utc="20261123204400 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">RÁPIDOS Y FURIOSOS 8</title>
+    <sub-title lang="es">THE FATE OF THE FURIOUS</sub-title>
+    <desc lang="es">Desde que Hobbs, agente del Servicio de Seguridad Diplomática de Estados Unidos, y el británico Shaw, proscrito sin ley, se enfrentaron por primera vez, solo han intercambiado bofetadas y malas palabras. Pero cuando las despiadadas acciones de Brixton, un anarquista cibergenéticamente mejorado, amenazan el futuro de la humanidad, ambos se unen para derrotarlo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123160000 -0600" stop="20261123160600 -0600" air_time_start="20261123160000 -0600" air_time_end="20261123160600 -0600" start_utc="20261123220000 +0000" stop_utc="20261123220600 +0000" air_time_start_utc="20261123220000 +0000" air_time_end_utc="20261123220600 +0000" is_live="false" channel="TNT_MX.mx">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20261123160600 -0600" stop="20261123170700 -0600" air_time_start="20261123160600 -0600" air_time_end="20261123170700 -0600" start_utc="20261123220600 +0000" stop_utc="20261123230700 +0000" air_time_start_utc="20261123220600 +0000" air_time_end_utc="20261123230700 +0000" is_live="false" channel="TNT_MX.mx">
+    <desc lang="es">Un egocéntrico exfutbolista que llegó a ser el mejor del mundo se convierte en el nuevo entrenador del equipo de fútbol femenino de su pueblo y promete hacerlo campeón para evitar ir a la cárcel.</desc>
+    <category lang="es">Comedia</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Drama</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20261123162400 -0500" stop="20261123190800 -0500" air_time_start="20261123162400 -0500" air_time_end="20261123190800 -0500" start_utc="20261123212400 +0000" stop_utc="20261124000800 +0000" air_time_start_utc="20261123212400 +0000" air_time_end_utc="20261124000800 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">RÁPIDOS Y FURIOSOS 8</title>
+    <sub-title lang="es">THE FATE OF THE FURIOUS</sub-title>
+    <desc lang="es">Desde que Hobbs, agente del Servicio de Seguridad Diplomática de Estados Unidos, y el británico Shaw, proscrito sin ley, se enfrentaron por primera vez, solo han intercambiado bofetadas y malas palabras. Pero cuando las despiadadas acciones de Brixton, un anarquista cibergenéticamente mejorado, amenazan el futuro de la humanidad, ambos se unen para derrotarlo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123162800 -0300" stop="20261123184200 -0300" air_time_start="20261123162800 -0300" air_time_end="20261123184200 -0300" start_utc="20261123192800 +0000" stop_utc="20261123214200 +0000" air_time_start_utc="20261123192800 +0000" air_time_end_utc="20261123214200 +0000" is_live="false" channel="TNT_BR.br">
+    <sub-title lang="pt">The Fate of the Furious</sub-title>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Crime</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20261123163200 -0500" stop="20261123190600 -0500" air_time_start="20261123163200 -0500" air_time_end="20261123190600 -0500" start_utc="20261123213200 +0000" stop_utc="20261124000600 +0000" air_time_start_utc="20261123213200 +0000" air_time_end_utc="20261124000600 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">RÁPIDOS Y FURIOSOS 8</title>
+    <sub-title lang="es">THE FATE OF THE FURIOUS</sub-title>
+    <desc lang="es">Desde que Hobbs, agente del Servicio de Seguridad Diplomática de Estados Unidos, y el británico Shaw, proscrito sin ley, se enfrentaron por primera vez, solo han intercambiado bofetadas y malas palabras. Pero cuando las despiadadas acciones de Brixton, un anarquista cibergenéticamente mejorado, amenazan el futuro de la humanidad, ambos se unen para derrotarlo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123170500 -0400" stop="20261123185900 -0400" air_time_start="20261123170500 -0400" air_time_end="20261123185900 -0400" start_utc="20261123210500 +0000" stop_utc="20261123225900 +0000" air_time_start_utc="20261123210500 +0000" air_time_end_utc="20261123225900 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">MASTERCHEF CHILE</title>
+    <sub-title lang="es">Episodio 35</sub-title>
+    <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">4.34.</episode-num>
+  </programme>
+  <programme start="20261123170700 -0600" stop="20261123194600 -0600" air_time_start="20261123170700 -0600" air_time_end="20261123194600 -0600" start_utc="20261123230700 +0000" stop_utc="20261124014600 +0000" air_time_start_utc="20261123230700 +0000" air_time_end_utc="20261124014600 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">RÁPIDOS Y FURIOSOS 8</title>
+    <sub-title lang="es">THE FATE OF THE FURIOUS</sub-title>
+    <desc lang="es">Desde que Hobbs, agente del Servicio de Seguridad Diplomática de Estados Unidos, y el británico Shaw, proscrito sin ley, se enfrentaron por primera vez, solo han intercambiado bofetadas y malas palabras. Pero cuando las despiadadas acciones de Brixton, un anarquista cibergenéticamente mejorado, amenazan el futuro de la humanidad, ambos se unen para derrotarlo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123174400 -0300" stop="20261123202900 -0300" air_time_start="20261123174400 -0300" air_time_end="20261123202900 -0300" start_utc="20261123204400 +0000" stop_utc="20261123232900 +0000" air_time_start_utc="20261123204400 +0000" air_time_end_utc="20261123232900 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">RÁPIDOS Y FURIOSOS: HOBBS &amp; SHAW</title>
+    <sub-title lang="es">FAST &amp; FURIOUS PRESENTS: HOBBS &amp; SHAW</sub-title>
+    <desc lang="es">Un grupo de adolescentes se infiltra en una liga de automovilismo de élite controlada por una malvada organización que persigue dominar el mundo. Esta serie de animación infantil está ambientada en el universo de las exitosas películas de la saga Rápidos y furiosos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+  </programme>
+  <programme start="20261123184200 -0300" stop="20261123210600 -0300" air_time_start="20261123184200 -0300" air_time_end="20261123210600 -0300" start_utc="20261123214200 +0000" stop_utc="20261124000600 +0000" air_time_start_utc="20261123214200 +0000" air_time_end_utc="20261124000600 +0000" is_live="false" channel="TNT_BR.br">
+    <sub-title lang="pt">Fast &amp; Furious: Hobbs &amp; Shaw</sub-title>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20261123185900 -0400" stop="20261123220000 -0400" air_time_start="20261123185900 -0400" air_time_end="20261123220000 -0400" start_utc="20261123225900 +0000" stop_utc="20261124020000 +0000" air_time_start_utc="20261123225900 +0000" air_time_end_utc="20261124020000 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">RÁPIDOS Y FURIOSOS: HOBBS &amp; SHAW</title>
+    <sub-title lang="es">FAST &amp; FURIOUS PRESENTS: HOBBS &amp; SHAW</sub-title>
+    <desc lang="es">Un grupo de adolescentes se infiltra en una liga de automovilismo de élite controlada por una malvada organización que persigue dominar el mundo. Esta serie de animación infantil está ambientada en el universo de las exitosas películas de la saga Rápidos y furiosos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+  </programme>
+  <programme start="20261123190600 -0500" stop="20261123220000 -0500" air_time_start="20261123190600 -0500" air_time_end="20261123220000 -0500" start_utc="20261124000600 +0000" stop_utc="20261124030000 +0000" air_time_start_utc="20261124000600 +0000" air_time_end_utc="20261124030000 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">RÁPIDOS Y FURIOSOS: HOBBS &amp; SHAW</title>
+    <sub-title lang="es">FAST &amp; FURIOUS PRESENTS: HOBBS &amp; SHAW</sub-title>
+    <desc lang="es">Un grupo de adolescentes se infiltra en una liga de automovilismo de élite controlada por una malvada organización que persigue dominar el mundo. Esta serie de animación infantil está ambientada en el universo de las exitosas películas de la saga Rápidos y furiosos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+  </programme>
+  <programme start="20261123190800 -0500" stop="20261123215900 -0500" air_time_start="20261123190800 -0500" air_time_end="20261123215900 -0500" start_utc="20261124000800 +0000" stop_utc="20261124025900 +0000" air_time_start_utc="20261124000800 +0000" air_time_end_utc="20261124025900 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">RÁPIDOS Y FURIOSOS: HOBBS &amp; SHAW</title>
+    <sub-title lang="es">FAST &amp; FURIOUS PRESENTS: HOBBS &amp; SHAW</sub-title>
+    <desc lang="es">Un grupo de adolescentes se infiltra en una liga de automovilismo de élite controlada por una malvada organización que persigue dominar el mundo. Esta serie de animación infantil está ambientada en el universo de las exitosas películas de la saga Rápidos y furiosos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+  </programme>
+  <programme start="20261123194600 -0600" stop="20261123222800 -0600" air_time_start="20261123194600 -0600" air_time_end="20261123222800 -0600" start_utc="20261124014600 +0000" stop_utc="20261124042800 +0000" air_time_start_utc="20261124014600 +0000" air_time_end_utc="20261124042800 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">RÁPIDOS Y FURIOSOS: HOBBS &amp; SHAW</title>
+    <sub-title lang="es">FAST &amp; FURIOUS PRESENTS: HOBBS &amp; SHAW</sub-title>
+    <desc lang="es">Un grupo de adolescentes se infiltra en una liga de automovilismo de élite controlada por una malvada organización que persigue dominar el mundo. Esta serie de animación infantil está ambientada en el universo de las exitosas películas de la saga Rápidos y furiosos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+  </programme>
+  <programme start="20261123202900 -0300" stop="20261123220000 -0300" air_time_start="20261123202900 -0300" air_time_end="20261123220000 -0300" start_utc="20261123232900 +0000" stop_utc="20261124010000 +0000" air_time_start_utc="20261123232900 +0000" air_time_end_utc="20261124010000 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">MASTERCHEF CELEBRITY ARGENTINA</title>
+    <desc lang="es">¡Se encienden las hornallas! Bajo la conducción de Wanda Nara, llega la nueva temporada de esta intensa competencia de sabores, donde distintas celebridades despliegan su talento culinario ante un exigente jurado de chefs. Damián Betular, Maru Botana y Germán Martitegui serán los encargados de evaluar cada plato y definir quiénes tienen lo necesario para seguir en competencia y quienes deberán que entregar su delantal.</desc>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">-1.37.</episode-num>
+  </programme>
+  <programme start="20261123210600 -0300" stop="20261123233000 -0300" air_time_start="20261123210600 -0300" air_time_end="20261123233000 -0300" start_utc="20261124000600 +0000" stop_utc="20261124023000 +0000" air_time_start_utc="20261124000600 +0000" air_time_end_utc="20261124023000 +0000" is_live="false" channel="TNT_BR.br">
+    <sub-title lang="pt">F9: The Fast Saga</sub-title>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Crime</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20261123215900 -0500" stop="20261124004800 -0500" air_time_start="20261123215900 -0500" air_time_end="20261124004800 -0500" start_utc="20261124025900 +0000" stop_utc="20261124054800 +0000" air_time_start_utc="20261124025900 +0000" air_time_end_utc="20261124054800 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">RÁPIDOS Y FURIOSOS 9</title>
+    <sub-title lang="es">F9: THE FAST SAGA</sub-title>
+    <desc lang="es">Dom Toretto lleva una vida tranquila con Letty y su hijo, el pequeño Brian, pero saben que el peligro siempre acecha. Esta vez, esa amenaza obligará a Dom a enfrentarse a los pecados de su pasado si quiere salvar a quienes más quiere. El equipo se vuelve a reunir para impedir un complot a escala mundial, liderado por uno de los asesinos más peligrosos y mejor conductor a los que se han enfrentado; un hombre que además es el hermano desaparecido de Dom, Jakob.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123220000 -0300" stop="20261124003400 -0300" air_time_start="20261123220000 -0300" air_time_end="20261124003400 -0300" start_utc="20261124010000 +0000" stop_utc="20261124033400 +0000" air_time_start_utc="20261124010000 +0000" air_time_end_utc="20261124033400 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">RÁPIDOS Y FURIOSOS 9</title>
+    <sub-title lang="es">F9: THE FAST SAGA</sub-title>
+    <desc lang="es">Dom Toretto lleva una vida tranquila con Letty y su hijo, el pequeño Brian, pero saben que el peligro siempre acecha. Esta vez, esa amenaza obligará a Dom a enfrentarse a los pecados de su pasado si quiere salvar a quienes más quiere. El equipo se vuelve a reunir para impedir un complot a escala mundial, liderado por uno de los asesinos más peligrosos y mejor conductor a los que se han enfrentado; un hombre que además es el hermano desaparecido de Dom, Jakob.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123220000 -0400" stop="20261124005200 -0400" air_time_start="20261123220000 -0400" air_time_end="20261124005200 -0400" start_utc="20261124020000 +0000" stop_utc="20261124045200 +0000" air_time_start_utc="20261124020000 +0000" air_time_end_utc="20261124045200 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">RÁPIDOS Y FURIOSOS 9</title>
+    <sub-title lang="es">F9: THE FAST SAGA</sub-title>
+    <desc lang="es">Dom Toretto lleva una vida tranquila con Letty y su hijo, el pequeño Brian, pero saben que el peligro siempre acecha. Esta vez, esa amenaza obligará a Dom a enfrentarse a los pecados de su pasado si quiere salvar a quienes más quiere. El equipo se vuelve a reunir para impedir un complot a escala mundial, liderado por uno de los asesinos más peligrosos y mejor conductor a los que se han enfrentado; un hombre que además es el hermano desaparecido de Dom, Jakob.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123220000 -0500" stop="20261124004200 -0500" air_time_start="20261123220000 -0500" air_time_end="20261124004200 -0500" start_utc="20261124030000 +0000" stop_utc="20261124054200 +0000" air_time_start_utc="20261124030000 +0000" air_time_end_utc="20261124054200 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">RÁPIDOS Y FURIOSOS 9</title>
+    <sub-title lang="es">F9: THE FAST SAGA</sub-title>
+    <desc lang="es">Dom Toretto lleva una vida tranquila con Letty y su hijo, el pequeño Brian, pero saben que el peligro siempre acecha. Esta vez, esa amenaza obligará a Dom a enfrentarse a los pecados de su pasado si quiere salvar a quienes más quiere. El equipo se vuelve a reunir para impedir un complot a escala mundial, liderado por uno de los asesinos más peligrosos y mejor conductor a los que se han enfrentado; un hombre que además es el hermano desaparecido de Dom, Jakob.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123222800 -0600" stop="20261124010800 -0600" air_time_start="20261123222800 -0600" air_time_end="20261124010800 -0600" start_utc="20261124042800 +0000" stop_utc="20261124070800 +0000" air_time_start_utc="20261124042800 +0000" air_time_end_utc="20261124070800 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">RÁPIDOS Y FURIOSOS 9</title>
+    <sub-title lang="es">F9: THE FAST SAGA</sub-title>
+    <desc lang="es">Dom Toretto lleva una vida tranquila con Letty y su hijo, el pequeño Brian, pero saben que el peligro siempre acecha. Esta vez, esa amenaza obligará a Dom a enfrentarse a los pecados de su pasado si quiere salvar a quienes más quiere. El equipo se vuelve a reunir para impedir un complot a escala mundial, liderado por uno de los asesinos más peligrosos y mejor conductor a los que se han enfrentado; un hombre que además es el hermano desaparecido de Dom, Jakob.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261123233000 -0300" stop="20261123235300 -0300" air_time_start="20261123233000 -0300" air_time_end="20261123235300 -0300" start_utc="20261124023000 +0000" stop_utc="20261124025300 +0000" air_time_start_utc="20261124023000 +0000" air_time_end_utc="20261124025300 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">Todos Odian el Día de la Tierra</sub-title>
+    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.17.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/5XYlNlRpm9Edrl7uZmwJmuZPwa0.jpg" />
+  </programme>
+  <programme start="20261123235300 -0300" stop="20261124001600 -0300" air_time_start="20261123235300 -0300" air_time_end="20261124001600 -0300" start_utc="20261124025300 +0000" stop_utc="20261124031600 +0000" air_time_start_utc="20261124025300 +0000" air_time_end_utc="20261124031600 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">Todos Odian ser de Onda</sub-title>
+    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.18.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/d4JmGyotc9fT2Ui5uIaPAAMKh1S.jpg" />
+  </programme>
+  <programme start="20261124001600 -0300" stop="20261124003800 -0300" air_time_start="20261124001600 -0300" air_time_end="20261124003800 -0300" start_utc="20261124031600 +0000" stop_utc="20261124033800 +0000" air_time_start_utc="20261124031600 +0000" air_time_end_utc="20261124033800 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">Todos Odian el Baile de Noveno Grado</sub-title>
+    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.19.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/hDWPOAlKXncZVGhAP4f1hn3Z3P1.jpg" />
+  </programme>
+  <programme start="20261124003400 -0300" stop="20261124030600 -0300" air_time_start="20261124003400 -0300" air_time_end="20261124030600 -0300" start_utc="20261124033400 +0000" stop_utc="20261124060600 +0000" air_time_start_utc="20261124033400 +0000" air_time_end_utc="20261124060600 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">FURIOSA</title>
+    <desc lang="es">En un mundo postapocalíptico donde todo ha perdido su valor, los pocos supervivientes se guían por la ley del más fuerte. Sin aprecio por la vida, lo único que despierta un brutal interés es la gasolina, sinónimo de poder y objetivo de bandas armadas hasta los dientes y sin escrúpulos. En este contexto conoceremos la  historia de la arrebatadoramente despiadada, salvaje y joven Furiosa, quien cae en manos de una horda de motoristas y debe sobrevivir a muchas pruebas mientras reúne los medios para encontrar el camino de vuelta a casa. Precuela de 'Mad Max: Furia en la carretera' (2015).</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+  </programme>
+  <programme start="20261124003800 -0300" stop="20261124010100 -0300" air_time_start="20261124003800 -0300" air_time_end="20261124010100 -0300" start_utc="20261124033800 +0000" stop_utc="20261124040100 +0000" air_time_start_utc="20261124033800 +0000" air_time_end_utc="20261124040100 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">Todos Odian el Día de las Madres</sub-title>
+    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.20.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/63qwPBfwZkLi4w7ojNmVQNFl0B7.jpg" />
+  </programme>
+  <programme start="20261124004200 -0500" stop="20261124031100 -0500" air_time_start="20261124004200 -0500" air_time_end="20261124031100 -0500" start_utc="20261124054200 +0000" stop_utc="20261124081100 +0000" air_time_start_utc="20261124054200 +0000" air_time_end_utc="20261124081100 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">FURIOSA</title>
+    <desc lang="es">En un mundo postapocalíptico donde todo ha perdido su valor, los pocos supervivientes se guían por la ley del más fuerte. Sin aprecio por la vida, lo único que despierta un brutal interés es la gasolina, sinónimo de poder y objetivo de bandas armadas hasta los dientes y sin escrúpulos. En este contexto conoceremos la  historia de la arrebatadoramente despiadada, salvaje y joven Furiosa, quien cae en manos de una horda de motoristas y debe sobrevivir a muchas pruebas mientras reúne los medios para encontrar el camino de vuelta a casa. Precuela de 'Mad Max: Furia en la carretera' (2015).</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+  </programme>
+  <programme start="20261124004800 -0500" stop="20261124031600 -0500" air_time_start="20261124004800 -0500" air_time_end="20261124031600 -0500" start_utc="20261124054800 +0000" stop_utc="20261124081600 +0000" air_time_start_utc="20261124054800 +0000" air_time_end_utc="20261124081600 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">FURIOSA</title>
+    <desc lang="es">En un mundo postapocalíptico donde todo ha perdido su valor, los pocos supervivientes se guían por la ley del más fuerte. Sin aprecio por la vida, lo único que despierta un brutal interés es la gasolina, sinónimo de poder y objetivo de bandas armadas hasta los dientes y sin escrúpulos. En este contexto conoceremos la  historia de la arrebatadoramente despiadada, salvaje y joven Furiosa, quien cae en manos de una horda de motoristas y debe sobrevivir a muchas pruebas mientras reúne los medios para encontrar el camino de vuelta a casa. Precuela de 'Mad Max: Furia en la carretera' (2015).</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+  </programme>
+  <programme start="20261124005200 -0400" stop="20261124032300 -0400" air_time_start="20261124005200 -0400" air_time_end="20261124032300 -0400" start_utc="20261124045200 +0000" stop_utc="20261124072300 +0000" air_time_start_utc="20261124045200 +0000" air_time_end_utc="20261124072300 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">FURIOSA</title>
+    <desc lang="es">En un mundo postapocalíptico donde todo ha perdido su valor, los pocos supervivientes se guían por la ley del más fuerte. Sin aprecio por la vida, lo único que despierta un brutal interés es la gasolina, sinónimo de poder y objetivo de bandas armadas hasta los dientes y sin escrúpulos. En este contexto conoceremos la  historia de la arrebatadoramente despiadada, salvaje y joven Furiosa, quien cae en manos de una horda de motoristas y debe sobrevivir a muchas pruebas mientras reúne los medios para encontrar el camino de vuelta a casa. Precuela de 'Mad Max: Furia en la carretera' (2015).</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+  </programme>
+  <programme start="20261124010100 -0300" stop="20261124012200 -0300" air_time_start="20261124010100 -0300" air_time_end="20261124012200 -0300" start_utc="20261124040100 +0000" stop_utc="20261124042200 +0000" air_time_start_utc="20261124040100 +0000" air_time_end_utc="20261124042200 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">Todos Odian la Graduación</sub-title>
+    <sub-title lang="en">TODO MUNDO ODEIA FORMATURA</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.21.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/7jxTss8kyjkEdtEPTw4nDLYdkgO.jpg" />
+  </programme>
+  <programme start="20261124010800 -0600" stop="20261124034300 -0600" air_time_start="20261124010800 -0600" air_time_end="20261124034300 -0600" start_utc="20261124070800 +0000" stop_utc="20261124094300 +0000" air_time_start_utc="20261124070800 +0000" air_time_end_utc="20261124094300 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">FURIOSA</title>
+    <desc lang="es">En un mundo postapocalíptico donde todo ha perdido su valor, los pocos supervivientes se guían por la ley del más fuerte. Sin aprecio por la vida, lo único que despierta un brutal interés es la gasolina, sinónimo de poder y objetivo de bandas armadas hasta los dientes y sin escrúpulos. En este contexto conoceremos la  historia de la arrebatadoramente despiadada, salvaje y joven Furiosa, quien cae en manos de una horda de motoristas y debe sobrevivir a muchas pruebas mientras reúne los medios para encontrar el camino de vuelta a casa. Precuela de 'Mad Max: Furia en la carretera' (2015).</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+  </programme>
+  <programme start="20261124012200 -0300" stop="20261124014600 -0300" air_time_start="20261124012200 -0300" air_time_end="20261124014600 -0300" start_utc="20261124042200 +0000" stop_utc="20261124044600 +0000" air_time_start_utc="20261124042200 +0000" air_time_end_utc="20261124044600 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">La guerra fría</sub-title>
+    <sub-title lang="en">THE COLD WAR</sub-title>
+    <desc lang="pt">Quando Vivian isola Will e Carlton na edícula após os dois terem pego um resfriado, eles passam a noite discutindo sobre uma garota que Will roubou de Carlton</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/yHciNsvAyD2WQk2vmzfA4iQfqvD.jpg" />
+  </programme>
+  <programme start="20261124014600 -0300" stop="20261124020900 -0300" air_time_start="20261124014600 -0300" air_time_end="20261124020900 -0300" start_utc="20261124044600 +0000" stop_utc="20261124050900 +0000" air_time_start_utc="20261124044600 +0000" air_time_end_utc="20261124050900 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">Mamá cercana</sub-title>
+    <sub-title lang="en">MOMMY NEAREST</sub-title>
+    <desc lang="pt">Will tenta contar à mãe que não quer voltar para a Filadélfia com ela depois da formatura da escola.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/AfruXYINwisxJiVW5UU5yQLMHu4.jpg" />
+  </programme>
+  <programme start="20261124020900 -0300" stop="20261124023200 -0300" air_time_start="20261124020900 -0300" air_time_end="20261124023200 -0300" start_utc="20261124050900 +0000" stop_utc="20261124053200 +0000" air_time_start_utc="20261124050900 +0000" air_time_end_utc="20261124053200 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">Al ganador se le quita todo</sub-title>
+    <sub-title lang="en">WINNER TAKES OFF</sub-title>
+    <desc lang="pt">Geoffrey se humilha ao insultar a família Banks e pedir demissão depois que Will e Carlton fazem ele acreditar que ganhou milhões de dólares na loteria.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.13.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/hA3MKiCDeOIX4LhE2pNk8Dca4MC.jpg" />
+  </programme>
+  <programme start="20261124023200 -0300" stop="20261124025600 -0300" air_time_start="20261124023200 -0300" air_time_end="20261124025600 -0300" start_utc="20261124053200 +0000" stop_utc="20261124055600 +0000" air_time_start_utc="20261124053200 +0000" air_time_end_utc="20261124055600 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">Robando a los Banks</sub-title>
+    <sub-title lang="en">ROBBING THE BANKS</sub-title>
+    <desc lang="pt">Vários objetos de valor começam a desaparecer na mansão dos Banks depois que Will convence Philip a contratar um ex-presidiário como faz-tudo.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">2.14.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/dbC4uN40Y3BSFkFGqmBGmDsNGny.jpg" />
+  </programme>
+  <programme start="20261124025600 -0300" stop="20261124051700 -0300" air_time_start="20261124025600 -0300" air_time_end="20261124051700 -0300" start_utc="20261124055600 +0000" stop_utc="20261124081700 +0000" air_time_start_utc="20261124055600 +0000" air_time_end_utc="20261124081700 +0000" is_live="false" channel="TNT_BR.br">
+    <sub-title lang="pt">Furiosa: A Mad Max Saga</sub-title>
+    <desc lang="pt">Nasce a fúria. Anya Taylor-Joy e Chris Hemsworth estrelam o conto pós-apocalíptico de George Miller que revela as origens de Furiosa antes de seu encontro com o guerreiro das estradas Max Rockatansky.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Ficção Científica</category>
+  </programme>
+  <programme start="20261124030600 -0300" stop="20261124045100 -0300" air_time_start="20261124030600 -0300" air_time_end="20261124045100 -0300" start_utc="20261124060600 +0000" stop_utc="20261124075100 +0000" air_time_start_utc="20261124060600 +0000" air_time_end_utc="20261124075100 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">PERMITIDOS</title>
+    <sub-title lang="es">THAT'S NOT CHEATING</sub-title>
+    <desc lang="es">Lali Espósito y Martín Piroyansky protagonizan esta comedia romántica como Camila y Mateo, una pareja que ha estado junta por ocho años que, durante una charla con amigos, deciden quiénes serían sus respectivos "permitidos", una celebridad casi imposible de conocer con quien podrían tener una aventura sin que se considere infidelidad. El problema es que Camila lo dijo en broma, pero cuando Mateo conoce en persona a su "permitida", se toma la decisión muy en serio y su relación con Camila termina siendo puesta a prueba.</desc>
+    <category lang="es">Comedia</category>
+    <category lang="es">Romance</category>
+  </programme>
+  <programme start="20261124031100 -0500" stop="20261124053000 -0500" air_time_start="20261124031100 -0500" air_time_end="20261124053000 -0500" start_utc="20261124081100 +0000" stop_utc="20261124103000 +0000" air_time_start_utc="20261124081100 +0000" air_time_end_utc="20261124103000 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">IT (ESO)</title>
+    <sub-title lang="es">IT</sub-title>
+    <desc lang="es">Cuando empiezan a desparecer niños en el pueblo de Derry, Maine, un grupo de niños lidia con sus mayores miedos al enfrentarse a un malvado payaso llamado Pennywise, cuya historia de asesinatos y violencia data de siglos atrás.</desc>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261124031600 -0500" stop="20261124053000 -0500" air_time_start="20261124031600 -0500" air_time_end="20261124053000 -0500" start_utc="20261124081600 +0000" stop_utc="20261124103000 +0000" air_time_start_utc="20261124081600 +0000" air_time_end_utc="20261124103000 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">IT (ESO)</title>
+    <sub-title lang="es">IT</sub-title>
+    <desc lang="es">Cuando empiezan a desparecer niños en el pueblo de Derry, Maine, un grupo de niños lidia con sus mayores miedos al enfrentarse a un malvado payaso llamado Pennywise, cuya historia de asesinatos y violencia data de siglos atrás.</desc>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261124032300 -0400" stop="20261124053900 -0400" air_time_start="20261124032300 -0400" air_time_end="20261124053900 -0400" start_utc="20261124072300 +0000" stop_utc="20261124093900 +0000" air_time_start_utc="20261124072300 +0000" air_time_end_utc="20261124093900 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">IT (ESO)</title>
+    <sub-title lang="es">IT</sub-title>
+    <desc lang="es">Cuando empiezan a desparecer niños en el pueblo de Derry, Maine, un grupo de niños lidia con sus mayores miedos al enfrentarse a un malvado payaso llamado Pennywise, cuya historia de asesinatos y violencia data de siglos atrás.</desc>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261124034300 -0600" stop="20261124060000 -0600" air_time_start="20261124034300 -0600" air_time_end="20261124060000 -0600" start_utc="20261124094300 +0000" stop_utc="20261124120000 +0000" air_time_start_utc="20261124094300 +0000" air_time_end_utc="20261124120000 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">IT (ESO)</title>
+    <sub-title lang="es">IT</sub-title>
+    <desc lang="es">Cuando empiezan a desparecer niños en el pueblo de Derry, Maine, un grupo de niños lidia con sus mayores miedos al enfrentarse a un malvado payaso llamado Pennywise, cuya historia de asesinatos y violencia data de siglos atrás.</desc>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261124045100 -0300" stop="20261124050500 -0300" air_time_start="20261124045100 -0300" air_time_end="20261124050500 -0300" start_utc="20261124075100 +0000" stop_utc="20261124080500 +0000" air_time_start_utc="20261124075100 +0000" air_time_end_utc="20261124080500 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.51.</episode-num>
+  </programme>
+  <programme start="20261124050500 -0300" stop="20261124054000 -0300" air_time_start="20261124050500 -0300" air_time_end="20261124054000 -0300" start_utc="20261124080500 +0000" stop_utc="20261124084000 +0000" air_time_start_utc="20261124080500 +0000" air_time_end_utc="20261124084000 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.17.</episode-num>
+  </programme>
+  <programme start="20261124051700 -0300" stop="20261124055100 -0300" air_time_start="20261124051700 -0300" air_time_end="20261124055100 -0300" start_utc="20261124081700 +0000" stop_utc="20261124085100 +0000" air_time_start_utc="20261124081700 +0000" air_time_end_utc="20261124085100 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="pt">Variedades</category>
+    <episode-num system="xmltv_ns">-1.19.</episode-num>
+  </programme>
+  <programme start="20261124053000 -0500" stop="20261124054600 -0500" air_time_start="20261124053000 -0500" air_time_end="20261124054600 -0500" start_utc="20261124103000 +0000" stop_utc="20261124104600 +0000" air_time_start_utc="20261124103000 +0000" air_time_end_utc="20261124104600 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.57.</episode-num>
+  </programme>
+  <programme start="20261124053000 -0500" stop="20261124054000 -0500" air_time_start="20261124053000 -0500" air_time_end="20261124054000 -0500" start_utc="20261124103000 +0000" stop_utc="20261124104000 +0000" air_time_start_utc="20261124103000 +0000" air_time_end_utc="20261124104000 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.58.</episode-num>
+  </programme>
+  <programme start="20261124053900 -0400" stop="20261124054900 -0400" air_time_start="20261124053900 -0400" air_time_end="20261124054900 -0400" start_utc="20261124093900 +0000" stop_utc="20261124094900 +0000" air_time_start_utc="20261124093900 +0000" air_time_end_utc="20261124094900 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.62.</episode-num>
+  </programme>
+  <programme start="20261124054000 -0300" stop="20261124055500 -0300" air_time_start="20261124054000 -0300" air_time_end="20261124055500 -0300" start_utc="20261124084000 +0000" stop_utc="20261124085500 +0000" air_time_start_utc="20261124084000 +0000" air_time_end_utc="20261124085500 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.57.</episode-num>
+  </programme>
+  <programme start="20261124054000 -0500" stop="20261124054900 -0500" air_time_start="20261124054000 -0500" air_time_end="20261124054900 -0500" start_utc="20261124104000 +0000" stop_utc="20261124104900 +0000" air_time_start_utc="20261124104000 +0000" air_time_end_utc="20261124104900 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.59.</episode-num>
+  </programme>
+  <programme start="20261124054600 -0500" stop="20261124060000 -0500" air_time_start="20261124054600 -0500" air_time_end="20261124060000 -0500" start_utc="20261124104600 +0000" stop_utc="20261124110000 +0000" air_time_start_utc="20261124104600 +0000" air_time_end_utc="20261124110000 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.60.</episode-num>
+  </programme>
+  <programme start="20261124054900 -0400" stop="20261124060000 -0400" air_time_start="20261124054900 -0400" air_time_end="20261124060000 -0400" start_utc="20261124094900 +0000" stop_utc="20261124100000 +0000" air_time_start_utc="20261124094900 +0000" air_time_end_utc="20261124100000 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.61.</episode-num>
+  </programme>
+  <programme start="20261124054900 -0500" stop="20261124060000 -0500" air_time_start="20261124054900 -0500" air_time_end="20261124060000 -0500" start_utc="20261124104900 +0000" stop_utc="20261124110000 +0000" air_time_start_utc="20261124104900 +0000" air_time_end_utc="20261124110000 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">-1.62.</episode-num>
+  </programme>
+  <programme start="20261124055100 -0300" stop="20261124055400 -0300" air_time_start="20261124055100 -0300" air_time_end="20261124055400 -0300" start_utc="20261124085100 +0000" stop_utc="20261124085400 +0000" air_time_start_utc="20261124085100 +0000" air_time_end_utc="20261124085400 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TNT BUZZ</title>
+    <category lang="pt">Animación</category>
+    <episode-num system="xmltv_ns">14.90.</episode-num>
+  </programme>
+  <programme start="20261124055400 -0300" stop="20261124055600 -0300" air_time_start="20261124055400 -0300" air_time_end="20261124055600 -0300" start_utc="20261124085400 +0000" stop_utc="20261124085600 +0000" air_time_start_utc="20261124085400 +0000" air_time_end_utc="20261124085600 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TNT BUZZ</title>
+    <category lang="pt">Animación</category>
+    <episode-num system="xmltv_ns">14.91.</episode-num>
+  </programme>
+  <programme start="20261124055500 -0300" stop="20261124060000 -0300" air_time_start="20261124055500 -0300" air_time_end="20261124060000 -0300" start_utc="20261124085500 +0000" stop_utc="20261124090000 +0000" air_time_start_utc="20261124085500 +0000" air_time_end_utc="20261124090000 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">TNT BUZZ</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">14.102.</episode-num>
+  </programme>
+  <programme start="20261124055600 -0300" stop="20261124060000 -0300" air_time_start="20261124055600 -0300" air_time_end="20261124060000 -0300" start_utc="20261124085600 +0000" stop_utc="20261124090000 +0000" air_time_start_utc="20261124085600 +0000" air_time_end_utc="20261124090000 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TNT BUZZ</title>
+    <category lang="pt">Animación</category>
+    <episode-num system="xmltv_ns">14.92.</episode-num>
   </programme>
 </tv>
