@@ -44,7 +44,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add CTOOLA_EPG.xml CNLA_EPG.xml WARNERLA_EPG.xml TNTLA_EPG.xml TOONCAST_EPG.xml TNT_SPORTS.xml
+          git add CTOOLA_EPG.xml CNLA_EPG.xml WARNERLA_EPG.xml TNTLA_EPG.xml HBO_EPG.xml TOONCAST_EPG.xml TNT_SPORTS.xml
           if git diff --staged --quiet; then
             echo "No hay cambios nuevos en las grillas WB."
           else
