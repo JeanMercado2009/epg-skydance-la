@@ -51,6 +51,18 @@ def is_generic_ep_label(val):
     return bool(re.match(r"^(episodio|episode|ep\.?|cap[ií]tulo)\s*\d+\b", s))
 
 
+def extract_part_info(text):
+    cleaned = clean_unicode(text)
+    if not cleaned:
+        return "", ""
+    m = re.search(r"[\s\-–—\(\[]*\b(part|parte)\s*(\d+)\b[\)\]]*\s*$", cleaned, flags=re.IGNORECASE)
+    if not m:
+        return cleaned, ""
+    part_num = m.group(2)
+    base_title = cleaned[:m.start()].strip(" -–—:/(").strip()
+    return base_title, f"Parte {part_num}"
+
+
 def normalize_title(text):
     cleaned = clean_unicode(text)
     if not cleaned:
@@ -144,8 +156,17 @@ def fetch_tmdb_episode_details(series_title, season_str, ep_str, ep_title_en="",
 
     s_num = int(float(season_str)) if season_str and str(season_str).replace(".", "", 1).isdigit() else None
     e_num = int(float(ep_str)) if ep_str and str(ep_str).replace(".", "", 1).isdigit() else None
-    norm_targets = [normalize_title(t) for t in (ep_title_en, ep_title_es) if t and not is_generic_ep_label(t)]
-    norm_targets = [t for t in norm_targets if t]
+
+    base_en, _ = extract_part_info(ep_title_en)
+    base_es, _ = extract_part_info(ep_title_es)
+
+    raw_candidates = [ep_title_en, ep_title_es, base_en, base_es]
+    norm_targets = []
+    for t in raw_candidates:
+        if t and not is_generic_ep_label(t):
+            nt = normalize_title(t)
+            if nt and nt not in norm_targets:
+                norm_targets.append(nt)
 
     matched_season = s_num
     matched_ep_num = e_num
@@ -194,7 +215,7 @@ def fetch_tmdb_episode_details(series_title, season_str, ep_str, ep_title_en="",
 
     best_title = ""
     best_overview = ""
-    norm_en_only = normalize_title(ep_title_en) if ep_title_en and not is_generic_ep_label(ep_title_en) else ""
+    norm_curr_es = normalize_title(ep_title_es) if ep_title_es and not is_generic_ep_label(ep_title_es) else ""
 
     if matched_season is not None and matched_ep_num is not None:
         for tmdb_lang in langs_to_try:
@@ -206,7 +227,7 @@ def fetch_tmdb_episode_details(series_title, season_str, ep_str, ep_title_en="",
             t_name = clean_unicode(ep_data.get("name") or "")
             t_ov = clean_unicode(ep_data.get("overview") or "")
 
-            if not best_title and t_name and not is_generic_ep_label(t_name) and (not norm_en_only or normalize_title(t_name) != norm_en_only):
+            if not best_title and t_name and not is_generic_ep_label(t_name) and (not norm_curr_es or normalize_title(t_name) != norm_curr_es):
                 best_title = t_name
             if not best_overview and t_ov:
                 best_overview = t_ov
@@ -260,7 +281,14 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", ep_title_
 
     s_num = int(float(season_str)) if season_str and str(season_str).replace(".", "", 1).isdigit() else None
     e_num = int(float(ep_str)) if ep_str and str(ep_str).replace(".", "", 1).isdigit() else None
-    norm_targets = [normalize_title(t) for t in (ep_title_en, ep_title_es) if t and not is_generic_ep_label(t)]
+
+    base_en, _ = extract_part_info(ep_title_en)
+    base_es, _ = extract_part_info(ep_title_es)
+    norm_targets = [
+        normalize_title(t)
+        for t in (ep_title_en, ep_title_es, base_en, base_es)
+        if t and not is_generic_ep_label(t)
+    ]
     norm_targets = [t for t in norm_targets if t]
 
     if norm_targets:
@@ -802,17 +830,27 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
         needs_title = is_generic_ep_label(sub_es) or (bool(lookup_ep_en) and normalize_title(sub_es) == normalize_title(lookup_ep_en))
         needs_desc = not desc_es
 
+        base_en_for_tmdb, part_label_en = extract_part_info(lookup_ep_en)
+        base_es_for_tmdb, part_label_es = extract_part_info(sub_es)
+        part_suffix = part_label_es or part_label_en
+
         if (needs_title or needs_desc) and title_val and "Cine Cartoon" not in title_val:
             tmdb_details = fetch_tmdb_episode_details(
                 title_val,
                 season_val,
                 ep_num_val,
-                ep_title_en=lookup_ep_en,
-                ep_title_es=sub_es,
+                ep_title_en=base_en_for_tmdb or lookup_ep_en,
+                ep_title_es=base_es_for_tmdb or sub_es,
                 lang=lang,
             )
             if needs_title and tmdb_details.get("title") and not is_generic_ep_label(tmdb_details["title"]):
-                sub_es = clean_unicode(tmdb_details["title"])
+                tmdb_title_clean = clean_unicode(tmdb_details["title"])
+                tmdb_base, tmdb_part = extract_part_info(tmdb_title_clean)
+                final_part = part_suffix or tmdb_part
+                if final_part and not re.search(rf"\b{re.escape(final_part)}\b", tmdb_title_clean, flags=re.IGNORECASE):
+                    sub_es = f"{tmdb_base or tmdb_title_clean}: {final_part}"
+                else:
+                    sub_es = tmdb_title_clean
             if needs_desc and tmdb_details.get("overview"):
                 desc_es = clean_unicode(tmdb_details["overview"])
 
@@ -825,8 +863,8 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
                 title_val,
                 season_val,
                 ep_num_val,
-                ep_title_en=lookup_ep_en,
-                ep_title_es=sub_es,
+                ep_title_en=base_en_for_tmdb or lookup_ep_en,
+                ep_title_es=base_es_for_tmdb or sub_es,
                 lang=lang,
             )
             if title_val and "Cine Cartoon" not in title_val
