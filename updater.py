@@ -38,7 +38,17 @@ def clean_unicode(text, preserve_newlines=False):
         ch for ch in str(text)
         if ch in allowed_controls or unicodedata.category(ch) not in ("Cf", "Cc", "Co", "Cn")
     )
-    return cleaned.strip()
+    cleaned = cleaned.strip()
+    if not preserve_newlines:
+        cleaned = re.sub(r"^[;,:\s]+", "", cleaned).strip()
+    return cleaned
+
+
+def is_generic_ep_label(val):
+    s = clean_unicode(val).lower()
+    if not s or s == "nan":
+        return True
+    return bool(re.match(r"^(episodio|episode|ep\.?|cap[ií]tulo)\s*\d+\b", s))
 
 
 def normalize_title(text):
@@ -109,14 +119,15 @@ def _get_season_episodes_cached(tv_id, season_num, lang_code, headers):
     return eps
 
 
-def fetch_tmdb_episode_details(series_title, season_str, ep_str, ep_title_en="", lang="es"):
+def fetch_tmdb_episode_details(series_title, season_str, ep_str, ep_title_en="", ep_title_es="", lang="es"):
     series_title = clean_unicode(series_title)
     ep_title_en = clean_unicode(ep_title_en)
+    ep_title_es = clean_unicode(ep_title_es)
     if not series_title or (not TMDB_TOKEN and not TMDB_API_KEY):
         return {}
 
     langs_to_try = _get_tmdb_langs(lang)
-    cache_key = f"{series_title}|{season_str}|{ep_str}|{ep_title_en}|{','.join(langs_to_try)}|ep_details"
+    cache_key = f"{series_title}|{season_str}|{ep_str}|{ep_title_en}|{ep_title_es}|{','.join(langs_to_try)}|ep_details"
     if cache_key in tmdb_cache:
         return tmdb_cache[cache_key]
 
@@ -133,12 +144,14 @@ def fetch_tmdb_episode_details(series_title, season_str, ep_str, ep_title_en="",
 
     s_num = int(float(season_str)) if season_str and str(season_str).replace(".", "", 1).isdigit() else None
     e_num = int(float(ep_str)) if ep_str and str(ep_str).replace(".", "", 1).isdigit() else None
-    norm_target = normalize_title(ep_title_en) if ep_title_en else ""
+    norm_targets = [normalize_title(t) for t in (ep_title_en, ep_title_es) if t and not is_generic_ep_label(t)]
+    norm_targets = [t for t in norm_targets if t]
 
     matched_season = s_num
     matched_ep_num = e_num
+    found_by_name = False
 
-    if norm_target:
+    if norm_targets:
         seasons_order = []
         if s_num is not None:
             seasons_order.append(s_num)
@@ -148,12 +161,12 @@ def fetch_tmdb_episode_details(series_title, season_str, ep_str, ep_title_en="",
         if 0 not in seasons_order:
             seasons_order.append(0)
 
-        found_by_name = False
         for s_check in seasons_order:
             for ref_lang in ["en-US"] + langs_to_try:
                 eps_list = _get_season_episodes_cached(tv_id, s_check, ref_lang, headers)
                 for idx, ep in enumerate(eps_list, start=1):
-                    if normalize_title(ep.get("name", "")) == norm_target:
+                    ep_norm = normalize_title(ep.get("name", ""))
+                    if ep_norm and any(ep_norm == nt for nt in norm_targets):
                         matched_season = s_check
                         matched_ep_num = ep.get("episode_number") or idx
                         found_by_name = True
@@ -163,8 +176,25 @@ def fetch_tmdb_episode_details(series_title, season_str, ep_str, ep_title_en="",
             if found_by_name:
                 break
 
+        if not found_by_name:
+            for s_check in seasons_order:
+                for ref_lang in ["en-US"] + langs_to_try:
+                    eps_list = _get_season_episodes_cached(tv_id, s_check, ref_lang, headers)
+                    for idx, ep in enumerate(eps_list, start=1):
+                        ep_norm = normalize_title(ep.get("name", ""))
+                        if ep_norm and any((nt in ep_norm or ep_norm in nt) for nt in norm_targets if len(nt) >= 4):
+                            matched_season = s_check
+                            matched_ep_num = ep.get("episode_number") or idx
+                            found_by_name = True
+                            break
+                    if found_by_name:
+                        break
+                if found_by_name:
+                    break
+
     best_title = ""
     best_overview = ""
+    norm_en_only = normalize_title(ep_title_en) if ep_title_en and not is_generic_ep_label(ep_title_en) else ""
 
     if matched_season is not None and matched_ep_num is not None:
         for tmdb_lang in langs_to_try:
@@ -176,13 +206,21 @@ def fetch_tmdb_episode_details(series_title, season_str, ep_str, ep_title_en="",
             t_name = clean_unicode(ep_data.get("name") or "")
             t_ov = clean_unicode(ep_data.get("overview") or "")
 
-            if not best_title and t_name and (not norm_target or normalize_title(t_name) != norm_target):
+            if not best_title and t_name and not is_generic_ep_label(t_name) and (not norm_en_only or normalize_title(t_name) != norm_en_only):
                 best_title = t_name
             if not best_overview and t_ov:
                 best_overview = t_ov
 
             if best_title and best_overview:
                 break
+
+        if not best_overview:
+            ep_en = _tmdb_get(
+                f"https://api.themoviedb.org/3/tv/{tv_id}/season/{matched_season}/episode/{matched_ep_num}",
+                headers,
+                {"language": "en-US"},
+            )
+            best_overview = clean_unicode(ep_en.get("overview") or "")
 
     result = {}
     if best_title:
@@ -194,14 +232,15 @@ def fetch_tmdb_episode_details(series_title, season_str, ep_str, ep_title_en="",
     return result
 
 
-def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", lang="es"):
+def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", ep_title_es="", lang="es"):
     series_title = clean_unicode(series_title)
     ep_title_en = clean_unicode(ep_title_en)
+    ep_title_es = clean_unicode(ep_title_es)
     if not series_title:
         return ""
 
     langs_to_try = _get_tmdb_langs(lang)
-    cache_key = f"{series_title}|{season_str}|{ep_str}|{ep_title_en}|still|{','.join(langs_to_try)}"
+    cache_key = f"{series_title}|{season_str}|{ep_str}|{ep_title_en}|{ep_title_es}|still|{','.join(langs_to_try)}"
     if cache_key in tmdb_cache:
         return tmdb_cache[cache_key]
 
@@ -221,9 +260,10 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", lang="es"
 
     s_num = int(float(season_str)) if season_str and str(season_str).replace(".", "", 1).isdigit() else None
     e_num = int(float(ep_str)) if ep_str and str(ep_str).replace(".", "", 1).isdigit() else None
-    norm_target = normalize_title(ep_title_en) if ep_title_en else ""
+    norm_targets = [normalize_title(t) for t in (ep_title_en, ep_title_es) if t and not is_generic_ep_label(t)]
+    norm_targets = [t for t in norm_targets if t]
 
-    if norm_target:
+    if norm_targets:
         seasons_order = []
         if s_num is not None:
             seasons_order.append(s_num)
@@ -234,16 +274,18 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", lang="es"
             seasons_order.append(0)
 
         for s_check in seasons_order:
-            eps_list = _get_season_episodes_cached(tv_id, s_check, "en-US", headers)
-            for ep in eps_list:
-                if normalize_title(ep.get("name", "")) == norm_target:
-                    still_path = clean_unicode(ep.get("still_path") or "")
-                    if still_path:
-                        if not still_path.startswith("/"):
-                            still_path = "/" + still_path
-                        img_url = f"https://media.themoviedb.org/t/p/w500{still_path}"
-                        tmdb_cache[cache_key] = img_url
-                        return img_url
+            for ref_lang in ["en-US"] + langs_to_try:
+                eps_list = _get_season_episodes_cached(tv_id, s_check, ref_lang, headers)
+                for ep in eps_list:
+                    ep_norm = normalize_title(ep.get("name", ""))
+                    if ep_norm and any(ep_norm == nt for nt in norm_targets):
+                        still_path = clean_unicode(ep.get("still_path") or "")
+                        if still_path:
+                            if not still_path.startswith("/"):
+                                still_path = "/" + still_path
+                            img_url = f"https://media.themoviedb.org/t/p/w500{still_path}"
+                            tmdb_cache[cache_key] = img_url
+                            return img_url
 
     if s_num is not None and e_num is not None:
         for tmdb_lang in langs_to_try:
@@ -376,7 +418,7 @@ NETWORKS_CONFIG = {
             {"feed_id": "HBO_BCO", "channel_id": "HBO_BCO.co", "channel_name": "HBO Caribe", "lang": "es", "tz": timezone(timedelta(hours=-4)), "tz_str": "-0400"},
             {"feed_id": "HBO_CHO", "channel_id": "HBO_CHO.cl", "channel_name": "HBO Chile", "lang": "es", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"},
             {"feed_id": "HBO_BMO", "channel_id": "HBO_BMO.mx", "channel_name": "HBO México", "lang": "es", "tz": timezone(timedelta(hours=-6)), "tz_str": "-0600"},
-            {"feed_id": "HBO_PAO", "channel_id": "HBO_PAO.co", "channel_name": "HBO Panregional", "lang": "es", "tz": timezone(timedelta(hours=-5)), "tz_str": "-0300"},
+            {"feed_id": "HBO_PAO", "channel_id": "HBO_PAO.co", "channel_name": "HBO Panregional", "lang": "es", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"},
             {"feed_id": "HBO_BBO", "channel_id": "HBO_BBO.br", "channel_name": "HBO Brasil", "lang": "pt", "tz": timezone(timedelta(hours=-3)), "tz_str": "-0300"},
         ],
     },
@@ -486,8 +528,8 @@ def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_t
                         year_val = clean_unicode(row.get("Year") or row.get("Año") or "")
 
                         meta_data = {
-                            "title_es": es_title if es_title and es_title.lower() != "nan" else "",
-                            "title_en": en_title if en_title and en_title.lower() != "nan" else "",
+                            "title_es": es_title if es_title and es_title.lower() != "nan" and not is_generic_ep_label(es_title) else "",
+                            "title_en": en_title if en_title and en_title.lower() != "nan" and not is_generic_ep_label(en_title) else "",
                             "desc": es_desc if es_desc and es_desc.lower() != "nan" else "",
                             "year": year_val if year_val and year_val.lower() != "nan" and year_val.isdigit() else "",
                         }
@@ -544,7 +586,6 @@ def sanitize_and_parse_xml(file_path, generator_name):
         root = ET.fromstring("\n".join(cleaned_lines))
         for elem in root.iter():
             if elem.text is not None:
-                # Limpia espacios/saltos de sangría previos, pero conserva texto real
                 stripped_txt = clean_unicode(elem.text)
                 elem.text = stripped_txt if stripped_txt else None
             if elem.tail is not None:
@@ -741,16 +782,16 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
             elif col_desc and pd.notna(row.get(col_desc)) and clean_unicode(row.get(col_desc)):
                 desc_es = clean_unicode(row.get(col_desc))
 
-        sub_es = ep_name_val if ep_name_val and ep_name_val.lower() != "nan" else ""
-        sub_en = ep_name_en_val if ep_name_en_val and ep_name_en_val.lower() != "nan" else ""
+        sub_es = "" if is_generic_ep_label(ep_name_val) else ep_name_val
+        sub_en = "" if is_generic_ep_label(ep_name_en_val) else ep_name_en_val
 
         if monthly_meta:
             norm_date = standardize_date_str(date_raw)
             matched_info = monthly_meta.get(f"{norm_date}|{time_raw[:5]}|{sub_en.upper()}") or monthly_meta.get(sub_en.upper())
             if matched_info:
-                if matched_info["title_es"]:
+                if matched_info["title_es"] and not is_generic_ep_label(matched_info["title_es"]):
                     sub_es = clean_unicode(matched_info["title_es"])
-                if matched_info["title_en"]:
+                if matched_info["title_en"] and not is_generic_ep_label(matched_info["title_en"]):
                     sub_en = clean_unicode(matched_info["title_en"])
                 if not desc_es and matched_info["desc"]:
                     desc_es = clean_unicode(matched_info["desc"])
@@ -758,7 +799,7 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
                     year_val = clean_unicode(matched_info["year"])
 
         lookup_ep_en = sub_en or (sub_es if sub_es and normalize_title(sub_es) != normalize_title(title_val) else "")
-        needs_title = (not sub_es) or (lookup_ep_en and normalize_title(sub_es) == normalize_title(lookup_ep_en))
+        needs_title = is_generic_ep_label(sub_es) or (bool(lookup_ep_en) and normalize_title(sub_es) == normalize_title(lookup_ep_en))
         needs_desc = not desc_es
 
         if (needs_title or needs_desc) and title_val and "Cine Cartoon" not in title_val:
@@ -767,20 +808,33 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
                 season_val,
                 ep_num_val,
                 ep_title_en=lookup_ep_en,
+                ep_title_es=sub_es,
                 lang=lang,
             )
-            if needs_title and tmdb_details.get("title"):
+            if needs_title and tmdb_details.get("title") and not is_generic_ep_label(tmdb_details["title"]):
                 sub_es = clean_unicode(tmdb_details["title"])
             if needs_desc and tmdb_details.get("overview"):
                 desc_es = clean_unicode(tmdb_details["overview"])
 
-        if not desc_es and title_val and "Cine Cartoon" not in title_val:
+        # Solo usar sinopsis general de la serie si no hay episodio identificado
+        if not desc_es and not xmltv_season_ep and title_val and "Cine Cartoon" not in title_val:
             desc_es = fetch_tmdb_synopsis(title_val, lang=lang)
 
-        icon_url = fetch_tmdb_still(title_val, season_val, ep_num_val, ep_title_en=lookup_ep_en, lang=lang) if title_val and "Cine Cartoon" not in title_val else ""
+        icon_url = (
+            fetch_tmdb_still(
+                title_val,
+                season_val,
+                ep_num_val,
+                ep_title_en=lookup_ep_en,
+                ep_title_es=sub_es,
+                lang=lang,
+            )
+            if title_val and "Cine Cartoon" not in title_val
+            else ""
+        )
 
         if col_is_new and pd.notna(row.get(col_is_new)) and clean_unicode(row.get(col_is_new)).upper() == "Y":
-            if sub_es and sub_es.lower() != "nan":
+            if sub_es and not is_generic_ep_label(sub_es):
                 sub_es = f"{sub_es} (NUEVO EPISODIO)"
             elif title_val:
                 title_val = f"{title_val} (NUEVO EPISODIO)"
@@ -796,8 +850,20 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
             "start": event_dt,
             "stop": stop_dt,
             "title": title_val if title_val.lower() != "nan" else "",
-            "sub_title_es": sub_es if sub_es.lower() != "nan" and sub_es.lower() != title_val.lower() else "",
-            "sub_title_en": sub_en if sub_en.lower() != "nan" and sub_en.lower() != sub_es.lower() else "",
+            "sub_title_es": (
+                sub_es
+                if sub_es
+                and not is_generic_ep_label(sub_es)
+                and sub_es.lower() != title_val.lower()
+                else ""
+            ),
+            "sub_title_en": (
+                sub_en
+                if sub_en
+                and not is_generic_ep_label(sub_en)
+                and sub_en.lower() != sub_es.lower()
+                else ""
+            ),
             "episode_num": xmltv_season_ep,
             "desc_es": desc_es if desc_es.lower() != "nan" else "",
             "desc_en": desc_en if desc_en.lower() != "nan" else "",
