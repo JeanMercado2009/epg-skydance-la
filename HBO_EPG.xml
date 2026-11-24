@@ -539,15 +539,16 @@
   </programme>
   <programme start="20261124060000 -0300" stop="20261124074700 -0300" air_time_start="20261124060000 -0300" air_time_end="20261124074700 -0300" start_utc="20261124090000 +0000" stop_utc="20261124104700 +0000" air_time_start_utc="20261124090000 +0000" air_time_end_utc="20261124104700 +0000" is_live="false" channel="HBO_CHO.cl">
     <title lang="es">Gato con Botas: El Último Deseo</title>
-    <sub-title lang="es">Puss in Boots: The Last Wish</sub-title>
-    <desc lang="es">Serie que cuenta las aventuras del Gato con Botas, basada en el personaje de Shrek.</desc>
+    <sub-title lang="es">Las botas</sub-title>
+    <sub-title lang="en">Puss in Boots: The Last Wish</sub-title>
+    <desc lang="es">Al robar las botas encantadas de la Casa del Tesoro, Jack Espadín desencadena un peligroso viento del diablo que amenaza con consumir todo el tesoro del pueblo.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Aventuras</category>
     <category lang="es">Comedia</category>
     <category lang="es">Familiar</category>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20261124060000 -0300" stop="20261124081500 -0300" air_time_start="20261124060000 -0300" air_time_end="20261124081500 -0300" start_utc="20261124110000 +0000" stop_utc="20261124131500 +0000" air_time_start_utc="20261124110000 +0000" air_time_end_utc="20261124131500 +0000" is_live="false" channel="HBO_PAO.co">
+  <programme start="20261124060000 -0300" stop="20261124081500 -0300" air_time_start="20261124060000 -0300" air_time_end="20261124081500 -0300" start_utc="20261124090000 +0000" stop_utc="20261124111500 +0000" air_time_start_utc="20261124090000 +0000" air_time_end_utc="20261124111500 +0000" is_live="false" channel="HBO_PAO.co">
     <title lang="es">El Rey de Marfil</title>
     <sub-title lang="es">King Ivory</sub-title>
     <desc lang="es">Basado en una extensa investigación que involucró a la policía y miembros de pandillas, una mirada auténtica nunca antes vista dentro del inframundo del tráfico de fentanilo de las pandillas dentro de la Penitenciaría del Estado de Oklahoma en McAlester, también conocida como 'Big Mac'.</desc>
@@ -592,7 +593,7 @@
     <category lang="es">Crimen</category>
     <category lang="es">Policial</category>
   </programme>
-  <programme start="20261124081500 -0300" stop="20261124101600 -0300" air_time_start="20261124081500 -0300" air_time_end="20261124101600 -0300" start_utc="20261124131500 +0000" stop_utc="20261124151600 +0000" air_time_start_utc="20261124131500 +0000" air_time_end_utc="20261124151600 +0000" is_live="false" channel="HBO_PAO.co">
+  <programme start="20261124081500 -0300" stop="20261124101600 -0300" air_time_start="20261124081500 -0300" air_time_end="20261124101600 -0300" start_utc="20261124111500 +0000" stop_utc="20261124131600 +0000" air_time_start_utc="20261124111500 +0000" air_time_end_utc="20261124131600 +0000" is_live="false" channel="HBO_PAO.co">
     <title lang="es">Barry Seal: Solo en América</title>
     <sub-title lang="es">American Made</sub-title>
     <desc lang="es">Década de 1980. Después de haber trabajado como piloto de TWA, la mayor aerolínea estadounidense, Barry Seal se convierte en narcotraficante, y posteriormente es reclutado por la CIA para realizar labores de inteligencia. La película cuenta la historia de este ex piloto que se puso al cargo de una de las más importantes operaciones encubiertas de la CIA en la historia de los Estados Unidos. Esta hazaña, con la que se logró apresar a varios miembros del cartel de Medellín, estuvo cerca de provocar la caída del gobierno de la Casa Blanca durante la presidencia de Ronald Reagan, a causa del escándalo Irangate.</desc>
@@ -641,9 +642,8 @@
   </programme>
   <programme start="20261124100500 -0400" stop="20261124110300 -0400" air_time_start="20261124100500 -0400" air_time_end="20261124110300 -0400" start_utc="20261124140500 +0000" stop_utc="20261124150300 +0000" air_time_start_utc="20261124140500 +0000" air_time_end_utc="20261124150300 +0000" is_live="false" channel="HBO_BCO.co">
     <title lang="es">War</title>
-    <sub-title lang="es">Episodio 8</sub-title>
-    <sub-title lang="en">War 01 eps 08</sub-title>
-    <desc lang="es">Dos de los bufetes de abogados más poderosos de Londres se enfrentan explosivas batallas legales.</desc>
+    <sub-title lang="es">War 01 eps 08</sub-title>
+    <desc lang="es">After a shocking revelation, Carla takes the stand, and Johnny makes a last-ditch effort to save the case...and his career.</desc>
     <category lang="es">Drama</category>
     <category lang="es">Suspenso</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
@@ -651,19 +651,17 @@
   </programme>
   <programme start="20261124100700 -0600" stop="20261124110600 -0600" air_time_start="20261124100700 -0600" air_time_end="20261124110600 -0600" start_utc="20261124160700 +0000" stop_utc="20261124170600 +0000" air_time_start_utc="20261124160700 +0000" air_time_end_utc="20261124170600 +0000" is_live="false" channel="HBO_BMO.mx">
     <title lang="es">Guerra</title>
-    <sub-title lang="es">Episodio 8</sub-title>
-    <sub-title lang="en">War 01 eps 08</sub-title>
-    <desc lang="es">Dos de los bufetes de abogados más poderosos de Londres se enfrentan explosivas batallas legales.</desc>
+    <sub-title lang="es">War 01 eps 08</sub-title>
+    <desc lang="es">After a shocking revelation, Carla takes the stand, and Johnny makes a last-ditch effort to save the case...and his career.</desc>
     <category lang="es">Drama</category>
     <category lang="es">Suspenso</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/kJCbi3Jlp7kTQai6DALMXlKuu2H.jpg" />
   </programme>
-  <programme start="20261124101600 -0300" stop="20261124111500 -0300" air_time_start="20261124101600 -0300" air_time_end="20261124111500 -0300" start_utc="20261124151600 +0000" stop_utc="20261124161500 +0000" air_time_start_utc="20261124151600 +0000" air_time_end_utc="20261124161500 +0000" is_live="false" channel="HBO_PAO.co">
+  <programme start="20261124101600 -0300" stop="20261124111500 -0300" air_time_start="20261124101600 -0300" air_time_end="20261124111500 -0300" start_utc="20261124131600 +0000" stop_utc="20261124141500 +0000" air_time_start_utc="20261124131600 +0000" air_time_end_utc="20261124141500 +0000" is_live="false" channel="HBO_PAO.co">
     <title lang="es">Guerra</title>
-    <sub-title lang="es">Episodio 8</sub-title>
-    <sub-title lang="en">Partners</sub-title>
-    <desc lang="es">Dos de los bufetes de abogados más poderosos de Londres se enfrentan explosivas batallas legales.</desc>
+    <sub-title lang="es">Partners</sub-title>
+    <desc lang="es">After a shocking revelation, Carla takes the stand, and Johnny makes a last-ditch effort to save the case...and his career.</desc>
     <category lang="es">Drama</category>
     <category lang="es">Suspenso</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
@@ -689,7 +687,7 @@
     <category lang="es">Fantasía</category>
     <category lang="es">Terror</category>
   </programme>
-  <programme start="20261124111500 -0300" stop="20261124133500 -0300" air_time_start="20261124111500 -0300" air_time_end="20261124133500 -0300" start_utc="20261124161500 +0000" stop_utc="20261124183500 +0000" air_time_start_utc="20261124161500 +0000" air_time_end_utc="20261124183500 +0000" is_live="false" channel="HBO_PAO.co">
+  <programme start="20261124111500 -0300" stop="20261124133500 -0300" air_time_start="20261124111500 -0300" air_time_end="20261124133500 -0300" start_utc="20261124141500 +0000" stop_utc="20261124163500 +0000" air_time_start_utc="20261124141500 +0000" air_time_end_utc="20261124163500 +0000" is_live="false" channel="HBO_PAO.co">
     <title lang="es">Hacker: Amenaza en la Red</title>
     <sub-title lang="es">Blackhat</sub-title>
     <desc lang="es">Un hacker (Chris Hemsworth, Thor) condenado a prisión por un programa que diseñó cuando era adolescente, debe cooperar con el FBI (Viola Davis, Escuadrón suicida) y con el gobierno de China (Wei Tang, Crimen y lujuria) para detener un ciberataque terrorista que amenaza una base nuclear.</desc>
@@ -738,7 +736,7 @@
     <category lang="es">Fantasía</category>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20261124133500 -0300" stop="20261124152000 -0300" air_time_start="20261124133500 -0300" air_time_end="20261124152000 -0300" start_utc="20261124183500 +0000" stop_utc="20261124202000 +0000" air_time_start_utc="20261124183500 +0000" air_time_end_utc="20261124202000 +0000" is_live="false" channel="HBO_PAO.co">
+  <programme start="20261124133500 -0300" stop="20261124152000 -0300" air_time_start="20261124133500 -0300" air_time_end="20261124152000 -0300" start_utc="20261124163500 +0000" stop_utc="20261124182000 +0000" air_time_start_utc="20261124163500 +0000" air_time_end_utc="20261124182000 +0000" is_live="false" channel="HBO_PAO.co">
     <title lang="es">El Final de la Calle Oak</title>
     <sub-title lang="es">The End of Oak Street</sub-title>
     <desc lang="es">Tras un misterioso suceso cósmico que arranca Oak Street de sus suburbios y transporta su vecindario a un lugar desconocido, la familia Platt pronto se adaptarán a un entorno ahora irreconocible.</desc>
@@ -776,7 +774,7 @@
     <category lang="es">Familiar</category>
     <category lang="es">Fantasía</category>
   </programme>
-  <programme start="20261124152000 -0300" stop="20261124165500 -0300" air_time_start="20261124152000 -0300" air_time_end="20261124165500 -0300" start_utc="20261124202000 +0000" stop_utc="20261124215500 +0000" air_time_start_utc="20261124202000 +0000" air_time_end_utc="20261124215500 +0000" is_live="false" channel="HBO_PAO.co">
+  <programme start="20261124152000 -0300" stop="20261124165500 -0300" air_time_start="20261124152000 -0300" air_time_end="20261124165500 -0300" start_utc="20261124182000 +0000" stop_utc="20261124195500 +0000" air_time_start_utc="20261124182000 +0000" air_time_end_utc="20261124195500 +0000" is_live="false" channel="HBO_PAO.co">
     <title lang="es">El Pez Pucheros</title>
     <sub-title lang="es">The Pout-Pout Fish</sub-title>
     <desc lang="es">Cuando se produce una catástrofe, el huraño y susceptible Pez Pucheros y su hiperactivo compañero, el dragón marino Pip, deben embarcarse en una aventura en busca de un pez mítico que les conceda el deseo de salvar sus hogares.</desc>
@@ -798,7 +796,7 @@
     <category lang="es">Suspenso</category>
     <category lang="es">Terror</category>
   </programme>
-  <programme start="20261124165500 -0300" stop="20261124193700 -0300" air_time_start="20261124165500 -0300" air_time_end="20261124193700 -0300" start_utc="20261124215500 +0000" stop_utc="20261125003700 +0000" air_time_start_utc="20261124215500 +0000" air_time_end_utc="20261125003700 +0000" is_live="false" channel="HBO_PAO.co">
+  <programme start="20261124165500 -0300" stop="20261124193700 -0300" air_time_start="20261124165500 -0300" air_time_end="20261124193700 -0300" start_utc="20261124195500 +0000" stop_utc="20261124223700 +0000" air_time_start_utc="20261124195500 +0000" air_time_end_utc="20261124223700 +0000" is_live="false" channel="HBO_PAO.co">
     <title lang="es">Harry Potter y el Cáliz de Fuego</title>
     <sub-title lang="es">Harry Potter and the Goblet of Fire</sub-title>
     <desc lang="es">Harry Potter regresa a Hogwarts por cuarto año consecutivo, y el Torneo de los Tres Magos, una competencia entre tres famosas escuelas de magia, está a punto de comenzar. El candidato de cada escuela es elegido por el cáliz de fuego, y todo el mundo se sorprende cuando Harry, quien es aun muy joven para participar, es incluido entre los competidores. El joven mago deberá enfrentarse al peligro para superar los numerosos desafíos que pondrán en riesgo su vida, mientras su lucha contra el lado oscuro continúa, tras la reaparición de Lord Voldemort.</desc>
@@ -845,7 +843,7 @@
     <category lang="pt">Família</category>
     <category lang="pt">Fantasia</category>
   </programme>
-  <programme start="20261124193700 -0300" stop="20261124212000 -0300" air_time_start="20261124193700 -0300" air_time_end="20261124212000 -0300" start_utc="20261125003700 +0000" stop_utc="20261125022000 +0000" air_time_start_utc="20261125003700 +0000" air_time_end_utc="20261125022000 +0000" is_live="false" channel="HBO_PAO.co">
+  <programme start="20261124193700 -0300" stop="20261124212000 -0300" air_time_start="20261124193700 -0300" air_time_end="20261124212000 -0300" start_utc="20261124223700 +0000" stop_utc="20261125002000 +0000" air_time_start_utc="20261124223700 +0000" air_time_end_utc="20261125002000 +0000" is_live="false" channel="HBO_PAO.co">
     <title lang="es">Compañera Perfecta</title>
     <desc lang="es">La muerte de un multimillonario desencadena una cadena de acontecimientos para Iris y sus amigos durante un viaje de fin de semana a su propiedad junto al lago.</desc>
     <category lang="es">Ciencia Ficción</category>
@@ -881,7 +879,7 @@
     <category lang="es">Fantasía</category>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20261124212000 -0300" stop="20261124220000 -0300" air_time_start="20261124212000 -0300" air_time_end="20261124220000 -0300" start_utc="20261125022000 +0000" stop_utc="20261125030000 +0000" air_time_start_utc="20261125022000 +0000" air_time_end_utc="20261125030000 +0000" is_live="false" channel="HBO_PAO.co">
+  <programme start="20261124212000 -0300" stop="20261124220000 -0300" air_time_start="20261124212000 -0300" air_time_end="20261124220000 -0300" start_utc="20261125002000 +0000" stop_utc="20261125010000 +0000" air_time_start_utc="20261125002000 +0000" air_time_end_utc="20261125010000 +0000" is_live="false" channel="HBO_PAO.co">
     <title lang="es">Al Otro Lado de la Línea de Ayuda</title>
     <sub-title lang="es">The Hotline</sub-title>
     <category lang="es">Documental</category>
@@ -892,7 +890,7 @@
     <category lang="pt">Documentário</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20261124220000 -0300" stop="20261124234400 -0300" air_time_start="20261124220000 -0300" air_time_end="20261124234400 -0300" start_utc="20261125030000 +0000" stop_utc="20261125044400 +0000" air_time_start_utc="20261125030000 +0000" air_time_end_utc="20261125044400 +0000" is_live="false" channel="HBO_PAO.co">
+  <programme start="20261124220000 -0300" stop="20261124234400 -0300" air_time_start="20261124220000 -0300" air_time_end="20261124234400 -0300" start_utc="20261125010000 +0000" stop_utc="20261125024400 +0000" air_time_start_utc="20261125010000 +0000" air_time_end_utc="20261125024400 +0000" is_live="false" channel="HBO_PAO.co">
     <title lang="es">El Final de la Calle Oak</title>
     <sub-title lang="es">The End of Oak Street</sub-title>
     <desc lang="es">Tras un misterioso suceso cósmico que arranca Oak Street de sus suburbios y transporta su vecindario a un lugar desconocido, la familia Platt pronto se adaptarán a un entorno ahora irreconocible.</desc>
@@ -935,7 +933,7 @@
     <category lang="es">Fantasía</category>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20261124234400 -0300" stop="20261125014300 -0300" air_time_start="20261124234400 -0300" air_time_end="20261125014300 -0300" start_utc="20261125044400 +0000" stop_utc="20261125064300 +0000" air_time_start_utc="20261125044400 +0000" air_time_end_utc="20261125064300 +0000" is_live="false" channel="HBO_PAO.co">
+  <programme start="20261124234400 -0300" stop="20261125014300 -0300" air_time_start="20261124234400 -0300" air_time_end="20261125014300 -0300" start_utc="20261125024400 +0000" stop_utc="20261125044300 +0000" air_time_start_utc="20261125024400 +0000" air_time_end_utc="20261125044300 +0000" is_live="false" channel="HBO_PAO.co">
     <title lang="es">Agente Fortune: El Gran Engaño</title>
     <sub-title lang="es">Operation Fortune: Ruse de Guerre</sub-title>
     <desc lang="es">El superespía Orson Fortune debe rastrear y detener la venta de una mortífera tecnología moderna que maneja el multimillonario corredor de armas Greg Simmonds. Para lograrlo, forma equipo con algunos de los mejores operativos del mundo y recluta a la mayor estrella de cine de Hollywood, Danny Francesco para que lo ayuden en su misión encubierta para salvar el mundo.</desc>
@@ -971,9 +969,8 @@
   </programme>
   <programme start="20261125004000 -0300" stop="20261125013500 -0300" air_time_start="20261125004000 -0300" air_time_end="20261125013500 -0300" start_utc="20261125034000 +0000" stop_utc="20261125043500 +0000" air_time_start_utc="20261125034000 +0000" air_time_end_utc="20261125043500 +0000" is_live="false" channel="HBO_CHO.cl">
     <title lang="es">Guerra</title>
-    <sub-title lang="es">Episodio 8</sub-title>
-    <sub-title lang="en">Partners</sub-title>
-    <desc lang="es">Dos de los bufetes de abogados más poderosos de Londres se enfrentan explosivas batallas legales.</desc>
+    <sub-title lang="es">Partners</sub-title>
+    <desc lang="es">After a shocking revelation, Carla takes the stand, and Johnny makes a last-ditch effort to save the case...and his career.</desc>
     <category lang="es">Drama</category>
     <category lang="es">Suspenso</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
@@ -985,7 +982,7 @@
     <desc lang="es">Alguien toca la puerta a las cuatro de la mañana. Solo es el comienzo de una gran pesadilla. Liv Tyler (saga El señor de los anillos) protagoniza Los extraños, un film terrorífico basado en hechos reales. Kristen McKay (Tyler) y su novio, James Hoyt (Scott Speedman, xXx 2, serie Felicity) deciden pasar un fin de semana en la casa de vacaciones  de la familia Hoyt, en las afueras de la ciudad. Pero una visita inesperada cambiará sus vidas para siempre: tres extraños, que tapan sus rostros con máscaras, los perturbarán sin respiro.  No te pierdas los alaridos escalofriantes de Liv Tyler perseguida por tres maniáticos que matan al azar y por placer.</desc>
     <category lang="es">Terror</category>
   </programme>
-  <programme start="20261125014300 -0300" stop="20261125034000 -0300" air_time_start="20261125014300 -0300" air_time_end="20261125034000 -0300" start_utc="20261125064300 +0000" stop_utc="20261125084000 +0000" air_time_start_utc="20261125064300 +0000" air_time_end_utc="20261125084000 +0000" is_live="false" channel="HBO_PAO.co">
+  <programme start="20261125014300 -0300" stop="20261125034000 -0300" air_time_start="20261125014300 -0300" air_time_end="20261125034000 -0300" start_utc="20261125044300 +0000" stop_utc="20261125064000 +0000" air_time_start_utc="20261125044300 +0000" air_time_end_utc="20261125064000 +0000" is_live="false" channel="HBO_PAO.co">
     <title lang="es">Godzilla vs. Kong</title>
     <desc lang="es">Kong y sus protectores se encuentran en un peligroso viaje en busca de su verdadero hogar cuando se cruzan en el camino de destrucción de un Godzilla enfurecido. Instigados por fuerzas desconocidas, el enfrentamiento entre estos dos míticos adversarios revela un misterio oculto en las profundidades del núcleo de la Tierra - y el destino del mundo pende de un hilo.</desc>
     <category lang="es">Acción</category>
@@ -1016,7 +1013,7 @@
     <category lang="es">Drama</category>
     <category lang="es">Western</category>
   </programme>
-  <programme start="20261125034000 -0300" stop="20261125060000 -0300" air_time_start="20261125034000 -0300" air_time_end="20261125060000 -0300" start_utc="20261125084000 +0000" stop_utc="20261125110000 +0000" air_time_start_utc="20261125084000 +0000" air_time_end_utc="20261125110000 +0000" is_live="false" channel="HBO_PAO.co">
+  <programme start="20261125034000 -0300" stop="20261125060000 -0300" air_time_start="20261125034000 -0300" air_time_end="20261125060000 -0300" start_utc="20261125064000 +0000" stop_utc="20261125090000 +0000" air_time_start_utc="20261125064000 +0000" air_time_end_utc="20261125090000 +0000" is_live="false" channel="HBO_PAO.co">
     <title lang="es">Mickey 17</title>
     <desc lang="es">Mickey Barnes se encuentra en la extraordinaria circunstancia de trabajar para un empleador que exige el compromiso máximo con el trabajo… morir, para ganarse la vida.</desc>
     <category lang="es">Ciencia Ficción</category>

@@ -6,56 +6,6 @@
   <channel id="TOONLA_BR.br">
     <display-name>Tooncast Brasil</display-name>
   </channel>
-  <programme start="20261120224900 -0300" stop="20261120230300 -0300" air_time_start="20261120224900 -0300" air_time_end="20261120230300 -0300" start_utc="20261121014900 +0000" stop_utc="20261121020300 +0000" air_time_start_utc="20261121014900 +0000" air_time_end_utc="20261121020300 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Escuadrón del tiempo</title>
-    <sub-title lang="es">EX MARKS THE SPOT</sub-title>
-    <desc lang="es">Escuadrón del Tiempo cuenta la historia de tres héroes muy distintos que viven en el futuro y viajan en el tiempo para asegurarse de que la historia ocurra tal cual la conocemos.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">-1.24.</episode-num>
-  </programme>
-  <programme start="20261120224900 -0300" stop="20261120230300 -0300" air_time_start="20261120224900 -0300" air_time_end="20261120230300 -0300" start_utc="20261121014900 +0000" stop_utc="20261121020300 +0000" air_time_start_utc="20261121014900 +0000" air_time_end_utc="20261121020300 +0000" is_live="false" channel="TOONLA_BR.br">
-    <title lang="pt">ESQUADRÃO DO TEMPO</title>
-    <sub-title lang="pt">EX MARKS THE SPOT</sub-title>
-    <desc lang="pt">A história da série se passa no ano de 100 milhões no futuro, em um satélite futuristico, nessa época foi criado um esquadrão para manter a história do jeito que a conhecemos hoje, convocando vários agentes especiais para essas missões, que estão divididos em vários grupos.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">-1.24.</episode-num>
-  </programme>
-  <programme start="20261120230300 -0300" stop="20261120231500 -0300" air_time_start="20261120230300 -0300" air_time_end="20261120231500 -0300" start_utc="20261121020300 +0000" stop_utc="20261121021500 +0000" air_time_start_utc="20261121020300 +0000" air_time_end_utc="20261121021500 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">LAS MARAVILLOSAS DESVENTURAS DE FLAPJACK</title>
-    <sub-title lang="es">Muñón es una rata inmunda</sub-title>
-    <sub-title lang="en">NO SYRUP FOR OLD FLAPJACKS</sub-title>
-    <desc lang="es">Flapjack come panqueques por primera vez, pero primero debe consquir jarabe de arce.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/rf2wBQxvPQfyqC8PFaVCsWaFPoR.jpg" />
-  </programme>
-  <programme start="20261120230300 -0300" stop="20261120231500 -0300" air_time_start="20261120230300 -0300" air_time_end="20261120231500 -0300" start_utc="20261121020300 +0000" stop_utc="20261121021500 +0000" air_time_start_utc="20261121020300 +0000" air_time_end_utc="20261121021500 +0000" is_live="false" channel="TOONLA_BR.br">
-    <sub-title lang="pt">NO SYRUP FOR OLD FLAPJACKS</sub-title>
-    <desc lang="pt">Bolha conta a Flapjack a origem se seu nome antes de ganhar suas primeiras panquecas especiais. Falange diz a Flapjack que ele não pode comer panquecas sem melado, logo eles vão até a Ilha Melado para resolver o problema.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-  </programme>
-  <programme start="20261120231500 -0300" stop="20261120232800 -0300" air_time_start="20261120231500 -0300" air_time_end="20261120232800 -0300" start_utc="20261121021500 +0000" stop_utc="20261121022800 +0000" air_time_start_utc="20261121021500 +0000" air_time_end_utc="20261121022800 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">LAS MARAVILLOSAS DESVENTURAS DE FLAPJACK</title>
-    <sub-title lang="es">No es gracioso</sub-title>
-    <sub-title lang="en">DEAR DIARY</sub-title>
-    <desc lang="es">Bubbie y el Capitán Nudillos leen el diario íntimo de Flapjack. Nunca más podrá volver a confiar en ellos y vive el resto de su vida como un ermitaño.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/ivHql37q6hGQyPhdFfeRMVFEFRo.jpg" />
-  </programme>
-  <programme start="20261120231500 -0300" stop="20261120232800 -0300" air_time_start="20261120231500 -0300" air_time_end="20261120232800 -0300" start_utc="20261121021500 +0000" stop_utc="20261121022800 +0000" air_time_start_utc="20261121021500 +0000" air_time_end_utc="20261121022800 +0000" is_live="false" channel="TOONLA_BR.br">
-    <sub-title lang="pt">DEAR DIARY</sub-title>
-    <desc lang="pt">Quando Falange e Bolha lêem o diário secreto de Flapjack, ele decide viver como um eremita numa ilha remota, para manter seus segredos a salvo.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-  </programme>
   <programme start="20261120232800 -0300" stop="20261120233800 -0300" air_time_start="20261120232800 -0300" air_time_end="20261120233800 -0300" start_utc="20261121022800 +0000" stop_utc="20261121023800 +0000" air_time_start_utc="20261121022800 +0000" air_time_end_utc="20261121023800 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">LOS PEQUEÑOS LOONEY TUNES</title>
     <sub-title lang="es">Episodio 25</sub-title>
@@ -6767,7 +6717,7 @@
   </programme>
   <programme start="20261124073500 -0300" stop="20261124074600 -0300" air_time_start="20261124073500 -0300" air_time_end="20261124074600 -0300" start_utc="20261124103500 +0000" stop_utc="20261124104600 +0000" air_time_start_utc="20261124103500 +0000" air_time_end_utc="20261124104600 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">EL CAMPAMENTO DE LAZLO</title>
-    <sub-title lang="es">La Danza De La Cierva</sub-title>
+    <sub-title lang="es">El Gran Queso</sub-title>
     <sub-title lang="en">BIG CHEESE</sub-title>
     <desc lang="es">Lumpus descubre que Raj tiene una hermosa horma de queso de la India y utiliza todos los recursos para ser él quien se coma el queso.</desc>
     <category lang="es">Animación</category>
@@ -6777,7 +6727,7 @@
   </programme>
   <programme start="20261124073500 -0300" stop="20261124074600 -0300" air_time_start="20261124073500 -0300" air_time_end="20261124074600 -0300" start_utc="20261124103500 +0000" stop_utc="20261124104600 +0000" air_time_start_utc="20261124103500 +0000" air_time_end_utc="20261124104600 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">O ACAMPAMENTO DE LAZLO</title>
-    <sub-title lang="pt">Episódio 13</sub-title>
+    <sub-title lang="pt">Episódio 25</sub-title>
     <sub-title lang="en">BIG CHEESE</sub-title>
     <desc lang="pt">Quando Lumpus descobre que Raj tem um cilindro de queijo precioso da Índia, ele passa por cima de tudo para tentar comer o queijo.</desc>
     <category lang="pt">Animação</category>
@@ -6861,8 +6811,7 @@
   </programme>
   <programme start="20261124083400 -0300" stop="20261124084600 -0300" air_time_start="20261124083400 -0300" air_time_end="20261124084600 -0300" start_utc="20261124113400 +0000" stop_utc="20261124114600 +0000" air_time_start_utc="20261124113400 +0000" air_time_end_utc="20261124114600 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">MI COMPAÑERO DE CLASE ES UN MONO</title>
-    <sub-title lang="es">Episodio 18</sub-title>
-    <sub-title lang="en">DOCU-TRAUMA</sub-title>
+    <sub-title lang="es">DOCU-TRAUMA</sub-title>
     <desc lang="es">Una realizadora de documentales sobre la naturaleza viene a la Escuela Secundaria Charles Darwin y centra su atención en Adam, creyendo que es alguna especie de extraño eslabón perdido.</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -6955,8 +6904,7 @@
   </programme>
   <programme start="20261124092000 -0300" stop="20261124092700 -0300" air_time_start="20261124092000 -0300" air_time_end="20261124092700 -0300" start_utc="20261124122000 +0000" stop_utc="20261124122700 +0000" air_time_start_utc="20261124122000 +0000" air_time_end_utc="20261124122700 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Hi Hi Puffy AmiYumi</title>
-    <sub-title lang="es">Episodio 6</sub-title>
-    <sub-title lang="en">MINI-PUFFS</sub-title>
+    <sub-title lang="es">MINI-PUFFS</sub-title>
     <desc lang="es">Kaz crea una nueva banda llamada Las Mini-Puffs, compuesta por un grupo de bebés que cantan extrañas versiones de los temas de las Puffy pero en estilo de canciones de cuna. ¿Podrán las chicas recuperar sus antiguas vidas o estarán condenadas a cambiar pañales para siempre?</desc>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
@@ -7002,7 +6950,8 @@
   </programme>
   <programme start="20261124093600 -0300" stop="20261124094700 -0300" air_time_start="20261124093600 -0300" air_time_end="20261124094700 -0300" start_utc="20261124123600 +0000" stop_utc="20261124124700 +0000" air_time_start_utc="20261124123600 +0000" air_time_end_utc="20261124124700 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">MIKE, LU E OG</title>
-    <sub-title lang="pt">Who's Got the Queeks</sub-title>
+    <sub-title lang="pt">Episódio 9</sub-title>
+    <sub-title lang="en">Who's Got the Queeks</sub-title>
     <desc lang="pt">Mike salva Queeks de alguns sequestradores.</desc>
     <category lang="pt">Animação</category>
     <category lang="pt">Aventura</category>
@@ -7106,15 +7055,6 @@
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.23.</episode-num>
   </programme>
-  <programme start="20261124101500 -0300" stop="20261124101600 -0300" air_time_start="20261124101500 -0300" air_time_end="20261124101600 -0300" start_utc="20261124131500 +0000" stop_utc="20261124131600 +0000" air_time_start_utc="20261124131500 +0000" air_time_end_utc="20261124131600 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">Amigos inse-baaa-rables</sub-title>
-    <sub-title lang="en">NEWS BROADCAST</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/cmX1fwcuzn66d5AmnyBNPmXvhEs.jpg" />
-  </programme>
   <programme start="20261124101500 -0300" stop="20261124101600 -0300" air_time_start="20261124101500 -0300" air_time_end="20261124101600 -0300" start_utc="20261124131500 +0000" stop_utc="20261124131600 +0000" air_time_start_utc="20261124131500 +0000" air_time_end_utc="20261124131600 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
     <sub-title lang="pt">COOKING THE WILLEMINA WAY</sub-title>
@@ -7122,14 +7062,19 @@
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.23.</episode-num>
   </programme>
+  <programme start="20261124101500 -0300" stop="20261124101600 -0300" air_time_start="20261124101500 -0300" air_time_end="20261124101600 -0300" start_utc="20261124131500 +0000" stop_utc="20261124131600 +0000" air_time_start_utc="20261124131500 +0000" air_time_end_utc="20261124131600 +0000" is_live="false" channel="TOONLA_PAN.co">
+    <title lang="es">Sheep en la gran ciudad</title>
+    <sub-title lang="es">COOKING THE WILLEMINA WAY</sub-title>
+    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+  </programme>
   <programme start="20261124101500 -0300" stop="20261124101600 -0300" air_time_start="20261124101500 -0300" air_time_end="20261124101600 -0300" start_utc="20261124131500 +0000" stop_utc="20261124131600 +0000" air_time_start_utc="20261124131500 +0000" air_time_end_utc="20261124131600 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">Episódio 8</sub-title>
-    <sub-title lang="en">NEWS BROADCAST</sub-title>
+    <sub-title lang="pt">COOKING THE WILLEMINA WAY</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/cmX1fwcuzn66d5AmnyBNPmXvhEs.jpg" />
+    <episode-num system="xmltv_ns">0.23.</episode-num>
   </programme>
   <programme start="20261124101600 -0300" stop="20261124102100 -0300" air_time_start="20261124101600 -0300" air_time_end="20261124102100 -0300" start_utc="20261124131600 +0000" stop_utc="20261124132100 +0000" air_time_start_utc="20261124131600 +0000" air_time_end_utc="20261124132100 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>

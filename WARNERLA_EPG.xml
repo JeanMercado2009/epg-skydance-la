@@ -21,20 +21,7 @@
   <channel id="WARNER_MX.mx">
     <display-name>Warner Channel México</display-name>
   </channel>
-  <programme start="20261120181900 -0600" stop="20261120200300 -0600" air_time_start="20261120181900 -0600" air_time_end="20261120200300 -0600" start_utc="20261121001900 +0000" stop_utc="20261121020300 +0000" air_time_start_utc="20261121001900 +0000" air_time_end_utc="20261121020300 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">Jack y Jill</title>
-    <sub-title lang="es">Jack and Jill</sub-title>
-    <desc lang="es">Jack (Adam Sandler) es un padre de familia que tiene que afrontar un arduo problema: la llegada por Navidad de su odiada hermana Jill. Por si fuera poco, lo que, en principio, iba a ser una visita de pocos días, se alarga más de lo previsto, lo que obliga a Jack y Jill a intentar limar asperezas.</desc>
-    <category lang="es">Comedia</category>
-  </programme>
   <programme start="20261120195300 -0500" stop="20261120220000 -0500" air_time_start="20261120195300 -0500" air_time_end="20261120220000 -0500" start_utc="20261121005300 +0000" stop_utc="20261121030000 +0000" air_time_start_utc="20261121005300 +0000" air_time_end_utc="20261121030000 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">Son Como Niños</title>
-    <sub-title lang="es">Grown Ups</sub-title>
-    <desc lang="es">Después de muchos años, su antiguo entrenador de basquet muere y cincos amigos deciden pasar un fin de semanas -ahora con sus respectivas familias- en la casa donde celebraron, antaño, el campeonato.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familiar</category>
-  </programme>
-  <programme start="20261120200000 -0400" stop="20261120220100 -0400" air_time_start="20261120200000 -0400" air_time_end="20261120220100 -0400" start_utc="20261121000000 +0000" stop_utc="20261121020100 +0000" air_time_start_utc="20261121000000 +0000" air_time_end_utc="20261121020100 +0000" is_live="false" channel="WARNER_VE.ve">
     <title lang="es">Son Como Niños</title>
     <sub-title lang="es">Grown Ups</sub-title>
     <desc lang="es">Después de muchos años, su antiguo entrenador de basquet muere y cincos amigos deciden pasar un fin de semanas -ahora con sus respectivas familias- en la casa donde celebraron, antaño, el campeonato.</desc>
@@ -49,13 +36,6 @@
     <category lang="es">Familiar</category>
   </programme>
   <programme start="20261120200300 -0600" stop="20261120220000 -0600" air_time_start="20261120200300 -0600" air_time_end="20261120220000 -0600" start_utc="20261121020300 +0000" stop_utc="20261121040000 +0000" air_time_start_utc="20261121020300 +0000" air_time_end_utc="20261121040000 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">Son Como Niños</title>
-    <sub-title lang="es">Grown Ups</sub-title>
-    <desc lang="es">Después de muchos años, su antiguo entrenador de basquet muere y cincos amigos deciden pasar un fin de semanas -ahora con sus respectivas familias- en la casa donde celebraron, antaño, el campeonato.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familiar</category>
-  </programme>
-  <programme start="20261120200400 -0400" stop="20261120220000 -0400" air_time_start="20261120200400 -0400" air_time_end="20261120220000 -0400" start_utc="20261121000400 +0000" stop_utc="20261121020000 +0000" air_time_start_utc="20261121000400 +0000" air_time_end_utc="20261121020000 +0000" is_live="false" channel="WARNER_CL.cl">
     <title lang="es">Son Como Niños</title>
     <sub-title lang="es">Grown Ups</sub-title>
     <desc lang="es">Después de muchos años, su antiguo entrenador de basquet muere y cincos amigos deciden pasar un fin de semanas -ahora con sus respectivas familias- en la casa donde celebraron, antaño, el campeonato.</desc>
@@ -6172,7 +6152,7 @@
   </programme>
   <programme start="20261124072100 -0300" stop="20261124074400 -0300" air_time_start="20261124072100 -0300" air_time_end="20261124074400 -0300" start_utc="20261124102100 +0000" stop_utc="20261124104400 +0000" air_time_start_utc="20261124102100 +0000" air_time_end_utc="20261124104400 +0000" is_live="false" channel="WARNER_AR.ar">
     <title lang="es">SEARCH PARTY</title>
-    <sub-title lang="es">Episodio 5</sub-title>
+    <sub-title lang="es">El misterio del talismán dorado</sub-title>
     <sub-title lang="en">THE MYSTERY OF THE GOLDEN CHARM</sub-title>
     <desc lang="es">La misteriosa desaparición en Manhattan de una chica lleva a su compañera de estudios, Dory (Alia Shawkat), a una obstinada búsqueda que comparte con su disfuncional grupo de amigos. Pistas sueltas parecen conducir a la familia y a la intimidad de la joven desaparecida, pero también a los negocios en la ciudad y hasta al propio exnovio de Dory, mientras la pesquisa detectivesca muta en una búsqueda generacional. Con preguntas existenciales, y a la vez, cínicas.</desc>
     <category lang="es">Comedia</category>
@@ -7807,7 +7787,7 @@
   </programme>
   <programme start="20261125052500 -0500" stop="20261125054800 -0500" air_time_start="20261125052500 -0500" air_time_end="20261125054800 -0500" start_utc="20261125102500 +0000" stop_utc="20261125104800 +0000" air_time_start_utc="20261125102500 +0000" air_time_end_utc="20261125104800 +0000" is_live="false" channel="WARNER_AN.co">
     <title lang="es">SEARCH PARTY</title>
-    <sub-title lang="es">Episodio 5</sub-title>
+    <sub-title lang="es">El misterio del talismán dorado</sub-title>
     <sub-title lang="en">THE MYSTERY OF THE GOLDEN CHARM</sub-title>
     <desc lang="es">La misteriosa desaparición en Manhattan de una chica lleva a su compañera de estudios, Dory (Alia Shawkat), a una obstinada búsqueda que comparte con su disfuncional grupo de amigos. Pistas sueltas parecen conducir a la familia y a la intimidad de la joven desaparecida, pero también a los negocios en la ciudad y hasta al propio exnovio de Dory, mientras la pesquisa detectivesca muta en una búsqueda generacional. Con preguntas existenciales, y a la vez, cínicas.</desc>
     <category lang="es">Comedia</category>
@@ -7824,7 +7804,7 @@
   </programme>
   <programme start="20261125053400 -0400" stop="20261125060000 -0400" air_time_start="20261125053400 -0400" air_time_end="20261125060000 -0400" start_utc="20261125093400 +0000" stop_utc="20261125100000 +0000" air_time_start_utc="20261125093400 +0000" air_time_end_utc="20261125100000 +0000" is_live="false" channel="WARNER_CL.cl">
     <title lang="es">SEARCH PARTY</title>
-    <sub-title lang="es">Episodio 5</sub-title>
+    <sub-title lang="es">El misterio del talismán dorado</sub-title>
     <sub-title lang="en">THE MYSTERY OF THE GOLDEN CHARM</sub-title>
     <desc lang="es">La misteriosa desaparición en Manhattan de una chica lleva a su compañera de estudios, Dory (Alia Shawkat), a una obstinada búsqueda que comparte con su disfuncional grupo de amigos. Pistas sueltas parecen conducir a la familia y a la intimidad de la joven desaparecida, pero también a los negocios en la ciudad y hasta al propio exnovio de Dory, mientras la pesquisa detectivesca muta en una búsqueda generacional. Con preguntas existenciales, y a la vez, cínicas.</desc>
     <category lang="es">Comedia</category>

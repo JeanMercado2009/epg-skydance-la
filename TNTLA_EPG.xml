@@ -18,13 +18,6 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
-  <programme start="20261120182400 -0400" stop="20261120220000 -0400" air_time_start="20261120182400 -0400" air_time_end="20261120220000 -0400" start_utc="20261120222400 +0000" stop_utc="20261121020000 +0000" air_time_start_utc="20261120222400 +0000" air_time_end_utc="20261121020000 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">TROYA</title>
-    <sub-title lang="es">TROY</sub-title>
-    <desc lang="es">Troya se convirtió en leyenda y los poemas homéricos se transformaron en historias que esta vez resurgen a través del cine. En la Grecia antigua, el amor prohibido entre el príncipe Paris y la bella Helena, esposa del rey Menelao, es la mecha de una guerra de odios que pondrá en peligro a toda una civilización. Mucho más que la excusa para la venganza, la unión de los amantes provocará la fuerza de las armas, con el único fin de destruir Troya. El director Wolfgang Petersen  desborda talento para redescubrir la guerra de Troya con todos sus matices.</desc>
-    <category lang="es">Drama</category>
-    <category lang="es">Épica</category>
-  </programme>
   <programme start="20261120184000 -0500" stop="20261120220000 -0500" air_time_start="20261120184000 -0500" air_time_end="20261120220000 -0500" start_utc="20261120234000 +0000" stop_utc="20261121030000 +0000" air_time_start_utc="20261120234000 +0000" air_time_end_utc="20261121030000 +0000" is_live="false" channel="TNT_CO.co">
     <title lang="es">TROYA</title>
     <sub-title lang="es">TROY</sub-title>
@@ -45,13 +38,6 @@
     <desc lang="es">Troya se convirtió en leyenda y los poemas homéricos se transformaron en historias que esta vez resurgen a través del cine. En la Grecia antigua, el amor prohibido entre el príncipe Paris y la bella Helena, esposa del rey Menelao, es la mecha de una guerra de odios que pondrá en peligro a toda una civilización. Mucho más que la excusa para la venganza, la unión de los amantes provocará la fuerza de las armas, con el único fin de destruir Troya. El director Wolfgang Petersen  desborda talento para redescubrir la guerra de Troya con todos sus matices.</desc>
     <category lang="es">Drama</category>
     <category lang="es">Épica</category>
-  </programme>
-  <programme start="20261120214100 -0300" stop="20261120232800 -0300" air_time_start="20261120214100 -0300" air_time_end="20261120232800 -0300" start_utc="20261121004100 +0000" stop_utc="20261121022800 +0000" air_time_start_utc="20261121004100 +0000" air_time_end_utc="20261121022800 +0000" is_live="false" channel="TNT_BR.br">
-    <sub-title lang="pt">Stories of Samba</sub-title>
-    <desc lang="pt">Inspirado em uma das músicas mais famosas do compositor e sambista brasileiro Adoniran Barbosa, o filme Saudosa Maloca apresenta um já velho Adoniran Barbosa (Paulo Miklos) narrando suas histórias de uma São Paulo que já não existe mais para Cicero (Sidney Santiago), um jovem garçom de um bar. Com falas e personagens eternizados nos sambas do compositor, ele relembra a vivência na maloca com seus amigos Mato Grosso (Gero Camilo) e Joca (Gustavo Machado), além da paixão deles por Iracema (Leilah Moreno). Com a ajuda do samba, o grupo de amigos sobrevive, mas tem suas vidas ameaçadas quando o bairro do Bixiga começa a passar por grandes transformações e a metrópole é lentamente engolida pelo "pogréssio".</desc>
-    <category lang="pt">Biografia</category>
-    <category lang="pt">Comédia</category>
-    <category lang="pt">Drama</category>
   </programme>
   <programme start="20261120220000 -0300" stop="20261121015500 -0300" air_time_start="20261120220000 -0300" air_time_end="20261121015500 -0300" start_utc="20261121010000 +0000" stop_utc="20261121045500 +0000" air_time_start_utc="20261121010000 +0000" air_time_end_utc="20261121045500 +0000" is_live="false" channel="TNT_AR.ar">
     <title lang="es">LOS40 Music Awards Santander 2026</title>
@@ -2571,7 +2557,6 @@
   </programme>
   <programme start="20261124060000 -0400" stop="20261124060900 -0400" air_time_start="20261124060000 -0400" air_time_end="20261124060900 -0400" start_utc="20261124100000 +0000" stop_utc="20261124100900 +0000" air_time_start_utc="20261124100000 +0000" air_time_end_utc="20261124100900 +0000" is_live="false" channel="TNT_CL.cl">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
     <category lang="es">Entrevistas</category>
     <category lang="es">Noticias De Entretenimiento</category>
     <episode-num system="xmltv_ns">.58.</episode-num>
@@ -2597,14 +2582,12 @@
   </programme>
   <programme start="20261124060900 -0400" stop="20261124061900 -0400" air_time_start="20261124060900 -0400" air_time_end="20261124061900 -0400" start_utc="20261124100900 +0000" stop_utc="20261124101900 +0000" air_time_start_utc="20261124100900 +0000" air_time_end_utc="20261124101900 +0000" is_live="false" channel="TNT_CL.cl">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
     <category lang="es">Entrevistas</category>
     <category lang="es">Noticias De Entretenimiento</category>
     <episode-num system="xmltv_ns">.59.</episode-num>
   </programme>
   <programme start="20261124061900 -0400" stop="20261124063500 -0400" air_time_start="20261124061900 -0400" air_time_end="20261124063500 -0400" start_utc="20261124101900 +0000" stop_utc="20261124103500 +0000" air_time_start_utc="20261124101900 +0000" air_time_end_utc="20261124103500 +0000" is_live="false" channel="TNT_CL.cl">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
     <category lang="es">Entrevistas</category>
     <category lang="es">Noticias De Entretenimiento</category>
     <episode-num system="xmltv_ns">.45.</episode-num>
@@ -2626,35 +2609,30 @@
   </programme>
   <programme start="20261124063700 -0300" stop="20261124064800 -0300" air_time_start="20261124063700 -0300" air_time_end="20261124064800 -0300" start_utc="20261124093700 +0000" stop_utc="20261124094800 +0000" air_time_start_utc="20261124093700 +0000" air_time_end_utc="20261124094800 +0000" is_live="false" channel="TNT_AR.ar">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
     <category lang="es">Entrevistas</category>
     <category lang="es">Noticias De Entretenimiento</category>
     <episode-num system="xmltv_ns">.50.</episode-num>
   </programme>
   <programme start="20261124064300 -0500" stop="20261124070100 -0500" air_time_start="20261124064300 -0500" air_time_end="20261124070100 -0500" start_utc="20261124114300 +0000" stop_utc="20261124120100 +0000" air_time_start_utc="20261124114300 +0000" air_time_end_utc="20261124120100 +0000" is_live="false" channel="TNT_PAN.co">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
     <category lang="es">Entrevistas</category>
     <category lang="es">Noticias De Entretenimiento</category>
     <episode-num system="xmltv_ns">.42.</episode-num>
   </programme>
   <programme start="20261124064800 -0300" stop="20261124065800 -0300" air_time_start="20261124064800 -0300" air_time_end="20261124065800 -0300" start_utc="20261124094800 +0000" stop_utc="20261124095800 +0000" air_time_start_utc="20261124094800 +0000" air_time_end_utc="20261124095800 +0000" is_live="false" channel="TNT_AR.ar">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
     <category lang="es">Entrevistas</category>
     <category lang="es">Noticias De Entretenimiento</category>
     <episode-num system="xmltv_ns">.53.</episode-num>
   </programme>
   <programme start="20261124065800 -0300" stop="20261124070900 -0300" air_time_start="20261124065800 -0300" air_time_end="20261124070900 -0300" start_utc="20261124095800 +0000" stop_utc="20261124100900 +0000" air_time_start_utc="20261124095800 +0000" air_time_end_utc="20261124100900 +0000" is_live="false" channel="TNT_AR.ar">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
     <category lang="es">Entrevistas</category>
     <category lang="es">Noticias De Entretenimiento</category>
     <episode-num system="xmltv_ns">.47.</episode-num>
   </programme>
   <programme start="20261124070100 -0500" stop="20261124071100 -0500" air_time_start="20261124070100 -0500" air_time_end="20261124071100 -0500" start_utc="20261124120100 +0000" stop_utc="20261124121100 +0000" air_time_start_utc="20261124120100 +0000" air_time_end_utc="20261124121100 +0000" is_live="false" channel="TNT_PAN.co">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
     <category lang="es">Entrevistas</category>
     <category lang="es">Noticias De Entretenimiento</category>
     <episode-num system="xmltv_ns">.49.</episode-num>
@@ -2748,7 +2726,7 @@
   </programme>
   <programme start="20261124103000 -0600" stop="20261124114600 -0600" air_time_start="20261124103000 -0600" air_time_end="20261124114600 -0600" start_utc="20261124163000 +0000" stop_utc="20261124174600 +0000" air_time_start_utc="20261124163000 +0000" air_time_end_utc="20261124174600 +0000" is_live="false" channel="TNT_MX.mx">
     <title lang="es">UEFA CHAMPIONS LEAGUE</title>
-    <sub-title lang="es">Episodio 1</sub-title>
+    <desc lang="es">Summary and highlights</desc>
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
@@ -2786,7 +2764,7 @@
   </programme>
   <programme start="20261124113700 -0300" stop="20261124120000 -0300" air_time_start="20261124113700 -0300" air_time_end="20261124120000 -0300" start_utc="20261124143700 +0000" stop_utc="20261124150000 +0000" air_time_start_utc="20261124143700 +0000" air_time_end_utc="20261124150000 +0000" is_live="false" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">Todo Mundo Odeia Tattaglia</sub-title>
+    <sub-title lang="pt">Todo Mundo Odeia o Natal</sub-title>
     <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <category lang="pt">Comédia</category>
@@ -2807,7 +2785,7 @@
   </programme>
   <programme start="20261124120000 -0300" stop="20261124122200 -0300" air_time_start="20261124120000 -0300" air_time_end="20261124122200 -0300" start_utc="20261124150000 +0000" stop_utc="20261124152200 +0000" air_time_start_utc="20261124150000 +0000" air_time_end_utc="20261124152200 +0000" is_live="false" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">Todo Mundo Odeia Bolo</sub-title>
+    <sub-title lang="pt">Todo Mundo Odeia o Natal</sub-title>
     <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <category lang="pt">Comédia</category>
@@ -2816,7 +2794,7 @@
   </programme>
   <programme start="20261124122200 -0300" stop="20261124124500 -0300" air_time_start="20261124122200 -0300" air_time_end="20261124124500 -0300" start_utc="20261124152200 +0000" stop_utc="20261124154500 +0000" air_time_start_utc="20261124152200 +0000" air_time_end_utc="20261124154500 +0000" is_live="false" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">Todo Mundo Odeia Baile de Boas Vindas</sub-title>
+    <sub-title lang="pt">Todo Mundo Odeia o Natal</sub-title>
     <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <category lang="pt">Comédia</category>
@@ -2825,7 +2803,7 @@
   </programme>
   <programme start="20261124124500 -0300" stop="20261124130600 -0300" air_time_start="20261124124500 -0300" air_time_end="20261124130600 -0300" start_utc="20261124154500 +0000" stop_utc="20261124160600 +0000" air_time_start_utc="20261124154500 +0000" air_time_end_utc="20261124160600 +0000" is_live="false" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">Todo Mundo Odeia a Professora de Literatura</sub-title>
+    <sub-title lang="pt">Todo Mundo Odeia o Natal</sub-title>
     <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <category lang="pt">Comédia</category>
@@ -2834,7 +2812,7 @@
   </programme>
   <programme start="20261124130600 -0300" stop="20261124133000 -0300" air_time_start="20261124130600 -0300" air_time_end="20261124133000 -0300" start_utc="20261124160600 +0000" stop_utc="20261124163000 +0000" air_time_start_utc="20261124160600 +0000" air_time_end_utc="20261124163000 +0000" is_live="false" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">Todo Mundo Odeia o Meu Brother</sub-title>
+    <sub-title lang="pt">Todo Mundo Odeia o Natal</sub-title>
     <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <category lang="pt">Comédia</category>
@@ -2958,7 +2936,6 @@
   </programme>
   <programme start="20261124190200 -0400" stop="20261124205200 -0400" air_time_start="20261124190200 -0400" air_time_end="20261124205200 -0400" start_utc="20261124230200 +0000" stop_utc="20261125005200 +0000" air_time_start_utc="20261124230200 +0000" air_time_end_utc="20261125005200 +0000" is_live="false" channel="TNT_CL.cl">
     <title lang="es">MASTERCHEF CHILE</title>
-    <sub-title lang="es">Episodio 36</sub-title>
     <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
     <category lang="es">Entretenimiento</category>
     <episode-num system="xmltv_ns">4.35.</episode-num>
@@ -3032,7 +3009,7 @@
   </programme>
   <programme start="20261124232700 -0300" stop="20261124235000 -0300" air_time_start="20261124232700 -0300" air_time_end="20261124235000 -0300" start_utc="20261125022700 +0000" stop_utc="20261125025000 +0000" air_time_start_utc="20261125022700 +0000" air_time_end_utc="20261125025000 +0000" is_live="false" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">Todo Mundo Odeia Bolo</sub-title>
+    <sub-title lang="pt">Todo Mundo Odeia o Natal</sub-title>
     <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <category lang="pt">Comédia</category>
@@ -3041,7 +3018,7 @@
   </programme>
   <programme start="20261124235000 -0300" stop="20261125001400 -0300" air_time_start="20261124235000 -0300" air_time_end="20261125001400 -0300" start_utc="20261125025000 +0000" stop_utc="20261125031400 +0000" air_time_start_utc="20261125025000 +0000" air_time_end_utc="20261125031400 +0000" is_live="false" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">Todo Mundo Odeia Tattaglia</sub-title>
+    <sub-title lang="pt">Todo Mundo Odeia o Natal</sub-title>
     <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <category lang="pt">Comédia</category>
@@ -3058,7 +3035,7 @@
   </programme>
   <programme start="20261125001400 -0300" stop="20261125003500 -0300" air_time_start="20261125001400 -0300" air_time_end="20261125003500 -0300" start_utc="20261125031400 +0000" stop_utc="20261125033500 +0000" air_time_start_utc="20261125031400 +0000" air_time_end_utc="20261125033500 +0000" is_live="false" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">Todo Mundo Odeia o Meu Brother</sub-title>
+    <sub-title lang="pt">Todo Mundo Odeia o Natal</sub-title>
     <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <category lang="pt">Comédia</category>
@@ -3074,7 +3051,7 @@
   </programme>
   <programme start="20261125003500 -0300" stop="20261125005800 -0300" air_time_start="20261125003500 -0300" air_time_end="20261125005800 -0300" start_utc="20261125033500 +0000" stop_utc="20261125035800 +0000" air_time_start_utc="20261125033500 +0000" air_time_end_utc="20261125035800 +0000" is_live="false" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">Todo Mundo Odeia a Professora de Literatura</sub-title>
+    <sub-title lang="pt">Todo Mundo Odeia o Natal</sub-title>
     <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <category lang="pt">Comédia</category>
@@ -3108,7 +3085,7 @@
   </programme>
   <programme start="20261125011900 -0300" stop="20261125014200 -0300" air_time_start="20261125011900 -0300" air_time_end="20261125014200 -0300" start_utc="20261125041900 +0000" stop_utc="20261125044200 +0000" air_time_start_utc="20261125041900 +0000" air_time_end_utc="20261125044200 +0000" is_live="false" channel="TNT_BR.br">
     <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">Todo Mundo Odeia Baile de Boas Vindas</sub-title>
+    <sub-title lang="pt">Todo Mundo Odeia o Natal</sub-title>
     <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
     <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
     <category lang="pt">Comédia</category>
@@ -3213,7 +3190,6 @@
   </programme>
   <programme start="20261125050500 -0300" stop="20261125051300 -0300" air_time_start="20261125050500 -0300" air_time_end="20261125051300 -0300" start_utc="20261125080500 +0000" stop_utc="20261125081300 +0000" air_time_start_utc="20261125080500 +0000" air_time_end_utc="20261125081300 +0000" is_live="false" channel="TNT_BR.br">
     <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="pt">Algumas das maiores estrelas de Hollywood revelam suas jornadas até papéis principais revolucionários. Em entrevistas francas, lançam luz sobre os altos e baixos de sua arte, momentos decisivos, fórmulas para o sucesso e o enorme potencial da próxima geração.</desc>
     <category lang="pt">Talk Show</category>
     <category lang="pt">Notícias De Entretenimento</category>
     <episode-num system="xmltv_ns">.47.</episode-num>
@@ -3226,7 +3202,6 @@
   </programme>
   <programme start="20261125051300 -0300" stop="20261125052200 -0300" air_time_start="20261125051300 -0300" air_time_end="20261125052200 -0300" start_utc="20261125081300 +0000" stop_utc="20261125082200 +0000" air_time_start_utc="20261125081300 +0000" air_time_end_utc="20261125082200 +0000" is_live="false" channel="TNT_BR.br">
     <title lang="pt">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="pt">Algumas das maiores estrelas de Hollywood revelam suas jornadas até papéis principais revolucionários. Em entrevistas francas, lançam luz sobre os altos e baixos de sua arte, momentos decisivos, fórmulas para o sucesso e o enorme potencial da próxima geração.</desc>
     <category lang="pt">Talk Show</category>
     <category lang="pt">Notícias De Entretenimento</category>
     <episode-num system="xmltv_ns">.62.</episode-num>
@@ -3245,49 +3220,42 @@
   </programme>
   <programme start="20261125052700 -0500" stop="20261125054400 -0500" air_time_start="20261125052700 -0500" air_time_end="20261125054400 -0500" start_utc="20261125102700 +0000" stop_utc="20261125104400 +0000" air_time_start_utc="20261125102700 +0000" air_time_end_utc="20261125104400 +0000" is_live="false" channel="TNT_PAN.co">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
     <category lang="es">Entrevistas</category>
     <category lang="es">Noticias De Entretenimiento</category>
     <episode-num system="xmltv_ns">.51.</episode-num>
   </programme>
   <programme start="20261125053600 -0400" stop="20261125054900 -0400" air_time_start="20261125053600 -0400" air_time_end="20261125054900 -0400" start_utc="20261125093600 +0000" stop_utc="20261125094900 +0000" air_time_start_utc="20261125093600 +0000" air_time_end_utc="20261125094900 +0000" is_live="false" channel="TNT_CL.cl">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
     <category lang="es">Entrevistas</category>
     <category lang="es">Noticias De Entretenimiento</category>
     <episode-num system="xmltv_ns">.57.</episode-num>
   </programme>
   <programme start="20261125054100 -0600" stop="20261125055000 -0600" air_time_start="20261125054100 -0600" air_time_end="20261125055000 -0600" start_utc="20261125114100 +0000" stop_utc="20261125115000 +0000" air_time_start_utc="20261125114100 +0000" air_time_end_utc="20261125115000 +0000" is_live="false" channel="TNT_MX.mx">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
     <category lang="es">Entrevistas</category>
     <category lang="es">Noticias De Entretenimiento</category>
     <episode-num system="xmltv_ns">.44.</episode-num>
   </programme>
   <programme start="20261125054400 -0500" stop="20261125060000 -0500" air_time_start="20261125054400 -0500" air_time_end="20261125060000 -0500" start_utc="20261125104400 +0000" stop_utc="20261125110000 +0000" air_time_start_utc="20261125104400 +0000" air_time_end_utc="20261125110000 +0000" is_live="false" channel="TNT_PAN.co">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
     <category lang="es">Entrevistas</category>
     <category lang="es">Noticias De Entretenimiento</category>
     <episode-num system="xmltv_ns">.57.</episode-num>
   </programme>
   <programme start="20261125054600 -0500" stop="20261125060000 -0500" air_time_start="20261125054600 -0500" air_time_end="20261125060000 -0500" start_utc="20261125104600 +0000" stop_utc="20261125110000 +0000" air_time_start_utc="20261125104600 +0000" air_time_end_utc="20261125110000 +0000" is_live="false" channel="TNT_CO.co">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
     <category lang="es">Entrevistas</category>
     <category lang="es">Noticias De Entretenimiento</category>
     <episode-num system="xmltv_ns">.42.</episode-num>
   </programme>
   <programme start="20261125054900 -0400" stop="20261125060000 -0400" air_time_start="20261125054900 -0400" air_time_end="20261125060000 -0400" start_utc="20261125094900 +0000" stop_utc="20261125100000 +0000" air_time_start_utc="20261125094900 +0000" air_time_end_utc="20261125100000 +0000" is_live="false" channel="TNT_CL.cl">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
     <category lang="es">Entrevistas</category>
     <category lang="es">Noticias De Entretenimiento</category>
     <episode-num system="xmltv_ns">.58.</episode-num>
   </programme>
   <programme start="20261125055000 -0600" stop="20261125060000 -0600" air_time_start="20261125055000 -0600" air_time_end="20261125060000 -0600" start_utc="20261125115000 +0000" stop_utc="20261125120000 +0000" air_time_start_utc="20261125115000 +0000" air_time_end_utc="20261125120000 +0000" is_live="false" channel="TNT_MX.mx">
     <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
     <category lang="es">Entrevistas</category>
     <category lang="es">Noticias De Entretenimiento</category>
     <episode-num system="xmltv_ns">.47.</episode-num>
