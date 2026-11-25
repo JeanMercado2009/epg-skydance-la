@@ -21,192 +21,6 @@
   <channel id="WARNER_MX.mx">
     <display-name>Warner Channel México</display-name>
   </channel>
-  <programme start="20261121195000 -0600" stop="20261121220000 -0600" air_time_start="20261121195000 -0600" air_time_end="20261121220000 -0600" start_utc="20261122015000 +0000" stop_utc="20261122040000 +0000" air_time_start_utc="20261122015000 +0000" air_time_end_utc="20261122040000 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">Solo para Parejas</title>
-    <sub-title lang="es">Couples Retreat</sub-title>
-    <desc lang="es">Cuatro parejas van de vacaciones a una isla tropical y coinciden en el mismo resort. Mientras una de ellas aprovecha el retiro para tratar de resolver sus diferencias de pareja, las otras están para divertirse, tomar el sol, hacer esquí acuático o descansar en el spa. Pero pronto descubren que la asistencia a la terapia matrimonial no es opcional, sino obligatoria.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261121215900 -0400" stop="20261121235800 -0400" air_time_start="20261121215900 -0400" air_time_end="20261121235800 -0400" start_utc="20261122015900 +0000" stop_utc="20261122035800 +0000" air_time_start_utc="20261122015900 +0000" air_time_end_utc="20261122035800 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">Vacaciones</title>
-    <sub-title lang="es">Vacation</sub-title>
-    <desc lang="es">Rusty Griswold, ya todo un padre de familia, decide seguir los pasos de su padre para lograr un poco de unión familiar sorprendiendo a su esposa e hijos con un viaje en auto a través del país hacia el parque de diversiones Walley World. De más está decir que las cosas no salen como las había planeado.   Secuela de la comedia de 1983 es protagonizada</desc>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261121220000 -0400" stop="20261121235200 -0400" air_time_start="20261121220000 -0400" air_time_end="20261121235200 -0400" start_utc="20261122020000 +0000" stop_utc="20261122035200 +0000" air_time_start_utc="20261122020000 +0000" air_time_end_utc="20261122035200 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">Vacaciones</title>
-    <sub-title lang="es">Vacation</sub-title>
-    <desc lang="es">Rusty Griswold, ya todo un padre de familia, decide seguir los pasos de su padre para lograr un poco de unión familiar sorprendiendo a su esposa e hijos con un viaje en auto a través del país hacia el parque de diversiones Walley World. De más está decir que las cosas no salen como las había planeado.   Secuela de la comedia de 1983 es protagonizada</desc>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261121220000 -0500" stop="20261122000700 -0500" air_time_start="20261121220000 -0500" air_time_end="20261122000700 -0500" start_utc="20261122030000 +0000" stop_utc="20261122050700 +0000" air_time_start_utc="20261122030000 +0000" air_time_end_utc="20261122050700 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">Vacaciones</title>
-    <sub-title lang="es">Vacation</sub-title>
-    <desc lang="es">Rusty Griswold, ya todo un padre de familia, decide seguir los pasos de su padre para lograr un poco de unión familiar sorprendiendo a su esposa e hijos con un viaje en auto a través del país hacia el parque de diversiones Walley World. De más está decir que las cosas no salen como las había planeado.   Secuela de la comedia de 1983 es protagonizada</desc>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261121220000 -0500" stop="20261121235400 -0500" air_time_start="20261121220000 -0500" air_time_end="20261121235400 -0500" start_utc="20261122030000 +0000" stop_utc="20261122045400 +0000" air_time_start_utc="20261122030000 +0000" air_time_end_utc="20261122045400 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">Vacaciones</title>
-    <sub-title lang="es">Vacation</sub-title>
-    <desc lang="es">Rusty Griswold, ya todo un padre de familia, decide seguir los pasos de su padre para lograr un poco de unión familiar sorprendiendo a su esposa e hijos con un viaje en auto a través del país hacia el parque de diversiones Walley World. De más está decir que las cosas no salen como las había planeado.   Secuela de la comedia de 1983 es protagonizada</desc>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261121220000 -0600" stop="20261121235600 -0600" air_time_start="20261121220000 -0600" air_time_end="20261121235600 -0600" start_utc="20261122040000 +0000" stop_utc="20261122055600 +0000" air_time_start_utc="20261122040000 +0000" air_time_end_utc="20261122055600 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">Vacaciones</title>
-    <sub-title lang="es">Vacation</sub-title>
-    <desc lang="es">Rusty Griswold, ya todo un padre de familia, decide seguir los pasos de su padre para lograr un poco de unión familiar sorprendiendo a su esposa e hijos con un viaje en auto a través del país hacia el parque de diversiones Walley World. De más está decir que las cosas no salen como las había planeado.   Secuela de la comedia de 1983 es protagonizada</desc>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261121235200 -0400" stop="20261122021500 -0400" air_time_start="20261121235200 -0400" air_time_end="20261122021500 -0400" start_utc="20261122035200 +0000" stop_utc="20261122061500 +0000" air_time_start_utc="20261122035200 +0000" air_time_end_utc="20261122061500 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">Blue Beetle</title>
-    <desc lang="es">Un adolescente mexicano encuentra un escarabajo alienígena que le proporciona una armadura superpoderosa.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261121235400 -0500" stop="20261122021500 -0500" air_time_start="20261121235400 -0500" air_time_end="20261122021500 -0500" start_utc="20261122045400 +0000" stop_utc="20261122071500 +0000" air_time_start_utc="20261122045400 +0000" air_time_end_utc="20261122071500 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">Blue Beetle</title>
-    <desc lang="es">Un adolescente mexicano encuentra un escarabajo alienígena que le proporciona una armadura superpoderosa.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261121235600 -0600" stop="20261122022300 -0600" air_time_start="20261121235600 -0600" air_time_end="20261122022300 -0600" start_utc="20261122055600 +0000" stop_utc="20261122082300 +0000" air_time_start_utc="20261122055600 +0000" air_time_end_utc="20261122082300 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">Blue Beetle</title>
-    <desc lang="es">Un adolescente mexicano encuentra un escarabajo alienígena que le proporciona una armadura superpoderosa.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261121235800 -0300" stop="20261122022300 -0300" air_time_start="20261121235800 -0300" air_time_end="20261122022300 -0300" start_utc="20261122025800 +0000" stop_utc="20261122052300 +0000" air_time_start_utc="20261122025800 +0000" air_time_end_utc="20261122052300 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">Blue Beetle</title>
-    <desc lang="es">Un adolescente mexicano encuentra un escarabajo alienígena que le proporciona una armadura superpoderosa.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261121235800 -0400" stop="20261122021800 -0400" air_time_start="20261121235800 -0400" air_time_end="20261122021800 -0400" start_utc="20261122035800 +0000" stop_utc="20261122061800 +0000" air_time_start_utc="20261122035800 +0000" air_time_end_utc="20261122061800 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">Blue Beetle</title>
-    <desc lang="es">Un adolescente mexicano encuentra un escarabajo alienígena que le proporciona una armadura superpoderosa.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261122000700 -0500" stop="20261122023400 -0500" air_time_start="20261122000700 -0500" air_time_end="20261122023400 -0500" start_utc="20261122050700 +0000" stop_utc="20261122073400 +0000" air_time_start_utc="20261122050700 +0000" air_time_end_utc="20261122073400 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">Blue Beetle</title>
-    <desc lang="es">Un adolescente mexicano encuentra un escarabajo alienígena que le proporciona una armadura superpoderosa.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261122001400 -0300" stop="20261122023100 -0300" air_time_start="20261122001400 -0300" air_time_end="20261122023100 -0300" start_utc="20261122031400 +0000" stop_utc="20261122053100 +0000" air_time_start_utc="20261122031400 +0000" air_time_end_utc="20261122053100 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">Besouro Azul</title>
-    <sub-title lang="pt">Blue Beetle</sub-title>
-    <desc lang="pt">O destino de Jaime Reyes (Xolo Maridueña), um jovem mexicano recém-formado, muda para sempre quando um besouro alienígena o escolhe como hospedeiro simbiótico e forma um poderoso exoesqueleto e armadura reconfigurável ao redor de seu corpo. Agora, além de seus novos poderes, Jamie precisa aprender a aceitar seu novo destino como o novato super-herói Besouro Azul.</desc>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Ficção Científica</category>
-  </programme>
-  <programme start="20261122021500 -0400" stop="20261122023700 -0400" air_time_start="20261122021500 -0400" air_time_end="20261122023700 -0400" start_utc="20261122061500 +0000" stop_utc="20261122063700 +0000" air_time_start_utc="20261122061500 +0000" air_time_end_utc="20261122063700 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La reverberación de la celebración</sub-title>
-    <sub-title lang="en">THE CELEBRATION REVERBERATION</sub-title>
-    <desc lang="es">Sheldon y Wolowitz planean la celebración de los cumpleaños de Amy y Halley, repectivamente. Además, Leonard recibe una tarjeta navideña de su hermano, lo que lleva a una espiral descendente acerca de su propia falta de logros.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.10.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/pax2p8RTOa1cyOy8RdYBLLvBQcU.jpg" />
-  </programme>
-  <programme start="20261122021500 -0500" stop="20261122023500 -0500" air_time_start="20261122021500 -0500" air_time_end="20261122023500 -0500" start_utc="20261122071500 +0000" stop_utc="20261122073500 +0000" air_time_start_utc="20261122071500 +0000" air_time_end_utc="20261122073500 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La reverberación de la celebración</sub-title>
-    <sub-title lang="en">THE CELEBRATION REVERBERATION</sub-title>
-    <desc lang="es">Sheldon y Wolowitz planean la celebración de los cumpleaños de Amy y Halley, repectivamente. Además, Leonard recibe una tarjeta navideña de su hermano, lo que lleva a una espiral descendente acerca de su propia falta de logros.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.10.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/pax2p8RTOa1cyOy8RdYBLLvBQcU.jpg" />
-  </programme>
-  <programme start="20261122021800 -0400" stop="20261122024000 -0400" air_time_start="20261122021800 -0400" air_time_end="20261122024000 -0400" start_utc="20261122061800 +0000" stop_utc="20261122064000 +0000" air_time_start_utc="20261122061800 +0000" air_time_end_utc="20261122064000 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La reverberación de la celebración</sub-title>
-    <sub-title lang="en">THE CELEBRATION REVERBERATION</sub-title>
-    <desc lang="es">Sheldon y Wolowitz planean la celebración de los cumpleaños de Amy y Halley, repectivamente. Además, Leonard recibe una tarjeta navideña de su hermano, lo que lleva a una espiral descendente acerca de su propia falta de logros.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.10.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/pax2p8RTOa1cyOy8RdYBLLvBQcU.jpg" />
-  </programme>
-  <programme start="20261122022300 -0300" stop="20261122024400 -0300" air_time_start="20261122022300 -0300" air_time_end="20261122024400 -0300" start_utc="20261122052300 +0000" stop_utc="20261122054400 +0000" air_time_start_utc="20261122052300 +0000" air_time_end_utc="20261122054400 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La reverberación de la celebración</sub-title>
-    <sub-title lang="en">THE CELEBRATION REVERBERATION</sub-title>
-    <desc lang="es">Sheldon y Wolowitz planean la celebración de los cumpleaños de Amy y Halley, repectivamente. Además, Leonard recibe una tarjeta navideña de su hermano, lo que lleva a una espiral descendente acerca de su propia falta de logros.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.10.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/pax2p8RTOa1cyOy8RdYBLLvBQcU.jpg" />
-  </programme>
-  <programme start="20261122022300 -0600" stop="20261122024500 -0600" air_time_start="20261122022300 -0600" air_time_end="20261122024500 -0600" start_utc="20261122082300 +0000" stop_utc="20261122084500 +0000" air_time_start_utc="20261122082300 +0000" air_time_end_utc="20261122084500 +0000" is_live="false" channel="WARNER_MX.mx">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La reverberación de la celebración</sub-title>
-    <sub-title lang="en">THE CELEBRATION REVERBERATION</sub-title>
-    <desc lang="es">Sheldon y Wolowitz planean la celebración de los cumpleaños de Amy y Halley, repectivamente. Además, Leonard recibe una tarjeta navideña de su hermano, lo que lleva a una espiral descendente acerca de su propia falta de logros.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.10.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/pax2p8RTOa1cyOy8RdYBLLvBQcU.jpg" />
-  </programme>
-  <programme start="20261122023100 -0300" stop="20261122025200 -0300" air_time_start="20261122023100 -0300" air_time_end="20261122025200 -0300" start_utc="20261122053100 +0000" stop_utc="20261122055200 +0000" air_time_start_utc="20261122053100 +0000" air_time_end_utc="20261122055200 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">La reverberación de la celebración</sub-title>
-    <sub-title lang="en">THE CELEBRATION REVERBERATION</sub-title>
-    <desc lang="pt">Sheldon planeja um autêntico jantar ao estilo Os Pioneiros para o aniversário de Amy. Enquanto isso, Leonard lamenta suas poucas conquistas quando chega o Natal.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">10.10.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/pax2p8RTOa1cyOy8RdYBLLvBQcU.jpg" />
-  </programme>
-  <programme start="20261122023400 -0500" stop="20261122025500 -0500" air_time_start="20261122023400 -0500" air_time_end="20261122025500 -0500" start_utc="20261122073400 +0000" stop_utc="20261122075500 +0000" air_time_start_utc="20261122073400 +0000" air_time_end_utc="20261122075500 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La reverberación de la celebración</sub-title>
-    <sub-title lang="en">THE CELEBRATION REVERBERATION</sub-title>
-    <desc lang="es">Sheldon y Wolowitz planean la celebración de los cumpleaños de Amy y Halley, repectivamente. Además, Leonard recibe una tarjeta navideña de su hermano, lo que lleva a una espiral descendente acerca de su propia falta de logros.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.10.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/pax2p8RTOa1cyOy8RdYBLLvBQcU.jpg" />
-  </programme>
-  <programme start="20261122023500 -0500" stop="20261122025700 -0500" air_time_start="20261122023500 -0500" air_time_end="20261122025700 -0500" start_utc="20261122073500 +0000" stop_utc="20261122075700 +0000" air_time_start_utc="20261122073500 +0000" air_time_end_utc="20261122075700 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La métrica matrimonial</sub-title>
-    <sub-title lang="en">THE MATRIMONIAL METRIC</sub-title>
-    <desc lang="es">Para descubrir quién sería el más calificado para ser el padrino y la dama de honor en su boda, Sheldon y Amy someten a sus amigos a una serie de experimentos secretos. Además, Penny revela sus verdaderos sentimientos sobre Amy.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.11.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/Ak6A2V7tiXV5hU0UIRNupFUyThz.jpg" />
-  </programme>
-  <programme start="20261122023700 -0400" stop="20261122025900 -0400" air_time_start="20261122023700 -0400" air_time_end="20261122025900 -0400" start_utc="20261122063700 +0000" stop_utc="20261122065900 +0000" air_time_start_utc="20261122063700 +0000" air_time_end_utc="20261122065900 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La métrica matrimonial</sub-title>
-    <sub-title lang="en">THE MATRIMONIAL METRIC</sub-title>
-    <desc lang="es">Para descubrir quién sería el más calificado para ser el padrino y la dama de honor en su boda, Sheldon y Amy someten a sus amigos a una serie de experimentos secretos. Además, Penny revela sus verdaderos sentimientos sobre Amy.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.11.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/Ak6A2V7tiXV5hU0UIRNupFUyThz.jpg" />
-  </programme>
-  <programme start="20261122024000 -0400" stop="20261122030100 -0400" air_time_start="20261122024000 -0400" air_time_end="20261122030100 -0400" start_utc="20261122064000 +0000" stop_utc="20261122070100 +0000" air_time_start_utc="20261122064000 +0000" air_time_end_utc="20261122070100 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La métrica matrimonial</sub-title>
-    <sub-title lang="en">THE MATRIMONIAL METRIC</sub-title>
-    <desc lang="es">Para descubrir quién sería el más calificado para ser el padrino y la dama de honor en su boda, Sheldon y Amy someten a sus amigos a una serie de experimentos secretos. Además, Penny revela sus verdaderos sentimientos sobre Amy.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.11.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/Ak6A2V7tiXV5hU0UIRNupFUyThz.jpg" />
-  </programme>
-  <programme start="20261122024400 -0300" stop="20261122030500 -0300" air_time_start="20261122024400 -0300" air_time_end="20261122030500 -0300" start_utc="20261122054400 +0000" stop_utc="20261122060500 +0000" air_time_start_utc="20261122054400 +0000" air_time_end_utc="20261122060500 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La métrica matrimonial</sub-title>
-    <sub-title lang="en">THE MATRIMONIAL METRIC</sub-title>
-    <desc lang="es">Para descubrir quién sería el más calificado para ser el padrino y la dama de honor en su boda, Sheldon y Amy someten a sus amigos a una serie de experimentos secretos. Además, Penny revela sus verdaderos sentimientos sobre Amy.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.11.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/Ak6A2V7tiXV5hU0UIRNupFUyThz.jpg" />
-  </programme>
   <programme start="20261122024500 -0600" stop="20261122030700 -0600" air_time_start="20261122024500 -0600" air_time_end="20261122030700 -0600" start_utc="20261122084500 +0000" stop_utc="20261122090700 +0000" air_time_start_utc="20261122084500 +0000" air_time_end_utc="20261122090700 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">La métrica matrimonial</sub-title>
@@ -215,60 +29,6 @@
     <category lang="es">Comedia</category>
     <episode-num system="xmltv_ns">10.11.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/Ak6A2V7tiXV5hU0UIRNupFUyThz.jpg" />
-  </programme>
-  <programme start="20261122025200 -0300" stop="20261122031300 -0300" air_time_start="20261122025200 -0300" air_time_end="20261122031300 -0300" start_utc="20261122055200 +0000" stop_utc="20261122061300 +0000" air_time_start_utc="20261122055200 +0000" air_time_end_utc="20261122061300 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">La métrica matrimonial</sub-title>
-    <sub-title lang="en">THE MATRIMONIAL METRIC</sub-title>
-    <desc lang="pt">Sheldon e Amy envolvem seus amigos numa série de experimentos secretos para descobrir quem seriam os padrinhos mais qualificados em seu casamento.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">10.11.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/Ak6A2V7tiXV5hU0UIRNupFUyThz.jpg" />
-  </programme>
-  <programme start="20261122025500 -0500" stop="20261122031700 -0500" air_time_start="20261122025500 -0500" air_time_end="20261122031700 -0500" start_utc="20261122075500 +0000" stop_utc="20261122081700 +0000" air_time_start_utc="20261122075500 +0000" air_time_end_utc="20261122081700 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La métrica matrimonial</sub-title>
-    <sub-title lang="en">THE MATRIMONIAL METRIC</sub-title>
-    <desc lang="es">Para descubrir quién sería el más calificado para ser el padrino y la dama de honor en su boda, Sheldon y Amy someten a sus amigos a una serie de experimentos secretos. Además, Penny revela sus verdaderos sentimientos sobre Amy.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.11.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/Ak6A2V7tiXV5hU0UIRNupFUyThz.jpg" />
-  </programme>
-  <programme start="20261122025700 -0500" stop="20261122031800 -0500" air_time_start="20261122025700 -0500" air_time_end="20261122031800 -0500" start_utc="20261122075700 +0000" stop_utc="20261122081800 +0000" air_time_start_utc="20261122075700 +0000" air_time_end_utc="20261122081800 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La oscilación de la soledad</sub-title>
-    <sub-title lang="en">THE SOLO OSCILLATION</sub-title>
-    <desc lang="es">Luego que Sheldon echa a Amy para poder trabajar solo, ella y Leonard se unen para realizar una serie de experimentos científicos. Además, Bert, el geólogo, reemplaza a Wolowitz en la banda “Pisadas en la Luna”, y Sheldon encuentra en Penny una inesperada fuente de insipiración científica.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.12.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/twXUFhbnn9xuoBwzwHZzyi6qAtk.jpg" />
-  </programme>
-  <programme start="20261122025900 -0400" stop="20261122032200 -0400" air_time_start="20261122025900 -0400" air_time_end="20261122032200 -0400" start_utc="20261122065900 +0000" stop_utc="20261122072200 +0000" air_time_start_utc="20261122065900 +0000" air_time_end_utc="20261122072200 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La oscilación de la soledad</sub-title>
-    <sub-title lang="en">THE SOLO OSCILLATION</sub-title>
-    <desc lang="es">Luego que Sheldon echa a Amy para poder trabajar solo, ella y Leonard se unen para realizar una serie de experimentos científicos. Además, Bert, el geólogo, reemplaza a Wolowitz en la banda “Pisadas en la Luna”, y Sheldon encuentra en Penny una inesperada fuente de insipiración científica.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.12.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/twXUFhbnn9xuoBwzwHZzyi6qAtk.jpg" />
-  </programme>
-  <programme start="20261122030100 -0400" stop="20261122032400 -0400" air_time_start="20261122030100 -0400" air_time_end="20261122032400 -0400" start_utc="20261122070100 +0000" stop_utc="20261122072400 +0000" air_time_start_utc="20261122070100 +0000" air_time_end_utc="20261122072400 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La oscilación de la soledad</sub-title>
-    <sub-title lang="en">THE SOLO OSCILLATION</sub-title>
-    <desc lang="es">Luego que Sheldon echa a Amy para poder trabajar solo, ella y Leonard se unen para realizar una serie de experimentos científicos. Además, Bert, el geólogo, reemplaza a Wolowitz en la banda “Pisadas en la Luna”, y Sheldon encuentra en Penny una inesperada fuente de insipiración científica.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.12.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/twXUFhbnn9xuoBwzwHZzyi6qAtk.jpg" />
-  </programme>
-  <programme start="20261122030500 -0300" stop="20261122032800 -0300" air_time_start="20261122030500 -0300" air_time_end="20261122032800 -0300" start_utc="20261122060500 +0000" stop_utc="20261122062800 +0000" air_time_start_utc="20261122060500 +0000" air_time_end_utc="20261122062800 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La oscilación de la soledad</sub-title>
-    <sub-title lang="en">THE SOLO OSCILLATION</sub-title>
-    <desc lang="es">Luego que Sheldon echa a Amy para poder trabajar solo, ella y Leonard se unen para realizar una serie de experimentos científicos. Además, Bert, el geólogo, reemplaza a Wolowitz en la banda “Pisadas en la Luna”, y Sheldon encuentra en Penny una inesperada fuente de insipiración científica.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.12.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/twXUFhbnn9xuoBwzwHZzyi6qAtk.jpg" />
   </programme>
   <programme start="20261122030700 -0600" stop="20261122033000 -0600" air_time_start="20261122030700 -0600" air_time_end="20261122033000 -0600" start_utc="20261122090700 +0000" stop_utc="20261122093000 +0000" air_time_start_utc="20261122090700 +0000" air_time_end_utc="20261122093000 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
@@ -279,75 +39,12 @@
     <episode-num system="xmltv_ns">10.12.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/twXUFhbnn9xuoBwzwHZzyi6qAtk.jpg" />
   </programme>
-  <programme start="20261122031300 -0300" stop="20261122033500 -0300" air_time_start="20261122031300 -0300" air_time_end="20261122033500 -0300" start_utc="20261122061300 +0000" stop_utc="20261122063500 +0000" air_time_start_utc="20261122061300 +0000" air_time_end_utc="20261122063500 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">La oscilación de la soledad</sub-title>
-    <sub-title lang="en">THE SOLO OSCILLATION</sub-title>
-    <desc lang="pt">Enquanto Penny ajuda Sheldon a encontrar seu rumo na ciência, Bert, o geólogo, substitui Howard em sua banda, "Footprints on the Moon".</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">10.12.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/twXUFhbnn9xuoBwzwHZzyi6qAtk.jpg" />
-  </programme>
-  <programme start="20261122031700 -0500" stop="20261122034000 -0500" air_time_start="20261122031700 -0500" air_time_end="20261122034000 -0500" start_utc="20261122081700 +0000" stop_utc="20261122084000 +0000" air_time_start_utc="20261122081700 +0000" air_time_end_utc="20261122084000 +0000" is_live="false" channel="WARNER_CO.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La oscilación de la soledad</sub-title>
-    <sub-title lang="en">THE SOLO OSCILLATION</sub-title>
-    <desc lang="es">Luego que Sheldon echa a Amy para poder trabajar solo, ella y Leonard se unen para realizar una serie de experimentos científicos. Además, Bert, el geólogo, reemplaza a Wolowitz en la banda “Pisadas en la Luna”, y Sheldon encuentra en Penny una inesperada fuente de insipiración científica.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.12.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/twXUFhbnn9xuoBwzwHZzyi6qAtk.jpg" />
-  </programme>
-  <programme start="20261122031800 -0500" stop="20261122033800 -0500" air_time_start="20261122031800 -0500" air_time_end="20261122033800 -0500" start_utc="20261122081800 +0000" stop_utc="20261122083800 +0000" air_time_start_utc="20261122081800 +0000" air_time_end_utc="20261122083800 +0000" is_live="false" channel="WARNER_AN.co">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La separación de la triangulación</sub-title>
-    <sub-title lang="en">THE SEPARATION TRIANGULATION</sub-title>
-    <desc lang="es">Koothrappali se encuentra en medio de un drama doméstico, cuando se entera que la mujer con la cual está saliendo, Nell, tiene un marido muy enojado, Oliver. Además, cuando Sheldon alquila su antigua habitación para tener un lugar tranquilo para trabajar, enloquece a Leonard al ser un inquilino modelo.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.13.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/aKGQFSnqc5r9mWCUcRjWYi5SiWc.jpg" />
-  </programme>
-  <programme start="20261122032200 -0400" stop="20261122034300 -0400" air_time_start="20261122032200 -0400" air_time_end="20261122034300 -0400" start_utc="20261122072200 +0000" stop_utc="20261122074300 +0000" air_time_start_utc="20261122072200 +0000" air_time_end_utc="20261122074300 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La separación de la triangulación</sub-title>
-    <sub-title lang="en">THE SEPARATION TRIANGULATION</sub-title>
-    <desc lang="es">Koothrappali se encuentra en medio de un drama doméstico, cuando se entera que la mujer con la cual está saliendo, Nell, tiene un marido muy enojado, Oliver. Además, cuando Sheldon alquila su antigua habitación para tener un lugar tranquilo para trabajar, enloquece a Leonard al ser un inquilino modelo.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.13.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/aKGQFSnqc5r9mWCUcRjWYi5SiWc.jpg" />
-  </programme>
-  <programme start="20261122032400 -0400" stop="20261122034500 -0400" air_time_start="20261122032400 -0400" air_time_end="20261122034500 -0400" start_utc="20261122072400 +0000" stop_utc="20261122074500 +0000" air_time_start_utc="20261122072400 +0000" air_time_end_utc="20261122074500 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La separación de la triangulación</sub-title>
-    <sub-title lang="en">THE SEPARATION TRIANGULATION</sub-title>
-    <desc lang="es">Koothrappali se encuentra en medio de un drama doméstico, cuando se entera que la mujer con la cual está saliendo, Nell, tiene un marido muy enojado, Oliver. Además, cuando Sheldon alquila su antigua habitación para tener un lugar tranquilo para trabajar, enloquece a Leonard al ser un inquilino modelo.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.13.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/aKGQFSnqc5r9mWCUcRjWYi5SiWc.jpg" />
-  </programme>
-  <programme start="20261122032800 -0300" stop="20261122034800 -0300" air_time_start="20261122032800 -0300" air_time_end="20261122034800 -0300" start_utc="20261122062800 +0000" stop_utc="20261122064800 +0000" air_time_start_utc="20261122062800 +0000" air_time_end_utc="20261122064800 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La separación de la triangulación</sub-title>
-    <sub-title lang="en">THE SEPARATION TRIANGULATION</sub-title>
-    <desc lang="es">Koothrappali se encuentra en medio de un drama doméstico, cuando se entera que la mujer con la cual está saliendo, Nell, tiene un marido muy enojado, Oliver. Además, cuando Sheldon alquila su antigua habitación para tener un lugar tranquilo para trabajar, enloquece a Leonard al ser un inquilino modelo.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.13.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/aKGQFSnqc5r9mWCUcRjWYi5SiWc.jpg" />
-  </programme>
   <programme start="20261122033000 -0600" stop="20261122035000 -0600" air_time_start="20261122033000 -0600" air_time_end="20261122035000 -0600" start_utc="20261122093000 +0000" stop_utc="20261122095000 +0000" air_time_start_utc="20261122093000 +0000" air_time_end_utc="20261122095000 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">La separación de la triangulación</sub-title>
     <sub-title lang="en">THE SEPARATION TRIANGULATION</sub-title>
     <desc lang="es">Koothrappali se encuentra en medio de un drama doméstico, cuando se entera que la mujer con la cual está saliendo, Nell, tiene un marido muy enojado, Oliver. Además, cuando Sheldon alquila su antigua habitación para tener un lugar tranquilo para trabajar, enloquece a Leonard al ser un inquilino modelo.</desc>
     <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.13.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/aKGQFSnqc5r9mWCUcRjWYi5SiWc.jpg" />
-  </programme>
-  <programme start="20261122033500 -0300" stop="20261122035500 -0300" air_time_start="20261122033500 -0300" air_time_end="20261122035500 -0300" start_utc="20261122063500 +0000" stop_utc="20261122065500 +0000" air_time_start_utc="20261122063500 +0000" air_time_end_utc="20261122065500 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">La separación de la triangulación</sub-title>
-    <sub-title lang="en">THE SEPARATION TRIANGULATION</sub-title>
-    <desc lang="pt">Raj fica entre a cruz e a espada quando descobre que está saindo com uma mulher casada (BETH BEHRS). Sheldon aluga seu antigo quarto para ter onde trabalhar.</desc>
-    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">10.13.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/aKGQFSnqc5r9mWCUcRjWYi5SiWc.jpg" />
   </programme>
@@ -369,48 +66,12 @@
     <episode-num system="xmltv_ns">10.13.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/aKGQFSnqc5r9mWCUcRjWYi5SiWc.jpg" />
   </programme>
-  <programme start="20261122034300 -0400" stop="20261122040500 -0400" air_time_start="20261122034300 -0400" air_time_end="20261122040500 -0400" start_utc="20261122074300 +0000" stop_utc="20261122080500 +0000" air_time_start_utc="20261122074300 +0000" air_time_end_utc="20261122080500 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La correlación de la novelización</sub-title>
-    <sub-title lang="en">THE NOVELIZATION CORRELATION</sub-title>
-    <desc lang="es">Cuando Sheldon le pide a Wil Wheaton para aparecer en el nuevo programa del profesor Protón, Wil invita en su lugar a Amy. Además, Penny se enoja cuando cree que la protagonista femenina de la novela de Leonard se basa en ella.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.14.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/AnGIz9QR5vd1BvfaLKIavRYVdAx.jpg" />
-  </programme>
-  <programme start="20261122034500 -0400" stop="20261122040800 -0400" air_time_start="20261122034500 -0400" air_time_end="20261122040800 -0400" start_utc="20261122074500 +0000" stop_utc="20261122080800 +0000" air_time_start_utc="20261122074500 +0000" air_time_end_utc="20261122080800 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La correlación de la novelización</sub-title>
-    <sub-title lang="en">THE NOVELIZATION CORRELATION</sub-title>
-    <desc lang="es">Cuando Sheldon le pide a Wil Wheaton para aparecer en el nuevo programa del profesor Protón, Wil invita en su lugar a Amy. Además, Penny se enoja cuando cree que la protagonista femenina de la novela de Leonard se basa en ella.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.14.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/AnGIz9QR5vd1BvfaLKIavRYVdAx.jpg" />
-  </programme>
-  <programme start="20261122034800 -0300" stop="20261122040900 -0300" air_time_start="20261122034800 -0300" air_time_end="20261122040900 -0300" start_utc="20261122064800 +0000" stop_utc="20261122070900 +0000" air_time_start_utc="20261122064800 +0000" air_time_end_utc="20261122070900 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La correlación de la novelización</sub-title>
-    <sub-title lang="en">THE NOVELIZATION CORRELATION</sub-title>
-    <desc lang="es">Cuando Sheldon le pide a Wil Wheaton para aparecer en el nuevo programa del profesor Protón, Wil invita en su lugar a Amy. Además, Penny se enoja cuando cree que la protagonista femenina de la novela de Leonard se basa en ella.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.14.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/AnGIz9QR5vd1BvfaLKIavRYVdAx.jpg" />
-  </programme>
   <programme start="20261122035000 -0600" stop="20261122041300 -0600" air_time_start="20261122035000 -0600" air_time_end="20261122041300 -0600" start_utc="20261122095000 +0000" stop_utc="20261122101300 +0000" air_time_start_utc="20261122095000 +0000" air_time_end_utc="20261122101300 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">La correlación de la novelización</sub-title>
     <sub-title lang="en">THE NOVELIZATION CORRELATION</sub-title>
     <desc lang="es">Cuando Sheldon le pide a Wil Wheaton para aparecer en el nuevo programa del profesor Protón, Wil invita en su lugar a Amy. Además, Penny se enoja cuando cree que la protagonista femenina de la novela de Leonard se basa en ella.</desc>
     <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.14.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/AnGIz9QR5vd1BvfaLKIavRYVdAx.jpg" />
-  </programme>
-  <programme start="20261122035500 -0300" stop="20261122041700 -0300" air_time_start="20261122035500 -0300" air_time_end="20261122041700 -0300" start_utc="20261122065500 +0000" stop_utc="20261122071700 +0000" air_time_start_utc="20261122065500 +0000" air_time_end_utc="20261122071700 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">La correlación de la novelización</sub-title>
-    <sub-title lang="en">THE NOVELIZATION CORRELATION</sub-title>
-    <desc lang="pt">Enquanto Sheldon implora para que Wil Wheaton participe do novo programa do Professor Próton, Leonard se vê numa situação delicada ao pedir um feedback dos amigos em relação ao seu livro.</desc>
-    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">10.14.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/AnGIz9QR5vd1BvfaLKIavRYVdAx.jpg" />
   </programme>
@@ -432,48 +93,12 @@
     <episode-num system="xmltv_ns">10.14.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/AnGIz9QR5vd1BvfaLKIavRYVdAx.jpg" />
   </programme>
-  <programme start="20261122040500 -0400" stop="20261122042600 -0400" air_time_start="20261122040500 -0400" air_time_end="20261122042600 -0400" start_utc="20261122080500 +0000" stop_utc="20261122082600 +0000" air_time_start_utc="20261122080500 +0000" air_time_end_utc="20261122082600 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La nomenclatura neonatal</sub-title>
-    <sub-title lang="en">THE NEONATAL NOMENCLATURE</sub-title>
-    <desc lang="es">Cuando Bernadette no rompe aguas para dar a luz, todos sus amigos prueban diferentes tácticas para provocarlo. Por otro lado, Howard discute con Bernadette después de que Amy le cuente accidentalmente que ya ha elegido el nombre de su hijo.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.15.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/y8cPPUKibxpbGlo9feqkWHae4Gk.jpg" />
-  </programme>
-  <programme start="20261122040800 -0400" stop="20261122042900 -0400" air_time_start="20261122040800 -0400" air_time_end="20261122042900 -0400" start_utc="20261122080800 +0000" stop_utc="20261122082900 +0000" air_time_start_utc="20261122080800 +0000" air_time_end_utc="20261122082900 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La nomenclatura neonatal</sub-title>
-    <sub-title lang="en">THE NEONATAL NOMENCLATURE</sub-title>
-    <desc lang="es">Cuando Bernadette no rompe aguas para dar a luz, todos sus amigos prueban diferentes tácticas para provocarlo. Por otro lado, Howard discute con Bernadette después de que Amy le cuente accidentalmente que ya ha elegido el nombre de su hijo.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.15.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/y8cPPUKibxpbGlo9feqkWHae4Gk.jpg" />
-  </programme>
-  <programme start="20261122040900 -0300" stop="20261122042900 -0300" air_time_start="20261122040900 -0300" air_time_end="20261122042900 -0300" start_utc="20261122070900 +0000" stop_utc="20261122072900 +0000" air_time_start_utc="20261122070900 +0000" air_time_end_utc="20261122072900 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">THE BIG BANG THEORY</title>
-    <sub-title lang="es">La nomenclatura neonatal</sub-title>
-    <sub-title lang="en">THE NEONATAL NOMENCLATURE</sub-title>
-    <desc lang="es">Cuando Bernadette no rompe aguas para dar a luz, todos sus amigos prueban diferentes tácticas para provocarlo. Por otro lado, Howard discute con Bernadette después de que Amy le cuente accidentalmente que ya ha elegido el nombre de su hijo.</desc>
-    <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.15.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/y8cPPUKibxpbGlo9feqkWHae4Gk.jpg" />
-  </programme>
   <programme start="20261122041300 -0600" stop="20261122043400 -0600" air_time_start="20261122041300 -0600" air_time_end="20261122043400 -0600" start_utc="20261122101300 +0000" stop_utc="20261122103400 +0000" air_time_start_utc="20261122101300 +0000" air_time_end_utc="20261122103400 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">THE BIG BANG THEORY</title>
     <sub-title lang="es">La nomenclatura neonatal</sub-title>
     <sub-title lang="en">THE NEONATAL NOMENCLATURE</sub-title>
     <desc lang="es">Cuando Bernadette no rompe aguas para dar a luz, todos sus amigos prueban diferentes tácticas para provocarlo. Por otro lado, Howard discute con Bernadette después de que Amy le cuente accidentalmente que ya ha elegido el nombre de su hijo.</desc>
     <category lang="es">Comedia</category>
-    <episode-num system="xmltv_ns">10.15.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/y8cPPUKibxpbGlo9feqkWHae4Gk.jpg" />
-  </programme>
-  <programme start="20261122041700 -0300" stop="20261122043700 -0300" air_time_start="20261122041700 -0300" air_time_end="20261122043700 -0300" start_utc="20261122071700 +0000" stop_utc="20261122073700 +0000" air_time_start_utc="20261122071700 +0000" air_time_end_utc="20261122073700 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">THE BIG BANG THEORY</title>
-    <sub-title lang="pt">La nomenclatura neonatal</sub-title>
-    <sub-title lang="en">THE NEONATAL NOMENCLATURE</sub-title>
-    <desc lang="pt">Bernadette está demorando a entrar em trabalho de parto e seus amigos tentam ajudar. Howard descobre que ela já escolheu o nome do bebê.</desc>
-    <category lang="pt">Comédia</category>
     <episode-num system="xmltv_ns">10.15.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/y8cPPUKibxpbGlo9feqkWHae4Gk.jpg" />
   </programme>
@@ -493,39 +118,11 @@
     <episode-num system="xmltv_ns">10.15.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/y8cPPUKibxpbGlo9feqkWHae4Gk.jpg" />
   </programme>
-  <programme start="20261122042600 -0400" stop="20261122044800 -0400" air_time_start="20261122042600 -0400" air_time_end="20261122044800 -0400" start_utc="20261122082600 +0000" stop_utc="20261122084800 +0000" air_time_start_utc="20261122082600 +0000" air_time_end_utc="20261122084800 +0000" is_live="false" channel="WARNER_CL.cl">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">I CAN'T AFFORD HYENAS</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/ghgOvYklWtPdHiNOKdOxfjHnA3C.jpg" />
-  </programme>
-  <programme start="20261122042900 -0300" stop="20261122045100 -0300" air_time_start="20261122042900 -0300" air_time_end="20261122045100 -0300" start_utc="20261122072900 +0000" stop_utc="20261122075100 +0000" air_time_start_utc="20261122072900 +0000" air_time_end_utc="20261122075100 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">I CAN'T AFFORD HYENAS</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/ghgOvYklWtPdHiNOKdOxfjHnA3C.jpg" />
-  </programme>
-  <programme start="20261122042900 -0400" stop="20261122045100 -0400" air_time_start="20261122042900 -0400" air_time_end="20261122045100 -0400" start_utc="20261122082900 +0000" stop_utc="20261122085100 +0000" air_time_start_utc="20261122082900 +0000" air_time_end_utc="20261122085100 +0000" is_live="false" channel="WARNER_VE.ve">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">I CAN'T AFFORD HYENAS</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/ghgOvYklWtPdHiNOKdOxfjHnA3C.jpg" />
-  </programme>
   <programme start="20261122043400 -0600" stop="20261122045600 -0600" air_time_start="20261122043400 -0600" air_time_end="20261122045600 -0600" start_utc="20261122103400 +0000" stop_utc="20261122105600 +0000" air_time_start_utc="20261122103400 +0000" air_time_end_utc="20261122105600 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">TWO AND A HALF MEN</title>
     <sub-title lang="es">I CAN'T AFFORD HYENAS</sub-title>
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
     <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/ghgOvYklWtPdHiNOKdOxfjHnA3C.jpg" />
-  </programme>
-  <programme start="20261122043700 -0300" stop="20261122045800 -0300" air_time_start="20261122043700 -0300" air_time_end="20261122045800 -0300" start_utc="20261122073700 +0000" stop_utc="20261122075800 +0000" air_time_start_utc="20261122073700 +0000" air_time_end_utc="20261122075800 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">TWO AND A HALF MEN</title>
-    <sub-title lang="pt">I CAN'T AFFORD HYENAS</sub-title>
-    <desc lang="pt">Quando Charlie descobre que está sem crédito e que suas contas não estão pagas, ele também descobre que seu contador Stan (RICHARD LEWIS) é completamente ineficiente. Seguindo o conselho de Alan, Charlie tenta reduzir seus hábitos mais caros, mas ele tem um pouco de dificuldade para abrir mão de seus luxos. Depois de ter pensado em pedir algum dinheiro emprestadoo à Evelyn, Charlie sente que a situação ficaria insustentável, então aceita ajuda de uma fonte incomum. Enquanto isso, Charlie ensina Jake alguns truques para apostar em jogos de azar, para tristeza de Alan.</desc>
-    <category lang="pt">Comédia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/ghgOvYklWtPdHiNOKdOxfjHnA3C.jpg" />
   </programme>
   <programme start="20261122044200 -0500" stop="20261122050200 -0500" air_time_start="20261122044200 -0500" air_time_end="20261122050200 -0500" start_utc="20261122094200 +0000" stop_utc="20261122100200 +0000" air_time_start_utc="20261122094200 +0000" air_time_end_utc="20261122100200 +0000" is_live="false" channel="WARNER_AN.co">
@@ -549,13 +146,6 @@
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/og7cB1PBIBM5Hz7b3Gd6KhKQRTu.jpg" />
   </programme>
-  <programme start="20261122045100 -0300" stop="20261122051300 -0300" air_time_start="20261122045100 -0300" air_time_end="20261122051300 -0300" start_utc="20261122075100 +0000" stop_utc="20261122081300 +0000" air_time_start_utc="20261122075100 +0000" air_time_end_utc="20261122081300 +0000" is_live="false" channel="WARNER_AR.ar">
-    <title lang="es">TWO AND A HALF MEN</title>
-    <sub-title lang="es">ROUND ONE TO THE HOT CRAZY CHICK</sub-title>
-    <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
-    <category lang="es">Comedia</category>
-    <icon src="https://media.themoviedb.org/t/p/w500/og7cB1PBIBM5Hz7b3Gd6KhKQRTu.jpg" />
-  </programme>
   <programme start="20261122045100 -0400" stop="20261122051300 -0400" air_time_start="20261122045100 -0400" air_time_end="20261122051300 -0400" start_utc="20261122085100 +0000" stop_utc="20261122091300 +0000" air_time_start_utc="20261122085100 +0000" air_time_end_utc="20261122091300 +0000" is_live="false" channel="WARNER_VE.ve">
     <title lang="es">TWO AND A HALF MEN</title>
     <sub-title lang="es">ROUND ONE TO THE HOT CRAZY CHICK</sub-title>
@@ -569,15 +159,6 @@
     <desc lang="es">Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él. La situación se complica aún más gracias a Evelyn, la egocéntrica y controladora madre de Charlie y Alan. A pesar de la complejidad de sus vidas y de sus tensas relaciones, Charlie y Alan tienen una cosa en común: adoran a Jake y quieren lo mejor para él.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/og7cB1PBIBM5Hz7b3Gd6KhKQRTu.jpg" />
-  </programme>
-  <programme start="20261122045800 -0300" stop="20261122052000 -0300" air_time_start="20261122045800 -0300" air_time_end="20261122052000 -0300" start_utc="20261122075800 +0000" stop_utc="20261122082000 +0000" air_time_start_utc="20261122075800 +0000" air_time_end_utc="20261122082000 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">YOUNG SHELDON - SEASON 6</title>
-    <sub-title lang="pt">Despiadado, desdentado y una semana de reposo</sub-title>
-    <sub-title lang="en">RUTHLESS, TOOTHLESS AND A WEEK OF BED REST</sub-title>
-    <desc lang="pt">Sheldon descobre que a universidade está montando uma base de dados sem ele. Mary cuida de Mandy e Meemaw, que estão acamadas.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">5.10.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/snBaRTSYkWglHBpSi51Om10ADOm.jpg" />
   </programme>
   <programme start="20261122050200 -0500" stop="20261122052400 -0500" air_time_start="20261122050200 -0500" air_time_end="20261122052400 -0500" start_utc="20261122100200 +0000" stop_utc="20261122102400 +0000" air_time_start_utc="20261122100200 +0000" air_time_end_utc="20261122102400 +0000" is_live="false" channel="WARNER_AN.co">
     <title lang="es">TWO AND A HALF MEN</title>
@@ -623,15 +204,6 @@
     <category lang="es">Comedia</category>
     <icon src="https://media.themoviedb.org/t/p/w500/5MnpDlJ5N6Q0ZFiOqFrgkocAvku.jpg" />
   </programme>
-  <programme start="20261122052000 -0300" stop="20261122054000 -0300" air_time_start="20261122052000 -0300" air_time_end="20261122054000 -0300" start_utc="20261122082000 +0000" stop_utc="20261122084000 +0000" air_time_start_utc="20261122082000 +0000" air_time_end_utc="20261122084000 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">YOUNG SHELDON - SEASON 6</title>
-    <sub-title lang="pt">Una fiesta del bebé y vaciles ricos en testosterona</sub-title>
-    <sub-title lang="en">A BABY SHOWER AND TESTOSTERONE-RICH BANTER</sub-title>
-    <desc lang="pt">Mary se desentende com a mãe de Mandy, e Sheldon tenta fazer novas amizades.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">5.11.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/lGwTCqFCKbvqLnQRzTjuQ8hY6Md.jpg" />
-  </programme>
   <programme start="20261122052400 -0500" stop="20261122054800 -0500" air_time_start="20261122052400 -0500" air_time_end="20261122054800 -0500" start_utc="20261122102400 +0000" stop_utc="20261122104800 +0000" air_time_start_utc="20261122102400 +0000" air_time_end_utc="20261122104800 +0000" is_live="false" channel="WARNER_AN.co">
     <title lang="es">MIRACLE WORKERS: SEASON 4</title>
     <sub-title lang="es">John Cristo</sub-title>
@@ -667,13 +239,6 @@
     <category lang="es">Fantasía</category>
     <episode-num system="xmltv_ns">3.8.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/v9RvQbx0eYSvMpscXRBh9qk4cFW.jpg" />
-  </programme>
-  <programme start="20261122054000 -0300" stop="20261122054900 -0300" air_time_start="20261122054000 -0300" air_time_end="20261122054900 -0300" start_utc="20261122084000 +0000" stop_utc="20261122084900 +0000" air_time_start_utc="20261122084000 +0000" air_time_end_utc="20261122084900 +0000" is_live="false" channel="WARNER_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="pt">Talk Show</category>
-    <category lang="pt">Notícias De Entretenimento</category>
-    <episode-num system="xmltv_ns">-1.47.</episode-num>
   </programme>
   <programme start="20261122054100 -0600" stop="20261122055300 -0600" air_time_start="20261122054100 -0600" air_time_end="20261122055300 -0600" start_utc="20261122114100 +0000" stop_utc="20261122115300 +0000" air_time_start_utc="20261122114100 +0000" air_time_end_utc="20261122115300 +0000" is_live="false" channel="WARNER_MX.mx">
     <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
