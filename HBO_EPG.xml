@@ -1564,4 +1564,512 @@
     <category lang="pt">Comédia</category>
     <category lang="pt">Especial</category>
   </programme>
+  <programme start="20261126060000 -0300" stop="20261126084200 -0300" air_time_start="20261126060000 -0300" air_time_end="20261126084200 -0300" start_utc="20261126090000 +0000" stop_utc="20261126114200 +0000" air_time_start_utc="20261126090000 +0000" air_time_end_utc="20261126114200 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Duna</title>
+    <sub-title lang="es">Dune</sub-title>
+    <desc lang="es">El nominado al Oscar® Denis Villeneuve (La Llegada, Blade Runner 2049) dirige un elenco estelar encabezado por Timothée Chalamet en esta adaptación de la épica novela de ciencia ficción de Frank Herbert. Paul Atreides (Chalamet) es un brillante joven de la nobleza de una sociedad feudal interestelar encargado de custodiar la sustancia más valiosa del universo.</desc>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20261126060000 -0300" stop="20261126070600 -0300" air_time_start="20261126060000 -0300" air_time_end="20261126070600 -0300" start_utc="20261126090000 +0000" stop_utc="20261126100600 +0000" air_time_start_utc="20261126090000 +0000" air_time_end_utc="20261126100600 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Josh Johnson: Sinfonía</title>
+    <sub-title lang="es">Josh Johnson: Symphony</sub-title>
+    <category lang="es">Comedia</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20261126060000 -0300" stop="20261126080300 -0300" air_time_start="20261126060000 -0300" air_time_end="20261126080300 -0300" start_utc="20261126090000 +0000" stop_utc="20261126110300 +0000" air_time_start_utc="20261126090000 +0000" air_time_end_utc="20261126110300 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Megatubarão 2</title>
+    <sub-title lang="pt">Meg 2: The Trench</sub-title>
+    <desc lang="pt">Um mergulho exploratório nas profundezas do oceano de uma ousada equipe de pesquisa se transforma em caos quando uma operação de mineração malévola ameaça sua missão e os força a uma batalha de alto risco pela sobrevivência.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Terror</category>
+  </programme>
+  <programme start="20261126060000 -0400" stop="20261126075200 -0400" air_time_start="20261126060000 -0400" air_time_end="20261126075200 -0400" start_utc="20261126100000 +0000" stop_utc="20261126115200 +0000" air_time_start_utc="20261126100000 +0000" air_time_end_utc="20261126115200 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">Puss in Boots: The Last Wish</title>
+    <sub-title lang="es">Las botas</sub-title>
+    <sub-title lang="en">Puss in Boots: The Last Wish</sub-title>
+    <desc lang="es">Al robar las botas encantadas de la Casa del Tesoro, Jack Espadín desencadena un peligroso viento del diablo que amenaza con consumir todo el tesoro del pueblo.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familiar</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20261126060000 -0600" stop="20261126075200 -0600" air_time_start="20261126060000 -0600" air_time_end="20261126075200 -0600" start_utc="20261126120000 +0000" stop_utc="20261126135200 +0000" air_time_start_utc="20261126120000 +0000" air_time_end_utc="20261126135200 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Gato con Botas: El Último Deseo</title>
+    <sub-title lang="es">Las botas</sub-title>
+    <sub-title lang="en">Puss in Boots: The Last Wish</sub-title>
+    <desc lang="es">Al robar las botas encantadas de la Casa del Tesoro, Jack Espadín desencadena un peligroso viento del diablo que amenaza con consumir todo el tesoro del pueblo.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familiar</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20261126070600 -0300" stop="20261126090400 -0300" air_time_start="20261126070600 -0300" air_time_end="20261126090400 -0300" start_utc="20261126100600 +0000" stop_utc="20261126120400 +0000" air_time_start_utc="20261126100600 +0000" air_time_end_utc="20261126120400 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Jack, el Cazagigantes</title>
+    <sub-title lang="es">Jack the Giant Slayer</sub-title>
+    <desc lang="es">El tío de Jack le encomienda ir al pueblo a vender un caballo. Allí, Jack salva a la princesa Isabelle, quien está siendo acosada por unos matones. Jack vuelve a casa sin el caballo pero con unas habichuelas que le dio un monje y que, supuestamente, tienen propiedades mágicas. Esa noche, Isabelle se aparece en la casa de Jack, ya que no quiere casarse con el ambicioso Roderick. La lluvia hace que las habichuelas se conviertan en una planta gigante que se lleva a Isabelle al cielo, donde viven gigantes, y Jack deberá subir a rescatarla.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261126075200 -0400" stop="20261126092800 -0400" air_time_start="20261126075200 -0400" air_time_end="20261126092800 -0400" start_utc="20261126115200 +0000" stop_utc="20261126132800 +0000" air_time_start_utc="20261126115200 +0000" air_time_end_utc="20261126132800 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">Zombieland</title>
+    <desc lang="es">To survive in a living dead outbreak, Jesse Eisenberg (The Social Network) has rules as ¿always take a look at the rear seat¿, Emma Stone (The Amazing Spider-Man) looks for shelter in an amusement park and Woody Harrelson (No Country for Old Men) tracks the last candies in the world. Zombie humor!</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261126075200 -0600" stop="20261126092900 -0600" air_time_start="20261126075200 -0600" air_time_end="20261126092900 -0600" start_utc="20261126135200 +0000" stop_utc="20261126152900 +0000" air_time_start_utc="20261126135200 +0000" air_time_end_utc="20261126152900 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Tierra de Zombies</title>
+    <sub-title lang="es">Zombieland</sub-title>
+    <desc lang="es">Para sobrevivir en una plaga de muertos vivos, Jesse Eisenberg (Red social) tiene reglas como ¿mira siempre el asiento trasero¿; Emma Stone (El sorprendente Hombre Araña) busca refugio en un parque de diversiones y Woody Harrelson (Sin lugar para los débiles) rastrea las últimas golosinas del mundo. ¡Humor zombie!</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261126080300 -0300" stop="20261126100600 -0300" air_time_start="20261126080300 -0300" air_time_end="20261126100600 -0300" start_utc="20261126110300 +0000" stop_utc="20261126130600 +0000" air_time_start_utc="20261126110300 +0000" air_time_end_utc="20261126130600 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Amor a Toda Prova</title>
+    <sub-title lang="pt">Crazy, Stupid, Love</sub-title>
+    <desc lang="pt">O quarentão Carl Weaver leva uma vida feliz ao lado da mulher. Quando ela pede o divórcio, ele fica arrasado, até conhecer o mulherengo Jacob, que decide ajudá-lo a superar a baixa autoestima, transformando-o num verdadeiro Don Juan.</desc>
+    <category lang="pt">Comédia</category>
+    <category lang="pt">Romance</category>
+  </programme>
+  <programme start="20261126084200 -0300" stop="20261126105700 -0300" air_time_start="20261126084200 -0300" air_time_end="20261126105700 -0300" start_utc="20261126114200 +0000" stop_utc="20261126135700 +0000" air_time_start_utc="20261126114200 +0000" air_time_end_utc="20261126135700 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Parque Jurásico</title>
+    <sub-title lang="es">Jurassic Park</sub-title>
+    <desc lang="es">Un millonario construye un parque en una isla del Océano Pacífico donde junto con sus nietos; dos expertos en el tema, un matemático y un abogado,  reproducen dinosaurios provenientes de una molécula. Basado en la novela de Michael Crichton.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261126090400 -0300" stop="20261126111900 -0300" air_time_start="20261126090400 -0300" air_time_end="20261126111900 -0300" start_utc="20261126120400 +0000" stop_utc="20261126141900 +0000" air_time_start_utc="20261126120400 +0000" air_time_end_utc="20261126141900 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Moonfall</title>
+    <desc lang="es">El mundo se enfrenta a la posibilidad de la extinción porque una fuerza desconocida empuja a la luna de su órbita rumbo a la Tierra. Un equipo de astronautas asume la misión de evitar el apocalipsis.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Ciencia Ficción</category>
+  </programme>
+  <programme start="20261126092800 -0400" stop="20261126112800 -0400" air_time_start="20261126092800 -0400" air_time_end="20261126112800 -0400" start_utc="20261126132800 +0000" stop_utc="20261126152800 +0000" air_time_start_utc="20261126132800 +0000" air_time_end_utc="20261126152800 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">Final Destination: Bloodlines</title>
+    <desc lang="es">Atragantada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie regresa a casa para encontrar a la única persona que podría romper el ciclo y salvar a su familia de la horrible muerte que inevitablemente les espera a todos.</desc>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261126092900 -0600" stop="20261126112700 -0600" air_time_start="20261126092900 -0600" air_time_end="20261126112700 -0600" start_utc="20261126152900 +0000" stop_utc="20261126172700 +0000" air_time_start_utc="20261126152900 +0000" air_time_end_utc="20261126172700 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Destino Final: Lazos de Sangre</title>
+    <sub-title lang="es">Final Destination: Bloodlines</sub-title>
+    <desc lang="es">Al ser objeto de una falsa acusación, un detective se muda a un pueblo donde resuelve crímenes.</desc>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261126100600 -0300" stop="20261126121900 -0300" air_time_start="20261126100600 -0300" air_time_end="20261126121900 -0300" start_utc="20261126130600 +0000" stop_utc="20261126151900 +0000" air_time_start_utc="20261126130600 +0000" air_time_end_utc="20261126151900 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Adão Negro</title>
+    <sub-title lang="pt">Black Adam</sub-title>
+    <desc lang="pt">Quase 5.000 anos depois de ter sido concedido com os poderes onipotentes dos deuses egípcios - e de ter sido preso, - Adão Negro se ergue de seu túmulo, pronto para trazer sua justiça ao mundo moderno.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Fantasia</category>
+  </programme>
+  <programme start="20261126105700 -0300" stop="20261126131400 -0300" air_time_start="20261126105700 -0300" air_time_end="20261126131400 -0300" start_utc="20261126135700 +0000" stop_utc="20261126161400 +0000" air_time_start_utc="20261126135700 +0000" air_time_end_utc="20261126161400 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">¡Shazam! La Furia de los Dioses</title>
+    <sub-title lang="es">Shazam! Fury of the Gods</sub-title>
+    <desc lang="es">Billy Batson y sus hermanos adoptivos, que se transforman en superhéroes al decir “¡Shazam!”, se ven obligados a volver a la acción y luchar contra las Hijas de Atlas, a quienes deben evitar que use un arma que podría destruir el mundo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261126111900 -0300" stop="20261126131500 -0300" air_time_start="20261126111900 -0300" air_time_end="20261126131500 -0300" start_utc="20261126141900 +0000" stop_utc="20261126161500 +0000" air_time_start_utc="20261126141900 +0000" air_time_end_utc="20261126161500 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Evil Dead: En Llamas</title>
+    <sub-title lang="es">Evil Dead Burn</sub-title>
+    <desc lang="es">Secuela de la saga de películas "Evil Dead". Ash ha pasado los últimos treinta años evitando madurar y luchando contra los horrores surgidos del Necronomicón. Sigue siendo el mismo malhablado sabelotodo de siempre pero de repente se encuentra con que debe volver a coger su motosierra para luchar contra una plaga de Deadites que amenaza con destruir toda la humanidad mientras intenta reconciliarse con su pasado.</desc>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261126112700 -0600" stop="20261126133200 -0600" air_time_start="20261126112700 -0600" air_time_end="20261126133200 -0600" start_utc="20261126172700 +0000" stop_utc="20261126193200 +0000" air_time_start_utc="20261126172700 +0000" air_time_end_utc="20261126193200 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Exterminio: La Evolución</title>
+    <sub-title lang="es">28 Years Later</sub-title>
+    <desc lang="es">Cuatro semanas después de que un misterioso e incurable virus se extendiera por todo el Reino Unido, un puñado de supervivientes intentan encontrar refugio.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261126112800 -0400" stop="20261126133100 -0400" air_time_start="20261126112800 -0400" air_time_end="20261126133100 -0400" start_utc="20261126152800 +0000" stop_utc="20261126173100 +0000" air_time_start_utc="20261126152800 +0000" air_time_end_utc="20261126173100 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">28 Years Later</title>
+    <desc lang="es">Casi tres décadas desde que el virus de la ira escapó de un laboratorio de armas biológicas. Uno de los supervivientes abandona la pequeña isla en una misión hacía el oscuro corazón del continente, descubriendo secretos, maravillas y horrores que han mutado no sólo a los infectados, sino también a otros supervivientes.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261126121900 -0300" stop="20261126144100 -0300" air_time_start="20261126121900 -0300" air_time_end="20261126144100 -0300" start_utc="20261126151900 +0000" stop_utc="20261126174100 +0000" air_time_start_utc="20261126151900 +0000" air_time_end_utc="20261126174100 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Velozes &amp; Furiosos: Hobbs &amp; Shaw</title>
+    <sub-title lang="pt">Fast &amp; Furious: Hobbs &amp; Shaw</sub-title>
+    <desc lang="pt">Uma agência do governo recruta o jovem piloto Tony Toretto e seus destemidos amigos para se infiltrar em uma corrida de rua criminosa como espiões disfarçados.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20261126131400 -0300" stop="20261126153900 -0300" air_time_start="20261126131400 -0300" air_time_end="20261126153900 -0300" start_utc="20261126161400 +0000" stop_utc="20261126183900 +0000" air_time_start_utc="20261126161400 +0000" air_time_end_utc="20261126183900 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Wicked: Por Siempre</title>
+    <sub-title lang="es">Wicked: For Good</sub-title>
+    <desc lang="es">La historia de cómo una mujer de piel verde esmeralda se convierte en la Malvada Bruja del Oeste; largometraje basado en el musical de Broadway.</desc>
+    <category lang="es">Familiar</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Musical</category>
+    <category lang="es">Romance</category>
+  </programme>
+  <programme start="20261126131500 -0300" stop="20261126140700 -0300" air_time_start="20261126131500 -0300" air_time_end="20261126140700 -0300" start_utc="20261126161500 +0000" stop_utc="20261126170700 +0000" air_time_start_utc="20261126161500 +0000" air_time_end_utc="20261126170700 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Ciudad de Dios: La Lucha No Para: Temporada 2</title>
+    <desc lang="es">Mientras Jerusa lucha por cumplir sus planes, Berenice denuncia la corrupción en Gardênia Azul con un duro discurso en el Concejo Municipal.</desc>
+    <category lang="es">Crimen</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Policial</category>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/bILBdh1wXwClIh1nCtkV60amGrc.jpg" />
+  </programme>
+  <programme start="20261126133100 -0400" stop="20261126142300 -0400" air_time_start="20261126133100 -0400" air_time_end="20261126142300 -0400" start_utc="20261126173100 +0000" stop_utc="20261126182300 +0000" air_time_start_utc="20261126173100 +0000" air_time_end_utc="20261126182300 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">City of God: The Fight Rages On: Season 2</title>
+    <sub-title lang="es">City of God: The Fight Rages On 02 eps 03</sub-title>
+    <desc lang="es">Mientras Jerusa lucha por cumplir sus planes, Berenice denuncia la corrupción en Gardênia Azul con un duro discurso en el Concejo Municipal.</desc>
+    <category lang="es">Crimen</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Policial</category>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/bILBdh1wXwClIh1nCtkV60amGrc.jpg" />
+  </programme>
+  <programme start="20261126133200 -0600" stop="20261126142200 -0600" air_time_start="20261126133200 -0600" air_time_end="20261126142200 -0600" start_utc="20261126193200 +0000" stop_utc="20261126202200 +0000" air_time_start_utc="20261126193200 +0000" air_time_end_utc="20261126202200 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Ciudad de Dios: La Lucha No Para: Temporada 2</title>
+    <sub-title lang="es">City of God: The Fight Rages On 02 eps 03</sub-title>
+    <desc lang="es">Mientras Jerusa lucha por cumplir sus planes, Berenice denuncia la corrupción en Gardênia Azul con un duro discurso en el Concejo Municipal.</desc>
+    <category lang="es">Crimen</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Policial</category>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/bILBdh1wXwClIh1nCtkV60amGrc.jpg" />
+  </programme>
+  <programme start="20261126140700 -0300" stop="20261126154800 -0300" air_time_start="20261126140700 -0300" air_time_end="20261126154800 -0300" start_utc="20261126170700 +0000" stop_utc="20261126184800 +0000" air_time_start_utc="20261126170700 +0000" air_time_end_utc="20261126184800 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Drop: Amenaza Anónima</title>
+    <sub-title lang="es">Drop</sub-title>
+    <desc lang="es">Cuando Deb, una bella pero hueca aspirante a modelo muere en un accidente de auto, su alma reencarna en el personaje de Jane, una abogada obesa que es brillante, el opuesto total a Deb. Ahora, por un giro del destino, Deb tiene que aceptar la idea de la falta de su figura esbelta, en el máximo enfrentamiento entre la inteligencia y la belleza.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261126142200 -0600" stop="20261126162300 -0600" air_time_start="20261126142200 -0600" air_time_end="20261126162300 -0600" start_utc="20261126202200 +0000" stop_utc="20261126222300 +0000" air_time_start_utc="20261126202200 +0000" air_time_end_utc="20261126222300 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">El Conjuro 3: El Diablo Me Obligó a Hacerlo</title>
+    <sub-title lang="es">The Conjuring: The Devil Made Me Do It</sub-title>
+    <desc lang="es">Patrick Wilson y Vera Farmiga regresan a una de las franquicias de terror más grandes de Hollywood como los investigadores paranormales Ed y Lorraine Warren. Basada en uno de sus casos más impactantes, el filme sigue a los Warren mientras investigan un aterrador caso de asesinato, el primero en la historia de los EUA en el que un acusado clama posesión demoníaca como defensa.</desc>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261126142300 -0400" stop="20261126162400 -0400" air_time_start="20261126142300 -0400" air_time_end="20261126162400 -0400" start_utc="20261126182300 +0000" stop_utc="20261126202400 +0000" air_time_start_utc="20261126182300 +0000" air_time_end_utc="20261126202400 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">The Conjuring: The Devil Made Me Do It</title>
+    <desc lang="es">Patrick Wilson and Vera Farmiga return to one of the largest horror franchises in history as paranormal investigators Ed and Lorraine Warren. Based on one of their most shocking cases, the film sees the Warrens unravel a web of horrors as they investigate a terrifying case of murder, the first in U.S. history that a murder suspect would claim demonic possession as a defense.</desc>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261126144100 -0300" stop="20261126150400 -0300" air_time_start="20261126144100 -0300" air_time_end="20261126150400 -0300" start_utc="20261126174100 +0000" stop_utc="20261126180400 +0000" air_time_start_utc="20261126174100 +0000" air_time_end_utc="20261126180400 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Narrativas Negras Não Contadas: Temporada 3</title>
+    <sub-title lang="pt">Dra. Maria de Lourdes - Ciência no Sangue</sub-title>
+    <sub-title lang="en">Black Brazil Unspoken 03 eps 03</sub-title>
+    <desc lang="pt">Maria de Lourdes Pires Nascimento é referência no estudo da anemia falciforme. No curta de Tulani Nascimento, sua trajetória revela os efeitos do racismo na ciência e a importância de preservar essa memória.</desc>
+    <category lang="pt">Documentário</category>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/8fVzFAB1gQH6EomRmnvlSRlLeOy.jpg" />
+  </programme>
+  <programme start="20261126150400 -0300" stop="20261126165800 -0300" air_time_start="20261126150400 -0300" air_time_end="20261126165800 -0300" start_utc="20261126180400 +0000" stop_utc="20261126195800 +0000" air_time_start_utc="20261126180400 +0000" air_time_end_utc="20261126195800 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Extermínio: O Templo dos Ossos</title>
+    <sub-title lang="pt">28 Years Later: The Bone Temple</sub-title>
+    <desc lang="pt">Quando um grupo de supersoldados geneticamente modificados escapa de uma base no deserto, uma veterana do Exército é a única coisa entre eles e o caos. Para proteger sua filha, fará de tudo. Será que conseguirá detê-los?</desc>
+    <category lang="pt">Suspense</category>
+    <category lang="pt">Terror</category>
+  </programme>
+  <programme start="20261126153900 -0300" stop="20261126175100 -0300" air_time_start="20261126153900 -0300" air_time_end="20261126175100 -0300" start_utc="20261126183900 +0000" stop_utc="20261126205100 +0000" air_time_start_utc="20261126183900 +0000" air_time_end_utc="20261126205100 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Jurassic World - Mundo Jurásico</title>
+    <sub-title lang="es">Bienvenidos a Jurassic World</sub-title>
+    <sub-title lang="en">Jurassic World</sub-title>
+    <desc lang="es">Los hermanos adolescentes Zach y Gray Mitchell visitan Jurassic World, un nuevo parque temático de dinosaurios en Isla Nublar que fue construido sobre las ruinas del parque original. Quien programó el viaje fue la madre de ellos, para que pasen un tiempo junto a su tía Claire Dearing, gerente de operaciones del parque. En otro lugar de la isla, Owen Grady ha estado entrenando a los cuatro velociraptores del parque e investigando acerca de la la inteligencia de ellos. El Indominus rex, un dinosaurio híbrido diseñado genéticamente, se escapa y comienza a matar.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+  </programme>
+  <programme start="20261126154800 -0300" stop="20261126174400 -0300" air_time_start="20261126154800 -0300" air_time_end="20261126174400 -0300" start_utc="20261126184800 +0000" stop_utc="20261126204400 +0000" air_time_start_utc="20261126184800 +0000" air_time_end_utc="20261126204400 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Destino Final: Lazos de Sangre</title>
+    <sub-title lang="es">Final Destination: Bloodlines</sub-title>
+    <desc lang="es">Al ser objeto de una falsa acusación, un detective se muda a un pueblo donde resuelve crímenes.</desc>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261126162300 -0600" stop="20261126184400 -0600" air_time_start="20261126162300 -0600" air_time_end="20261126184400 -0600" start_utc="20261126222300 +0000" stop_utc="20261127004400 +0000" air_time_start_utc="20261126222300 +0000" air_time_end_utc="20261127004400 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Moonfall</title>
+    <desc lang="es">El mundo se enfrenta a la posibilidad de la extinción porque una fuerza desconocida empuja a la luna de su órbita rumbo a la Tierra. Un equipo de astronautas asume la misión de evitar el apocalipsis.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Ciencia Ficción</category>
+  </programme>
+  <programme start="20261126162400 -0400" stop="20261126184400 -0400" air_time_start="20261126162400 -0400" air_time_end="20261126184400 -0400" start_utc="20261126202400 +0000" stop_utc="20261126224400 +0000" air_time_start_utc="20261126202400 +0000" air_time_end_utc="20261126224400 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">Moonfall</title>
+    <desc lang="es">El mundo se enfrenta a la posibilidad de la extinción porque una fuerza desconocida empuja a la luna de su órbita rumbo a la Tierra. Un equipo de astronautas asume la misión de evitar el apocalipsis.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Ciencia Ficción</category>
+  </programme>
+  <programme start="20261126165800 -0300" stop="20261126184800 -0300" air_time_start="20261126165800 -0300" air_time_end="20261126184800 -0300" start_utc="20261126195800 +0000" stop_utc="20261126214800 +0000" air_time_start_utc="20261126195800 +0000" air_time_end_utc="20261126214800 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Sobrenatural: Agora Entre Nós</title>
+    <sub-title lang="pt">Insidious: Out of the Further</sub-title>
+    <desc lang="pt">Os irmãos Dean e Sam vasculham o país em busca de atividades paranormais, brigando com demônios, fantasmas e monstros no caminho.</desc>
+    <category lang="pt">Suspense</category>
+    <category lang="pt">Terror</category>
+  </programme>
+  <programme start="20261126174400 -0300" stop="20261126200800 -0300" air_time_start="20261126174400 -0300" air_time_end="20261126200800 -0300" start_utc="20261126204400 +0000" stop_utc="20261126230800 +0000" air_time_start_utc="20261126204400 +0000" air_time_end_utc="20261126230800 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Wicked: Por Siempre</title>
+    <sub-title lang="es">Wicked: For Good</sub-title>
+    <desc lang="es">La historia de cómo una mujer de piel verde esmeralda se convierte en la Malvada Bruja del Oeste; largometraje basado en el musical de Broadway.</desc>
+    <category lang="es">Familiar</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Musical</category>
+    <category lang="es">Romance</category>
+  </programme>
+  <programme start="20261126175100 -0300" stop="20261126194000 -0300" air_time_start="20261126175100 -0300" air_time_end="20261126194000 -0300" start_utc="20261126205100 +0000" stop_utc="20261126224000 +0000" air_time_start_utc="20261126205100 +0000" air_time_end_utc="20261126224000 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Gato con Botas: El Último Deseo</title>
+    <sub-title lang="es">Las botas</sub-title>
+    <sub-title lang="en">Puss in Boots: The Last Wish</sub-title>
+    <desc lang="es">Al robar las botas encantadas de la Casa del Tesoro, Jack Espadín desencadena un peligroso viento del diablo que amenaza con consumir todo el tesoro del pueblo.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familiar</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20261126184400 -0400" stop="20261126202500 -0400" air_time_start="20261126184400 -0400" air_time_end="20261126202500 -0400" start_utc="20261126224400 +0000" stop_utc="20261127002500 +0000" air_time_start_utc="20261126224400 +0000" air_time_end_utc="20261127002500 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">Underworld: Blood Wars</title>
+    <desc lang="es">A vampire warrior (Kate Beckinsale, The Aviator) is under crossfire: werewolves attempt to catch her and vampires, to kill her. In her blood and her lineage is the key to stop the eternal battle between both monstrous sides. It¿s the fifth part of the Underworld saga.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261126184400 -0600" stop="20261126202500 -0600" air_time_start="20261126184400 -0600" air_time_end="20261126202500 -0600" start_utc="20261127004400 +0000" stop_utc="20261127022500 +0000" air_time_start_utc="20261127004400 +0000" air_time_end_utc="20261127022500 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Inframundo: Guerras de Sangre</title>
+    <sub-title lang="es">Underworld: Blood Wars</sub-title>
+    <desc lang="es">Una guerrera vampira (Kate Beckinsale, El aviador) está bajo fuego cruzado: los licántropos buscan apresarla y los vampiros, matarla. En su sangre y su linaje está la clave para detener la batalla eterna entre ambos bandos monstruosos. Quinta parte de la saga Inframundo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261126184800 -0300" stop="20261126193900 -0300" air_time_start="20261126184800 -0300" air_time_end="20261126193900 -0300" start_utc="20261126214800 +0000" stop_utc="20261126223900 +0000" air_time_start_utc="20261126214800 +0000" air_time_end_utc="20261126223900 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Carlinhos Brown em Meia Lua Inteira: Temporada 1</title>
+    <sub-title lang="pt">Episódio 4</sub-title>
+    <sub-title lang="en">Carlinhos Brown: The Beat of Brazil 01 eps 04</sub-title>
+    <category lang="pt">Documentário</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20261126193900 -0300" stop="20261126202900 -0300" air_time_start="20261126193900 -0300" air_time_end="20261126202900 -0300" start_utc="20261126223900 +0000" stop_utc="20261126232900 +0000" air_time_start_utc="20261126223900 +0000" air_time_end_utc="20261126232900 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Cidade de Deus: A Luta Não Para: Temporada 2</title>
+    <sub-title lang="pt">Episódio 3</sub-title>
+    <sub-title lang="en">City of God: The Fight Rages On 02 eps 03</sub-title>
+    <desc lang="pt">Enquanto Touro aterroriza os moradores e desafia a autoridade de Jerusa, Berenice denuncia a corrupção na Gardênia Azul em um discurso contundente. Leka descobre um artista promissor entre os homens de Geninho.</desc>
+    <category lang="pt">Crime</category>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Policial</category>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/bILBdh1wXwClIh1nCtkV60amGrc.jpg" />
+  </programme>
+  <programme start="20261126194000 -0300" stop="20261126215700 -0300" air_time_start="20261126194000 -0300" air_time_end="20261126215700 -0300" start_utc="20261126224000 +0000" stop_utc="20261127005700 +0000" air_time_start_utc="20261126224000 +0000" air_time_end_utc="20261127005700 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">¡Shazam! La Furia de los Dioses</title>
+    <sub-title lang="es">Shazam! Fury of the Gods</sub-title>
+    <desc lang="es">Billy Batson y sus hermanos adoptivos, que se transforman en superhéroes al decir “¡Shazam!”, se ven obligados a volver a la acción y luchar contra las Hijas de Atlas, a quienes deben evitar que use un arma que podría destruir el mundo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261126200800 -0300" stop="20261126215800 -0300" air_time_start="20261126200800 -0300" air_time_end="20261126215800 -0300" start_utc="20261126230800 +0000" stop_utc="20261127005800 +0000" air_time_start_utc="20261126230800 +0000" air_time_end_utc="20261127005800 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Gato con Botas: El Último Deseo</title>
+    <sub-title lang="es">Las botas</sub-title>
+    <sub-title lang="en">Puss in Boots: The Last Wish</sub-title>
+    <desc lang="es">Al robar las botas encantadas de la Casa del Tesoro, Jack Espadín desencadena un peligroso viento del diablo que amenaza con consumir todo el tesoro del pueblo.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familiar</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20261126202500 -0400" stop="20261126215700 -0400" air_time_start="20261126202500 -0400" air_time_end="20261126215700 -0400" start_utc="20261127002500 +0000" stop_utc="20261127015700 +0000" air_time_start_utc="20261127002500 +0000" air_time_end_utc="20261127015700 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">Hitpig!</title>
+    <desc lang="es">Un cerdo cazarrecompensas se encuentra recorriendo el mundo con un elefante de espíritu libre al que pretendía capturar.</desc>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20261126202500 -0600" stop="20261126215900 -0600" air_time_start="20261126202500 -0600" air_time_end="20261126215900 -0600" start_utc="20261127022500 +0000" stop_utc="20261127035900 +0000" air_time_start_utc="20261127022500 +0000" air_time_end_utc="20261127035900 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">¡Súper Agente Hitpig!</title>
+    <sub-title lang="es">Hitpig!</sub-title>
+    <desc lang="es">Un cerdo cazarrecompensas se encuentra recorriendo el mundo con un elefante de espíritu libre al que pretendía capturar.</desc>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20261126202900 -0300" stop="20261126220000 -0300" air_time_start="20261126202900 -0300" air_time_end="20261126220000 -0300" start_utc="20261126232900 +0000" stop_utc="20261127010000 +0000" air_time_start_utc="20261126232900 +0000" air_time_end_utc="20261127010000 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Sisu: Estrada da Vingança</title>
+    <sub-title lang="pt">Sisu: Road to Revenge</sub-title>
+    <desc lang="pt">Para tentar abocanhar um contrato importante com um dos principais hotéis de Londres, aspirantes a designer transformam espaços sem graça em ambientes incríveis.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Guerra</category>
+  </programme>
+  <programme start="20261126215700 -0300" stop="20261126223400 -0300" air_time_start="20261126215700 -0300" air_time_end="20261126223400 -0300" start_utc="20261127005700 +0000" stop_utc="20261127013400 +0000" air_time_start_utc="20261127005700 +0000" air_time_end_utc="20261127013400 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Una Historia de Derry</title>
+    <sub-title lang="es">A Story of Derry</sub-title>
+    <desc lang="es">Siglos antes de la aparición del payaso Pennywise en Derry, tres chicos nativos americanos encuentran un aterrador espíritu ancestral en el bosque.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261126215700 -0400" stop="20261126235200 -0400" air_time_start="20261126215700 -0400" air_time_end="20261126235200 -0400" start_utc="20261127015700 +0000" stop_utc="20261127035200 +0000" air_time_start_utc="20261127015700 +0000" air_time_end_utc="20261127035200 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">Insidious: Out of the Further</title>
+    <desc lang="es">Un trío de acosadores se infiltra en un tranquilo suburbio y obliga a una nueva familia a entrar en el plano astral, donde descubren una verdad aterradora: el Más Allá se está filtrando al mundo real.</desc>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261126215800 -0300" stop="20261127001200 -0300" air_time_start="20261126215800 -0300" air_time_end="20261127001200 -0300" start_utc="20261127005800 +0000" stop_utc="20261127031200 +0000" air_time_start_utc="20261127005800 +0000" air_time_end_utc="20261127031200 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Superman</title>
+    <sub-title lang="es">Esperando a Superman</sub-title>
+    <sub-title lang="en">Superman</sub-title>
+    <desc lang="es">Chrissy Beppo, con la autorización del Departamento de Defensa, tiene un mensaje para la gente de Smallville, la fusión de planetas no solo es real, sino que está ocurriendo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Familiar</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261126215900 -0600" stop="20261126235100 -0600" air_time_start="20261126215900 -0600" air_time_end="20261126235100 -0600" start_utc="20261127035900 +0000" stop_utc="20261127055100 +0000" air_time_start_utc="20261127035900 +0000" air_time_end_utc="20261127055100 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">La Noche del Demonio: Están Entre Nosotros</title>
+    <sub-title lang="es">Insidious: Out of the Further</sub-title>
+    <desc lang="es">Un trío de acosadores se infiltra en un tranquilo suburbio y obliga a una nueva familia a entrar en el plano astral, donde descubren una verdad aterradora: el Más Allá se está filtrando al mundo real.</desc>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261126220000 -0300" stop="20261127000100 -0300" air_time_start="20261126220000 -0300" air_time_end="20261127000100 -0300" start_utc="20261127010000 +0000" stop_utc="20261127030100 +0000" air_time_start_utc="20261127010000 +0000" air_time_end_utc="20261127030100 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Megatubarão 2</title>
+    <sub-title lang="pt">Meg 2: The Trench</sub-title>
+    <desc lang="pt">Um mergulho exploratório nas profundezas do oceano de uma ousada equipe de pesquisa se transforma em caos quando uma operação de mineração malévola ameaça sua missão e os força a uma batalha de alto risco pela sobrevivência.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Terror</category>
+  </programme>
+  <programme start="20261126223400 -0300" stop="20261127001600 -0300" air_time_start="20261126223400 -0300" air_time_end="20261127001600 -0300" start_utc="20261127013400 +0000" stop_utc="20261127031600 +0000" air_time_start_utc="20261127013400 +0000" air_time_end_utc="20261127031600 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">El Payaso del Maizal</title>
+    <sub-title lang="es">Clown in a Cornfield</sub-title>
+    <desc lang="es">Una adolescente afligida se muda a un pueblo rural donde un payaso asesino desata una sangrienta lucha entre tradición y supervivencia.</desc>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261126235100 -0600" stop="20261127014800 -0600" air_time_start="20261126235100 -0600" air_time_end="20261127014800 -0600" start_utc="20261127055100 +0000" stop_utc="20261127074800 +0000" air_time_start_utc="20261127055100 +0000" air_time_end_utc="20261127074800 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Sé Lo Que Hicieron el Verano Pasado</title>
+    <sub-title lang="es">I Know What You Did Last Summer</sub-title>
+    <desc lang="es">En una ciudad hawaiana bañada por el sol con un pasado misterioso, un grupo de amigos se queda con un oscuro secreto después de un trágico accidente. Un año después, un miembro del grupo recibe un mensaje amenazante y los amigos ahora saben que alguien tiene la intención de hacerles pagar el verano pasado.</desc>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261126235200 -0400" stop="20261127014800 -0400" air_time_start="20261126235200 -0400" air_time_end="20261127014800 -0400" start_utc="20261127035200 +0000" stop_utc="20261127054800 +0000" air_time_start_utc="20261127035200 +0000" air_time_end_utc="20261127054800 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">I Know What You Did Last Summer</title>
+    <desc lang="es">En una ciudad hawaiana bañada por el sol con un pasado misterioso, un grupo de amigos se queda con un oscuro secreto después de un trágico accidente. Un año después, un miembro del grupo recibe un mensaje amenazante y los amigos ahora saben que alguien tiene la intención de hacerles pagar el verano pasado.</desc>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261127000100 -0300" stop="20261127013400 -0300" air_time_start="20261127000100 -0300" air_time_end="20261127013400 -0300" start_utc="20261127030100 +0000" stop_utc="20261127043400 +0000" air_time_start_utc="20261127030100 +0000" air_time_end_utc="20261127043400 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">O Peixe Pout-Pout</title>
+    <sub-title lang="pt">The Pout-Pout Fish</sub-title>
+    <desc lang="pt">Vivendo em um naufrágio decadente, o Sr. Peixe um dia descobre um jovem dragão marinho hiperativo, Pip, que confundiu sua casa com um ferro-velho e roubou seus pertences. A discussão acalorada que se segue deixa as duas casas em ruínas. Mas há esperança! Embarcando em uma jornada aparentemente impossível em busca do mítico 'Brilho' para realizar um desejo, há apenas um problema: alguém mais está à caça...</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Família</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261127001200 -0300" stop="20261127020000 -0300" air_time_start="20261127001200 -0300" air_time_end="20261127020000 -0300" start_utc="20261127031200 +0000" stop_utc="20261127050000 +0000" air_time_start_utc="20261127031200 +0000" air_time_end_utc="20261127050000 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">La Noche del Demonio: Están Entre Nosotros</title>
+    <sub-title lang="es">Insidious: Out of the Further</sub-title>
+    <desc lang="es">Un trío de acosadores se infiltra en un tranquilo suburbio y obliga a una nueva familia a entrar en el plano astral, donde descubren una verdad aterradora: el Más Allá se está filtrando al mundo real.</desc>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261127001600 -0300" stop="20261127021600 -0300" air_time_start="20261127001600 -0300" air_time_end="20261127021600 -0300" start_utc="20261127031600 +0000" stop_utc="20261127051600 +0000" air_time_start_utc="20261127031600 +0000" air_time_end_utc="20261127051600 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Evil Dead: En Llamas</title>
+    <sub-title lang="es">Evil Dead Burn</sub-title>
+    <desc lang="es">Secuela de la saga de películas "Evil Dead". Ash ha pasado los últimos treinta años evitando madurar y luchando contra los horrores surgidos del Necronomicón. Sigue siendo el mismo malhablado sabelotodo de siempre pero de repente se encuentra con que debe volver a coger su motosierra para luchar contra una plaga de Deadites que amenaza con destruir toda la humanidad mientras intenta reconciliarse con su pasado.</desc>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261127013400 -0300" stop="20261127032800 -0300" air_time_start="20261127013400 -0300" air_time_end="20261127032800 -0300" start_utc="20261127043400 +0000" stop_utc="20261127062800 +0000" air_time_start_utc="20261127043400 +0000" air_time_end_utc="20261127062800 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">A Lenda de Tarzan</title>
+    <sub-title lang="pt">The Legend of Tarzan</sub-title>
+    <desc lang="pt">É uma série de TV criada pela Walt Disney Company e baseada em Tarzan de Edgar Rice Burroughs, que funcionou originalmente de 2001 à 2003. A série estrelou Michael T. Weiss como Tarzan, substituindo Tony Goldwyn , e Olivia d'Abo como Jane, substituindo Minnie Driver . A série se passa após o filme de 1999 Tarzan, com o personagem-título ajustando ao seu novo papel como líder dos macacos após a morte de Kerchak, e Jane (agora casada com Tarzan) se adaptando à vida na selva, e a série está situada no mesmo período de tempo como de "Tarzan e Jane", de 2002. Completando o elenco estão: o pai de Jane, Professor Archimedes; Tantor, o elefante germofobico; e Terk, um gorila fêmea, e velho companheiro de luta de Tarzan.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Romance</category>
+  </programme>
+  <programme start="20261127014800 -0400" stop="20261127033800 -0400" air_time_start="20261127014800 -0400" air_time_end="20261127033800 -0400" start_utc="20261127054800 +0000" stop_utc="20261127073800 +0000" air_time_start_utc="20261127054800 +0000" air_time_end_utc="20261127073800 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">Bring Her Back</title>
+    <desc lang="es">Tras el fallecimiento de su padre, dos hermanos son adoptados por una mujer que vive en el bosque y cuyas actitudes les generan sospechas.</desc>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261127014800 -0600" stop="20261127033800 -0600" air_time_start="20261127014800 -0600" air_time_end="20261127033800 -0600" start_utc="20261127074800 +0000" stop_utc="20261127093800 +0000" air_time_start_utc="20261127074800 +0000" air_time_end_utc="20261127093800 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Haz Que Regrese</title>
+    <sub-title lang="es">Bring Her Back</sub-title>
+    <desc lang="es">Tras el fallecimiento de su padre, dos hermanos son adoptados por una mujer que vive en el bosque y cuyas actitudes les generan sospechas.</desc>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261127020000 -0300" stop="20261127023200 -0300" air_time_start="20261127020000 -0300" air_time_end="20261127023200 -0300" start_utc="20261127050000 +0000" stop_utc="20261127053200 +0000" air_time_start_utc="20261127050000 +0000" air_time_end_utc="20261127053200 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Una Historia de Derry</title>
+    <sub-title lang="es">A Story of Derry</sub-title>
+    <desc lang="es">Siglos antes de la aparición del payaso Pennywise en Derry, tres chicos nativos americanos encuentran un aterrador espíritu ancestral en el bosque.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261127021600 -0300" stop="20261127040000 -0300" air_time_start="20261127021600 -0300" air_time_end="20261127040000 -0300" start_utc="20261127051600 +0000" stop_utc="20261127070000 +0000" air_time_start_utc="20261127051600 +0000" air_time_end_utc="20261127070000 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Aquellos Que Desean Mi Muerte</title>
+    <sub-title lang="es">Those Who Wish Me Dead</sub-title>
+    <desc lang="es">La ganadora del Oscar® Angelina Jolie interpreta a Hannah, una bombera que continúa afectada por el fracaso de su última misión. Cuando su camino se cruza con el de Connor, un niño escapando de los asesinos de su padre en el desierto de Montana, Hanna deberá utilizar todas sus dotes de supervivencia para protegerlo mientras un incendio forestal amenaza con consumirlos a todos.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261127023200 -0300" stop="20261127042500 -0300" air_time_start="20261127023200 -0300" air_time_end="20261127042500 -0300" start_utc="20261127053200 +0000" stop_utc="20261127072500 +0000" air_time_start_utc="20261127053200 +0000" air_time_end_utc="20261127072500 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Exterminio: El Templo de Huesos</title>
+    <sub-title lang="es">28 Years Later: The Bone Temple</sub-title>
+    <desc lang="es">Cuatro semanas después de que un misterioso e incurable virus se extendiera por todo el Reino Unido, un puñado de supervivientes intentan encontrar refugio.</desc>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261127032800 -0300" stop="20261127060000 -0300" air_time_start="20261127032800 -0300" air_time_end="20261127060000 -0300" start_utc="20261127062800 +0000" stop_utc="20261127090000 +0000" air_time_start_utc="20261127062800 +0000" air_time_end_utc="20261127090000 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Mulher-Maravilha 1984</title>
+    <sub-title lang="pt">Wonder Woman 1984</sub-title>
+    <desc lang="pt">Na noite de mais um prêmio em sua brilhante carreira, a estilista Andréa Vargas descobre, através de sua irmã, Júlia Moreno, que não é filha legítima de Atílio e Mercedes. Andréa e Júlia vivem às turras desde a adolescência, quando Júlia foi a responsável por separar sua irmã de seu primeiro amor, Diogo. Agora, Andréa é uma profissional famosa no mundo da moda, casada com Bruno, que administra seus negócios. Apesar do grande baque por ter passado a vida toda sem conhecer sua verdadeira mãe, Andréa mal espera que o pior ainda está por vir: Bruno tem um caso com Selma, seu braço-direito no ateliê, e os dois planejam se apossar de todos os seus bens e da marca "Andréa Vargas". Enquanto os dramas de Andréa se acumulam, Júlia vive uma reviravolta em sua pacata vida. O seu marido, Renato, é preso injustamente. Na luta para inocentá-lo, além de toda a sua família, está o repórter Chico Maia, metido com Renato nessa confusão, e com quem Júlia acaba se envolvendo.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Fantasia</category>
+  </programme>
+  <programme start="20261127033800 -0400" stop="20261127060000 -0400" air_time_start="20261127033800 -0400" air_time_end="20261127060000 -0400" start_utc="20261127073800 +0000" stop_utc="20261127100000 +0000" air_time_start_utc="20261127073800 +0000" air_time_end_utc="20261127100000 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">The Matrix</title>
+    <desc lang="es">"In the near future, a computer hacker named Neo (Keanu Reeves) discovers that all life on Earth may be nothing more than an elaborate facade created by a malevolent cyber-intelligence, for the purpose of placating us while our life essence is ""farmed"" to fuel the Matrix's campaign of domination in the ""real"" world. He joins like-minded Rebel warriors Morpheus (Laurence Fishburne) and Trinity (Carrie Ann Moss) in their struggle to overthrow the Matrix."</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Ciencia Ficción</category>
+  </programme>
+  <programme start="20261127033800 -0600" stop="20261127060000 -0600" air_time_start="20261127033800 -0600" air_time_end="20261127060000 -0600" start_utc="20261127093800 +0000" stop_utc="20261127120000 +0000" air_time_start_utc="20261127093800 +0000" air_time_end_utc="20261127120000 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Matrix</title>
+    <sub-title lang="es">The Matrix</sub-title>
+    <desc lang="es">Olvida todo lo que has escuchado sobre el futuro y prepárate para descubrir el universo de Matrix. Keanu Reeves como Neo, Laurence Fishburne como Morpheus y Carrie-Anne Moss como Trinity son las estrellas de esta fantástica aventura cibernética en donde la Tierra está totalmente dominada por máquinas dotadas de inteligencia artificial. En un futuro próximo, hacker Neo sueña constantemente con que es el blanco de los siniestros agentes de una entidad gubernamental paralela. Hasta que un día se da cuenta de que todo está sucediendo realmente. Pronto es convocado por un grupo de rebeldes para desafiar a tal entidad y liberar a la raza humana. Famosa por sus coreografías de lucha, la película ganó todos los Oscars para los que fue nominada: mejor edición, efectos sonoros, efectos visuales y sonido.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Ciencia Ficción</category>
+  </programme>
+  <programme start="20261127040000 -0300" stop="20261127060000 -0300" air_time_start="20261127040000 -0300" air_time_end="20261127060000 -0300" start_utc="20261127070000 +0000" stop_utc="20261127090000 +0000" air_time_start_utc="20261127070000 +0000" air_time_end_utc="20261127090000 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Atómica</title>
+    <sub-title lang="es">Atomic Blonde</sub-title>
+    <desc lang="es">La aparentemente normal Betty Barrett vive una doble vida mientras lucha contra el crimen con la ayuda de un alienígena ruidoso y un robot sabelotodo, protegiendo la galaxia de las malvadas garras de Maximus IQ.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261127042500 -0300" stop="20261127060000 -0300" air_time_start="20261127042500 -0300" air_time_end="20261127060000 -0300" start_utc="20261127072500 +0000" stop_utc="20261127090000 +0000" air_time_start_utc="20261127072500 +0000" air_time_end_utc="20261127090000 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Inframundo: La Rebelión de los Lycans</title>
+    <sub-title lang="es">Underworld: Rise of the Lycans</sub-title>
+    <desc lang="es">Motín en la oscuridad. Los hombres lobo han sido esclavos de los vampiros hasta que un joven lincántropo (Michael Sheen, Tron: el legado) declara la guerra a sus opresores, comandados por un malvado rey (Bill Nighy, Piratas del Caribe: el cofre de la muerte). Precuela ¿y  tercera película¿ de la saga Inframundo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Suspenso</category>
+  </programme>
 </tv>
