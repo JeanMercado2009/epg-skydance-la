@@ -18,53 +18,6 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
-  <programme start="20261122193600 -0600" stop="20261122220000 -0600" air_time_start="20261122193600 -0600" air_time_end="20261122220000 -0600" start_utc="20261123013600 +0000" stop_utc="20261123040000 +0000" air_time_start_utc="20261123013600 +0000" air_time_end_utc="20261123040000 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">RÁPIDOS Y FURIOSOS 6</title>
-    <desc lang="es">Desde el robo en Río, Dom, Brian y el resto del equipo se han esparcido por todo el mundo, aunque sus vidas están incompletas por no poder regresar a su país. Por su parte, Hobbs ha estado rastreando una organización de conductores muy hábiles y letales por 12 países diferentes. La única manera de detener a estos criminales es ganarles en las calles, por lo que Hobbs le pide a Dom que reúna a su equipo de elite en Londres. ¿Su pago? Indultos para que todos puedan regresar a su país y reunirse con sus familias.</desc>
-    <category lang="es">Acción</category>
-  </programme>
-  <programme start="20261122220000 -0300" stop="20261123003300 -0300" air_time_start="20261122220000 -0300" air_time_end="20261123003300 -0300" start_utc="20261123010000 +0000" stop_utc="20261123033300 +0000" air_time_start_utc="20261123010000 +0000" air_time_end_utc="20261123033300 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">RÁPIDOS Y FURIOSOS 7</title>
-    <desc lang="es">Tras derrotar a Owen Shaw, Dominic Toretto, Brian O'Conner y el resto del equipo vuelven a Estados Unidos a vivir la vida normal que siempre habían deseado, pero Deckard, el hermano de Owen, está en busca de Dominic para vengar a su hermano, situación que pone a todo el equipo en peligro. Cuando se enteran de la muerte de su amigo Han, el grupo vuelve a juntarse para encontrar al hombre que mató a uno de los suyos.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Policial</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261122220000 -0400" stop="20261123004300 -0400" air_time_start="20261122220000 -0400" air_time_end="20261123004300 -0400" start_utc="20261123020000 +0000" stop_utc="20261123044300 +0000" air_time_start_utc="20261123020000 +0000" air_time_end_utc="20261123044300 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">RÁPIDOS Y FURIOSOS 7</title>
-    <desc lang="es">Tras derrotar a Owen Shaw, Dominic Toretto, Brian O'Conner y el resto del equipo vuelven a Estados Unidos a vivir la vida normal que siempre habían deseado, pero Deckard, el hermano de Owen, está en busca de Dominic para vengar a su hermano, situación que pone a todo el equipo en peligro. Cuando se enteran de la muerte de su amigo Han, el grupo vuelve a juntarse para encontrar al hombre que mató a uno de los suyos.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Policial</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261122220000 -0500" stop="20261123004400 -0500" air_time_start="20261122220000 -0500" air_time_end="20261123004400 -0500" start_utc="20261123030000 +0000" stop_utc="20261123054400 +0000" air_time_start_utc="20261123030000 +0000" air_time_end_utc="20261123054400 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">RÁPIDOS Y FURIOSOS 7</title>
-    <desc lang="es">Tras derrotar a Owen Shaw, Dominic Toretto, Brian O'Conner y el resto del equipo vuelven a Estados Unidos a vivir la vida normal que siempre habían deseado, pero Deckard, el hermano de Owen, está en busca de Dominic para vengar a su hermano, situación que pone a todo el equipo en peligro. Cuando se enteran de la muerte de su amigo Han, el grupo vuelve a juntarse para encontrar al hombre que mató a uno de los suyos.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Policial</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261122220000 -0500" stop="20261123003300 -0500" air_time_start="20261122220000 -0500" air_time_end="20261123003300 -0500" start_utc="20261123030000 +0000" stop_utc="20261123053300 +0000" air_time_start_utc="20261123030000 +0000" air_time_end_utc="20261123053300 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">RÁPIDOS Y FURIOSOS 7</title>
-    <desc lang="es">Tras derrotar a Owen Shaw, Dominic Toretto, Brian O'Conner y el resto del equipo vuelven a Estados Unidos a vivir la vida normal que siempre habían deseado, pero Deckard, el hermano de Owen, está en busca de Dominic para vengar a su hermano, situación que pone a todo el equipo en peligro. Cuando se enteran de la muerte de su amigo Han, el grupo vuelve a juntarse para encontrar al hombre que mató a uno de los suyos.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Policial</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261122220000 -0600" stop="20261123003100 -0600" air_time_start="20261122220000 -0600" air_time_end="20261123003100 -0600" start_utc="20261123040000 +0000" stop_utc="20261123063100 +0000" air_time_start_utc="20261123040000 +0000" air_time_end_utc="20261123063100 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">RÁPIDOS Y FURIOSOS 7</title>
-    <desc lang="es">Tras derrotar a Owen Shaw, Dominic Toretto, Brian O'Conner y el resto del equipo vuelven a Estados Unidos a vivir la vida normal que siempre habían deseado, pero Deckard, el hermano de Owen, está en busca de Dominic para vengar a su hermano, situación que pone a todo el equipo en peligro. Cuando se enteran de la muerte de su amigo Han, el grupo vuelve a juntarse para encontrar al hombre que mató a uno de los suyos.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Policial</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261123001700 -0300" stop="20261123024900 -0300" air_time_start="20261123001700 -0300" air_time_end="20261123024900 -0300" start_utc="20261123031700 +0000" stop_utc="20261123054900 +0000" air_time_start_utc="20261123031700 +0000" air_time_end_utc="20261123054900 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">BASTARDOS INGLÓRIOS</title>
-    <desc lang="pt">Neste drama de guerra dirigido por Quentin Tarantino e indicado a oito Prêmios da Academia - incluindo a categoria de melhor filme -, Brad Pitt interpreta o impiedoso líder de um grupo de guerrilha judeu-americano que planeja pôr em prática uma grande execução nazista durante uma ilustre estreia cinematográfica em Paris. O cinema é administrado pela jovem refugiada judia Shosanna Dreyfus, que testemunhou o assassinato de sua família anos antes e que agora tem seus próprios planos para os nazistas. Conforme os brutais soldados avançam e os planos da jovem são postos em prática, seus caminhos se cruzam em uma noite decisiva que sacudirá a história.</desc>
-    <category lang="pt">Guerra</category>
-    <category lang="pt">Drama</category>
-    <category lang="pt">Suspense</category>
-  </programme>
   <programme start="20261123003100 -0600" stop="20261123031600 -0600" air_time_start="20261123003100 -0600" air_time_end="20261123031600 -0600" start_utc="20261123063100 +0000" stop_utc="20261123091600 +0000" air_time_start_utc="20261123063100 +0000" air_time_end_utc="20261123091600 +0000" is_live="false" channel="TNT_MX.mx">
     <title lang="es">BASTARDOS SIN GLORIA</title>
     <desc lang="es">En este drama bélico dirigido por Quentin Tarantino y nominado a ocho premios de la Academia,incluyendo Mejor película, Brad Pitt interpreta al despiadado líder de un grupo guerrillero judeo-norteamericano que planea poner en práctica una gran ejecución nazi durante un ilustre estreno cinematográfico en París. En cine es administrado por la joven refugiada judía Shosanna Dreyfus, que presenció el asesinato de su familia años antes y que ahora tiene sus propios planes para los nazis. A medida que los brutales soldados avanzan y los planes de la joven son puestos en práctica, sus caminos se cruzan en una noche decisiva que sacudirá la historia.</desc>
@@ -72,50 +25,7 @@
     <category lang="es">Drama</category>
     <category lang="es">Suspenso</category>
   </programme>
-  <programme start="20261123003300 -0300" stop="20261123031400 -0300" air_time_start="20261123003300 -0300" air_time_end="20261123031400 -0300" start_utc="20261123033300 +0000" stop_utc="20261123061400 +0000" air_time_start_utc="20261123033300 +0000" air_time_end_utc="20261123061400 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">BASTARDOS SIN GLORIA</title>
-    <desc lang="es">En este drama bélico dirigido por Quentin Tarantino y nominado a ocho premios de la Academia,incluyendo Mejor película, Brad Pitt interpreta al despiadado líder de un grupo guerrillero judeo-norteamericano que planea poner en práctica una gran ejecución nazi durante un ilustre estreno cinematográfico en París. En cine es administrado por la joven refugiada judía Shosanna Dreyfus, que presenció el asesinato de su familia años antes y que ahora tiene sus propios planes para los nazis. A medida que los brutales soldados avanzan y los planes de la joven son puestos en práctica, sus caminos se cruzan en una noche decisiva que sacudirá la historia.</desc>
-    <category lang="es">Bélica</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261123003300 -0500" stop="20261123022400 -0500" air_time_start="20261123003300 -0500" air_time_end="20261123022400 -0500" start_utc="20261123053300 +0000" stop_utc="20261123072400 +0000" air_time_start_utc="20261123053300 +0000" air_time_end_utc="20261123072400 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">EL PROTECTOR</title>
-    <sub-title lang="es">MARKSMAN, THE</sub-title>
-    <desc lang="es">Jim (Liam Neeson) es un ranchero de Arizona que se envuelve en una peligrosa batalla para proteger a un niño mexicano de un cartel.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261123004300 -0400" stop="20261123032600 -0400" air_time_start="20261123004300 -0400" air_time_end="20261123032600 -0400" start_utc="20261123044300 +0000" stop_utc="20261123072600 +0000" air_time_start_utc="20261123044300 +0000" air_time_end_utc="20261123072600 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">BASTARDOS SIN GLORIA</title>
-    <desc lang="es">En este drama bélico dirigido por Quentin Tarantino y nominado a ocho premios de la Academia,incluyendo Mejor película, Brad Pitt interpreta al despiadado líder de un grupo guerrillero judeo-norteamericano que planea poner en práctica una gran ejecución nazi durante un ilustre estreno cinematográfico en París. En cine es administrado por la joven refugiada judía Shosanna Dreyfus, que presenció el asesinato de su familia años antes y que ahora tiene sus propios planes para los nazis. A medida que los brutales soldados avanzan y los planes de la joven son puestos en práctica, sus caminos se cruzan en una noche decisiva que sacudirá la historia.</desc>
-    <category lang="es">Bélica</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261123004400 -0500" stop="20261123032500 -0500" air_time_start="20261123004400 -0500" air_time_end="20261123032500 -0500" start_utc="20261123054400 +0000" stop_utc="20261123082500 +0000" air_time_start_utc="20261123054400 +0000" air_time_end_utc="20261123082500 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">BASTARDOS SIN GLORIA</title>
-    <desc lang="es">En este drama bélico dirigido por Quentin Tarantino y nominado a ocho premios de la Academia,incluyendo Mejor película, Brad Pitt interpreta al despiadado líder de un grupo guerrillero judeo-norteamericano que planea poner en práctica una gran ejecución nazi durante un ilustre estreno cinematográfico en París. En cine es administrado por la joven refugiada judía Shosanna Dreyfus, que presenció el asesinato de su familia años antes y que ahora tiene sus propios planes para los nazis. A medida que los brutales soldados avanzan y los planes de la joven son puestos en práctica, sus caminos se cruzan en una noche decisiva que sacudirá la historia.</desc>
-    <category lang="es">Bélica</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-  </programme>
   <programme start="20261123022400 -0500" stop="20261123035200 -0500" air_time_start="20261123022400 -0500" air_time_end="20261123035200 -0500" start_utc="20261123072400 +0000" stop_utc="20261123085200 +0000" air_time_start_utc="20261123072400 +0000" air_time_end_utc="20261123085200 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">Rendirse Jamás 4: La Revuelta</title>
-    <sub-title lang="es">Never Back Down: Revolt</sub-title>
-    <desc lang="es">Después de ser coaccionada por una organización criminal, una luchadora amateur debe competir en un ring de peleas ilegales o morir.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-  </programme>
-  <programme start="20261123024900 -0300" stop="20261123041400 -0300" air_time_start="20261123024900 -0300" air_time_end="20261123041400 -0300" start_utc="20261123054900 +0000" stop_utc="20261123071400 +0000" air_time_start_utc="20261123054900 +0000" air_time_end_utc="20261123071400 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">Quebrando as Regras 4</title>
-    <sub-title lang="pt">Never Back Down: Revolt</sub-title>
-    <desc lang="pt">Após ser atraída por uma organização criminosa, uma lutadora amadora deve competir num ringue de lutas ilegais ou então morrer.</desc>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Crime</category>
-  </programme>
-  <programme start="20261123031400 -0300" stop="20261123044300 -0300" air_time_start="20261123031400 -0300" air_time_end="20261123044300 -0300" start_utc="20261123061400 +0000" stop_utc="20261123074300 +0000" air_time_start_utc="20261123061400 +0000" air_time_end_utc="20261123074300 +0000" is_live="false" channel="TNT_AR.ar">
     <title lang="es">Rendirse Jamás 4: La Revuelta</title>
     <sub-title lang="es">Never Back Down: Revolt</sub-title>
     <desc lang="es">Después de ser coaccionada por una organización criminal, una luchadora amateur debe competir en un ring de peleas ilegales o morir.</desc>
@@ -151,29 +61,11 @@
     <category lang="es">Comedia</category>
     <category lang="es">Crimen</category>
   </programme>
-  <programme start="20261123041400 -0300" stop="20261123044900 -0300" air_time_start="20261123041400 -0300" air_time_end="20261123044900 -0300" start_utc="20261123071400 +0000" stop_utc="20261123074900 +0000" air_time_start_utc="20261123071400 +0000" air_time_end_utc="20261123074900 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="pt">Variedades</category>
-    <episode-num system="xmltv_ns">-1.18.</episode-num>
-  </programme>
-  <programme start="20261123044300 -0300" stop="20261123051800 -0300" air_time_start="20261123044300 -0300" air_time_end="20261123051800 -0300" start_utc="20261123074300 +0000" stop_utc="20261123081800 +0000" air_time_start_utc="20261123074300 +0000" air_time_end_utc="20261123081800 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.15.</episode-num>
-  </programme>
   <programme start="20261123044600 -0600" stop="20261123052400 -0600" air_time_start="20261123044600 -0600" air_time_end="20261123052400 -0600" start_utc="20261123104600 +0000" stop_utc="20261123112400 +0000" air_time_start_utc="20261123104600 +0000" air_time_end_utc="20261123112400 +0000" is_live="false" channel="TNT_MX.mx">
     <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
     <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
     <category lang="es">Entretenimiento</category>
     <episode-num system="xmltv_ns">-1.18.</episode-num>
-  </programme>
-  <programme start="20261123044900 -0300" stop="20261123052400 -0300" air_time_start="20261123044900 -0300" air_time_end="20261123052400 -0300" start_utc="20261123074900 +0000" stop_utc="20261123082400 +0000" air_time_start_utc="20261123074900 +0000" air_time_end_utc="20261123082400 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="pt">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="pt">Variedades</category>
-    <episode-num system="xmltv_ns">-1.19.</episode-num>
   </programme>
   <programme start="20261123045400 -0500" stop="20261123053000 -0500" air_time_start="20261123045400 -0500" air_time_end="20261123053000 -0500" start_utc="20261123095400 +0000" stop_utc="20261123103000 +0000" air_time_start_utc="20261123095400 +0000" air_time_end_utc="20261123103000 +0000" is_live="false" channel="TNT_CO.co">
     <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
