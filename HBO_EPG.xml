@@ -15,490 +15,12 @@
   <channel id="HBO_BBO.br">
     <display-name lang="pt">HBO Brasil</display-name>
   </channel>
-  <programme start="20261123060000 -0300" stop="20261123075000 -0300" air_time_start="20261123060000 -0300" air_time_end="20261123075000 -0300" start_utc="20261123090000 +0000" stop_utc="20261123105000 +0000" air_time_start_utc="20261123090000 +0000" air_time_end_utc="20261123105000 +0000" is_live="false" channel="HBO_CHO.cl">
-    <title lang="es">Last Christmas: Otra Oportunidad para Amar</title>
-    <sub-title lang="es">Last Christmas</sub-title>
-    <desc lang="es">Kate (Emilia Clarke) es una mujer joven que suele tomar siempre la decisión menos acertada. ¿Su último error? Haber aceptado un trabajo como elfo de Santa Claus en un centro comercial. Sin embargo, el destino la lleva a conocer a Tom (Henry Golding), circunstancia que cambia por completo su vida. Para Kate, todo es demasiado bueno para ser cierto.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261123060000 -0300" stop="20261123082500 -0300" air_time_start="20261123060000 -0300" air_time_end="20261123082500 -0300" start_utc="20261123110000 +0000" stop_utc="20261123132500 +0000" air_time_start_utc="20261123110000 +0000" air_time_end_utc="20261123132500 +0000" is_live="false" channel="HBO_PAO.co">
-    <title lang="es">Enemigos Públicos</title>
-    <desc lang="es">Se busca a John Dillinger muerto o muerto. Johnny Depp se jacta de asaltar un banco en menos de dos minutos en Enemigos Públicos, un film explosivo basado en hechos reales y dirigido por el experto en acción Michael Mann (Colateral, Miami Vice).  En la Chicago de la década de 1930, el carismático ladrón de bancos John Dillinger (Depp) desafía a la ley con su banda. Mientras Dillinger se convierte en un héroe popular, el jefe del FBI, J. Edgar Hoover  está obsesionado por capturarlo y asigna a su mejor agente, Melvin Purvis (Christian Bale, Batman: el caballero de la noche asciende), para cazarlo. Persecuciones, tiros y mucha acción en Enemigos públicos, que cuenta también con la actuación de Marion Cotillard (La vie en rose).</desc>
-    <category lang="es">Drama</category>
-    <category lang="es">Policial</category>
-  </programme>
-  <programme start="20261123060000 -0300" stop="20261123072500 -0300" air_time_start="20261123060000 -0300" air_time_end="20261123072500 -0300" start_utc="20261123090000 +0000" stop_utc="20261123102500 +0000" air_time_start_utc="20261123090000 +0000" air_time_end_utc="20261123102500 +0000" is_live="false" channel="HBO_BBO.br">
-    <title lang="pt">O Jogo da Invocação</title>
-    <sub-title lang="pt">All Fun and Games</sub-title>
-    <desc lang="pt">Duas crianças brincam com seu sádico primo mais velho e despertam uma entidade cruel conhecida como "O Skarrow".</desc>
-    <category lang="pt">Terror</category>
-  </programme>
-  <programme start="20261123060000 -0400" stop="20261123064400 -0400" air_time_start="20261123060000 -0400" air_time_end="20261123064400 -0400" start_utc="20261123100000 +0000" stop_utc="20261123104400 +0000" air_time_start_utc="20261123100000 +0000" air_time_end_utc="20261123104400 +0000" is_live="false" channel="HBO_BCO.co">
-    <title lang="es">The Hotline</title>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20261123060000 -0600" stop="20261123064500 -0600" air_time_start="20261123060000 -0600" air_time_end="20261123064500 -0600" start_utc="20261123120000 +0000" stop_utc="20261123124500 +0000" air_time_start_utc="20261123120000 +0000" air_time_end_utc="20261123124500 +0000" is_live="false" channel="HBO_BMO.mx">
-    <title lang="es">Al Otro Lado de la Línea de Ayuda</title>
-    <sub-title lang="es">The Hotline</sub-title>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20261123064400 -0400" stop="20261123084900 -0400" air_time_start="20261123064400 -0400" air_time_end="20261123084900 -0400" start_utc="20261123104400 +0000" stop_utc="20261123124900 +0000" air_time_start_utc="20261123104400 +0000" air_time_end_utc="20261123124900 +0000" is_live="false" channel="HBO_BCO.co">
-    <title lang="es">How Do You Know</title>
-    <desc lang="es">Lidiando con el desprecio de no haber sido convocada para el equipo nacional de sóftbol, la recientemente separada Lisa se involucra en un acalorado triángulo amoroso.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261123064500 -0600" stop="20261123085100 -0600" air_time_start="20261123064500 -0600" air_time_end="20261123085100 -0600" start_utc="20261123124500 +0000" stop_utc="20261123145100 +0000" air_time_start_utc="20261123124500 +0000" air_time_end_utc="20261123145100 +0000" is_live="false" channel="HBO_BMO.mx">
-    <title lang="es">¿Cómo Saber Si Es Amor?</title>
-    <sub-title lang="es">How Do You Know</sub-title>
-    <desc lang="es">Lidiando con el desprecio de no haber sido convocada para el equipo nacional de sóftbol, la recientemente separada Lisa se involucra en un acalorado triángulo amoroso.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261123072500 -0300" stop="20261123074500 -0300" air_time_start="20261123072500 -0300" air_time_end="20261123074500 -0300" start_utc="20261123102500 +0000" stop_utc="20261123104500 +0000" air_time_start_utc="20261123102500 +0000" air_time_end_utc="20261123104500 +0000" is_live="false" channel="HBO_BBO.br">
-    <title lang="pt">Narrativas Negras Não Contadas: Temporada 3</title>
-    <sub-title lang="pt">A Voz do Corpo</sub-title>
-    <sub-title lang="en">Black Brazil Unspoken 03 eps 01</sub-title>
-    <desc lang="pt">Poetas surdos compartilham suas histórias em Libras no "Slam do Corpo", primeira batalha de poesia do mundo a reunir surdos e ouvintes. O curta de Luccas Araújo revela uma poesia que se vê e se sente.</desc>
-    <category lang="pt">Documentário</category>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/gFRrsqUfz2oUeSTXyMydyKZcQoB.jpg" />
-  </programme>
-  <programme start="20261123074500 -0300" stop="20261123093000 -0300" air_time_start="20261123074500 -0300" air_time_end="20261123093000 -0300" start_utc="20261123104500 +0000" stop_utc="20261123123000 +0000" air_time_start_utc="20261123104500 +0000" air_time_end_utc="20261123123000 +0000" is_live="false" channel="HBO_BBO.br">
-    <title lang="pt">Arranha-Céu: Coragem sem Limite</title>
-    <sub-title lang="pt">Skyscraper</sub-title>
-    <desc lang="pt">Will Sawyer, veterano de guerra e ex-líder da equipe de resgate do FBI, é agora responsável pela segurança de arranha-céus, trabalhando na China. Quando descobre que o mais alto e seguro edifício do mundo está em chamas e ele está sendo acusado por isso, Will torna-se um foragido procurado e precisa encontrar os verdadeiros culpados, limpar seu nome e, de alguma forma, resgatar sua família, que está no prédio, acima da linha de fogo.</desc>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Suspense</category>
-  </programme>
-  <programme start="20261123075000 -0300" stop="20261123095200 -0300" air_time_start="20261123075000 -0300" air_time_end="20261123095200 -0300" start_utc="20261123105000 +0000" stop_utc="20261123125200 +0000" air_time_start_utc="20261123105000 +0000" air_time_end_utc="20261123125200 +0000" is_live="false" channel="HBO_CHO.cl">
-    <title lang="es">Luna de Miel en Familia</title>
-    <sub-title lang="es">Blended</sub-title>
-    <desc lang="es">Un hombre y una mujer va un resort con sus respectivas familias y no pueden ocultar su sorpresa al verse el uno al otro. Ya se conocían, había tenido una cita a ciegas hace algún tiempo, una cita cuyo resultado no había sido para nada satisfactorio. No obstante, contra todo pronóstico, la tracción que entonces no sintieron hace ahora su aparición. Pero ellos no son los únicos que se ven beneficiados por esto, sus hijos también saben sacar partido a la situación, convirtiendo la creciente relación en algo de lo que pueden sacar provecho.</desc>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261123082500 -0300" stop="20261123102400 -0300" air_time_start="20261123082500 -0300" air_time_end="20261123102400 -0300" start_utc="20261123132500 +0000" stop_utc="20261123152400 +0000" air_time_start_utc="20261123132500 +0000" air_time_end_utc="20261123152400 +0000" is_live="false" channel="HBO_PAO.co">
-    <title lang="es">Cómplices del Engaño</title>
-    <sub-title lang="es">Hit Man</sub-title>
-    <desc lang="es">Un profesor puritano descubre su talento oculto como falso asesino a sueldo. Encuentra su pareja en un cliente que le roba el corazón y enciende un polvorín de engaño, deleite e identidades confusas. Inspirado en una increíble historia real.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Romance</category>
-  </programme>
-  <programme start="20261123084900 -0400" stop="20261123104100 -0400" air_time_start="20261123084900 -0400" air_time_end="20261123104100 -0400" start_utc="20261123124900 +0000" stop_utc="20261123144100 +0000" air_time_start_utc="20261123124900 +0000" air_time_end_utc="20261123144100 +0000" is_live="false" channel="HBO_BCO.co">
-    <title lang="es">Life</title>
-    <desc lang="es">Life is a terrifying thriller about a team of scientists aboard the International Space Station whose mission of discovery turns to one of primal fear when they find a rapidly evolving life form that caused extinction on Mars, and now threatens the crew and all life on Earth.</desc>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261123085100 -0600" stop="20261123104200 -0600" air_time_start="20261123085100 -0600" air_time_end="20261123104200 -0600" start_utc="20261123145100 +0000" stop_utc="20261123164200 +0000" air_time_start_utc="20261123145100 +0000" air_time_end_utc="20261123164200 +0000" is_live="false" channel="HBO_BMO.mx">
-    <title lang="es">Life: Vida Inteligente</title>
-    <sub-title lang="es">Life</sub-title>
-    <desc lang="es">Seis miembros de la tripulación de la Estación Espacial Internacional están a punto de lograr uno de los descubrimientos más importantes en la historia humana: la primera evidencia de vida extraterrestre en Marte. A medida que el equipo comienza a investigar y sus métodos tienen consecuencias inesperadas, la forma viviente demostrará ser más inteligente de lo que cualquiera esperaba.</desc>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261123093000 -0300" stop="20261123112000 -0300" air_time_start="20261123093000 -0300" air_time_end="20261123112000 -0300" start_utc="20261123123000 +0000" stop_utc="20261123142000 +0000" air_time_start_utc="20261123123000 +0000" air_time_end_utc="20261123142000 +0000" is_live="false" channel="HBO_BBO.br">
-    <title lang="pt">Supergirl</title>
-    <desc lang="pt">Para impedir um desastre, Kara Danvers revela seus poderes e sua verdadeira identidade: ela é a Supergirl, a protetora de National City e prima do Superman.</desc>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Aventura</category>
-  </programme>
-  <programme start="20261123095200 -0300" stop="20261123113500 -0300" air_time_start="20261123095200 -0300" air_time_end="20261123113500 -0300" start_utc="20261123125200 +0000" stop_utc="20261123143500 +0000" air_time_start_utc="20261123125200 +0000" air_time_end_utc="20261123143500 +0000" is_live="false" channel="HBO_CHO.cl">
-    <title lang="es">Karate Kid: Leyendas</title>
-    <sub-title lang="es">Karate Kid: Legends</sub-title>
-    <desc lang="es">Daniel San, el maestro Miyagi y Taki viajan por el mundo intentando conseguir un antiguo amuleto chino que da poderes sobrehumanos a quien lo controla. En cada episodio algun pobre infeliz se corrompe por el poder que le da el amuleto. Cada vez es diferente. Al final, Miyagi y compañía le quitan el amuleto al que lo encontró al principio, pero lo pierden y tienen que viajar a un país diferente para volver a repetir la historia.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Deporte</category>
-    <category lang="es">Drama</category>
-  </programme>
-  <programme start="20261123102400 -0300" stop="20261123122500 -0300" air_time_start="20261123102400 -0300" air_time_end="20261123122500 -0300" start_utc="20261123152400 +0000" stop_utc="20261123172500 +0000" air_time_start_utc="20261123152400 +0000" air_time_end_utc="20261123172500 +0000" is_live="false" channel="HBO_PAO.co">
-    <title lang="es">Barbie</title>
-    <desc lang="es">Acompáñanos a ver las aventuras de Barbie y sus hermanas, Chelsea, Stacie y Skipper,</desc>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Fantasía</category>
-  </programme>
-  <programme start="20261123104100 -0400" stop="20261123121900 -0400" air_time_start="20261123104100 -0400" air_time_end="20261123121900 -0400" start_utc="20261123144100 +0000" stop_utc="20261123161900 +0000" air_time_start_utc="20261123144100 +0000" air_time_end_utc="20261123161900 +0000" is_live="false" channel="HBO_BCO.co">
-    <title lang="es">The Pout-Pout Fish</title>
-    <desc lang="es">Más de mil años antes de los eventos de «The Witcher», siete parias de un mundo élfico unen sus fuerzas en una misión contra un imperio todopoderoso.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Familiar</category>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme start="20261123104200 -0600" stop="20261123122000 -0600" air_time_start="20261123104200 -0600" air_time_end="20261123122000 -0600" start_utc="20261123164200 +0000" stop_utc="20261123182000 +0000" air_time_start_utc="20261123164200 +0000" air_time_end_utc="20261123182000 +0000" is_live="false" channel="HBO_BMO.mx">
-    <title lang="es">El Pez Pucheros</title>
-    <sub-title lang="es">The Pout-Pout Fish</sub-title>
-    <desc lang="es">Cuando se produce una catástrofe, el huraño y susceptible Pez Pucheros y su hiperactivo compañero, el dragón marino Pip, deben embarcarse en una aventura en busca de un pez mítico que les conceda el deseo de salvar sus hogares.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Familiar</category>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme start="20261123112000 -0300" stop="20261123130500 -0300" air_time_start="20261123112000 -0300" air_time_end="20261123130500 -0300" start_utc="20261123142000 +0000" stop_utc="20261123160500 +0000" air_time_start_utc="20261123142000 +0000" air_time_end_utc="20261123160500 +0000" is_live="false" channel="HBO_BBO.br">
-    <title lang="pt">O Fim da Rua</title>
-    <sub-title lang="pt">The End of Oak Street</sub-title>
-    <desc lang="pt">Após um misterioso evento cósmico abalar o bairro Oak Street e o transportar dos subúrbios para um lugar desconhecido, a família Platt descobre que sua sobrevivência vai depender da união entre todos para enfrentar um ambiente agora irreconhecível.</desc>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Ficção Científica</category>
-  </programme>
-  <programme start="20261123113500 -0300" stop="20261123140500 -0300" air_time_start="20261123113500 -0300" air_time_end="20261123140500 -0300" start_utc="20261123143500 +0000" stop_utc="20261123170500 +0000" air_time_start_utc="20261123143500 +0000" air_time_end_utc="20261123170500 +0000" is_live="false" channel="HBO_CHO.cl">
-    <title lang="es">Aquaman</title>
-    <desc lang="es">Aquaman relata la historia sobre el origen del mitad humano, mitad atlante, Arthur Curry y acerca del viaje de su vida, uno que no solo lo obligará a confrontar quién es en realidad, sino que además descubrirá si es capaz de ser quien fue destinado a ser... un rey.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Fantasía</category>
-  </programme>
-  <programme start="20261123121900 -0400" stop="20261123141900 -0400" air_time_start="20261123121900 -0400" air_time_end="20261123141900 -0400" start_utc="20261123161900 +0000" stop_utc="20261123181900 +0000" air_time_start_utc="20261123161900 +0000" air_time_end_utc="20261123181900 +0000" is_live="false" channel="HBO_BCO.co">
-    <title lang="es">Mother Mary</title>
-    <desc lang="es">Viejas heridas enterradas salen a la luz cuando la icónica estrella del pop, Mother Mary, se reencuentra con su distanciada mejor amiga y exdiseñadora de vestuario, Sam Anselm, en la víspera de su actuación de regreso.</desc>
-    <category lang="es">Drama</category>
-  </programme>
-  <programme start="20261123122000 -0600" stop="20261123142000 -0600" air_time_start="20261123122000 -0600" air_time_end="20261123142000 -0600" start_utc="20261123182000 +0000" stop_utc="20261123202000 +0000" air_time_start_utc="20261123182000 +0000" air_time_end_utc="20261123202000 +0000" is_live="false" channel="HBO_BMO.mx">
-    <title lang="es">Mother Mary</title>
-    <desc lang="es">Viejas heridas enterradas salen a la luz cuando la icónica estrella del pop, Mother Mary, se reencuentra con su distanciada mejor amiga y exdiseñadora de vestuario, Sam Anselm, en la víspera de su actuación de regreso.</desc>
-    <category lang="es">Drama</category>
-  </programme>
-  <programme start="20261123122500 -0300" stop="20261123141000 -0300" air_time_start="20261123122500 -0300" air_time_end="20261123141000 -0300" start_utc="20261123172500 +0000" stop_utc="20261123191000 +0000" air_time_start_utc="20261123172500 +0000" air_time_end_utc="20261123191000 +0000" is_live="false" channel="HBO_PAO.co">
-    <title lang="es">Super Mario Galaxy: La Película</title>
-    <sub-title lang="es">The Super Mario Galaxy Movie</sub-title>
-    <desc lang="es">Mario y Luigi se enfrentan una nueva amenaza: Bowser Jr., quién está decidido liberar a su padre del cautiverio y restaurar el legado familiar. Junto con nuevos y viejos compañeros, los hermanos viajan a través de las estrellas para detener la cruzada del joven heredero.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familiar</category>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme start="20261123130500 -0300" stop="20261123140000 -0300" air_time_start="20261123130500 -0300" air_time_end="20261123140000 -0300" start_utc="20261123160500 +0000" stop_utc="20261123170000 +0000" air_time_start_utc="20261123160500 +0000" air_time_end_utc="20261123170000 +0000" is_live="false" channel="HBO_BBO.br">
-    <title lang="pt">Guerra</title>
-    <sub-title lang="pt">Sócios</sub-title>
-    <sub-title lang="en">War 01 eps 08</sub-title>
-    <desc lang="pt">Após uma revelação impactante que leva o Cathcarts e a Taylor &amp; Byrne a culparem um ao outro pelo vazamento, Carla sobe ao banco das testemunhas. Enquanto isso, Johnny faz um último esforço desesperado para salvar o caso... e sua carreira.</desc>
-    <category lang="pt">Drama</category>
-    <category lang="pt">Suspense</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/kJCbi3Jlp7kTQai6DALMXlKuu2H.jpg" />
-  </programme>
-  <programme start="20261123140000 -0300" stop="20261123154500 -0300" air_time_start="20261123140000 -0300" air_time_end="20261123154500 -0300" start_utc="20261123170000 +0000" stop_utc="20261123184500 +0000" air_time_start_utc="20261123170000 +0000" air_time_end_utc="20261123184500 +0000" is_live="false" channel="HBO_BBO.br">
-    <title lang="pt">Acompanhante Perfeita</title>
-    <desc lang="pt">Josh e Iris parecem ser o casal ideal, até que um incidente mortal em uma viagem com amigos revela um segredo sombrio: Iris é uma androide criada para satisfazer Josh. E o que era para ser perfeito logo se torna incontrolável.</desc>
-    <category lang="pt">Ficção Científica</category>
-    <category lang="pt">Comédia</category>
-    <category lang="pt">Suspense</category>
-  </programme>
-  <programme start="20261123140500 -0300" stop="20261123160700 -0300" air_time_start="20261123140500 -0300" air_time_end="20261123160700 -0300" start_utc="20261123170500 +0000" stop_utc="20261123190700 +0000" air_time_start_utc="20261123170500 +0000" air_time_end_utc="20261123190700 +0000" is_live="false" channel="HBO_CHO.cl">
-    <title lang="es">Godzilla vs. Kong</title>
-    <desc lang="es">Kong y sus protectores se encuentran en un peligroso viaje en busca de su verdadero hogar cuando se cruzan en el camino de destrucción de un Godzilla enfurecido. Instigados por fuerzas desconocidas, el enfrentamiento entre estos dos míticos adversarios revela un misterio oculto en las profundidades del núcleo de la Tierra - y el destino del mundo pende de un hilo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261123141000 -0300" stop="20261123150900 -0300" air_time_start="20261123141000 -0300" air_time_end="20261123150900 -0300" start_utc="20261123191000 +0000" stop_utc="20261123200900 +0000" air_time_start_utc="20261123191000 +0000" air_time_end_utc="20261123200900 +0000" is_live="false" channel="HBO_PAO.co">
-    <title lang="es">Guerra</title>
-    <sub-title lang="es">Episodio 8</sub-title>
-    <sub-title lang="en">Partners</sub-title>
-    <desc lang="es">Dos de los bufetes de abogados más poderosos de Londres se enfrentan explosivas batallas legales.</desc>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/kJCbi3Jlp7kTQai6DALMXlKuu2H.jpg" />
-  </programme>
-  <programme start="20261123141900 -0400" stop="20261123152000 -0400" air_time_start="20261123141900 -0400" air_time_end="20261123152000 -0400" start_utc="20261123181900 +0000" stop_utc="20261123192000 +0000" air_time_start_utc="20261123181900 +0000" air_time_end_utc="20261123192000 +0000" is_live="false" channel="HBO_BCO.co">
-    <title lang="es">War</title>
-    <sub-title lang="es">Episodio 8</sub-title>
-    <sub-title lang="en">War 01 eps 08</sub-title>
-    <desc lang="es">Dos de los bufetes de abogados más poderosos de Londres se enfrentan explosivas batallas legales.</desc>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/kJCbi3Jlp7kTQai6DALMXlKuu2H.jpg" />
-  </programme>
-  <programme start="20261123142000 -0600" stop="20261123152000 -0600" air_time_start="20261123142000 -0600" air_time_end="20261123152000 -0600" start_utc="20261123202000 +0000" stop_utc="20261123212000 +0000" air_time_start_utc="20261123202000 +0000" air_time_end_utc="20261123212000 +0000" is_live="false" channel="HBO_BMO.mx">
-    <title lang="es">Guerra</title>
-    <sub-title lang="es">Episodio 8</sub-title>
-    <sub-title lang="en">War 01 eps 08</sub-title>
-    <desc lang="es">Dos de los bufetes de abogados más poderosos de Londres se enfrentan explosivas batallas legales.</desc>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/kJCbi3Jlp7kTQai6DALMXlKuu2H.jpg" />
-  </programme>
-  <programme start="20261123150900 -0300" stop="20261123173200 -0300" air_time_start="20261123150900 -0300" air_time_end="20261123173200 -0300" start_utc="20261123200900 +0000" stop_utc="20261123223200 +0000" air_time_start_utc="20261123200900 +0000" air_time_end_utc="20261123223200 +0000" is_live="false" channel="HBO_PAO.co">
-    <title lang="es">Matrix</title>
-    <sub-title lang="es">The Matrix</sub-title>
-    <desc lang="es">Olvida todo lo que has escuchado sobre el futuro y prepárate para descubrir el universo de Matrix. Keanu Reeves como Neo, Laurence Fishburne como Morpheus y Carrie-Anne Moss como Trinity son las estrellas de esta fantástica aventura cibernética en donde la Tierra está totalmente dominada por máquinas dotadas de inteligencia artificial. En un futuro próximo, hacker Neo sueña constantemente con que es el blanco de los siniestros agentes de una entidad gubernamental paralela. Hasta que un día se da cuenta de que todo está sucediendo realmente. Pronto es convocado por un grupo de rebeldes para desafiar a tal entidad y liberar a la raza humana. Famosa por sus coreografías de lucha, la película ganó todos los Oscars para los que fue nominada: mejor edición, efectos sonoros, efectos visuales y sonido.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261123152000 -0400" stop="20261123170800 -0400" air_time_start="20261123152000 -0400" air_time_end="20261123170800 -0400" start_utc="20261123192000 +0000" stop_utc="20261123210800 +0000" air_time_start_utc="20261123192000 +0000" air_time_end_utc="20261123210800 +0000" is_live="false" channel="HBO_BCO.co">
-    <title lang="es">In the Lost Lands</title>
-    <desc lang="es">Una reina, desesperada por obtener el don de cambiar de forma, hace una jugada audaz: contrata a la hechicera Gray Alys, una mujer tan temida como poderosa. Enviada al desierto fantasmal de las Tierras Perdidas, Alys y su guía, el vagabundo Boyce, deben burlar y luchar contra el hombre y el demonio en una fábula que explora la naturaleza del bien y el mal, la deuda y la satisfacción, el amor y la pérdida.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Fantasía</category>
-  </programme>
-  <programme start="20261123152000 -0600" stop="20261123170800 -0600" air_time_start="20261123152000 -0600" air_time_end="20261123170800 -0600" start_utc="20261123212000 +0000" stop_utc="20261123230800 +0000" air_time_start_utc="20261123212000 +0000" air_time_end_utc="20261123230800 +0000" is_live="false" channel="HBO_BMO.mx">
-    <title lang="es">Tierras Perdidas</title>
-    <sub-title lang="es">In the Lost Lands</sub-title>
-    <desc lang="es">Una reina, desesperada por obtener el don de cambiar de forma, hace una jugada audaz: contrata a la hechicera Gray Alys, una mujer tan temida como poderosa. Enviada al desierto fantasmal de las Tierras Perdidas, Alys y su guía, el vagabundo Boyce, deben burlar y luchar contra el hombre y el demonio en una fábula que explora la naturaleza del bien y el mal, la deuda y la satisfacción, el amor y la pérdida.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Fantasía</category>
-  </programme>
-  <programme start="20261123154500 -0300" stop="20261123173000 -0300" air_time_start="20261123154500 -0300" air_time_end="20261123173000 -0300" start_utc="20261123184500 +0000" stop_utc="20261123203000 +0000" air_time_start_utc="20261123184500 +0000" air_time_end_utc="20261123203000 +0000" is_live="false" channel="HBO_BBO.br">
-    <title lang="pt">Se Beber, Não Case! Parte 2</title>
-    <sub-title lang="pt">The Hangover Part 2</sub-title>
-    <desc lang="pt">Phil, Stu, Alan e Doug viajam à exótica Tailândia para o casamento de Stu. O que poderia dar errado? Dois anos depois da desastrosa despedida de solteiro de Doug em Las Vegas, agora é a vez de Stu. Ele decide se casar na Tailândia, país de sua futura mulher. Com medo de que os incidentes da despedida de solteiro em Las Vegas se repitam, Stu organiza muito bem a comemoração, mas nada sai como o esperado, e as confusões prometem ser inimagináveis.</desc>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20261123160700 -0300" stop="20261123180300 -0300" air_time_start="20261123160700 -0300" air_time_end="20261123180300 -0300" start_utc="20261123190700 +0000" stop_utc="20261123210300 +0000" air_time_start_utc="20261123190700 +0000" air_time_end_utc="20261123210300 +0000" is_live="false" channel="HBO_CHO.cl">
-    <title lang="es">Arthur</title>
-    <sub-title lang="es">Arthur the King</sub-title>
-    <desc lang="es">Las historias y aventuras de un cerdo hormiguero de ocho años de edad llamado Arturo Read, quien ama leer y divertirse con sus amigos y familia.</desc>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Deporte</category>
-    <category lang="es">Drama</category>
-  </programme>
-  <programme start="20261123170800 -0400" stop="20261123192400 -0400" air_time_start="20261123170800 -0400" air_time_end="20261123192400 -0400" start_utc="20261123210800 +0000" stop_utc="20261123232400 +0000" air_time_start_utc="20261123210800 +0000" air_time_end_utc="20261123232400 +0000" is_live="false" channel="HBO_BCO.co">
-    <title lang="es">Weapons</title>
-    <desc lang="es">Cuando todos los niños de una secundaria, menos uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, toda la comunidad de un pequeño pueblo se pregunta quién (o qué) es responsable de su desaparición.</desc>
-    <category lang="es">Drama</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261123170800 -0600" stop="20261123192400 -0600" air_time_start="20261123170800 -0600" air_time_end="20261123192400 -0600" start_utc="20261123230800 +0000" stop_utc="20261124012400 +0000" air_time_start_utc="20261123230800 +0000" air_time_end_utc="20261124012400 +0000" is_live="false" channel="HBO_BMO.mx">
-    <title lang="es">La Hora de la Desaparición</title>
-    <sub-title lang="es">Weapons</sub-title>
-    <desc lang="es">Cuando todos los niños de una secundaria, menos uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, toda la comunidad de un pequeño pueblo se pregunta quién (o qué) es responsable de su desaparición.</desc>
-    <category lang="es">Drama</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261123173000 -0300" stop="20261123182000 -0300" air_time_start="20261123173000 -0300" air_time_end="20261123182000 -0300" start_utc="20261123203000 +0000" stop_utc="20261123212000 +0000" air_time_start_utc="20261123203000 +0000" air_time_end_utc="20261123212000 +0000" is_live="false" channel="HBO_BBO.br">
-    <title lang="pt">Carlinhos Brown em Meia Lua Inteira: Temporada 1</title>
-    <sub-title lang="pt">Episódio 4</sub-title>
-    <sub-title lang="en">Carlinhos Brown: The Beat of Brazil 01 eps 04</sub-title>
-    <desc lang="pt">É uma série documental de 4 episódios que retrata a vida e obra do músico brasileiro. A produção explora sua trajetória, da infância pobre no Candeal, em Salvador, à fama global, destacando sua música, trabalho social e ancestralidade, com depoimentos de grandes artistas.</desc>
-    <category lang="pt">Documentário</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-  </programme>
-  <programme start="20261123173200 -0300" stop="20261123194500 -0300" air_time_start="20261123173200 -0300" air_time_end="20261123194500 -0300" start_utc="20261123223200 +0000" stop_utc="20261124004500 +0000" air_time_start_utc="20261123223200 +0000" air_time_end_utc="20261124004500 +0000" is_live="false" channel="HBO_PAO.co">
-    <title lang="es">Superman</title>
-    <desc lang="es">Tras años de enfrentarse a supervillanos megalómanos, a monstruos que causan estragos en Metrópolis y a invasores alienígenas que pretenden acabar con la raza humana, el Hombre de Acero alias Clark Kent y Lois Lane se enfrentan a uno de sus mayores retos: lidiar con todo el estrés, las presiones y las complejidades que conlleva ser padres trabajadores en la sociedad actual.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Familiar</category>
-    <category lang="es">Fantasía</category>
-  </programme>
-  <programme start="20261123180300 -0300" stop="20261123202200 -0300" air_time_start="20261123180300 -0300" air_time_end="20261123202200 -0300" start_utc="20261123210300 +0000" stop_utc="20261123232200 +0000" air_time_start_utc="20261123210300 +0000" air_time_end_utc="20261123232200 +0000" is_live="false" channel="HBO_CHO.cl">
-    <title lang="es">Moonfall</title>
-    <desc lang="es">El mundo se enfrenta a la posibilidad de la extinción porque una fuerza desconocida empuja a la luna de su órbita rumbo a la Tierra. Un equipo de astronautas asume la misión de evitar el apocalipsis.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261123182000 -0300" stop="20261123195500 -0300" air_time_start="20261123182000 -0300" air_time_end="20261123195500 -0300" start_utc="20261123212000 +0000" stop_utc="20261123225500 +0000" air_time_start_utc="20261123212000 +0000" air_time_end_utc="20261123225500 +0000" is_live="false" channel="HBO_BBO.br">
-    <title lang="pt">Os Afro-sambas: O Brasil de Baden e Vinícius</title>
-    <sub-title lang="pt">Os Afro-sambas: The Brazil of Baden and Vinícius</sub-title>
-    <desc lang="pt">Comida africana é comida americana. Nesta série documental, o chef e escritor Stephen Satterfield mostra pratos saborosos viajando da África ao Texas.</desc>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20261123192400 -0400" stop="20261123195800 -0400" air_time_start="20261123192400 -0400" air_time_end="20261123195800 -0400" start_utc="20261123232400 +0000" stop_utc="20261123235800 +0000" air_time_start_utc="20261123232400 +0000" air_time_end_utc="20261123235800 +0000" is_live="false" channel="HBO_BCO.co">
-    <title lang="es">A Story of Derry</title>
-    <desc lang="es">Siglos antes de la aparición del payaso Pennywise en Derry, tres chicos nativos americanos encuentran un aterrador espíritu ancestral en el bosque.</desc>
-    <category lang="es">Drama</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261123192400 -0600" stop="20261123195800 -0600" air_time_start="20261123192400 -0600" air_time_end="20261123195800 -0600" start_utc="20261124012400 +0000" stop_utc="20261124015800 +0000" air_time_start_utc="20261124012400 +0000" air_time_end_utc="20261124015800 +0000" is_live="false" channel="HBO_BMO.mx">
-    <title lang="es">Una Historia de Derry</title>
-    <sub-title lang="es">A Story of Derry</sub-title>
-    <desc lang="es">Siglos antes de la aparición del payaso Pennywise en Derry, tres chicos nativos americanos encuentran un aterrador espíritu ancestral en el bosque.</desc>
-    <category lang="es">Drama</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261123194500 -0300" stop="20261123212800 -0300" air_time_start="20261123194500 -0300" air_time_end="20261123212800 -0300" start_utc="20261124004500 +0000" stop_utc="20261124022800 +0000" air_time_start_utc="20261124004500 +0000" air_time_end_utc="20261124022800 +0000" is_live="false" channel="HBO_PAO.co">
-    <title lang="es">Super Mario Galaxy: La Película</title>
-    <sub-title lang="es">The Super Mario Galaxy Movie</sub-title>
-    <desc lang="es">Mario y Luigi se enfrentan una nueva amenaza: Bowser Jr., quién está decidido liberar a su padre del cautiverio y restaurar el legado familiar. Junto con nuevos y viejos compañeros, los hermanos viajan a través de las estrellas para detener la cruzada del joven heredero.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familiar</category>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme start="20261123195500 -0300" stop="20261123213000 -0300" air_time_start="20261123195500 -0300" air_time_end="20261123213000 -0300" start_utc="20261123225500 +0000" stop_utc="20261124003000 +0000" air_time_start_utc="20261123225500 +0000" air_time_end_utc="20261124003000 +0000" is_live="false" channel="HBO_BBO.br">
-    <title lang="pt">Hypnotic - Ameaça Invisível</title>
-    <sub-title lang="pt">Hypnotic</sub-title>
-    <desc lang="pt">Um detetive se envolve em um mistério envolvendo sua filha desaparecida e um programa secreto do governo enquanto investiga uma série de crimes que distorcem a realidade.</desc>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Policial</category>
-    <category lang="pt">Suspense</category>
-  </programme>
-  <programme start="20261123195800 -0400" stop="20261123220000 -0400" air_time_start="20261123195800 -0400" air_time_end="20261123220000 -0400" start_utc="20261123235800 +0000" stop_utc="20261124020000 +0000" air_time_start_utc="20261123235800 +0000" air_time_end_utc="20261124020000 +0000" is_live="false" channel="HBO_BCO.co">
-    <title lang="es">Godzilla x Kong: The New Empire</title>
-    <desc lang="es">Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261123195800 -0600" stop="20261123220000 -0600" air_time_start="20261123195800 -0600" air_time_end="20261123220000 -0600" start_utc="20261124015800 +0000" stop_utc="20261124040000 +0000" air_time_start_utc="20261124015800 +0000" air_time_end_utc="20261124040000 +0000" is_live="false" channel="HBO_BMO.mx">
-    <title lang="es">Godzilla y Kong: El Nuevo Imperio</title>
-    <sub-title lang="es">Godzilla x Kong: The New Empire</sub-title>
-    <desc lang="es">Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261123202200 -0300" stop="20261123220400 -0300" air_time_start="20261123202200 -0300" air_time_end="20261123220400 -0300" start_utc="20261123232200 +0000" stop_utc="20261124010400 +0000" air_time_start_utc="20261123232200 +0000" air_time_end_utc="20261124010400 +0000" is_live="false" channel="HBO_CHO.cl">
-    <title lang="es">Karate Kid: Leyendas</title>
-    <sub-title lang="es">Karate Kid: Legends</sub-title>
-    <desc lang="es">Daniel San, el maestro Miyagi y Taki viajan por el mundo intentando conseguir un antiguo amuleto chino que da poderes sobrehumanos a quien lo controla. En cada episodio algun pobre infeliz se corrompe por el poder que le da el amuleto. Cada vez es diferente. Al final, Miyagi y compañía le quitan el amuleto al que lo encontró al principio, pero lo pierden y tienen que viajar a un país diferente para volver a repetir la historia.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Deporte</category>
-    <category lang="es">Drama</category>
-  </programme>
-  <programme start="20261123212800 -0300" stop="20261123220100 -0300" air_time_start="20261123212800 -0300" air_time_end="20261123220100 -0300" start_utc="20261124022800 +0000" stop_utc="20261124030100 +0000" air_time_start_utc="20261124022800 +0000" air_time_end_utc="20261124030100 +0000" is_live="false" channel="HBO_PAO.co">
-    <title lang="es">Oobah Butler: Engaños por un Futuro Mejor</title>
-    <sub-title lang="es">Episodio 1</sub-title>
-    <sub-title lang="en">Wellness</sub-title>
-    <category lang="es">Comedia</category>
-    <category lang="es">Documental</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/h3cjKe6zGuowjXPXmZ4BFnPbAOQ.jpg" />
-  </programme>
-  <programme start="20261123213000 -0300" stop="20261123220500 -0300" air_time_start="20261123213000 -0300" air_time_end="20261123220500 -0300" start_utc="20261124003000 +0000" stop_utc="20261124010500 +0000" air_time_start_utc="20261124003000 +0000" air_time_end_utc="20261124010500 +0000" is_live="false" channel="HBO_BBO.br">
-    <title lang="pt">Oobah Butler: Trapaças por um Futuro Melhor</title>
-    <sub-title lang="pt">Episódio 1</sub-title>
-    <sub-title lang="en">OOBAH: Scams for a Better Tomorrow 01 eps 01</sub-title>
-    <desc lang="pt">Série documental de comédia apresentada pelo britânico Oobah Butler, conhecido por suas intervenções inusitadas e experimentos sociais. Na produção, o cineasta e apresentador direciona suas ações a grandes indústrias e instituições influentes, com o objetivo de expor práticas e contradições desses setores.</desc>
-    <category lang="pt">Comédia</category>
-    <category lang="pt">Documentário</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/h3cjKe6zGuowjXPXmZ4BFnPbAOQ.jpg" />
-  </programme>
-  <programme start="20261123220000 -0400" stop="20261124000300 -0400" air_time_start="20261123220000 -0400" air_time_end="20261124000300 -0400" start_utc="20261124020000 +0000" stop_utc="20261124040300 +0000" air_time_start_utc="20261124020000 +0000" air_time_end_utc="20261124040300 +0000" is_live="false" channel="HBO_BCO.co">
-    <title lang="es">28 Years Later</title>
-    <desc lang="es">Casi tres décadas desde que el virus de la ira escapó de un laboratorio de armas biológicas. Uno de los supervivientes abandona la pequeña isla en una misión hacía el oscuro corazón del continente, descubriendo secretos, maravillas y horrores que han mutado no sólo a los infectados, sino también a otros supervivientes.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261123220000 -0600" stop="20261124000200 -0600" air_time_start="20261123220000 -0600" air_time_end="20261124000200 -0600" start_utc="20261124040000 +0000" stop_utc="20261124060200 +0000" air_time_start_utc="20261124040000 +0000" air_time_end_utc="20261124060200 +0000" is_live="false" channel="HBO_BMO.mx">
-    <title lang="es">Exterminio: La Evolución</title>
-    <sub-title lang="es">28 Years Later</sub-title>
-    <desc lang="es">Cuatro semanas después de que un misterioso e incurable virus se extendiera por todo el Reino Unido, un puñado de supervivientes intentan encontrar refugio.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261123220100 -0300" stop="20261123235000 -0300" air_time_start="20261123220100 -0300" air_time_end="20261123235000 -0300" start_utc="20261124030100 +0000" stop_utc="20261124045000 +0000" air_time_start_utc="20261124030100 +0000" air_time_end_utc="20261124045000 +0000" is_live="false" channel="HBO_PAO.co">
-    <title lang="es">La Noche del Demonio: Están Entre Nosotros</title>
-    <sub-title lang="es">Insidious: Out of the Further</sub-title>
-    <desc lang="es">Un trío de acosadores se infiltra en un tranquilo suburbio y obliga a una nueva familia a entrar en el plano astral, donde descubren una verdad aterradora: el Más Allá se está filtrando al mundo real.</desc>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261123220400 -0300" stop="20261124000000 -0300" air_time_start="20261123220400 -0300" air_time_end="20261124000000 -0300" start_utc="20261124010400 +0000" stop_utc="20261124030000 +0000" air_time_start_utc="20261124010400 +0000" air_time_end_utc="20261124030000 +0000" is_live="false" channel="HBO_CHO.cl">
-    <title lang="es">La Noche del Demonio: Están Entre Nosotros</title>
-    <sub-title lang="es">Insidious: Out of the Further</sub-title>
-    <desc lang="es">Un trío de acosadores se infiltra en un tranquilo suburbio y obliga a una nueva familia a entrar en el plano astral, donde descubren una verdad aterradora: el Más Allá se está filtrando al mundo real.</desc>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261123220500 -0300" stop="20261124002000 -0300" air_time_start="20261123220500 -0300" air_time_end="20261124002000 -0300" start_utc="20261124010500 +0000" stop_utc="20261124032000 +0000" air_time_start_utc="20261124010500 +0000" air_time_end_utc="20261124032000 +0000" is_live="false" channel="HBO_BBO.br">
-    <title lang="pt">Homem-Aranha: De Volta ao Lar</title>
-    <sub-title lang="pt">Spider-Man: Homecoming</sub-title>
-    <desc lang="pt">Conta a história de um super-herói, que tem a capacidade de moldar o corpo como desejar, como se fosse feito de borracha. Ele combate o crime ao redor do mundo, viajando com sua bela esposa Penny e seu ajudante dos mares do sul, Hula-Hula.Na segunda temporada aparece o Bebê-Elástico, filho deles, com os mesmos poderes. Daí se intercalavam desenhos da Família Elástico, combatendo o crime e só do Bebê, em seu dia a dia.</desc>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Aventura</category>
-    <category lang="pt">Ficção Científica</category>
-  </programme>
-  <programme start="20261123235000 -0300" stop="20261124015000 -0300" air_time_start="20261123235000 -0300" air_time_end="20261124015000 -0300" start_utc="20261124045000 +0000" stop_utc="20261124065000 +0000" air_time_start_utc="20261124045000 +0000" air_time_end_utc="20261124065000 +0000" is_live="false" channel="HBO_PAO.co">
-    <title lang="es">Megalodón 2: El Gran Abismo</title>
-    <sub-title lang="es">Meg 2: The Trench</sub-title>
-    <desc lang="es">Un equipo de investigación inicia una misión que va a explorar las profundidades más abismales del mar. Pero su viaje se convierte en caos cuando un malévolo operativo minero amenaza su misión y los obliga a librar una batalla de alto riesgo por la supervivencia. Enfrentados a colosales Megalodones y a implacables saqueadores medioambientales, nuestros héroes deben correr más rápido, ser más astutos y nadar a mayor velocidad que sus despiadados depredadores en una trepidante carrera contra el tiempo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261124000000 -0300" stop="20261124003500 -0300" air_time_start="20261124000000 -0300" air_time_end="20261124003500 -0300" start_utc="20261124030000 +0000" stop_utc="20261124033500 +0000" air_time_start_utc="20261124030000 +0000" air_time_end_utc="20261124033500 +0000" is_live="false" channel="HBO_CHO.cl">
-    <title lang="es">Oobah Butler: Engaños por un Futuro Mejor</title>
-    <sub-title lang="es">Episodio 1</sub-title>
-    <sub-title lang="en">Wellness</sub-title>
-    <category lang="es">Comedia</category>
-    <category lang="es">Documental</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/h3cjKe6zGuowjXPXmZ4BFnPbAOQ.jpg" />
-  </programme>
-  <programme start="20261124000200 -0600" stop="20261124015800 -0600" air_time_start="20261124000200 -0600" air_time_end="20261124015800 -0600" start_utc="20261124060200 +0000" stop_utc="20261124075800 +0000" air_time_start_utc="20261124060200 +0000" air_time_end_utc="20261124075800 +0000" is_live="false" channel="HBO_BMO.mx">
-    <title lang="es">Exterminio: El Templo de Huesos</title>
-    <sub-title lang="es">28 Years Later: The Bone Temple</sub-title>
-    <desc lang="es">Cuatro semanas después de que un misterioso e incurable virus se extendiera por todo el Reino Unido, un puñado de supervivientes intentan encontrar refugio.</desc>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261124000300 -0400" stop="20261124015900 -0400" air_time_start="20261124000300 -0400" air_time_end="20261124015900 -0400" start_utc="20261124040300 +0000" stop_utc="20261124055900 +0000" air_time_start_utc="20261124040300 +0000" air_time_end_utc="20261124055900 +0000" is_live="false" channel="HBO_BCO.co">
-    <title lang="es">28 Years Later: The Bone Temple</title>
-    <desc lang="es">Casi tres décadas desde que el virus de la ira escapó de un laboratorio de armas biológicas. Uno de los supervivientes abandona la pequeña isla en una misión hacía el oscuro corazón del continente, descubriendo secretos, maravillas y horrores que han mutado no sólo a los infectados, sino también a otros supervivientes.</desc>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261124002000 -0300" stop="20261124023400 -0300" air_time_start="20261124002000 -0300" air_time_end="20261124023400 -0300" start_utc="20261124032000 +0000" stop_utc="20261124053400 +0000" air_time_start_utc="20261124032000 +0000" air_time_end_utc="20261124053400 +0000" is_live="false" channel="HBO_BBO.br">
-    <title lang="pt">Moonfall</title>
-    <desc lang="pt">Poucas semanas antes do impacto e com a humanidade à beira da aniquilação, a ex-astronauta da NASA Jo Fowler está convencida de que tem a resposta para salvar o planeta, mas apenas um colega do passado, o astronauta Brian Harper, e o teorista K.C. Houseman, acreditam nela. Os improváveis heróis correm contra o tempo para montar uma missão ao espaço, mas lá descobrem que a Lua não é o que parece.</desc>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Ficção Científica</category>
-  </programme>
-  <programme start="20261124003500 -0300" stop="20261124011200 -0300" air_time_start="20261124003500 -0300" air_time_end="20261124011200 -0300" start_utc="20261124033500 +0000" stop_utc="20261124041200 +0000" air_time_start_utc="20261124033500 +0000" air_time_end_utc="20261124041200 +0000" is_live="false" channel="HBO_CHO.cl">
-    <title lang="es">Una Historia de Derry</title>
-    <sub-title lang="es">A Story of Derry</sub-title>
-    <desc lang="es">Siglos antes de la aparición del payaso Pennywise en Derry, tres chicos nativos americanos encuentran un aterrador espíritu ancestral en el bosque.</desc>
-    <category lang="es">Drama</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261124011200 -0300" stop="20261124030800 -0300" air_time_start="20261124011200 -0300" air_time_end="20261124030800 -0300" start_utc="20261124041200 +0000" stop_utc="20261124060800 +0000" air_time_start_utc="20261124041200 +0000" air_time_end_utc="20261124060800 +0000" is_live="false" channel="HBO_CHO.cl">
-    <title lang="es">Exterminio: El Templo de Huesos</title>
-    <sub-title lang="es">28 Years Later: The Bone Temple</sub-title>
-    <desc lang="es">Cuatro semanas después de que un misterioso e incurable virus se extendiera por todo el Reino Unido, un puñado de supervivientes intentan encontrar refugio.</desc>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261124015000 -0300" stop="20261124042400 -0300" air_time_start="20261124015000 -0300" air_time_end="20261124042400 -0300" start_utc="20261124065000 +0000" stop_utc="20261124092400 +0000" air_time_start_utc="20261124065000 +0000" air_time_end_utc="20261124092400 +0000" is_live="false" channel="HBO_PAO.co">
-    <title lang="es">Tenet</title>
-    <desc lang="es">El aclamado cineasta Christopher Nolan escribe y dirige este alucinante thriller de ciencia ficción inspirado en la manipulación del flujo del tiempo, estelarizado por John David Washington, Robert Pattinson, Elizabeth Debicki y Kenneth Branagh. Con solo la palabra "Tenet" como pista, el Protagonista (Washington) deberá viajar a través de un oscuro mundo de espionaje internacional para evitar un ataque proveniente del futuro capaz de acabar con el mundo tal y como lo conocemos.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Suspenso</category>
-  </programme>
   <programme start="20261124015800 -0600" stop="20261124034900 -0600" air_time_start="20261124015800 -0600" air_time_end="20261124034900 -0600" start_utc="20261124075800 +0000" stop_utc="20261124094900 +0000" air_time_start_utc="20261124075800 +0000" air_time_end_utc="20261124094900 +0000" is_live="false" channel="HBO_BMO.mx">
     <title lang="es">La Noche del Demonio: Capítulo 2</title>
     <sub-title lang="es">Insidious: Chapter 2</sub-title>
     <desc lang="es">Tras una experiencia sobrenatural, una familia (Patrick Wilson, El conjuro; Rose Byrne, X-Men: Primera generación) se muda a la casa de la abuela (Barbara Hershey, El cisne negro). Allí tendrán peligrosas visiones vinculadas con un diabólico secreto familiar. Secuela de La noche del demonio.</desc>
     <category lang="es">Suspenso</category>
     <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261124015900 -0400" stop="20261124034900 -0400" air_time_start="20261124015900 -0400" air_time_end="20261124034900 -0400" start_utc="20261124055900 +0000" stop_utc="20261124074900 +0000" air_time_start_utc="20261124055900 +0000" air_time_end_utc="20261124074900 +0000" is_live="false" channel="HBO_BCO.co">
-    <title lang="es">Insidious: Chapter 2</title>
-    <desc lang="es">After going through a supernatural experience, a family (Patrick Wilson, The conjuring; Rose Byrne, X: First Class) moves to the grandmother's house (Barbara Hershey, Black Swam). There they will suffer dangerous visions linked with a diabolic family secret. It's a sequel of Insidious.</desc>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261124023400 -0300" stop="20261124042400 -0300" air_time_start="20261124023400 -0300" air_time_end="20261124042400 -0300" start_utc="20261124053400 +0000" stop_utc="20261124072400 +0000" air_time_start_utc="20261124053400 +0000" air_time_end_utc="20261124072400 +0000" is_live="false" channel="HBO_BBO.br">
-    <title lang="pt">Vida</title>
-    <sub-title lang="pt">Life</sub-title>
-    <desc lang="pt">A história de Helena, uma top model de renome internacional que, no auge da carreira, decide largar a profissão para se casar com o sedutor Marcos.</desc>
-    <category lang="pt">Ficção Científica</category>
-    <category lang="pt">Suspense</category>
-    <category lang="pt">Terror</category>
   </programme>
   <programme start="20261124030800 -0300" stop="20261124060000 -0300" air_time_start="20261124030800 -0300" air_time_end="20261124060000 -0300" start_utc="20261124060800 +0000" stop_utc="20261124090000 +0000" air_time_start_utc="20261124060800 +0000" air_time_end_utc="20261124090000 +0000" is_live="false" channel="HBO_CHO.cl">
     <title lang="es">Duna: Parte Dos</title>
@@ -2071,5 +1593,503 @@
     <category lang="es">Acción</category>
     <category lang="es">Fantasía</category>
     <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261127060000 -0300" stop="20261127073600 -0300" air_time_start="20261127060000 -0300" air_time_end="20261127073600 -0300" start_utc="20261127090000 +0000" stop_utc="20261127103600 +0000" air_time_start_utc="20261127090000 +0000" air_time_end_utc="20261127103600 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Minions</title>
+    <desc lang="es">Desde que el mundo es mundo, los Minions han vivido para servir a los más despreciables de los amos. Desde el tiranosaurio hasta Napoleón, la tribu siempre ha ayudado al máximo y más malvado de los villanos. Acompaña a Kevin, el líder protector, a Stuart, el adolescente rebelde, y a Bob, pequeño y adorable, en un viaje por todo el mundo. Conseguirán la oportunidad de trabajar para un nuevo jefe, la primera supervillana del mundo, e intentarán impedir que su especie sea aniquilada.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20261127060000 -0300" stop="20261127080900 -0300" air_time_start="20261127060000 -0300" air_time_end="20261127080900 -0300" start_utc="20261127090000 +0000" stop_utc="20261127110900 +0000" air_time_start_utc="20261127090000 +0000" air_time_end_utc="20261127110900 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Día de Entrenamiento</title>
+    <sub-title lang="es">Training Day</sub-title>
+    <desc lang="es">Alonzo Harris (Denzel Washington) es un experimentado agente de narcóticos cuyos métodos son poco ortodoxos y de una legalidad discutible. Jake (Ethan Hawke) es un policía novato en su primer día de aprendizaje en la brigada de narcóticos. Su mentor será el curtido agente Alonzo, gran conocedor del mundo de las pandillas y los barrios bajos, que le enseñará las leyes no escritas de supervivencia</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261127060000 -0300" stop="20261127085000 -0300" air_time_start="20261127060000 -0300" air_time_end="20261127085000 -0300" start_utc="20261127090000 +0000" stop_utc="20261127115000 +0000" air_time_start_utc="20261127090000 +0000" air_time_end_utc="20261127115000 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Duna: Parte Dois</title>
+    <sub-title lang="pt">Dune: Part Two</sub-title>
+    <desc lang="pt">Dez mil anos antes da ascensão de Paul Atreides, as irmãs Valya e Tula Harkonnen estabeleceram a lendária seita e ordem feminina que se tornaria conhecida como Bene Gesserit para controlar o futuro da humanidade.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20261127060000 -0400" stop="20261127073400 -0400" air_time_start="20261127060000 -0400" air_time_end="20261127073400 -0400" start_utc="20261127100000 +0000" stop_utc="20261127113400 +0000" air_time_start_utc="20261127100000 +0000" air_time_end_utc="20261127113400 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">Minions</title>
+    <desc lang="es">Ever since the dawn of time, the Minions have lived to serve the most despicable of masters. From the T-Rex to Napoleon, the easily distracted tribe has helped the biggest and the baddest of villains. Now, join protective leader Kevin, teenage rebel Stuart, and lovable little Bob on a global road trip. They'll earn a shot to work for a new boss, the world's first female supervillain, and try to save all of Minionkind from annihilation.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20261127060000 -0600" stop="20261127073600 -0600" air_time_start="20261127060000 -0600" air_time_end="20261127073600 -0600" start_utc="20261127120000 +0000" stop_utc="20261127133600 +0000" air_time_start_utc="20261127120000 +0000" air_time_end_utc="20261127133600 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Minions</title>
+    <desc lang="es">Desde que el mundo es mundo, los Minions han vivido para servir a los más despreciables de los amos. Desde el tiranosaurio hasta Napoleón, la tribu siempre ha ayudado al máximo y más malvado de los villanos. Acompaña a Kevin, el líder protector, a Stuart, el adolescente rebelde, y a Bob, pequeño y adorable, en un viaje por todo el mundo. Conseguirán la oportunidad de trabajar para un nuevo jefe, la primera supervillana del mundo, e intentarán impedir que su especie sea aniquilada.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20261127073400 -0400" stop="20261127101800 -0400" air_time_start="20261127073400 -0400" air_time_end="20261127101800 -0400" start_utc="20261127113400 +0000" stop_utc="20261127141800 +0000" air_time_start_utc="20261127113400 +0000" air_time_end_utc="20261127141800 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">Harry Potter and the Goblet of Fire</title>
+    <desc lang="es">Harry Potter returns to Hogwarts for his fourth year, as the Triwizard, a magical tournament between three famous schools of magic, is about to begin. The competitor for each school is chosen by the Goblet of Fire and everyone is startled when it spells the name of Harry Potter, who, at 14, is 3 years too young to compete. The young wizard will have to face the competition's dangerous challenges while his fight with the dark forces continues, as it appears Lord Voldemort is back to pose a threat to Harry's life.</desc>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Familiar</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261127073600 -0300" stop="20261127094400 -0300" air_time_start="20261127073600 -0300" air_time_end="20261127094400 -0300" start_utc="20261127103600 +0000" stop_utc="20261127124400 +0000" air_time_start_utc="20261127103600 +0000" air_time_end_utc="20261127124400 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Pasante de Moda</title>
+    <sub-title lang="es">The Intern</sub-title>
+    <desc lang="es">En Pasante de moda, Ben Whittaker es un viudo de 70 años de edad que ha descubierto que la jubilación no es tan fabulosa como la cuentan. Al aprovechar una oportunidad para volver a la actividad, se convierte en practicante sénior en un sitio en línea de modas, fundado y manejado por Jules Ostin.</desc>
+    <category lang="es">Comedia</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Romance</category>
+  </programme>
+  <programme start="20261127073600 -0600" stop="20261127101700 -0600" air_time_start="20261127073600 -0600" air_time_end="20261127101700 -0600" start_utc="20261127133600 +0000" stop_utc="20261127161700 +0000" air_time_start_utc="20261127133600 +0000" air_time_end_utc="20261127161700 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Harry Potter y el Cáliz de Fuego</title>
+    <sub-title lang="es">Harry Potter and the Goblet of Fire</sub-title>
+    <desc lang="es">Harry Potter regresa a Hogwarts por cuarto año consecutivo, y el Torneo de los Tres Magos, una competencia entre tres famosas escuelas de magia, está a punto de comenzar. El candidato de cada escuela es elegido por el cáliz de fuego, y todo el mundo se sorprende cuando Harry, quien es aun muy joven para participar, es incluido entre los competidores. El joven mago deberá enfrentarse al peligro para superar los numerosos desafíos que pondrán en riesgo su vida, mientras su lucha contra el lado oscuro continúa, tras la reaparición de Lord Voldemort.</desc>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Familiar</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261127080900 -0300" stop="20261127100000 -0300" air_time_start="20261127080900 -0300" air_time_end="20261127100000 -0300" start_utc="20261127110900 +0000" stop_utc="20261127130000 +0000" air_time_start_utc="20261127110900 +0000" air_time_end_utc="20261127130000 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Al Más Mínimo Toque</title>
+    <sub-title lang="es">The Slightest Touch</sub-title>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20261127085000 -0300" stop="20261127104500 -0300" air_time_start="20261127085000 -0300" air_time_end="20261127104500 -0300" start_utc="20261127115000 +0000" stop_utc="20261127134500 +0000" air_time_start_utc="20261127115000 +0000" air_time_end_utc="20261127134500 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Em 2159, o mundo é dividido entre dois grupos: o primeiro, riquíssimo, mora na estação espacial Elysium, enquanto o segundo, pobre, vive na Terra, repleta de pessoas e em grande decadência. Por um lado, a secretária do governo Rhodes faz de tudo para preservar o estilo de vida luxuoso de Elysium, por outro, um pobre cidadão da Terra tenta um plano ousado para trazer de volta a igualdade entre as pessoas.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Ficção Científica</category>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20261127094400 -0300" stop="20261127113000 -0300" air_time_start="20261127094400 -0300" air_time_end="20261127113000 -0300" start_utc="20261127124400 +0000" stop_utc="20261127143000 +0000" air_time_start_utc="20261127124400 +0000" air_time_end_utc="20261127143000 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Super Mario Galaxy: La Película</title>
+    <sub-title lang="es">The Super Mario Galaxy Movie</sub-title>
+    <desc lang="es">Mario y Luigi se enfrentan una nueva amenaza: Bowser Jr., quién está decidido liberar a su padre del cautiverio y restaurar el legado familiar. Junto con nuevos y viejos compañeros, los hermanos viajan a través de las estrellas para detener la cruzada del joven heredero.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familiar</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20261127100000 -0300" stop="20261127121300 -0300" air_time_start="20261127100000 -0300" air_time_end="20261127121300 -0300" start_utc="20261127130000 +0000" stop_utc="20261127151300 +0000" air_time_start_utc="20261127130000 +0000" air_time_end_utc="20261127151300 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">¡Shazam! La Furia de los Dioses</title>
+    <sub-title lang="es">Shazam! Fury of the Gods</sub-title>
+    <desc lang="es">Billy Batson y sus hermanos adoptivos, que se transforman en superhéroes al decir “¡Shazam!”, se ven obligados a volver a la acción y luchar contra las Hijas de Atlas, a quienes deben evitar que use un arma que podría destruir el mundo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261127101700 -0600" stop="20261127121800 -0600" air_time_start="20261127101700 -0600" air_time_end="20261127121800 -0600" start_utc="20261127161700 +0000" stop_utc="20261127181800 +0000" air_time_start_utc="20261127161700 +0000" air_time_end_utc="20261127181800 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Barbie</title>
+    <desc lang="es">Las mejores amigas Malibu y Brooklyn convierten su pódcast de viajes en uno de misterio, en el que narran sus aventuras mientras resuelven misterios por todo el mundo.</desc>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261127101800 -0400" stop="20261127121800 -0400" air_time_start="20261127101800 -0400" air_time_end="20261127121800 -0400" start_utc="20261127141800 +0000" stop_utc="20261127161800 +0000" air_time_start_utc="20261127141800 +0000" air_time_end_utc="20261127161800 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">The Bourne Ultimatum</title>
+    <desc lang="es">Jason Bourne (Matt Damon) is a trained killer with amnesia.  His quest to discover his own checkered history puts him on a collision course with the CIA team that trained him.  In desperation he enlists the help of a renowned newspaper journalist.  Will it make a difference?  Directed by Paul Greengrass (The Bourne Supremacy), this movie grossed over 288 million usd worldwide.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261127104500 -0300" stop="20261127123100 -0300" air_time_start="20261127104500 -0300" air_time_end="20261127123100 -0300" start_utc="20261127134500 +0000" stop_utc="20261127153100 +0000" air_time_start_utc="20261127134500 +0000" air_time_end_utc="20261127153100 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Acompanhante Perfeita</title>
+    <desc lang="pt">Josh e Iris parecem ser o casal ideal, até que um incidente mortal em uma viagem com amigos revela um segredo sombrio: Iris é uma androide criada para satisfazer Josh. E o que era para ser perfeito logo se torna incontrolável.</desc>
+    <category lang="pt">Ficção Científica</category>
+    <category lang="pt">Comédia</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20261127113000 -0300" stop="20261127141000 -0300" air_time_start="20261127113000 -0300" air_time_end="20261127141000 -0300" start_utc="20261127143000 +0000" stop_utc="20261127171000 +0000" air_time_start_utc="20261127143000 +0000" air_time_end_utc="20261127171000 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Mujer Maravilla 1984</title>
+    <sub-title lang="es">Wonder Woman 1984</sub-title>
+    <desc lang="es">Gal Gadot retorna como la mítica guerrera amazona en esta secuela dirigida por Patty Jenkins. En 1984, Diana ve al mundo sumido en caos cuando el ambicioso Max Lord usa un antiguo artefacto que concede deseos. Pero la semidiosa enfrenta un cruel dilema, ya que el poder de Max no solo crea a una salvaje enemiga, Cheetah, sino que además trae de vuelta a Steve a la vida de Diana.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261127121300 -0300" stop="20261127135800 -0300" air_time_start="20261127121300 -0300" air_time_end="20261127135800 -0300" start_utc="20261127151300 +0000" stop_utc="20261127165800 +0000" air_time_start_utc="20261127151300 +0000" air_time_end_utc="20261127165800 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Super Mario Galaxy: La Película</title>
+    <sub-title lang="es">The Super Mario Galaxy Movie</sub-title>
+    <desc lang="es">Mario y Luigi se enfrentan una nueva amenaza: Bowser Jr., quién está decidido liberar a su padre del cautiverio y restaurar el legado familiar. Junto con nuevos y viejos compañeros, los hermanos viajan a través de las estrellas para detener la cruzada del joven heredero.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familiar</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20261127121800 -0400" stop="20261127140500 -0400" air_time_start="20261127121800 -0400" air_time_end="20261127140500 -0400" start_utc="20261127161800 +0000" stop_utc="20261127180500 +0000" air_time_start_utc="20261127161800 +0000" air_time_end_utc="20261127180500 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">In the Lost Lands</title>
+    <desc lang="es">Una reina, desesperada por obtener el don de cambiar de forma, hace una jugada audaz: contrata a la hechicera Gray Alys, una mujer tan temida como poderosa. Enviada al desierto fantasmal de las Tierras Perdidas, Alys y su guía, el vagabundo Boyce, deben burlar y luchar contra el hombre y el demonio en una fábula que explora la naturaleza del bien y el mal, la deuda y la satisfacción, el amor y la pérdida.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261127121800 -0600" stop="20261127140400 -0600" air_time_start="20261127121800 -0600" air_time_end="20261127140400 -0600" start_utc="20261127181800 +0000" stop_utc="20261127200400 +0000" air_time_start_utc="20261127181800 +0000" air_time_end_utc="20261127200400 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Tierras Perdidas</title>
+    <sub-title lang="es">In the Lost Lands</sub-title>
+    <desc lang="es">Una reina, desesperada por obtener el don de cambiar de forma, hace una jugada audaz: contrata a la hechicera Gray Alys, una mujer tan temida como poderosa. Enviada al desierto fantasmal de las Tierras Perdidas, Alys y su guía, el vagabundo Boyce, deben burlar y luchar contra el hombre y el demonio en una fábula que explora la naturaleza del bien y el mal, la deuda y la satisfacción, el amor y la pérdida.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261127123100 -0300" stop="20261127142900 -0300" air_time_start="20261127123100 -0300" air_time_end="20261127142900 -0300" start_utc="20261127153100 +0000" stop_utc="20261127172900 +0000" air_time_start_utc="20261127153100 +0000" air_time_end_utc="20261127172900 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Pacto de Redenção</title>
+    <sub-title lang="pt">Knox Goes Away</sub-title>
+    <desc lang="pt">Um assassino profissional descobre que está com uma forma de demência que evolui rápido exatamente no momento que ele tem a oportunidade de salvar o seu filho adulto de uma situação difícil, redimindo sua culpa por uma paternidade marcada pelo distanciamento.</desc>
+    <category lang="pt">Crime</category>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20261127135800 -0300" stop="20261127143100 -0300" air_time_start="20261127135800 -0300" air_time_end="20261127143100 -0300" start_utc="20261127165800 +0000" stop_utc="20261127173100 +0000" air_time_start_utc="20261127165800 +0000" air_time_end_utc="20261127173100 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Oobah Butler: Engaños por un Futuro Mejor</title>
+    <sub-title lang="es">Wellness</sub-title>
+    <desc lang="es">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <category lang="es">Comedia</category>
+    <category lang="es">Documental</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/h3cjKe6zGuowjXPXmZ4BFnPbAOQ.jpg" />
+  </programme>
+  <programme start="20261127140400 -0600" stop="20261127143800 -0600" air_time_start="20261127140400 -0600" air_time_end="20261127143800 -0600" start_utc="20261127200400 +0000" stop_utc="20261127203800 +0000" air_time_start_utc="20261127200400 +0000" air_time_end_utc="20261127203800 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Oobah Butler: Engaños por un Futuro Mejor</title>
+    <sub-title lang="es">OOBAH: Scams for a Better Tomorrow 01 eps 01</sub-title>
+    <desc lang="es">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <category lang="es">Comedia</category>
+    <category lang="es">Documental</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/h3cjKe6zGuowjXPXmZ4BFnPbAOQ.jpg" />
+  </programme>
+  <programme start="20261127140500 -0400" stop="20261127143800 -0400" air_time_start="20261127140500 -0400" air_time_end="20261127143800 -0400" start_utc="20261127180500 +0000" stop_utc="20261127183800 +0000" air_time_start_utc="20261127180500 +0000" air_time_end_utc="20261127183800 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">OOBAH: Scams for a Better Tomorrow</title>
+    <sub-title lang="es">OOBAH: Scams for a Better Tomorrow 01 eps 01</sub-title>
+    <desc lang="es">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <category lang="es">Comedia</category>
+    <category lang="es">Documental</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/h3cjKe6zGuowjXPXmZ4BFnPbAOQ.jpg" />
+  </programme>
+  <programme start="20261127141000 -0300" stop="20261127155700 -0300" air_time_start="20261127141000 -0300" air_time_end="20261127155700 -0300" start_utc="20261127171000 +0000" stop_utc="20261127185700 +0000" air_time_start_utc="20261127171000 +0000" air_time_end_utc="20261127185700 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Last Christmas: Otra Oportunidad para Amar</title>
+    <sub-title lang="es">Last Christmas</sub-title>
+    <desc lang="es">Kate (Emilia Clarke) es una mujer joven que suele tomar siempre la decisión menos acertada. ¿Su último error? Haber aceptado un trabajo como elfo de Santa Claus en un centro comercial. Sin embargo, el destino la lleva a conocer a Tom (Henry Golding), circunstancia que cambia por completo su vida. Para Kate, todo es demasiado bueno para ser cierto.</desc>
+    <category lang="es">Comedia</category>
+    <category lang="es">Romance</category>
+  </programme>
+  <programme start="20261127142900 -0300" stop="20261127151000 -0300" air_time_start="20261127142900 -0300" air_time_end="20261127151000 -0300" start_utc="20261127172900 +0000" stop_utc="20261127181000 +0000" air_time_start_utc="20261127172900 +0000" air_time_end_utc="20261127181000 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Oobah Butler: Trapaças por um Futuro Melhor</title>
+    <sub-title lang="pt">Vida Saudável</sub-title>
+    <sub-title lang="en">OOBAH: Scams for a Better Tomorrow 01 eps 01</sub-title>
+    <desc lang="pt">Para hackear a indústria do bem-estar, Oobah cria um sérum de beleza de lágrimas de crianças e um suplemento de carne humana cultivada em laboratório.</desc>
+    <category lang="pt">Comédia</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/h3cjKe6zGuowjXPXmZ4BFnPbAOQ.jpg" />
+  </programme>
+  <programme start="20261127143100 -0300" stop="20261127164200 -0300" air_time_start="20261127143100 -0300" air_time_end="20261127164200 -0300" start_utc="20261127173100 +0000" stop_utc="20261127194200 +0000" air_time_start_utc="20261127173100 +0000" air_time_end_utc="20261127194200 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">La Hora de la Desaparición</title>
+    <sub-title lang="es">Weapons</sub-title>
+    <desc lang="es">Cuando todos los niños de una secundaria, menos uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, toda la comunidad de un pequeño pueblo se pregunta quién (o qué) es responsable de su desaparición.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261127143800 -0400" stop="20261127163000 -0400" air_time_start="20261127143800 -0400" air_time_end="20261127163000 -0400" start_utc="20261127183800 +0000" stop_utc="20261127203000 +0000" air_time_start_utc="20261127183800 +0000" air_time_end_utc="20261127203000 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">The Beekeeper</title>
+    <desc lang="es">La brutal campaña de venganza de un hombre adquiere dimensiones nacionales cuando se descubre que es un antiguo agente de una poderosa organización clandestina conocida como "Los apicultores".</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261127143800 -0600" stop="20261127163000 -0600" air_time_start="20261127143800 -0600" air_time_end="20261127163000 -0600" start_utc="20261127203800 +0000" stop_utc="20261127223000 +0000" air_time_start_utc="20261127203800 +0000" air_time_end_utc="20261127223000 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Beekeeper: Sentencia de Muerte</title>
+    <sub-title lang="es">The Beekeeper</sub-title>
+    <desc lang="es">La brutal campaña de venganza de un hombre adquiere dimensiones nacionales cuando se descubre que es un antiguo agente de una poderosa organización clandestina conocida como "Los apicultores".</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261127151000 -0300" stop="20261127175900 -0300" air_time_start="20261127151000 -0300" air_time_end="20261127175900 -0300" start_utc="20261127181000 +0000" stop_utc="20261127205900 +0000" air_time_start_utc="20261127181000 +0000" air_time_end_utc="20261127205900 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Django Livre</title>
+    <sub-title lang="pt">Django Unchained</sub-title>
+    <desc lang="pt">Django é um escravo, comprado pelo caçador de recompensas alemão Dr. King Schultz para auxiliá-lo em uma missão. A dupla acaba fazendo amizade e, após resolver os problemas do caçador, parte em busca por Broomhilda, esposa de Django. Para isso, eles devem enfrentar o vilão Calvin Candie, proprietário da escrava.</desc>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Faroeste</category>
+  </programme>
+  <programme start="20261127155700 -0300" stop="20261127181000 -0300" air_time_start="20261127155700 -0300" air_time_end="20261127181000 -0300" start_utc="20261127185700 +0000" stop_utc="20261127211000 +0000" air_time_start_utc="20261127185700 +0000" air_time_end_utc="20261127211000 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Blue Beetle</title>
+    <desc lang="es">Un adolescente mexicano encuentra un escarabajo alienígena que le proporciona una armadura superpoderosa.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+  </programme>
+  <programme start="20261127163000 -0400" stop="20261127170600 -0400" air_time_start="20261127163000 -0400" air_time_end="20261127170600 -0400" start_utc="20261127203000 +0000" stop_utc="20261127210600 +0000" air_time_start_utc="20261127203000 +0000" air_time_end_utc="20261127210600 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">A Story of Derry</title>
+    <desc lang="es">Siglos antes de la aparición del payaso Pennywise en Derry, tres chicos nativos americanos encuentran un aterrador espíritu ancestral en el bosque.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261127163000 -0600" stop="20261127170700 -0600" air_time_start="20261127163000 -0600" air_time_end="20261127170700 -0600" start_utc="20261127223000 +0000" stop_utc="20261127230700 +0000" air_time_start_utc="20261127223000 +0000" air_time_end_utc="20261127230700 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Una Historia de Derry</title>
+    <sub-title lang="es">A Story of Derry</sub-title>
+    <desc lang="es">Siglos antes de la aparición del payaso Pennywise en Derry, tres chicos nativos americanos encuentran un aterrador espíritu ancestral en el bosque.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261127164200 -0300" stop="20261127194000 -0300" air_time_start="20261127164200 -0300" air_time_end="20261127194000 -0300" start_utc="20261127194200 +0000" stop_utc="20261127224000 +0000" air_time_start_utc="20261127194200 +0000" air_time_end_utc="20261127224000 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Batman</title>
+    <sub-title lang="es">The Batman</sub-title>
+    <desc lang="es">El millonario Bruno Díaz y su pupilo Ricardo Tapia se dedican a luchar contra el mal ocultando su identidad bajo las máscaras de Batman y Robin.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261127170600 -0400" stop="20261127193000 -0400" air_time_start="20261127170600 -0400" air_time_end="20261127193000 -0400" start_utc="20261127210600 +0000" stop_utc="20261127233000 +0000" air_time_start_utc="20261127210600 +0000" air_time_end_utc="20261127233000 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">It</title>
+    <desc lang="es">The horror thriller "IT," directed by Andrés Muschietti ("Mama"), is based on the hugely popular Stephen King novel of the same name, which has been terrifying readers for decades. When children begin to disappear in the town of Derry, Maine, a group of young kids is faced with their biggest fears when they square off against an evil clown named Pennywise, whose history of murder and violence dates back for centuries.</desc>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261127170700 -0600" stop="20261127192900 -0600" air_time_start="20261127170700 -0600" air_time_end="20261127192900 -0600" start_utc="20261127230700 +0000" stop_utc="20261128012900 +0000" air_time_start_utc="20261127230700 +0000" air_time_end_utc="20261128012900 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">It (Eso)</title>
+    <sub-title lang="es">It</sub-title>
+    <desc lang="es">El thriller de terror IT, de New Line Cinema y dirigido por Andy Muschietti (Mamá), está basado en la exitosa novela de Stephen King del mismo nombre, que ha estado aterrorizado a los lectores durante décadas.    Cuando empiezan a desparecer niños en el pueblo de Derry, Maine, un grupo de niños lidia con sus mayores miedos al enfrentarse a un malvado payaso llamado Pennywise, cuya historia de asesinatos y violencia data de siglos.</desc>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20261127175900 -0300" stop="20261127194500 -0300" air_time_start="20261127175900 -0300" air_time_end="20261127194500 -0300" start_utc="20261127205900 +0000" stop_utc="20261127224500 +0000" air_time_start_utc="20261127205900 +0000" air_time_end_utc="20261127224500 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Um Filme Minecraft</title>
+    <sub-title lang="pt">A Minecraft Movie</sub-title>
+    <desc lang="pt">Quatro desajustados são subitamente puxados por um portal misterioso ao Mundo Superior: um paraíso bizarro e cúbico que vive na base da imaginação. Para voltar para casa, eles embarcam em uma jornada mágica com um artesão experiente e inusitado, Steve. Juntos, sua aventura desafiará todos os cinco a serem ousados e se reconectarem com as qualidades que tornam cada um deles singularmente criativo.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Comédia</category>
+    <category lang="pt">Fantasia</category>
+  </programme>
+  <programme start="20261127181000 -0300" stop="20261127202000 -0300" air_time_start="20261127181000 -0300" air_time_end="20261127202000 -0300" start_utc="20261127211000 +0000" stop_utc="20261127232000 +0000" air_time_start_utc="20261127211000 +0000" air_time_end_utc="20261127232000 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Black Adam</title>
+    <desc lang="es">Casi 5,000 años después de obtener los poderes supremos de los antiguos dioses, y de ser encarcelado igual de rápido, Teth Adam se libera de su tumba terrenal, listo para desatar su peculiar forma de justicia en el mundo moderno.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261127192900 -0600" stop="20261127220000 -0600" air_time_start="20261127192900 -0600" air_time_end="20261127220000 -0600" start_utc="20261128012900 +0000" stop_utc="20261128040000 +0000" air_time_start_utc="20261128012900 +0000" air_time_end_utc="20261128040000 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Aquaman</title>
+    <desc lang="es">Aquaman relata la historia sobre el origen del mitad humano, mitad atlante, Arthur Curry y acerca del viaje de su vida, uno que no solo lo obligará a confrontar quién es en realidad, sino que además descubrirá si es capaz de ser quien fue destinado a ser... un rey.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261127193000 -0400" stop="20261127215900 -0400" air_time_start="20261127193000 -0400" air_time_end="20261127215900 -0400" start_utc="20261127233000 +0000" stop_utc="20261128015900 +0000" air_time_start_utc="20261127233000 +0000" air_time_end_utc="20261128015900 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">Aquaman</title>
+    <desc lang="es">Aquaman reveals the origin story of half-human, half-Atlantean Arthur Curry and takes him on the journey of his lifetime -one that will not only force him to face who he really is, but to discover if he is worthy of who he was born to be... a king.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261127194000 -0300" stop="20261127220000 -0300" air_time_start="20261127194000 -0300" air_time_end="20261127220000 -0300" start_utc="20261127224000 +0000" stop_utc="20261128010000 +0000" air_time_start_utc="20261127224000 +0000" air_time_end_utc="20261128010000 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Spider-Man: De Regreso a Casa</title>
+    <sub-title lang="es">Spider-Man: Homecoming</sub-title>
+    <desc lang="es">Luego de su experiencia con los Vengadores, el joven Peter Parker vuelve a casa a vivir junto a su tía May. Bajo el cuidado de su mentor Tony Stark, Parker comienza a abrazar su nueva identidad como Spider-Man. También intenta volver a su rutina normal, distraído por su deseo de ser más que un amigable superhéroe de barrio. Pronto Peter deberá poner sus poderes a prueba cuando el malvado Vulture emerge y amenaza todo lo que Peter quiere.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+  </programme>
+  <programme start="20261127194500 -0300" stop="20261127220000 -0300" air_time_start="20261127194500 -0300" air_time_end="20261127220000 -0300" start_utc="20261127224500 +0000" stop_utc="20261128010000 +0000" air_time_start_utc="20261127224500 +0000" air_time_end_utc="20261128010000 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Homem-Aranha: De Volta ao Lar</title>
+    <sub-title lang="pt">Spider-Man: Homecoming</sub-title>
+    <desc lang="pt">Após a morte da mãe e o desaparecimento do pai, Joyce é criada pelos tios, Darío e Flávia. Embora Darío tenha uma relação de carinho com a sobrinha, Joyce sofre com a hostilidade da tia. Porém, recebe as atenções da prima, Sônia, sete anos mais velha, capaz de tudo para agradá-la.No entanto, as primas passam a viver um triângulo amoroso quando Joyce se apaixona pelo namorado de Sônia, o médico Paulo Villani. A situação traz de volta o passado perturbador de Flávia, envolvendo sua irmã Senhorinha, mãe de Joyce, e Darío. Os dois haviam tido uma relação amorosa quando jovens, formando um triângulo amoroso com Flávia.Um quarto elemento surge com Carlos, de origem humilde. Decidido a conquistar o amor de Joyce, o rapaz esconde sua classe social. Porém, Joyce só está interessada em Paulo. Para tê-lo, ela manipula Sônia para que ela abra mão do amado a seu favor, chegando a fingir uma cegueira após um acidente, como forma de despertar a compaixão e atenção de todos.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Ficção Científica</category>
+  </programme>
+  <programme start="20261127202000 -0300" stop="20261127215900 -0300" air_time_start="20261127202000 -0300" air_time_end="20261127215900 -0300" start_utc="20261127232000 +0000" stop_utc="20261128005900 +0000" air_time_start_utc="20261127232000 +0000" air_time_end_utc="20261128005900 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">El Pez Pucheros</title>
+    <sub-title lang="es">The Pout-Pout Fish</sub-title>
+    <desc lang="es">Cuando se produce una catástrofe, el huraño y susceptible Pez Pucheros y su hiperactivo compañero, el dragón marino Pip, deben embarcarse en una aventura en busca de un pez mítico que les conceda el deseo de salvar sus hogares.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Familiar</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20261127215900 -0300" stop="20261127234300 -0300" air_time_start="20261127215900 -0300" air_time_end="20261127234300 -0300" start_utc="20261128005900 +0000" stop_utc="20261128024300 +0000" air_time_start_utc="20261128005900 +0000" air_time_end_utc="20261128024300 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Super Mario Galaxy: La Película</title>
+    <sub-title lang="es">The Super Mario Galaxy Movie</sub-title>
+    <desc lang="es">Mario y Luigi se enfrentan una nueva amenaza: Bowser Jr., quién está decidido liberar a su padre del cautiverio y restaurar el legado familiar. Junto con nuevos y viejos compañeros, los hermanos viajan a través de las estrellas para detener la cruzada del joven heredero.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familiar</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20261127215900 -0400" stop="20261127234400 -0400" air_time_start="20261127215900 -0400" air_time_end="20261127234400 -0400" start_utc="20261128015900 +0000" stop_utc="20261128034400 +0000" air_time_start_utc="20261128015900 +0000" air_time_end_utc="20261128034400 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">The Super Mario Galaxy Movie</title>
+    <desc lang="es">Mario y Luigi se enfrentan una nueva amenaza: Bowser Jr., quién está decidido liberar a su padre del cautiverio y restaurar el legado familiar. Junto con nuevos y viejos compañeros, los hermanos viajan a través de las estrellas para detener la cruzada del joven heredero.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familiar</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20261127220000 -0300" stop="20261127234300 -0300" air_time_start="20261127220000 -0300" air_time_end="20261127234300 -0300" start_utc="20261128010000 +0000" stop_utc="20261128024300 +0000" air_time_start_utc="20261128010000 +0000" air_time_end_utc="20261128024300 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Super Mario Galaxy: La Película</title>
+    <sub-title lang="es">The Super Mario Galaxy Movie</sub-title>
+    <desc lang="es">Mario y Luigi se enfrentan una nueva amenaza: Bowser Jr., quién está decidido liberar a su padre del cautiverio y restaurar el legado familiar. Junto con nuevos y viejos compañeros, los hermanos viajan a través de las estrellas para detener la cruzada del joven heredero.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familiar</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20261127220000 -0300" stop="20261127234600 -0300" air_time_start="20261127220000 -0300" air_time_end="20261127234600 -0300" start_utc="20261128010000 +0000" stop_utc="20261128024600 +0000" air_time_start_utc="20261128010000 +0000" air_time_end_utc="20261128024600 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Não Solte!</title>
+    <sub-title lang="pt">Never Let Go</sub-title>
+    <desc lang="pt">Uma ameaça sobrenatural desconhecida domina o mundo exterior, deixando a segurança de uma mãe e seus filhos gêmeos restrita à proteção de sua casa e ao vínculo familiar. A mãe e seus filhos se mantêm ligados por cordas dentro de sua residência para protegerem-se do mal que assola o mundo exterior. No entanto, quando um dos meninos começa a questionar a realidade do mal que os cercam, a frágil segurança da família começa a se desintegrar.</desc>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Suspense</category>
+    <category lang="pt">Terror</category>
+  </programme>
+  <programme start="20261127220000 -0600" stop="20261127234500 -0600" air_time_start="20261127220000 -0600" air_time_end="20261127234500 -0600" start_utc="20261128040000 +0000" stop_utc="20261128054500 +0000" air_time_start_utc="20261128040000 +0000" air_time_end_utc="20261128054500 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Super Mario Galaxy: La Película</title>
+    <sub-title lang="es">The Super Mario Galaxy Movie</sub-title>
+    <desc lang="es">Mario y Luigi se enfrentan una nueva amenaza: Bowser Jr., quién está decidido liberar a su padre del cautiverio y restaurar el legado familiar. Junto con nuevos y viejos compañeros, los hermanos viajan a través de las estrellas para detener la cruzada del joven heredero.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familiar</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20261127234300 -0300" stop="20261128013200 -0300" air_time_start="20261127234300 -0300" air_time_end="20261128013200 -0300" start_utc="20261128024300 +0000" stop_utc="20261128043200 +0000" air_time_start_utc="20261128024300 +0000" air_time_end_utc="20261128043200 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Beekeeper: Sentencia de Muerte</title>
+    <sub-title lang="es">The Beekeeper</sub-title>
+    <desc lang="es">La brutal campaña de venganza de un hombre adquiere dimensiones nacionales cuando se descubre que es un antiguo agente de una poderosa organización clandestina conocida como "Los apicultores".</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261127234300 -0300" stop="20261128012800 -0300" air_time_start="20261127234300 -0300" air_time_end="20261128012800 -0300" start_utc="20261128024300 +0000" stop_utc="20261128042800 +0000" air_time_start_utc="20261128024300 +0000" air_time_end_utc="20261128042800 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Tierras Perdidas</title>
+    <sub-title lang="es">In the Lost Lands</sub-title>
+    <desc lang="es">Una reina, desesperada por obtener el don de cambiar de forma, hace una jugada audaz: contrata a la hechicera Gray Alys, una mujer tan temida como poderosa. Enviada al desierto fantasmal de las Tierras Perdidas, Alys y su guía, el vagabundo Boyce, deben burlar y luchar contra el hombre y el demonio en una fábula que explora la naturaleza del bien y el mal, la deuda y la satisfacción, el amor y la pérdida.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261127234400 -0400" stop="20261128012900 -0400" air_time_start="20261127234400 -0400" air_time_end="20261128012900 -0400" start_utc="20261128034400 +0000" stop_utc="20261128052900 +0000" air_time_start_utc="20261128034400 +0000" air_time_end_utc="20261128052900 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">Companion</title>
+    <desc lang="es">La muerte de un multimillonario desencadena una cadena de acontecimientos para Iris y sus amigos durante un viaje de fin de semana a su propiedad junto al lago.</desc>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261127234500 -0600" stop="20261128020200 -0600" air_time_start="20261127234500 -0600" air_time_end="20261128020200 -0600" start_utc="20261128054500 +0000" stop_utc="20261128080200 +0000" air_time_start_utc="20261128054500 +0000" air_time_end_utc="20261128080200 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Superman</title>
+    <sub-title lang="es">Esperando a Superman</sub-title>
+    <sub-title lang="en">Superman</sub-title>
+    <desc lang="es">Chrissy Beppo, con la autorización del Departamento de Defensa, tiene un mensaje para la gente de Smallville, la fusión de planetas no solo es real, sino que está ocurriendo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Familiar</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261127234600 -0300" stop="20261128014100 -0300" air_time_start="20261127234600 -0300" air_time_end="20261128014100 -0300" start_utc="20261128024600 +0000" stop_utc="20261128044100 +0000" air_time_start_utc="20261128024600 +0000" air_time_end_utc="20261128044100 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Eu Sei O Que Vocês Fizeram no Verão Passado</title>
+    <sub-title lang="pt">I Know What You Did Last Summer</sub-title>
+    <desc lang="pt">Em uma cidade cheia de segredos, um grupo de adolescentes é perseguido por um misterioso assassino, um ano após um acidente fatal em sua noite de formatura.</desc>
+    <category lang="pt">Terror</category>
+  </programme>
+  <programme start="20261128012800 -0300" stop="20261128040800 -0300" air_time_start="20261128012800 -0300" air_time_end="20261128040800 -0300" start_utc="20261128042800 +0000" stop_utc="20261128070800 +0000" air_time_start_utc="20261128042800 +0000" air_time_end_utc="20261128070800 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">Harry Potter y el Cáliz de Fuego</title>
+    <sub-title lang="es">Harry Potter and the Goblet of Fire</sub-title>
+    <desc lang="es">Harry Potter regresa a Hogwarts por cuarto año consecutivo, y el Torneo de los Tres Magos, una competencia entre tres famosas escuelas de magia, está a punto de comenzar. El candidato de cada escuela es elegido por el cáliz de fuego, y todo el mundo se sorprende cuando Harry, quien es aun muy joven para participar, es incluido entre los competidores. El joven mago deberá enfrentarse al peligro para superar los numerosos desafíos que pondrán en riesgo su vida, mientras su lucha contra el lado oscuro continúa, tras la reaparición de Lord Voldemort.</desc>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Familiar</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20261128012900 -0400" stop="20261128034600 -0400" air_time_start="20261128012900 -0400" air_time_end="20261128034600 -0400" start_utc="20261128052900 +0000" stop_utc="20261128074600 +0000" air_time_start_utc="20261128052900 +0000" air_time_end_utc="20261128074600 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">Blackhat</title>
+    <desc lang="es">A hacker (Chris Hemsworth, Thor) sentenced to prison for a program he designed when he was a teenager, must cooperate with the FBI (Viola Davis, Suicide Squad) and with the Chinese government (Wei Tang, Lust, Caution) to stop a terrorist cyber-attack that is threatening a nuclear base.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261128013200 -0300" stop="20261128035200 -0300" air_time_start="20261128013200 -0300" air_time_end="20261128035200 -0300" start_utc="20261128043200 +0000" stop_utc="20261128065200 +0000" air_time_start_utc="20261128043200 +0000" air_time_end_utc="20261128065200 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Corazones de Hierro</title>
+    <sub-title lang="es">Fury</sub-title>
+    <desc lang="es">En abril de 1945, los aliados están dando sus últimos pasos en Europa. Un aguerrido sargento de la Armada llamado Don ¿Wardaddy¿ Collier, al frente de un tanque Sherman y un ejército de cinco, lleva a cabo una difícil misión tras líneas enemigas. Desesperanzados, superados en hombres y armas y contando con un soldado sin experiencia, Wardaddy y sus hombres afrontan enormes peligros al intentar atacar el corazón de la Alemania nazi.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Bélica</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20261128014100 -0300" stop="20261128041500 -0300" air_time_start="20261128014100 -0300" air_time_end="20261128041500 -0300" start_utc="20261128044100 +0000" stop_utc="20261128071500 +0000" air_time_start_utc="20261128044100 +0000" air_time_end_utc="20261128071500 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Tenet</title>
+    <desc lang="pt">Armado com apenas uma palavra – Tenet – e lutando pela sobrevivência do mundo inteiro, o Protagonista viaja através de um mundo crepuscular de espionagem internacional em uma missão que irá desenrolar em algo para além do tempo real.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Ficção Científica</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20261128020200 -0600" stop="20261128034700 -0600" air_time_start="20261128020200 -0600" air_time_end="20261128034700 -0600" start_utc="20261128080200 +0000" stop_utc="20261128094700 +0000" air_time_start_utc="20261128080200 +0000" air_time_end_utc="20261128094700 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Compañera Perfecta</title>
+    <desc lang="es">La muerte de un multimillonario desencadena una cadena de acontecimientos para Iris y sus amigos durante un viaje de fin de semana a su propiedad junto al lago.</desc>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261128034600 -0400" stop="20261128060000 -0400" air_time_start="20261128034600 -0400" air_time_end="20261128060000 -0400" start_utc="20261128074600 +0000" stop_utc="20261128100000 +0000" air_time_start_utc="20261128074600 +0000" air_time_end_utc="20261128100000 +0000" is_live="false" channel="HBO_BCO.co">
+    <title lang="es">The Town</title>
+    <desc lang="es">A commando of bank and armored truck robbers is very successful in Boston. But its leader and a bank manager, kidnapped in one of the robberies, have a love affair that will give the FBI clues for the whereabouts of the band. Director and leading role: Ben Affleck (Argo, Armaggedon).</desc>
+    <category lang="es">Crimen</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Romance</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261128034700 -0600" stop="20261128060000 -0600" air_time_start="20261128034700 -0600" air_time_end="20261128060000 -0600" start_utc="20261128094700 +0000" stop_utc="20261128120000 +0000" air_time_start_utc="20261128094700 +0000" air_time_end_utc="20261128120000 +0000" is_live="false" channel="HBO_BMO.mx">
+    <title lang="es">Atracción Peligrosa</title>
+    <sub-title lang="es">The Town</sub-title>
+    <desc lang="es">Un comando de ladrones de bancos y transportes de caudales opera con éxito en Boston. Pero su líder y una gerente bancaria, secuestrada en uno de los atracos, inician un romance que pondrá al FBI en la pista de la banda. Dirige y protagoniza Ben Affleck (Argo, Armaggedon).</desc>
+    <category lang="es">Crimen</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Policial</category>
+    <category lang="es">Romance</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261128035200 -0300" stop="20261128060000 -0300" air_time_start="20261128035200 -0300" air_time_end="20261128060000 -0300" start_utc="20261128065200 +0000" stop_utc="20261128090000 +0000" air_time_start_utc="20261128065200 +0000" air_time_end_utc="20261128090000 +0000" is_live="false" channel="HBO_CHO.cl">
+    <title lang="es">Red Social</title>
+    <sub-title lang="es">The Social Network</sub-title>
+    <desc lang="es">En una noche de otoño de 2003, Mark Zuckerberg, un estudiante de Harvard y genio de la computación, se sienta frente a su computadora y comienza a trabajar en una idea nueva que pronto se convierte en una red social global y revoluciona la comunicación tal y como la conocíamos. Pero el éxito trae consigo complicaciones tanto personales como legales cuando comienza la batalla por los derechos intelectuales.</desc>
+    <category lang="es">Biografía</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20261128040800 -0300" stop="20261128060000 -0300" air_time_start="20261128040800 -0300" air_time_end="20261128060000 -0300" start_utc="20261128070800 +0000" stop_utc="20261128090000 +0000" air_time_start_utc="20261128070800 +0000" air_time_end_utc="20261128090000 +0000" is_live="false" channel="HBO_PAO.co">
+    <title lang="es">La Trampa</title>
+    <sub-title lang="es">Trap</sub-title>
+    <desc lang="es">La exitosa escritora Lisa Konrad no ha salido de casa desde que presenció el asesinato de su hermana Anna, hace casi diez años. Pero al creer ver al asesino en televisión, se propone tenderle una trampa utilizándose a sí misma como cebo.</desc>
+    <category lang="es">Policial</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20261128041500 -0300" stop="20261128060000 -0300" air_time_start="20261128041500 -0300" air_time_end="20261128060000 -0300" start_utc="20261128071500 +0000" stop_utc="20261128090000 +0000" air_time_start_utc="20261128071500 +0000" air_time_end_utc="20261128090000 +0000" is_live="false" channel="HBO_BBO.br">
+    <title lang="pt">Ricki and the Flash: De Volta para Casa</title>
+    <sub-title lang="pt">Ricki and the Flash</sub-title>
+    <desc lang="pt">Com mais de 50 anos de idade, Ricki é uma cantora de rock, que sempre se apresenta com a banda The Flash em um pequeno bar. A situação financeira é precária, e ela não vê os filhos adultos há décadas. Um dia, o ex-marido Pete liga para Ricki, avisando que a filha Julie foi abandonada pelo marido, e pedindo ajuda para tirá-la de um estado depressivo. Reticente, a mãe retorna ao lar, e descobre que tanto Julie quanto seus dois irmãos têm muito ressentimento por causa do abandono quando eram crianças. Essa é a oportunidade para Ricki fazer as pazes e tentar ser mais presente na vida deles.</desc>
+    <category lang="pt">Comédia</category>
+    <category lang="pt">Drama</category>
   </programme>
 </tv>
