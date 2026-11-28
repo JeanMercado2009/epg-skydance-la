@@ -1,4 +1,4 @@
-name: Actualizacion EPG Discovery Kids
+name: Actualizacion EPG Discovery Kids y Home & Health
 
 on:
   schedule:
@@ -32,7 +32,7 @@ jobs:
           pip install --upgrade pip
           pip install requests pandas xlrd openpyxl beautifulsoup4 html5lib lxml
 
-      - name: Descargar y Procesar Grillas Discovery Kids
+      - name: Descargar y Procesar Grillas Discovery
         env:
           TAPKIT_EMAIL: ${{ secrets.TAPKIT_EMAIL }}
           TAPKIT_PASSWORD: ${{ secrets.TAPKIT_PASSWORD }}
@@ -41,15 +41,15 @@ jobs:
         run: |
           python updater_discovery.py
 
-      - name: Guardar cambios de Discovery Kids en el repositorio
+      - name: Guardar cambios de Discovery en el repositorio
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add DKLA_EPG.xml
+          git add DKLA_EPG.xml DHH_LA.xml
           if git diff --staged --quiet; then
-            echo "No hay cambios nuevos en DKLA_EPG.xml."
+            echo "No hay cambios nuevos en DKLA_EPG.xml ni en DHH_LA.xml."
           else
-            git commit -m "Auto-update EPG Discovery"
+            git commit -m "Auto-update EPG Discovery Kids & Home & Health"
             git pull --rebase origin main
             git push
           fi
