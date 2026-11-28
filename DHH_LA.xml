@@ -18,6 +18,16 @@
   <channel id="DHH_VZ_CL.co" feed_id="DHH_VZ_CL">
     <display-name>Discovery Home &amp; Health Venezuela / Chile</display-name>
   </channel>
+  <programme start="20261127001300 -0300" stop="20261127010300 -0300" air_time_start="20261127001300 -0300" air_time_end="20261127010300 -0300" start_utc="20261127031300 +0000" stop_utc="20261127040300 +0000" air_time_start_utc="20261127031300 +0000" air_time_end_utc="20261127040300 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Dra. Sandra Lee: datos explosivos</title>
+    <sub-title lang="es">Ep. 1 - Datos explosivos: Buscando el amor</sub-title>
+    <sub-title lang="en">Pop UPS Lookin For Love In Lumpy Places</sub-title>
+    <desc lang="es">Por fin se revelan jugosos datos y secretos entre bastidores. Gabriel tiene un crecimiento en la clavícula pero le aterroriza la cirugía. Karen ha lidiado con pies escamosos durante décadas.</desc>
+    <date>2022</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">4.0.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/4h3KQSShjRUyXC7lIWUyl7OpRV1.jpg"/>
+  </programme>
   <programme start="20261127001900 -0300" stop="20261127010600 -0300" air_time_start="20261127001900 -0300" air_time_end="20261127010600 -0300" start_utc="20261127031900 +0000" stop_utc="20261127040600 +0000" air_time_start_utc="20261127031900 +0000" air_time_end_utc="20261127040600 +0000" is_live="false" channel="DHH_AR.ar">
     <title lang="es">Dra. Sandra Lee: datos explosivos</title>
     <sub-title lang="es">Ep. 1 - Datos explosivos: Buscando el amor</sub-title>
@@ -66,6 +76,16 @@
     <category lang="pt">Estilo de vida</category>
     <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
+  <programme start="20261127010300 -0300" stop="20261127015300 -0300" air_time_start="20261127010300 -0300" air_time_end="20261127015300 -0300" start_utc="20261127040300 +0000" stop_utc="20261127045300 +0000" air_time_start_utc="20261127040300 +0000" air_time_end_utc="20261127045300 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Sala de emergencias: Historias inéditas</title>
+    <sub-title lang="es">Ep. 4 - Puro músculo/El anillo/  El tiroteo</sub-title>
+    <sub-title lang="en">Size Matters</sub-title>
+    <desc lang="es">Una mujer puede perder su dedo por probarse un anillo de compromiso que no le quedaba.  Un fisicoculturista no puede respirar, y los doctores quedan impactados cuando descubren por qué.  Además, casi atropellan a uno de los médicos.</desc>
+    <date>2015</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">9.3.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/vLkPVAu5d0veFWq7F0qkgw2K2ag.jpg"/>
+  </programme>
   <programme start="20261127010600 -0300" stop="20261127015400 -0300" air_time_start="20261127010600 -0300" air_time_end="20261127015400 -0300" start_utc="20261127040600 +0000" stop_utc="20261127045400 +0000" air_time_start_utc="20261127040600 +0000" air_time_end_utc="20261127045400 +0000" is_live="false" channel="DHH_AR.ar">
     <title lang="es">Sala de emergencias: Historias inéditas</title>
     <sub-title lang="es">Ep. 4 - Puro músculo/El anillo/  El tiroteo</sub-title>
@@ -112,6 +132,16 @@
     <category lang="pt">Estilo de vida</category>
     <episode-num system="xmltv_ns">6.17.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/nhHYpH8Q2pTcmEktGCNG9ZZ6oLq.jpg"/>
+  </programme>
+  <programme start="20261127015300 -0300" stop="20261127024100 -0300" air_time_start="20261127015300 -0300" air_time_end="20261127024100 -0300" start_utc="20261127045300 +0000" stop_utc="20261127054100 +0000" air_time_start_utc="20261127045300 +0000" air_time_end_utc="20261127054100 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Sala de emergencias: Historias inéditas</title>
+    <sub-title lang="es">Ep. 5 - El zombi/ ¿Quién es la víctima?/ Ataques misteriosos</sub-title>
+    <sub-title lang="en">Zombie Uprising</sub-title>
+    <desc lang="es">Un zombi de Halloween con un problema debajo de su cinturón desconcierta a los doctores.  Un médico ayuda a la policía a encontrar a un secuestrador, y otro médico comete un error que explica la condición de su paciente.</desc>
+    <date>2015</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">9.4.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/t0JB14QFsyNe2ZrzMJUqJoDsi9T.jpg"/>
   </programme>
   <programme start="20261127015400 -0300" stop="20261127023900 -0300" air_time_start="20261127015400 -0300" air_time_end="20261127023900 -0300" start_utc="20261127045400 +0000" stop_utc="20261127053900 +0000" air_time_start_utc="20261127045400 +0000" air_time_end_utc="20261127053900 +0000" is_live="false" channel="DHH_AR.ar">
     <title lang="es">Sala de emergencias: Historias inéditas</title>
@@ -172,6 +202,16 @@
     <episode-num system="xmltv_ns">9.5.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/pcecvE7PNLlRttPG5gybvRhfI0i.jpg"/>
   </programme>
+  <programme start="20261127024100 -0300" stop="20261127032700 -0300" air_time_start="20261127024100 -0300" air_time_end="20261127032700 -0300" start_utc="20261127054100 +0000" stop_utc="20261127062700 +0000" air_time_start_utc="20261127054100 +0000" air_time_end_utc="20261127062700 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Sala de emergencias: Historias inéditas</title>
+    <sub-title lang="es">Ep. 6 - La religiosa/ Ensangrentada/ La bomba de tiempo</sub-title>
+    <sub-title lang="en">Faceoff</sub-title>
+    <desc lang="es">El estiramiento facial de una mujer sale muy mal.  La personalidad del capellán del hospital cambia repentinamente y desconcierta al personal.  Una mujer embarazada con síntomas mortales necesita que la traten de inmediato.</desc>
+    <date>2015</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">9.5.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/pcecvE7PNLlRttPG5gybvRhfI0i.jpg"/>
+  </programme>
   <programme start="20261127025600 -0500" stop="20261127034200 -0500" air_time_start="20261127025600 -0500" air_time_end="20261127034200 -0500" start_utc="20261127075600 +0000" stop_utc="20261127084200 +0000" air_time_start_utc="20261127075600 +0000" air_time_end_utc="20261127084200 +0000" is_live="false" channel="DHH_PAN.co">
     <title lang="es">Remodelaciones con celebridades</title>
     <sub-title lang="es">Ep. 3 - Una casa de ensueño a cargo de Viola Davis</sub-title>
@@ -202,6 +242,15 @@
     <icon src="https://media.themoviedb.org/t/p/w500/jBxFNRWuCch7dUCx8wla6Tl6pxL.jpg"/>
   </programme>
   <programme start="20261127032200 -0300" stop="20261127040600 -0300" air_time_start="20261127032200 -0300" air_time_end="20261127040600 -0300" start_utc="20261127062200 +0000" stop_utc="20261127070600 +0000" air_time_start_utc="20261127062200 +0000" air_time_end_utc="20261127070600 +0000" is_live="false" channel="DHH_AR.ar">
+    <title lang="es">Mi cuerpo, mi desafío</title>
+    <sub-title lang="es">Ep. 6 - Nacido con cuatro piernas</sub-title>
+    <sub-title lang="en">Born With Four Legs</sub-title>
+    <desc lang="es">Arun, de India, tiene cuatro piernas y dos crecen en su espalda y por eso irá a Delhi en busca de una operación.  ¿Los doctores podrán ayudarlo, y su familia estará de acuerdo?</desc>
+    <date>2016</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
+  </programme>
+  <programme start="20261127032700 -0300" stop="20261127041500 -0300" air_time_start="20261127032700 -0300" air_time_end="20261127041500 -0300" start_utc="20261127062700 +0000" stop_utc="20261127071500 +0000" air_time_start_utc="20261127062700 +0000" air_time_end_utc="20261127071500 +0000" is_live="false" channel="DHH_VZ_CL.co">
     <title lang="es">Mi cuerpo, mi desafío</title>
     <sub-title lang="es">Ep. 6 - Nacido con cuatro piernas</sub-title>
     <sub-title lang="en">Born With Four Legs</sub-title>
@@ -256,6 +305,15 @@
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">5.0.</episode-num>
   </programme>
+  <programme start="20261127041500 -0300" stop="20261127050100 -0300" air_time_start="20261127041500 -0300" air_time_end="20261127050100 -0300" start_utc="20261127071500 +0000" stop_utc="20261127080100 +0000" air_time_start_utc="20261127071500 +0000" air_time_end_utc="20261127080100 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Mi cuerpo, mi desafío</title>
+    <sub-title lang="es">Ep. 1 - Quemándose desde adentro</sub-title>
+    <sub-title lang="en">Burning Inside Out</sub-title>
+    <desc lang="es">Ylena tiene 18 años y es de Inglaterra, padece el síndrome de Ehlers Danlos que hace que ante el menor movimiento se le descoloque el cuello. Prosper, de 18 años, fue rechazado de su comunidad en Costa de Marfil debido a un tumor facial gigante.</desc>
+    <date>2018</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">5.0.</episode-num>
+  </programme>
   <programme start="20261127042900 -0500" stop="20261127051400 -0500" air_time_start="20261127042900 -0500" air_time_end="20261127051400 -0500" start_utc="20261127092900 +0000" stop_utc="20261127101400 +0000" air_time_start_utc="20261127092900 +0000" air_time_end_utc="20261127101400 +0000" is_live="false" channel="DHH_PAN.co">
     <title lang="es">Hermanos a la obra: un hogar para siempre</title>
     <sub-title lang="es">Ep. 11 - Hacerlo nuestro</sub-title>
@@ -284,6 +342,15 @@
     <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
   <programme start="20261127045000 -0300" stop="20261127053800 -0300" air_time_start="20261127045000 -0300" air_time_end="20261127053800 -0300" start_utc="20261127075000 +0000" stop_utc="20261127083800 +0000" air_time_start_utc="20261127075000 +0000" air_time_end_utc="20261127083800 +0000" is_live="false" channel="DHH_AR.ar">
+    <title lang="es">Rescatando propiedades</title>
+    <sub-title lang="es">Ep. 20 - Casa infestada</sub-title>
+    <sub-title lang="en">Infested Flip</sub-title>
+    <desc lang="es">Tarek y Christina compiten entre ellos para ver qué diseño es mejor en una casa en California.</desc>
+    <date>2016</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">6.19.</episode-num>
+  </programme>
+  <programme start="20261127050100 -0300" stop="20261127053600 -0300" air_time_start="20261127050100 -0300" air_time_end="20261127053600 -0300" start_utc="20261127080100 +0000" stop_utc="20261127083600 +0000" air_time_start_utc="20261127080100 +0000" air_time_end_utc="20261127083600 +0000" is_live="false" channel="DHH_VZ_CL.co">
     <title lang="es">Rescatando propiedades</title>
     <sub-title lang="es">Ep. 20 - Casa infestada</sub-title>
     <sub-title lang="en">Infested Flip</sub-title>
@@ -328,6 +395,15 @@
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
+  <programme start="20261127053600 -0300" stop="20261127060000 -0300" air_time_start="20261127053600 -0300" air_time_end="20261127060000 -0300" start_utc="20261127083600 +0000" stop_utc="20261127090000 +0000" air_time_start_utc="20261127083600 +0000" air_time_end_utc="20261127090000 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Rescatando propiedades</title>
+    <sub-title lang="es">Ep. 10 - Una renovación abandonada</sub-title>
+    <sub-title lang="en">Neglected Flip, A</sub-title>
+    <desc lang="es">Tarek y Christina ven una casa en Anaheim, Califonia, que se ofrece para comprar de inmediato y en efectivo.</desc>
+    <date>2014</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+  </programme>
   <programme start="20261127053800 -0300" stop="20261127060000 -0300" air_time_start="20261127053800 -0300" air_time_end="20261127060000 -0300" start_utc="20261127083800 +0000" stop_utc="20261127090000 +0000" air_time_start_utc="20261127083800 +0000" air_time_end_utc="20261127090000 +0000" is_live="false" channel="DHH_AR.ar">
     <title lang="es">Rescatando propiedades</title>
     <sub-title lang="es">Ep. 10 - Una renovación abandonada</sub-title>
@@ -363,6 +439,15 @@
     <date>2023</date>
     <category lang="pt">Estilo de vida</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20261127060000 -0300" stop="20261127065200 -0300" air_time_start="20261127060000 -0300" air_time_end="20261127065200 -0300" start_utc="20261127090000 +0000" stop_utc="20261127095200 +0000" air_time_start_utc="20261127090000 +0000" air_time_end_utc="20261127095200 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Historias de peso: clínica de obesidad</title>
+    <sub-title lang="es">Episodio 6</sub-title>
+    <sub-title lang="en">Episode 6</sub-title>
+    <desc lang="es">Laura sufre de depresión y ha estado medicada desde los 20 años. Tras un accidente, se volvió bulímica. Pesa 154 kg, pero el enemigo es la bulimia.</desc>
+    <date>2019</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
   </programme>
   <programme start="20261127060000 -0500" stop="20261127065000 -0500" air_time_start="20261127060000 -0500" air_time_end="20261127065000 -0500" start_utc="20261127110000 +0000" stop_utc="20261127115000 +0000" air_time_start_utc="20261127110000 +0000" air_time_end_utc="20261127115000 +0000" is_live="false" channel="DHH_PAN.co">
     <title lang="es">Dra. Sandra Lee: directo al grano</title>
@@ -439,6 +524,15 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/am9D8MOXub3rArJVsQdxh4tpGmp.jpg"/>
   </programme>
+  <programme start="20261127065200 -0300" stop="20261127074300 -0300" air_time_start="20261127065200 -0300" air_time_end="20261127074300 -0300" start_utc="20261127095200 +0000" stop_utc="20261127104300 +0000" air_time_start_utc="20261127095200 +0000" air_time_end_utc="20261127104300 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Historias de peso: clínica de obesidad</title>
+    <sub-title lang="es">Episodio 7</sub-title>
+    <sub-title lang="en">Episode 7</sub-title>
+    <desc lang="es">Gennaro ya no puede trabajar. El Dr. Giardiello detectó tres problemas graves: su pierna izquierda gangrenada, una hernia umbilical y 228 kg.</desc>
+    <date>2019</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+  </programme>
   <programme start="20261127070900 -0300" stop="20261127073400 -0300" air_time_start="20261127070900 -0300" air_time_end="20261127073400 -0300" start_utc="20261127100900 +0000" stop_utc="20261127103400 +0000" air_time_start_utc="20261127100900 +0000" air_time_end_utc="20261127103400 +0000" is_live="false" channel="DHH_BR.br">
     <title lang="pt">A Pequena Grande Família</title>
     <sub-title lang="pt">Ep. 12</sub-title>
@@ -494,6 +588,15 @@
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
+  <programme start="20261127074300 -0300" stop="20261127083500 -0300" air_time_start="20261127074300 -0300" air_time_end="20261127083500 -0300" start_utc="20261127104300 +0000" stop_utc="20261127113500 +0000" air_time_start_utc="20261127104300 +0000" air_time_end_utc="20261127113500 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Historias de peso: clínica de obesidad</title>
+    <sub-title lang="es">Episodio 8</sub-title>
+    <sub-title lang="en">Episode 8</sub-title>
+    <desc lang="es">La obesidad de Antonio explotó a los 22 años cuando perdió a su padre. Pesa 226 kg y quiere adelgazar para cumplir su papel de padre.</desc>
+    <date>2019</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+  </programme>
   <programme start="20261127082400 -0300" stop="20261127091500 -0300" air_time_start="20261127082400 -0300" air_time_end="20261127091500 -0300" start_utc="20261127112400 +0000" stop_utc="20261127121500 +0000" air_time_start_utc="20261127112400 +0000" air_time_end_utc="20261127121500 +0000" is_live="false" channel="DHH_BR.br">
     <title lang="pt">Os Pequenos Johnstons</title>
     <sub-title lang="pt">Ep. 8 – Como Se Diz Esse Nome?</sub-title>
@@ -525,6 +628,16 @@
     <date>2025</date>
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20261127083500 -0300" stop="20261127092400 -0300" air_time_start="20261127083500 -0300" air_time_end="20261127092400 -0300" start_utc="20261127113500 +0000" stop_utc="20261127122400 +0000" air_time_start_utc="20261127113500 +0000" air_time_end_utc="20261127122400 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Dra. Sandra Lee: datos explosivos</title>
+    <sub-title lang="es">Ep. 2 - La gran explosión</sub-title>
+    <sub-title lang="en">Pop UPS Big Pop On Campus</sub-title>
+    <desc lang="es">¡Descubre todos los nuevos y jugosos datos y secretos detrás de cámaras! ¿Podrá la dra. Lee ayudar a Reginald y quitarles los extraños bultos que tiene en la nuca? Che'Re tiene un bulto en la cara. Juan tiene unos bultos dolorosos en la nuca.</desc>
+    <date>2021</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">3.1.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/dM9O1WH5DxjmOEsaba2HpPoqraw.jpg"/>
   </programme>
   <programme start="20261127090000 -0300" stop="20261127093000 -0300" air_time_start="20261127090000 -0300" air_time_end="20261127093000 -0300" start_utc="20261127120000 +0000" stop_utc="20261127123000 +0000" air_time_start_utc="20261127120000 +0000" air_time_end_utc="20261127123000 +0000" is_live="false" channel="DHH_AR.ar">
     <title lang="es">Group Name</title>
@@ -568,6 +681,16 @@
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
   </programme>
+  <programme start="20261127092400 -0300" stop="20261127101300 -0300" air_time_start="20261127092400 -0300" air_time_end="20261127101300 -0300" start_utc="20261127122400 +0000" stop_utc="20261127131300 +0000" air_time_start_utc="20261127122400 +0000" air_time_end_utc="20261127131300 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Masterchef</title>
+    <sub-title lang="es">Ep. 1 - Las batallas de audiciones</sub-title>
+    <sub-title lang="en">Audition Battles, The</sub-title>
+    <desc lang="es">Ocho parejas de cocineros caseros se enfrentan cara a cara, luchando por ganar los legendarios delantales blancos.</desc>
+    <date>2025</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">14.0.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/llYeUJkbTn2LifsyJJV2lkI0jW8.jpg"/>
+  </programme>
   <programme start="20261127093000 -0300" stop="20261127095900 -0300" air_time_start="20261127093000 -0300" air_time_end="20261127095900 -0300" start_utc="20261127123000 +0000" stop_utc="20261127125900 +0000" air_time_start_utc="20261127123000 +0000" air_time_end_utc="20261127125900 +0000" is_live="false" channel="DHH_AR.ar">
     <title lang="es">Group Name</title>
     <desc lang="es">Group Name</desc>
@@ -610,6 +733,16 @@
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">0.15.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/jGCZXznfJ5PdjVKB3RYe7rWQqla.jpg"/>
+  </programme>
+  <programme start="20261127101300 -0300" stop="20261127110300 -0300" air_time_start="20261127101300 -0300" air_time_end="20261127110300 -0300" start_utc="20261127131300 +0000" stop_utc="20261127140300 +0000" air_time_start_utc="20261127131300 +0000" air_time_end_utc="20261127140300 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Pesadilla en la cocina</title>
+    <sub-title lang="es">Ep. 10 - Restaurante Blakes Place</sub-title>
+    <sub-title lang="en">Blakes Place</sub-title>
+    <desc lang="es">Gordon Ramsay ayuda al propietario de Blakes Place, un pequeño restaurante de barrio.</desc>
+    <date>2024</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">8.9.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/6VH2SxQ4zhHaHQcqMBsIwOwXun2.jpg"/>
   </programme>
   <programme start="20261127102300 -0300" stop="20261127110700 -0300" air_time_start="20261127102300 -0300" air_time_end="20261127110700 -0300" start_utc="20261127132300 +0000" stop_utc="20261127140700 +0000" air_time_start_utc="20261127132300 +0000" air_time_end_utc="20261127140700 +0000" is_live="false" channel="DHH_AR.ar">
     <title lang="es">Masterchef</title>
@@ -660,6 +793,16 @@
     <episode-num system="xmltv_ns">7.10.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/izkVWgJH1L4HjZefo5wJZEeAtaZ.jpg"/>
   </programme>
+  <programme start="20261127110300 -0300" stop="20261127115400 -0300" air_time_start="20261127110300 -0300" air_time_end="20261127115400 -0300" start_utc="20261127140300 +0000" stop_utc="20261127145400 +0000" air_time_start_utc="20261127140300 +0000" air_time_end_utc="20261127145400 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Mi extraña adicción: ¿sigo adicto?</title>
+    <sub-title lang="es">Ep. 1 - Devorador de papel higiénico, lamiendo gatos y amor por los autos</sub-title>
+    <sub-title lang="en">Toilet Paper Eater  Cat Licking  Car Love</sub-title>
+    <desc lang="es">La adicción de Kinah a comer papel higiénico amenaza su salud y sus relaciones también están en juego. Nathaniel ha llevado su amor por los autos al extremo. Lisa come pelo de gato... y no se cansa.</desc>
+    <date>2022</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/dCW71FUtwfOuE5lSgCaxj2IGIif.jpg"/>
+  </programme>
   <programme start="20261127110700 -0300" stop="20261127115100 -0300" air_time_start="20261127110700 -0300" air_time_end="20261127115100 -0300" start_utc="20261127140700 +0000" stop_utc="20261127145100 +0000" air_time_start_utc="20261127140700 +0000" air_time_end_utc="20261127145100 +0000" is_live="false" channel="DHH_AR.ar">
     <title lang="es">Pesadilla en la cocina</title>
     <sub-title lang="es">Ep. 10 - Restaurante Blakes Place</sub-title>
@@ -702,6 +845,16 @@
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">4.36.</episode-num>
   </programme>
+  <programme start="20261127115400 -0300" stop="20261127124600 -0300" air_time_start="20261127115400 -0300" air_time_end="20261127124600 -0300" start_utc="20261127145400 +0000" stop_utc="20261127154600 +0000" air_time_start_utc="20261127145400 +0000" air_time_end_utc="20261127154600 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Mi extraña adicción: ¿sigo adicto?</title>
+    <sub-title lang="es">Ep. 2 - Bebedores de orina, inyecciones en el trasero y obsesión por el secador de pelo</sub-title>
+    <sub-title lang="en">Urine Drinkers  Butt Injections  Blow Dryer Obsess</sub-title>
+    <desc lang="es">La adicción de Nick y Aubrey a beber orina preocupa a la madre de Nick. La vida de Karmello toma un nuevo significado desde su adicción a las inyecciones ilegales en el trasero. La adicción de Lori a dormir con su secador de pelo afecta a otra persona.</desc>
+    <date>2022</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/djCJH3D9soejvmBYqLol3Zeol2s.jpg"/>
+  </programme>
   <programme start="20261127122700 -0500" stop="20261127130600 -0500" air_time_start="20261127122700 -0500" air_time_end="20261127130600 -0500" start_utc="20261127172700 +0000" stop_utc="20261127180600 +0000" air_time_start_utc="20261127172700 +0000" air_time_end_utc="20261127180600 +0000" is_live="false" channel="DHH_PAN.co">
     <title lang="es">Efecto Brulee</title>
     <sub-title lang="en">Episode 102</sub-title>
@@ -735,6 +888,16 @@
     <category lang="pt">Estilo de vida</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
   </programme>
+  <programme start="20261127124600 -0300" stop="20261127133600 -0300" air_time_start="20261127124600 -0300" air_time_end="20261127133600 -0300" start_utc="20261127154600 +0000" stop_utc="20261127163600 +0000" air_time_start_utc="20261127154600 +0000" air_time_end_utc="20261127163600 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Mi extraña adicción: ¿sigo adicto?</title>
+    <sub-title lang="es">Ep. 3 - Olor a atún, cirugía plástica y uñas de los pies</sub-title>
+    <sub-title lang="en">Tuna Smelling  Plastic Surgery  Toenails</sub-title>
+    <desc lang="es">La adicción de Tyler a oler el atún se interpone en su camino para encontrar el amor. La adicción de Lacey a la cirugía plástica (y el tamaño de su busto) creció. Después de lamentar la pérdida de sus uñas, Ayanna aún tiene una adicción que no dejará.</desc>
+    <date>2022</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/w47XQbuWQne95Th3zwgxFIcjQdg.jpg"/>
+  </programme>
   <programme start="20261127130600 -0500" stop="20261127145100 -0500" air_time_start="20261127130600 -0500" air_time_end="20261127145100 -0500" start_utc="20261127180600 +0000" stop_utc="20261127195100 +0000" air_time_start_utc="20261127180600 +0000" air_time_end_utc="20261127195100 +0000" is_live="false" channel="DHH_PAN.co">
     <title lang="es">Masterchef Colombia Celebrity (Season 8)</title>
     <sub-title lang="en">Episode 94</sub-title>
@@ -758,6 +921,16 @@
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/dCW71FUtwfOuE5lSgCaxj2IGIif.jpg"/>
+  </programme>
+  <programme start="20261127133600 -0300" stop="20261127142800 -0300" air_time_start="20261127133600 -0300" air_time_end="20261127142800 -0300" start_utc="20261127163600 +0000" stop_utc="20261127172800 +0000" air_time_start_utc="20261127163600 +0000" air_time_end_utc="20261127172800 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Mi extraña adicción: ¿sigo adicto?</title>
+    <sub-title lang="es">Ep. 4 - Devorador de espuma para autos, fisicoculturismo y cabello extremo</sub-title>
+    <sub-title lang="en">Car Seat Foam Eater  Bodybuilding  Extreme Hair</sub-title>
+    <desc lang="es">La adicción de Brittany a comer espuma para automóvil obliga a su familia a intervenir. Lauren deja atrás su adicción al fisicoculturismo, pero tien una nueva obsesión. La adicción de Asha por el cabello largo continúa, pero su salud corre peligro.</desc>
+    <date>2022</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/A1UeW8MnWSsokGnTIuGMnnuG9nd.jpg"/>
   </programme>
   <programme start="20261127133800 -0300" stop="20261127143000 -0300" air_time_start="20261127133800 -0300" air_time_end="20261127143000 -0300" start_utc="20261127163800 +0000" stop_utc="20261127173000 +0000" air_time_start_utc="20261127163800 +0000" air_time_end_utc="20261127173000 +0000" is_live="false" channel="DHH_BR.br">
     <title lang="pt">Te Devo Essa! Reforma das Estrelas</title>
@@ -787,6 +960,16 @@
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">10.2.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/9cPK0Nda9YTACIEuroybmOPDjre.jpg"/>
+  </programme>
+  <programme start="20261127142800 -0300" stop="20261127151800 -0300" air_time_start="20261127142800 -0300" air_time_end="20261127151800 -0300" start_utc="20261127172800 +0000" stop_utc="20261127181800 +0000" air_time_start_utc="20261127172800 +0000" air_time_end_utc="20261127181800 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Mi extraña adicción: ¿sigo adicto?</title>
+    <sub-title lang="es">Ep. 5 - Pechos gigantes, comer tiza y goma de mascar</sub-title>
+    <sub-title lang="en">Giant Breasts  Chalk Eating  Gum Chewing</sub-title>
+    <desc lang="es">La adicción de Foxy a tener pechos enormes la hizo famosa, pero sus amigas sienten que también está poniendo en peligro su salud. Andrea le cuenta a su madre sobre su nueva adicción. Bianca ha adoptado otro hábito inusual.</desc>
+    <date>2022</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/1Ef7al3uzQndtcAtPjQb6hMvfkg.jpg"/>
   </programme>
   <programme start="20261127143000 -0300" stop="20261127152200 -0300" air_time_start="20261127143000 -0300" air_time_end="20261127152200 -0300" start_utc="20261127173000 +0000" stop_utc="20261127182200 +0000" air_time_start_utc="20261127173000 +0000" air_time_end_utc="20261127182200 +0000" is_live="false" channel="DHH_BR.br">
     <title lang="pt">100 Dias para Morar: Começando do Zero</title>
@@ -835,6 +1018,15 @@
     <episode-num system="xmltv_ns">0.11.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/dfBYAxFtDuskdm26KC7iEPhuAAn.jpg"/>
   </programme>
+  <programme start="20261127151800 -0300" stop="20261127160900 -0300" air_time_start="20261127151800 -0300" air_time_end="20261127160900 -0300" start_utc="20261127181800 +0000" stop_utc="20261127190900 +0000" air_time_start_utc="20261127181800 +0000" air_time_end_utc="20261127190900 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Un día en mi cuerpo</title>
+    <sub-title lang="es">Ep. 1 - Envejecimiento acelerado y fusión de nacimiento</sub-title>
+    <sub-title lang="en">Aged And Born Fused</sub-title>
+    <desc lang="es">Tiffany tiene progeria, una enfermedad que provoca un envejecimiento acelerado, pero ya ha superado la esperanza de vida asociada a su condición. Ryan, padre soltero, nació con artrogriposis, lo que dejó sus brazos y piernas fusionados.</desc>
+    <date>2025</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
   <programme start="20261127152100 -0500" stop="20261127161200 -0500" air_time_start="20261127152100 -0500" air_time_end="20261127161200 -0500" start_utc="20261127202100 +0000" stop_utc="20261127211200 +0000" air_time_start_utc="20261127202100 +0000" air_time_end_utc="20261127211200 +0000" is_live="false" channel="DHH_PAN.co">
     <title lang="es">Un día en mi cuerpo</title>
     <sub-title lang="es">Ep. 7 - Pequeñas revelaciones</sub-title>
@@ -881,6 +1073,15 @@
     <date>2017</date>
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">1.8.</episode-num>
+  </programme>
+  <programme start="20261127160900 -0300" stop="20261127180500 -0300" air_time_start="20261127160900 -0300" air_time_end="20261127180500 -0300" start_utc="20261127190900 +0000" stop_utc="20261127210500 +0000" air_time_start_utc="20261127190900 +0000" air_time_end_utc="20261127210500 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">MasterChef Chile</title>
+    <sub-title lang="es">Episodio 35</sub-title>
+    <sub-title lang="en">Episode 35</sub-title>
+    <desc lang="es">¡Noche de nominación! Los participantes deberán defender sus platos y convencer al jurado. ¿Quiénes lograrán mantenerse fuera de peligro?</desc>
+    <date>2026</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">4.34.</episode-num>
   </programme>
   <programme start="20261127161200 -0500" stop="20261127170200 -0500" air_time_start="20261127161200 -0500" air_time_end="20261127170200 -0500" start_utc="20261127211200 +0000" stop_utc="20261127220200 +0000" air_time_start_utc="20261127211200 +0000" air_time_end_utc="20261127220200 +0000" is_live="false" channel="DHH_PAN.co">
     <desc lang="es">Un análisis del medicamento para la diabetes que ha transformado la cultura de la pérdida de peso y la forma en que se trata la obesidad en EE. UU. Este documental profundiza en el mercado mundial de medicamentos contra la obesidad.</desc>
@@ -975,6 +1176,15 @@
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
+  <programme start="20261127180500 -0300" stop="20261127182900 -0300" air_time_start="20261127180500 -0300" air_time_end="20261127182900 -0300" start_utc="20261127210500 +0000" stop_utc="20261127212900 +0000" air_time_start_utc="20261127210500 +0000" air_time_end_utc="20261127212900 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Un día en mi cuerpo</title>
+    <sub-title lang="es">Ep. 2 - Mitad hombre, mitad increíble</sub-title>
+    <sub-title lang="en">Half Manhalf Incredible</sub-title>
+    <desc lang="es">A los 18 años, Loren sufrió un devastador accidente con un montacargas y los médicos tuvieron que amputarle la mitad inferior del cuerpo para salvarle la vida. Sofía sufrió insuficiencia cardíaca terminal a los 29 años y ahora depende de un dispositivo.</desc>
+    <date>2025</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
   <programme start="20261127181200 -0600" stop="20261127190100 -0600" air_time_start="20261127181200 -0600" air_time_end="20261127190100 -0600" start_utc="20261128001200 +0000" stop_utc="20261128010100 +0000" air_time_start_utc="20261128001200 +0000" air_time_end_utc="20261128010100 +0000" is_live="false" channel="DHH_MX.mx">
     <title lang="es">A la medida</title>
     <sub-title lang="es">Ep. 6 - Mikki y Denise</sub-title>
@@ -983,6 +1193,16 @@
     <date>2018</date>
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">2.5.</episode-num>
+  </programme>
+  <programme start="20261127182900 -0300" stop="20261127195900 -0300" air_time_start="20261127182900 -0300" air_time_end="20261127195900 -0300" start_utc="20261127212900 +0000" stop_utc="20261127225900 +0000" air_time_start_utc="20261127212900 +0000" air_time_end_utc="20261127225900 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Historias de peso con el Dr. Now</title>
+    <sub-title lang="es">Ep. 9 - La historia de Destinee y Dynastiee, parte 2</sub-title>
+    <sub-title lang="en">Destinee And Dynastiees Story  Part 2</sub-title>
+    <desc lang="es">Destinee y Dynastiee continúan su camino hacia la pérdida de peso, pero tras calificar solo una para la cirugía, la idea de avanzar sin la otra es demasiado. Deciden hacerlo juntas o no hacerlo, sabiendo que si una falla, ambas fallan.</desc>
+    <date>2025</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/yYRuq3PvSSO0ylvrnGDOhwP03bo.jpg"/>
   </programme>
   <programme start="20261127184100 -0300" stop="20261127201000 -0300" air_time_start="20261127184100 -0300" air_time_end="20261127201000 -0300" start_utc="20261127214100 +0000" stop_utc="20261127231000 +0000" air_time_start_utc="20261127214100 +0000" air_time_end_utc="20261127231000 +0000" is_live="false" channel="DHH_AR.ar">
     <title lang="es">Historias de peso con el Dr. Now</title>
@@ -1059,6 +1279,16 @@
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">1.1.</episode-num>
   </programme>
+  <programme start="20261127195900 -0300" stop="20261127210200 -0300" air_time_start="20261127195900 -0300" air_time_end="20261127210200 -0300" start_utc="20261127225900 +0000" stop_utc="20261128000200 +0000" air_time_start_utc="20261127225900 +0000" air_time_end_utc="20261128000200 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Kilos mortales: México</title>
+    <sub-title lang="es">Ep. 1 - Gerardo Salazar</sub-title>
+    <sub-title lang="en">Gerardo Salazar</sub-title>
+    <desc lang="es">Gerardo pesa más de 240 kg y aunque trabaja como profesor de cocina, su sobrepeso lo ha llevado a aislarse, dejar de socializar y perder la energía con la que solía disfrutar su profesión. Ahora inicia un tratamiento para recuperar su salud y su vida.</desc>
+    <date>2026</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">1.200.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/zUHppkNr3T8tCUHRkizeN2zVPbc.jpg"/>
+  </programme>
   <programme start="20261127201000 -0300" stop="20261127210800 -0300" air_time_start="20261127201000 -0300" air_time_end="20261127210800 -0300" start_utc="20261127231000 +0000" stop_utc="20261128000800 +0000" air_time_start_utc="20261127231000 +0000" air_time_end_utc="20261128000800 +0000" is_live="false" channel="DHH_AR.ar">
     <title lang="es">Kilos mortales: México</title>
     <sub-title lang="es">Ep. 1 - Gerardo Salazar</sub-title>
@@ -1108,6 +1338,15 @@
     <episode-num system="xmltv_ns">0.11.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/hB95En8lhtLYp0iE1h1WBiRzK3h.jpg"/>
   </programme>
+  <programme start="20261127210200 -0300" stop="20261127215400 -0300" air_time_start="20261127210200 -0300" air_time_end="20261127215400 -0300" start_utc="20261128000200 +0000" stop_utc="20261128005400 +0000" air_time_start_utc="20261128000200 +0000" air_time_end_utc="20261128005400 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Una gran oportunidad</title>
+    <sub-title lang="es">Ep. 7 - Un gran secreto</sub-title>
+    <sub-title lang="en">Heavy Secret, A</sub-title>
+    <desc lang="es">Crystal ha ocultado su sexualidad a su familia y amigos cercanos durante años. Ese secreto ha empeorado su adicción a la comida, y Crystal necesita una cirugía bariátrica para salvar su vida.</desc>
+    <date>2022</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+  </programme>
   <programme start="20261127210800 -0300" stop="20261127215400 -0300" air_time_start="20261127210800 -0300" air_time_end="20261127215400 -0300" start_utc="20261128000800 +0000" stop_utc="20261128005400 +0000" air_time_start_utc="20261128000800 +0000" air_time_end_utc="20261128005400 +0000" is_live="false" channel="DHH_AR.ar">
     <title lang="es">Una gran oportunidad</title>
     <sub-title lang="es">Ep. 7 - Un gran secreto</sub-title>
@@ -1142,6 +1381,15 @@
     <icon src="https://media.themoviedb.org/t/p/w500/t0be75mT0devNQKhc9cGknBb57g.jpg"/>
   </programme>
   <programme start="20261127215400 -0300" stop="20261127224100 -0300" air_time_start="20261127215400 -0300" air_time_end="20261127224100 -0300" start_utc="20261128005400 +0000" stop_utc="20261128014100 +0000" air_time_start_utc="20261128005400 +0000" air_time_end_utc="20261128014100 +0000" is_live="false" channel="DHH_AR.ar">
+    <title lang="es">Una gran oportunidad</title>
+    <sub-title lang="es">Ep. 8 - Demasiados pasos</sub-title>
+    <sub-title lang="en">Too Many Steps</sub-title>
+    <desc lang="es">La obesidad de Bryan le ha causado depresión y le ha hecho perderse actividades con sus amigos. Además, está desesperado por pasar más tiempo con su hija. Bryan decide que la cirugía bariátrica es la única manera de transformar su cuerpo y su vida.</desc>
+    <date>2022</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+  </programme>
+  <programme start="20261127215400 -0300" stop="20261127224500 -0300" air_time_start="20261127215400 -0300" air_time_end="20261127224500 -0300" start_utc="20261128005400 +0000" stop_utc="20261128014500 +0000" air_time_start_utc="20261128005400 +0000" air_time_end_utc="20261128014500 +0000" is_live="false" channel="DHH_VZ_CL.co">
     <title lang="es">Una gran oportunidad</title>
     <sub-title lang="es">Ep. 8 - Demasiados pasos</sub-title>
     <sub-title lang="en">Too Many Steps</sub-title>
@@ -1205,6 +1453,15 @@
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">7.94.</episode-num>
   </programme>
+  <programme start="20261127224500 -0300" stop="20261127233700 -0300" air_time_start="20261127224500 -0300" air_time_end="20261127233700 -0300" start_utc="20261128014500 +0000" stop_utc="20261128023700 +0000" air_time_start_utc="20261128014500 +0000" air_time_end_utc="20261128023700 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Kilos mortales: roomies</title>
+    <sub-title lang="es">Ep. 2 - Y el amor, ¿qué?</sub-title>
+    <sub-title lang="en">Weighing In On Love</sub-title>
+    <desc lang="es">Jaz busca abrirse al amor, pero teme que estar postrada en cama ahuyente a los hombres. Nesha recibe una llamada inesperada del exmiembro de una secta, mientras Jaz visita un hospital equino para pesarse.</desc>
+    <date>2026</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+  </programme>
   <programme start="20261127230700 -0600" stop="20261127235600 -0600" air_time_start="20261127230700 -0600" air_time_end="20261127235600 -0600" start_utc="20261128050700 +0000" stop_utc="20261128055600 +0000" air_time_start_utc="20261128050700 +0000" air_time_end_utc="20261128055600 +0000" is_live="false" channel="DHH_MX.mx">
     <title lang="es">Un día en mi cuerpo</title>
     <sub-title lang="es">Ep. 6 - Predicar con el ejemplo</sub-title>
@@ -1215,6 +1472,15 @@
     <episode-num system="xmltv_ns">0.5.</episode-num>
   </programme>
   <programme start="20261127232700 -0300" stop="20261128001400 -0300" air_time_start="20261127232700 -0300" air_time_end="20261128001400 -0300" start_utc="20261128022700 +0000" stop_utc="20261128031400 +0000" air_time_start_utc="20261128022700 +0000" air_time_end_utc="20261128031400 +0000" is_live="false" channel="DHH_AR.ar">
+    <title lang="es">Kilos mortales: roomies</title>
+    <sub-title lang="es">Ep. 3 - Ni hablar</sub-title>
+    <sub-title lang="en">Absolutely not</sub-title>
+    <desc lang="es">Jaz descubre que ha subido de peso, pero pospone una difícil charla médica hasta después de su cumpleaños y una cita. Mientras tanto, Nesha asiste a un grupo de apoyo y enfrenta su doloroso pasado.</desc>
+    <date>2026</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
+  <programme start="20261127233700 -0300" stop="20261128002800 -0300" air_time_start="20261127233700 -0300" air_time_end="20261128002800 -0300" start_utc="20261128023700 +0000" stop_utc="20261128032800 +0000" air_time_start_utc="20261128023700 +0000" air_time_end_utc="20261128032800 +0000" is_live="false" channel="DHH_VZ_CL.co">
     <title lang="es">Kilos mortales: roomies</title>
     <sub-title lang="es">Ep. 3 - Ni hablar</sub-title>
     <sub-title lang="en">Absolutely not</sub-title>
@@ -1259,6 +1525,16 @@
     <date>2015</date>
     <category lang="pt">Estilo de vida</category>
     <episode-num system="xmltv_ns">8.5.</episode-num>
+  </programme>
+  <programme start="20261128002800 -0300" stop="20261128012000 -0300" air_time_start="20261128002800 -0300" air_time_end="20261128012000 -0300" start_utc="20261128032800 +0000" stop_utc="20261128042000 +0000" air_time_start_utc="20261128032800 +0000" air_time_end_utc="20261128042000 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Dra. Sandra Lee: datos explosivos</title>
+    <sub-title lang="es">Ep. 2 - Datos explosivos: La increíble hinchazón</sub-title>
+    <sub-title lang="en">Pop UPS The Incredible Bulk</sub-title>
+    <desc lang="es">Por fin se revelan jugosos datos y secretos entre bastidores. El crecimiento de la cabeza del entrenador personal, Rubén, le impide ver clientes. Kaitlin tiene cicatrices en los brazos por el consumo de drogas.</desc>
+    <date>2022</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">4.1.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/agYpmr0s9nWUUEBupnMZDSaiaE2.jpg"/>
   </programme>
   <programme start="20261128002900 -0500" stop="20261128011500 -0500" air_time_start="20261128002900 -0500" air_time_end="20261128011500 -0500" start_utc="20261128052900 +0000" stop_utc="20261128061500 +0000" air_time_start_utc="20261128052900 +0000" air_time_end_utc="20261128061500 +0000" is_live="false" channel="DHH_PAN.co">
     <title lang="es">Efecto Brulee</title>
@@ -1329,6 +1605,15 @@
     <category lang="pt">Estilo de vida</category>
     <episode-num system="xmltv_ns">8.7.</episode-num>
   </programme>
+  <programme start="20261128012000 -0300" stop="20261128021200 -0300" air_time_start="20261128012000 -0300" air_time_end="20261128021200 -0300" start_utc="20261128042000 +0000" stop_utc="20261128051200 +0000" air_time_start_utc="20261128042000 +0000" air_time_end_utc="20261128051200 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Historias de peso: clínica de obesidad</title>
+    <sub-title lang="es">Episodio 3</sub-title>
+    <sub-title lang="en">Episode 3</sub-title>
+    <desc lang="es">Cosimo no tiene novio, ni amigos de confianza, ni trabajo. Aparte de la comida, su punto de referencia es su madre. La balanza marcaba 295 kg.</desc>
+    <date>2019</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
   <programme start="20261128013200 -0600" stop="20261128022000 -0600" air_time_start="20261128013200 -0600" air_time_end="20261128022000 -0600" start_utc="20261128073200 +0000" stop_utc="20261128082000 +0000" air_time_start_utc="20261128073200 +0000" air_time_end_utc="20261128082000 +0000" is_live="false" channel="DHH_MX.mx">
     <title lang="es">Kilos mortales: roomies</title>
     <sub-title lang="es">Ep. 2 - Y el amor, ¿qué?</sub-title>
@@ -1347,6 +1632,15 @@
     <icon src="https://media.themoviedb.org/t/p/w500/lK71iB8hCWcZ8Ghdv8SWcboUt7.jpg"/>
   </programme>
   <programme start="20261128014700 -0300" stop="20261128023300 -0300" air_time_start="20261128014700 -0300" air_time_end="20261128023300 -0300" start_utc="20261128044700 +0000" stop_utc="20261128053300 +0000" air_time_start_utc="20261128044700 +0000" air_time_end_utc="20261128053300 +0000" is_live="false" channel="DHH_AR.ar">
+    <title lang="es">Historias de peso: clínica de obesidad</title>
+    <sub-title lang="es">Episodio 4</sub-title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <desc lang="es">Roberta ha comido grandes cantidades desde que era una niña. Víctima de acoso escolar, tomó conciencia de su obesidad tras la muerte de su padre.</desc>
+    <date>2019</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+  </programme>
+  <programme start="20261128021200 -0300" stop="20261128030300 -0300" air_time_start="20261128021200 -0300" air_time_end="20261128030300 -0300" start_utc="20261128051200 +0000" stop_utc="20261128060300 +0000" air_time_start_utc="20261128051200 +0000" air_time_end_utc="20261128060300 +0000" is_live="false" channel="DHH_VZ_CL.co">
     <title lang="es">Historias de peso: clínica de obesidad</title>
     <sub-title lang="es">Episodio 4</sub-title>
     <sub-title lang="en">Episode 4</sub-title>
@@ -1404,6 +1698,15 @@
     <episode-num system="xmltv_ns">1.0.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/tOz1ksMCIG22TzHANhFdcSOgfH3.jpg"/>
   </programme>
+  <programme start="20261128030300 -0300" stop="20261128035500 -0300" air_time_start="20261128030300 -0300" air_time_end="20261128035500 -0300" start_utc="20261128060300 +0000" stop_utc="20261128065500 +0000" air_time_start_utc="20261128060300 +0000" air_time_end_utc="20261128065500 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Historias de peso: clínica de obesidad</title>
+    <sub-title lang="es">Episodio 5</sub-title>
+    <sub-title lang="en">Episode 5</sub-title>
+    <desc lang="es">La palabra 'adicción' resume la vida de Antonio. Quiere someterse a la operación para liberar a su mujer de su esclavitud.</desc>
+    <date>2019</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+  </programme>
   <programme start="20261128030800 -0600" stop="20261128035600 -0600" air_time_start="20261128030800 -0600" air_time_end="20261128035600 -0600" start_utc="20261128090800 +0000" stop_utc="20261128095600 +0000" air_time_start_utc="20261128090800 +0000" air_time_end_utc="20261128095600 +0000" is_live="false" channel="DHH_MX.mx">
     <title lang="es">Dra. Sandra Lee: directo al grano</title>
     <sub-title lang="es">Ep. 10 - Enfermera cabeza con bultos</sub-title>
@@ -1442,6 +1745,15 @@
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">1.1.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/gP08tjvItNQOxvDZBNWnddcHwRU.jpg"/>
+  </programme>
+  <programme start="20261128035500 -0300" stop="20261128044700 -0300" air_time_start="20261128035500 -0300" air_time_end="20261128044700 -0300" start_utc="20261128065500 +0000" stop_utc="20261128074700 +0000" air_time_start_utc="20261128065500 +0000" air_time_end_utc="20261128074700 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Mi cuerpo, mi desafío</title>
+    <sub-title lang="es">Ep. 7 - Aldea de enanos</sub-title>
+    <sub-title lang="en">Village Of Dwarves</sub-title>
+    <desc lang="es">Laisha tiene ocho años y mide 70 cm e irá a Ecuador, donde cientos de personas sufren de esa misma afección.  En Francia, se presentará a Roger, que tiene 22 años, pero el cuerpo de un niño de ocho.</desc>
+    <date>2016</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">3.6.</episode-num>
   </programme>
   <programme start="20261128035600 -0600" stop="20261128044400 -0600" air_time_start="20261128035600 -0600" air_time_end="20261128044400 -0600" start_utc="20261128095600 +0000" stop_utc="20261128104400 +0000" air_time_start_utc="20261128095600 +0000" air_time_end_utc="20261128104400 +0000" is_live="false" channel="DHH_MX.mx">
     <title lang="es">Un día en mi cuerpo</title>
@@ -1509,6 +1821,15 @@
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
   </programme>
+  <programme start="20261128044700 -0300" stop="20261128053800 -0300" air_time_start="20261128044700 -0300" air_time_end="20261128053800 -0300" start_utc="20261128074700 +0000" stop_utc="20261128083800 +0000" air_time_start_utc="20261128074700 +0000" air_time_end_utc="20261128083800 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Mi cuerpo, mi desafío</title>
+    <sub-title lang="es">Ep. 2 - Mi cuerpo se come mis huesos</sub-title>
+    <sub-title lang="en">My Body Is Eating My Bones</sub-title>
+    <desc lang="es">Ignacia, una niña chilena de cinco años, tiene un tumor facial que amenaza con asfixiarla. Thomas tiene 27 años y es de Francia y tiene una rara enfermedad que le va comiendo los huesos. Harry padece el síndrome de Goldenhar.</desc>
+    <date>2018</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">5.1.</episode-num>
+  </programme>
   <programme start="20261128050500 -0300" stop="20261128060000 -0300" air_time_start="20261128050500 -0300" air_time_end="20261128060000 -0300" start_utc="20261128080500 +0000" stop_utc="20261128090000 +0000" air_time_start_utc="20261128080500 +0000" air_time_end_utc="20261128090000 +0000" is_live="false" channel="DHH_AR.ar">
     <title lang="es">Rescatando propiedades</title>
     <sub-title lang="es">Ep. 11 - Una renovación arriesgada</sub-title>
@@ -1555,6 +1876,15 @@
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
   </programme>
+  <programme start="20261128053800 -0300" stop="20261128060000 -0300" air_time_start="20261128053800 -0300" air_time_end="20261128060000 -0300" start_utc="20261128083800 +0000" stop_utc="20261128090000 +0000" air_time_start_utc="20261128083800 +0000" air_time_end_utc="20261128090000 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Rescatando propiedades</title>
+    <sub-title lang="es">Ep. 1 - La búsqueda del tesoro</sub-title>
+    <sub-title lang="en">Treasure Hunt</sub-title>
+    <desc lang="es">Tarek y Christina renuevan una casa en Fullerton, California, con una vista fantástica. Sin embargo, cuando se encuentran con adiciones extrañas y desafíos de diseño, el cambio resulta ser más difícil de lo esperado.</desc>
+    <date>2019</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">7.0.</episode-num>
+  </programme>
   <programme start="20261128060000 -0300" stop="20261128064700 -0300" air_time_start="20261128060000 -0300" air_time_end="20261128064700 -0300" start_utc="20261128090000 +0000" stop_utc="20261128094700 +0000" air_time_start_utc="20261128090000 +0000" air_time_end_utc="20261128094700 +0000" is_live="false" channel="DHH_AR.ar">
     <title lang="es">Dra. Sandra Lee: datos explosivos</title>
     <sub-title lang="es">Ep. 2 - El último unicornio</sub-title>
@@ -1573,6 +1903,16 @@
     <date>2020</date>
     <category lang="pt">Estilo de vida</category>
     <episode-num system="xmltv_ns">8.7.</episode-num>
+  </programme>
+  <programme start="20261128060000 -0300" stop="20261128064800 -0300" air_time_start="20261128060000 -0300" air_time_end="20261128064800 -0300" start_utc="20261128090000 +0000" stop_utc="20261128094800 +0000" air_time_start_utc="20261128090000 +0000" air_time_end_utc="20261128094800 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Dra. Sandra Lee: datos explosivos</title>
+    <sub-title lang="es">Ep. 2 - El último unicornio</sub-title>
+    <sub-title lang="en">Pop UPS The Last Unicorn</sub-title>
+    <desc lang="es">Se revela el detrás de escena. Louis tiene la piel muy seca. Los niños de Irais sufren acoso por el crecimiento que ella tiene en la cabeza. Johnny tiene un bulto en la espalda.</desc>
+    <date>2020</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/95CfG0ca4KhVK4Wa2nfY1YPkjca.jpg"/>
   </programme>
   <programme start="20261128060000 -0500" stop="20261128062700 -0500" air_time_start="20261128060000 -0500" air_time_end="20261128062700 -0500" start_utc="20261128110000 +0000" stop_utc="20261128112700 +0000" air_time_start_utc="20261128110000 +0000" air_time_end_utc="20261128112700 +0000" is_live="false" channel="DHH_PAN.co">
     <title lang="es">Rescatando propiedades: Atlanta</title>
@@ -1642,6 +1982,16 @@
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/bDgrVtaxLq5npL5N7oWoyeONtvE.jpg"/>
   </programme>
+  <programme start="20261128064800 -0300" stop="20261128073600 -0300" air_time_start="20261128064800 -0300" air_time_end="20261128073600 -0300" start_utc="20261128094800 +0000" stop_utc="20261128103600 +0000" air_time_start_utc="20261128094800 +0000" air_time_end_utc="20261128103600 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Dra. Sandra Lee: datos explosivos</title>
+    <sub-title lang="es">Ep. 3 - El lipoma más grande</sub-title>
+    <sub-title lang="en">Pop UPS A Lipoma Jackpot</sub-title>
+    <desc lang="es">Se revela el detrás de escena. Belinda tiene un bulto en el cuello que no le permite moverse. Nicole necesita que le quiten el bulto que tiene en la axila. Adela tiene el pecho y la espalda cubiertos de manchas.</desc>
+    <date>2020</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/bDgrVtaxLq5npL5N7oWoyeONtvE.jpg"/>
+  </programme>
   <programme start="20261128070400 -0600" stop="20261128080900 -0600" air_time_start="20261128070400 -0600" air_time_end="20261128080900 -0600" start_utc="20261128130400 +0000" stop_utc="20261128140900 +0000" air_time_start_utc="20261128130400 +0000" air_time_end_utc="20261128140900 +0000" is_live="false" channel="DHH_MX.mx">
     <title lang="es">Cirugías: al borde de la vida</title>
     <sub-title lang="es">Ep. 2 - La vida en juego</sub-title>
@@ -1673,6 +2023,16 @@
     <icon src="https://media.themoviedb.org/t/p/w500/t0XUoNbhnAws5T4FEcIUN79Nu3O.jpg"/>
   </programme>
   <programme start="20261128073400 -0300" stop="20261128083000 -0300" air_time_start="20261128073400 -0300" air_time_end="20261128083000 -0300" start_utc="20261128103400 +0000" stop_utc="20261128113000 +0000" air_time_start_utc="20261128103400 +0000" air_time_end_utc="20261128113000 +0000" is_live="false" channel="DHH_AR.ar">
+    <title lang="es">Dra. Sandra Lee: datos explosivos</title>
+    <sub-title lang="es">Ep. 4 - Nariz sin límites</sub-title>
+    <sub-title lang="en">Pop UPS Nose No Bounds</sub-title>
+    <desc lang="es">Se revela el detrás de escena. April tiene los brazos llenos de bultos. Genner llega de Filipinas en busca de ayuda. Chris tiene un bulto en la cabeza y psoriasis que cubre su cuerpo.</desc>
+    <date>2020</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/eZuzdcNBfYY4umBPBK3fF7qZWdY.jpg"/>
+  </programme>
+  <programme start="20261128073600 -0300" stop="20261128082200 -0300" air_time_start="20261128073600 -0300" air_time_end="20261128082200 -0300" start_utc="20261128103600 +0000" stop_utc="20261128112200 +0000" air_time_start_utc="20261128103600 +0000" air_time_end_utc="20261128112200 +0000" is_live="false" channel="DHH_VZ_CL.co">
     <title lang="es">Dra. Sandra Lee: datos explosivos</title>
     <sub-title lang="es">Ep. 4 - Nariz sin límites</sub-title>
     <sub-title lang="en">Pop UPS Nose No Bounds</sub-title>
@@ -1716,6 +2076,15 @@
     <episode-num system="xmltv_ns">6.2.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/nJNzWJv9eetn8crUuJrnRr9TnHp.jpg"/>
   </programme>
+  <programme start="20261128082200 -0300" stop="20261128091000 -0300" air_time_start="20261128082200 -0300" air_time_end="20261128091000 -0300" start_utc="20261128112200 +0000" stop_utc="20261128121000 +0000" air_time_start_utc="20261128112200 +0000" air_time_end_utc="20261128121000 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Superpasteles</title>
+    <sub-title lang="es">Ep. 4 - Depredadores del océano</sub-title>
+    <sub-title lang="en">Ocean Predators</sub-title>
+    <desc lang="es">Duff Goldman y su equipo se enfrentan al equipo de Henderson Gonzalez para crear pasteles de depredadores marinos. Los jueces Amaury Guichon, Sherry Yard y el invitado especial Paul de Gelder quedan maravillados, ¡pero solo un pastel puede ganar!</desc>
+    <date>2025</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
   <programme start="20261128083000 -0300" stop="20261128090000 -0300" air_time_start="20261128083000 -0300" air_time_end="20261128090000 -0300" start_utc="20261128113000 +0000" stop_utc="20261128120000 +0000" air_time_start_utc="20261128113000 +0000" air_time_end_utc="20261128120000 +0000" is_live="false" channel="DHH_AR.ar">
     <title lang="es">Group Name</title>
     <desc lang="es">Group Name</desc>
@@ -1739,6 +2108,15 @@
     <title lang="es">Group Name</title>
     <desc lang="es">Group Name</desc>
     <category lang="es">Estilo de vida</category>
+  </programme>
+  <programme start="20261128091000 -0300" stop="20261128110000 -0300" air_time_start="20261128091000 -0300" air_time_end="20261128110000 -0300" start_utc="20261128121000 +0000" stop_utc="20261128140000 +0000" air_time_start_utc="20261128121000 +0000" air_time_end_utc="20261128140000 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">MasterChef Chile</title>
+    <sub-title lang="es">Episodio 31</sub-title>
+    <sub-title lang="en">Episode 31</sub-title>
+    <desc lang="es">¡Noche de Eliminación! Ni los delantales blancos aseguran la permanencia: el jurado decidirá quién se despide de la cocina de MasterChef.</desc>
+    <date>2026</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">4.30.</episode-num>
   </programme>
   <programme start="20261128091400 -0600" stop="20261128100200 -0600" air_time_start="20261128091400 -0600" air_time_end="20261128100200 -0600" start_utc="20261128151400 +0000" stop_utc="20261128160200 +0000" air_time_start_utc="20261128151400 +0000" air_time_end_utc="20261128160200 +0000" is_live="false" channel="DHH_MX.mx">
     <title lang="es">Hermanos a la obra: un hogar para siempre</title>
@@ -1848,6 +2226,15 @@
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">4.2.</episode-num>
   </programme>
+  <programme start="20261128110000 -0300" stop="20261128125200 -0300" air_time_start="20261128110000 -0300" air_time_end="20261128125200 -0300" start_utc="20261128140000 +0000" stop_utc="20261128155200 +0000" air_time_start_utc="20261128140000 +0000" air_time_end_utc="20261128155200 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">MasterChef Chile</title>
+    <sub-title lang="es">Episodio 32</sub-title>
+    <sub-title lang="en">Episode 32</sub-title>
+    <desc lang="es">¡La cocina se convierte en un campo de batalla! Los participantes buscan conquistar al jurado y ganar la inmunidad.</desc>
+    <date>2026</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">4.31.</episode-num>
+  </programme>
   <programme start="20261128110500 -0500" stop="20261128115400 -0500" air_time_start="20261128110500 -0500" air_time_end="20261128115400 -0500" start_utc="20261128160500 +0000" stop_utc="20261128165400 +0000" air_time_start_utc="20261128160500 +0000" air_time_end_utc="20261128165400 +0000" is_live="false" channel="DHH_PAN.co">
     <title lang="es">Mi vida con Tourette</title>
     <sub-title lang="es">Ep. 3 - Cancela la fecha</sub-title>
@@ -1939,6 +2326,15 @@
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">7.90.</episode-num>
   </programme>
+  <programme start="20261128125200 -0300" stop="20261128144100 -0300" air_time_start="20261128125200 -0300" air_time_end="20261128144100 -0300" start_utc="20261128155200 +0000" stop_utc="20261128174100 +0000" air_time_start_utc="20261128155200 +0000" air_time_end_utc="20261128174100 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">MasterChef Chile</title>
+    <sub-title lang="es">Episodio 33</sub-title>
+    <sub-title lang="en">Episode 33</sub-title>
+    <desc lang="es">¡Noche de nominación! Cada plato puede cambiar el destino de los participantes. ¿Quiénes quedarán en la mira del jurado?</desc>
+    <date>2026</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">4.32.</episode-num>
+  </programme>
   <programme start="20261128130100 -0300" stop="20261128135300 -0300" air_time_start="20261128130100 -0300" air_time_end="20261128135300 -0300" start_utc="20261128160100 +0000" stop_utc="20261128165300 +0000" air_time_start_utc="20261128160100 +0000" air_time_end_utc="20261128165300 +0000" is_live="false" channel="DHH_BR.br">
     <title lang="pt">Property Brothers: Buying &amp; Selling (Season 5)</title>
     <sub-title lang="pt">Ep. 6 - Kim e Tim</sub-title>
@@ -2020,6 +2416,15 @@
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">4.35.</episode-num>
   </programme>
+  <programme start="20261128144100 -0300" stop="20261128163400 -0300" air_time_start="20261128144100 -0300" air_time_end="20261128163400 -0300" start_utc="20261128174100 +0000" stop_utc="20261128193400 +0000" air_time_start_utc="20261128174100 +0000" air_time_end_utc="20261128193400 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">MasterChef Chile</title>
+    <sub-title lang="es">Episodio 34</sub-title>
+    <sub-title lang="en">Episode 34</sub-title>
+    <desc lang="es">¡La competencia no da tregua! Una nueva noche de eliminación pone a prueba a los participantes. ¿Quién tendrá que despedirse de MasterChef?</desc>
+    <date>2026</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">4.33.</episode-num>
+  </programme>
   <programme start="20261128144500 -0300" stop="20261128153700 -0300" air_time_start="20261128144500 -0300" air_time_end="20261128153700 -0300" start_utc="20261128174500 +0000" stop_utc="20261128183700 +0000" air_time_start_utc="20261128174500 +0000" air_time_end_utc="20261128183700 +0000" is_live="false" channel="DHH_BR.br">
     <title lang="pt">De Casa Nova</title>
     <sub-title lang="pt">Ep. 3 – A Casa Igreja</sub-title>
@@ -2100,6 +2505,15 @@
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">7.9.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/sNfBFcYCAaS99Qwx3Z2bJQ9rOhe.jpg"/>
+  </programme>
+  <programme start="20261128163400 -0300" stop="20261128182600 -0300" air_time_start="20261128163400 -0300" air_time_end="20261128182600 -0300" start_utc="20261128193400 +0000" stop_utc="20261128212600 +0000" air_time_start_utc="20261128193400 +0000" air_time_end_utc="20261128212600 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">MasterChef Chile</title>
+    <sub-title lang="es">Episodio 35</sub-title>
+    <sub-title lang="en">Episode 35</sub-title>
+    <desc lang="es">¡Noche de nominación! Los participantes deberán defender sus platos y convencer al jurado. ¿Quiénes lograrán mantenerse fuera de peligro?</desc>
+    <date>2026</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">4.34.</episode-num>
   </programme>
   <programme start="20261128164800 -0500" stop="20261128173300 -0500" air_time_start="20261128164800 -0500" air_time_end="20261128173300 -0500" start_utc="20261128214800 +0000" stop_utc="20261128223300 +0000" air_time_start_utc="20261128214800 +0000" air_time_end_utc="20261128223300 +0000" is_live="false" channel="DHH_PAN.co">
     <title lang="es">Efecto Brulee</title>
@@ -2188,6 +2602,16 @@
     <episode-num system="xmltv_ns">8.1.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/ih2WayvEhADh7pbgMynKkFN5uOP.jpg"/>
   </programme>
+  <programme start="20261128182600 -0300" stop="20261128191600 -0300" air_time_start="20261128182600 -0300" air_time_end="20261128191600 -0300" start_utc="20261128212600 +0000" stop_utc="20261128221600 +0000" air_time_start_utc="20261128212600 +0000" air_time_end_utc="20261128221600 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Campeonato de reposteros: Halloween</title>
+    <sub-title lang="es">Ep. 6 - Maestros de lo macabro</sub-title>
+    <sub-title lang="en">Masters Of The Macabre</sub-title>
+    <desc lang="es">En la semifinal, John Henson desafía a los reposteros a crear postres inspirados en macabras obras de arte. Después, los tres peores elaboran postres de brujería con velas comestibles para mantener viva su participación en la competencia.</desc>
+    <date>2025</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">11.5.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/u6lvHwDUVtx7EYPHndtDBBGnKGF.jpg"/>
+  </programme>
   <programme start="20261128183600 -0300" stop="20261128192300 -0300" air_time_start="20261128183600 -0300" air_time_end="20261128192300 -0300" start_utc="20261128213600 +0000" stop_utc="20261128222300 +0000" air_time_start_utc="20261128213600 +0000" air_time_end_utc="20261128222300 +0000" is_live="false" channel="DHH_AR.ar">
     <title lang="es">Campeonato de reposteros: Halloween</title>
     <sub-title lang="es">Ep. 7 - Ritos antiguos (que se sienten mal)</sub-title>
@@ -2215,6 +2639,16 @@
     <date>2025</date>
     <category lang="pt">Estilo de vida</category>
     <episode-num system="xmltv_ns">5.9.</episode-num>
+  </programme>
+  <programme start="20261128191600 -0300" stop="20261128200600 -0300" air_time_start="20261128191600 -0300" air_time_end="20261128200600 -0300" start_utc="20261128221600 +0000" stop_utc="20261128230600 +0000" air_time_start_utc="20261128221600 +0000" air_time_end_utc="20261128230600 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Campeonato de reposteros: Halloween</title>
+    <sub-title lang="es">Ep. 7 - Ritos antiguos (que se sienten mal)</sub-title>
+    <sub-title lang="en">Ancient Rites That Feel So Wrong</sub-title>
+    <desc lang="es">John Henson desafía a los reposteros finalistas a crear aterradores postres inspirados en sarcófagos y pasteles de osarios. Los jueces Stephanie Boswell, Aarti Sequeira y Zac Young elegirán al ganador de 25 000 dólares.</desc>
+    <date>2025</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">11.6.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/mvDShDpyveEkUV6ElwUtIy9eFVQ.jpg"/>
   </programme>
   <programme start="20261128191700 -0500" stop="20261128205600 -0500" air_time_start="20261128191700 -0500" air_time_end="20261128205600 -0500" start_utc="20261129001700 +0000" stop_utc="20261129015600 +0000" air_time_start_utc="20261129001700 +0000" air_time_end_utc="20261129015600 +0000" is_live="false" channel="DHH_PAN.co">
     <title lang="es">Masterchef Colombia Celebrity (Season 8)</title>
@@ -2257,6 +2691,15 @@
     <episode-num system="xmltv_ns">4.18.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/rIZsGh9Y1tADtWPZf9vN8RHN0HS.jpg"/>
   </programme>
+  <programme start="20261128200600 -0300" stop="20261128205600 -0300" air_time_start="20261128200600 -0300" air_time_end="20261128205600 -0300" start_utc="20261128230600 +0000" stop_utc="20261128235600 +0000" air_time_start_utc="20261128230600 +0000" air_time_end_utc="20261128235600 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">100 Cocineros</title>
+    <sub-title lang="es">Ep. 6 - 32 cocineros perseveran</sub-title>
+    <sub-title lang="en">32 Cooks Persist</sub-title>
+    <desc lang="es">El anfitrión Terry Crews desafía a 31 de los 32 cocineros aficionados restantes con una competencia de comida para días de juego y un reto a elección del chef. Los jueces Alex Guarnaschelli y Nick DiGiovanni envían a 14 cocineros a casa.</desc>
+    <date>2026</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+  </programme>
   <programme start="20261128200900 -0300" stop="20261128205600 -0300" air_time_start="20261128200900 -0300" air_time_end="20261128205600 -0300" start_utc="20261128230900 +0000" stop_utc="20261128235600 +0000" air_time_start_utc="20261128230900 +0000" air_time_end_utc="20261128235600 +0000" is_live="false" channel="DHH_AR.ar">
     <title lang="es">Desafío de chefs en 24 horas</title>
     <sub-title lang="es">Ep. 9 - Octavo turno: elevación, parte 2</sub-title>
@@ -2292,6 +2735,15 @@
     <category lang="es">Estilo de vida</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/vEKiWZOdkhABzeTrJANktwyCIEt.jpg"/>
+  </programme>
+  <programme start="20261128205600 -0300" stop="20261128214600 -0300" air_time_start="20261128205600 -0300" air_time_end="20261128214600 -0300" start_utc="20261128235600 +0000" stop_utc="20261129004600 +0000" air_time_start_utc="20261128235600 +0000" air_time_end_utc="20261129004600 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Desafío de chefs en 24 horas</title>
+    <sub-title lang="es">Ep. 9 - Octavo turno: elevación, parte 2</sub-title>
+    <sub-title lang="en">Shift 8 Elevation Part 2</sub-title>
+    <desc lang="es">Michael Symon y Esther Choi desafían a los tres chefs finalistas a elevar la humilde comida familiar de entre semana y a cocinar un plato digno de Michelin para ganar el título de Desafío de chefs y llevarse 100 000 dólares.</desc>
+    <date>2026</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
   </programme>
   <programme start="20261128205600 -0500" stop="20261128223600 -0500" air_time_start="20261128205600 -0500" air_time_end="20261128223600 -0500" start_utc="20261129015600 +0000" stop_utc="20261129033600 +0000" air_time_start_utc="20261129015600 +0000" air_time_end_utc="20261129033600 +0000" is_live="false" channel="DHH_PAN.co">
     <title lang="es">Masterchef Colombia Celebrity (Season 8)</title>
@@ -2344,6 +2796,16 @@
     <episode-num system="xmltv_ns">4.10.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/jDqIYvDgpRfAWYgTXp9g7CUIpW2.jpg"/>
   </programme>
+  <programme start="20261128214600 -0300" stop="20261128223600 -0300" air_time_start="20261128214600 -0300" air_time_end="20261128223600 -0300" start_utc="20261129004600 +0000" stop_utc="20261129013600 +0000" air_time_start_utc="20261129004600 +0000" air_time_end_utc="20261129013600 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Un chef de otro nivel, con Gordon Ramsay</title>
+    <sub-title lang="es">Ep. 10 - Cocina vaquera</sub-title>
+    <sub-title lang="en">Cowboy Cooking</sub-title>
+    <desc lang="es">Inspirados por su espíritu vaquero, los chefs enfrentan una verdadera prueba de técnica al llevar la cocina rústica de rancho a otro nivel. Este reto separa a los rancheros expertos  de los cocineros de fogata, y otro chef deberá despedirse.</desc>
+    <date>2025</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">4.9.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/irOj5SJDOJAStsSmn6UV79AgESG.jpg"/>
+  </programme>
   <programme start="20261128221700 -0300" stop="20261128230800 -0300" air_time_start="20261128221700 -0300" air_time_end="20261128230800 -0300" start_utc="20261129011700 +0000" stop_utc="20261129020800 +0000" air_time_start_utc="20261129011700 +0000" air_time_end_utc="20261129020800 +0000" is_live="false" channel="DHH_BR.br">
     <title lang="pt">Irmãos à Obra: Sob Pressão</title>
     <sub-title lang="pt">Episódio 14 - Chega de Procurar</sub-title>
@@ -2373,6 +2835,16 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/svSiMzcYk0AAeSPc1Nw4jPHdyPc.jpg"/>
   </programme>
+  <programme start="20261128223600 -0300" stop="20261128232600 -0300" air_time_start="20261128223600 -0300" air_time_end="20261128232600 -0300" start_utc="20261129013600 +0000" stop_utc="20261129022600 +0000" air_time_start_utc="20261129013600 +0000" air_time_end_utc="20261129022600 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Un chef de otro nivel, con Gordon Ramsay</title>
+    <sub-title lang="es">Ep. 11 - El torneo de temporada</sub-title>
+    <sub-title lang="en">Inseason Tournament, The</sub-title>
+    <desc lang="es">Los chefs ahora compiten de forma individual para llegar al nivel superior. Si no preparan el mejor platillo en la cocina de arriba, bajan a la intermedia. Si vuelven a fallar, deberán cocinar una última vez en el sótano para seguir en la competencia.</desc>
+    <date>2025</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">4.10.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/jDqIYvDgpRfAWYgTXp9g7CUIpW2.jpg"/>
+  </programme>
   <programme start="20261128223600 -0500" stop="20261129002600 -0500" air_time_start="20261128223600 -0500" air_time_end="20261129002600 -0500" start_utc="20261129033600 +0000" stop_utc="20261129052600 +0000" air_time_start_utc="20261129033600 +0000" air_time_end_utc="20261129052600 +0000" is_live="false" channel="DHH_PAN.co">
     <title lang="es">Masterchef Colombia Celebrity (Season 8)</title>
     <sub-title lang="en">Episode 96</sub-title>
@@ -2396,6 +2868,16 @@
     <category lang="pt">Estilo de vida</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <icon src="https://media.themoviedb.org/t/p/w500/tcWZAx41ux7WeNbxbR3vZFEDxfU.jpg"/>
+  </programme>
+  <programme start="20261128232600 -0300" stop="20261129003900 -0300" air_time_start="20261128232600 -0300" air_time_end="20261129003900 -0300" start_utc="20261129022600 +0000" stop_utc="20261129033900 +0000" air_time_start_utc="20261129022600 +0000" air_time_end_utc="20261129033900 +0000" is_live="false" channel="DHH_VZ_CL.co">
+    <title lang="es">Chopped: Náufragos</title>
+    <sub-title lang="es">Ep. 1 - Bienvenidos a la isla</sub-title>
+    <sub-title lang="en">Welcome To The Island</sub-title>
+    <desc lang="es">Doce chefs son divididos en equipos en una isla remota y deben preparar menús de tres tiempos sin electricidad. En la primera ronda, una amenaza venenosa en la canasta pone a prueba su valor. Los de peor desempeño se enfrentan a la eliminación.</desc>
+    <date>2026</date>
+    <category lang="es">Estilo de vida</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/svSiMzcYk0AAeSPc1Nw4jPHdyPc.jpg"/>
   </programme>
   <programme start="20261128235100 -0300" stop="20261129003800 -0300" air_time_start="20261128235100 -0300" air_time_end="20261129003800 -0300" start_utc="20261129025100 +0000" stop_utc="20261129033800 +0000" air_time_start_utc="20261129025100 +0000" air_time_end_utc="20261129033800 +0000" is_live="false" channel="DHH_AR.ar">
     <title lang="es">Dra. Sandra Lee: datos explosivos</title>
