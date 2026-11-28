@@ -296,7 +296,9 @@ NETWORKS_CONFIG = {
                 "lang": "es",
                 "tz": timezone(timedelta(hours=-3)),
                 "tz_str": "-0300",
-                "fallback_file_id": "10605710"
+                "fallback_file_id": "10605711",
+                "fallback_file_id_xlsx": "10605711",
+                "fallback_file_id_csv": "10605710"
             }
         ]
     }
@@ -391,6 +393,20 @@ def select_best_epak_file(epak_files, region, ref_date=None):
     return scored[0][2]
 
 
+def _request_tapkit_download(token, referer_url, target_name, target_path):
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {token}",
+        "Origin": "https://epg.tapkit.warnermedia.com",
+        "Referer": referer_url,
+        "Accept": "application/json, text/plain, */*"
+    }
+    payload = [{"name": target_name, "path": target_path}]
+    res = http_session.post(DOWNLOAD_FILE_URL, json=payload, headers=headers, timeout=30)
+    res.raise_for_status()
+    return res
+
+
 def download_feed_xls(token, feed_cfg, net_config, epak_files):
     feed_id = feed_cfg["feed_id"]
     referer_url = net_config["referer"]
@@ -405,6 +421,8 @@ def download_feed_xls(token, feed_cfg, net_config, epak_files):
         raw_path = str(best_item.get("path") or f"network-files/{folder}/EPAK/FULL/{target_name}")
         target_path = raw_path if target_name in raw_path else f"{raw_path.rstrip('/')}/{target_name}"
         file_id_val = str(best_item.get("id", file_id_val))
+        print(f"[{feed_id}] Descargando archivo: {target_name}")
+        res = _request_tapkit_download(token, referer_url, target_name, target_path)
     else:
         now_dt = datetime.now(timezone.utc)
         yy_curr = now_dt.strftime("%y")
@@ -413,25 +431,41 @@ def download_feed_xls(token, feed_cfg, net_config, epak_files):
         yy_next = next_month_dt.strftime("%y")
         mm_next = next_month_dt.strftime("%m")
         last_day_next = calendar.monthrange(next_month_dt.year, next_month_dt.month)[1]
+
         if folder == "HAHD":
-            target_name = f"FULL_DLA_Disc_Home_Health_{region}_{yy_curr}{mm_curr}01_{yy_next}{mm_next}{last_day_next:02d}.csv"
+            if region.lower() == "venezuela_chile":
+                xlsx_name = f"FULL_DLA_Homehealth_Venezuela_Chile_{yy_curr}{mm_curr}01_{yy_next}{mm_next}{last_day_next:02d}.xlsx"
+                csv_name = f"FULL_DLA_Homehealth_Venezuela_Chile_{yy_curr}{mm_curr}01_{yy_next}{mm_next}{last_day_next:02d}.csv"
+                candidates_dl = [
+                    (xlsx_name, f"network-files/{folder}/EPAK/FULL/{xlsx_name}", str(feed_cfg.get("fallback_file_id_xlsx") or "10605711")),
+                    (csv_name, f"network-files/{folder}/EPAK/FULL/{csv_name}", str(feed_cfg.get("fallback_file_id_csv") or "10605710")),
+                ]
+            else:
+                base_name = f"FULL_DLA_Disc_Home_Health_{region}_{yy_curr}{mm_curr}01_{yy_next}{mm_next}{last_day_next:02d}"
+                candidates_dl = [
+                    (f"{base_name}.csv", f"network-files/{folder}/EPAK/FULL/{base_name}.csv", file_id_val),
+                    (f"{base_name}.xlsx", f"network-files/{folder}/EPAK/FULL/{base_name}.xlsx", file_id_val),
+                ]
         else:
-            target_name = f"FULL_DLA_Discovery_Kids_{region}_{yy_curr}{mm_curr}01_{yy_next}{mm_next}{last_day_next:02d}.csv"
-        target_path = f"network-files/{folder}/EPAK/FULL/{target_name}"
+            base_name = f"FULL_DLA_Discovery_Kids_{region}_{yy_curr}{mm_curr}01_{yy_next}{mm_next}{last_day_next:02d}"
+            candidates_dl = [
+                (f"{base_name}.csv", f"network-files/{folder}/EPAK/FULL/{base_name}.csv", file_id_val),
+                (f"{base_name}.xlsx", f"network-files/{folder}/EPAK/FULL/{base_name}.xlsx", file_id_val),
+            ]
 
-    print(f"[{feed_id}] Descargando archivo: {target_name}")
-
-    headers = {
-        "Content-Type": "application/json",
-        "Authorization": f"Bearer {token}",
-        "Origin": "https://epg.tapkit.warnermedia.com",
-        "Referer": referer_url,
-        "Accept": "application/json, text/plain, */*"
-    }
-    payload = [{"name": target_name, "path": target_path}]
-
-    res = http_session.post(DOWNLOAD_FILE_URL, json=payload, headers=headers, timeout=30)
-    res.raise_for_status()
+        res = None
+        last_exc = None
+        for cand_name, cand_path, cand_fid in candidates_dl:
+            try:
+                print(f"[{feed_id}] Descargando archivo: {cand_name}")
+                res = _request_tapkit_download(token, referer_url, cand_name, cand_path)
+                file_id_val = cand_fid
+                break
+            except Exception as exc:
+                last_exc = exc
+                print(f"[WARN] [{feed_id}] Falló '{cand_name}': {exc}")
+        if res is None and last_exc is not None:
+            raise last_exc
 
     if res.content.startswith(b"PK") or zipfile.is_zipfile(io.BytesIO(res.content)):
         with zipfile.ZipFile(io.BytesIO(res.content)) as z:
