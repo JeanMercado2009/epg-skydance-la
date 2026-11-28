@@ -404,6 +404,44 @@ def fetch_tmdb_movie_image(title, alt_title="", lang="es"):
     return ""
 
 
+def is_tmdb_movie(title, alt_title="", lang="es"):
+    title = clean_unicode(title)
+    alt_title = clean_unicode(alt_title)
+    if not (title or alt_title) or (not TMDB_TOKEN and not TMDB_API_KEY):
+        return False
+
+    langs_to_try = _get_tmdb_langs(lang)
+    cache_key = f"is_movie|{title}|{alt_title}|{','.join(langs_to_try)}"
+    if cache_key in tmdb_cache:
+        return tmdb_cache[cache_key]
+
+    headers = {"accept": "application/json"}
+    if TMDB_TOKEN:
+        headers["Authorization"] = f"Bearer {TMDB_TOKEN}"
+    elif TMDB_API_KEY:
+        headers["Authorization"] = f"Bearer {TMDB_API_KEY}"
+
+    queries = []
+    for raw_q in [title, alt_title]:
+        if not raw_q:
+            continue
+        q_clean = re.sub(r"\s*\([^)]*\)\s*", " ", raw_q).strip()
+        for candidate in (raw_q, q_clean):
+            if candidate and candidate not in queries:
+                queries.append(candidate)
+
+    for tmdb_lang in langs_to_try + ["en-US"]:
+        for q in queries:
+            data = _tmdb_get("https://api.themoviedb.org/3/search/movie", headers, {"query": q, "language": tmdb_lang})
+            results = data.get("results") or []
+            if results:
+                tmdb_cache[cache_key] = True
+                return True
+
+    tmdb_cache[cache_key] = False
+    return False
+
+
 def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"):
     headers = {
         "Content-Type": "application/json",
@@ -854,9 +892,27 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
             except Exception:
                 pass
 
+        season_val = clean_unicode(row.get(col_season, "")) if col_season and pd.notna(row.get(col_season)) else ""
+        ep_num_val = clean_unicode(row.get(col_ep_num, "")) if col_ep_num and pd.notna(row.get(col_ep_num)) else ""
+
+        duration_mins = ((stop_dt - event_dt).total_seconds() / 60.0) if (stop_dt and stop_dt > event_dt) else 0
+        has_ep_meta = bool(season_val or ep_num_val)
+        prog_lower = prog_name_val.lower()
+        is_cnla_feed = "CNLA" in feed_cfg.get("feed_id", "")
+
         desc_es, desc_en = "", ""
-        is_cine_cartoon = prog_name_val.lower() == "cine cartoon"
-        if is_cine_cartoon:
+        is_cine_cartoon = (
+            "cine cartoon" in prog_lower
+            or "cinecartoon" in prog_lower
+            or (
+                is_cnla_feed
+                and not has_ep_meta
+                and duration_mins >= 60
+                and is_tmdb_movie(press_title_val or prog_name_val, alt_title=ep_name_val or ep_name_en_val, lang=lang)
+            )
+        )
+
+        if "cine cartoon" in prog_lower or "cinecartoon" in prog_lower:
             movie_title = press_title_val or ep_name_val
             title_val = f"{movie_title} (Cine Cartoon)" if movie_title and movie_title.lower() != "nan" else "Cine Cartoon"
             ep_name_val, ep_name_en_val = "", ""
@@ -869,9 +925,12 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
                 genre_val = "Animación, Cine Cartoon"
         else:
             title_val = prog_name_val
-
-        season_val = clean_unicode(row.get(col_season, "")) if col_season and pd.notna(row.get(col_season)) else ""
-        ep_num_val = clean_unicode(row.get(col_ep_num, "")) if col_ep_num and pd.notna(row.get(col_ep_num)) else ""
+            if is_cine_cartoon:
+                if genre_val:
+                    if "cine cartoon" not in genre_val.lower():
+                        genre_val = f"{genre_val}, Cine Cartoon"
+                else:
+                    genre_val = "Animación, Cine Cartoon"
 
         xmltv_season_ep = ""
         try:
@@ -1002,6 +1061,7 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
             "year": year_val.split(".")[0] if year_val and year_val.replace(".", "", 1).isdigit() else "",
             "genre": genre_val if genre_val.lower() != "nan" else "",
             "icon": clean_unicode(icon_url),
+            "is_cine_cartoon": is_cine_cartoon,
             "type": "show",
         })
 
@@ -1066,13 +1126,21 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
 
             if ev["year"]:
                 ET.SubElement(prog, "date").text = clean_unicode(ev["year"])
+
+            added_cats = set()
             if ev["genre"]:
                 for g in ev["genre"].split(","):
                     g_clean = clean_unicode(g)
-                    if g_clean:
+                    if g_clean and g_clean.lower() not in added_cats:
                         ET.SubElement(prog, "category", {"lang": lang}).text = g_clean
+                        added_cats.add(g_clean.lower())
             else:
                 ET.SubElement(prog, "category", {"lang": lang}).text = "Animación"
+                added_cats.add("animación")
+
+            if ev.get("is_cine_cartoon") and "cine cartoon" not in added_cats:
+                ET.SubElement(prog, "category", {"lang": lang}).text = "Cine Cartoon"
+                added_cats.add("cine cartoon")
 
             if ev["episode_num"]:
                 ET.SubElement(prog, "episode-num", {"system": "xmltv_ns"}).text = clean_unicode(ev["episode_num"])
@@ -1158,6 +1226,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```[cite: 6]
-
-¿Lo pruebas y revisas cómo quedan las sinopsis de *Los Jóvenes Titanes En Acción* en `CNLA_EPG.xml`?
