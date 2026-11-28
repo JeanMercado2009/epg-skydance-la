@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="Guia de Programacion Discovery Home &amp; Health">
+  <channel id="DHH_PAN.co" feed_id="DHH_LAT">
+    <display-name>Discovery Home &amp; Health Panregional</display-name>
+  </channel>
+  <channel id="DHH_AR.ar" feed_id="DHH_ARG">
+    <display-name>Discovery Home &amp; Health Argentina</display-name>
+  </channel>
+  <channel id="DHH_CAR.co" feed_id="DHH_CAR">
+    <display-name>Discovery Home &amp; Health Caribe</display-name>
+  </channel>
+  <channel id="DHH_MX.mx" feed_id="DHH_MEX">
+    <display-name>Discovery Home &amp; Health México</display-name>
+  </channel>
+  <channel id="DHH_BR.br" feed_id="DHH_BR">
+    <display-name>Discovery Home &amp; Health Brasil</display-name>
+  </channel>
+  <channel id="DHH_VZ_CL.co" feed_id="DHH_VZ_CL">
+    <display-name>Discovery Home &amp; Health Venezuela / Chile</display-name>
+  </channel>
+</tv>
