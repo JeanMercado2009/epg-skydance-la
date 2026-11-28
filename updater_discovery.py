@@ -185,6 +185,7 @@ NETWORKS_CONFIG = {
         "default_folder": "DISCKIDS",
         "default_file_id": "10605612",
         "default_category": "Infantil",
+        "movie_category": "Cineclub",
         "cineclub_enabled": True,
         "generator_name": "Guia de Programacion Discovery Kids MultiFeed",
         "referer": "https://epg.tapkit.warnermedia.com/epg/networks/47",
@@ -232,6 +233,7 @@ NETWORKS_CONFIG = {
         "default_folder": "HAHD",
         "default_file_id": "10605638",
         "default_category": "Estilo de vida",
+        "movie_category": None,
         "cineclub_enabled": False,
         "generator_name": "Guia de Programacion Discovery Home & Health",
         "referer": "https://epg.tapkit.warnermedia.com/epg/networks/38",
@@ -262,8 +264,8 @@ NETWORKS_CONFIG = {
                 "channel_name": "Discovery Home & Health Caribe",
                 "region": "Caribe",
                 "lang": "es",
-                "tz": timezone(timedelta(hours=-4)),
-                "tz_str": "-0400",
+                "tz": timezone(timedelta(hours=-5)),
+                "tz_str": "-0500",
                 "fallback_file_id": "10605652"
             },
             {
@@ -292,8 +294,8 @@ NETWORKS_CONFIG = {
                 "channel_name": "Discovery Home & Health Venezuela / Chile",
                 "region": "Venezuela_Chile",
                 "lang": "es",
-                "tz": timezone(timedelta(hours=-4)),
-                "tz_str": "-0400",
+                "tz": timezone(timedelta(hours=-3)),
+                "tz_str": "-0300",
                 "fallback_file_id": "10605710"
             }
         ]
@@ -609,6 +611,7 @@ def process_daily_feed(root, feed_cfg, net_config, file_path):
     tz = feed_cfg["tz"]
     tz_str = feed_cfg["tz_str"]
     default_category = net_config.get("default_category", "Infantil")
+    movie_category = net_config.get("movie_category")
     cineclub_enabled = bool(net_config.get("cineclub_enabled", False))
 
     target_local_day = datetime.now(tz).date()
@@ -660,6 +663,7 @@ def process_daily_feed(root, feed_cfg, net_config, file_path):
                 if stop_dt and stop_dt <= event_dt:
                     stop_dt += timedelta(days=1)
 
+        prog_type = str(row.get("PROGRAMME_TYPE", "")).strip().upper()
         series_name = str(row.get("SERIES_NAME", "")).strip()
         prog_name = str(row.get("PROGRAM_NAME", "")).strip()
         title_en = str(row.get("TITLE_NAME", "")).strip()
@@ -673,34 +677,51 @@ def process_daily_feed(root, feed_cfg, net_config, file_path):
         ep_num_val = str(row.get("EPISODE_NUMBER", "")).strip()
         year_val = str(row.get("YEAR_OF_PRODUCTION", "")).strip()
 
-        title_val = local_series if local_series and local_series.lower() != "nan" else series_name
-        sub_es = local_prog if local_prog and local_prog.lower() != "nan" else ""
-        sub_en = title_en if title_en and title_en.lower() != "nan" else ""
+        is_movie = prog_type == "MOVIE"
 
-        if not desc_es:
-            desc_es = desc_en
+        title_val = local_series if local_series and local_series.lower() != "nan" else series_name
+        if not title_val or title_val.lower() == "nan":
+            title_val = prog_name if prog_name and prog_name.lower() != "nan" else ""
+
+        sub_es = "" if is_movie else (local_prog if local_prog and local_prog.lower() != "nan" else "")
+        sub_en = "" if is_movie else (title_en if title_en and title_en.lower() != "nan" else "")
+
+        if not desc_es or desc_es.lower() == "nan":
+            if is_movie and local_prog and local_prog.lower() != "nan":
+                desc_es = local_prog
+            elif desc_en and desc_en.lower() != "nan":
+                desc_es = desc_en
+            else:
+                desc_es = ""
 
         xmltv_season_ep = ""
-        try:
-            s_num = int(float(season_val)) - 1 if season_val.replace(".", "", 1).isdigit() else ""
-            e_num = int(float(ep_num_val)) - 1 if ep_num_val.replace(".", "", 1).isdigit() else ""
-            if s_num != "" and e_num != "":
-                xmltv_season_ep = f"{s_num}.{e_num}."
-            elif e_num != "":
-                xmltv_season_ep = f".{e_num}."
-        except Exception:
-            pass
+        if not is_movie:
+            try:
+                s_num = int(float(season_val)) - 1 if season_val.replace(".", "", 1).isdigit() else ""
+                e_num = int(float(ep_num_val)) - 1 if ep_num_val.replace(".", "", 1).isdigit() else ""
+                if s_num != "" and e_num != "":
+                    xmltv_season_ep = f"{s_num}.{e_num}."
+                elif e_num != "":
+                    xmltv_season_ep = f".{e_num}."
+            except Exception:
+                pass
 
         year_clean = year_val.split(".")[0] if year_val and year_val.replace(".", "", 1).isdigit() else ""
-        prog_combined = f"{series_name} {prog_name} {local_prog}".lower()
-        is_cineclub = cineclub_enabled and ("cineclub" in prog_combined)
+        prog_combined = f"{prog_type} {series_name} {prog_name} {local_series} {local_prog}".lower()
+        is_cineclub = cineclub_enabled and (is_movie or "cineclub" in prog_combined or "cine club" in prog_combined)
 
         icon_url = ""
         if title_val:
-            icon_url = fetch_tmdb_still(title_val, season_val, ep_num_val, ep_title_en=sub_en, lang=lang)
-            if not icon_url and (is_cineclub or not season_val or not ep_num_val):
-                movie_query = sub_es or sub_en or title_val
+            if is_movie or is_cineclub:
+                movie_query = title_val if title_val.lower() != "nan" else (local_prog or title_en)
                 icon_url = fetch_tmdb_movie_image(movie_query, year_str=year_clean, lang=lang)
+                if not icon_url:
+                    icon_url = fetch_tmdb_still(title_val, season_val, ep_num_val, ep_title_en=title_en, lang=lang)
+            else:
+                icon_url = fetch_tmdb_still(title_val, season_val, ep_num_val, ep_title_en=sub_en, lang=lang)
+                if not icon_url and (not season_val or not ep_num_val):
+                    movie_query = sub_es or sub_en or title_val
+                    icon_url = fetch_tmdb_movie_image(movie_query, year_str=year_clean, lang=lang)
 
         raw_events.append({
             "start": event_dt,
@@ -760,8 +781,8 @@ def process_daily_feed(root, feed_cfg, net_config, file_path):
             ET.SubElement(prog, "date").text = ev["year"]
 
         ET.SubElement(prog, "category", {"lang": lang}).text = default_category
-        if ev["is_cineclub"]:
-            ET.SubElement(prog, "category", {"lang": lang}).text = "Cineclub"
+        if ev["is_cineclub"] and movie_category:
+            ET.SubElement(prog, "category", {"lang": lang}).text = movie_category
 
         if ev["episode_num"]:
             ET.SubElement(prog, "episode-num", {"system": "xmltv_ns"}).text = ev["episode_num"]
