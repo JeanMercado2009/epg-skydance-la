@@ -49,7 +49,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No hay cambios nuevos en DKLA_EPG.xml."
           else
-            git commit -m "Auto-update EPG Discovery Kids"
+            git commit -m "Auto-update EPG Discovery"
             git pull --rebase origin main
             git push
           fi
