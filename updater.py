@@ -76,6 +76,31 @@ def normalize_title(text):
     return clean
 
 
+def is_generic_synopsis(text):
+    s = normalize_title(text)
+    if not s or s == "nan":
+        return True
+    generic_patterns = [
+        "conocearobincyburgstarfireravenychicobestia",
+        "conocearobincybrogstarfireravenychicobestia",
+        "conocearobincybrgstarfireravenychicobestia",
+        "conocearobincyborgravenychicobestia",
+        "conocearobincyberstarfireravenychicobestia",
+        "conocearobincyborgstarfireravenychicobestia",
+        "sindudasiguensiendosuperheroesquesalvan",
+        "sinopsisnodisponible",
+        "nodisponible",
+        "sinopsisporconfirmar",
+        "porconfirmar",
+        "nohaydisponibleunasinopsis",
+    ]
+    if any(pat in s for pat in generic_patterns):
+        return True
+    if "conocearobin" in s and ("cyborg" in s or "starfire" in s or "raven" in s or "bestia" in s):
+        return True
+    return False
+
+
 def _tmdb_get(url, headers, params):
     try:
         res = http_session.get(url, headers=headers, params=params, timeout=4)
@@ -229,7 +254,7 @@ def fetch_tmdb_episode_details(series_title, season_str, ep_str, ep_title_en="",
 
             if not best_title and t_name and not is_generic_ep_label(t_name) and (not norm_curr_es or normalize_title(t_name) != norm_curr_es):
                 best_title = t_name
-            if not best_overview and t_ov:
+            if not best_overview and t_ov and not is_generic_synopsis(t_ov):
                 best_overview = t_ov
 
             if best_title and best_overview:
@@ -241,7 +266,9 @@ def fetch_tmdb_episode_details(series_title, season_str, ep_str, ep_title_en="",
                 headers,
                 {"language": "en-US"},
             )
-            best_overview = clean_unicode(ep_en.get("overview") or "")
+            ov_en = clean_unicode(ep_en.get("overview") or "")
+            if ov_en and not is_generic_synopsis(ov_en):
+                best_overview = ov_en
 
     result = {}
     if best_title:
@@ -598,10 +625,14 @@ def download_and_load_monthly_metadata(token, network="CNLA", lang="SPA", feed_t
                         es_desc = clean_unicode(row.get("Episode Sinopsis Prensa(ESPA)") or row.get("Episode Sinopsis Prensa(PORT)") or row.get("Episode Synopsis VOD (ESPA)") or "")
                         year_val = clean_unicode(row.get("Year") or row.get("Año") or "")
 
+                        clean_desc = ""
+                        if es_desc and es_desc.lower() != "nan" and not is_generic_synopsis(es_desc):
+                            clean_desc = es_desc
+
                         meta_data = {
                             "title_es": es_title if es_title and es_title.lower() != "nan" and not is_generic_ep_label(es_title) else "",
                             "title_en": en_title if en_title and en_title.lower() != "nan" and not is_generic_ep_label(en_title) else "",
-                            "desc": es_desc if es_desc and es_desc.lower() != "nan" else "",
+                            "desc": clean_desc,
                             "year": year_val if year_val and year_val.lower() != "nan" and year_val.isdigit() else "",
                         }
 
@@ -724,7 +755,7 @@ def fetch_tmdb_synopsis(title, lang="es"):
                 results = data.get("results") or []
                 if results:
                     ov = clean_unicode(results[0].get("overview") or "")
-                    if ov:
+                    if ov and not is_generic_synopsis(ov):
                         return ov
     return ""
 
@@ -855,9 +886,13 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
 
         if not desc_es:
             if col_ep_desc and pd.notna(row.get(col_ep_desc)) and clean_unicode(row.get(col_ep_desc)):
-                desc_es = clean_unicode(row.get(col_ep_desc))
-            elif col_desc and pd.notna(row.get(col_desc)) and clean_unicode(row.get(col_desc)):
-                desc_es = clean_unicode(row.get(col_desc))
+                cand_ep_desc = clean_unicode(row.get(col_ep_desc))
+                if not is_generic_synopsis(cand_ep_desc):
+                    desc_es = cand_ep_desc
+            if not desc_es and col_desc and pd.notna(row.get(col_desc)) and clean_unicode(row.get(col_desc)):
+                cand_desc = clean_unicode(row.get(col_desc))
+                if not is_generic_synopsis(cand_desc):
+                    desc_es = cand_desc
 
         sub_es = "" if is_generic_ep_label(ep_name_val) else ep_name_val
         sub_en = "" if is_generic_ep_label(ep_name_en_val) else ep_name_en_val
@@ -870,14 +905,14 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
                     sub_es = clean_unicode(matched_info["title_es"])
                 if matched_info["title_en"] and not is_generic_ep_label(matched_info["title_en"]):
                     sub_en = clean_unicode(matched_info["title_en"])
-                if not desc_es and matched_info["desc"]:
+                if (not desc_es or is_generic_synopsis(desc_es)) and matched_info["desc"] and not is_generic_synopsis(matched_info["desc"]):
                     desc_es = clean_unicode(matched_info["desc"])
                 if matched_info["year"]:
                     year_val = clean_unicode(matched_info["year"])
 
         lookup_ep_en = sub_en or (sub_es if sub_es and normalize_title(sub_es) != normalize_title(title_val) else "")
         needs_title = is_generic_ep_label(sub_es) or (bool(lookup_ep_en) and normalize_title(sub_es) == normalize_title(lookup_ep_en))
-        needs_desc = not desc_es
+        needs_desc = (not desc_es) or is_generic_synopsis(desc_es)
 
         base_en_for_tmdb, part_label_en = extract_part_info(lookup_ep_en)
         base_es_for_tmdb, part_label_es = extract_part_info(sub_es)
@@ -900,12 +935,17 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
                     sub_es = f"{tmdb_base or tmdb_title_clean}: {final_part}"
                 else:
                     sub_es = tmdb_title_clean
-            if needs_desc and tmdb_details.get("overview"):
+            if needs_desc and tmdb_details.get("overview") and not is_generic_synopsis(tmdb_details["overview"]):
                 desc_es = clean_unicode(tmdb_details["overview"])
 
         # Solo usar sinopsis general de la serie si no hay episodio identificado
-        if not desc_es and not xmltv_season_ep and title_val and not is_cine_cartoon:
-            desc_es = fetch_tmdb_synopsis(title_val, lang=lang)
+        if (not desc_es or is_generic_synopsis(desc_es)) and not xmltv_season_ep and title_val and not is_cine_cartoon:
+            fallback_syn = fetch_tmdb_synopsis(title_val, lang=lang)
+            if fallback_syn:
+                desc_es = fallback_syn
+
+        if is_generic_synopsis(desc_es):
+            desc_es = ""
 
         icon_url = ""
         if title_val:
@@ -1118,3 +1158,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+```[cite: 6]
+
+¿Lo pruebas y revisas cómo quedan las sinopsis de *Los Jóvenes Titanes En Acción* en `CNLA_EPG.xml`?
