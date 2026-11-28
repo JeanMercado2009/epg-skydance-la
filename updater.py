@@ -334,6 +334,49 @@ def fetch_tmdb_still(series_title, season_str, ep_str, ep_title_en="", ep_title_
     return ""
 
 
+def fetch_tmdb_movie_image(title, alt_title="", lang="es"):
+    title = clean_unicode(title)
+    alt_title = clean_unicode(alt_title)
+    if not (title or alt_title) or (not TMDB_TOKEN and not TMDB_API_KEY):
+        return ""
+
+    langs_to_try = _get_tmdb_langs(lang)
+    cache_key = f"movie_img|{title}|{alt_title}|{','.join(langs_to_try)}"
+    if cache_key in tmdb_cache:
+        return tmdb_cache[cache_key]
+
+    headers = {"accept": "application/json"}
+    if TMDB_TOKEN:
+        headers["Authorization"] = f"Bearer {TMDB_TOKEN}"
+    elif TMDB_API_KEY:
+        headers["Authorization"] = f"Bearer {TMDB_API_KEY}"
+
+    queries = []
+    for raw_q in [title, alt_title]:
+        if not raw_q:
+            continue
+        q_clean = re.sub(r"\s*\([^)]*\)\s*", " ", raw_q).strip()
+        for candidate in (raw_q, q_clean):
+            if candidate and candidate not in queries:
+                queries.append(candidate)
+
+    for tmdb_lang in langs_to_try + ["en-US"]:
+        for q in queries:
+            data = _tmdb_get("https://api.themoviedb.org/3/search/movie", headers, {"query": q, "language": tmdb_lang})
+            results = data.get("results") or []
+            for item in results:
+                img_path = clean_unicode(item.get("backdrop_path") or item.get("poster_path") or "")
+                if img_path:
+                    if not img_path.startswith("/"):
+                        img_path = "/" + img_path
+                    img_url = f"https://media.themoviedb.org/t/p/w500{img_path}"
+                    tmdb_cache[cache_key] = img_url
+                    return img_url
+
+    tmdb_cache[cache_key] = ""
+    return ""
+
+
 def download_and_parse_local_breaks(token, date_str, tz_info, feed_code="CTNPRH"):
     headers = {
         "Content-Type": "application/json",
@@ -781,12 +824,18 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
                 pass
 
         desc_es, desc_en = "", ""
-        if prog_name_val.lower() == "cine cartoon":
+        is_cine_cartoon = prog_name_val.lower() == "cine cartoon"
+        if is_cine_cartoon:
             movie_title = press_title_val or ep_name_val
             title_val = f"{movie_title} (Cine Cartoon)" if movie_title and movie_title.lower() != "nan" else "Cine Cartoon"
             ep_name_val, ep_name_en_val = "", ""
             desc_es = "Cartoon Network trae los clásicos del cine a la pantalla de TV. Ahora podrás disfrutar de estas historias inolvidables en la comodidad de tu hogar."
             desc_en = "Cartoon Network brings classic cinematic tales to the TV screen."
+            if genre_val:
+                if "cine cartoon" not in genre_val.lower():
+                    genre_val = f"{genre_val}, Cine Cartoon"
+            else:
+                genre_val = "Animación, Cine Cartoon"
         else:
             title_val = prog_name_val
 
@@ -834,7 +883,7 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
         base_es_for_tmdb, part_label_es = extract_part_info(sub_es)
         part_suffix = part_label_es or part_label_en
 
-        if (needs_title or needs_desc) and title_val and "Cine Cartoon" not in title_val:
+        if (needs_title or needs_desc) and title_val and not is_cine_cartoon:
             tmdb_details = fetch_tmdb_episode_details(
                 title_val,
                 season_val,
@@ -855,21 +904,26 @@ def process_daily_feed(root, feed_cfg, xls_path, monthly_meta=None, token=None):
                 desc_es = clean_unicode(tmdb_details["overview"])
 
         # Solo usar sinopsis general de la serie si no hay episodio identificado
-        if not desc_es and not xmltv_season_ep and title_val and "Cine Cartoon" not in title_val:
+        if not desc_es and not xmltv_season_ep and title_val and not is_cine_cartoon:
             desc_es = fetch_tmdb_synopsis(title_val, lang=lang)
 
-        icon_url = (
-            fetch_tmdb_still(
-                title_val,
-                season_val,
-                ep_num_val,
-                ep_title_en=base_en_for_tmdb or lookup_ep_en,
-                ep_title_es=base_es_for_tmdb or sub_es,
-                lang=lang,
-            )
-            if title_val and "Cine Cartoon" not in title_val
-            else ""
-        )
+        icon_url = ""
+        if title_val:
+            if not is_cine_cartoon:
+                icon_url = fetch_tmdb_still(
+                    title_val,
+                    season_val,
+                    ep_num_val,
+                    ep_title_en=base_en_for_tmdb or lookup_ep_en,
+                    ep_title_es=base_es_for_tmdb or sub_es,
+                    lang=lang,
+                )
+            if not icon_url:
+                icon_url = fetch_tmdb_movie_image(
+                    title_val,
+                    alt_title=lookup_ep_en or sub_es,
+                    lang=lang,
+                )
 
         if col_is_new and pd.notna(row.get(col_is_new)) and clean_unicode(row.get(col_is_new)).upper() == "Y":
             if sub_es and not is_generic_ep_label(sub_es):
