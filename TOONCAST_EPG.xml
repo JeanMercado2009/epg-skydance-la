@@ -6,40 +6,6 @@
   <channel id="TOONLA_BR.br">
     <display-name>Tooncast Brasil</display-name>
   </channel>
-  <programme start="20261124230100 -0300" stop="20261124231200 -0300" air_time_start="20261124230100 -0300" air_time_end="20261124231200 -0300" start_utc="20261125020100 +0000" stop_utc="20261125021200 +0000" air_time_start_utc="20261125020100 +0000" air_time_end_utc="20261125021200 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">LAS MARAVILLOSAS DESVENTURAS DE FLAPJACK</title>
-    <sub-title lang="es">Marea baja</sub-title>
-    <sub-title lang="en">UNHAPPY ENDINGS</sub-title>
-    <desc lang="es">El Capitán Nudillos está en busca de un cuento que por una vez tenga un final infeliz.</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <episode-num system="xmltv_ns">1.25.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/i0CPvA70x5PDOVBWK7BiXbZymP3.jpg" />
-  </programme>
-  <programme start="20261124230100 -0300" stop="20261124231200 -0300" air_time_start="20261124230100 -0300" air_time_end="20261124231200 -0300" start_utc="20261125020100 +0000" stop_utc="20261125021200 +0000" air_time_start_utc="20261125020100 +0000" air_time_end_utc="20261125021200 +0000" is_live="false" channel="TOONLA_BR.br">
-    <sub-title lang="pt">UNHAPPY ENDINGS</sub-title>
-    <desc lang="pt">Falange procura uma estória que não tenha final feliz.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <episode-num system="xmltv_ns">1.25.</episode-num>
-  </programme>
-  <programme start="20261124231200 -0300" stop="20261124232600 -0300" air_time_start="20261124231200 -0300" air_time_end="20261124232600 -0300" start_utc="20261125021200 +0000" stop_utc="20261125022600 +0000" air_time_start_utc="20261125021200 +0000" air_time_end_utc="20261125022600 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">LAS MARAVILLOSAS DESVENTURAS DE FLAPJACK</title>
-    <sub-title lang="es">¡Bam! / Perdidos en tierra</sub-title>
-    <sub-title lang="en">WILLY!</sub-title>
-    <desc lang="es">Flapjack debe capturar a Willy ocho brazos o nunca más podrá decir la palabra "aventura".</desc>
-    <category lang="es">Animación</category>
-    <category lang="es">Aventuras</category>
-    <episode-num system="xmltv_ns">1.27.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/9MT4QDf18AhlHZM8IuKOYoIM88z.jpg" />
-  </programme>
-  <programme start="20261124231200 -0300" stop="20261124232600 -0300" air_time_start="20261124231200 -0300" air_time_end="20261124232600 -0300" start_utc="20261125021200 +0000" stop_utc="20261125022600 +0000" air_time_start_utc="20261125021200 +0000" air_time_end_utc="20261125022600 +0000" is_live="false" channel="TOONLA_BR.br">
-    <sub-title lang="pt">WILLY!</sub-title>
-    <desc lang="pt">Flapjack deve capturar Willy Oito Braços se quiser provar que é digno de ser um aventureiro de verdade.</desc>
-    <category lang="pt">Animação</category>
-    <category lang="pt">Aventura</category>
-    <episode-num system="xmltv_ns">1.27.</episode-num>
-  </programme>
   <programme start="20261124232600 -0300" stop="20261124233600 -0300" air_time_start="20261124232600 -0300" air_time_end="20261124233600 -0300" start_utc="20261125022600 +0000" stop_utc="20261125023600 +0000" air_time_start_utc="20261125022600 +0000" air_time_end_utc="20261125023600 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">LOS PEQUEÑOS LOONEY TUNES</title>
     <sub-title lang="es">Episodio 14</sub-title>
@@ -7611,13 +7577,6 @@
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">0.19.</episode-num>
   </programme>
-  <programme start="20261128102200 -0300" stop="20261128102300 -0300" air_time_start="20261128102200 -0300" air_time_end="20261128102300 -0300" start_utc="20261128132200 +0000" stop_utc="20261128132300 +0000" air_time_start_utc="20261128132200 +0000" air_time_end_utc="20261128132300 +0000" is_live="false" channel="TOONLA_PAN.co">
-    <title lang="es">Sheep en la gran ciudad</title>
-    <sub-title lang="es">CUTE-ICLES</sub-title>
-    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-  </programme>
   <programme start="20261128102200 -0300" stop="20261128102300 -0300" air_time_start="20261128102200 -0300" air_time_end="20261128102300 -0300" start_utc="20261128132200 +0000" stop_utc="20261128132300 +0000" air_time_start_utc="20261128132200 +0000" air_time_end_utc="20261128132300 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
     <sub-title lang="pt">ISN'T IT A SMALL WORLD</sub-title>
@@ -7625,12 +7584,19 @@
     <category lang="pt">Animação</category>
     <episode-num system="xmltv_ns">0.19.</episode-num>
   </programme>
+  <programme start="20261128102200 -0300" stop="20261128102300 -0300" air_time_start="20261128102200 -0300" air_time_end="20261128102300 -0300" start_utc="20261128132200 +0000" stop_utc="20261128132300 +0000" air_time_start_utc="20261128132200 +0000" air_time_end_utc="20261128132300 +0000" is_live="false" channel="TOONLA_PAN.co">
+    <title lang="es">Sheep en la gran ciudad</title>
+    <sub-title lang="es">ISN'T IT A SMALL WORLD</sub-title>
+    <desc lang="es">Sheep en la gran ciudad cuenta las aventuras de una oveja que escapa de su granja y se va a vivir a la gran ciudad pero es constantemente perseguida por un militar obsesionado con su pelaje, ya que es lo que necesita para hacer funcionar un rayo láser que se alimenta de "energía ovina".</desc>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+  </programme>
   <programme start="20261128102200 -0300" stop="20261128102300 -0300" air_time_start="20261128102200 -0300" air_time_end="20261128102300 -0300" start_utc="20261128132200 +0000" stop_utc="20261128132300 +0000" air_time_start_utc="20261128132200 +0000" air_time_end_utc="20261128132300 +0000" is_live="false" channel="TOONLA_BR.br">
     <title lang="pt">SHEEP NA CIDADE GRANDE</title>
-    <sub-title lang="pt">CUTE-ICLES</sub-title>
+    <sub-title lang="pt">ISN'T IT A SMALL WORLD</sub-title>
     <desc lang="pt">A série foca a vida de um carneiro fugitivo, Sheep (Sheep, aliás, é carneiro em inglês), na Cidade Grande.</desc>
     <category lang="pt">Animação</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
   </programme>
   <programme start="20261128102300 -0300" stop="20261128102400 -0300" air_time_start="20261128102300 -0300" air_time_end="20261128102400 -0300" start_utc="20261128132300 +0000" stop_utc="20261128132400 +0000" air_time_start_utc="20261128132300 +0000" air_time_end_utc="20261128132400 +0000" is_live="false" channel="TOONLA_PAN.co">
     <title lang="es">Sheep en la gran ciudad</title>
