@@ -12,174 +12,13 @@
   <channel id="CDFP_CL.cl">
     <display-name>TNT Sports 2 (Chile)</display-name>
   </channel>
-  <programme start="20261124054500 -0300" stop="20261124060000 -0300" air_time_start="20261124054500 -0300" air_time_end="20261124060000 -0300" start_utc="20261124084500 +0000" stop_utc="20261124090000 +0000" air_time_start_utc="20261124084500 +0000" air_time_end_utc="20261124090000 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <title lang="es">WORLD CUP UNSEEN</title>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20261124060000 -0300" stop="20261124075400 -0300" air_time_start="20261124060000 -0300" air_time_end="20261124075400 -0300" start_utc="20261124090000 +0000" stop_utc="20261124105400 +0000" air_time_start_utc="20261124090000 +0000" air_time_end_utc="20261124105400 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">15.1.</episode-num>
-  </programme>
-  <programme start="20261124073400 +00:00" stop="20261124090500 +00:00" air_time_start="20261124073400 +00:00" air_time_end="20261124090500 +00:00" start_utc="20261124073400 +0000" stop_utc="20261124090500 +0000" air_time_start_utc="20261124073400 +0000" air_time_end_utc="20261124090500 +0000" is_live="false" channel="CDFH_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.415.</episode-num>
-  </programme>
-  <programme start="20261124075400 -0300" stop="20261124100300 -0300" air_time_start="20261124075400 -0300" air_time_end="20261124100300 -0300" start_utc="20261124105400 +0000" stop_utc="20261124130300 +0000" air_time_start_utc="20261124105400 +0000" air_time_end_utc="20261124130300 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">66.13.</episode-num>
-  </programme>
-  <programme start="20261124082500 +00:00" stop="20261124095500 +00:00" air_time_start="20261124082500 +00:00" air_time_end="20261124095500 +00:00" start_utc="20261124082500 +0000" stop_utc="20261124095500 +0000" air_time_start_utc="20261124082500 +0000" air_time_end_utc="20261124095500 +0000" is_live="false" channel="CDFB_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.414.</episode-num>
-  </programme>
-  <programme start="20261124090500 +00:00" stop="20261124093000 +00:00" air_time_start="20261124090500 +00:00" air_time_end="20261124093000 +00:00" start_utc="20261124090500 +0000" stop_utc="20261124093000 +0000" air_time_start_utc="20261124090500 +0000" air_time_end_utc="20261124093000 +0000" is_live="false" channel="CDFH_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.1.</episode-num>
-  </programme>
-  <programme start="20261124093000 +00:00" stop="20261124113000 +00:00" air_time_start="20261124093000 +00:00" air_time_end="20261124113000 +00:00" start_utc="20261124093000 +0000" stop_utc="20261124113000 +0000" air_time_start_utc="20261124093000 +0000" air_time_end_utc="20261124113000 +0000" is_live="false" channel="CDFH_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">17.5.</episode-num>
-  </programme>
-  <programme start="20261124095500 +00:00" stop="20261124120000 +00:00" air_time_start="20261124095500 +00:00" air_time_end="20261124120000 +00:00" start_utc="20261124095500 +0000" stop_utc="20261124120000 +0000" air_time_start_utc="20261124095500 +0000" air_time_end_utc="20261124120000 +0000" is_live="false" channel="CDFB_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">27.3.</episode-num>
-  </programme>
-  <programme start="20261124100300 -0300" stop="20261124120000 -0300" air_time_start="20261124100300 -0300" air_time_end="20261124120000 -0300" start_utc="20261124130300 +0000" stop_utc="20261124150000 +0000" air_time_start_utc="20261124130300 +0000" air_time_end_utc="20261124150000 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">15.3.</episode-num>
-  </programme>
-  <programme start="20261124113000 +00:00" stop="20261124125900 +00:00" air_time_start="20261124113000 +00:00" air_time_end="20261124125900 +00:00" start_utc="20261124113000 +0000" stop_utc="20261124125900 +0000" air_time_start_utc="20261124113000 +0000" air_time_end_utc="20261124125900 +0000" is_live="false" channel="CDFH_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.414.</episode-num>
-  </programme>
-  <programme start="20261124120000 +00:00" stop="20261124140000 +00:00" air_time_start="20261124120000 +00:00" air_time_end="20261124140000 +00:00" start_utc="20261124120000 +0000" stop_utc="20261124140000 +0000" air_time_start_utc="20261124120000 +0000" air_time_end_utc="20261124140000 +0000" is_live="false" channel="CDFB_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.1946.</episode-num>
-  </programme>
-  <programme start="20261124120000 -0300" stop="20261124140000 -0300" air_time_start="20261124120000 -0300" air_time_end="20261124140000 -0300" start_utc="20261124150000 +0000" stop_utc="20261124170000 +0000" air_time_start_utc="20261124150000 +0000" air_time_end_utc="20261124170000 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20261124125900 +00:00" stop="20261124150100 +00:00" air_time_start="20261124125900 +00:00" air_time_end="20261124150100 +00:00" start_utc="20261124125900 +0000" stop_utc="20261124150100 +0000" air_time_start_utc="20261124125900 +0000" air_time_end_utc="20261124150100 +0000" is_live="false" channel="CDFH_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">27.3.</episode-num>
-  </programme>
-  <programme start="20261124140000 +00:00" stop="20261124153000 +00:00" air_time_start="20261124140000 +00:00" air_time_end="20261124153000 +00:00" start_utc="20261124140000 +0000" stop_utc="20261124153000 +0000" air_time_start_utc="20261124140000 +0000" air_time_end_utc="20261124153000 +0000" is_live="false" channel="CDFB_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20261124140000 -0300" stop="20261124153000 -0300" air_time_start="20261124140000 -0300" air_time_end="20261124153000 -0300" start_utc="20261124170000 +0000" stop_utc="20261124183000 +0000" air_time_start_utc="20261124170000 +0000" air_time_end_utc="20261124183000 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20261124150100 +00:00" stop="20261124165900 +00:00" air_time_start="20261124150100 +00:00" air_time_end="20261124165900 +00:00" start_utc="20261124150100 +0000" stop_utc="20261124165900 +0000" air_time_start_utc="20261124150100 +0000" air_time_end_utc="20261124165900 +0000" is_live="false" channel="CDFH_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.1946.</episode-num>
-  </programme>
-  <programme start="20261124153000 +00:00" stop="20261124170000 +00:00" air_time_start="20261124153000 +00:00" air_time_end="20261124170000 +00:00" start_utc="20261124153000 +0000" stop_utc="20261124170000 +0000" air_time_start_utc="20261124153000 +0000" air_time_end_utc="20261124170000 +0000" is_live="false" channel="CDFB_CL.cl">
-    <desc lang="es">DESCRIPCION</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261124153000 -0300" stop="20261124155900 -0300" air_time_start="20261124153000 -0300" air_time_end="20261124155900 -0300" start_utc="20261124183000 +0000" stop_utc="20261124185900 +0000" air_time_start_utc="20261124183000 +0000" air_time_end_utc="20261124185900 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-  </programme>
-  <programme start="20261124155900 -0300" stop="20261124163000 -0300" air_time_start="20261124155900 -0300" air_time_end="20261124163000 -0300" start_utc="20261124185900 +0000" stop_utc="20261124193000 +0000" air_time_start_utc="20261124185900 +0000" air_time_end_utc="20261124193000 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <title lang="es">MAGAZINE CONMEBOL LIBERTADORES 2026</title>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.12.</episode-num>
-  </programme>
-  <programme start="20261124163000 -0300" stop="20261124165900 -0300" air_time_start="20261124163000 -0300" air_time_end="20261124165900 -0300" start_utc="20261124193000 +0000" stop_utc="20261124195900 +0000" air_time_start_utc="20261124193000 +0000" air_time_end_utc="20261124195900 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <title lang="es">TNT GOL FEM</title>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">7.10.</episode-num>
-  </programme>
-  <programme start="20261124165900 +00:00" stop="20261124183000 +00:00" air_time_start="20261124165900 +00:00" air_time_end="20261124183000 +00:00" start_utc="20261124165900 +0000" stop_utc="20261124183000 +0000" air_time_start_utc="20261124165900 +0000" air_time_end_utc="20261124183000 +0000" is_live="false" channel="CDFH_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.416.</episode-num>
-  </programme>
-  <programme start="20261124165900 -0300" stop="20261124190000 -0300" air_time_start="20261124165900 -0300" air_time_end="20261124190000 -0300" start_utc="20261124195900 +0000" stop_utc="20261124220000 +0000" air_time_start_utc="20261124195900 +0000" air_time_end_utc="20261124220000 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20261124170000 +00:00" stop="20261124180000 +00:00" air_time_start="20261124170000 +00:00" air_time_end="20261124180000 +00:00" start_utc="20261124170000 +0000" stop_utc="20261124180000 +0000" air_time_start_utc="20261124170000 +0000" air_time_end_utc="20261124180000 +0000" is_live="false" channel="CDFB_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20261124180000 +00:00" stop="20261124193000 +00:00" air_time_start="20261124180000 +00:00" air_time_end="20261124193000 +00:00" start_utc="20261124180000 +0000" stop_utc="20261124193000 +0000" air_time_start_utc="20261124180000 +0000" air_time_end_utc="20261124193000 +0000" is_live="false" channel="CDFB_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20261124183000 +00:00" stop="20261124190000 +00:00" air_time_start="20261124183000 +00:00" air_time_end="20261124190000 +00:00" start_utc="20261124183000 +0000" stop_utc="20261124190000 +0000" air_time_start_utc="20261124183000 +0000" air_time_end_utc="20261124190000 +0000" is_live="false" channel="CDFH_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.648.</episode-num>
-  </programme>
-  <programme start="20261124183000 +00:00" stop="20261124190000 +00:00" air_time_start="20261124183000 +00:00" air_time_end="20261124190000 +00:00" start_utc="20261124183000 +0000" stop_utc="20261124190000 +0000" air_time_start_utc="20261124183000 +0000" air_time_end_utc="20261124190000 +0000" is_live="false" channel="CDFP_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.648.</episode-num>
-  </programme>
-  <programme start="20261124190000 +00:00" stop="20261124210000 +00:00" air_time_start="20261124190000 +00:00" air_time_end="20261124210000 +00:00" start_utc="20261124190000 +0000" stop_utc="20261124210000 +0000" air_time_start_utc="20261124190000 +0000" air_time_end_utc="20261124210000 +0000" is_live="false" channel="CDFH_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">9.3.</episode-num>
-  </programme>
-  <programme start="20261124190000 +00:00" stop="20261124210000 +00:00" air_time_start="20261124190000 +00:00" air_time_end="20261124210000 +00:00" start_utc="20261124190000 +0000" stop_utc="20261124210000 +0000" air_time_start_utc="20261124190000 +0000" air_time_end_utc="20261124210000 +0000" is_live="false" channel="CDFP_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">9.3.</episode-num>
-  </programme>
-  <programme start="20261124190000 -0300" stop="20261124210000 -0300" air_time_start="20261124190000 -0300" air_time_end="20261124210000 -0300" start_utc="20261124220000 +0000" stop_utc="20261125000000 +0000" air_time_start_utc="20261124220000 +0000" air_time_end_utc="20261125000000 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20261124193000 +00:00" stop="20261124213000 +00:00" air_time_start="20261124193000 +00:00" air_time_end="20261124213000 +00:00" start_utc="20261124193000 +0000" stop_utc="20261124213000 +0000" air_time_start_utc="20261124193000 +0000" air_time_end_utc="20261124213000 +0000" is_live="false" channel="CDFB_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-  </programme>
-  <programme start="20261124210000 +00:00" stop="20261124211500 +00:00" air_time_start="20261124210000 +00:00" air_time_end="20261124211500 +00:00" start_utc="20261124210000 +0000" stop_utc="20261124211500 +0000" air_time_start_utc="20261124210000 +0000" air_time_end_utc="20261124211500 +0000" is_live="false" channel="CDFH_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.652.</episode-num>
-  </programme>
   <programme start="20261124210000 +00:00" stop="20261125060000 +00:00" air_time_start="20261124210000 +00:00" air_time_end="20261125060000 +00:00" start_utc="20261124210000 +0000" stop_utc="20261125060000 +0000" air_time_start_utc="20261124210000 +0000" air_time_end_utc="20261125060000 +0000" is_live="false" channel="CDFP_CL.cl">
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">.652.</episode-num>
   </programme>
-  <programme start="20261124210000 -0300" stop="20261124220000 -0300" air_time_start="20261124210000 -0300" air_time_end="20261124220000 -0300" start_utc="20261125000000 +0000" stop_utc="20261125010000 +0000" air_time_start_utc="20261125000000 +0000" air_time_end_utc="20261125010000 +0000" is_live="false" channel="TNTSPO_AR.ar">
-    <title lang="es">TNT DATA SPORTS - EDICIÓN NOCHE</title>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20261124211500 +00:00" stop="20261124212200 +00:00" air_time_start="20261124211500 +00:00" air_time_end="20261124212200 +00:00" start_utc="20261124211500 +0000" stop_utc="20261124212200 +0000" air_time_start_utc="20261124211500 +0000" air_time_end_utc="20261124212200 +0000" is_live="false" channel="CDFH_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-  </programme>
-  <programme start="20261124212200 +00:00" stop="20261124213700 +00:00" air_time_start="20261124212200 +00:00" air_time_end="20261124213700 +00:00" start_utc="20261124212200 +0000" stop_utc="20261124213700 +0000" air_time_start_utc="20261124212200 +0000" air_time_end_utc="20261124213700 +0000" is_live="false" channel="CDFH_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-  </programme>
-  <programme start="20261124213000 +00:00" stop="20261124230000 +00:00" air_time_start="20261124213000 +00:00" air_time_end="20261124230000 +00:00" start_utc="20261124213000 +0000" stop_utc="20261124230000 +0000" air_time_start_utc="20261124213000 +0000" air_time_end_utc="20261124230000 +0000" is_live="false" channel="CDFB_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20261124213700 +00:00" stop="20261124214900 +00:00" air_time_start="20261124213700 +00:00" air_time_end="20261124214900 +00:00" start_utc="20261124213700 +0000" stop_utc="20261124214900 +0000" air_time_start_utc="20261124213700 +0000" air_time_end_utc="20261124214900 +0000" is_live="false" channel="CDFH_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20261124214900 +00:00" stop="20261124220000 +00:00" air_time_start="20261124214900 +00:00" air_time_end="20261124220000 +00:00" start_utc="20261124214900 +0000" stop_utc="20261124220000 +0000" air_time_start_utc="20261124214900 +0000" air_time_end_utc="20261124220000 +0000" is_live="false" channel="CDFH_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.2.</episode-num>
-  </programme>
-  <programme start="20261124220000 +00:00" stop="20261125000000 +00:00" air_time_start="20261124220000 +00:00" air_time_end="20261125000000 +00:00" start_utc="20261124220000 +0000" stop_utc="20261125000000 +0000" air_time_start_utc="20261124220000 +0000" air_time_end_utc="20261125000000 +0000" is_live="false" channel="CDFH_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.13.</episode-num>
-  </programme>
   <programme start="20261124220000 -0300" stop="20261125010000 -0300" air_time_start="20261124220000 -0300" air_time_end="20261125010000 -0300" start_utc="20261125010000 +0000" stop_utc="20261125040000 +0000" air_time_start_utc="20261125010000 +0000" air_time_end_utc="20261125040000 +0000" is_live="false" channel="TNTSPO_AR.ar">
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">66.14.</episode-num>
-  </programme>
-  <programme start="20261124230000 +00:00" stop="20261125010000 +00:00" air_time_start="20261124230000 +00:00" air_time_end="20261125010000 +00:00" start_utc="20261124230000 +0000" stop_utc="20261125010000 +0000" air_time_start_utc="20261124230000 +0000" air_time_end_utc="20261125010000 +0000" is_live="false" channel="CDFB_CL.cl">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">9.3.</episode-num>
   </programme>
   <programme start="20261125000000 +00:00" stop="20261125023000 +00:00" air_time_start="20261125000000 +00:00" air_time_end="20261125023000 +00:00" start_utc="20261125000000 +0000" stop_utc="20261125023000 +0000" air_time_start_utc="20261125000000 +0000" air_time_end_utc="20261125023000 +0000" is_live="false" channel="CDFH_CL.cl">
     <category lang="es">Animación</category>
@@ -957,5 +796,257 @@
   <programme start="20261128054600 -0300" stop="20261128060000 -0300" air_time_start="20261128054600 -0300" air_time_end="20261128060000 -0300" start_utc="20261128084600 +0000" stop_utc="20261128090000 +0000" air_time_start_utc="20261128084600 +0000" air_time_end_utc="20261128090000 +0000" is_live="false" channel="TNTSPO_AR.ar">
     <category lang="es">Animación</category>
     <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme start="20261128060000 +00:00" stop="20261128083000 +00:00" air_time_start="20261128060000 +00:00" air_time_end="20261128083000 +00:00" start_utc="20261128060000 +0000" stop_utc="20261128083000 +0000" air_time_start_utc="20261128060000 +0000" air_time_end_utc="20261128083000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.15.</episode-num>
+  </programme>
+  <programme start="20261128060000 -0300" stop="20261128061400 -0300" air_time_start="20261128060000 -0300" air_time_end="20261128061400 -0300" start_utc="20261128090000 +0000" stop_utc="20261128091400 +0000" air_time_start_utc="20261128090000 +0000" air_time_end_utc="20261128091400 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+  </programme>
+  <programme start="20261128060100 +00:00" stop="20261128073000 +00:00" air_time_start="20261128060100 +00:00" air_time_end="20261128073000 +00:00" start_utc="20261128060100 +0000" stop_utc="20261128073000 +0000" air_time_start_utc="20261128060100 +0000" air_time_end_utc="20261128073000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.1848.</episode-num>
+  </programme>
+  <programme start="20261128061400 -0300" stop="20261128084400 -0300" air_time_start="20261128061400 -0300" air_time_end="20261128084400 -0300" start_utc="20261128091400 +0000" stop_utc="20261128114400 +0000" air_time_start_utc="20261128091400 +0000" air_time_end_utc="20261128114400 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">15.6.</episode-num>
+  </programme>
+  <programme start="20261128073000 +00:00" stop="20261128090000 +00:00" air_time_start="20261128073000 +00:00" air_time_end="20261128090000 +00:00" start_utc="20261128073000 +0000" stop_utc="20261128090000 +0000" air_time_start_utc="20261128073000 +0000" air_time_end_utc="20261128090000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.419.</episode-num>
+  </programme>
+  <programme start="20261128083000 +00:00" stop="20261128090000 +00:00" air_time_start="20261128083000 +00:00" air_time_end="20261128090000 +00:00" start_utc="20261128083000 +0000" stop_utc="20261128090000 +0000" air_time_start_utc="20261128083000 +0000" air_time_end_utc="20261128090000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20261128084400 -0300" stop="20261128103400 -0300" air_time_start="20261128084400 -0300" air_time_end="20261128103400 -0300" start_utc="20261128114400 +0000" stop_utc="20261128133400 +0000" air_time_start_utc="20261128114400 +0000" air_time_end_utc="20261128133400 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">15.4.</episode-num>
+  </programme>
+  <programme start="20261128090000 +00:00" stop="20261128095900 +00:00" air_time_start="20261128090000 +00:00" air_time_end="20261128095900 +00:00" start_utc="20261128090000 +0000" stop_utc="20261128095900 +0000" air_time_start_utc="20261128090000 +0000" air_time_end_utc="20261128095900 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.688.</episode-num>
+  </programme>
+  <programme start="20261128090000 +00:00" stop="20261128103000 +00:00" air_time_start="20261128090000 +00:00" air_time_end="20261128103000 +00:00" start_utc="20261128090000 +0000" stop_utc="20261128103000 +0000" air_time_start_utc="20261128090000 +0000" air_time_end_utc="20261128103000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.419.</episode-num>
+  </programme>
+  <programme start="20261128095900 +00:00" stop="20261128113000 +00:00" air_time_start="20261128095900 +00:00" air_time_end="20261128113000 +00:00" start_utc="20261128095900 +0000" stop_utc="20261128113000 +0000" air_time_start_utc="20261128095900 +0000" air_time_end_utc="20261128113000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.418.</episode-num>
+  </programme>
+  <programme start="20261128103000 +00:00" stop="20261128113000 +00:00" air_time_start="20261128103000 +00:00" air_time_end="20261128113000 +00:00" start_utc="20261128103000 +0000" stop_utc="20261128113000 +0000" air_time_start_utc="20261128103000 +0000" air_time_end_utc="20261128113000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.688.</episode-num>
+  </programme>
+  <programme start="20261128103400 -0300" stop="20261128122600 -0300" air_time_start="20261128103400 -0300" air_time_end="20261128122600 -0300" start_utc="20261128133400 +0000" stop_utc="20261128152600 +0000" air_time_start_utc="20261128133400 +0000" air_time_end_utc="20261128152600 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">15.3.</episode-num>
+  </programme>
+  <programme start="20261128113000 +00:00" stop="20261128130000 +00:00" air_time_start="20261128113000 +00:00" air_time_end="20261128130000 +00:00" start_utc="20261128113000 +0000" stop_utc="20261128130000 +0000" air_time_start_utc="20261128113000 +0000" air_time_end_utc="20261128130000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20261128113000 +00:00" stop="20261128130000 +00:00" air_time_start="20261128113000 +00:00" air_time_end="20261128130000 +00:00" start_utc="20261128113000 +0000" stop_utc="20261128130000 +0000" air_time_start_utc="20261128113000 +0000" air_time_end_utc="20261128130000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.418.</episode-num>
+  </programme>
+  <programme start="20261128122600 -0300" stop="20261128142500 -0300" air_time_start="20261128122600 -0300" air_time_end="20261128142500 -0300" start_utc="20261128152600 +0000" stop_utc="20261128172500 +0000" air_time_start_utc="20261128152600 +0000" air_time_end_utc="20261128172500 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">15.7.</episode-num>
+  </programme>
+  <programme start="20261128130000 +00:00" stop="20261128150000 +00:00" air_time_start="20261128130000 +00:00" air_time_end="20261128150000 +00:00" start_utc="20261128130000 +0000" stop_utc="20261128150000 +0000" air_time_start_utc="20261128130000 +0000" air_time_end_utc="20261128150000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">31.1.</episode-num>
+  </programme>
+  <programme start="20261128130000 +00:00" stop="20261128145900 +00:00" air_time_start="20261128130000 +00:00" air_time_end="20261128145900 +00:00" start_utc="20261128130000 +0000" stop_utc="20261128145900 +0000" air_time_start_utc="20261128130000 +0000" air_time_end_utc="20261128145900 +0000" is_live="false" channel="CDFB_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">31.1.</episode-num>
+  </programme>
+  <programme start="20261128142500 -0300" stop="20261128145200 -0300" air_time_start="20261128142500 -0300" air_time_end="20261128145200 -0300" start_utc="20261128172500 +0000" stop_utc="20261128175200 +0000" air_time_start_utc="20261128172500 +0000" air_time_end_utc="20261128175200 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <title lang="es">MAGAZINE CONMEBOL LIBERTADORES 2026</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  </programme>
+  <programme start="20261128145200 -0300" stop="20261128173300 -0300" air_time_start="20261128145200 -0300" air_time_end="20261128173300 -0300" start_utc="20261128175200 +0000" stop_utc="20261128203300 +0000" air_time_start_utc="20261128175200 +0000" air_time_end_utc="20261128203300 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">15.0.</episode-num>
+  </programme>
+  <programme start="20261128145900 +00:00" stop="20261128165900 +00:00" air_time_start="20261128145900 +00:00" air_time_end="20261128165900 +00:00" start_utc="20261128145900 +0000" stop_utc="20261128165900 +0000" air_time_start_utc="20261128145900 +0000" air_time_end_utc="20261128165900 +0000" is_live="false" channel="CDFB_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">9.3.</episode-num>
+  </programme>
+  <programme start="20261128150000 +00:00" stop="20261128170000 +00:00" air_time_start="20261128150000 +00:00" air_time_end="20261128170000 +00:00" start_utc="20261128150000 +0000" stop_utc="20261128170000 +0000" air_time_start_utc="20261128150000 +0000" air_time_end_utc="20261128170000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">9.3.</episode-num>
+  </programme>
+  <programme start="20261128165900 +00:00" stop="20261128173000 +00:00" air_time_start="20261128165900 +00:00" air_time_end="20261128173000 +00:00" start_utc="20261128165900 +0000" stop_utc="20261128173000 +0000" air_time_start_utc="20261128165900 +0000" air_time_end_utc="20261128173000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.77.</episode-num>
+  </programme>
+  <programme start="20261128170000 +00:00" stop="20261128173100 +00:00" air_time_start="20261128170000 +00:00" air_time_end="20261128173100 +00:00" start_utc="20261128170000 +0000" stop_utc="20261128173100 +0000" air_time_start_utc="20261128170000 +0000" air_time_end_utc="20261128173100 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.77.</episode-num>
+  </programme>
+  <programme start="20261128173000 +00:00" stop="20261128180000 +00:00" air_time_start="20261128173000 +00:00" air_time_end="20261128180000 +00:00" start_utc="20261128173000 +0000" stop_utc="20261128180000 +0000" air_time_start_utc="20261128173000 +0000" air_time_end_utc="20261128180000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.410.</episode-num>
+  </programme>
+  <programme start="20261128173100 +00:00" stop="20261128180000 +00:00" air_time_start="20261128173100 +00:00" air_time_end="20261128180000 +00:00" start_utc="20261128173100 +0000" stop_utc="20261128180000 +0000" air_time_start_utc="20261128173100 +0000" air_time_end_utc="20261128180000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.682.</episode-num>
+  </programme>
+  <programme start="20261128173100 +00:00" stop="20261128180000 +00:00" air_time_start="20261128173100 +00:00" air_time_end="20261128180000 +00:00" start_utc="20261128173100 +0000" stop_utc="20261128180000 +0000" air_time_start_utc="20261128173100 +0000" air_time_end_utc="20261128180000 +0000" is_live="false" channel="CDFP_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.682.</episode-num>
+  </programme>
+  <programme start="20261128173300 -0300" stop="20261128193000 -0300" air_time_start="20261128173300 -0300" air_time_end="20261128193000 -0300" start_utc="20261128203300 +0000" stop_utc="20261128223000 +0000" air_time_start_utc="20261128203300 +0000" air_time_end_utc="20261128223000 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">15.1.</episode-num>
+  </programme>
+  <programme start="20261128180000 +00:00" stop="20261128200000 +00:00" air_time_start="20261128180000 +00:00" air_time_end="20261128200000 +00:00" start_utc="20261128180000 +0000" stop_utc="20261128200000 +0000" air_time_start_utc="20261128180000 +0000" air_time_end_utc="20261128200000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">28.0.</episode-num>
+  </programme>
+  <programme start="20261128180000 +00:00" stop="20261128200000 +00:00" air_time_start="20261128180000 +00:00" air_time_end="20261128200000 +00:00" start_utc="20261128180000 +0000" stop_utc="20261128200000 +0000" air_time_start_utc="20261128180000 +0000" air_time_end_utc="20261128200000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">31.2.</episode-num>
+  </programme>
+  <programme start="20261128180000 +00:00" stop="20261128200000 +00:00" air_time_start="20261128180000 +00:00" air_time_end="20261128200000 +00:00" start_utc="20261128180000 +0000" stop_utc="20261128200000 +0000" air_time_start_utc="20261128180000 +0000" air_time_end_utc="20261128200000 +0000" is_live="false" channel="CDFP_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">28.0.</episode-num>
+  </programme>
+  <programme start="20261128193000 -0300" stop="20261128194600 -0300" air_time_start="20261128193000 -0300" air_time_end="20261128194600 -0300" start_utc="20261128223000 +0000" stop_utc="20261128224600 +0000" air_time_start_utc="20261128223000 +0000" air_time_end_utc="20261128224600 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20261128194600 -0300" stop="20261128220000 -0300" air_time_start="20261128194600 -0300" air_time_end="20261128220000 -0300" start_utc="20261128224600 +0000" stop_utc="20261129010000 +0000" air_time_start_utc="20261128224600 +0000" air_time_end_utc="20261129010000 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">17.0.</episode-num>
+  </programme>
+  <programme start="20261128200000 +00:00" stop="20261128201100 +00:00" air_time_start="20261128200000 +00:00" air_time_end="20261128201100 +00:00" start_utc="20261128200000 +0000" stop_utc="20261128201100 +0000" air_time_start_utc="20261128200000 +0000" air_time_end_utc="20261128201100 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20261128200000 +00:00" stop="20261128201000 +00:00" air_time_start="20261128200000 +00:00" air_time_end="20261128201000 +00:00" start_utc="20261128200000 +0000" stop_utc="20261128201000 +0000" air_time_start_utc="20261128200000 +0000" air_time_end_utc="20261128201000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.411.</episode-num>
+  </programme>
+  <programme start="20261128200000 +00:00" stop="20261128201100 +00:00" air_time_start="20261128200000 +00:00" air_time_end="20261128201100 +00:00" start_utc="20261128200000 +0000" stop_utc="20261128201100 +0000" air_time_start_utc="20261128200000 +0000" air_time_end_utc="20261128201100 +0000" is_live="false" channel="CDFP_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20261128201000 +00:00" stop="20261128213900 +00:00" air_time_start="20261128201000 +00:00" air_time_end="20261128213900 +00:00" start_utc="20261128201000 +0000" stop_utc="20261128213900 +0000" air_time_start_utc="20261128201000 +0000" air_time_end_utc="20261128213900 +0000" is_live="false" channel="CDFB_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20261128201100 +00:00" stop="20261128203000 +00:00" air_time_start="20261128201100 +00:00" air_time_end="20261128203000 +00:00" start_utc="20261128201100 +0000" stop_utc="20261128203000 +0000" air_time_start_utc="20261128201100 +0000" air_time_end_utc="20261128203000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.683.</episode-num>
+  </programme>
+  <programme start="20261128201100 +00:00" stop="20261128203000 +00:00" air_time_start="20261128201100 +00:00" air_time_end="20261128203000 +00:00" start_utc="20261128201100 +0000" stop_utc="20261128203000 +0000" air_time_start_utc="20261128201100 +0000" air_time_end_utc="20261128203000 +0000" is_live="false" channel="CDFP_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.683.</episode-num>
+  </programme>
+  <programme start="20261128203000 +00:00" stop="20261128223000 +00:00" air_time_start="20261128203000 +00:00" air_time_end="20261128223000 +00:00" start_utc="20261128203000 +0000" stop_utc="20261128223000 +0000" air_time_start_utc="20261128203000 +0000" air_time_end_utc="20261128223000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">28.1.</episode-num>
+  </programme>
+  <programme start="20261128203000 +00:00" stop="20261128223000 +00:00" air_time_start="20261128203000 +00:00" air_time_end="20261128223000 +00:00" start_utc="20261128203000 +0000" stop_utc="20261128223000 +0000" air_time_start_utc="20261128203000 +0000" air_time_end_utc="20261128223000 +0000" is_live="false" channel="CDFP_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">28.1.</episode-num>
+  </programme>
+  <programme start="20261128213900 +00:00" stop="20261128233800 +00:00" air_time_start="20261128213900 +00:00" air_time_end="20261128233800 +00:00" start_utc="20261128213900 +0000" stop_utc="20261128233800 +0000" air_time_start_utc="20261128213900 +0000" air_time_end_utc="20261128233800 +0000" is_live="false" channel="CDFB_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">28.0.</episode-num>
+  </programme>
+  <programme start="20261128220000 -0300" stop="20261128223000 -0300" air_time_start="20261128220000 -0300" air_time_end="20261128223000 -0300" start_utc="20261129010000 +0000" stop_utc="20261129013000 +0000" air_time_start_utc="20261129010000 +0000" air_time_end_utc="20261129013000 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20261128223000 +00:00" stop="20261128225000 +00:00" air_time_start="20261128223000 +00:00" air_time_end="20261128225000 +00:00" start_utc="20261128223000 +0000" stop_utc="20261128225000 +0000" air_time_start_utc="20261128223000 +0000" air_time_end_utc="20261128225000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20261128223000 +00:00" stop="20261129060000 +00:00" air_time_start="20261128223000 +00:00" air_time_end="20261129060000 +00:00" start_utc="20261128223000 +0000" stop_utc="20261129060000 +0000" air_time_start_utc="20261128223000 +0000" air_time_end_utc="20261129060000 +0000" is_live="false" channel="CDFP_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20261128223000 -0300" stop="20261129002800 -0300" air_time_start="20261128223000 -0300" air_time_end="20261129002800 -0300" start_utc="20261129013000 +0000" stop_utc="20261129032800 +0000" air_time_start_utc="20261129013000 +0000" air_time_end_utc="20261129032800 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">17.0.</episode-num>
+  </programme>
+  <programme start="20261128225000 +00:00" stop="20261129005000 +00:00" air_time_start="20261128225000 +00:00" air_time_end="20261129005000 +00:00" start_utc="20261128225000 +0000" stop_utc="20261129005000 +0000" air_time_start_utc="20261128225000 +0000" air_time_end_utc="20261129005000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">31.2.</episode-num>
+  </programme>
+  <programme start="20261128233800 +00:00" stop="20261129013700 +00:00" air_time_start="20261128233800 +00:00" air_time_end="20261129013700 +00:00" start_utc="20261128233800 +0000" stop_utc="20261129013700 +0000" air_time_start_utc="20261128233800 +0000" air_time_end_utc="20261129013700 +0000" is_live="false" channel="CDFB_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">28.1.</episode-num>
+  </programme>
+  <programme start="20261129002800 -0300" stop="20261129005400 -0300" air_time_start="20261129002800 -0300" air_time_end="20261129005400 -0300" start_utc="20261129032800 +0000" stop_utc="20261129035400 +0000" air_time_start_utc="20261129032800 +0000" air_time_end_utc="20261129035400 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.15.</episode-num>
+  </programme>
+  <programme start="20261129005000 +00:00" stop="20261129025000 +00:00" air_time_start="20261129005000 +00:00" air_time_end="20261129025000 +00:00" start_utc="20261129005000 +0000" stop_utc="20261129025000 +0000" air_time_start_utc="20261129005000 +0000" air_time_end_utc="20261129025000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">28.0.</episode-num>
+  </programme>
+  <programme start="20261129005400 -0300" stop="20261129025400 -0300" air_time_start="20261129005400 -0300" air_time_end="20261129025400 -0300" start_utc="20261129035400 +0000" stop_utc="20261129055400 +0000" air_time_start_utc="20261129035400 +0000" air_time_end_utc="20261129055400 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">17.1.</episode-num>
+  </programme>
+  <programme start="20261129013700 +00:00" stop="20261129033400 +00:00" air_time_start="20261129013700 +00:00" air_time_end="20261129033400 +00:00" start_utc="20261129013700 +0000" stop_utc="20261129033400 +0000" air_time_start_utc="20261129013700 +0000" air_time_end_utc="20261129033400 +0000" is_live="false" channel="CDFB_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">31.2.</episode-num>
+  </programme>
+  <programme start="20261129025000 +00:00" stop="20261129032000 +00:00" air_time_start="20261129025000 +00:00" air_time_end="20261129032000 +00:00" start_utc="20261129025000 +0000" stop_utc="20261129032000 +0000" air_time_start_utc="20261129025000 +0000" air_time_end_utc="20261129032000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20261129025400 -0300" stop="20261129044900 -0300" air_time_start="20261129025400 -0300" air_time_end="20261129044900 -0300" start_utc="20261129055400 +0000" stop_utc="20261129074900 +0000" air_time_start_utc="20261129055400 +0000" air_time_end_utc="20261129074900 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">17.0.</episode-num>
+  </programme>
+  <programme start="20261129032000 +00:00" stop="20261129032900 +00:00" air_time_start="20261129032000 +00:00" air_time_end="20261129032900 +00:00" start_utc="20261129032000 +0000" stop_utc="20261129032900 +0000" air_time_start_utc="20261129032000 +0000" air_time_end_utc="20261129032900 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+  </programme>
+  <programme start="20261129032900 +00:00" stop="20261129034000 +00:00" air_time_start="20261129032900 +00:00" air_time_end="20261129034000 +00:00" start_utc="20261129032900 +0000" stop_utc="20261129034000 +0000" air_time_start_utc="20261129032900 +0000" air_time_end_utc="20261129034000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+  </programme>
+  <programme start="20261129033400 +00:00" stop="20261129060000 +00:00" air_time_start="20261129033400 +00:00" air_time_end="20261129060000 +00:00" start_utc="20261129033400 +0000" stop_utc="20261129060000 +0000" air_time_start_utc="20261129033400 +0000" air_time_end_utc="20261129060000 +0000" is_live="false" channel="CDFB_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.14.</episode-num>
+  </programme>
+  <programme start="20261129034000 +00:00" stop="20261129034800 +00:00" air_time_start="20261129034000 +00:00" air_time_end="20261129034800 +00:00" start_utc="20261129034000 +0000" stop_utc="20261129034800 +0000" air_time_start_utc="20261129034000 +0000" air_time_end_utc="20261129034800 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+  </programme>
+  <programme start="20261129034800 +00:00" stop="20261129040200 +00:00" air_time_start="20261129034800 +00:00" air_time_end="20261129040200 +00:00" start_utc="20261129034800 +0000" stop_utc="20261129040200 +0000" air_time_start_utc="20261129034800 +0000" air_time_end_utc="20261129040200 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+  </programme>
+  <programme start="20261129040200 +00:00" stop="20261129060000 +00:00" air_time_start="20261129040200 +00:00" air_time_end="20261129060000 +00:00" start_utc="20261129040200 +0000" stop_utc="20261129060000 +0000" air_time_start_utc="20261129040200 +0000" air_time_end_utc="20261129060000 +0000" is_live="false" channel="CDFH_CL.cl">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">31.1.</episode-num>
+  </programme>
+  <programme start="20261129044900 -0300" stop="20261129053300 -0300" air_time_start="20261129044900 -0300" air_time_end="20261129053300 -0300" start_utc="20261129074900 +0000" stop_utc="20261129083300 +0000" air_time_start_utc="20261129074900 +0000" air_time_end_utc="20261129083300 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <title lang="es">PENSIONES</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+  </programme>
+  <programme start="20261129053300 -0300" stop="20261129054500 -0300" air_time_start="20261129053300 -0300" air_time_end="20261129054500 -0300" start_utc="20261129083300 +0000" stop_utc="20261129084500 +0000" air_time_start_utc="20261129083300 +0000" air_time_end_utc="20261129084500 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <title lang="es">WORLD CUP UNSEEN</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.8.</episode-num>
+  </programme>
+  <programme start="20261129054500 -0300" stop="20261129060000 -0300" air_time_start="20261129054500 -0300" air_time_end="20261129060000 -0300" start_utc="20261129084500 +0000" stop_utc="20261129090000 +0000" air_time_start_utc="20261129084500 +0000" air_time_end_utc="20261129090000 +0000" is_live="false" channel="TNTSPO_AR.ar">
+    <title lang="es">WORLD CUP UNSEEN</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.9.</episode-num>
   </programme>
 </tv>

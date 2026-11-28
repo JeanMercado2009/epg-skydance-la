@@ -18,496 +18,6 @@
   <channel id="TNT_CL.cl">
     <display-name>TNT Chile</display-name>
   </channel>
-  <programme start="20261124010800 -0600" stop="20261124034300 -0600" air_time_start="20261124010800 -0600" air_time_end="20261124034300 -0600" start_utc="20261124070800 +0000" stop_utc="20261124094300 +0000" air_time_start_utc="20261124070800 +0000" air_time_end_utc="20261124094300 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">FURIOSA</title>
-    <desc lang="es">Mientras el mundo se derrumba, la joven Furiosa es secuestrada del Lugar Verde de Muchas Madres y cae en manos de una Horda de Motociclistas liderada por el Señor de la Guerra Dementus. Recorriendo la tierra baldía llega a la Ciudadela, presidida por Inmortan Joe. Mientras los dos tiranos luchan por el dominio de la zona, Furiosa deberá sobrevivir a muchas pruebas buscando volver a casa</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-    <category lang="es">Ciencia Ficción</category>
-  </programme>
-  <programme start="20261124031100 -0500" stop="20261124053000 -0500" air_time_start="20261124031100 -0500" air_time_end="20261124053000 -0500" start_utc="20261124081100 +0000" stop_utc="20261124103000 +0000" air_time_start_utc="20261124081100 +0000" air_time_end_utc="20261124103000 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">IT (ESO)</title>
-    <sub-title lang="es">IT</sub-title>
-    <desc lang="es">Cuando empiezan a desparecer niños en el pueblo de Derry, Maine, un grupo de niños lidia con sus mayores miedos al enfrentarse a un malvado payaso llamado Pennywise, cuya historia de asesinatos y violencia data de siglos atrás.</desc>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261124031600 -0500" stop="20261124053000 -0500" air_time_start="20261124031600 -0500" air_time_end="20261124053000 -0500" start_utc="20261124081600 +0000" stop_utc="20261124103000 +0000" air_time_start_utc="20261124081600 +0000" air_time_end_utc="20261124103000 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">IT (ESO)</title>
-    <sub-title lang="es">IT</sub-title>
-    <desc lang="es">Cuando empiezan a desparecer niños en el pueblo de Derry, Maine, un grupo de niños lidia con sus mayores miedos al enfrentarse a un malvado payaso llamado Pennywise, cuya historia de asesinatos y violencia data de siglos atrás.</desc>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261124032300 -0400" stop="20261124053900 -0400" air_time_start="20261124032300 -0400" air_time_end="20261124053900 -0400" start_utc="20261124072300 +0000" stop_utc="20261124093900 +0000" air_time_start_utc="20261124072300 +0000" air_time_end_utc="20261124093900 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">IT (ESO)</title>
-    <sub-title lang="es">IT</sub-title>
-    <desc lang="es">Cuando empiezan a desparecer niños en el pueblo de Derry, Maine, un grupo de niños lidia con sus mayores miedos al enfrentarse a un malvado payaso llamado Pennywise, cuya historia de asesinatos y violencia data de siglos atrás.</desc>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261124034300 -0600" stop="20261124060000 -0600" air_time_start="20261124034300 -0600" air_time_end="20261124060000 -0600" start_utc="20261124094300 +0000" stop_utc="20261124120000 +0000" air_time_start_utc="20261124094300 +0000" air_time_end_utc="20261124120000 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">IT (ESO)</title>
-    <sub-title lang="es">IT</sub-title>
-    <desc lang="es">Cuando empiezan a desparecer niños en el pueblo de Derry, Maine, un grupo de niños lidia con sus mayores miedos al enfrentarse a un malvado payaso llamado Pennywise, cuya historia de asesinatos y violencia data de siglos atrás.</desc>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Terror</category>
-  </programme>
-  <programme start="20261124053000 -0500" stop="20261124054600 -0500" air_time_start="20261124053000 -0500" air_time_end="20261124054600 -0500" start_utc="20261124103000 +0000" stop_utc="20261124104600 +0000" air_time_start_utc="20261124103000 +0000" air_time_end_utc="20261124104600 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">.57.</episode-num>
-  </programme>
-  <programme start="20261124053000 -0500" stop="20261124054000 -0500" air_time_start="20261124053000 -0500" air_time_end="20261124054000 -0500" start_utc="20261124103000 +0000" stop_utc="20261124104000 +0000" air_time_start_utc="20261124103000 +0000" air_time_end_utc="20261124104000 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">.58.</episode-num>
-  </programme>
-  <programme start="20261124053900 -0400" stop="20261124054900 -0400" air_time_start="20261124053900 -0400" air_time_end="20261124054900 -0400" start_utc="20261124093900 +0000" stop_utc="20261124094900 +0000" air_time_start_utc="20261124093900 +0000" air_time_end_utc="20261124094900 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">.62.</episode-num>
-  </programme>
-  <programme start="20261124054000 -0300" stop="20261124055500 -0300" air_time_start="20261124054000 -0300" air_time_end="20261124055500 -0300" start_utc="20261124084000 +0000" stop_utc="20261124085500 +0000" air_time_start_utc="20261124084000 +0000" air_time_end_utc="20261124085500 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood nos cuentan cómo lograron sus papeles protagonistas más cruciales. En estas entrevistas, charlan sobre lo mejor y lo peor de su oficio, momentos decisivos, cómo alcanzar el éxito y el enorme potencial de la nueva generación.</desc>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">-1.57.</episode-num>
-  </programme>
-  <programme start="20261124054000 -0500" stop="20261124054900 -0500" air_time_start="20261124054000 -0500" air_time_end="20261124054900 -0500" start_utc="20261124104000 +0000" stop_utc="20261124104900 +0000" air_time_start_utc="20261124104000 +0000" air_time_end_utc="20261124104900 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">.59.</episode-num>
-  </programme>
-  <programme start="20261124054600 -0500" stop="20261124060000 -0500" air_time_start="20261124054600 -0500" air_time_end="20261124060000 -0500" start_utc="20261124104600 +0000" stop_utc="20261124110000 +0000" air_time_start_utc="20261124104600 +0000" air_time_end_utc="20261124110000 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">.60.</episode-num>
-  </programme>
-  <programme start="20261124054900 -0400" stop="20261124060000 -0400" air_time_start="20261124054900 -0400" air_time_end="20261124060000 -0400" start_utc="20261124094900 +0000" stop_utc="20261124100000 +0000" air_time_start_utc="20261124094900 +0000" air_time_end_utc="20261124100000 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">.61.</episode-num>
-  </programme>
-  <programme start="20261124054900 -0500" stop="20261124060000 -0500" air_time_start="20261124054900 -0500" air_time_end="20261124060000 -0500" start_utc="20261124104900 +0000" stop_utc="20261124110000 +0000" air_time_start_utc="20261124104900 +0000" air_time_end_utc="20261124110000 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <desc lang="es">Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.</desc>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">.62.</episode-num>
-  </programme>
-  <programme start="20261124055200 -0300" stop="20261124055500 -0300" air_time_start="20261124055200 -0300" air_time_end="20261124055500 -0300" start_utc="20261124085200 +0000" stop_utc="20261124085500 +0000" air_time_start_utc="20261124085200 +0000" air_time_end_utc="20261124085500 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">TNT BUZZ</title>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">14.102.</episode-num>
-  </programme>
-  <programme start="20261124055400 -0300" stop="20261124055600 -0300" air_time_start="20261124055400 -0300" air_time_end="20261124055600 -0300" start_utc="20261124085400 +0000" stop_utc="20261124085600 +0000" air_time_start_utc="20261124085400 +0000" air_time_end_utc="20261124085600 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TNT BUZZ</title>
-    <category lang="pt">Animación</category>
-    <episode-num system="xmltv_ns">14.91.</episode-num>
-  </programme>
-  <programme start="20261124055500 -0300" stop="20261124060000 -0300" air_time_start="20261124055500 -0300" air_time_end="20261124060000 -0300" start_utc="20261124085500 +0000" stop_utc="20261124090000 +0000" air_time_start_utc="20261124085500 +0000" air_time_end_utc="20261124090000 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">TNT BUZZ</title>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">14.108.</episode-num>
-  </programme>
-  <programme start="20261124055600 -0300" stop="20261124060000 -0300" air_time_start="20261124055600 -0300" air_time_end="20261124060000 -0300" start_utc="20261124085600 +0000" stop_utc="20261124090000 +0000" air_time_start_utc="20261124085600 +0000" air_time_end_utc="20261124090000 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TNT BUZZ</title>
-    <category lang="pt">Animación</category>
-    <episode-num system="xmltv_ns">14.92.</episode-num>
-  </programme>
-  <programme start="20261124060000 -0300" stop="20261124074700 -0300" air_time_start="20261124060000 -0300" air_time_end="20261124074700 -0300" start_utc="20261124090000 +0000" stop_utc="20261124104700 +0000" air_time_start_utc="20261124090000 +0000" air_time_end_utc="20261124104700 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">POLÍCIA FEDERAL - A LEI É PARA TODOS</title>
-    <sub-title lang="pt">Federal Police: No One Is Above the Law</sub-title>
-    <desc lang="pt">O filme conta a saga da maior e mais bem-sucedida operação de combate à corrupção da história do país ¿ a Operação Lava Jato. Pelo ponto de vista do delegado Ivan (Antonio Calloni) e de sua equipe da Polícia Federal, em conjunto com a força-tarefa do Ministério Público Federal, o longa revela os esforços para desvendar o esquema de lavagem de dinheiro e pagamento de propinas a executivos de uma estatal de petróleo, empreiteiras, partidos políticos e parlamentares. O thriller mostra ainda o papel decisivo da Justiça para que a investigação não fosse destruída pelas forças políticas envolvidas.</desc>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Crime</category>
-    <category lang="pt">Suspense</category>
-  </programme>
-  <programme start="20261124060000 -0300" stop="20261124063700 -0300" air_time_start="20261124060000 -0300" air_time_end="20261124063700 -0300" start_utc="20261124090000 +0000" stop_utc="20261124093700 +0000" air_time_start_utc="20261124090000 +0000" air_time_end_utc="20261124093700 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">.19.</episode-num>
-  </programme>
-  <programme start="20261124060000 -0400" stop="20261124060900 -0400" air_time_start="20261124060000 -0400" air_time_end="20261124060900 -0400" start_utc="20261124100000 +0000" stop_utc="20261124100900 +0000" air_time_start_utc="20261124100000 +0000" air_time_end_utc="20261124100900 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">.58.</episode-num>
-  </programme>
-  <programme start="20261124060000 -0500" stop="20261124063600 -0500" air_time_start="20261124060000 -0500" air_time_end="20261124063600 -0500" start_utc="20261124110000 +0000" stop_utc="20261124113600 +0000" air_time_start_utc="20261124110000 +0000" air_time_end_utc="20261124113600 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">.14.</episode-num>
-  </programme>
-  <programme start="20261124060000 -0500" stop="20261124064300 -0500" air_time_start="20261124060000 -0500" air_time_end="20261124064300 -0500" start_utc="20261124110000 +0000" stop_utc="20261124114300 +0000" air_time_start_utc="20261124110000 +0000" air_time_end_utc="20261124114300 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
-    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">.15.</episode-num>
-  </programme>
-  <programme start="20261124060000 -0600" stop="20261124075500 -0600" air_time_start="20261124060000 -0600" air_time_end="20261124075500 -0600" start_utc="20261124120000 +0000" stop_utc="20261124135500 +0000" air_time_start_utc="20261124120000 +0000" air_time_end_utc="20261124135500 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">EL CAMINO DE REGRESO</title>
-    <sub-title lang="es">THE WAY BACK</sub-title>
-    <desc lang="es">El ganador del Óscar® Ben Affleck interpreta a Jack Cunningham, un hombre que abandonó la oportunidad de ir a la universidad y hacer una carrera en baloncesto por razones desconocidas. Adicto al alcohol, Jack vive una vida sin sentido. Pero cuando lo llaman para entrenar al equipo escolar para el que jugó tiempo atrás, tendrá la oportunidad de ajustar cuentas con sus demonios.</desc>
-    <category lang="es">Deporte</category>
-    <category lang="es">Drama</category>
-  </programme>
-  <programme start="20261124060900 -0400" stop="20261124061900 -0400" air_time_start="20261124060900 -0400" air_time_end="20261124061900 -0400" start_utc="20261124100900 +0000" stop_utc="20261124101900 +0000" air_time_start_utc="20261124100900 +0000" air_time_end_utc="20261124101900 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">.59.</episode-num>
-  </programme>
-  <programme start="20261124061900 -0400" stop="20261124063500 -0400" air_time_start="20261124061900 -0400" air_time_end="20261124063500 -0400" start_utc="20261124101900 +0000" stop_utc="20261124103500 +0000" air_time_start_utc="20261124101900 +0000" air_time_end_utc="20261124103500 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">.45.</episode-num>
-  </programme>
-  <programme start="20261124063500 -0400" stop="20261124082500 -0400" air_time_start="20261124063500 -0400" air_time_end="20261124082500 -0400" start_utc="20261124103500 +0000" stop_utc="20261124122500 +0000" air_time_start_utc="20261124103500 +0000" air_time_end_utc="20261124122500 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">EL JUEGO DEL CRIMEN</title>
-    <sub-title lang="es">BANK JOB</sub-title>
-    <desc lang="es">En 1971, Terry (Jason Statham) es reclutado para robar un banco en Londres. El objetivo es recuperar fotografías comprometedoras de la realeza escondidas en una bóveda, desencadenando eventos que sacan a la luz secretos peligrosos.</desc>
-    <category lang="es">Crimen</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261124063600 -0500" stop="20261124081500 -0500" air_time_start="20261124063600 -0500" air_time_end="20261124081500 -0500" start_utc="20261124113600 +0000" stop_utc="20261124131500 +0000" air_time_start_utc="20261124113600 +0000" air_time_end_utc="20261124131500 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">PLAN DE ESCAPE: EL RESCATE</title>
-    <sub-title lang="es">ESCAPE PLAN: THE EXTRACTORS</sub-title>
-    <desc lang="es">Ray Breslin, un experto en seguridad carcelaria, se enfrenta a su mayor reto: escapar de la prisión que él mismo ha diseñado. En la cárcel conoce al enigmático Church, un tipo que se ha ganado el respeto de todos los presos por ser capaz de mantenerlos cuerdos en las horas más oscuras.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-  </programme>
-  <programme start="20261124063700 -0300" stop="20261124064800 -0300" air_time_start="20261124063700 -0300" air_time_end="20261124064800 -0300" start_utc="20261124093700 +0000" stop_utc="20261124094800 +0000" air_time_start_utc="20261124093700 +0000" air_time_end_utc="20261124094800 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">.50.</episode-num>
-  </programme>
-  <programme start="20261124064300 -0500" stop="20261124070100 -0500" air_time_start="20261124064300 -0500" air_time_end="20261124070100 -0500" start_utc="20261124114300 +0000" stop_utc="20261124120100 +0000" air_time_start_utc="20261124114300 +0000" air_time_end_utc="20261124120100 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">.42.</episode-num>
-  </programme>
-  <programme start="20261124064800 -0300" stop="20261124065800 -0300" air_time_start="20261124064800 -0300" air_time_end="20261124065800 -0300" start_utc="20261124094800 +0000" stop_utc="20261124095800 +0000" air_time_start_utc="20261124094800 +0000" air_time_end_utc="20261124095800 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">.53.</episode-num>
-  </programme>
-  <programme start="20261124065800 -0300" stop="20261124070900 -0300" air_time_start="20261124065800 -0300" air_time_end="20261124070900 -0300" start_utc="20261124095800 +0000" stop_utc="20261124100900 +0000" air_time_start_utc="20261124095800 +0000" air_time_end_utc="20261124100900 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">.47.</episode-num>
-  </programme>
-  <programme start="20261124070100 -0500" stop="20261124071100 -0500" air_time_start="20261124070100 -0500" air_time_end="20261124071100 -0500" start_utc="20261124120100 +0000" stop_utc="20261124121100 +0000" air_time_start_utc="20261124120100 +0000" air_time_end_utc="20261124121100 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">HOLLYWOOD ONE ON ONE</title>
-    <category lang="es">Entrevistas</category>
-    <category lang="es">Noticias De Entretenimiento</category>
-    <episode-num system="xmltv_ns">.49.</episode-num>
-  </programme>
-  <programme start="20261124070900 -0300" stop="20261124090000 -0300" air_time_start="20261124070900 -0300" air_time_end="20261124090000 -0300" start_utc="20261124100900 +0000" stop_utc="20261124120000 +0000" air_time_start_utc="20261124100900 +0000" air_time_end_utc="20261124120000 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">EL CAMINO DE REGRESO</title>
-    <sub-title lang="es">THE WAY BACK</sub-title>
-    <desc lang="es">El ganador del Óscar® Ben Affleck interpreta a Jack Cunningham, un hombre que abandonó la oportunidad de ir a la universidad y hacer una carrera en baloncesto por razones desconocidas. Adicto al alcohol, Jack vive una vida sin sentido. Pero cuando lo llaman para entrenar al equipo escolar para el que jugó tiempo atrás, tendrá la oportunidad de ajustar cuentas con sus demonios.</desc>
-    <category lang="es">Deporte</category>
-    <category lang="es">Drama</category>
-  </programme>
-  <programme start="20261124071100 -0500" stop="20261124091100 -0500" air_time_start="20261124071100 -0500" air_time_end="20261124091100 -0500" start_utc="20261124121100 +0000" stop_utc="20261124141100 +0000" air_time_start_utc="20261124121100 +0000" air_time_end_utc="20261124141100 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">EL CAMINO DE REGRESO</title>
-    <sub-title lang="es">THE WAY BACK</sub-title>
-    <desc lang="es">El ganador del Óscar® Ben Affleck interpreta a Jack Cunningham, un hombre que abandonó la oportunidad de ir a la universidad y hacer una carrera en baloncesto por razones desconocidas. Adicto al alcohol, Jack vive una vida sin sentido. Pero cuando lo llaman para entrenar al equipo escolar para el que jugó tiempo atrás, tendrá la oportunidad de ajustar cuentas con sus demonios.</desc>
-    <category lang="es">Deporte</category>
-    <category lang="es">Drama</category>
-  </programme>
-  <programme start="20261124074700 -0300" stop="20261124100100 -0300" air_time_start="20261124074700 -0300" air_time_end="20261124100100 -0300" start_utc="20261124104700 +0000" stop_utc="20261124130100 +0000" air_time_start_utc="20261124104700 +0000" air_time_end_utc="20261124130100 +0000" is_live="false" channel="TNT_BR.br">
-    <sub-title lang="pt">The Fate of the Furious</sub-title>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Crime</category>
-    <category lang="pt">Suspense</category>
-  </programme>
-  <programme start="20261124075500 -0600" stop="20261124103000 -0600" air_time_start="20261124075500 -0600" air_time_end="20261124103000 -0600" start_utc="20261124135500 +0000" stop_utc="20261124163000 +0000" air_time_start_utc="20261124135500 +0000" air_time_end_utc="20261124163000 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">RÁPIDOS Y FURIOSOS: HOBBS &amp; SHAW</title>
-    <sub-title lang="es">FAST &amp; FURIOUS PRESENTS: HOBBS &amp; SHAW</sub-title>
-    <desc lang="es">Un grupo de adolescentes se infiltra en una liga de automovilismo de élite controlada por una malvada organización que persigue dominar el mundo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-  </programme>
-  <programme start="20261124081500 -0500" stop="20261124083800 -0500" air_time_start="20261124081500 -0500" air_time_end="20261124083800 -0500" start_utc="20261124131500 +0000" stop_utc="20261124133800 +0000" air_time_start_utc="20261124131500 +0000" air_time_end_utc="20261124133800 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">YO SOY BETTY LA FEA</title>
-    <desc lang="es">Beatriz Pinzón, una brillante economista, tiene el defecto de ser muy fea y está resignada a envejecer al lado de sus padres porque ha perdido toda esperanza con los hombres. Pero la fealdad no le impide a Betty soñar y, desde que empezó a trabajar en Eco Moda, imagina lo que sería vivir una historia de amor con Armando, el presidente de la compañía. Pero para él no existe como mujer, Betty es su consejera y cómplice ya que lo encubre ante su novia. No obstante, la vida le dará a Betty la oportunidad que estaba esperando y gracias a su inteligencia demostrará a todos que es una mujer digna de ser amada por cualquier hombre.</desc>
-    <category lang="es">Comedia</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Romance</category>
-    <episode-num system="xmltv_ns">.16.</episode-num>
-  </programme>
-  <programme start="20261124082500 -0400" stop="20261124102800 -0400" air_time_start="20261124082500 -0400" air_time_end="20261124102800 -0400" start_utc="20261124122500 +0000" stop_utc="20261124142800 +0000" air_time_start_utc="20261124122500 +0000" air_time_end_utc="20261124142800 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">EL CAMINO DE REGRESO</title>
-    <sub-title lang="es">THE WAY BACK</sub-title>
-    <desc lang="es">El ganador del Óscar® Ben Affleck interpreta a Jack Cunningham, un hombre que abandonó la oportunidad de ir a la universidad y hacer una carrera en baloncesto por razones desconocidas. Adicto al alcohol, Jack vive una vida sin sentido. Pero cuando lo llaman para entrenar al equipo escolar para el que jugó tiempo atrás, tendrá la oportunidad de ajustar cuentas con sus demonios.</desc>
-    <category lang="es">Deporte</category>
-    <category lang="es">Drama</category>
-  </programme>
-  <programme start="20261124083800 -0500" stop="20261124103600 -0500" air_time_start="20261124083800 -0500" air_time_end="20261124103600 -0500" start_utc="20261124133800 +0000" stop_utc="20261124153600 +0000" air_time_start_utc="20261124133800 +0000" air_time_end_utc="20261124153600 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">EL CAMINO DE REGRESO</title>
-    <sub-title lang="es">THE WAY BACK</sub-title>
-    <desc lang="es">El ganador del Óscar® Ben Affleck interpreta a Jack Cunningham, un hombre que abandonó la oportunidad de ir a la universidad y hacer una carrera en baloncesto por razones desconocidas. Adicto al alcohol, Jack vive una vida sin sentido. Pero cuando lo llaman para entrenar al equipo escolar para el que jugó tiempo atrás, tendrá la oportunidad de ajustar cuentas con sus demonios.</desc>
-    <category lang="es">Deporte</category>
-    <category lang="es">Drama</category>
-  </programme>
-  <programme start="20261124090000 -0300" stop="20261124115200 -0300" air_time_start="20261124090000 -0300" air_time_end="20261124115200 -0300" start_utc="20261124120000 +0000" stop_utc="20261124145200 +0000" air_time_start_utc="20261124120000 +0000" air_time_end_utc="20261124145200 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">ELVIS</title>
-    <desc lang="es">En esta comedia animada para adultos, Elvis cambia su traje por una mochila propulsora para unirse a un programa de espías y detener a los villanos que buscan destruir el mundo.</desc>
-    <category lang="es">Biografía</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261124091100 -0500" stop="20261124105400 -0500" air_time_start="20261124091100 -0500" air_time_end="20261124105400 -0500" start_utc="20261124141100 +0000" stop_utc="20261124155400 +0000" air_time_start_utc="20261124141100 +0000" air_time_end_utc="20261124155400 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">MISFITS</title>
-    <desc lang="es">Luego de escapar de una cárcel de máxima seguridad, el famoso delincuente Richard Pace (Pierce Brosnan) es reclutado por una banda de ladrones al estilo Robin Hood para realizar el robo más importante del siglo y de paso desfinanciar a grupos terroristas a nivel mundial. Del director de "Duro de Matar 2" y con la participación de Tim Roth.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20261124100100 -0300" stop="20261124102300 -0300" air_time_start="20261124100100 -0300" air_time_end="20261124102300 -0300" start_utc="20261124130100 +0000" stop_utc="20261124132300 +0000" air_time_start_utc="20261124130100 +0000" air_time_end_utc="20261124132300 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">Motivo de Alegria</sub-title>
-    <sub-title lang="en">BUNDLE OF JOY</sub-title>
-    <desc lang="pt">Os membros da família Banks imaginam como vai ser a vida depois que o bebê de Vivian nascer.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">2.15.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/9OW6wcu5WmvFNHD0ZfwjRcJKtvM.jpg" />
-  </programme>
-  <programme start="20261124102300 -0300" stop="20261124104700 -0300" air_time_start="20261124102300 -0300" air_time_end="20261124104700 -0300" start_utc="20261124132300 +0000" stop_utc="20261124134700 +0000" air_time_start_utc="20261124132300 +0000" air_time_end_utc="20261124134700 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">O Plano Perfeito</sub-title>
-    <sub-title lang="en">THE BEST LAID PLANS</sub-title>
-    <desc lang="pt">Monique não quer transar antes de casar, e Will organiza um casamento falso celebrado pelo D.J. Jazzy Jeff.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">2.16.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/23l4vDRaKTFA40M3peRiJgRk5Qv.jpg" />
-  </programme>
-  <programme start="20261124102800 -0400" stop="20261124132800 -0400" air_time_start="20261124102800 -0400" air_time_end="20261124132800 -0400" start_utc="20261124142800 +0000" stop_utc="20261124172800 +0000" air_time_start_utc="20261124142800 +0000" air_time_end_utc="20261124172800 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">ELVIS</title>
-    <desc lang="es">En esta comedia animada para adultos, Elvis cambia su traje por una mochila propulsora para unirse a un programa de espías y detener a los villanos que buscan destruir el mundo.</desc>
-    <category lang="es">Biografía</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261124103000 -0600" stop="20261124114600 -0600" air_time_start="20261124103000 -0600" air_time_end="20261124114600 -0600" start_utc="20261124163000 +0000" stop_utc="20261124174600 +0000" air_time_start_utc="20261124163000 +0000" air_time_end_utc="20261124174600 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">UEFA CHAMPIONS LEAGUE</title>
-    <desc lang="es">Summary and highlights</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261124103600 -0500" stop="20261124133100 -0500" air_time_start="20261124103600 -0500" air_time_end="20261124133100 -0500" start_utc="20261124153600 +0000" stop_utc="20261124183100 +0000" air_time_start_utc="20261124153600 +0000" air_time_end_utc="20261124183100 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">ELVIS</title>
-    <desc lang="es">En esta comedia animada para adultos, Elvis cambia su traje por una mochila propulsora para unirse a un programa de espías y detener a los villanos que buscan destruir el mundo.</desc>
-    <category lang="es">Biografía</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261124104700 -0300" stop="20261124111200 -0300" air_time_start="20261124104700 -0300" air_time_end="20261124111200 -0300" start_utc="20261124134700 +0000" stop_utc="20261124141200 +0000" air_time_start_utc="20261124134700 +0000" air_time_end_utc="20261124141200 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">Alma Mater</sub-title>
-    <sub-title lang="en">THE ALMA MATTER</sub-title>
-    <desc lang="pt">Deprimido por ter acabado com suas chances de entrar para Princeton, Carlton recebe a visita do anjo da guarda (Tom Jones), que mostra como seria a vida da família Banks se ele não estivesse vivo.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">2.17.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/abIvmxQc6kkruMlypGwVEuPW3ex.jpg" />
-  </programme>
-  <programme start="20261124105400 -0500" stop="20261124134800 -0500" air_time_start="20261124105400 -0500" air_time_end="20261124134800 -0500" start_utc="20261124155400 +0000" stop_utc="20261124184800 +0000" air_time_start_utc="20261124155400 +0000" air_time_end_utc="20261124184800 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">ELVIS</title>
-    <desc lang="es">En esta comedia animada para adultos, Elvis cambia su traje por una mochila propulsora para unirse a un programa de espías y detener a los villanos que buscan destruir el mundo.</desc>
-    <category lang="es">Biografía</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Musical</category>
-  </programme>
-  <programme start="20261124111200 -0300" stop="20261124113700 -0300" air_time_start="20261124111200 -0300" air_time_end="20261124113700 -0300" start_utc="20261124141200 +0000" stop_utc="20261124143700 +0000" air_time_start_utc="20261124141200 +0000" air_time_end_utc="20261124143700 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">UM MALUCO NO PEDAÇO</title>
-    <sub-title lang="pt">A Droga é uma Droga</sub-title>
-    <sub-title lang="en">JUST SAY YO</sub-title>
-    <desc lang="pt">No baile da escola, Will sem querer faz Carlton tomar uma dose excessiva de uma droga ilícita.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">2.18.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/tp5ZduolFisrEwCXzMmhUTyAZjl.jpg" />
-  </programme>
-  <programme start="20261124113700 -0300" stop="20261124120000 -0300" air_time_start="20261124113700 -0300" air_time_end="20261124120000 -0300" start_utc="20261124143700 +0000" stop_utc="20261124150000 +0000" air_time_start_utc="20261124143700 +0000" air_time_end_utc="20261124150000 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">Todo Mundo Odeia o Natal</sub-title>
-    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">3.0.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/1poViFNqhF2YsMajfKHwMaKc6X2.jpg" />
-  </programme>
-  <programme start="20261124114600 -0600" stop="20261124134400 -0600" air_time_start="20261124114600 -0600" air_time_end="20261124134400 -0600" start_utc="20261124174600 +0000" stop_utc="20261124194400 +0000" air_time_start_utc="20261124174600 +0000" air_time_end_utc="20261124194400 +0000" is_live="false" channel="TNT_MX.mx">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.73.</episode-num>
-  </programme>
-  <programme start="20261124115200 -0300" stop="20261124142100 -0300" air_time_start="20261124115200 -0300" air_time_end="20261124142100 -0300" start_utc="20261124145200 +0000" stop_utc="20261124172100 +0000" air_time_start_utc="20261124145200 +0000" air_time_end_utc="20261124172100 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">RÁPIDOS Y FURIOSOS 8</title>
-    <sub-title lang="es">THE FATE OF THE FURIOUS</sub-title>
-    <desc lang="es">Con Dom y Letty de luna de miel, Brian y Mia fuera del juego y el resto de la pandilla exonerada de todo cargo, el equipo está instalado en una vida aparentemente normal. Pero cuando una misteriosa mujer (Theron) seduce a Dom (Diesel) para regresar nuevamente al mundo del crimen, se ve incapaz de rechazar la oportunidad, traicionando así a todo el mundo cercano a él.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261124120000 -0300" stop="20261124122200 -0300" air_time_start="20261124120000 -0300" air_time_end="20261124122200 -0300" start_utc="20261124150000 +0000" stop_utc="20261124152200 +0000" air_time_start_utc="20261124150000 +0000" air_time_end_utc="20261124152200 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">Todo Mundo Odeia o Natal</sub-title>
-    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">3.1.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/bgtrohpoBVbKHcJdKeY2tOTCVF6.jpg" />
-  </programme>
-  <programme start="20261124122200 -0300" stop="20261124124500 -0300" air_time_start="20261124122200 -0300" air_time_end="20261124124500 -0300" start_utc="20261124152200 +0000" stop_utc="20261124154500 +0000" air_time_start_utc="20261124152200 +0000" air_time_end_utc="20261124154500 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">Todo Mundo Odeia o Natal</sub-title>
-    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">3.2.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/rIEQhlu2l5AdOqEaG84OtKbxa7v.jpg" />
-  </programme>
-  <programme start="20261124124500 -0300" stop="20261124130600 -0300" air_time_start="20261124124500 -0300" air_time_end="20261124130600 -0300" start_utc="20261124154500 +0000" stop_utc="20261124160600 +0000" air_time_start_utc="20261124154500 +0000" air_time_end_utc="20261124160600 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">Todo Mundo Odeia o Natal</sub-title>
-    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">3.3.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/fS0TtPslkMxQofOALkke22d48Bh.jpg" />
-  </programme>
-  <programme start="20261124130600 -0300" stop="20261124133000 -0300" air_time_start="20261124130600 -0300" air_time_end="20261124133000 -0300" start_utc="20261124160600 +0000" stop_utc="20261124163000 +0000" air_time_start_utc="20261124160600 +0000" air_time_end_utc="20261124163000 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
-    <sub-title lang="pt">Todo Mundo Odeia o Natal</sub-title>
-    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
-    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
-    <category lang="pt">Comédia</category>
-    <episode-num system="xmltv_ns">3.4.</episode-num>
-    <icon src="https://media.themoviedb.org/t/p/w500/cwYY3x6DuMC0TR5yMJVXwIcXxpX.jpg" />
-  </programme>
-  <programme start="20261124132800 -0400" stop="20261124160700 -0400" air_time_start="20261124132800 -0400" air_time_end="20261124160700 -0400" start_utc="20261124172800 +0000" stop_utc="20261124200700 +0000" air_time_start_utc="20261124172800 +0000" air_time_end_utc="20261124200700 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">RÁPIDOS Y FURIOSOS 8</title>
-    <sub-title lang="es">THE FATE OF THE FURIOUS</sub-title>
-    <desc lang="es">Con Dom y Letty de luna de miel, Brian y Mia fuera del juego y el resto de la pandilla exonerada de todo cargo, el equipo está instalado en una vida aparentemente normal. Pero cuando una misteriosa mujer (Theron) seduce a Dom (Diesel) para regresar nuevamente al mundo del crimen, se ve incapaz de rechazar la oportunidad, traicionando así a todo el mundo cercano a él.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261124133000 -0300" stop="20261124144500 -0300" air_time_start="20261124133000 -0300" air_time_end="20261124144500 -0300" start_utc="20261124163000 +0000" stop_utc="20261124174500 +0000" air_time_start_utc="20261124163000 +0000" air_time_end_utc="20261124174500 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">PRÉ-JOGO UEFA CHAMPIONS LEAGUE 2026/27</title>
-    <desc lang="pt">A melhor cobertura dos jogos da UEFA CHAMPIONS LEAGUE e o melhor futebol do mundo, na programação da TNT Brasil.</desc>
-    <category lang="pt">Animación</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20261124133100 -0500" stop="20261124160500 -0500" air_time_start="20261124133100 -0500" air_time_end="20261124160500 -0500" start_utc="20261124183100 +0000" stop_utc="20261124210500 +0000" air_time_start_utc="20261124183100 +0000" air_time_end_utc="20261124210500 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">RÁPIDOS Y FURIOSOS 8</title>
-    <sub-title lang="es">THE FATE OF THE FURIOUS</sub-title>
-    <desc lang="es">Con Dom y Letty de luna de miel, Brian y Mia fuera del juego y el resto de la pandilla exonerada de todo cargo, el equipo está instalado en una vida aparentemente normal. Pero cuando una misteriosa mujer (Theron) seduce a Dom (Diesel) para regresar nuevamente al mundo del crimen, se ve incapaz de rechazar la oportunidad, traicionando así a todo el mundo cercano a él.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261124134400 -0600" stop="20261124140000 -0600" air_time_start="20261124134400 -0600" air_time_end="20261124140000 -0600" start_utc="20261124194400 +0000" stop_utc="20261124200000 +0000" air_time_start_utc="20261124194400 +0000" air_time_end_utc="20261124200000 +0000" is_live="false" channel="TNT_MX.mx">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261124134800 -0500" stop="20261124162300 -0500" air_time_start="20261124134800 -0500" air_time_end="20261124162300 -0500" start_utc="20261124184800 +0000" stop_utc="20261124212300 +0000" air_time_start_utc="20261124184800 +0000" air_time_end_utc="20261124212300 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">RÁPIDOS Y FURIOSOS 8</title>
-    <sub-title lang="es">THE FATE OF THE FURIOUS</sub-title>
-    <desc lang="es">Con Dom y Letty de luna de miel, Brian y Mia fuera del juego y el resto de la pandilla exonerada de todo cargo, el equipo está instalado en una vida aparentemente normal. Pero cuando una misteriosa mujer (Theron) seduce a Dom (Diesel) para regresar nuevamente al mundo del crimen, se ve incapaz de rechazar la oportunidad, traicionando así a todo el mundo cercano a él.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261124140000 -0600" stop="20261124160000 -0600" air_time_start="20261124140000 -0600" air_time_end="20261124160000 -0600" start_utc="20261124200000 +0000" stop_utc="20261124220000 +0000" air_time_start_utc="20261124200000 +0000" air_time_end_utc="20261124220000 +0000" is_live="false" channel="TNT_MX.mx">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.79.</episode-num>
-  </programme>
-  <programme start="20261124142100 -0300" stop="20261124165600 -0300" air_time_start="20261124142100 -0300" air_time_end="20261124165600 -0300" start_utc="20261124172100 +0000" stop_utc="20261124195600 +0000" air_time_start_utc="20261124172100 +0000" air_time_end_utc="20261124195600 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">RÁPIDOS Y FURIOSOS: HOBBS &amp; SHAW</title>
-    <sub-title lang="es">FAST &amp; FURIOUS PRESENTS: HOBBS &amp; SHAW</sub-title>
-    <desc lang="es">Un grupo de adolescentes se infiltra en una liga de automovilismo de élite controlada por una malvada organización que persigue dominar el mundo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-  </programme>
-  <programme start="20261124144500 -0300" stop="20261124170000 -0300" air_time_start="20261124144500 -0300" air_time_end="20261124170000 -0300" start_utc="20261124174500 +0000" stop_utc="20261124200000 +0000" air_time_start_utc="20261124174500 +0000" air_time_end_utc="20261124200000 +0000" is_live="false" channel="TNT_BR.br">
-    <category lang="pt">Animación</category>
-    <episode-num system="xmltv_ns">.73.</episode-num>
-  </programme>
-  <programme start="20261124160000 -0600" stop="20261124164500 -0600" air_time_start="20261124160000 -0600" air_time_end="20261124164500 -0600" start_utc="20261124220000 +0000" stop_utc="20261124224500 +0000" air_time_start_utc="20261124220000 +0000" air_time_end_utc="20261124224500 +0000" is_live="false" channel="TNT_MX.mx">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-  </programme>
-  <programme start="20261124160500 -0500" stop="20261124185700 -0500" air_time_start="20261124160500 -0500" air_time_end="20261124185700 -0500" start_utc="20261124210500 +0000" stop_utc="20261124235700 +0000" air_time_start_utc="20261124210500 +0000" air_time_end_utc="20261124235700 +0000" is_live="false" channel="TNT_CO.co">
-    <title lang="es">RÁPIDOS Y FURIOSOS: HOBBS &amp; SHAW</title>
-    <sub-title lang="es">FAST &amp; FURIOUS PRESENTS: HOBBS &amp; SHAW</sub-title>
-    <desc lang="es">Un grupo de adolescentes se infiltra en una liga de automovilismo de élite controlada por una malvada organización que persigue dominar el mundo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-  </programme>
-  <programme start="20261124160700 -0400" stop="20261124190200 -0400" air_time_start="20261124160700 -0400" air_time_end="20261124190200 -0400" start_utc="20261124200700 +0000" stop_utc="20261124230200 +0000" air_time_start_utc="20261124200700 +0000" air_time_end_utc="20261124230200 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">RÁPIDOS Y FURIOSOS: HOBBS &amp; SHAW</title>
-    <sub-title lang="es">FAST &amp; FURIOUS PRESENTS: HOBBS &amp; SHAW</sub-title>
-    <desc lang="es">Un grupo de adolescentes se infiltra en una liga de automovilismo de élite controlada por una malvada organización que persigue dominar el mundo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-  </programme>
-  <programme start="20261124162300 -0500" stop="20261124190800 -0500" air_time_start="20261124162300 -0500" air_time_end="20261124190800 -0500" start_utc="20261124212300 +0000" stop_utc="20261125000800 +0000" air_time_start_utc="20261124212300 +0000" air_time_end_utc="20261125000800 +0000" is_live="false" channel="TNT_PAN.co">
-    <title lang="es">RÁPIDOS Y FURIOSOS: HOBBS &amp; SHAW</title>
-    <sub-title lang="es">FAST &amp; FURIOUS PRESENTS: HOBBS &amp; SHAW</sub-title>
-    <desc lang="es">Un grupo de adolescentes se infiltra en una liga de automovilismo de élite controlada por una malvada organización que persigue dominar el mundo.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventuras</category>
-  </programme>
-  <programme start="20261124164500 -0600" stop="20261124174500 -0600" air_time_start="20261124164500 -0600" air_time_end="20261124174500 -0600" start_utc="20261124224500 +0000" stop_utc="20261124234500 +0000" air_time_start_utc="20261124224500 +0000" air_time_end_utc="20261124234500 +0000" is_live="false" channel="TNT_MX.mx">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-  </programme>
-  <programme start="20261124165600 -0300" stop="20261124171200 -0300" air_time_start="20261124165600 -0300" air_time_end="20261124171200 -0300" start_utc="20261124195600 +0000" stop_utc="20261124201200 +0000" air_time_start_utc="20261124195600 +0000" air_time_end_utc="20261124201200 +0000" is_live="false" channel="TNT_AR.ar">
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.27.</episode-num>
-  </programme>
-  <programme start="20261124170000 -0300" stop="20261124185900 -0300" air_time_start="20261124170000 -0300" air_time_end="20261124185900 -0300" start_utc="20261124200000 +0000" stop_utc="20261124215900 +0000" air_time_start_utc="20261124200000 +0000" air_time_end_utc="20261124215900 +0000" is_live="false" channel="TNT_BR.br">
-    <category lang="pt">Animación</category>
-    <episode-num system="xmltv_ns">.79.</episode-num>
-  </programme>
-  <programme start="20261124171200 -0300" stop="20261124195600 -0300" air_time_start="20261124171200 -0300" air_time_end="20261124195600 -0300" start_utc="20261124201200 +0000" stop_utc="20261124225600 +0000" air_time_start_utc="20261124201200 +0000" air_time_end_utc="20261124225600 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">RÁPIDOS Y FURIOSOS 9</title>
-    <sub-title lang="es">F9: THE FAST SAGA</sub-title>
-    <desc lang="es">Domic Toretto lleva una vida tranquila, lejos de todo, con Letty y su hijo, el pequeño Brian. el peligro está siempre al acecho. Esta vez, esta amenaza obligará a Domic Toretto a enfrentarse a los pecados de su pasado para salvar a los que más quiere. Su equipo se reúne de nuevo para detener un plan que conmocionó al mundo, liderado por el mejor piloto y el mayor asesino que han encontrado: Jakob, el hermano abandonado de Domic.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261124174500 -0600" stop="20261124193300 -0600" air_time_start="20261124174500 -0600" air_time_end="20261124193300 -0600" start_utc="20261124234500 +0000" stop_utc="20261125013300 +0000" air_time_start_utc="20261124234500 +0000" air_time_end_utc="20261125013300 +0000" is_live="false" channel="TNT_MX.mx">
-    <title lang="es">VENGANZA LETAL</title>
-    <desc lang="es">Después de diez años en prisión, un hombre sin nada que perder tiene un solo objetivo en mente: vengar el asesinato de su hermano. Con la lista de los culpables en mano, emprende su búsqueda para matarlos a todos, uno por uno. Un policía veterano y un asesino a sueldo lo siguen de cerca en una cacería en la que se pondrá a prueba cuál de los tres es el más rápido.</desc>
-    <category lang="es">Acción</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-  </programme>
   <programme start="20261124185700 -0500" stop="20261124220000 -0500" air_time_start="20261124185700 -0500" air_time_end="20261124220000 -0500" start_utc="20261124235700 +0000" stop_utc="20261125030000 +0000" air_time_start_utc="20261124235700 +0000" air_time_end_utc="20261125030000 +0000" is_live="false" channel="TNT_CO.co">
     <title lang="es">RÁPIDOS Y FURIOSOS 9</title>
     <sub-title lang="es">F9: THE FAST SAGA</sub-title>
@@ -515,18 +25,6 @@
     <category lang="es">Acción</category>
     <category lang="es">Crimen</category>
     <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261124185900 -0300" stop="20261124200200 -0300" air_time_start="20261124185900 -0300" air_time_end="20261124200200 -0300" start_utc="20261124215900 +0000" stop_utc="20261124230200 +0000" air_time_start_utc="20261124215900 +0000" air_time_end_utc="20261124230200 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">PÓS-JOGO UEFA CHAMPIONS LEAGUE 2026/27</title>
-    <desc lang="pt">A melhor cobertura dos jogos da UEFA CHAMPIONS LEAGUE e o melhor futebol do mundo, na programação da TNT Brasil.</desc>
-    <category lang="pt">Animación</category>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20261124190200 -0400" stop="20261124205200 -0400" air_time_start="20261124190200 -0400" air_time_end="20261124205200 -0400" start_utc="20261124230200 +0000" stop_utc="20261125005200 +0000" air_time_start_utc="20261124230200 +0000" air_time_end_utc="20261125005200 +0000" is_live="false" channel="TNT_CL.cl">
-    <title lang="es">MASTERCHEF CHILE</title>
-    <desc lang="es">La cocina más famosa del mundo abre sus puertas en Chile, donde cocineros aficionados compiten para convertirse en el próximo MasterChef.</desc>
-    <category lang="es">Entretenimiento</category>
-    <episode-num system="xmltv_ns">4.35.</episode-num>
   </programme>
   <programme start="20261124190800 -0500" stop="20261124220000 -0500" air_time_start="20261124190800 -0500" air_time_end="20261124220000 -0500" start_utc="20261125000800 +0000" stop_utc="20261125030000 +0000" air_time_start_utc="20261125000800 +0000" air_time_end_utc="20261125030000 +0000" is_live="false" channel="TNT_PAN.co">
     <title lang="es">RÁPIDOS Y FURIOSOS 9</title>
@@ -543,18 +41,6 @@
     <category lang="es">Acción</category>
     <category lang="es">Crimen</category>
     <category lang="es">Suspenso</category>
-  </programme>
-  <programme start="20261124195600 -0300" stop="20261124212300 -0300" air_time_start="20261124195600 -0300" air_time_end="20261124212300 -0300" start_utc="20261124225600 +0000" stop_utc="20261125002300 +0000" air_time_start_utc="20261124225600 +0000" air_time_end_utc="20261125002300 +0000" is_live="false" channel="TNT_AR.ar">
-    <title lang="es">MASTERCHEF CELEBRITY ARGENTINA</title>
-    <desc lang="es">¡Se encienden las hornallas! Bajo la conducción de Wanda Nara, llega la nueva temporada de esta intensa competencia de sabores, donde distintas celebridades despliegan su talento culinario ante un exigente jurado de chefs. Damián Betular, Maru Botana y Germán Martitegui serán los encargados de evaluar cada plato y definir quiénes tienen lo necesario para seguir en competencia y quienes deberán que entregar su delantal.</desc>
-    <category lang="es">Animación</category>
-    <episode-num system="xmltv_ns">.38.</episode-num>
-  </programme>
-  <programme start="20261124200200 -0300" stop="20261124210100 -0300" air_time_start="20261124200200 -0300" air_time_end="20261124210100 -0300" start_utc="20261124230200 +0000" stop_utc="20261125000100 +0000" air_time_start_utc="20261124230200 +0000" air_time_end_utc="20261125000100 +0000" is_live="false" channel="TNT_BR.br">
-    <title lang="pt">CONVOCADOS</title>
-    <desc lang="pt">Comandado por Taynah Espinoza, o Convocados reúne o elenco da TNT Sports em uma cobertura jornalística de alto nível que vai ao ar  após cada rodada da UEFA Champions League. O programa analisa os principais lances, as decisões táticas e os desdobramentos dos grandes confrontos europeus, além de entrevistas com os  personagens que escreveram a história de um dia de Champions.</desc>
-    <category lang="pt">Animación</category>
-    <episode-num system="xmltv_ns">.9.</episode-num>
   </programme>
   <programme start="20261124205200 -0400" stop="20261125000000 -0400" air_time_start="20261124205200 -0400" air_time_end="20261125000000 -0400" start_utc="20261125005200 +0000" stop_utc="20261125040000 +0000" air_time_start_utc="20261125005200 +0000" air_time_end_utc="20261125040000 +0000" is_live="false" channel="TNT_CL.cl">
     <title lang="es">RÁPIDOS Y FURIOSOS 9</title>
@@ -3296,5 +2782,841 @@
     <title lang="pt">TNT BUZZ</title>
     <category lang="pt">Animación</category>
     <episode-num system="xmltv_ns">14.117.</episode-num>
+  </programme>
+  <programme start="20261128060000 -0300" stop="20261128060200 -0300" air_time_start="20261128060000 -0300" air_time_end="20261128060200 -0300" start_utc="20261128090000 +0000" stop_utc="20261128090200 +0000" air_time_start_utc="20261128090000 +0000" air_time_end_utc="20261128090200 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TNT BUZZ</title>
+    <category lang="pt">Animación</category>
+    <episode-num system="xmltv_ns">14.98.</episode-num>
+  </programme>
+  <programme start="20261128060000 -0300" stop="20261128060800 -0300" air_time_start="20261128060000 -0300" air_time_end="20261128060800 -0300" start_utc="20261128090000 +0000" stop_utc="20261128090800 +0000" air_time_start_utc="20261128090000 +0000" air_time_end_utc="20261128090800 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">.52.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/smcIgOTLVAEmHtM3gI2hamM3Ezi.jpg" />
+  </programme>
+  <programme start="20261128060000 -0400" stop="20261128075000 -0400" air_time_start="20261128060000 -0400" air_time_end="20261128075000 -0400" start_utc="20261128100000 +0000" stop_utc="20261128115000 +0000" air_time_start_utc="20261128100000 +0000" air_time_end_utc="20261128115000 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">UNA PAREJA DISPAREJA</title>
+    <sub-title lang="es">SKIPTRACE</sub-title>
+    <desc lang="es">Dos hermanos que son el completo opuesto del otro, deberán adaptar sus incompatibles estilos de vida en pro de la buena convivencia.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/tAl5nVeZe7Glx0LN93SxQDphl7Z.jpg" />
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128060200 -0500" air_time_start="20261128060000 -0500" air_time_end="20261128060200 -0500" start_utc="20261128110000 +0000" stop_utc="20261128110200 +0000" air_time_start_utc="20261128110000 +0000" air_time_end_utc="20261128110200 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">TNT BUZZ</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">14.102.</episode-num>
+  </programme>
+  <programme start="20261128060000 -0500" stop="20261128060500 -0500" air_time_start="20261128060000 -0500" air_time_end="20261128060500 -0500" start_utc="20261128110000 +0000" stop_utc="20261128110500 +0000" air_time_start_utc="20261128110000 +0000" air_time_end_utc="20261128110500 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">TNT BUZZ</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">14.125.</episode-num>
+  </programme>
+  <programme start="20261128060000 -0600" stop="20261128063900 -0600" air_time_start="20261128060000 -0600" air_time_end="20261128063900 -0600" start_utc="20261128120000 +0000" stop_utc="20261128123900 +0000" air_time_start_utc="20261128120000 +0000" air_time_end_utc="20261128123900 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">.16.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/smcIgOTLVAEmHtM3gI2hamM3Ezi.jpg" />
+  </programme>
+  <programme start="20261128060200 -0300" stop="20261128061600 -0300" air_time_start="20261128060200 -0300" air_time_end="20261128061600 -0300" start_utc="20261128090200 +0000" stop_utc="20261128091600 +0000" air_time_start_utc="20261128090200 +0000" air_time_end_utc="20261128091600 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+    <category lang="pt">Talk Show</category>
+    <category lang="pt">Notícias De Entretenimento</category>
+    <episode-num system="xmltv_ns">.57.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/smcIgOTLVAEmHtM3gI2hamM3Ezi.jpg" />
+  </programme>
+  <programme start="20261128060200 -0500" stop="20261128060500 -0500" air_time_start="20261128060200 -0500" air_time_end="20261128060500 -0500" start_utc="20261128110200 +0000" stop_utc="20261128110500 +0000" air_time_start_utc="20261128110200 +0000" air_time_end_utc="20261128110500 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">TNT BUZZ</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">14.104.</episode-num>
+  </programme>
+  <programme start="20261128060500 -0500" stop="20261128061800 -0500" air_time_start="20261128060500 -0500" air_time_end="20261128061800 -0500" start_utc="20261128110500 +0000" stop_utc="20261128111800 +0000" air_time_start_utc="20261128110500 +0000" air_time_end_utc="20261128111800 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">.49.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/smcIgOTLVAEmHtM3gI2hamM3Ezi.jpg" />
+  </programme>
+  <programme start="20261128060500 -0500" stop="20261128061200 -0500" air_time_start="20261128060500 -0500" air_time_end="20261128061200 -0500" start_utc="20261128110500 +0000" stop_utc="20261128111200 +0000" air_time_start_utc="20261128110500 +0000" air_time_end_utc="20261128111200 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">TNT BUZZ</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">14.127.</episode-num>
+  </programme>
+  <programme start="20261128060800 -0300" stop="20261128061000 -0300" air_time_start="20261128060800 -0300" air_time_end="20261128061000 -0300" start_utc="20261128090800 +0000" stop_utc="20261128091000 +0000" air_time_start_utc="20261128090800 +0000" air_time_end_utc="20261128091000 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">TNT BUZZ</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">14.102.</episode-num>
+  </programme>
+  <programme start="20261128061000 -0300" stop="20261128061200 -0300" air_time_start="20261128061000 -0300" air_time_end="20261128061200 -0300" start_utc="20261128091000 +0000" stop_utc="20261128091200 +0000" air_time_start_utc="20261128091000 +0000" air_time_end_utc="20261128091200 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">TNT BUZZ</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">14.103.</episode-num>
+  </programme>
+  <programme start="20261128061200 -0300" stop="20261128074700 -0300" air_time_start="20261128061200 -0300" air_time_end="20261128074700 -0300" start_utc="20261128091200 +0000" stop_utc="20261128104700 +0000" air_time_start_utc="20261128091200 +0000" air_time_end_utc="20261128104700 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">MISFITS</title>
+    <desc lang="es">Luego de escapar de una cárcel de máxima seguridad, el famoso delincuente Richard Pace (Pierce Brosnan) es reclutado por una banda de ladrones al estilo Robin Hood para realizar el robo más importante del siglo y de paso desfinanciar a grupos terroristas a nivel mundial. Del director de "Duro de Matar 2" y con la participación de Tim Roth.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/6FzuNrApEc71aJ3CwwkpadbNled.jpg" />
+  </programme>
+  <programme start="20261128061200 -0500" stop="20261128061900 -0500" air_time_start="20261128061200 -0500" air_time_end="20261128061900 -0500" start_utc="20261128111200 +0000" stop_utc="20261128111900 +0000" air_time_start_utc="20261128111200 +0000" air_time_end_utc="20261128111900 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">TNT BUZZ</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">14.129.</episode-num>
+  </programme>
+  <programme start="20261128061600 -0300" stop="20261128080600 -0300" air_time_start="20261128061600 -0300" air_time_end="20261128080600 -0300" start_utc="20261128091600 +0000" stop_utc="20261128110600 +0000" air_time_start_utc="20261128091600 +0000" air_time_end_utc="20261128110600 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">Fora do Rumo</title>
+    <sub-title lang="pt">Skiptrace</sub-title>
+    <desc lang="pt">Em busca de provas que o ajudem a colocar um famoso criminoso atrás das grades definitivamente, um detetive de Hong Kong (Jackie Chan) precisa unir forças com seu rival, um apostador e fugitivo americano (Johnny Knoxville), se quiser atravessar são e salvo a Mongólia profunda e regressar à China.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/tAl5nVeZe7Glx0LN93SxQDphl7Z.jpg" />
+  </programme>
+  <programme start="20261128061800 -0500" stop="20261128062900 -0500" air_time_start="20261128061800 -0500" air_time_end="20261128062900 -0500" start_utc="20261128111800 +0000" stop_utc="20261128112900 +0000" air_time_start_utc="20261128111800 +0000" air_time_end_utc="20261128112900 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">.50.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/smcIgOTLVAEmHtM3gI2hamM3Ezi.jpg" />
+  </programme>
+  <programme start="20261128061900 -0500" stop="20261128062000 -0500" air_time_start="20261128061900 -0500" air_time_end="20261128062000 -0500" start_utc="20261128111900 +0000" stop_utc="20261128112000 +0000" air_time_start_utc="20261128111900 +0000" air_time_end_utc="20261128112000 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">TNT BUZZ</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">14.131.</episode-num>
+  </programme>
+  <programme start="20261128062000 -0500" stop="20261128070500 -0500" air_time_start="20261128062000 -0500" air_time_end="20261128070500 -0500" start_utc="20261128112000 +0000" stop_utc="20261128120500 +0000" air_time_start_utc="20261128112000 +0000" air_time_end_utc="20261128120500 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">.16.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/smcIgOTLVAEmHtM3gI2hamM3Ezi.jpg" />
+  </programme>
+  <programme start="20261128062900 -0500" stop="20261128081800 -0500" air_time_start="20261128062900 -0500" air_time_end="20261128081800 -0500" start_utc="20261128112900 +0000" stop_utc="20261128131800 +0000" air_time_start_utc="20261128112900 +0000" air_time_end_utc="20261128131800 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">UNA PAREJA DISPAREJA</title>
+    <sub-title lang="es">SKIPTRACE</sub-title>
+    <desc lang="es">Dos hermanos que son el completo opuesto del otro, deberán adaptar sus incompatibles estilos de vida en pro de la buena convivencia.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/tAl5nVeZe7Glx0LN93SxQDphl7Z.jpg" />
+  </programme>
+  <programme start="20261128063900 -0600" stop="20261128081300 -0600" air_time_start="20261128063900 -0600" air_time_end="20261128081300 -0600" start_utc="20261128123900 +0000" stop_utc="20261128141300 +0000" air_time_start_utc="20261128123900 +0000" air_time_end_utc="20261128141300 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">VENOM: CARNAGE LIBERADO</title>
+    <sub-title lang="es">VENOM: LET THERE BE CARNAGE</sub-title>
+    <desc lang="es">Después de armar un escándalo, el periodista de investigación Eddie Brock intenta volver a la acción y recuperar su antigua vida. Pero accidentalmente se convierte en el anfitrión de Venom, un simbionte alienígena violento y superpoderoso.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/eENEf62tMXbhyVvdcXlnQz2wcuT.jpg" />
+  </programme>
+  <programme start="20261128070500 -0500" stop="20261128074800 -0500" air_time_start="20261128070500 -0500" air_time_end="20261128074800 -0500" start_utc="20261128120500 +0000" stop_utc="20261128124800 +0000" air_time_start_utc="20261128120500 +0000" air_time_end_utc="20261128124800 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">.17.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/smcIgOTLVAEmHtM3gI2hamM3Ezi.jpg" />
+  </programme>
+  <programme start="20261128074700 -0300" stop="20261128092200 -0300" air_time_start="20261128074700 -0300" air_time_end="20261128092200 -0300" start_utc="20261128104700 +0000" stop_utc="20261128122200 +0000" air_time_start_utc="20261128104700 +0000" air_time_end_utc="20261128122200 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">SHREK</title>
+    <desc lang="es">En el pantano alejado donde vive, el ogro verde y solitario Shrek recibe la visita de una horda de personajes de cuentos de hadas que dicen que sus casas son amenazadas por el diabólico Lord Farquaad. Para empeorar las cosas, Shrek está en la misma situación y, acompañado por un burro fiel, pero que no para de hablar, decide hacerle una propuesta al villano: rescatará a la bella princesa Fiona, que fue prometida a Farquaad. Pero, cuando Shrek y el burro logran rescatarla, queda claro que no solo él está enamorado de ella, sino que Fiona también guarda un gran secreto.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/2Biv1mSzaaxWOqvcnDZn4GcYEAb.jpg" />
+  </programme>
+  <programme start="20261128074800 -0500" stop="20261128093200 -0500" air_time_start="20261128074800 -0500" air_time_end="20261128093200 -0500" start_utc="20261128124800 +0000" stop_utc="20261128143200 +0000" air_time_start_utc="20261128124800 +0000" air_time_end_utc="20261128143200 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">SHREK</title>
+    <desc lang="es">En el pantano alejado donde vive, el ogro verde y solitario Shrek recibe la visita de una horda de personajes de cuentos de hadas que dicen que sus casas son amenazadas por el diabólico Lord Farquaad. Para empeorar las cosas, Shrek está en la misma situación y, acompañado por un burro fiel, pero que no para de hablar, decide hacerle una propuesta al villano: rescatará a la bella princesa Fiona, que fue prometida a Farquaad. Pero, cuando Shrek y el burro logran rescatarla, queda claro que no solo él está enamorado de ella, sino que Fiona también guarda un gran secreto.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/2Biv1mSzaaxWOqvcnDZn4GcYEAb.jpg" />
+  </programme>
+  <programme start="20261128075000 -0400" stop="20261128080000 -0400" air_time_start="20261128075000 -0400" air_time_end="20261128080000 -0400" start_utc="20261128115000 +0000" stop_utc="20261128120000 +0000" air_time_start_utc="20261128115000 +0000" air_time_end_utc="20261128120000 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">.58.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/smcIgOTLVAEmHtM3gI2hamM3Ezi.jpg" />
+  </programme>
+  <programme start="20261128080000 -0400" stop="20261128081300 -0400" air_time_start="20261128080000 -0400" air_time_end="20261128081300 -0400" start_utc="20261128120000 +0000" stop_utc="20261128121300 +0000" air_time_start_utc="20261128120000 +0000" air_time_end_utc="20261128121300 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">.59.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/smcIgOTLVAEmHtM3gI2hamM3Ezi.jpg" />
+  </programme>
+  <programme start="20261128080600 -0300" stop="20261128100800 -0300" air_time_start="20261128080600 -0300" air_time_end="20261128100800 -0300" start_utc="20261128110600 +0000" stop_utc="20261128130800 +0000" air_time_start_utc="20261128110600 +0000" air_time_end_utc="20261128130800 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">Efeito Dominó</title>
+    <sub-title lang="pt">The Bank Job</sub-title>
+    <desc lang="pt">Em 1971, Terry (Jason Statham) é recrutado para roubar um banco em Londres. O plano visa recuperar fotos comprometedoras da realeza escondidas em um cofre, desencadeando eventos que colocam em evidência segredos perigosos.</desc>
+    <category lang="pt">Crime</category>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/ynnarxTMs8jWKV9GK0SpUhGNCgH.jpg" />
+  </programme>
+  <programme start="20261128081300 -0400" stop="20261128081600 -0400" air_time_start="20261128081300 -0400" air_time_end="20261128081600 -0400" start_utc="20261128121300 +0000" stop_utc="20261128121600 +0000" air_time_start_utc="20261128121300 +0000" air_time_end_utc="20261128121600 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">TNT BUZZ</title>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">14.120.</episode-num>
+  </programme>
+  <programme start="20261128081300 -0600" stop="20261128094600 -0600" air_time_start="20261128081300 -0600" air_time_end="20261128094600 -0600" start_utc="20261128141300 +0000" stop_utc="20261128154600 +0000" air_time_start_utc="20261128141300 +0000" air_time_end_utc="20261128154600 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">SHREK</title>
+    <desc lang="es">En el pantano alejado donde vive, el ogro verde y solitario Shrek recibe la visita de una horda de personajes de cuentos de hadas que dicen que sus casas son amenazadas por el diabólico Lord Farquaad. Para empeorar las cosas, Shrek está en la misma situación y, acompañado por un burro fiel, pero que no para de hablar, decide hacerle una propuesta al villano: rescatará a la bella princesa Fiona, que fue prometida a Farquaad. Pero, cuando Shrek y el burro logran rescatarla, queda claro que no solo él está enamorado de ella, sino que Fiona también guarda un gran secreto.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/2Biv1mSzaaxWOqvcnDZn4GcYEAb.jpg" />
+  </programme>
+  <programme start="20261128081600 -0400" stop="20261128095700 -0400" air_time_start="20261128081600 -0400" air_time_end="20261128095700 -0400" start_utc="20261128121600 +0000" stop_utc="20261128135700 +0000" air_time_start_utc="20261128121600 +0000" air_time_end_utc="20261128135700 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">SHREK</title>
+    <desc lang="es">En el pantano alejado donde vive, el ogro verde y solitario Shrek recibe la visita de una horda de personajes de cuentos de hadas que dicen que sus casas son amenazadas por el diabólico Lord Farquaad. Para empeorar las cosas, Shrek está en la misma situación y, acompañado por un burro fiel, pero que no para de hablar, decide hacerle una propuesta al villano: rescatará a la bella princesa Fiona, que fue prometida a Farquaad. Pero, cuando Shrek y el burro logran rescatarla, queda claro que no solo él está enamorado de ella, sino que Fiona también guarda un gran secreto.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/2Biv1mSzaaxWOqvcnDZn4GcYEAb.jpg" />
+  </programme>
+  <programme start="20261128081800 -0500" stop="20261128095800 -0500" air_time_start="20261128081800 -0500" air_time_end="20261128095800 -0500" start_utc="20261128131800 +0000" stop_utc="20261128145800 +0000" air_time_start_utc="20261128131800 +0000" air_time_end_utc="20261128145800 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">SHREK</title>
+    <desc lang="es">En el pantano alejado donde vive, el ogro verde y solitario Shrek recibe la visita de una horda de personajes de cuentos de hadas que dicen que sus casas son amenazadas por el diabólico Lord Farquaad. Para empeorar las cosas, Shrek está en la misma situación y, acompañado por un burro fiel, pero que no para de hablar, decide hacerle una propuesta al villano: rescatará a la bella princesa Fiona, que fue prometida a Farquaad. Pero, cuando Shrek y el burro logran rescatarla, queda claro que no solo él está enamorado de ella, sino que Fiona también guarda un gran secreto.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/2Biv1mSzaaxWOqvcnDZn4GcYEAb.jpg" />
+  </programme>
+  <programme start="20261128092200 -0300" stop="20261128110200 -0300" air_time_start="20261128092200 -0300" air_time_end="20261128110200 -0300" start_utc="20261128122200 +0000" stop_utc="20261128140200 +0000" air_time_start_utc="20261128122200 +0000" air_time_end_utc="20261128140200 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">SHREK 2</title>
+    <desc lang="es">Poco después de su luna de miel, Shrek y la princesa Fiona reciben una invitación para visitar a sus padres, el rey y la reina del Reino Muy, Muy Lejano. Junto con el burro, que no se despega de ellos, los recién casados siguen viaje. Pero, cuando llegan, Shrek y el rey no logran entenderse y el matrimonio se pone tenso. Para empeorar las cosas, el Hada Madrina descubre que Fiona y Shrek se casaron y le recuerda al rey un acuerdo que ellos hicieron años atrás, de que Fiona estaba prometida al hijo del hada, el Príncipe Encantador. Ahora, el monarca deberá pedir ayuda al célebre matador de ogros 'Gato con Botas' para que la historia tenga el fin que desea.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/b33E34IywGC4NWYY3G1ck7uehNF.jpg" />
+  </programme>
+  <programme start="20261128093200 -0500" stop="20261128110900 -0500" air_time_start="20261128093200 -0500" air_time_end="20261128110900 -0500" start_utc="20261128143200 +0000" stop_utc="20261128160900 +0000" air_time_start_utc="20261128143200 +0000" air_time_end_utc="20261128160900 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">SHREK 2</title>
+    <desc lang="es">Poco después de su luna de miel, Shrek y la princesa Fiona reciben una invitación para visitar a sus padres, el rey y la reina del Reino Muy, Muy Lejano. Junto con el burro, que no se despega de ellos, los recién casados siguen viaje. Pero, cuando llegan, Shrek y el rey no logran entenderse y el matrimonio se pone tenso. Para empeorar las cosas, el Hada Madrina descubre que Fiona y Shrek se casaron y le recuerda al rey un acuerdo que ellos hicieron años atrás, de que Fiona estaba prometida al hijo del hada, el Príncipe Encantador. Ahora, el monarca deberá pedir ayuda al célebre matador de ogros 'Gato con Botas' para que la historia tenga el fin que desea.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/b33E34IywGC4NWYY3G1ck7uehNF.jpg" />
+  </programme>
+  <programme start="20261128094600 -0600" stop="20261128112000 -0600" air_time_start="20261128094600 -0600" air_time_end="20261128112000 -0600" start_utc="20261128154600 +0000" stop_utc="20261128172000 +0000" air_time_start_utc="20261128154600 +0000" air_time_end_utc="20261128172000 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">SHREK 2</title>
+    <desc lang="es">Poco después de su luna de miel, Shrek y la princesa Fiona reciben una invitación para visitar a sus padres, el rey y la reina del Reino Muy, Muy Lejano. Junto con el burro, que no se despega de ellos, los recién casados siguen viaje. Pero, cuando llegan, Shrek y el rey no logran entenderse y el matrimonio se pone tenso. Para empeorar las cosas, el Hada Madrina descubre que Fiona y Shrek se casaron y le recuerda al rey un acuerdo que ellos hicieron años atrás, de que Fiona estaba prometida al hijo del hada, el Príncipe Encantador. Ahora, el monarca deberá pedir ayuda al célebre matador de ogros 'Gato con Botas' para que la historia tenga el fin que desea.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/b33E34IywGC4NWYY3G1ck7uehNF.jpg" />
+  </programme>
+  <programme start="20261128095700 -0400" stop="20261128114100 -0400" air_time_start="20261128095700 -0400" air_time_end="20261128114100 -0400" start_utc="20261128135700 +0000" stop_utc="20261128154100 +0000" air_time_start_utc="20261128135700 +0000" air_time_end_utc="20261128154100 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">SHREK 2</title>
+    <desc lang="es">Poco después de su luna de miel, Shrek y la princesa Fiona reciben una invitación para visitar a sus padres, el rey y la reina del Reino Muy, Muy Lejano. Junto con el burro, que no se despega de ellos, los recién casados siguen viaje. Pero, cuando llegan, Shrek y el rey no logran entenderse y el matrimonio se pone tenso. Para empeorar las cosas, el Hada Madrina descubre que Fiona y Shrek se casaron y le recuerda al rey un acuerdo que ellos hicieron años atrás, de que Fiona estaba prometida al hijo del hada, el Príncipe Encantador. Ahora, el monarca deberá pedir ayuda al célebre matador de ogros 'Gato con Botas' para que la historia tenga el fin que desea.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/b33E34IywGC4NWYY3G1ck7uehNF.jpg" />
+  </programme>
+  <programme start="20261128095800 -0500" stop="20261128114400 -0500" air_time_start="20261128095800 -0500" air_time_end="20261128114400 -0500" start_utc="20261128145800 +0000" stop_utc="20261128164400 +0000" air_time_start_utc="20261128145800 +0000" air_time_end_utc="20261128164400 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">SHREK 2</title>
+    <desc lang="es">Poco después de su luna de miel, Shrek y la princesa Fiona reciben una invitación para visitar a sus padres, el rey y la reina del Reino Muy, Muy Lejano. Junto con el burro, que no se despega de ellos, los recién casados siguen viaje. Pero, cuando llegan, Shrek y el rey no logran entenderse y el matrimonio se pone tenso. Para empeorar las cosas, el Hada Madrina descubre que Fiona y Shrek se casaron y le recuerda al rey un acuerdo que ellos hicieron años atrás, de que Fiona estaba prometida al hijo del hada, el Príncipe Encantador. Ahora, el monarca deberá pedir ayuda al célebre matador de ogros 'Gato con Botas' para que la historia tenga el fin que desea.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/b33E34IywGC4NWYY3G1ck7uehNF.jpg" />
+  </programme>
+  <programme start="20261128100800 -0300" stop="20261128104000 -0300" air_time_start="20261128100800 -0300" air_time_end="20261128104000 -0300" start_utc="20261128130800 +0000" stop_utc="20261128134000 +0000" air_time_start_utc="20261128130800 +0000" air_time_end_utc="20261128134000 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">DE OLHO NA LIGA</title>
+    <desc lang="pt">O De Olho na Liga é um resumo do que aconteceu de mais importante na semana na Liga dos Campeões da Europa. São 30 minutos de revista eletrônica semanal que leva até você os bastidores dos grandes jogos, os personagens mais marcantes das partidas, a festa das torcidas e as histórias por trás dos momentos inesquecíveis da competição de clubes mais importante do mundo.</desc>
+    <category lang="pt">Esporte</category>
+    <episode-num system="xmltv_ns">.408.</episode-num>
+  </programme>
+  <programme start="20261128104000 -0300" stop="20261128110500 -0300" air_time_start="20261128104000 -0300" air_time_end="20261128110500 -0300" start_utc="20261128134000 +0000" stop_utc="20261128140500 +0000" air_time_start_utc="20261128134000 +0000" air_time_end_utc="20261128140500 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">O Que Conta é o Sangue</sub-title>
+    <sub-title lang="en">BLOOD IS THICKER THAN MUD</sub-title>
+    <desc lang="pt">Will e Carlton têm que realizar tarefas humilhantes para entrar para uma fraternidade na universidade, mas o problema parece ser mesmo a família rica de Carlton.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">3.7.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/n5uqMpik60V8renGld1SxIIqahr.jpg" />
+  </programme>
+  <programme start="20261128110200 -0300" stop="20261128124200 -0300" air_time_start="20261128110200 -0300" air_time_end="20261128124200 -0300" start_utc="20261128140200 +0000" stop_utc="20261128154200 +0000" air_time_start_utc="20261128140200 +0000" air_time_end_utc="20261128154200 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">SHREK TERCERO</title>
+    <desc lang="es">Cuando Shrek y Fiona están a punto de disfrutar su momento "felices para siempre", la muerte repentina del Rey Harold hace que el reacio ogro sea elegido para asumir el trono. Pero, como Fiona está embarazada, Shrek decide salir a buscar al verdadero heredero, Artie, para poder concentrarse en la paternidad sin tener que preocuparse con las obligaciones que involucran dirigir el reino. Cuando parte junto al burro y al Gato con Botas para buscar a Artie, el bello Príncipe Encantador se une a los villanos de los cuentos de hadas con la intención de quedarse con el trono. Ahora, Fiona deberá pedir ayuda a las princesas guerreras Blanca Nieves, Bella Durmiente, Rapunzel y Cenicienta, para impedir el acceso al castillo hasta la llegada de su amado marido.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg" />
+  </programme>
+  <programme start="20261128110500 -0300" stop="20261128113000 -0300" air_time_start="20261128110500 -0300" air_time_end="20261128113000 -0300" start_utc="20261128140500 +0000" stop_utc="20261128143000 +0000" air_time_start_utc="20261128140500 +0000" air_time_end_utc="20261128143000 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">Frentes Quentes</sub-title>
+    <sub-title lang="en">FRESH PRINCE AFTER DARK</sub-title>
+    <desc lang="pt">Quando Hilary é convidada a posar para a Playboy, Will e Carlton têm a chance de conhecer Hugh Hefner e suas belas ¿coelhinhas¿ na mansão da Playboy.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">3.8.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/mnXycA7BoAinlW4vkm0tBo8n9AY.jpg" />
+  </programme>
+  <programme start="20261128110900 -0500" stop="20261128130000 -0500" air_time_start="20261128110900 -0500" air_time_end="20261128130000 -0500" start_utc="20261128160900 +0000" stop_utc="20261128180000 +0000" air_time_start_utc="20261128160900 +0000" air_time_end_utc="20261128180000 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">SHREK TERCERO</title>
+    <desc lang="es">Cuando Shrek y Fiona están a punto de disfrutar su momento "felices para siempre", la muerte repentina del Rey Harold hace que el reacio ogro sea elegido para asumir el trono. Pero, como Fiona está embarazada, Shrek decide salir a buscar al verdadero heredero, Artie, para poder concentrarse en la paternidad sin tener que preocuparse con las obligaciones que involucran dirigir el reino. Cuando parte junto al burro y al Gato con Botas para buscar a Artie, el bello Príncipe Encantador se une a los villanos de los cuentos de hadas con la intención de quedarse con el trono. Ahora, Fiona deberá pedir ayuda a las princesas guerreras Blanca Nieves, Bella Durmiente, Rapunzel y Cenicienta, para impedir el acceso al castillo hasta la llegada de su amado marido.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg" />
+  </programme>
+  <programme start="20261128112000 -0600" stop="20261128113000 -0600" air_time_start="20261128112000 -0600" air_time_end="20261128113000 -0600" start_utc="20261128172000 +0000" stop_utc="20261128173000 +0000" air_time_start_utc="20261128172000 +0000" air_time_end_utc="20261128173000 +0000" is_live="false" channel="TNT_MX.mx">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20261128113000 -0300" stop="20261128115700 -0300" air_time_start="20261128113000 -0300" air_time_end="20261128115700 -0300" start_utc="20261128143000 +0000" stop_utc="20261128145700 +0000" air_time_start_utc="20261128143000 +0000" air_time_end_utc="20261128145700 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">Não Mexa com o Meu Porco</sub-title>
+    <sub-title lang="en">NOT WITH MY PIG, YOU DON'T</sub-title>
+    <desc lang="pt">Os pais de Philip chegam para visitá-lo, mas as histórias que contam sobre suas origens pobres e seu porco de estimação o deixam constrangido.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/f9xcqTuSwx71glpUAb51JCjdEA8.jpg" />
+  </programme>
+  <programme start="20261128113000 -0600" stop="20261128133000 -0600" air_time_start="20261128113000 -0600" air_time_end="20261128133000 -0600" start_utc="20261128173000 +0000" stop_utc="20261128193000 +0000" air_time_start_utc="20261128173000 +0000" air_time_end_utc="20261128193000 +0000" is_live="false" channel="TNT_MX.mx">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.56.</episode-num>
+  </programme>
+  <programme start="20261128114100 -0400" stop="20261128132600 -0400" air_time_start="20261128114100 -0400" air_time_end="20261128132600 -0400" start_utc="20261128154100 +0000" stop_utc="20261128172600 +0000" air_time_start_utc="20261128154100 +0000" air_time_end_utc="20261128172600 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">SHREK TERCERO</title>
+    <desc lang="es">Cuando Shrek y Fiona están a punto de disfrutar su momento "felices para siempre", la muerte repentina del Rey Harold hace que el reacio ogro sea elegido para asumir el trono. Pero, como Fiona está embarazada, Shrek decide salir a buscar al verdadero heredero, Artie, para poder concentrarse en la paternidad sin tener que preocuparse con las obligaciones que involucran dirigir el reino. Cuando parte junto al burro y al Gato con Botas para buscar a Artie, el bello Príncipe Encantador se une a los villanos de los cuentos de hadas con la intención de quedarse con el trono. Ahora, Fiona deberá pedir ayuda a las princesas guerreras Blanca Nieves, Bella Durmiente, Rapunzel y Cenicienta, para impedir el acceso al castillo hasta la llegada de su amado marido.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg" />
+  </programme>
+  <programme start="20261128114400 -0500" stop="20261128132800 -0500" air_time_start="20261128114400 -0500" air_time_end="20261128132800 -0500" start_utc="20261128164400 +0000" stop_utc="20261128182800 +0000" air_time_start_utc="20261128164400 +0000" air_time_end_utc="20261128182800 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">SHREK TERCERO</title>
+    <desc lang="es">Cuando Shrek y Fiona están a punto de disfrutar su momento "felices para siempre", la muerte repentina del Rey Harold hace que el reacio ogro sea elegido para asumir el trono. Pero, como Fiona está embarazada, Shrek decide salir a buscar al verdadero heredero, Artie, para poder concentrarse en la paternidad sin tener que preocuparse con las obligaciones que involucran dirigir el reino. Cuando parte junto al burro y al Gato con Botas para buscar a Artie, el bello Príncipe Encantador se une a los villanos de los cuentos de hadas con la intención de quedarse con el trono. Ahora, Fiona deberá pedir ayuda a las princesas guerreras Blanca Nieves, Bella Durmiente, Rapunzel y Cenicienta, para impedir el acceso al castillo hasta la llegada de su amado marido.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg" />
+  </programme>
+  <programme start="20261128115700 -0300" stop="20261128122200 -0300" air_time_start="20261128115700 -0300" air_time_end="20261128122200 -0300" start_utc="20261128145700 +0000" stop_utc="20261128152200 +0000" air_time_start_utc="20261128145700 +0000" air_time_end_utc="20261128152200 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">UM MALUCO NO PEDAÇO</title>
+    <sub-title lang="pt">O Inimigo Interno</sub-title>
+    <sub-title lang="en">HOME IS WHERE THE HEART ATTACK IS</sub-title>
+    <desc lang="pt">Philip precisa emagrecer, mas suborna Will para lhe comprar um hambúrguer e acaba tendo um infarto.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">3.9.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/w9hcfx4yivRZqYEpbjcQBoo7M6e.jpg" />
+  </programme>
+  <programme start="20261128122200 -0300" stop="20261128124500 -0300" air_time_start="20261128122200 -0300" air_time_end="20261128124500 -0300" start_utc="20261128152200 +0000" stop_utc="20261128154500 +0000" air_time_start_utc="20261128152200 +0000" air_time_end_utc="20261128154500 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">Todo Mundo Odeia o Natal</sub-title>
+    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Chris atinge Greg ao fazer o test drive no carro do zelador, e Greg acaba no hospital com uma perna quebrada. Com os pais de Greg fora da cidade, Rochelle decide interromper as férias da família. Julius precisa descobrir uma forma de entreter Drew e Tonya enquanto chove o tempo todo durante as férias na praia.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">3.20.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/fG1L1p7ThZEmFXlkWKEUeK6RZzI.jpg" />
+  </programme>
+  <programme start="20261128124200 -0300" stop="20261128142200 -0300" air_time_start="20261128124200 -0300" air_time_end="20261128142200 -0300" start_utc="20261128154200 +0000" stop_utc="20261128172200 +0000" air_time_start_utc="20261128154200 +0000" air_time_end_utc="20261128172200 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">SHREK PARA SIEMPRE</title>
+    <desc lang="es">Con el deseo de volver a los tiempos en los que era un aterrador y despreocupado ogro| Shrek firma un contrato con el malvado y ambicioso Rumpelstiltskin para volver a ser el mismo de antes. Sin embargo| el pacto termina revolucionando su vida y la de los que lo rodean: Burro ya no recuerda a su mejor amigo| Fiona es una princesa guerrera que no siente nada por él y el Gato con Botas es la mascota consentida de Fiona. Ahora Shrek tiene sólo veinticuatro horas para recuperar a sus amigos y esposa y revertir el contrato para recobrar su vida y salvar a su reino del malvado villano.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familiar</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/uzzTystB8lL0mRDII5Sfs5HxgkI.jpg" />
+  </programme>
+  <programme start="20261128124500 -0300" stop="20261128130800 -0300" air_time_start="20261128124500 -0300" air_time_end="20261128130800 -0300" start_utc="20261128154500 +0000" stop_utc="20261128160800 +0000" air_time_start_utc="20261128154500 +0000" air_time_end_utc="20261128160800 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">Todo Mundo Odeia o Natal</sub-title>
+    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Na última semana de escola, Chris é informado que se chegar mais uma vez atrasado, terá que repetir o 10º ano. Chris faz de tudo para chegar à escola na hora certa, mas perde o ônibus e chega atrasado. Drew decide fazer um teste para o time amador Amateur Night, na Apollo, mas primeiro precisa ter talento.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">3.21.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/9O1RzoU6OTkehGIAuJ3bMh5sbPP.jpg" />
+  </programme>
+  <programme start="20261128130000 -0500" stop="20261128145500 -0500" air_time_start="20261128130000 -0500" air_time_end="20261128145500 -0500" start_utc="20261128180000 +0000" stop_utc="20261128195500 +0000" air_time_start_utc="20261128180000 +0000" air_time_end_utc="20261128195500 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">SHREK PARA SIEMPRE</title>
+    <desc lang="es">Con el deseo de volver a los tiempos en los que era un aterrador y despreocupado ogro| Shrek firma un contrato con el malvado y ambicioso Rumpelstiltskin para volver a ser el mismo de antes. Sin embargo| el pacto termina revolucionando su vida y la de los que lo rodean: Burro ya no recuerda a su mejor amigo| Fiona es una princesa guerrera que no siente nada por él y el Gato con Botas es la mascota consentida de Fiona. Ahora Shrek tiene sólo veinticuatro horas para recuperar a sus amigos y esposa y revertir el contrato para recobrar su vida y salvar a su reino del malvado villano.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familiar</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/uzzTystB8lL0mRDII5Sfs5HxgkI.jpg" />
+  </programme>
+  <programme start="20261128130800 -0300" stop="20261128133300 -0300" air_time_start="20261128130800 -0300" air_time_end="20261128133300 -0300" start_utc="20261128160800 +0000" stop_utc="20261128163300 +0000" air_time_start_utc="20261128160800 +0000" air_time_end_utc="20261128163300 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">Todo Mundo Odeia o Natal</sub-title>
+    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/pV7Tdi55X82u0fmuu20gRxVsSYc.jpg" />
+  </programme>
+  <programme start="20261128132600 -0400" stop="20261128151300 -0400" air_time_start="20261128132600 -0400" air_time_end="20261128151300 -0400" start_utc="20261128172600 +0000" stop_utc="20261128191300 +0000" air_time_start_utc="20261128172600 +0000" air_time_end_utc="20261128191300 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">SHREK PARA SIEMPRE</title>
+    <desc lang="es">Con el deseo de volver a los tiempos en los que era un aterrador y despreocupado ogro| Shrek firma un contrato con el malvado y ambicioso Rumpelstiltskin para volver a ser el mismo de antes. Sin embargo| el pacto termina revolucionando su vida y la de los que lo rodean: Burro ya no recuerda a su mejor amigo| Fiona es una princesa guerrera que no siente nada por él y el Gato con Botas es la mascota consentida de Fiona. Ahora Shrek tiene sólo veinticuatro horas para recuperar a sus amigos y esposa y revertir el contrato para recobrar su vida y salvar a su reino del malvado villano.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familiar</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/uzzTystB8lL0mRDII5Sfs5HxgkI.jpg" />
+  </programme>
+  <programme start="20261128132800 -0500" stop="20261128151100 -0500" air_time_start="20261128132800 -0500" air_time_end="20261128151100 -0500" start_utc="20261128182800 +0000" stop_utc="20261128201100 +0000" air_time_start_utc="20261128182800 +0000" air_time_end_utc="20261128201100 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">SHREK PARA SIEMPRE</title>
+    <desc lang="es">Con el deseo de volver a los tiempos en los que era un aterrador y despreocupado ogro| Shrek firma un contrato con el malvado y ambicioso Rumpelstiltskin para volver a ser el mismo de antes. Sin embargo| el pacto termina revolucionando su vida y la de los que lo rodean: Burro ya no recuerda a su mejor amigo| Fiona es una princesa guerrera que no siente nada por él y el Gato con Botas es la mascota consentida de Fiona. Ahora Shrek tiene sólo veinticuatro horas para recuperar a sus amigos y esposa y revertir el contrato para recobrar su vida y salvar a su reino del malvado villano.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familiar</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/uzzTystB8lL0mRDII5Sfs5HxgkI.jpg" />
+  </programme>
+  <programme start="20261128133000 -0600" stop="20261128133600 -0600" air_time_start="20261128133000 -0600" air_time_end="20261128133600 -0600" start_utc="20261128193000 +0000" stop_utc="20261128193600 +0000" air_time_start_utc="20261128193000 +0000" air_time_end_utc="20261128193600 +0000" is_live="false" channel="TNT_MX.mx">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20261128133300 -0300" stop="20261128135700 -0300" air_time_start="20261128133300 -0300" air_time_end="20261128135700 -0300" start_utc="20261128163300 +0000" stop_utc="20261128165700 +0000" air_time_start_utc="20261128163300 +0000" air_time_end_utc="20261128165700 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TODO MUNDO ODEIA O CHRIS</title>
+    <sub-title lang="pt">Todo Mundo Odeia o Natal</sub-title>
+    <sub-title lang="en">EVERYBODY HATES CHRIS</sub-title>
+    <desc lang="pt">Inspirado pelas experiências da sua infância, o comediante Chris Rock narra sua adolescência, no começo dos anos 80, como o mais velho de três irmãos do Brooklyn. Nascido e criado em um bairro da classe trabalhadora, Chris é enviado pra estudar em um colégio dominado por brancos, onde deve se esforçar para encontrar seu lugar, ao mesmo tempo em que precisa cuidar dos seus irmãos em casa.</desc>
+    <category lang="pt">Comédia</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/wpMVn3oOL2T7TexBCfElMnDpzQX.jpg" />
+  </programme>
+  <programme start="20261128133600 -0600" stop="20261128142700 -0600" air_time_start="20261128133600 -0600" air_time_end="20261128142700 -0600" start_utc="20261128193600 +0000" stop_utc="20261128202700 +0000" air_time_start_utc="20261128193600 +0000" air_time_end_utc="20261128202700 +0000" is_live="false" channel="TNT_MX.mx">
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  </programme>
+  <programme start="20261128135700 -0300" stop="20261128153100 -0300" air_time_start="20261128135700 -0300" air_time_end="20261128153100 -0300" start_utc="20261128165700 +0000" stop_utc="20261128183100 +0000" air_time_start_utc="20261128165700 +0000" air_time_end_utc="20261128183100 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">SHREK</title>
+    <sub-title lang="pt">Episódio 1</sub-title>
+    <sub-title lang="en">Shrek</sub-title>
+    <desc lang="pt">Vivendo em um pântano distante, o ogro verde e solitário Shrek recebe a visita de uma horda de personagens dos contos de fadas que afirmam que suas casas estão sendo ameaçadas pelo diabólico Lorde Farquaad. Para piorar, Shrek está na mesma situação e, acompanhado por um burro fiel, mas tagarela, ele decide fazer uma proposta ao vilão: resgatará a bela princesa Fiona, que está prometida para Farquaad. Mas, quando Shrek e o burro conseguem resgatá-la, fica claro que não somente ele está apaixonado por ela como também que Fiona guarda um grande segredo.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/2Biv1mSzaaxWOqvcnDZn4GcYEAb.jpg" />
+  </programme>
+  <programme start="20261128142200 -0300" stop="20261128162500 -0300" air_time_start="20261128142200 -0300" air_time_end="20261128162500 -0300" start_utc="20261128172200 +0000" stop_utc="20261128192500 +0000" air_time_start_utc="20261128172200 +0000" air_time_end_utc="20261128192500 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">GODZILLA Y KONG: EL NUEVO IMPERIO</title>
+    <sub-title lang="es">GODZILLA X KONG: THE NEW EMPIRE</sub-title>
+    <desc lang="es">¡Una épica combinación de titanes! Esta explosiva aventura sigue al colosal Godzilla y el poderoso Kong mientras enfrentan al enemigo más peligroso surgido de Tierra Hueca... uno que amenaza tanto su propia existencia como la nuestra.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/gvLG3Fnznkxl4SmYfcK8gUuqxM8.jpg" />
+  </programme>
+  <programme start="20261128142700 -0600" stop="20261128160900 -0600" air_time_start="20261128142700 -0600" air_time_end="20261128160900 -0600" start_utc="20261128202700 +0000" stop_utc="20261128220900 +0000" air_time_start_utc="20261128202700 +0000" air_time_end_utc="20261128220900 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">SHREK TERCERO</title>
+    <desc lang="es">Cuando Shrek y Fiona están a punto de disfrutar su momento "felices para siempre", la muerte repentina del Rey Harold hace que el reacio ogro sea elegido para asumir el trono. Pero, como Fiona está embarazada, Shrek decide salir a buscar al verdadero heredero, Artie, para poder concentrarse en la paternidad sin tener que preocuparse con las obligaciones que involucran dirigir el reino. Cuando parte junto al burro y al Gato con Botas para buscar a Artie, el bello Príncipe Encantador se une a los villanos de los cuentos de hadas con la intención de quedarse con el trono. Ahora, Fiona deberá pedir ayuda a las princesas guerreras Blanca Nieves, Bella Durmiente, Rapunzel y Cenicienta, para impedir el acceso al castillo hasta la llegada de su amado marido.</desc>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventuras</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg" />
+  </programme>
+  <programme start="20261128145500 -0500" stop="20261128172100 -0500" air_time_start="20261128145500 -0500" air_time_end="20261128172100 -0500" start_utc="20261128195500 +0000" stop_utc="20261128222100 +0000" air_time_start_utc="20261128195500 +0000" air_time_end_utc="20261128222100 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">GODZILLA Y KONG: EL NUEVO IMPERIO</title>
+    <sub-title lang="es">GODZILLA X KONG: THE NEW EMPIRE</sub-title>
+    <desc lang="es">¡Una épica combinación de titanes! Esta explosiva aventura sigue al colosal Godzilla y el poderoso Kong mientras enfrentan al enemigo más peligroso surgido de Tierra Hueca... uno que amenaza tanto su propia existencia como la nuestra.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/gvLG3Fnznkxl4SmYfcK8gUuqxM8.jpg" />
+  </programme>
+  <programme start="20261128151100 -0500" stop="20261128172600 -0500" air_time_start="20261128151100 -0500" air_time_end="20261128172600 -0500" start_utc="20261128201100 +0000" stop_utc="20261128222600 +0000" air_time_start_utc="20261128201100 +0000" air_time_end_utc="20261128222600 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">GODZILLA Y KONG: EL NUEVO IMPERIO</title>
+    <sub-title lang="es">GODZILLA X KONG: THE NEW EMPIRE</sub-title>
+    <desc lang="es">¡Una épica combinación de titanes! Esta explosiva aventura sigue al colosal Godzilla y el poderoso Kong mientras enfrentan al enemigo más peligroso surgido de Tierra Hueca... uno que amenaza tanto su propia existencia como la nuestra.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/gvLG3Fnznkxl4SmYfcK8gUuqxM8.jpg" />
+  </programme>
+  <programme start="20261128151300 -0400" stop="20261128172500 -0400" air_time_start="20261128151300 -0400" air_time_end="20261128172500 -0400" start_utc="20261128191300 +0000" stop_utc="20261128212500 +0000" air_time_start_utc="20261128191300 +0000" air_time_end_utc="20261128212500 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">GODZILLA Y KONG: EL NUEVO IMPERIO</title>
+    <sub-title lang="es">GODZILLA X KONG: THE NEW EMPIRE</sub-title>
+    <desc lang="es">¡Una épica combinación de titanes! Esta explosiva aventura sigue al colosal Godzilla y el poderoso Kong mientras enfrentan al enemigo más peligroso surgido de Tierra Hueca... uno que amenaza tanto su propia existencia como la nuestra.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/gvLG3Fnznkxl4SmYfcK8gUuqxM8.jpg" />
+  </programme>
+  <programme start="20261128153100 -0300" stop="20261128170400 -0300" air_time_start="20261128153100 -0300" air_time_end="20261128170400 -0300" start_utc="20261128183100 +0000" stop_utc="20261128200400 +0000" air_time_start_utc="20261128183100 +0000" air_time_end_utc="20261128200400 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">SHREK 2</title>
+    <desc lang="pt">Logo após sua lua de mel, Shrek e a princesa Fiona recebem um convite para visitar os pais dela, o rei e a rainha do Reino Muito, Muito Distante. Com o burro a tiracolo, os recém-casados seguem viagem. Mas, quando chegam, Shrek e o rei não conseguem se entender e o casamento começa a ficar tenso. Para piorar as coisas, a Fada Madrinha descobre que Fiona e Shrek se casaram e lembra o rei de um acordo que eles fizeram anos atrás, de que Fiona estava prometida para o filho dela, o Príncipe Encantado. Agora, o monarca deverá pedir a ajuda do célebre matador de ogros 'Gato de Botas' para que a história tenha o fim que ele deseja.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Comédia</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/b33E34IywGC4NWYY3G1ck7uehNF.jpg" />
+  </programme>
+  <programme start="20261128160900 -0600" stop="20261128181400 -0600" air_time_start="20261128160900 -0600" air_time_end="20261128181400 -0600" start_utc="20261128220900 +0000" stop_utc="20261129001400 +0000" air_time_start_utc="20261128220900 +0000" air_time_end_utc="20261129001400 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">GODZILLA Y KONG: EL NUEVO IMPERIO</title>
+    <sub-title lang="es">GODZILLA X KONG: THE NEW EMPIRE</sub-title>
+    <desc lang="es">¡Una épica combinación de titanes! Esta explosiva aventura sigue al colosal Godzilla y el poderoso Kong mientras enfrentan al enemigo más peligroso surgido de Tierra Hueca... uno que amenaza tanto su propia existencia como la nuestra.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/gvLG3Fnznkxl4SmYfcK8gUuqxM8.jpg" />
+  </programme>
+  <programme start="20261128162500 -0300" stop="20261128183000 -0300" air_time_start="20261128162500 -0300" air_time_end="20261128183000 -0300" start_utc="20261128192500 +0000" stop_utc="20261128213000 +0000" air_time_start_utc="20261128192500 +0000" air_time_end_utc="20261128213000 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">LA MOMIA: LA TUMBA DEL EMPERADOR DRAGÓN</title>
+    <sub-title lang="es">THE MUMMY: TOMB OF THE DRAGON EMPEROR</sub-title>
+    <desc lang="es">La franquicia de La Momia viaja a Asia cuando los O'Connell deben combatir al resucitado emperador Han y su legión de 10.000 guerreros.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/W034dd7w2malON26KWyZm4y37W.jpg" />
+  </programme>
+  <programme start="20261128170400 -0300" stop="20261128183900 -0300" air_time_start="20261128170400 -0300" air_time_end="20261128183900 -0300" start_utc="20261128200400 +0000" stop_utc="20261128213900 +0000" air_time_start_utc="20261128200400 +0000" air_time_end_utc="20261128213900 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">SHREK TERCEIRO</title>
+    <sub-title lang="pt">Shrek the Third</sub-title>
+    <desc lang="pt">Quando Shrek e Fiona estão prestes a curtir o seu momento "felizes para sempre", a morte repentina do Rei Harold faz com que o relutante ogro seja escolhido para assumir o trono. Mas, como Fiona está grávida, Shrek decide sair em busca do verdadeiro herdeiro, Artie, para poder se centrar na paternidade sem ter que se preocupar com as obrigações que envolvem presidir o reino. Quando ele parte ao lado do burro e do Gato de Botas para procurar Artie, o belo Príncipe Encantado se une aos vilões dos contos de fada com a intenção de assumir o trono. Agora, Fiona deverá pedir a ajuda das princesas guerreiras Branca de Neve, Bela Adormecida, Rapunzel e Cinderela, para impedir o acesso ao castelo até a chegada do seu amado marido.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Aventura</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg" />
+  </programme>
+  <programme start="20261128172100 -0500" stop="20261128193600 -0500" air_time_start="20261128172100 -0500" air_time_end="20261128193600 -0500" start_utc="20261128222100 +0000" stop_utc="20261129003600 +0000" air_time_start_utc="20261128222100 +0000" air_time_end_utc="20261129003600 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">LA MOMIA: LA TUMBA DEL EMPERADOR DRAGÓN</title>
+    <sub-title lang="es">THE MUMMY: TOMB OF THE DRAGON EMPEROR</sub-title>
+    <desc lang="es">La franquicia de La Momia viaja a Asia cuando los O'Connell deben combatir al resucitado emperador Han y su legión de 10.000 guerreros.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/W034dd7w2malON26KWyZm4y37W.jpg" />
+  </programme>
+  <programme start="20261128172500 -0400" stop="20261128193700 -0400" air_time_start="20261128172500 -0400" air_time_end="20261128193700 -0400" start_utc="20261128212500 +0000" stop_utc="20261128233700 +0000" air_time_start_utc="20261128212500 +0000" air_time_end_utc="20261128233700 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">LA MOMIA: LA TUMBA DEL EMPERADOR DRAGÓN</title>
+    <sub-title lang="es">THE MUMMY: TOMB OF THE DRAGON EMPEROR</sub-title>
+    <desc lang="es">La franquicia de La Momia viaja a Asia cuando los O'Connell deben combatir al resucitado emperador Han y su legión de 10.000 guerreros.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/W034dd7w2malON26KWyZm4y37W.jpg" />
+  </programme>
+  <programme start="20261128172600 -0500" stop="20261128193300 -0500" air_time_start="20261128172600 -0500" air_time_end="20261128193300 -0500" start_utc="20261128222600 +0000" stop_utc="20261129003300 +0000" air_time_start_utc="20261128222600 +0000" air_time_end_utc="20261129003300 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">LA MOMIA: LA TUMBA DEL EMPERADOR DRAGÓN</title>
+    <sub-title lang="es">THE MUMMY: TOMB OF THE DRAGON EMPEROR</sub-title>
+    <desc lang="es">La franquicia de La Momia viaja a Asia cuando los O'Connell deben combatir al resucitado emperador Han y su legión de 10.000 guerreros.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/W034dd7w2malON26KWyZm4y37W.jpg" />
+  </programme>
+  <programme start="20261128181400 -0600" stop="20261128201200 -0600" air_time_start="20261128181400 -0600" air_time_end="20261128201200 -0600" start_utc="20261129001400 +0000" stop_utc="20261129021200 +0000" air_time_start_utc="20261129001400 +0000" air_time_end_utc="20261129021200 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">LA MOMIA: LA TUMBA DEL EMPERADOR DRAGÓN</title>
+    <sub-title lang="es">THE MUMMY: TOMB OF THE DRAGON EMPEROR</sub-title>
+    <desc lang="es">La franquicia de La Momia viaja a Asia cuando los O'Connell deben combatir al resucitado emperador Han y su legión de 10.000 guerreros.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Fantasía</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/W034dd7w2malON26KWyZm4y37W.jpg" />
+  </programme>
+  <programme start="20261128183000 -0300" stop="20261128203900 -0300" air_time_start="20261128183000 -0300" air_time_end="20261128203900 -0300" start_utc="20261128213000 +0000" stop_utc="20261128233900 +0000" air_time_start_utc="20261128213000 +0000" air_time_end_utc="20261128233900 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">TORNADO</title>
+    <desc lang="es">Dos grupos de científicos juegan una carrera para cazar tornados en Oklahoma, en un intento por probar un nuevo sistema de sensores que una que vez estos entran en el ojo del tornado detectan la velocidad y el rumbo que el viento toma. Hellen Hunt encabeza uno de los equipos pero tambien demuestra a su ex-esposo, (con quien apenas tramita el divorcio), que lo ama a  él y a su trabajo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/5oCAo7LFj2x0yByfi5JYirGnK8I.jpg" />
+  </programme>
+  <programme start="20261128183900 -0300" stop="20261128201100 -0300" air_time_start="20261128183900 -0300" air_time_end="20261128201100 -0300" start_utc="20261128213900 +0000" stop_utc="20261128231100 +0000" air_time_start_utc="20261128213900 +0000" air_time_end_utc="20261128231100 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">SHREK PARA SEMPRE</title>
+    <sub-title lang="pt">Shrek Forever After</sub-title>
+    <desc lang="pt">Agora Shrek é um pai de família| casado com Fiona e com três filhos| ele tem uma vida pacata. Shrek sente falta da adrenalina e da liberdade que tinha antes| para recuperar| ele faz um acordo com Rumpelstiltskin. Após o acordo| ele é levado a uma versão alternativa do Reino Tão| Tão Distante.</desc>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Comédia</category>
+    <category lang="pt">Família</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/uzzTystB8lL0mRDII5Sfs5HxgkI.jpg" />
+  </programme>
+  <programme start="20261128193300 -0500" stop="20261128220000 -0500" air_time_start="20261128193300 -0500" air_time_end="20261128220000 -0500" start_utc="20261129003300 +0000" stop_utc="20261129030000 +0000" air_time_start_utc="20261129003300 +0000" air_time_end_utc="20261129030000 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">TORNADO</title>
+    <desc lang="es">Dos grupos de científicos juegan una carrera para cazar tornados en Oklahoma, en un intento por probar un nuevo sistema de sensores que una que vez estos entran en el ojo del tornado detectan la velocidad y el rumbo que el viento toma. Hellen Hunt encabeza uno de los equipos pero tambien demuestra a su ex-esposo, (con quien apenas tramita el divorcio), que lo ama a  él y a su trabajo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/5oCAo7LFj2x0yByfi5JYirGnK8I.jpg" />
+  </programme>
+  <programme start="20261128193600 -0500" stop="20261128220000 -0500" air_time_start="20261128193600 -0500" air_time_end="20261128220000 -0500" start_utc="20261129003600 +0000" stop_utc="20261129030000 +0000" air_time_start_utc="20261129003600 +0000" air_time_end_utc="20261129030000 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">EL PROTECTOR</title>
+    <sub-title lang="es">MARKSMAN, THE</sub-title>
+    <desc lang="es">Jim (Liam Neeson) es un ranchero de Arizona que se envuelve en una peligrosa batalla para proteger a un niño mexicano de un cartel.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/b2NxliGN77rdu78HQv5peZBmkw4.jpg" />
+  </programme>
+  <programme start="20261128193700 -0400" stop="20261128220000 -0400" air_time_start="20261128193700 -0400" air_time_end="20261128220000 -0400" start_utc="20261128233700 +0000" stop_utc="20261129020000 +0000" air_time_start_utc="20261128233700 +0000" air_time_end_utc="20261129020000 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">TORNADO</title>
+    <desc lang="es">Dos grupos de científicos juegan una carrera para cazar tornados en Oklahoma, en un intento por probar un nuevo sistema de sensores que una que vez estos entran en el ojo del tornado detectan la velocidad y el rumbo que el viento toma. Hellen Hunt encabeza uno de los equipos pero tambien demuestra a su ex-esposo, (con quien apenas tramita el divorcio), que lo ama a  él y a su trabajo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/5oCAo7LFj2x0yByfi5JYirGnK8I.jpg" />
+  </programme>
+  <programme start="20261128201100 -0300" stop="20261128220000 -0300" air_time_start="20261128201100 -0300" air_time_end="20261128220000 -0300" start_utc="20261128231100 +0000" stop_utc="20261129010000 +0000" air_time_start_utc="20261128231100 +0000" air_time_end_utc="20261129010000 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">A Múmia: Tumba do Imperador Dragão</title>
+    <sub-title lang="pt">The Mummy: Tomb of the Dragon Emperor</sub-title>
+    <desc lang="pt">Brendan Fraser e John Hannah unem forças com Jet Li e Michelle Yeoh para mudar a ação da franquia A Múmia para a Ásia quando os O'Connells devem combater o ressuscitado imperador Han e sua legião de 10.000 guerreiros em uma épica jornada do gelado Himalaia às catacumbas da China antiga.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Fantasia</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/W034dd7w2malON26KWyZm4y37W.jpg" />
+  </programme>
+  <programme start="20261128201200 -0600" stop="20261128221900 -0600" air_time_start="20261128201200 -0600" air_time_end="20261128221900 -0600" start_utc="20261129021200 +0000" stop_utc="20261129041900 +0000" air_time_start_utc="20261129021200 +0000" air_time_end_utc="20261129041900 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">TORNADO</title>
+    <desc lang="es">Dos grupos de científicos juegan una carrera para cazar tornados en Oklahoma, en un intento por probar un nuevo sistema de sensores que una que vez estos entran en el ojo del tornado detectan la velocidad y el rumbo que el viento toma. Hellen Hunt encabeza uno de los equipos pero tambien demuestra a su ex-esposo, (con quien apenas tramita el divorcio), que lo ama a  él y a su trabajo.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/5oCAo7LFj2x0yByfi5JYirGnK8I.jpg" />
+  </programme>
+  <programme start="20261128203900 -0300" stop="20261128220000 -0300" air_time_start="20261128203900 -0300" air_time_end="20261128220000 -0300" start_utc="20261128233900 +0000" stop_utc="20261129010000 +0000" air_time_start_utc="20261128233900 +0000" air_time_end_utc="20261129010000 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">MASTERCHEF JUNIOR</title>
+    <desc lang="es">MasterChef Junior regresa con una nueva edición conducida por Verónica Lozano. Doce chicos y chicas de entre 8 y 13 años pondrán a prueba su talento culinario en una competencia llena de desafíos, creatividad y aprendizaje, bajo la mirada del jurado integrado por Germán Martitegui, Maru Botana e Ian Lucas.</desc>
+    <category lang="es">Animación</category>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+  </programme>
+  <programme start="20261128220000 -0300" stop="20261128235900 -0300" air_time_start="20261128220000 -0300" air_time_end="20261128235900 -0300" start_utc="20261129010000 +0000" stop_utc="20261129025900 +0000" air_time_start_utc="20261129010000 +0000" air_time_end_utc="20261129025900 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">E.T. - O EXTRA TERRESTRE</title>
+    <sub-title lang="pt">E.T. The Extra-Terrestrial</sub-title>
+    <desc lang="pt">Um grupo de extraterrestres botânicos visita a Terra. Por acidente, um deles fica para trás e aparece na casa Elliot, um garoto de 10 anos. Elliot adota o alienígena como amigo e acaba contando seu segredo para o irmão mais velho, Michael, e a irmã mais nova, Gertie.</desc>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Ficção Científica</category>
+    <category lang="pt">Família</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg" />
+  </programme>
+  <programme start="20261128220000 -0300" stop="20261129000800 -0300" air_time_start="20261128220000 -0300" air_time_end="20261129000800 -0300" start_utc="20261129010000 +0000" stop_utc="20261129030800 +0000" air_time_start_utc="20261129010000 +0000" air_time_end_utc="20261129030800 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">E.T., EL EXTRATERRESTRE</title>
+    <sub-title lang="es">E.T. THE EXTRA-TERRESTRIAL</sub-title>
+    <desc lang="es">Un grupo de extraterrestres hace una visita a la tierra. Pero por error queda uno de ello, E.T., que se dirige al hogar de Elliot un niño de diez años que es el hijo del medio en su casa. Elliot adopta al alienígena como su amigo, eventualmente le cuenta su secreto a su hermano mayor Michael y a su hermana pequeña Gertie.</desc>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Familiar</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg" />
+  </programme>
+  <programme start="20261128220000 -0400" stop="20261129002600 -0400" air_time_start="20261128220000 -0400" air_time_end="20261129002600 -0400" start_utc="20261129020000 +0000" stop_utc="20261129042600 +0000" air_time_start_utc="20261129020000 +0000" air_time_end_utc="20261129042600 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">E.T., EL EXTRATERRESTRE</title>
+    <sub-title lang="es">E.T. THE EXTRA-TERRESTRIAL</sub-title>
+    <desc lang="es">Un grupo de extraterrestres hace una visita a la tierra. Pero por error queda uno de ello, E.T., que se dirige al hogar de Elliot un niño de diez años que es el hijo del medio en su casa. Elliot adopta al alienígena como su amigo, eventualmente le cuenta su secreto a su hermano mayor Michael y a su hermana pequeña Gertie.</desc>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Familiar</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg" />
+  </programme>
+  <programme start="20261128220000 -0500" stop="20261129002000 -0500" air_time_start="20261128220000 -0500" air_time_end="20261129002000 -0500" start_utc="20261129030000 +0000" stop_utc="20261129052000 +0000" air_time_start_utc="20261129030000 +0000" air_time_end_utc="20261129052000 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">E.T., EL EXTRATERRESTRE</title>
+    <sub-title lang="es">E.T. THE EXTRA-TERRESTRIAL</sub-title>
+    <desc lang="es">Un grupo de extraterrestres hace una visita a la tierra. Pero por error queda uno de ello, E.T., que se dirige al hogar de Elliot un niño de diez años que es el hijo del medio en su casa. Elliot adopta al alienígena como su amigo, eventualmente le cuenta su secreto a su hermano mayor Michael y a su hermana pequeña Gertie.</desc>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Familiar</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg" />
+  </programme>
+  <programme start="20261128220000 -0500" stop="20261129001900 -0500" air_time_start="20261128220000 -0500" air_time_end="20261129001900 -0500" start_utc="20261129030000 +0000" stop_utc="20261129051900 +0000" air_time_start_utc="20261129030000 +0000" air_time_end_utc="20261129051900 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">E.T., EL EXTRATERRESTRE</title>
+    <sub-title lang="es">E.T. THE EXTRA-TERRESTRIAL</sub-title>
+    <desc lang="es">Un grupo de extraterrestres hace una visita a la tierra. Pero por error queda uno de ello, E.T., que se dirige al hogar de Elliot un niño de diez años que es el hijo del medio en su casa. Elliot adopta al alienígena como su amigo, eventualmente le cuenta su secreto a su hermano mayor Michael y a su hermana pequeña Gertie.</desc>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Familiar</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg" />
+  </programme>
+  <programme start="20261128221900 -0600" stop="20261129003000 -0600" air_time_start="20261128221900 -0600" air_time_end="20261129003000 -0600" start_utc="20261129041900 +0000" stop_utc="20261129063000 +0000" air_time_start_utc="20261129041900 +0000" air_time_end_utc="20261129063000 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">E.T., EL EXTRATERRESTRE</title>
+    <sub-title lang="es">E.T. THE EXTRA-TERRESTRIAL</sub-title>
+    <desc lang="es">Un grupo de extraterrestres hace una visita a la tierra. Pero por error queda uno de ello, E.T., que se dirige al hogar de Elliot un niño de diez años que es el hijo del medio en su casa. Elliot adopta al alienígena como su amigo, eventualmente le cuenta su secreto a su hermano mayor Michael y a su hermana pequeña Gertie.</desc>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Familiar</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg" />
+  </programme>
+  <programme start="20261128235900 -0300" stop="20261129015800 -0300" air_time_start="20261128235900 -0300" air_time_end="20261129015800 -0300" start_utc="20261129025900 +0000" stop_utc="20261129045800 +0000" air_time_start_utc="20261129025900 +0000" air_time_end_utc="20261129045800 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TWISTER</title>
+    <desc lang="pt">O início da temporada de ventos fortes é esperada por Jo e sua equipe de caça-tornados, que pretendem testar dispositivo que pode mostrar a origem das tempestades. Mas ela tem que resolver seus problemas sentimentais com o marido Bill e vencer a competição com grupo de cientistas rivais.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/5oCAo7LFj2x0yByfi5JYirGnK8I.jpg" />
+  </programme>
+  <programme start="20261129000800 -0300" stop="20261129020800 -0300" air_time_start="20261129000800 -0300" air_time_end="20261129020800 -0300" start_utc="20261129030800 +0000" stop_utc="20261129050800 +0000" air_time_start_utc="20261129030800 +0000" air_time_end_utc="20261129050800 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">TERREMOTO: LA FALLA DE SAN ANDRÉS</title>
+    <sub-title lang="es">SAN ANDREAS</sub-title>
+    <desc lang="es">Raymond Gaines fue piloto de helicópteros en Afganistán y hoy es piloto de rescate para el Departamento de Bomberos de Los Ángeles. Está en pleno divorcio de su mujer Emma y su hija Blake está por empezar la universidad en San Francisco. Un investigador se da cuenta de que la falla de San Andrés se está moviendo, y que esto dará lugar a un enorme terremoto en Los Ángeles y San Francisco. Ray deberá rescatar a las víctimas y a su propia familia.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/zcySy6dnSmyqiichtDgO7AEeZoq.jpg" />
+  </programme>
+  <programme start="20261129001900 -0500" stop="20261129021500 -0500" air_time_start="20261129001900 -0500" air_time_end="20261129021500 -0500" start_utc="20261129051900 +0000" stop_utc="20261129071500 +0000" air_time_start_utc="20261129051900 +0000" air_time_end_utc="20261129071500 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">TERREMOTO: LA FALLA DE SAN ANDRÉS</title>
+    <sub-title lang="es">SAN ANDREAS</sub-title>
+    <desc lang="es">Raymond Gaines fue piloto de helicópteros en Afganistán y hoy es piloto de rescate para el Departamento de Bomberos de Los Ángeles. Está en pleno divorcio de su mujer Emma y su hija Blake está por empezar la universidad en San Francisco. Un investigador se da cuenta de que la falla de San Andrés se está moviendo, y que esto dará lugar a un enorme terremoto en Los Ángeles y San Francisco. Ray deberá rescatar a las víctimas y a su propia familia.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/zcySy6dnSmyqiichtDgO7AEeZoq.jpg" />
+  </programme>
+  <programme start="20261129002000 -0500" stop="20261129021600 -0500" air_time_start="20261129002000 -0500" air_time_end="20261129021600 -0500" start_utc="20261129052000 +0000" stop_utc="20261129071600 +0000" air_time_start_utc="20261129052000 +0000" air_time_end_utc="20261129071600 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">TERREMOTO: LA FALLA DE SAN ANDRÉS</title>
+    <sub-title lang="es">SAN ANDREAS</sub-title>
+    <desc lang="es">Raymond Gaines fue piloto de helicópteros en Afganistán y hoy es piloto de rescate para el Departamento de Bomberos de Los Ángeles. Está en pleno divorcio de su mujer Emma y su hija Blake está por empezar la universidad en San Francisco. Un investigador se da cuenta de que la falla de San Andrés se está moviendo, y que esto dará lugar a un enorme terremoto en Los Ángeles y San Francisco. Ray deberá rescatar a las víctimas y a su propia familia.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/zcySy6dnSmyqiichtDgO7AEeZoq.jpg" />
+  </programme>
+  <programme start="20261129002600 -0400" stop="20261129022800 -0400" air_time_start="20261129002600 -0400" air_time_end="20261129022800 -0400" start_utc="20261129042600 +0000" stop_utc="20261129062800 +0000" air_time_start_utc="20261129042600 +0000" air_time_end_utc="20261129062800 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">TERREMOTO: LA FALLA DE SAN ANDRÉS</title>
+    <sub-title lang="es">SAN ANDREAS</sub-title>
+    <desc lang="es">Raymond Gaines fue piloto de helicópteros en Afganistán y hoy es piloto de rescate para el Departamento de Bomberos de Los Ángeles. Está en pleno divorcio de su mujer Emma y su hija Blake está por empezar la universidad en San Francisco. Un investigador se da cuenta de que la falla de San Andrés se está moviendo, y que esto dará lugar a un enorme terremoto en Los Ángeles y San Francisco. Ray deberá rescatar a las víctimas y a su propia familia.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/zcySy6dnSmyqiichtDgO7AEeZoq.jpg" />
+  </programme>
+  <programme start="20261129003000 -0600" stop="20261129023000 -0600" air_time_start="20261129003000 -0600" air_time_end="20261129023000 -0600" start_utc="20261129063000 +0000" stop_utc="20261129083000 +0000" air_time_start_utc="20261129063000 +0000" air_time_end_utc="20261129083000 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">TERREMOTO: LA FALLA DE SAN ANDRÉS</title>
+    <sub-title lang="es">SAN ANDREAS</sub-title>
+    <desc lang="es">Raymond Gaines fue piloto de helicópteros en Afganistán y hoy es piloto de rescate para el Departamento de Bomberos de Los Ángeles. Está en pleno divorcio de su mujer Emma y su hija Blake está por empezar la universidad en San Francisco. Un investigador se da cuenta de que la falla de San Andrés se está moviendo, y que esto dará lugar a un enorme terremoto en Los Ángeles y San Francisco. Ray deberá rescatar a las víctimas y a su propia familia.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventuras</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/zcySy6dnSmyqiichtDgO7AEeZoq.jpg" />
+  </programme>
+  <programme start="20261129015800 -0300" stop="20261129034600 -0300" air_time_start="20261129015800 -0300" air_time_end="20261129034600 -0300" start_utc="20261129045800 +0000" stop_utc="20261129064600 +0000" air_time_start_utc="20261129045800 +0000" air_time_end_utc="20261129064600 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">TERREMOTO: A FALHA DE SAN ANDREAS</title>
+    <sub-title lang="pt">San Andreas</sub-title>
+    <desc lang="pt">Raymond Gaines é piloto do Departamento de Resgate e Segurança de Los Angeles e está enfrentando um divórcio complicado de sua esposa, Emma. Para amenizar a tristeza do momento, ele planeja uma viagem divertida a San Francisco com sua filha, a jovem Blake. No entanto, um terrível terremoto acontece aos arredores da Califórnia e Ray é chamado de volta ao trabalho, adiando as férias planejadas com a garota. Pouco tempo depois, ele descobre que sua filha seguiu em viagem com o padrasto, Daniel Riddick, e que isso poderá colocar a vida de todos em risco. Com a ajuda de seus colegas de profissão, Ray precisará enfrentar todos os perigos de uma cidade em caos para resgatar sua família de uma tragédia maior.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Suspense</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/zcySy6dnSmyqiichtDgO7AEeZoq.jpg" />
+  </programme>
+  <programme start="20261129020800 -0300" stop="20261129040900 -0300" air_time_start="20261129020800 -0300" air_time_end="20261129040900 -0300" start_utc="20261129050800 +0000" stop_utc="20261129070900 +0000" air_time_start_utc="20261129050800 +0000" air_time_end_utc="20261129070900 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">Bad Boys Para Siempre</title>
+    <sub-title lang="es">Bad Boys for Life</sub-title>
+    <desc lang="es">Los detectives Mike Lowrey (el nominado al Óscar® Will Smith) y Marcus Burnett (Martin Lawrence) regresan para otro rodeo por las calles de Miami. Recién incorporados al nuevo equipo de élite de la policía, esta vez se lanzan a una caza explosiva para detener a Isabel y Armando Aretas (Kate del Castillo y Jacob Scipio), madre e hijo líderes de un brutal cartel de drogas.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Crimen</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg" />
+  </programme>
+  <programme start="20261129021500 -0500" stop="20261129042100 -0500" air_time_start="20261129021500 -0500" air_time_end="20261129042100 -0500" start_utc="20261129071500 +0000" stop_utc="20261129092100 +0000" air_time_start_utc="20261129071500 +0000" air_time_end_utc="20261129092100 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">Bad Boys Para Siempre</title>
+    <sub-title lang="es">Bad Boys for Life</sub-title>
+    <desc lang="es">Los detectives Mike Lowrey (el nominado al Óscar® Will Smith) y Marcus Burnett (Martin Lawrence) regresan para otro rodeo por las calles de Miami. Recién incorporados al nuevo equipo de élite de la policía, esta vez se lanzan a una caza explosiva para detener a Isabel y Armando Aretas (Kate del Castillo y Jacob Scipio), madre e hijo líderes de un brutal cartel de drogas.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Crimen</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg" />
+  </programme>
+  <programme start="20261129021600 -0500" stop="20261129041900 -0500" air_time_start="20261129021600 -0500" air_time_end="20261129041900 -0500" start_utc="20261129071600 +0000" stop_utc="20261129091900 +0000" air_time_start_utc="20261129071600 +0000" air_time_end_utc="20261129091900 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">Bad Boys Para Siempre</title>
+    <sub-title lang="es">Bad Boys for Life</sub-title>
+    <desc lang="es">Los detectives Mike Lowrey (el nominado al Óscar® Will Smith) y Marcus Burnett (Martin Lawrence) regresan para otro rodeo por las calles de Miami. Recién incorporados al nuevo equipo de élite de la policía, esta vez se lanzan a una caza explosiva para detener a Isabel y Armando Aretas (Kate del Castillo y Jacob Scipio), madre e hijo líderes de un brutal cartel de drogas.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Crimen</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg" />
+  </programme>
+  <programme start="20261129022800 -0400" stop="20261129043700 -0400" air_time_start="20261129022800 -0400" air_time_end="20261129043700 -0400" start_utc="20261129062800 +0000" stop_utc="20261129083700 +0000" air_time_start_utc="20261129062800 +0000" air_time_end_utc="20261129083700 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">Bad Boys Para Siempre</title>
+    <sub-title lang="es">Bad Boys for Life</sub-title>
+    <desc lang="es">Los detectives Mike Lowrey (el nominado al Óscar® Will Smith) y Marcus Burnett (Martin Lawrence) regresan para otro rodeo por las calles de Miami. Recién incorporados al nuevo equipo de élite de la policía, esta vez se lanzan a una caza explosiva para detener a Isabel y Armando Aretas (Kate del Castillo y Jacob Scipio), madre e hijo líderes de un brutal cartel de drogas.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Crimen</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg" />
+  </programme>
+  <programme start="20261129023000 -0600" stop="20261129043600 -0600" air_time_start="20261129023000 -0600" air_time_end="20261129043600 -0600" start_utc="20261129083000 +0000" stop_utc="20261129103600 +0000" air_time_start_utc="20261129083000 +0000" air_time_end_utc="20261129103600 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">Bad Boys Para Siempre</title>
+    <sub-title lang="es">Bad Boys for Life</sub-title>
+    <desc lang="es">Los detectives Mike Lowrey (el nominado al Óscar® Will Smith) y Marcus Burnett (Martin Lawrence) regresan para otro rodeo por las calles de Miami. Recién incorporados al nuevo equipo de élite de la policía, esta vez se lanzan a una caza explosiva para detener a Isabel y Armando Aretas (Kate del Castillo y Jacob Scipio), madre e hijo líderes de un brutal cartel de drogas.</desc>
+    <category lang="es">Acción</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Crimen</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg" />
+  </programme>
+  <programme start="20261129034600 -0300" stop="20261129054500 -0300" air_time_start="20261129034600 -0300" air_time_end="20261129054500 -0300" start_utc="20261129064600 +0000" stop_utc="20261129084500 +0000" air_time_start_utc="20261129064600 +0000" air_time_end_utc="20261129084500 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">Bad Boys para Sempre</title>
+    <sub-title lang="pt">Bad Boys for Life</sub-title>
+    <desc lang="pt">Os detetives Mike Lowrey (o indicado ao Oscar® Will Smith) e Marcus Burnett (Martin Lawrence) retornam para mais uma volta pelas ruas de Miami. Recém-ingressados na nova equipe de elite da polícia, desta vez eles saem em uma explosiva caçada para deter Isabel e Armando Aretas (Kate del Castillo e Jacob Scipio), mãe e filho líderes de um brutal cartel de drogas.</desc>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Comédia</category>
+    <category lang="pt">Crime</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg" />
+  </programme>
+  <programme start="20261129040900 -0300" stop="20261129054900 -0300" air_time_start="20261129040900 -0300" air_time_end="20261129054900 -0300" start_utc="20261129070900 +0000" stop_utc="20261129084900 +0000" air_time_start_utc="20261129070900 +0000" air_time_end_utc="20261129084900 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">UNA PÉRDIDA ACEPTABLE</title>
+    <desc lang="es">Libby Lamm es una antigua asesora de seguridad nacional que, mientras trabajaba con Rachel Burke, una veterana política implacable y de voluntad firme, firmó una polémica acción militar que supuestamente iba a poner fin a la guerra contra el terrorismo. El problema: miles murieron bajo falsas pretensiones. Perseguida por su pasado, Libby se propone decir la verdad, arriesgando la traición y su propia vida, para exponer un encubrimiento que se extiende hasta los niveles más altos del gobierno.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/4ybPbVWqRrNMNORGDLcSp0M5xGa.jpg" />
+  </programme>
+  <programme start="20261129041900 -0500" stop="20261129060000 -0500" air_time_start="20261129041900 -0500" air_time_end="20261129060000 -0500" start_utc="20261129091900 +0000" stop_utc="20261129110000 +0000" air_time_start_utc="20261129091900 +0000" air_time_end_utc="20261129110000 +0000" is_live="false" channel="TNT_CO.co">
+    <title lang="es">UNA PÉRDIDA ACEPTABLE</title>
+    <desc lang="es">Libby Lamm es una antigua asesora de seguridad nacional que, mientras trabajaba con Rachel Burke, una veterana política implacable y de voluntad firme, firmó una polémica acción militar que supuestamente iba a poner fin a la guerra contra el terrorismo. El problema: miles murieron bajo falsas pretensiones. Perseguida por su pasado, Libby se propone decir la verdad, arriesgando la traición y su propia vida, para exponer un encubrimiento que se extiende hasta los niveles más altos del gobierno.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/4ybPbVWqRrNMNORGDLcSp0M5xGa.jpg" />
+  </programme>
+  <programme start="20261129042100 -0500" stop="20261129060000 -0500" air_time_start="20261129042100 -0500" air_time_end="20261129060000 -0500" start_utc="20261129092100 +0000" stop_utc="20261129110000 +0000" air_time_start_utc="20261129092100 +0000" air_time_end_utc="20261129110000 +0000" is_live="false" channel="TNT_PAN.co">
+    <title lang="es">UNA PÉRDIDA ACEPTABLE</title>
+    <desc lang="es">Libby Lamm es una antigua asesora de seguridad nacional que, mientras trabajaba con Rachel Burke, una veterana política implacable y de voluntad firme, firmó una polémica acción militar que supuestamente iba a poner fin a la guerra contra el terrorismo. El problema: miles murieron bajo falsas pretensiones. Perseguida por su pasado, Libby se propone decir la verdad, arriesgando la traición y su propia vida, para exponer un encubrimiento que se extiende hasta los niveles más altos del gobierno.</desc>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://media.themoviedb.org/t/p/w500/4ybPbVWqRrNMNORGDLcSp0M5xGa.jpg" />
+  </programme>
+  <programme start="20261129043600 -0600" stop="20261129051100 -0600" air_time_start="20261129043600 -0600" air_time_end="20261129051100 -0600" start_utc="20261129103600 +0000" stop_utc="20261129111100 +0000" air_time_start_utc="20261129103600 +0000" air_time_end_utc="20261129111100 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">.17.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/smcIgOTLVAEmHtM3gI2hamM3Ezi.jpg" />
+  </programme>
+  <programme start="20261129043700 -0400" stop="20261129051400 -0400" air_time_start="20261129043700 -0400" air_time_end="20261129051400 -0400" start_utc="20261129083700 +0000" stop_utc="20261129091400 +0000" air_time_start_utc="20261129083700 +0000" air_time_end_utc="20261129091400 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">.20.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/smcIgOTLVAEmHtM3gI2hamM3Ezi.jpg" />
+  </programme>
+  <programme start="20261129051100 -0600" stop="20261129054900 -0600" air_time_start="20261129051100 -0600" air_time_end="20261129054900 -0600" start_utc="20261129111100 +0000" stop_utc="20261129114900 +0000" air_time_start_utc="20261129111100 +0000" air_time_end_utc="20261129114900 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">.18.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/smcIgOTLVAEmHtM3gI2hamM3Ezi.jpg" />
+  </programme>
+  <programme start="20261129051400 -0400" stop="20261129054900 -0400" air_time_start="20261129051400 -0400" air_time_end="20261129054900 -0400" start_utc="20261129091400 +0000" stop_utc="20261129094900 +0000" air_time_start_utc="20261129091400 +0000" air_time_end_utc="20261129094900 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE 2026</title>
+    <sub-title lang="es">HOLLYWOOD ONE ON ONE</sub-title>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="xmltv_ns">.18.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/smcIgOTLVAEmHtM3gI2hamM3Ezi.jpg" />
+  </programme>
+  <programme start="20261129054500 -0300" stop="20261129060000 -0300" air_time_start="20261129054500 -0300" air_time_end="20261129060000 -0300" start_utc="20261129084500 +0000" stop_utc="20261129090000 +0000" air_time_start_utc="20261129084500 +0000" air_time_end_utc="20261129090000 +0000" is_live="false" channel="TNT_BR.br">
+    <title lang="pt">HOLLYWOOD ONE ON ONE</title>
+    <category lang="pt">Talk Show</category>
+    <category lang="pt">Notícias De Entretenimento</category>
+    <episode-num system="xmltv_ns">.57.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/smcIgOTLVAEmHtM3gI2hamM3Ezi.jpg" />
+  </programme>
+  <programme start="20261129054900 -0300" stop="20261129060000 -0300" air_time_start="20261129054900 -0300" air_time_end="20261129060000 -0300" start_utc="20261129084900 +0000" stop_utc="20261129090000 +0000" air_time_start_utc="20261129084900 +0000" air_time_end_utc="20261129090000 +0000" is_live="false" channel="TNT_AR.ar">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">.61.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/smcIgOTLVAEmHtM3gI2hamM3Ezi.jpg" />
+  </programme>
+  <programme start="20261129054900 -0400" stop="20261129060000 -0400" air_time_start="20261129054900 -0400" air_time_end="20261129060000 -0400" start_utc="20261129094900 +0000" stop_utc="20261129100000 +0000" air_time_start_utc="20261129094900 +0000" air_time_end_utc="20261129100000 +0000" is_live="false" channel="TNT_CL.cl">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">.59.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/smcIgOTLVAEmHtM3gI2hamM3Ezi.jpg" />
+  </programme>
+  <programme start="20261129054900 -0600" stop="20261129060000 -0600" air_time_start="20261129054900 -0600" air_time_end="20261129060000 -0600" start_utc="20261129114900 +0000" stop_utc="20261129120000 +0000" air_time_start_utc="20261129114900 +0000" air_time_end_utc="20261129120000 +0000" is_live="false" channel="TNT_MX.mx">
+    <title lang="es">HOLLYWOOD ONE ON ONE</title>
+    <category lang="es">Entrevistas</category>
+    <category lang="es">Noticias De Entretenimiento</category>
+    <episode-num system="xmltv_ns">.52.</episode-num>
+    <icon src="https://media.themoviedb.org/t/p/w500/smcIgOTLVAEmHtM3gI2hamM3Ezi.jpg" />
   </programme>
 </tv>
